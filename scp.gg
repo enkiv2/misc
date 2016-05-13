@@ -1,0 +1,35 @@
+#!/usr/bin/env ggc
+
+intro:=Item #: $$itemnum \nObject Class: $$objectclass \nSpecial Containment Procedures: $procedures \nDescription: $desc \nAddendum: $addendum \nFootnotes: $footnotes \n
+digit:=0,1,2,3,4,5,6,7,8,9
+num:=$digit$digit$digit$digit$digit,$digit$digit$digit$digit$digit$digit
+itemnum:=SCP-$num
+objectPrimaryClass:=Safe,Euclid,Keter,Thaumiel
+objectSecondaryClass:=Neutralized,Explained
+objectclass:=$objectPrimaryClass,$objectPrimaryClass ({Presumed ,}{$objectSecondaryClass}),$objectSecondaryClass ($objectPrimaryClass)
+
+storageprocedure:={A single copy of ,}$$itemnum is to be {{kept,locked,hidden,enclosed,secured,stored} {with,}in} a {secure,transparent,locked,warded,lead-lined}{, {secure,transparent,locked,warded,lead-lined}} {room,cabinet,lockbox} in Room $digit$digit$digit in {{Sub-,}Basement $digit$digit of ,}{Research,Storage,Secure,Isolation} Facility-$digit{$digit}.
+accessprocedure:=No personnel may access $$itemnum{, without {prior authorization{, by a level-$digit{,$digit} {supervisor,manager}},level-$digit{,$digit} {authorization,access}}{, and {{prior,extensive} {para,}psychological screening{, by a licensed telepath},vaccination,anti-{Kether,Thaumiel}-class {warding,geass}}}}.,Access to $$itemnum is limited to {{male,female,{non-}virginal} ,}{level-$digit{,$digit}} personnel{, with {anti-{psi,Kether,gravity,interrogation} training,prior {psychological,telepathic} screening}}.
+disposalprocedure:=Any {rituals,eggs,eyes,effluvia,spines} {produced,emitted}{, discovered outside the {{secure,warded} ,}{containment,facility,area}} are to be {{quickly,immediately} ,}{destroyed,disposed of,neutralized}{, by any means necessary, using $itemnum}.
+crossprocedure:=If $$itemnum comes into contact with $itemnum\, {{immediately,quickly} ,}{isolate the area,flush with {warm,cold} {water,sulfuric acid,borosilicate},neutralize with $itemnum}.{, $disposalprocedure}
+
+itemAttribute:={metallic,{wood,stone}{,-like}},{porous,pitted,smooth,rough,soft,velvet},{heavy,light,dense},{dull,bright,pale,luminous,translucent,matte,glossy},{red,green,blue,grey,yellow,orange,pink,white,black,brown,tan},{solid,liquid,gaseous}
+homonidAttribute:={canid,lupoid,lapine,ungulate,hirsute,{uni,bi,tri,quadro,hexi,sexi,septi,octo,duodeca}pedal,$digit{,$digit{,$digit}} cm {tall,diameter}},$itemAttribute
+part:=ovipositor,extension,bevel,curve,leg,tail,spine,abdomen,eye,extrusion,knob,nodule,cusp,shadow,reflection
+attribute:=$itemAttribute{, $itemAttribute},$homonidAttribute{, $homonidAttribute}
+thing:={disc,pillar,column,pyramid,cube,prism,sphere},{doll,coin,pen,wallet,book,scroll,{video,audio} casette,{magnetic ,}tape reel,piece of foolscap,hamburger},{creature,insect,mammal,reptile,{,{coniferous,deciduous,fruiting} }{tree,bush},cactus}
+
+lname:=Ingram,Belmont,Anger,Phillips,Johnson,Lovelace,[REDACTED]
+fname:=Eldrich,John,Phillip,Howard,Lawrence,Mary,Sophia,Elizabeth,Erik,Simon,Palmer,Amy,Andrew,Kenneth
+salutation:=Mr.,Dr.,Sir,Professor,Mrs,Ms.,Master,Duke
+name:={$salutation ,}$fname $lname
+percentfootnote:={Approximately ,,,}$digit$digit% {+/-$digit% ,,}of {known ,}$attribute {$part}s are {$attribute}.
+cautionfootnote:=$storageprocedure,$accessprocedure,$disposalprocedure,$crossprocedure
+detailfootnote:=The {source,origin} of this artifact is {unknown,[REDACTED],anonymous,$name,the {arcology,excavation,{private ,}collection,museum} at {Nineveh,Miscatonic,Belize,Osaka,Dansk,Novograd,Easter Island,Scarfolk,Uruk,Gothenburg,Helsinki}}.
+footnote:=$percentfootnote{, $percentfootnote{, $percentfootnote}},$cautionfootnote,$detailfootnote
+
+footnotes:=\n1. $footnote{,\n2. $footnote{,\n3. $footnote{,\n4. $footnote{,\n5. $footnote}}}}
+procedures:=$storageprocedure $accessprocedure $disposalprocedure $crossprocedure
+desc:=$$itemnum is $attribute $attribute{, $attribute} $thing with $itemAttribute $part{, and $itemAttribute $part}.
+addendum:=
+
