@@ -99,7 +99,7 @@ jep={
     {
       "category": "MOVIE STARS OLD & NEW",
       "air_date": "2004-07-15",
-      "question": "'There was occasional talk of a comeback during <a href=\"http://www.j-archive.com/media/2004-07-15_DJ_05.jpg\" target=\"_blank\">her 49-year retirement from the screen'",
+      "question": "'There was occasional talk of a comeback during her 49-year retirement from the screen'",
       "value": "$1600",
       "answer": "Greta Garbo",
       "round": "Double Jeopardy!",
@@ -243,7 +243,7 @@ jep={
     {
       "category": "YELLOWSTONE NATIONAL PARK",
       "air_date": "2004-10-19",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2004-10-19_J_30.jpg\" target=\"_blank\">Sarah of the Clue Crew reads from Yellowstone National Park.)  This backbone of North America separating east- from west-flowing rivers cuts through the plateau of Yellowstone Park'",
+      "question": "'(Sarah of the Clue Crew reads from Yellowstone National Park.)  This backbone of North America separating east- from west-flowing rivers cuts through the plateau of Yellowstone Park'",
       "value": "$1000",
       "answer": "the continental divide",
       "round": "Jeopardy!",
@@ -315,7 +315,7 @@ jep={
     {
       "category": "YOUNG ACTORS",
       "air_date": "2007-10-10",
-      "question": "'<a href=\"http://www.j-archive.com/media/2007-10-10_DJ_06.jpg\" target=\"_blank\">She appeared in \"Santa Clause 3\" with brother Spencer before being nominated for an Oscar at age 10 in 2007'",
+      "question": "'She appeared in \"Santa Clause 3\" with brother Spencer before being nominated for an Oscar at age 10 in 2007'",
       "value": "$2000",
       "answer": "Abigail Breslin",
       "round": "Double Jeopardy!",
@@ -459,7 +459,7 @@ jep={
     {
       "category": "BODY LANGUAGE",
       "air_date": "2011-01-12",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2011-01-12_J_10.jpg\" target=\"_blank\">Jimmy of the Clue Crew stands in front of a diagram of a human skeleton) To attack where someone is most vulnerable is to go for one of these large veins <a href=\"http://www.j-archive.com/media/2011-01-12_J_10a.jpg\" target=\"_blank\">here or <a href=\"http://www.j-archive.com/media/2011-01-12_J_10b.jpg\" target=\"_blank\">here'",
+      "question": "'(Jimmy of the Clue Crew stands in front of a diagram of a human skeleton) To attack where someone is most vulnerable is to go for one of these large veins here or here'",
       "value": "$1000",
       "answer": "go for the jugular",
       "round": "Jeopardy!",
@@ -468,7 +468,7 @@ jep={
     {
       "category": "GEEK SQUAD",
       "air_date": "2008-06-11",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2008-06-11_J_30.jpg\" target=\"_blank\">A Geek indicates a computer port.) Today it's easy connecting devices by using USB; older computers use 2 types of ports, parallel & this one'",
+      "question": "'(A Geek indicates a computer port.) Today it's easy connecting devices by using USB; older computers use 2 types of ports, parallel & this one'",
       "value": "$1000",
       "answer": "serial",
       "round": "Jeopardy!",
@@ -639,7 +639,7 @@ jep={
     {
       "category": "A TOUR OF THE REAGAN LIBRARY",
       "air_date": "2003-05-13",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2003-05-13_J_28.jpg\" target=\"_blank\">Jimmy of the Clue Crew gives the clue.) In 1989 the Notre Dame football team presented Reagan with <a href=\"http://www.j-archive.com/media/2003-05-13_J_28a.jpg\" target=\"_blank\">this man's letter sweater'",
+      "question": "'(Jimmy of the Clue Crew gives the clue.) In 1989 the Notre Dame football team presented Reagan with this man's letter sweater'",
       "value": "$1000",
       "answer": "George Gipp",
       "round": "Jeopardy!",
@@ -711,7 +711,7 @@ jep={
     {
       "category": "SUPERHERO NAMES THROUGH PICTURES",
       "air_date": "2010-02-10",
-      "question": "'X marks the spot, man, when <a href=\"http://www.j-archive.com/media/2010-02-10_J_06.jpg\" target=\"_blank\">this guy opens his peeper'",
+      "question": "'X marks the spot, man, when this guy opens his peeper'",
       "value": "$200",
       "answer": "Cyclops",
       "round": "Jeopardy!",
@@ -981,7 +981,7 @@ jep={
     {
       "category": "MUSICAL COMPOSITIONS",
       "air_date": "2005-11-30",
-      "question": "'Mozart's \"Hunt\", heard <a href=\"http://www.j-archive.com/media/2005-11-30_DJ_02.mp3\">here, is this type of chamber piece'",
+      "question": "'Mozart's \"Hunt\", heard here, is this type of chamber piece'",
       "value": "$800",
       "answer": "a (string) quartet",
       "round": "Double Jeopardy!",
@@ -1269,7 +1269,7 @@ jep={
     {
       "category": "THE BIRD IS THE WORD",
       "air_date": "2005-01-10",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2005-01-10_J_30.jpg\" target=\"_blank\">Jimmy of the Clue Crew holds a pink disc.)  It's the general two-word term for a trap shooting target--live ones went out in the early 1900s'",
+      "question": "'(Jimmy of the Clue Crew holds a pink disc.)  It's the general two-word term for a trap shooting target--live ones went out in the early 1900s'",
       "value": "$1000",
       "answer": "a clay pigeon",
       "round": "Jeopardy!",
@@ -1467,7 +1467,7 @@ jep={
     {
       "category": "THE FOREST",
       "air_date": "2006-03-22",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2006-03-22_DJ_19.jpg\" target=\"_blank\">Sarah of the Clue Crew reads from the World Forestry Center in Oregon.)  The Douglas fir is found in Oregon's forest, referred to as this mature 2-word term, often defined as being <a href=\"http://www.j-archive.com/media/2006-03-22_DJ_19a.jpg\" target=\"_blank\">aged 150 to 200 years'",
+      "question": "'(Sarah of the Clue Crew reads from the World Forestry Center in Oregon.)  The Douglas fir is found in Oregon's forest, referred to as this mature 2-word term, often defined as being aged 150 to 200 years'",
       "value": "$2000",
       "answer": "old growth",
       "round": "Double Jeopardy!",
@@ -1719,7 +1719,7 @@ jep={
     {
       "category": "ART GAL-ERY",
       "air_date": "2007-11-12",
-      "question": "'The stag shown <a href=\"http://www.j-archive.com/media/2007-11-12_DJ_02.jpg\" target=\"_blank\">here is by <a href=\"http://www.j-archive.com/media/2007-11-12_DJ_02a.jpg\" target=\"_blank\">Rosa Bonheur, the first woman awarded the Grand Cross of this French medal'",
+      "question": "'The stag shown here is by Rosa Bonheur, the first woman awarded the Grand Cross of this French medal'",
       "value": "$2,000",
       "answer": "the Legion of Honor",
       "round": "Double Jeopardy!",
@@ -2187,7 +2187,7 @@ jep={
     {
       "category": "VIRTUAL MEDICINE",
       "air_date": "2007-11-12",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2007-11-12_J_08.jpg\">Sarah of the Clue Crew reads from the Carl J. Shapiro Simulation & Skills Center in Boston, MA.To ensure the passage of oxygen to the lungs, a tube is placed into this airway with care taken not to hit the esophagus behind it'",
+      "question": "'(Sarah of the Clue Crew reads from the Carl J. Shapiro Simulation & Skills Center in Boston, MA.To ensure the passage of oxygen to the lungs, a tube is placed into this airway with care taken not to hit the esophagus behind it'",
       "value": "$800",
       "answer": "the trachea",
       "round": "Jeopardy!",
@@ -2268,7 +2268,7 @@ jep={
     {
       "category": "DREW BARRYMORE LOVES MUSIC",
       "air_date": "2007-12-07",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2007-12-07_J_28.jpg\" target=\"_blank\">Drew Barrymore gives the clue once more.) The ever-popular \"Evergreen\" has lyrics by Paul Williams & music by this singer who introduced it in \"A Star Is Born\"'",
+      "question": "'(Drew Barrymore gives the clue once more.) The ever-popular \"Evergreen\" has lyrics by Paul Williams & music by this singer who introduced it in \"A Star Is Born\"'",
       "value": "$600",
       "answer": "Barbra Streisand",
       "round": "Jeopardy!",
@@ -2493,7 +2493,7 @@ jep={
     {
       "category": "GREAT COMEBACKS WITH DAN PATRICK",
       "air_date": "2011-11-30",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2011-11-30_J_27.jpg\" target=\"_blank\">Dan Patrick reads the clue from his studio.)  A year after hitting .406, <a href=\"http://www.j-archive.com/media/2011-11-30_J_27a.jpg\" target=\"_blank\">this Red Sox legend left to be a fighter pilot in WWII, came back, won the Triple Crown, left to fight in the Korean War, came back & was an All-Star'",
+      "question": "'(Dan Patrick reads the clue from his studio.)  A year after hitting .406, this Red Sox legend left to be a fighter pilot in WWII, came back, won the Triple Crown, left to fight in the Korean War, came back & was an All-Star'",
       "value": "$400",
       "answer": "Ted Williams",
       "round": "Jeopardy!",
@@ -2637,7 +2637,7 @@ jep={
     {
       "category": "POP MUSIC",
       "air_date": "2002-05-09",
-      "question": "''70s classic heard <a href=\"http://www.j-archive.com/media/2002-05-09_J_02.mp3\">here'",
+      "question": "''70s classic heard here'",
       "value": "$400",
       "answer": "\"Walk On The Wild Side\"",
       "round": "Jeopardy!",
@@ -2682,7 +2682,7 @@ jep={
     {
       "category": "SPANS",
       "air_date": "2000-01-21",
-      "question": "'Unlike many London sites, this bridge seen <a href=\"http://www.j-archive.com/media/2000-01-21_DJ_02.jpg\" target=\"_blank\">here is only about a century old:'",
+      "question": "'Unlike many London sites, this bridge seen here is only about a century old:'",
       "value": "$400",
       "answer": "Tower Bridge",
       "round": "Double Jeopardy!",
@@ -2745,7 +2745,7 @@ jep={
     {
       "category": "A BUNCH OF STUFF",
       "air_date": "2008-06-19",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2008-06-19_J_17.jpg\" target=\"_blank\">Jimmy of the Clue Crew performs a science experiment.) Milk is a colloid, meaning a liquid with solid particles spread throughout; using vinegar, you can <a href=\"http://www.j-archive.com/media/2008-06-19_J_17a.jpg\" target=\"_blank\">separate the solids, called curd, from the liquid, which is called this'",
+      "question": "'(Jimmy of the Clue Crew performs a science experiment.) Milk is a colloid, meaning a liquid with solid particles spread throughout; using vinegar, you can separate the solids, called curd, from the liquid, which is called this'",
       "value": "$400",
       "answer": "whey",
       "round": "Jeopardy!",
@@ -3348,7 +3348,7 @@ jep={
     {
       "category": "I THINK I LOVE SHOE",
       "air_date": "2011-12-29",
-      "question": "'Have a unique fashion sense?  Into rubber sole? Then the shoe seen <a href=\"http://www.j-archive.com/media/2011-12-29_J_09.jpg\" target=\"_blank\">here, used in this sport, is for you'",
+      "question": "'Have a unique fashion sense?  Into rubber sole? Then the shoe seen here, used in this sport, is for you'",
       "value": "$400",
       "answer": "bowling",
       "round": "Jeopardy!",
@@ -3654,7 +3654,7 @@ jep={
     {
       "category": "MARVELOUS",
       "air_date": "2007-01-30",
-      "question": "'<a href=\"http://www.j-archive.com/media/2007-01-30_J_17.jpg\" target=\"_blank\">This alliterative <a href=\"http://www.j-archive.com/media/2007-01-30_J_17a.jpg\" target=\"_blank\">super-villain could also have had a reality show called \"The Osborns\"'",
+      "question": "'This alliterative super-villain could also have had a reality show called \"The Osborns\"'",
       "value": "$800",
       "answer": "the Green Goblin",
       "round": "Jeopardy!",
@@ -3726,7 +3726,7 @@ jep={
     {
       "category": "ALSO A BODY PART",
       "air_date": "2011-12-26",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2011-12-26_J_06.wmv\">Jimmy of the Clue Crew spins the dreidel on the monitor.)  When it's your spin of the dreidel, hopefully you don't land on this 21st letter of the Hebrew alphabet, or you'll have to add to the pot'",
+      "question": "'(Jimmy of the Clue Crew spins the dreidel on the monitor.)  When it's your spin of the dreidel, hopefully you don't land on this 21st letter of the Hebrew alphabet, or you'll have to add to the pot'",
       "value": "$1000",
       "answer": "shin",
       "round": "Jeopardy!",
@@ -3879,7 +3879,7 @@ jep={
     {
       "category": "WATER SPORTS",
       "air_date": "1984-12-07",
-      "question": "'What an unlucky surfer has just experienced in <a href=\"http://www.j-archive.com/media/1984-12-07_J_19.mp3\">this song'",
+      "question": "'What an unlucky surfer has just experienced in this song'",
       "value": "$400",
       "answer": "a wipeout",
       "round": "Jeopardy!",
@@ -3915,7 +3915,7 @@ jep={
     {
       "category": "COOKIN' UP CATFISH",
       "air_date": "2007-06-29",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2007-06-29_J_28.jpg\" target=\"_blank\">Cheryl of the Clue Crew delivers the clue as she makes catfish at the Taylor Grocery in Mississippi.) One key ingredient in a good catfish fry coating is <a href=\"http://www.j-archive.com/media/2007-06-29_J_28a.jpg\" target=\"_blank\">this sauce, developed in India but named for the English city where it was first bottled'",
+      "question": "'(Cheryl of the Clue Crew delivers the clue as she makes catfish at the Taylor Grocery in Mississippi.) One key ingredient in a good catfish fry coating is this sauce, developed in India but named for the English city where it was first bottled'",
       "value": "$600",
       "answer": "Worcesterchire",
       "round": "Jeopardy!",
@@ -4221,7 +4221,7 @@ jep={
     {
       "category": "FACES OF AMERICA",
       "air_date": "2006-10-10",
-      "question": "'<a href=\"http://www.j-archive.com/media/2006-10-10_J_15.jpg\" target=\"_blank\">He instituted the ultimate top ten list as a part of his job'",
+      "question": "'He instituted the ultimate top ten list as a part of his job'",
       "value": "$400",
       "answer": "J. Edgar Hoover",
       "round": "Jeopardy!",
@@ -4284,7 +4284,7 @@ jep={
     {
       "category": "HISTORICAL LAW & ORDER PLEAS",
       "air_date": "2007-02-23",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2007-02-23_DJ_23.jpg\" target=\"_blank\">Sam Waterston reads the clue.)  After the murder, you shouted \"Sic semper tyrannis!\"... Ballistics says it's your derringer, we've got Surratt--it's over'",
+      "question": "'(Sam Waterston reads the clue.)  After the murder, you shouted \"Sic semper tyrannis!\"... Ballistics says it's your derringer, we've got Surratt--it's over'",
       "value": "$1200",
       "answer": "John Wilkes Booth",
       "round": "Double Jeopardy!",
@@ -4320,7 +4320,7 @@ jep={
     {
       "category": "PINEAPPLES",
       "air_date": "2011-05-27",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2011-05-27_DJ_22.jpg\" target=\"_blank\">Sarah of the Clue Crew reports from a pineapple plantation.Pineapple cultivation needs relatively little irrigation; with its reservoir formed in the leaves, the plant is a natural xerophyte--from the Greek \"xeros\", meaning this'",
+      "question": "'(Sarah of the Clue Crew reports from a pineapple plantation.Pineapple cultivation needs relatively little irrigation; with its reservoir formed in the leaves, the plant is a natural xerophyte--from the Greek \"xeros\", meaning this'",
       "value": "$800",
       "answer": "dry",
       "round": "Double Jeopardy!",
@@ -4482,7 +4482,7 @@ jep={
     {
       "category": "HAIR",
       "air_date": "2007-01-05",
-      "question": "'In the 1974 picture seen here, Julius Erving sports <a href=\"http://www.j-archive.com/media/2007-01-05_DJ_16.jpg\" target=\"_blank\">this 4-letter hairstyle'",
+      "question": "'In the 1974 picture seen here, Julius Erving sports this 4-letter hairstyle'",
       "value": "$1200",
       "answer": "an afro",
       "round": "Double Jeopardy!",
@@ -4653,7 +4653,7 @@ jep={
     {
       "category": "CLASSICAL CLASSICS",
       "air_date": "2005-07-01",
-      "question": "'<a href=\"http://www.j-archive.com/media/2005-07-01_J_07.mp3\">This snoozer is listed as the composer's Opus 49, No. 4'",
+      "question": "'This snoozer is listed as the composer's Opus 49, No. 4'",
       "value": "$600",
       "answer": "\"Brahms\\' Lullaby\"",
       "round": "Jeopardy!",
@@ -4707,7 +4707,7 @@ jep={
     {
       "category": "MEXICO",
       "air_date": "2004-06-23",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2004-06-23_DJ_16.wmv\">Sarah of the Clue Crew sets down to  with four friends in the Yucatan Peninsula, Mexico.) In Mexico, you can enjoy the music of this type of band whose name may come from the word \"marriage\"'",
+      "question": "'(Sarah of the Clue Crew sets down to  with four friends in the Yucatan Peninsula, Mexico.) In Mexico, you can enjoy the music of this type of band whose name may come from the word \"marriage\"'",
       "value": "$400",
       "answer": "mariachi",
       "round": "Double Jeopardy!",
@@ -4716,7 +4716,7 @@ jep={
     {
       "category": "LANDSCAPE CRUSADER",
       "air_date": "2006-04-19",
-      "question": "'Shown <a href=\"http://www.j-archive.com/media/2006-04-19_J_13.jpg\" target=\"_blank\">here is her 1936 desert landscape entitled \"Summer Days\"'",
+      "question": "'Shown here is her 1936 desert landscape entitled \"Summer Days\"'",
       "value": "$200",
       "answer": "(Georgia) O\\'Keeffe",
       "round": "Jeopardy!",
@@ -4869,7 +4869,7 @@ jep={
     {
       "category": "AROUND THE DRUM KIT",
       "air_date": "2006-11-22",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2006-11-22_DJ_27.jpg\" target=\"_blank\">Sarah of the Clue Crew plays with cymbals.) The snowshoe, a cymbal set on the floor, moved up a bit and became the low boy, which moved up some more and became this'",
+      "question": "'(Sarah of the Clue Crew plays with cymbals.) The snowshoe, a cymbal set on the floor, moved up a bit and became the low boy, which moved up some more and became this'",
       "value": "$1200",
       "answer": "a high hat",
       "round": "Double Jeopardy!",
@@ -4968,7 +4968,7 @@ jep={
     {
       "category": "THAT'S JUST CLASSIC!",
       "air_date": "2005-06-06",
-      "question": "'It's the classic passage of 19th century travelin' music heard <a href=\"http://www.j-archive.com/media/2005-06-06_DJ_23.mp3\">here'",
+      "question": "'It's the classic passage of 19th century travelin' music heard here'",
       "value": "$800",
       "answer": "\"Ride of the Valkyrie\"",
       "round": "Double Jeopardy!",
@@ -5589,7 +5589,7 @@ jep={
     {
       "category": "CHARADES",
       "air_date": "2004-06-16",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2004-06-16_J_16.jpg\" target=\"_blank\">Cheryl for the Clue Crew makes a small \"C\" with her fingers.)  The gesture here means \"small word\", like this word followed by \"the Good Old Summertime\"'",
+      "question": "'(Cheryl for the Clue Crew makes a small \"C\" with her fingers.)  The gesture here means \"small word\", like this word followed by \"the Good Old Summertime\"'",
       "value": "$200",
       "answer": "in",
       "round": "Jeopardy!",
@@ -5634,7 +5634,7 @@ jep={
     {
       "category": "CAT",
       "air_date": "2006-05-05",
-      "question": "'Now endangered, <a href=\"http://www.j-archive.com/media/2006-05-05_DJ_06.jpg\" target=\"_blank\">these fast felines were once common in India where a Mogal emperor kept a thousand of them as hunting cats'",
+      "question": "'Now endangered, these fast felines were once common in India where a Mogal emperor kept a thousand of them as hunting cats'",
       "value": "$400",
       "answer": "cheetah",
       "round": "Double Jeopardy!",
@@ -5742,7 +5742,7 @@ jep={
     {
       "category": "MOVIE PREMIERES",
       "air_date": "2007-11-20",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2007-11-20_J_06.jpg\" target=\"_blank\">Kelly of the Clue Crew exits the theater doors at Radio City Music Hall, New York.)  Among movies that have premiered at Radio City Music Hall is \"To Kill a Mockingbird\", with an Oscar-winning performance by this man who was once an usher here'",
+      "question": "'(Kelly of the Clue Crew exits the theater doors at Radio City Music Hall, New York.)  Among movies that have premiered at Radio City Music Hall is \"To Kill a Mockingbird\", with an Oscar-winning performance by this man who was once an usher here'",
       "value": "$400",
       "answer": "Gregory Peck",
       "round": "Jeopardy!",
@@ -5931,7 +5931,7 @@ jep={
     {
       "category": "\"DEEP\" DISH",
       "air_date": "2004-11-11",
-      "question": "'Seen <a href=\"http://www.j-archive.com/media/2004-11-11_J_05.jpg\" target=\"_blank\">here, he was an endocrinologist before promoting Ayur Veda, an ancient form of holistic medicine'",
+      "question": "'Seen here, he was an endocrinologist before promoting Ayur Veda, an ancient form of holistic medicine'",
       "value": "$600",
       "answer": "Deepak Chopra",
       "round": "Jeopardy!",
@@ -6255,7 +6255,7 @@ jep={
     {
       "category": "HISPANIC AMERICANS",
       "air_date": "1997-10-27",
-      "question": "'Seen <a href=\"http://www.j-archive.com/media/1997-10-27_DJ_17.jpg\" target=\"_blank\">here, this model \"flowered\" as a personality on MTV & MTV Latino:'",
+      "question": "'Seen here, this model \"flowered\" as a personality on MTV & MTV Latino:'",
       "value": "$1,500",
       "answer": "Daisy Fuentes",
       "round": "Double Jeopardy!",
@@ -6390,7 +6390,7 @@ jep={
     {
       "category": "SKULL",
       "air_date": "2008-10-17",
-      "question": "'The skull seen <a href=\"http://www.j-archive.com/media/2008-10-17_J_26.jpg\" target=\"_blank\">here belongs to this creature, Ursus maritimus'",
+      "question": "'The skull seen here belongs to this creature, Ursus maritimus'",
       "value": "$200",
       "answer": "the polar bear",
       "round": "Jeopardy!",
@@ -6507,7 +6507,7 @@ jep={
     {
       "category": "BIBLICAL PAINTINGS",
       "air_date": "2010-03-19",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2010-03-19_DJ_26.jpg\" target=\"_blank\">Sarah of the Clue Crew shows a painting on the monitor.)  In a 17th-century painting, Isaac, now blind in his old age, is blessing <a href=\"http://www.j-archive.com/media/2010-03-19_DJ_26a.jpg\" target=\"_blank\">Jacob, who, you'll notice, is wearing gloves to hide the fact that he isn't this hairier brother'",
+      "question": "'(Sarah of the Clue Crew shows a painting on the monitor.)  In a 17th-century painting, Isaac, now blind in his old age, is blessing Jacob, who, you'll notice, is wearing gloves to hide the fact that he isn't this hairier brother'",
       "value": "$2000",
       "answer": "Esau",
       "round": "Double Jeopardy!",
@@ -6570,7 +6570,7 @@ jep={
     {
       "category": "A MURDER INVESTIGATION",
       "air_date": "2010-11-29",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2010-11-29_J_22.jpg\" target=\"_blank\">Kyra Sedgwick delivers the clue.)  If 2 or more murders have a similar type of victim & weapon, you might be dealing with one of these, a term popularized by Robert Ressler of the FBI'",
+      "question": "'(Kyra Sedgwick delivers the clue.)  If 2 or more murders have a similar type of victim & weapon, you might be dealing with one of these, a term popularized by Robert Ressler of the FBI'",
       "value": "$800",
       "answer": "a serial killer",
       "round": "Jeopardy!",
@@ -6615,7 +6615,7 @@ jep={
     {
       "category": "NYPD",
       "air_date": "2005-04-06",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2005-04-06_J_06.jpg\" target=\"_blank\">Sarah of the Clue Crew reports from outside an NYPD station.)  On the narrow streets of Lower Manhattan police drive Piaggios, from the makers of this Italian scooter that debuted in 1946'",
+      "question": "'(Sarah of the Clue Crew reports from outside an NYPD station.)  On the narrow streets of Lower Manhattan police drive Piaggios, from the makers of this Italian scooter that debuted in 1946'",
       "value": "$600",
       "answer": "the Vespa",
       "round": "Jeopardy!",
@@ -6660,7 +6660,7 @@ jep={
     {
       "category": "FLOAT LIKE A BUTTERFLY...",
       "air_date": "2010-02-24",
-      "question": "'<a href=\"http://www.j-archive.com/media/2010-02-24_DJ_13.jpg\" target=\"_blank\">Seen <a href=\"http://www.j-archive.com/media/2010-02-24_DJ_13a.jpg\" target=\"_blank\">here are scores of these butterflies at their winter camp in Michoacan, Mexico'",
+      "question": "'Seen here are scores of these butterflies at their winter camp in Michoacan, Mexico'",
       "value": "$800",
       "answer": "monarchs",
       "round": "Double Jeopardy!",
@@ -6669,7 +6669,7 @@ jep={
     {
       "category": "COLLEGE TEAM NICKNAMES",
       "air_date": "2003-04-11",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2003-04-11_J_01.jpg\" target=\"_blank\">I'm Kurt Warner.) The team at my alma mater, Northern Iowa, is these big, fierce black cats'",
+      "question": "'(I'm Kurt Warner.) The team at my alma mater, Northern Iowa, is these big, fierce black cats'",
       "value": "$200",
       "answer": "Panthers",
       "round": "Jeopardy!",
@@ -7218,7 +7218,7 @@ jep={
     {
       "category": "\"OY\" TO THE WORLD",
       "air_date": "2010-07-01",
-      "question": "'Developed in 1923, its the yummy hybrid edible seen <a href=\"http://www.j-archive.com/media/2010-07-01_DJ_23.jpg\" target=\"_blank\">here'",
+      "question": "'Developed in 1923, its the yummy hybrid edible seen here'",
       "value": "$1200",
       "answer": "a boysenberry",
       "round": "Double Jeopardy!",
@@ -7272,7 +7272,7 @@ jep={
     {
       "category": "GREASE",
       "air_date": "2010-04-22",
-      "question": "'Every March brings the national day named for <a href=\"http://www.j-archive.com/media/2010-04-22_J_17.jpg\" target=\"_blank\">this sometimes-greasy treat'",
+      "question": "'Every March brings the national day named for this sometimes-greasy treat'",
       "value": "$400",
       "answer": "a corndog",
       "round": "Jeopardy!",
@@ -7380,7 +7380,7 @@ jep={
     {
       "category": "POTPOURRI",
       "air_date": "2008-07-16",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2008-07-16_J_12.wmv\">Kelly of the Clue Crew  tries to sell you a cell from Sony Headquarters in Tokyo, Japan.) The W44S multimedia phone combines Sony's multimedia, like digital TV, with the phone technology of Ericsson, based in this country'",
+      "question": "'(Kelly of the Clue Crew  tries to sell you a cell from Sony Headquarters in Tokyo, Japan.) The W44S multimedia phone combines Sony's multimedia, like digital TV, with the phone technology of Ericsson, based in this country'",
       "value": "$400",
       "answer": "Sweden",
       "round": "Jeopardy!",
@@ -7479,7 +7479,7 @@ jep={
     {
       "category": "SCIENCE GUYS",
       "air_date": "2002-06-05",
-      "question": "'He's the \"Science Guy\" seen <a href=\"http://www.j-archive.com/media/2002-06-05_J_21.jpg\" target=\"_blank\">here'",
+      "question": "'He's the \"Science Guy\" seen here'",
       "value": "$200",
       "answer": "Bill Nye",
       "round": "Jeopardy!",
@@ -7623,7 +7623,7 @@ jep={
     {
       "category": "MUSICAL WORDS",
       "air_date": "2010-03-26",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2010-03-26_J_24.wmv\">Kelly of the Clue Crew performs a science experiment.)  Electricity will only light the fluorescent bulb to where I put my hand, because like copper or an orchestra leader, my body is acting as this'",
+      "question": "'(Kelly of the Clue Crew performs a science experiment.)  Electricity will only light the fluorescent bulb to where I put my hand, because like copper or an orchestra leader, my body is acting as this'",
       "value": "$800",
       "answer": "a conductor",
       "round": "Jeopardy!",
@@ -7632,7 +7632,7 @@ jep={
     {
       "category": "CLASSY CLASSICAL CLASSICS",
       "air_date": "2006-05-23",
-      "question": "'You're \"rite\" on the money if you know the controversial music heard <a href=\"http://www.j-archive.com/media/2006-05-23_J_03.mp3\">here is by this composer'",
+      "question": "'You're \"rite\" on the money if you know the controversial music heard here is by this composer'",
       "value": "$600",
       "answer": "Stravinsky",
       "round": "Jeopardy!",
@@ -7722,7 +7722,7 @@ jep={
     {
       "category": "CONTINENTAL DRIFTING",
       "air_date": "2007-07-10",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2007-07-10_DJ_04.jpg\" target=\"_blank\">Jon of the Clue Crew stands in front of an ancient globe) Meaning \"all earth\", it's the term Alfred Wegener gave to an historic, theoretical supercontinent'",
+      "question": "'(Jon of the Clue Crew stands in front of an ancient globe) Meaning \"all earth\", it's the term Alfred Wegener gave to an historic, theoretical supercontinent'",
       "value": "$1600",
       "answer": "Pangaea",
       "round": "Double Jeopardy!",
@@ -8370,7 +8370,7 @@ jep={
     {
       "category": "WHERE DID MY MUSTACHE GO?",
       "air_date": "2001-10-01",
-      "question": "'<a href=\"http://www.j-archive.com/media/2001-10-01_J_05.jpg\" target=\"_blank\">This governor wants to appeal to young punks when he gets back into pro wrestling'",
+      "question": "'This governor wants to appeal to young punks when he gets back into pro wrestling'",
       "value": "$500",
       "answer": "Jesse Ventura",
       "round": "Jeopardy!",
@@ -8415,7 +8415,7 @@ jep={
     {
       "category": "EXTREMELY YOUTHFUL POLITICIANS",
       "air_date": "2009-09-16",
-      "question": "'We wonder if this guy seen <a href=\"http://www.j-archive.com/media/2009-09-16_J_21.jpg\" target=\"_blank\">here still has that shirt'",
+      "question": "'We wonder if this guy seen here still has that shirt'",
       "value": "$200",
       "answer": "Obama",
       "round": "Jeopardy!",
@@ -8532,7 +8532,7 @@ jep={
     {
       "category": "\"J\" WALKING",
       "air_date": "2001-11-06",
-      "question": "'(<a href=\"http://www.j-archive.com/media/2001-11-06_J_10.jpg\" target=\"_blank\">Sofia of the Clue Crew rides a carousel at the Santa Monica Pier.)  In the 1600s an early type of carousel was used to train noblemen in this sport that uses lances'",
+      "question": "'(Sofia of the Clue Crew rides a carousel at the Santa Monica Pier.)  In the 1600s an early type of carousel was used to train noblemen in this sport that uses lances'",
       "value": "$500",
       "answer": "jousting",
       "round": "Jeopardy!",
@@ -8766,7 +8766,7 @@ jep={
     {
       "category": "AIRLINES",
       "air_date": "2007-03-21",
-      "question": "'It's the airline whose familiar logo is seen <a href=\"http://www.j-archive.com/media/2007-03-21_J_12.jpg\" target=\"_blank\">here'",
+      "question": "'It's the airline whose familiar logo is seen here'",
       "value": "$600",
       "answer": "Alaska Airlines",
       "round": "Jeopardy!",
@@ -8793,7 +8793,7 @@ jep={
     {
       "category": "SPELLING",
       "air_date": "2005-10-12",
-      "question": "'<a href=\"http://www.j-archive.com/media/2005-10-12_DJ_25.mp3\">Put your thoughts in order as you spell...'",
+      "question": "'Put your thoughts in order as you spell...'",
       "value": "$2000",
       "answer": "C-H-R-O-N-O-L-O-G-I-C-A-L",
       "round": "Double Jeopardy!",
