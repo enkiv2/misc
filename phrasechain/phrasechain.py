@@ -7,14 +7,15 @@ random=Random()
 
 import sys, os
 
-global lines, words, world, mode
+global lines, words, world, mode, wAX
 lines=[]
 words={}
 world={}
 mode="first"
+wAX=0
 
 def accumulate():
-	global lines, words
+	global lines, words, wAX
 	for line in sys.stdin.readlines():
 		line=line.strip()
 		lines.append(line)
@@ -24,6 +25,12 @@ def accumulate():
 				words[word]=1
 			else:
 				words[word]+=1
+	if(mode=="avg2"):
+		ax=0; c=0
+		for w in words:
+			c+=1
+			ax+=words[w]
+		wAX=((1.0*ax)/c)
 
 def score(line):
 	if(line==""):
@@ -56,8 +63,16 @@ def score(line):
 				minD=abs(words[w]-ax)
 				mindDw=w
 		return minDw
-	else:
-		return ""
+	if(mode=="avg2"):
+		minD=max; minDw=wordl[0]
+		for w in wordl:
+			w=w.lower()
+			if(abs(words[w]-wAX)<minD):
+				minD=abs(words[w]-wAX)
+				mindDw=w
+		return minDw
+	
+	return ""
 
 def aggregate():
 	global world
@@ -88,13 +103,13 @@ def follow(seed):
 if(__name__=="__main__"):
 	seed=""
 	if(len(sys.argv)>1):
-		if(sys.argv[1] in ["first", "last", "min", "max", "avg"]):
+		if(sys.argv[1] in ["first", "last", "min", "max", "avg", "avg2"]):
 			mode=sys.argv[1]
 		else:
 			seed=sys.argv[1]
 	if(len(sys.argv)>2):
 		if(seed!=""):
-			sys.stderr.write("Usage:\n\tphrasechain [mode] [seed]\nWhere mode is one of: first, last, min, max, avg\n")
+			sys.stderr.write("Usage:\n\tphrasechain [mode] [seed]\nWhere mode is one of: first, last, min, max, avg, avg2\n")
 			sys.exit(1)
 		else:
 			seed=sys.argv[2]
