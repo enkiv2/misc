@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-MIN_LINES=1000
+MIN_LINES=1000 # modify this if you want a higher or lower max output; without this default we often get zero-length output
 
 from random import Random
 random=Random()
