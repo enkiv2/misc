@@ -1,11 +1,11 @@
-= PHRASE CHAIN =
+# PHRASE CHAIN
 
 Phrasechain takes text input from stdin & produces new text based on configurable rearrangement of phrases.
 
 phrasechain.py takes one phrase per line; phrasechain.sh is a front-end that takes formatted text and breaks it into one phrase per 'sentence' (where sentences end with a period), producing output that renders nicely as markdown.
 
 
-== HOW IT WORKS ==
+## HOW IT WORKS 
 
 Phrasechain is a variant on a markov chain. Rather than having a token-size of word, it treats each phrase as a token; a word from each phrase is chosen as a representative of that phrase, and so each phrase is classified based on the representative of the previous phrase.
 
