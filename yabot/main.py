@@ -96,9 +96,16 @@ class YaBot(ircbot.SingleServerIRCBot):
 					self.say(c, "I will now use nicks in replies at most 1/"+args[1]+" of the time.")
 				except:
 					self.say(c, "Usage: !tagfrequency <n>\nValue n must be a positive integer & replies will max out at 1/n")
+		elif (args[0]=="!part"):
+			try:
+				if(args[1] in self.channelList):
+					self.channelList.remove(args[1])
+					self.connection.part(args[1])
+			except:
+				self.say(c, "Usage: !part #channel")
 		elif (args[0]=="!join"):
 			try:
-				self.channelList.add(args[1])
+				self.channelList.append(args[1])
 				self.connection.join(args[1])
 			except:
 				self.say(c, "Usage: !join #channel")
@@ -114,6 +121,14 @@ class YaBot(ircbot.SingleServerIRCBot):
 				self.say(args[1], " ".join(args[2:]))
 			except:
 				self.say(c, "Usage: !say nick_or_channel message")
+		elif(args[0]=="!help"):
+			if(len(args)>1):
+				if(args[1] in ["quit", "save", "load", "regenLines"]):
+					self.say(c, args[1]+" does not take args")
+				else:
+					self.say(c, "Please run !"+args[1]+" without any args to see usage information")
+			else:
+				self.say(c, "Available commands are: quit, save, load, regenLines, replyrate, tagfrequency, join, part, rejoin, nick, say, and help")
 	def say(self, c, resp):
 		for line in resp.split("\n"):
 			time.sleep(1)
