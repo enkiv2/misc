@@ -48,7 +48,9 @@ class YaBot(ircbot.SingleServerIRCBot):
 			try:
 				if(line.find(self._nickname)==0 and len(line.split())>1):
 					procLine=" ".join(line.split()[1:])
-				resp=markov.handleLine(chan, procLine)
+				markov.processLine(chan, procLine)
+				if(markov.replyrate and random.choice(range(0, markov.replyrate))==0):
+					resp=markov.respondLine(procLine)
 				if(not resp):
 					if(line.find(self._nickname)>=0 or privmsg):
 						resp=markov.respondLine(procLine)
