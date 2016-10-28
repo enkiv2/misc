@@ -44,15 +44,18 @@ class YaBot(ircbot.SingleServerIRCBot):
 			self.handleCmd(chan, nick, line)
 		else:
 			resp=""
+			procLine=line
 			try:
-				resp=markov.handleLine(chan, line)
+				if(line.find(self._nickname)==0 and len(line.split())>1):
+					procLine=" ".join(line.split()[1:])
+				resp=markov.handleLine(chan, procLine)
 				if(not resp):
 					if(line.find(self._nickname)>=0 or privmsg):
-						resp=markov.respondLine(line)
+						resp=markov.respondLine(procLine)
 			except:
 				print("Error in handleLine")
 				print(sys.exc_info())
-			if(resp and resp!=line):
+			if(resp and resp!=procLine):
 				if not privmsg:
 					if(random.choice(range(0, TAG_FREQUENCY))==0):
 						resp=nick+": "+resp
