@@ -4,7 +4,6 @@ MAX_RESULT_LENGTH=400	# IRC limits total message length to 510 characters, inclu
 MAX_MARKOV_LEVEL=5
 
 replyrate=100
-replyrate=0
 
 wordTotal=0
 wordFrequencies={}
@@ -202,8 +201,13 @@ def processLine(source, line, regen=False):
 		phraseScores.append(scoreMulti(phrase+"."))
 	for mode in ["first", "last", "avg2", "min", "max", "avg"]:
 		lineClass=""
-		if(len(lineScores)>1):
+		try:
 			lineClass=lineScores[-2][mode]
+		except:
+			try:
+				lineClass=lineScores[-1][mode]
+			except:
+				lineClass=score(mode, line)
 		if not (lineClass in nextLines[mode]):
 			nextLines[mode][lineClass]=[line]
 		else:
