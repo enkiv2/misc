@@ -52,7 +52,7 @@ class YaBot(ircbot.SingleServerIRCBot):
 			except:
 				print("Error in handleLine")
 				print(sys.exc_info())
-			if(resp):
+			if(resp and resp!=line):
 				if not privmsg:
 					if(random.choice(range(0, TAG_FREQUENCY))==0):
 						resp=nick+": "+resp
