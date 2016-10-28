@@ -116,6 +116,21 @@ class YaBot(ircbot.SingleServerIRCBot):
 				self.connection.join(args[1])
 			except:
 				self.say(c, "Usage: !join #channel")
+		elif (args[0]=="!rmowner"):
+			try:
+				if(args[1] in self.owners):
+					self.owners.remove(args[1])
+					self.say(c, "Owner "+args[1]+" removed.")
+				else:
+					self.say(c, "User "+args[1]+" is not an owner.")
+			except:
+				self.say(c, "Usage: !rmowner nick")
+		elif (args[0]=="!addowner"):
+			try:
+				self.owners.append(args[1])
+				self.say(c, "User "+args[1]+" added to owners list.")
+			except:
+				self.say(c, "Usage: !addowner")
 		elif(args[0]=="!rejoin"):
 			self.rejoin()
 		elif(args[0]=="!nick"):
@@ -123,6 +138,15 @@ class YaBot(ircbot.SingleServerIRCBot):
 				self.connection.nick(args[1])
 			except:
 				self.say(c, "Usage: !nick name")
+		elif(args[0]=="!saveconfig"):
+			self.say(c, "Saving config...")
+			f=open("config.py", "a")
+			f.write("owners=[\""+("\",\"".join(self.owners))+"\"]\n")
+			f.write("channels=[\""+("\",\"".join(self.channelList))+"\"]\n")
+			f.write("nick=\""+self._nickname+"\"\n")
+			f.flush()
+			f.close()
+			self.say(c, "Config saved!")
 		elif(args[0]=="!say"):
 			try:
 				self.say(args[1], " ".join(args[2:]))
@@ -130,12 +154,12 @@ class YaBot(ircbot.SingleServerIRCBot):
 				self.say(c, "Usage: !say nick_or_channel message")
 		elif(args[0]=="!help"):
 			if(len(args)>1):
-				if(args[1] in ["quit", "save", "load", "regenLines"]):
+				if(args[1] in ["quit", "save", "load", "regenLines", "saveconfig"]):
 					self.say(c, args[1]+" does not take args")
 				else:
 					self.say(c, "Please run !"+args[1]+" without any args to see usage information")
 			else:
-				self.say(c, "Available commands are: quit, save, load, regenLines, replyrate, tagfrequency, join, part, rejoin, nick, say, and help")
+				self.say(c, "Available commands are: quit, save, load, regenLines, replyrate, tagfrequency, join, part, rejoin, nick, say, addowner, rmowner, saveconfig, and help")
 	def say(self, c, resp):
 		for line in resp.split("\n"):
 			time.sleep(1)
