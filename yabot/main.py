@@ -47,7 +47,7 @@ class YaBot(ircbot.SingleServerIRCBot):
 			try:
 				resp=markov.handleLine(chan, line)
 				if(not resp):
-					if(line.find(self._nickname)>=0):
+					if(line.find(self._nickname)>=0 or privmsg):
 						resp=markov.respondLine(line)
 			except:
 				print("Error in handleLine")
