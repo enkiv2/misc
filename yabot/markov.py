@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
 MAX_RESULT_LENGTH=400	# IRC limits total message length to 510 characters, including hostname and user. Hostname limits to 63 characters. If user maxes out at 9 chars, this leaves an upper limit of 405 characters.
-MAX_MARKOV_LEVEL=3
+MAX_MARKOV_LEVEL=5
+
+replyrate=100
+replyrate=0
 
 wordTotal=0
 wordFrequencies={}
@@ -43,9 +46,11 @@ def save():
 	state["lineList"]=lineList
 	state["nextWords"]=nextWords
 	# We do not load or save nextLines or nextPhrases because we should regenerate these on reload
-	f=open("yabot_state.pickle", "w")
+	f=open("yabot_state.pickle.part", "w")
 	pickle.dump(state, f)
 	f.close()
+	os.rename("yabot_state.pickle.part", "yabot_state.pickle")
+	regenerateLineHandling()
 
 def load():
 	global wordTotal, wordFrequencies, lineList, nextWords
@@ -61,6 +66,7 @@ def load():
 		save()
 		sys.stderr.write(" done!\n")
 	initialize()
+	regenerateLineHandling()
 
 def processWords(phrase):
 	global wordFrequencies, nextWords, wordTotal
@@ -99,7 +105,10 @@ def score(mode, phrase):
 		avg=(1.0*wordTotal)/len(wordFrequencies)
 		minI=pow(2, 9); minW=""
 		for w in phraseWords:
-			delta=abs(wordFrequencies[w]-avg)
+			count=0
+			if(w in wordFrequencies):
+				count=wordFrequencies[w]
+			delta=abs(count-avg)
 			if(delta<minI):
 				minI=delta; minW=w
 		return minW
@@ -108,7 +117,9 @@ def score(mode, phrase):
 		maxI=0       ; maxW=""
 		ax=0
 		for w in phraseWords:
-			count=wordFrequencies[w]
+			count=0
+			if(w in wordFrequencies):
+				count=wordFrequencies[w]
 			if(count<minI):
 				minI=count; minW=w
 			if(count>maxI):
@@ -121,7 +132,10 @@ def score(mode, phrase):
 		ax=(1.0*ax)/len(phraseWords)
 		minI=pow(2, 9); minW=""
 		for w in phraseWords:
-			delta=abs(wordFrequencies[w]-ax)
+			count=0
+			if(w in wordFrequencies):
+				count=wordFrequencies[w]
+			delta=abs(count-ax)
 			if(minI<delta):
 				minI=delta; minW=w
 		return minW
@@ -226,6 +240,8 @@ def traverseMarkov(seed, level):
 		level=len(nextWords)
 	if not (seed in nextWords[level-1]):
 		seed=""
+	if(seed==""):
+		return ""	# hard mode
 	old=([""]*(level-1))
 	old.append(seed)
 	if(len(old)>1):
@@ -235,7 +251,8 @@ def traverseMarkov(seed, level):
 		candidates=[]
 		for i in range(0, level):
 			if old[-i] in nextWords[i]:
-				candidates.extend(nextWords[i][old[-i]])
+				for j in range(0, level-i):
+					candidates.extend(nextWords[i][old[-i]])
 		if(len(candidates)==0):
 			done=True
 			choice=""
@@ -255,6 +272,8 @@ def traversePhrases(seed, mode):
 	ret=[]
 	if not seed in nextPhrases[mode]:
 		seed=""
+	if(seed==""):
+		return ""	# hard mode
 	done=False
 	while not done:
 		choice=random.choice(nextPhrases[mode][seed])
@@ -266,31 +285,39 @@ def traversePhrases(seed, mode):
 			done=True
 		else:
 			ret.append(choice)
-			if(len(".".join(ret))>MAX_RESULT_LENGTH):
+			if(len(". ".join(ret))>MAX_RESULT_LENGTH):
 				if(len(ret)==1):
 					return ""
 				else:
-					return ".".join(ret[:-1])+"..."
-	return ".".join(ret)
+					return ". ".join(ret[:-1])+"..."
+	return ". ".join(ret)
 
 def traverseLines(seed, mode):
 	if not seed in nextLines[mode]:
 		seed=""
+	if(seed==""):
+		return ""	# hard mode
 	return random.choice(nextLines[mode][seed])
 
 def respondLine(line):
+	sys.stderr.write("\n\nInput: \""+line+"\"\n")
 	candidates=[]
 	candidates.append(elizaResponse(line))
+	markovCandidates2=[]
 	for mode in ["min", "max", "first", "last", "avg", "avg2"]:
 		lineClass=score(mode, line)
 		markovCandidates=[]
 		for level in range(0, MAX_MARKOV_LEVEL):
-			markovCandidates.append(traverseMarkov(lineClass, level+1))
+			seed=score("first", traverseLines(lineClass, mode))
+			if not seed:
+				seed=lineClass
+			markovCandidates.append(traverseMarkov(seed, level+1))
 		sys.stderr.write("Markov candidates: \""+("\",\"".join(markovCandidates))+"\"\n")
-		candidates.append(random.choice(markovCandidates))
+		markovCandidates2.append(random.choice(markovCandidates))
 		candidates.append(traversePhrases(lineClass, mode))
 		candidates.append(traverseLines(lineClass, mode))
-	sys.stderr.write("Candidates: \""+("\",\"".join(candidates))+"\"\n")
+	candidates.append(random.choice(markovCandidates2))
+	sys.stderr.write("\nCandidates: \""+("\",\"".join(candidates))+"\"\n\n\n")
 	return random.choice(candidates)
 
 def handleCmd(source, line):
@@ -306,9 +333,12 @@ def handleLine(source, line):
 			return handleCmd(source, line)
 		else:
 			processLine(source, line)
-			return respondLine(line)
+			if(replyrate and random.choice(range(0, replyrate))==0):
+				return respondLine(line)
+			return ""
 
 def main():
+	load()
 	initialize()
 	try:
 		line=raw_input("> ")
@@ -319,6 +349,7 @@ def main():
 			line=raw_input("> ")
 	except EOFError:
 		pass
+	save()
 if __name__=="__main__":
 	main()
 
