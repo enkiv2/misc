@@ -39,6 +39,8 @@ class YaBot(ircbot.SingleServerIRCBot):
 		source=e.source()
 		nick=source.split("!")[0]
 		chan=e.target()
+		if(chan[0]!="#"):
+			chan=nick	# privmsg
 		self.logAndPrint("<-\t"+chan+"\t<"+nick+"> "+line)
 		if(nick in self.owners and line[0]=="!"):
 			self.handleCmd(chan, nick, line)
