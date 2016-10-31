@@ -166,8 +166,12 @@ class YaBot(ircbot.SingleServerIRCBot):
 	def say(self, c, resp):
 		for line in resp.split("\n"):
 			time.sleep(1)
-			self.logAndPrint("->\t"+c+"\t<"+self._nickname+"> "+line)
-			self.connection.privmsg(c, line)
+			try:
+				self.logAndPrint("->\t"+c+"\t<"+self._nickname+"> "+line)
+				self.connection.privmsg(c, line)
+			except:
+				print("Could not send message!")
+				print(sys.exc_info())
 		
 	def rejoin(self):
 		self.logAndPrint("-- Joining channels: "+(" ".join(self.channelList)))
