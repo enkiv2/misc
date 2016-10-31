@@ -195,7 +195,7 @@ def processLine(source, line, regen=False):
 	lineScore=scoreMulti(line)
 	lineList[source].append(line)
 	lineScores[source].append(lineScore)
-	phrases=line.split(".")
+	phrases=line.split(". ")
 	phraseScores=[scoreMulti("")]
 	for phrase in phrases:
 		phraseScores.append(scoreMulti(phrase+"."))
