@@ -72,9 +72,12 @@ class YaBot(ircbot.SingleServerIRCBot):
 		if(args[0]=="!quit"):
 			self.say(c, "Saving...")
 			self.autosave()
-			self.logfile.close()
 			self.say(c, "Saved!\nByebye!")
-			os.exit(0)
+			self.logfile.close()
+			if(len(args)>1):
+				self.die(args[1])
+			else:
+				self.die()
 		elif (args[0]=="!save"):
 			self.say(c, "Saving...")
 			markov.save()
