@@ -10,5 +10,7 @@ subject:=astronomy,quantum mechanics,archaeology
 connection:=$$cult,$$arcaneText
 
 name:=$firstName $lastName
-protagonistName:=$name
+protagonistFName:=$firstName
+protagonistLName:=$lastName
+protagonistName:=$$protagonistFName $$protagonistLName
 
