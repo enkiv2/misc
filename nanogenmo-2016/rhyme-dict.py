@@ -81,13 +81,15 @@ def main():
 					break
 		if(i>25000): 
 			break
+	skip=[]
 	k=rhymeDict.keys()
 	k.sort()
 	for w in k:
 		w2=multiWordRhymesOnly(w.split()[0]).replace("_", " ")
-		if(w.find(w2)==0):
-			print(w.upper()+": "+rhymeDict[w]+"\n")
-		elif(w2 not in k):
+		if(w.find(w2)!=0 and w2 not in k and w2 not in skip):
 			print(w2.upper()+": "+rhymeDict[w]+" (via "+w+")\n")
+			skip.append(w2)
+		else:
+			print(w.upper()+": "+rhymeDict[w]+"\n")
 	
 if __name__=="__main__": main()
