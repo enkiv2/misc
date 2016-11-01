@@ -1,7 +1,14 @@
-name:=$firstName $lastName
+summary:=$$protagonistName of $$town\, while researching $$subject\, discovers a connection to $$connection
+
 firstName:=Abdul,George Goodenough,Henry Wentworth,Zadok,George Gammell,Dr. Henry,Professor Ferdinand C.,Professor,Alijah,Robert Harrison,Horvath,Enoch,Randolph,Hildred,Halpin,Swami Sunand,Dr. Alfred,Nayland,Harold Hadley,Bartolomeo,Titus,Joseph,Eli,Chandler,Thomas,Étienne-Laurent,Henri-Laurent,Edward Pickman,Comte,Ambrose,Gespard,William,Basil,Joachim,Roland,Justin,Walter,Edgar Hengist,John,Thelred,David,Abner Exekiel,Edward,Gustaf,Ernst,Abel,John,Seneca,John Raymond,Edwin M.,Cyrus,Obadiah,Obed,Keziah,Francis,Gottfried,Nathaniel Wingate,Andrew,Theodorus,Ward,Winfield,Richard Upton,Johannes Henricus,Abigail,Ludwig,Warren,Gerhard,Laban,Hank,Cyprian,Japhet,Morgan,Francis Wayland,Amos,Alonzo Hasbrouch,Errol,Daniel,Friedrich Wilhelm,Asenath,Ephraim,Gordon,Charles Dexter,Harley,William Channing,Sir Amery,Herbert,Lavinia,Noah,Wilbur,Albert N.,Olaus,Panfilio De,Anton
 lastName:=Alhazred,Akeley,Allen,Angell,Armitage,Ashley,Atwood,Billington,Blake,Blayne,Bowen,Carter,Castaigne,Chalmers,Chandraputra,Clarendon,Colum,Copeland,Corsi,Crow,Curwen,Davenport,Davies,De la Poer,De Marigny,Derby,d'Erlette,Dewart,Dexter,Du Nord,Dyer,Elton,Feery,Franklyn,Geoffrey,Gilman,Gordon,Grimlan,Gustau,Hero,Hoag,Hutchinson,Johansen,Kant,Keane,Kirowan,Lapham,Legrasse,Lillibridge,LLanfer,Marsh,Mason,Morgan,Mülder,Peaslee,Phelan,Philetas,Phillips,Pickman,Pott,Prinn,Rice,Schrach,Shrewsbury,Silberhutte,Sincaul,Smith,Thurston,Tuttle,Typer,Undercliffe,Upton,Von Junzt,Waite,Walmsley,Ward,Warren,Webb,Wendy-Smith,West,Whateley,Wilmarth,Wormius,Zamacona Y Nuñez,Zarnak
 arcaneText:=Book of Azathoth,Book of Eibon,Book of Iod,Celaeno Fragments,Cthäat Aquadingen,Cultes des Goules,De Vermis Mysteriis,Dhol Chants,Eltdown Shards,G'harne Fragments,The King in Yellow,Liber Ivonis,Necronomicon,On the Sending Out of the Soul,Parchments of Pnom,Pnakotic Manuscripts,Poakotic Fragments,Ponape Scripture,Las Reglas de Ruina,Revelations of Gla'aki,Seven Cryptical Books of Hsan,Tarsioid Psalms,Testament of Carnamagos,Unaussprechliche Kulte,Zanthu Tablets,Zhou Texts
 town:=Arkham,Brichester,Dunwich,Innsmouth,Kingsport
 cult:=Black Brotherhood,Brotherhood of the Beast,Brotherhood of the Black Pharaoh,Brothers of the Yellow Sign,Cult of the Yellow Sign,Chesuncook Witch Coven,Cult of the Skull,Chorazos Cult,Church of Starry Wisdom,Cult of Cthulhu,Cult of Bubastis,Cult of the Bloody Tongue,Esoteric Order of Dagon
+
+subject:=astronomy,quantum mechanics,archaeology
+connection:=$$cult,$$arcaneText
+
+name:=$firstName $lastName
+protagonistName:=$name
 
