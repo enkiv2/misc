@@ -50,9 +50,11 @@ def main():
 				if(rhym.find(w2)!=0 and w2 not in rhymeDict and w2 not in skip):
 					print(w2.upper()+": "+rhymeDict[rhym]+" (via "+rhym+")\n")
 					skip.append(w2)
-				else:
+					i+=1
+				elif(rhym not in skip):
 					print(rhym.upper()+": "+rhymeDict[rhym]+"\n")
-				i+=1
+					skip.append(rhym)
+					i+=1
 				if(i>25000): 
 					break
 		if(i>25000): 
