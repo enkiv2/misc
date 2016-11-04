@@ -68,6 +68,21 @@ def load():
 	initialize()
 	regenerateLineHandling()
 
+def pruneMarkov(count):
+	global nextWords
+	for i in range(0, count):
+		idx1=random.choice(range(0, len(nextWords)))
+		idx2=random.choice(nextWords[idx1].keys())
+		nextWords[idx1][idx2].remove(random.choice(nextWords[idx1][idx2]))
+		if(len(nextWords[idx1][idx2])==0):
+			nextWords[idx1].remove(idx2)
+
+def pruneLineList(count):
+	global lineList
+	for source in lineList:
+		if(len(lineList[source])>count):
+			lineList[source]=lineList[source][:count]
+
 def processWords(phrase):
 	global wordFrequencies, nextWords, wordTotal
 	phraseWords=phrase.lower().split()
