@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import markov
+import eliza
 import ircbot
 
 import time, sys, os
@@ -56,6 +57,9 @@ class YaBot(ircbot.SingleServerIRCBot):
 				if(not resp):
 					if(line.find(self._nickname)>=0 or privmsg):
 						resp=markov.respondLine(procLine)
+				else:
+					if(random.choice(range(1, 100))==0):
+						markov.processLine(chan, eliza.elizaResponse(line))
 			except:
 				print("Error in handleLine")
 				print(sys.exc_info())
