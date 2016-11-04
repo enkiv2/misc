@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 
 MAX_RESULT_LENGTH=400	# IRC limits total message length to 510 characters, including hostname and user. Hostname limits to 63 characters. If user maxes out at 9 chars, this leaves an upper limit of 405 characters.
-MAX_MARKOV_LEVEL=5
+MAX_MARKOV_LEVEL=1
 
 replyrate=100
+replyrate=0
 
 wordTotal=0
 wordFrequencies={}
