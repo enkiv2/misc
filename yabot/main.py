@@ -57,6 +57,8 @@ class YaBot(ircbot.SingleServerIRCBot):
 				if(not resp):
 					if(line.find(self._nickname)>=0 or privmsg):
 						resp=markov.respondLine(procLine)
+						if(not resp):
+							resp=eliza.elizaResponse(procLine)
 				else:
 					if(random.choice(range(1, 100))==0):
 						markov.processLine(chan, eliza.elizaResponse(line))
@@ -82,6 +84,7 @@ class YaBot(ircbot.SingleServerIRCBot):
 				self.die(args[1])
 			else:
 				self.die()
+			os.exit(0)
 		elif (args[0]=="!save"):
 			self.say(c, "Saving...")
 			markov.save()
@@ -210,7 +213,11 @@ password=""
 
 def main():
 	bot=YaBot(servers, nick, realname, owners, channels, password)
-	bot.start()
+	try:
+		bot.start()
+	except:
+		os.rename("yabot_state.pickle", "yabot_state.pickle."+str(time.time()))
+		markov.save()
 if __name__=="__main__":
 	main()
 
