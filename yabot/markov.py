@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 
 MAX_RESULT_LENGTH=400	# IRC limits total message length to 510 characters, including hostname and user. Hostname limits to 63 characters. If user maxes out at 9 chars, this leaves an upper limit of 405 characters.
-MAX_MARKOV_LEVEL=5
+MAX_MARKOV_LEVEL=1
 
 replyrate=100
+replyrate=0
 
 wordTotal=0
 wordFrequencies={}
@@ -66,6 +67,21 @@ def load():
 		sys.stderr.write(" done!\n")
 	initialize()
 	regenerateLineHandling()
+
+def pruneMarkov(count):
+	global nextWords
+	for i in range(0, count):
+		idx1=random.choice(range(0, len(nextWords)))
+		idx2=random.choice(nextWords[idx1].keys())
+		nextWords[idx1][idx2].remove(random.choice(nextWords[idx1][idx2]))
+		if(len(nextWords[idx1][idx2])==0):
+			nextWords[idx1].remove(idx2)
+
+def pruneLineList(count):
+	global lineList
+	for source in lineList:
+		if(len(lineList[source])>count):
+			lineList[source]=lineList[source][:count]
 
 def processWords(phrase):
 	global wordFrequencies, nextWords, wordTotal
