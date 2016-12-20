@@ -9,7 +9,7 @@ res=[]
 def grabber(i=0):
     global res
     base_url = "http://principiadiscordia.com/memebombs/"
-    url = base_url + "kwotes.pl?action=list&m=501&so=reverse&o=date&s=" + str(i)
+    url = base_url + "kwotes.pl?action=list&m=501&so=reverse&o=rating&s=" + str(i)
     PQ = PyQuery(url)
     BQ = PQ("blockquote")
     for x in BQ:
@@ -25,4 +25,5 @@ def grabber(i=0):
         grabber(i+500)
 
 grabber()
-print(json.dumps({"origin":res}))
+print(json.dumps({"memebombs":res, "origin":["#memebombs# \\#memebomb"]}))
+
