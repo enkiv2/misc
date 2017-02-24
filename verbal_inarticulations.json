@@ -1,11 +1,12 @@
 {
-	"origin": ["#um#", "#uh#", "#er#", "like", "so to speak", "technically", "#nono#", "#yesyes#", "#yeah#", "#m2#"],
+	"origin": ["#um#", "#uh#", "#er#", "like", "#yeah#", "m#m2#", "#origin# #origin#", "#um# #origin#", "like #origin#", "#uh# #origin#"],
+	"long":["like", "so to speak", "technically", "#nono#", "#yesyes#"],
 	"um":["um", "u#m2#"],
 	"m2":["m", "m#m2#"],
 	"uh":["uh", "u#h2#"],
 	"h2":["h", "h#h2#"],
 	"er":["er", "er#r2#"],
-	"r2":["r", "r#r2"],
+	"r2":["r", "r#r2#"],
 	"yeah":["yeah", "yea#h2#"],
 	"yesyes":["yes", "yes#yesyes#"],
 	"nono":["no", "no#nono#"]
