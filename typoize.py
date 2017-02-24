@@ -15,9 +15,16 @@ def typoize(s, rate=5):
 	words=s.split()
 	for w in words:
 		word=w
-		for i in range(0, len(word)-2):
+		i=0
+		while i<len(word)-2:
 			if(random.choice(range(0,100))<rate):
-				word=letterSwap(word, i, i+1)
+				mode=random.choice(["transpose", "drop"])
+				if(mode=="transpose"):
+					word=letterSwap(word, i, i+1)
+				else:
+					word=word[:i]+word[i+1:]
+					i=i-1
+			i+=1
 		ret.append(word)
 	return " ".join(ret)
 
