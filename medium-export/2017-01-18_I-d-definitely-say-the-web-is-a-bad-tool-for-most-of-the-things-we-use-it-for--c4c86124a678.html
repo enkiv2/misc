@@ -1,0 +1,73 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>I’d definitely say the web is a bad tool for most of the things we use it for.</title><meta name="description" content="(Let me say that I like and appreciate that you *can* perform hacks like dynamic web pages; I’m just horrified that so many people think…"><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">I’d definitely say the web is a bad tool for most of the things we use it for.</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+(Let me say that I like and appreciate that you *can* perform hacks like dynamic web pages; I’m just horrified that so many people think…
+</section>
+<section data-field="body" class="e-content">
+<section name="b370" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="4f86" id="4f86" class="graf graf--p graf--leading">I’d definitely say the web is a bad tool for most of the things we use it for. In particular, the technique of using javascript sitting within a document to dynamically edit that document’s structure &amp; CSS attributes is a particularly inefficient way of building a user interface, and without the heavy optimization being done by browser maintainers any such application would be unusable. (As much as I dislike Java, I have to admit that applets are actually the appropriate solution here.)</p><p name="3ca1" id="3ca1" class="graf graf--p graf-after--p">(Let me say that I like and appreciate that you *can* perform hacks like dynamic web pages; I’m just horrified that so many people think you *should*. Dynamic web pages are, essentially, self-modifying code. Anywhere else, we would be very wary of that.)</p><p name="30e4" id="30e4" class="graf graf--p graf-after--p">HTTP specs provide response codes that address some of the problems related to addressing documents via their position on machines. (Doing this rather than using CAN is a mistake in the first place, but TBL was working with a slow network before ideas about CAN were very widespread.) If we were to try to implement up to the original spec &amp; use that spec to get as close as possible to traditional pre-web hypertext best practices, we would make the content of each page static (no CGI), keep track of where every document is at all times, use temporary and permanent redirect response codes if a document moves, never have two different documents (or a modified version of the same document) with the same full URL, and only use a 404 return code in the apocalyptic case that somebody simultaneously nuked your server and all your backups (or in the case that a document *never existed*). Today, these codes are not used that way.</p><p name="1be7" id="1be7" class="graf graf--p graf-after--p">(HTTP also specifies some very useful functionality that is very rarely implemented. Specifically: HEAD requests to get the length of a document and special variations on GET requests that return a span of bytes, given a starting offset and length. Such features are very useful in an environment where documents are static but potentially very long. Having worked on code intended to perform transclusions from arbitrary URLs, this feature would have drastically simplified my efforts.)</p><p name="78ee" id="78ee" class="graf graf--p graf-after--p">Right now, the most promising competitor to HTTP is IPFS — a CAN-based file transfer system. It doesn’t solve the problem of servers going down permanently (there is no automatic redundancy), but popular files will outlive short outages because requested files are served from cache (which also saves bandwidth upstream). IPFS avoids CGI-style hacks, but you can still serve arbitrary HTML/Javascript blobs, so it’s not as though it breaks that functionality. (Again, I consider using javascript to manipulate HTML messy and slow.)</p><p name="488e" id="488e" class="graf graf--p graf-after--p">My main complaint with web apps is that very few things benefit from being on port 80 &amp; being stuck inside HTML. An applet, because it’s essentially a native application that has been sandboxed, doesn’t have the problem of needing to draw using drawing routines intended for dealing with messy hand-written markup, nor does it have the problem of working against a set of quirk rules organically grown to protect against 20 years worth of random but very specific attacks on web browsers. An applet can use standard protocols, instead of depending on services that are exposed over HTTP wrappers. (HTTP-exposed APIs take the rule-breaking of CGI — which, remember, discouraged people from using redirects properly and led to the current user-hostile behavior of redirects; they are additionally generally less efficient than existing standard protocols.)</p><p name="4c57" id="4c57" class="graf graf--p graf-after--p graf--trailing">Applets have gotten a bad name, because most applets are either Java or Flash, and both of those platforms have a history of being quite awful. But, there’s no particular reason that an applet viewer for javascript, or lua, or smalltalk couldn’t exist, provided that someone decided on a decent standardized drawing model that properly supported all the various things people like to put in GUIs.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">John Ohno</a> on <a href="https://medium.com/p/c4c86124a678"><time class="dt-published" datetime="2017-01-18T19:33:59.605Z">January 18, 2017</time></a>.</p><p>Exported from <a href="https://medium.com">Medium</a> on March 2, 2017.</p></footer></article>
+
+</body></html>
