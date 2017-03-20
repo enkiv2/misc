@@ -2,21 +2,34 @@
 import gensim
 from gensim.models import word2vec
 
-from nltk.corpus import webtext
 import sys
 
 try:
-	open("text8.wv", 'r')
-	model=gensim.models.Word2Vec.load("text8.wv")
+	open("bigcorpus.wv", 'r')
+	model=gensim.models.Word2Vec.load("bigcorpus.wv")
 except:
 	sys.stderr.write("Corpus not found; training...")
 	sys.stderr.flush()
-	sentences=[]
-	for s in webtext.paras():
-		for j in s:
-			sentences.append(j)
+	import nltk
+	#nltk.download("all-corpora")
+	from nltk.corpus import webtext, inaugural, abc, genesis, state_union, gutenberg
+	class corpusIterator(object):
+		def __init__(self, c):
+			self.corpora=c
+		def __iter__(self):
+			for c in self.corpora:
+				sys.stderr.write("\nNew corpus.")
+				sys.stderr.flush()
+				for s in c.paras():
+					sys.stderr.write(".")
+					sys.stderr.flush()
+					for j in s:
+						sys.stderr.write("\b.")
+						sys.stderr.flush()
+						yield(j)
+	sentences=corpusIterator([webtext, inaugural, abc, genesis, state_union])
 	model=gensim.models.Word2Vec(sentences)
-	model.save("text8.wv")
+	model.save("bigcorpus.wv")
 	sys.stderr.write("\ttrained!\n")
 	sys.stderr.flush()
 
