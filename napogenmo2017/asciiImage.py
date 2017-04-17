@@ -44,7 +44,7 @@ for word in words:
 	if wordSizes[-1][1]>maxH:
 		maxH=wordSizes[-1][1]
 	
-	temp=Image.new("L", wordSizes[-1], "#000")
+	temp=Image.new("L", wordSizes[-1], "#fff")
 	tempDraw=ImageDraw.Draw(temp)
 	tempDraw.text((0, 0), word, font=font)
 	wordImages.append(temp)
@@ -73,8 +73,8 @@ for rownum in range(0, height/maxH):
 			c=candidates[i]
 			bbox=(x, y, x+wordSizes[c][0], y+maxH)
 			chunk=img.crop(bbox)
-			stat1=ImageStat.Stat(ImageChops.multiply(chunk.convert("L"), wordMasksI[c].convert("L")))
-			stat2=ImageStat.Stat(ImageChops.multiply(chunk.convert("L"), wordMasks[c].convert("L")))
+			stat1=ImageStat.Stat(ImageChops.multiply(chunk.convert("L"), wordMasks[c].convert("L")))
+			stat2=ImageStat.Stat(ImageChops.multiply(chunk.convert("L"), wordMasksI[c].convert("L")))
 			#score=(avg(stat1.rms)+(255-avg(stat2.rms)))/2
 			score=(avg(stat1.mean)+(255-avg(stat2.mean)))/2
 			if(score in candidateScores):
@@ -94,7 +94,7 @@ for rownum in range(0, height/maxH):
 		bbox=(x, y, x+wordSizes[best][0], y+wordSizes[best][1])
 		outImg.paste(wordMasks[best].convert(outImg.mode), bbox)
 		x+=wordSizes[best][0]
-#		sys.stdout.write(words[best])
-#	sys.stdout.write("\n")
+		sys.stdout.write(words[best])
+	sys.stdout.write("\n")
 
 outImg.save("output.png")
