@@ -95,6 +95,6 @@ for rownum in range(0, height/maxH):
 		outImg.paste(wordMasks[best].convert(outImg.mode), bbox)
 		x+=wordSizes[best][0]
 		sys.stdout.write(words[best])
-	sys.stdout.write("\n")
+	sys.stdout.write("\n"); sys.stdout.flush()
 
 outImg.save("output.png")
