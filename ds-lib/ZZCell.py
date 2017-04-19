@@ -15,6 +15,28 @@
 cellCount=0
 
 class ZZCell:
+	"""
+	A ZZStructure is a group of "cells" connected along "dimensions".
+	
+	Each cell has an optional value.
+	
+	A cell can be connected to another cell along a given dimension 
+	in either the negward or posward direction. A cell can have 
+	a maximum of one connection with a given dimension & direction.
+	If cell A is connected poswardly on dimension d.foo to cell B,
+	then cell B is connected negwardly on dimension d.foo to cell A.
+	
+	Dimensions are arbitrary strings. By convention, they have two
+	parts separated by a dot: a namespace followed by a name. The
+	default namespace is 'd'.
+	
+	A rank is the set of all cells connected along a given dimension.
+	(A ring-rank is a rank that is a circle.)
+	
+	Cells can be cloned. A clone's value is the same as the original,
+	but its connections may be different. A clone has its original
+	as the first item in its rank along dimension 'd.clone'
+	"""
 	def __init__(self, value=None):
 		global cellCount
 		self.cid=cellCount
@@ -38,12 +60,14 @@ class ZZCell:
 			val.setNext(temp, val, pos)
 		else:
 			self.setNext(dim, val, pos)
-	def interpolate(self, dim, val, pos=True):
+	def interpolate(self, dim, val, pos=True, ttl=1000):
 		""" interpolate two ranks """
+		if(ttl==0):
+			return		# ring ranks may cause infinite recursion
 		if(dim in self.connections[pos]):
 			temp=self.connections[pos][dim]
 			self.setNext(dim, val, pos)
-			val.interpolate(temp, val, pos)
+			val.interpolate(temp, val, pos, ttl-1)
 		else:
 			self.setNext(dim, val, pos)
 	def breakConnection(self, dim, pos=True):
@@ -62,6 +86,8 @@ class ZZCell:
 		curr=self
 		n=curr.getNext(dim, pos)
 		while(n):
+			if(n==self):
+				break	# handle ringranks
 			curr=n
 			n=curr.getNext(dim, pos)
 		return curr
