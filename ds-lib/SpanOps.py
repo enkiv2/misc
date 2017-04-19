@@ -84,3 +84,23 @@ def pageList(spanlist, cachedSpans):
 				ret.extend(nonOverlap(span, span2))
 	return lint(ret)
 
+def concatextIdx2SpanIdx(threespans, idx):
+	""" 
+	a threespan is a tuple of form (source, start, length);
+	a concatext is a document made by concatenating a series of spans from different sources
+	
+	this function takes the threespans representing the concatext & an index into it, and
+	returns an index into an individual source document in the form of a zero-length threespan
+	"""
+	ax=0
+	for tsp in threespans:
+		i=ax+tsp[2]
+		if(i==idx):
+			return (tsp[0], tsp[1]+tsp[2], 0)
+		if(i>idx):
+			delta=tsp[2]-(i-idx)
+			return (tsp[0], tsp[1]+delta, 0)
+		ax=i
+	return None
+
+			
