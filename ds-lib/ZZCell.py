@@ -1,5 +1,17 @@
 #!/usr/bin/env python
 
+# LEGAL NOTE:
+# While I have written ZigZag implementations officially for Project Xanadu(tm), 
+# this implementation shares no code with those. This code contains no material
+# under trade secret protection related to Project Xanadu(tm).
+#
+# Please refer to a collection of these objects as a ZZStructure, rather than
+# ZigZag(tm).
+#
+# It is the opinion of the author that this does not replicate any features of
+# ZigZag(tm) that are under patent protection or covered by patent applications
+# still in the pipeline.
+
 cellCount=0
 
 class ZZCell:
