@@ -45,6 +45,9 @@ class ZZCell:
 		self.connections[True]={}
 		self.connections[False]={}
 		cells.append(self)
+	def getValue(self):
+		""" get cell's value. Use this, rather than the value attribute, unless you specifically don't want to handle clones """
+		return self.cloneHead().value
 	def getNext(self, dim, pos=True):
 		if dim in self.connections[pos]:
 			return self.connections[pos]
@@ -60,6 +63,16 @@ class ZZCell:
 			val.setNext(temp, val, pos)
 		else:
 			self.setNext(dim, val, pos)
+	def breakConnection(self, dim, pos=True):
+		if self.getNext(dim, pos):
+			temp=self.connections[pos][dim]
+			temp.connections[not pos][dim]=None
+			self.connections[pos][dim]=None
+	def clone(self):
+		""" create a clone """
+		c=ZZCell()
+		self.rankHead("d.clone", True).setNext("d.clone", c)
+		return c
 	def interpolate(self, dim, val, pos=True, ttl=1000):
 		""" interpolate two ranks """
 		if(ttl==0):
@@ -70,11 +83,6 @@ class ZZCell:
 			val.interpolate(temp, val, pos, ttl-1)
 		else:
 			self.setNext(dim, val, pos)
-	def breakConnection(self, dim, pos=True):
-		if self.getNext(dim, pos):
-			temp=self.connections[pos][dim]
-			temp.connections[not pos][dim]=None
-			self.connections[pos][dim]=None
 	def elide(self, dim):
 		""" break connection on either side and then join the ends """
 		prev=self.getNext(dim, False)
@@ -104,14 +112,6 @@ class ZZCell:
 		return curr
 	def cloneHead(self):
 		return self.rankHead("d.clone")
-	def getValue(self):
-		""" get cell's value. Use this, rather than the value attribute, unless you specifically don't want to handle clones """
-		return self.cloneHead().value
-	def clone(self):
-		""" create a clone """
-		c=ZZCell()
-		self.rankHead("d.clone", True).setNext("d.clone", c)
-		return c
 	def getDims(self):
 		return list(set(self.connections[True].keys() + self.connections[False].keys()))
 	def compressedRep(self):
