@@ -12,7 +12,7 @@
 # ZigZag(tm) that are under patent protection or covered by patent applications
 # still in the pipeline.
 
-cellCount=0
+cells=[]
 
 class ZZCell:
 	"""
@@ -38,13 +38,13 @@ class ZZCell:
 	as the first item in its rank along dimension 'd.clone'
 	"""
 	def __init__(self, value=None):
-		global cellCount
-		self.cid=cellCount
-		cellCount+=1
+		global cells
+		self.cid=len(cells)
 		self.value=value
 		self.connections={}
 		self.connections[True]={}
 		self.connections[False]={}
+		cells.append(self)
 	def getNext(self, dim, pos=True):
 		if dim in self.connections[pos]:
 			return self.connections[pos]
@@ -103,4 +103,31 @@ class ZZCell:
 		return c
 	def getDims(self):
 		return list(set(self.connections[True].keys() + self.connections[False].keys()))
+	def compressedRep(self):
+		connections={}
+		for k in self.connections[True].keys():
+			connections[k]=self.connections[True][k].cid
+		return {"cid":self.cid, "value":self.getValue(), "connections":connections}
+	def __repr__(self):
+		return str(self.compressedRep())
 
+def zz2dia(cellList):
+	""" return a graphviz-compatible graph description for the zzstructure """
+	ret=["digraph zz {", "node [shape=box style=rounded];"]
+	connects=[]
+	for cell in cellList:
+		rep=cell.compressedRep()
+		ret.append("n"+str(rep["cid"])+" [label=\""+rep["value"].replace("\"", "\\\"")+"\"];")
+		for dim in rep["connections"].keys():
+			connects.append("edge [label=\""+dim+"\"];")
+			connects.append("n"+str(rep["cid"])+" -> n"+str(rep["connections"][dim])+";")
+	ret.extend(connects)
+	ret.append("}")
+	return "\n".join(ret)
+
+# a=ZZCell(value="Home")
+# b=ZZCell(value="hello from d.1")
+# c=ZZCell(value="hello from d.2")
+# a.setNext("d.1", b)
+# a.setNext("d.2", c)
+# print(zz2dia(cells))
