@@ -5,5 +5,5 @@ Xanadu(tm)-related:
 
 Misc:
 
-* [ChordRouting](ChordRouting.py): implementation of chord-style routing, wherein hash similarity is used to generate stable paths in distributed content-addressable file storage
+* [ChordRouting](ChordRouting.py): implementation of [chord-style routing](http://en.wikipedia.org/wiki/Chord_%28peer-to-peer%29#Overview), wherein hash similarity is used to generate stable paths in distributed content-addressable file storage
 
