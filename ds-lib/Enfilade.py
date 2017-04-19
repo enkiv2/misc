@@ -36,7 +36,7 @@ class Enfilade:
 		return ret
 	def getByTumbler(self, tumbler):
 		""" resolve a tumbler address to a flat list of values """
-		keySequence=tumbler.split('.')
+		keySequence=map(int, tumbler.split('.'))
 		ret=[]
 		i=0
 		current=self
@@ -50,7 +50,7 @@ class Enfilade:
 		return current.get(keySequence[-1])
 	def putValue(self, tumbler, value):
 		""" set the value at a particular tumbler address, creating intermediate nodes if necessary """
-		keySequence=tumbler.split('.')
+		keySequence=map(int, tumbler.split('.'))
 		current=self
 		for key in keySequence[:-1]:
 			current=current.children
