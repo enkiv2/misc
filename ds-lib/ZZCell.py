@@ -125,9 +125,3 @@ def zz2dia(cellList):
 	ret.append("}")
 	return "\n".join(ret)
 
-# a=ZZCell(value="Home")
-# b=ZZCell(value="hello from d.1")
-# c=ZZCell(value="hello from d.2")
-# a.setNext("d.1", b)
-# a.setNext("d.2", c)
-# print(zz2dia(cells))
