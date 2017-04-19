@@ -45,6 +45,7 @@ class ZZCell:
 		self.connections[True]={}
 		self.connections[False]={}
 		cells.append(self)
+	# core operations
 	def getValue(self):
 		""" get cell's value. Use this, rather than the value attribute, unless you specifically don't want to handle clones """
 		return self.cloneHead().value
@@ -52,9 +53,6 @@ class ZZCell:
 		if dim in self.connections[pos]:
 			return self.connections[pos]
 		return None
-	def setNext(self, dim, val, pos=True):
-		self.connections[pos][dim]=val
-		val.connections[not pos][dim]=self
 	def insert(self, dim, val, pos=True):
 		""" like setNext, except it will repair exactly one connection """
 		if(dim in self.connections[pos]):
@@ -73,6 +71,9 @@ class ZZCell:
 		c=ZZCell()
 		self.rankHead("d.clone", True).setNext("d.clone", c)
 		return c
+	def cloneHead(self):
+		return self.rankHead("d.clone")
+	# advanced operations
 	def interpolate(self, dim, val, pos=True, ttl=1000):
 		""" interpolate two ranks """
 		if(ttl==0):
@@ -100,6 +101,10 @@ class ZZCell:
 		""" break all connections. (orphaned cells are inaccessible & so may be garbage collected) """
 		for dim in self.getDims():
 			self.elide(dim)
+	# underlying operations (usually not exposed through the UI)
+	def setNext(self, dim, val, pos=True):
+		self.connections[pos][dim]=val
+		val.connections[not pos][dim]=self
 	def rankHead(self, dim, pos=False):
 		""" Get the head (or tail) of a rank """
 		curr=self
@@ -110,8 +115,6 @@ class ZZCell:
 			curr=n
 			n=curr.getNext(dim, pos)
 		return curr
-	def cloneHead(self):
-		return self.rankHead("d.clone")
 	def getDims(self):
 		return list(set(self.connections[True].keys() + self.connections[False].keys()))
 	def compressedRep(self):
