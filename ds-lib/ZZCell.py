@@ -75,12 +75,23 @@ class ZZCell:
 			temp=self.connections[pos][dim]
 			temp.connections[not pos][dim]=None
 			self.connections[pos][dim]=None
+	def elide(self, dim):
+		""" break connection on either side and then join the ends """
+		prev=self.getNext(dim, False)
+		self.breakConnection(dim, False)
+		n=self.getNext(dim)
+		self.breakConnection(dim)
+		prev.setNext(dim, n)
 	def hop(self, dim, pos=True):
 		""" hop this cell over the next one in the rank, if it exists """
 		temp=self.getNext(dim, pos)
 		if(temp):
-			self.breakConnection(dim, pos)
-			temp.interpolate(dim, self, not pos)
+			self.elide(dim)
+			temp.setNext(dim, self, pos)
+	def orphan(self):
+		""" break all connections. (orphaned cells are inaccessible & so may be garbage collected) """
+		for dim in self.getDims():
+			self.elide(dim)
 	def rankHead(self, dim, pos=False):
 		""" Get the head (or tail) of a rank """
 		curr=self
@@ -124,4 +135,9 @@ def zz2dia(cellList):
 	ret.extend(connects)
 	ret.append("}")
 	return "\n".join(ret)
-
+def findOrphans(cellList):
+	ret=[]
+	for cell in cellList:
+		if(len(cell.getDims())==0):
+			ret.append(cell)
+	return ret
