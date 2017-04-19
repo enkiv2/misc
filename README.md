@@ -46,6 +46,7 @@ Misc:
 
 * [medium-export](medium-export): archive of my medium posts
 * [README.md](README.md): this file
+* [ds-lib](ds-lib): small python libraries for data structures or algorithms for which there are no readily-available open source implementations easily understood by beginners
 
 Moved:
 
