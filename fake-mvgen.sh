@@ -44,6 +44,80 @@ function randomColor() {
 	echo "#${red}${green}${blue}"
 }
 
+function filter_randomColorScene() {
+	# random color scene
+	color="$(randomColor)"
+	echo "Coloring scene: $color"
+	i=0
+	for item in $(cat ~/.$$-cliplist) ; do
+		( convert $item -fill "$color" -tint 110 ${item}-2.png &&
+		mv ${item}{-2.png,} ) &
+		i=$((i+1))
+		if [[ $i -gt 20 ]] ; then
+			echo "Waiting for color correction to finish on batch...\c"
+			wait
+			echo "\tdone"
+			i=0
+		fi
+	done; wait
+}
+function filter_randomColorFrame() {
+	# random color scene
+	i=0
+	for item in $(cat ~/.$$-cliplist) ; do
+		( convert $item -fill "$(randomColor)" -tint 110 ${item}-2.png &&
+		mv ${item}{-2.png,} ) &
+		i=$((i+1))
+		if [[ $i -gt 20 ]] ; then
+			echo "Waiting for color correction to finish on batch...\c"
+			wait
+			echo "\tdone"
+			i=0
+		fi
+	done; wait
+}
+function filter_zoomIn() {
+	echo "Zooming in on scene"
+	count=$(wc -l < ~/.$$-cliplist)
+	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
+	i=0
+	for item in $(cat ~/.$$-cliplist) ; do
+		( convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
+		mv ${item}{-2.png,} ) &
+		i=$((i+1))
+		if [[ $i -gt 20 ]] ; then
+			echo "Waiting for zoom to finish on batch...\c"
+			wait
+			echo "\tdone"
+			i=0
+		fi
+	done; wait
+}
+function filter_zoomOut() {
+	echo "Zooming out on scene"
+	count=$(wc -l < ~/.$$-cliplist)
+	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
+	i=0
+	for item in $(tac ~/.$$-cliplist) ; do
+		( convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
+		mv ${item}{-2.png,} ) &
+		i=$((i+1))
+		if [[ $i -gt 20 ]] ; then
+			echo "Waiting for zoom to finish on batch...\c"
+			wait
+			echo "\tdone"
+			i=0
+		fi
+	done; wait
+}
+function filter_randomZoom() {
+	if [[ $((RANDOM%2)) -gt 0 ]] ; then
+		filter_zoomIn
+	else
+		filter_zoomOut
+	fi
+}
+
 total_length=$(getLength $audiofile)
 total_frames=$(( ($total_length*1.0) * $fps ))
 total_clips=$(( ($total_length*1.0) / $cps ))
@@ -83,21 +157,9 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 			ls > ~/.$$-cliplist
 		fi
 		
-		# random color scene
-		color="$(randomColor)"
-		echo "Coloring scene: $color"
-		i=0
-		for item in $(cat ~/.$$-cliplist) ; do
-			( convert $item -fill "$color" -tint 110 ${item}-2.png &&
-			mv ${item}{-2.png,} ) &
-			i=$((i+1))
-			if [[ $i -gt 20 ]] ; then
-				echo "Waiting for color correction to finish on batch...\c"
-				wait
-				echo "\tdone"
-				i=0
-			fi
-		done; wait
+		# filters go here
+		filter_randomColorScene
+		filter_randomZoom
 
 		frames=$(wc -l < ~/.$$-cliplist)
 		current_frame=$((current_frame + frames))
