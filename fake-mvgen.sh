@@ -6,6 +6,7 @@ cps=$3
 outfile=$4
 shift ; shift ; shift ; shift
 
+
 function getLength() {
 	mplayer -vo null -ao null -identify -frames 0 "$@" | grep LENGTH | sed 's/^.*=//'
 }
@@ -65,7 +66,7 @@ function filter_randomColorFrame() {
 	# random color scene
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( convert $item -fill "$(randomColor)" -tint 110 ${item}-2.png &&
+		( rm -f ${item}-2.png ; convert $item -fill "$(randomColor)" -tint 110 ${item}-2.png &&
 		mv ${item}{-2.png,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
@@ -82,7 +83,7 @@ function filter_zoomIn() {
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
+		( rm -f ${item}-2.png ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
 		mv ${item}{-2.png,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
@@ -99,7 +100,7 @@ function filter_zoomOut() {
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
 	for item in $(tac ~/.$$-cliplist) ; do
-		( convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
+		( rm -f ${item}-2.png ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
 		mv ${item}{-2.png,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
@@ -181,6 +182,7 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 		rm -f ~/.$$-clip/*
 		check=$(floor $((current_clips % 10)) )
 		if [[ $check -eq 0 ]] ; then
+			setopt SH_WORD_SPLIT
 			lastmerge=$current_clips
 			cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 			if [[ -e ~/.$$-clip.avi ]] ; then
@@ -189,12 +191,14 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 			else
 				mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 			fi
-			rm $cliplist
+			for item in $cliplist ; do rm $item ; done
+			unsetopt SH_WORD_SPLIT
 		fi
 	else
 		echo "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
 	fi
 done
+setopt SH_WORD_SPLIT
 cliplist=$(i=$lastmerge ; while [[ $i < $((current_clips + 1)) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 if [[ -e ~/.$$-clip.avi ]] ; then
 	mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
@@ -202,7 +206,7 @@ if [[ -e ~/.$$-clip.avi ]] ; then
 else
 	mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 fi
-rm $cliplist
+for item in $cliplist ; do rm $item ; done
 mencoder -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
 rm ~/.$$-clip.avi
 rmdir ~/.$$-clip
