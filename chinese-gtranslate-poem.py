@@ -32,8 +32,8 @@ def randCharInRange(start, end):
 
 ranges=[]
 if(jpMode):
-	ranges.append((0x30a0, 0x30ff))
-	ranges.append((0x3040, 0x309f))
+	ranges.append((0x30a0, 0x30ff))	# katakana
+	ranges.append((0x3040, 0x309f))	# hirigana
 ranges.append((0x4e00,0x9fff)) 		# CJK Unified Ideographs 		- common
 ranges.append((0x3400,0x4dbf)) 		# CJK Unified Ideographs Extension A 	- rare
 #ranges.append((0x20000,0x2a6df)) 	# CJK Unified Ideographs Extension B 	- rare, historic
