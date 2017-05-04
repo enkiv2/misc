@@ -11,6 +11,9 @@
 # We omit extensions past A because unichr() doesn't like
 # unicode characters higher than 0x10k
 
+jpMode=False
+jpMode=True
+
 import codecs
 import sys
 
@@ -28,13 +31,16 @@ def randCharInRange(start, end):
 	return unichr(codePoint)
 
 ranges=[]
+if(jpMode):
+	ranges.append((0x30a0, 0x30ff))
+	ranges.append((0x3040, 0x309f))
 ranges.append((0x4e00,0x9fff)) 		# CJK Unified Ideographs 		- common
 ranges.append((0x3400,0x4dbf)) 		# CJK Unified Ideographs Extension A 	- rare
 #ranges.append((0x20000,0x2a6df)) 	# CJK Unified Ideographs Extension B 	- rare, historic
 #ranges.append((0x2a700,0x2b73f)) 	# CJK Unified Ideographs Extension C 	- rare, historic
 
 ax=""
-for i in range(0, 10):
+for i in range(0, 20):
 	candidates=[]
 	for r in ranges:
 		candidates.append(randCharInRange(r[0], r[1]))
