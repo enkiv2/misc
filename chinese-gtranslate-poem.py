@@ -1,5 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
+
+# Automates the generation of the original text side of 
+# google translate poems like the ones in this thread:
+#  https://twitter.com/metasynthie/status/859743651282509824 
+# Uses chinese rather than japanese because random kanji
+# should have more interesting meaning than random kana.
+# However, it's straightforward to replace the range list
+# with character ranges for kana.
+# We omit extensions past A because unichr() doesn't like
+# unicode characters higher than 0x10k
+
 import codecs
 import sys
 
