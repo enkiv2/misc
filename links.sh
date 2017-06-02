@@ -9,7 +9,7 @@ function fmtlinks() {
 	echo "<head><title>Links</title></head>"
 	echo "<body>"
 	echo "<table>"
-	echo "<th><td>Link</td><td>Date</td></th>"
+	echo "<tr><th>Link</th><th>Date</th></tr>"
 	tac ~/.linkit| awk 'BEGIN{FS="\t"} {print "<tr><td><a href=\"" $1 "\">" $1 "</a></td><td>" $2 "</td></tr>"}'
 	echo "</table>"
 	echo "</body>"
