@@ -43,6 +43,8 @@ for line in lines:
 		minDelta=delta
 		minI=line
 
-print("Most representative: "+minI)
-print("Least representative: "+maxI)
+print("Average polarity: "+str(pax))
+print("Average subjectivity: "+str(sax))
+print("Most representative: "+str(minDelta)+"\t"+minI)
+print("Least representative: "+str(maxDelta)+"\t"+maxI)
 
