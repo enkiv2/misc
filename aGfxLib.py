@@ -8,6 +8,7 @@ A1Ratio=11/8.5
 
 Universe=[]
 Exit=False
+FocusedWidget=None
 
 def init():
 	pygame.init()
@@ -30,6 +31,7 @@ def drawRoundRect(surface, x, y, width, height, bevelsize, color):
 	gfxdraw.arc(surface, x+width-bevelsize, y+height-bevelsize, bevelsize, 0, 90, color)
 
 class AContainer(object):
+	# TODO: drag_accept, drag_sprite_draw, drag_sprite_erase, takeFocus
 	def __init__(self, parent=None, children=None):
 		global Universe
 		self.surface=pygame.display.get_surface()
@@ -41,6 +43,8 @@ class AContainer(object):
 			child.parent=self
 		self.offsetX=0
 		self.offsetY=0
+		self.initialOffsetX=0	# for flow
+		self.initialOffsetY=0	# for flow
 		self.width=-1
 		self.height=-1
 		self.dirty=True
@@ -48,11 +52,25 @@ class AContainer(object):
 		self.packMode="horizontal"
 		self.alignment="center"
 		self.fill=True
+		self.flowable=False
+		self.visible=True
+		self.packed=False
+	def flow(self, initalOffsetX, initialOffsetY):
+		# Flow is an alternative to pack for things like text
+		# In other words, you have a head and tail that's possibly
+		# less wide than the 'body' and can link up with the respective
+		# tail and head of something else.
+		if(flowable):
+			self.initialOffsetX=initialOffsetX
+			self.initialOffsetY=initialOffsetY
+		else:
+			self.offsetY+=initialOffsetY
 	def pack(self, mode="horizontal", align="center", fill=True):
 		self.setDirty()
 		self.packMode=mode
 		self.alignment=align
 		self.fill=fill
+		self.packed=True
 		self.repack()
 	def repack(self):
 		numChildren=len(self.children)
@@ -72,9 +90,14 @@ class AContainer(object):
 				child.deltaX=i*delta
 				child.deltaY=0
 		for child in self.children:
-			child.pack(child.packMode, self.alignment, self.fill)
+			if(child.packed):
+				child.pack(child.packMode, self.alignment, self.fill)
 	def setDirty(self):
 		self.dirty=True
+	def setDirtyCascade(self):
+		self.setDirty()
+		for child in self.children:
+			child.setDirtyCascade()
 	def getHeight(self):
 		if(self.parent):
 			parentHeight=self.parent.getHeight()
@@ -105,20 +128,47 @@ class AContainer(object):
 		if(self.parent):
 			parentY=self.parent.getY()
 		return parentY+self.offsetY
+	def findParentWindow(self):
+		p=self
+		while(p!=None and type(p)!=type(AWindow)):
+			p=p.parent
+		return p
+	def updateWindowCascade(self, above=True):
+		p=self.findParentWindow()
+		if(p!=None):
+			i=0
+			try:
+				i=Universe.index(p)
+			except:
+				return
+			if(above):
+				wids=Universe[i:]
+			else:
+				wids=Universe[:i]
+			for wid in wids:
+				wid.setDirtyCascade()
+	def hide(self):
+		self.erase()
+		self.visible=False
+	def show(self):
+		self.visible=True
+		self.dirty=True
 	def erase(self):
 		x=self.getX()
 		y=self.getY()
-		self.surface.fill(Color("black"), (x, y, x+self.getWidth(), y+self.getHeight()))
+		self.surface.fill(Color("black"), (x, y, x+self.getWidth()+1, y+self.getHeight()+1))
 	def draw(self):
-		if(self.dirty):
-			self.erase()
-			self.draw_r()
-		self.dirty=False
-		for child in self.children:
-			child.draw()
+		if(self.visible):
+			if(self.dirty):
+				self.erase()
+				self.draw_r()
+			self.dirty=False
+			for child in self.children:
+				child.draw()
 	def draw_r(self):
 		pass
-class ATextChunk(AContainer):
+class ATextChunk(AContainer): # TODO implement flow support & move scrolling to a new scrollingcontainer class: this class should just be noodles
+	# TODO: also implement translucent background colors
 	def __init__(self, parent=None, content="", color="orange", font=None, fontSize=6, editable=False):
 		AContainer.__init__(self, parent)
 		self.content=content
@@ -225,8 +275,8 @@ class AWindow(AContainer):
 		child=AContainer(self, children)
 		child.offsetX=borderWidth+1
 		child.offsetY=borderWidth+1
-		child.width=-(borderWidth+1)
-		child.height=-(borderWidth+1)
+		child.width=-(borderWidth+2)
+		child.height=-(borderWidth+2)
 		AContainer.__init__(self, parent, [child])
 		self.borderWidth=borderWidth
 		self.color=Color(color)
@@ -295,6 +345,10 @@ class ADecoratedWindow(AContainer):
 	def __init__(self, parent=None, children=None, borderWidth=5, color="orange", beveled=True, title="AGfxLib - Untitled Window"):
 		global Universe
 		self.childWindow=AWindow(self, children, borderWidth, color, beveled)
+		try:
+			Universe.remove(self.childWindow)	# since we are decorated don't double-store the window in list
+		except:
+			pass
 		self.childDecoration=AWindowDecoration(self, borderWidth, color, beveled, title)
 		AContainer.__init__(self, parent, [self.childDecoration, self.childWindow])
 		self.width=max(self.childDecoration.width, self.childWindow.width)
@@ -303,6 +357,20 @@ class ADecoratedWindow(AContainer):
 		self.height=self.childDecoration.height+self.childWindow.height
 		self.childWindow.offsetY=self.childDecoration.height
 		Universe.append(self)
+	def iconify(self):
+		self.childWindow.hide()
+		self.childDecoration.setDirty()
+	def deiconify(self):
+		self.childWindow.show()
+		self.childDecoration.setDirty()
+	def close(self):
+		self.childWindow.hide()
+		self.childDecoration.hide()
+		try:
+			Universe.remove(self.childWindow)
+		except:
+			pass
+		Universe.remove(self)
 	def draw_r(self):
 		self.width=max(self.childDecoration.width, self.childWindow.width)
 		self.childDecoration.width=self.width
@@ -324,7 +392,12 @@ def windowTest():
 		mainloop_body()
 		time.sleep(1)
 		text.scroll(-1)
-	
+	window.iconify()
+	mainloop_body()
+	time.sleep(1)
+	window.deiconify()
+	mainloop_body()
+	time.sleep(1)
 
 
 windowTest()
