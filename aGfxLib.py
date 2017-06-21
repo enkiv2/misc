@@ -45,6 +45,34 @@ class AContainer(object):
 		self.height=-1
 		self.dirty=True
 		self.bgcolor=Color("black")
+		self.packMode="horizontal"
+		self.alignment="center"
+		self.fill=True
+	def pack(self, mode="horizontal", align="center", fill=True):
+		self.setDirty()
+		self.packMode=mode
+		self.alignment=align
+		self.fill=fill
+		self.repack()
+	def repack(self):
+		numChildren=len(self.children)
+		height=self.getHeight()
+		width=self.getWidth()
+		positions=[]
+		if(self.packMode=="vertical"):
+			delta=int(height/numChildren)
+		else:
+			delta=int(width/numChildren)
+		for i in range(0, len(self.children)):
+			child=self.children[i]
+			if(self.packMode=="vertical"):
+				child.deltaX=0
+				child.deltaY=i*delta
+			else:
+				child.deltaX=i*delta
+				child.deltaY=0
+		for child in self.children:
+			child.pack(child.packMode, self.alignment, self.fill)
 	def setDirty(self):
 		self.dirty=True
 	def getHeight(self):
@@ -214,10 +242,80 @@ class AWindow(AContainer):
 		for child in self.children:
 			child.draw()
 
+class AWindowDecoration(AContainer):
+	def __init__(self, parent=None, borderWidth=5, color="orange", beveled=True, title="AGfxLib - Untitled Window", font=None, fontSize=12, bevelSize=5):
+		self.parent=parent
+		AContainer.__init__(self, parent, [])
+		self.borderWidth=borderWidth
+		self.color=Color(color)
+		self.beveled=beveled
+		self.title=title
+		self.titleRendered=None
+		self.fontSize=fontSize
+		self.font=font
+		self.antialias=True
+		self.bevelSize=bevelSize
+		if(not font):
+			self.font=pygame.font.Font(pygame.font.get_default_font(), self.fontSize)
+		self.titleSize=self.font.size(self.title)
+		self.buttonWidth=self.titleSize[1]
+		self.maxTitleWidth=self.titleSize[0]
+		self.width=self.titleSize[0]+3*self.buttonWidth+2*self.bevelSize
+		self.height=self.titleSize[1]+2*self.bevelSize
+	def drawButtons(self):
+		buttonR=int(self.buttonWidth/2)
+		gfxdraw.filled_circle(self.surface, self.getX()+self.width-buttonR, self.getY()+buttonR, buttonR, self.color)
+		gfxdraw.circle(self.surface, self.getX()+self.width-buttonR-self.buttonWidth, self.getY()+buttonR, buttonR, self.color)
+	def draw_r(self):
+		if(self.beveled):
+			drawRoundRect(self.surface, self.getX(), self.getY(), self.width, self.height, self.bevelSize, self.color)
+		else:
+			gfxdraw.rectangle(self.surface, (self.getX(), self.getY(), self.getX()+self.getWidth(), self.getY()+self.getHeight()), self.color)
+		if not self.titleRendered:
+			if(self.font.size(self.title)[0]>self.maxTitleWidth):
+				title=self.title
+				offset=len(title)
+				while(self.font.size(title+"...")[0]>self.maxTitleWidth):
+					if(offset==1):
+						title=""
+						break
+					offset-=1
+					title=title[:offset]
+				if(title):
+					self.titleRendered=self.font.render(title+"...", self.antialias, self.color)
+				else:
+					self.titleRendered=self.font.render("", self.antialias, self.color)
+			else:
+				self.titleRendered=self.font.render(self.title, self.antialias, self.color)
+		self.surface.blit(self.titleRendered, (self.getX()+self.bevelSize, self.getY()+self.bevelSize))
+		self.drawButtons()
+		
+		
+class ADecoratedWindow(AContainer):
+	def __init__(self, parent=None, children=None, borderWidth=5, color="orange", beveled=True, title="AGfxLib - Untitled Window"):
+		global Universe
+		self.childWindow=AWindow(self, children, borderWidth, color, beveled)
+		self.childDecoration=AWindowDecoration(self, borderWidth, color, beveled, title)
+		AContainer.__init__(self, parent, [self.childDecoration, self.childWindow])
+		self.width=max(self.childDecoration.width, self.childWindow.width)
+		self.childDecoration.width=self.width
+		self.childWindow.width=self.width
+		self.height=self.childDecoration.height+self.childWindow.height
+		self.childWindow.offsetY=self.childDecoration.height
+		Universe.append(self)
+	def draw_r(self):
+		self.width=max(self.childDecoration.width, self.childWindow.width)
+		self.childDecoration.width=self.width
+		self.childWindow.width=self.width
+		self.height=self.childDecoration.height+self.childWindow.height
+		self.childWindow.offsetY=self.childDecoration.height
+		self.childDecoration.setDirty()
+		self.childWindow.setDirty()
+
 def windowTest():
 	init()
 	text=ATextChunk(content="hello, world!\nThis is a new line\nThis is a very long line and the next line should contain a single word that is also very long hold on let me pad out the line so we definitely wrap... ok here we go!\nThis_is_a_very_long_line_and_the_next_line_should_contain_a_single_word_that_is_also_very_long_hold_on_let_me_pad_out_the_line_so_we_definitely_wrap..._ok_here_we_go!\n\n\nThere should have just been two blank lines\nNow we want to make our line wrap to the very end of the box and we can do that by being very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very long", fontSize=10)
-	window=AWindow(children=[text])
+	window=ADecoratedWindow(children=[text])
 	for i in range(0, 5):
 		mainloop_body()
 		time.sleep(1)
