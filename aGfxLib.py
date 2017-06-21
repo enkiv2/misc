@@ -184,6 +184,7 @@ class ATextChunk(AContainer): # TODO implement flow support & move scrolling to 
 		self.scrollPosition=0
 		self.scrollIndicatorWidth=10
 		self.fillScrollIndicator=True
+		self.invert=False
 	def setScroll(self, pos):
 		self.scrollPostion=pos
 		self.setDirty()
@@ -191,6 +192,10 @@ class ATextChunk(AContainer): # TODO implement flow support & move scrolling to 
 		self.scrollPosition+=delta
 		self.setDirty()
 	def renderText(self, text):
+		if(self.invert):
+			if(self.bgcolor):
+				return self.font.render(text, self.antialias, self.bgcolor, self.color)
+			return self.font.render(text, self.antialias, Color(0, 0, 0, 0), self.color)
 		if(self.bgcolor):
 			return self.font.render(text, self.antialias, self.color, self.bgcolor)
 		return self.font.render(text, self.antialias, self.color)
@@ -392,10 +397,12 @@ def windowTest():
 		mainloop_body()
 		time.sleep(1)
 		text.scroll()
+		text.invert=(not text.invert)
 	for i in range(0, 5):
 		mainloop_body()
 		time.sleep(1)
 		text.scroll(-1)
+		text.invert=(not text.invert)
 	window.iconify()
 	mainloop_body()
 	time.sleep(1)
