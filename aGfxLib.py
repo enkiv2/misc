@@ -105,9 +105,9 @@ class AContainer(object):
 			parentHeight=self.surface.get_height()
 		if(self.height>0):
 			if(self.height>parentHeight):
-				return parentHeight-self.offsetY
-			return self.height-self.offsetY
-		return self.height+parentHeight-self.offsetY
+				return parentHeight
+			return self.height
+		return self.height+parentHeight
 	def getWidth(self):
 		if(self.parent):
 			parentWidth=self.parent.getWidth()
