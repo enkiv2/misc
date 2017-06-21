@@ -44,6 +44,9 @@ class AContainer(object):
 		self.width=-1
 		self.height=-1
 		self.dirty=True
+		self.bgcolor=Color("black")
+	def setDirty(self):
+		self.dirty=True
 	def getHeight(self):
 		if(self.parent):
 			parentHeight=self.parent.getHeight()
@@ -74,10 +77,19 @@ class AContainer(object):
 		if(self.parent):
 			parentY=self.parent.getY()
 		return parentY+self.offsetY
+	def erase(self):
+		x=self.getX()
+		y=self.getY()
+		self.surface.fill(Color("black"), (x, y, x+self.getWidth(), y+self.getHeight()))
 	def draw(self):
+		if(self.dirty):
+			self.erase()
+			self.draw_r()
 		self.dirty=False
 		for child in self.children:
 			child.draw()
+	def draw_r(self):
+		pass
 class ATextChunk(AContainer):
 	def __init__(self, parent=None, content="", color="orange", font=None, fontSize=6, editable=False):
 		AContainer.__init__(self, parent)
@@ -90,6 +102,14 @@ class ATextChunk(AContainer):
 		if(not font):
 			self.font=pygame.font.Font(pygame.font.get_default_font(), self.fontSize)
 		self.scrollPosition=0
+		self.scrollIndicatorWidth=10
+		self.fillScrollIndicator=True
+	def setScroll(self, pos):
+		self.scrollPostion=pos
+		self.setDirty()
+	def scroll(self, delta=1):
+		self.scrollPosition+=delta
+		self.setDirty()
 	def renderText(self, text):
 		return self.font.render(text, self.antialias, self.color)
 	def splitWord(self, width, word):
@@ -141,23 +161,36 @@ class ATextChunk(AContainer):
 			groups.append(self.renderedLines[self.lineStarts[i]:self.lineStarts[i+1]])
 		groups.append(self.renderedLines[self.lineStarts[-1]:])
 		return groups
-	def draw(self):
-		x=self.getX()
-		startY=self.getY()
-		maxWidth=self.getWidth()
-		height=self.getHeight()
-		self.surface.fill(Color("black"), (x, startY, x+maxWidth, startY+height))
+	def drawText(self, x, startY, maxWidth, height):
 		lines=self.content.split("\n")
 		self.lineWrap(maxWidth, lines)
-		linesToDraw=self.groupLines()[self.scrollPosition:]
+		groups=self.groupLines()
+		linesToDraw=groups[self.scrollPosition:]
 		cumulative_height=0
 		for group in linesToDraw:
 			for line in group:
 				line_height=line.get_height()
 				if(cumulative_height+line_height>height):
-					return
+					return len(groups)
 				self.surface.blit(line, (x, startY+cumulative_height))
 				cumulative_height+=line_height
+		return len(groups)
+	def drawScrollIndicator(self, x, y, maxWidth, height, groupCount):
+		if(groupCount==0):
+			groupCount=1
+		position=(height)*((0.5+self.scrollPosition)/groupCount)
+		if(self.fillScrollIndicator):
+			gfxdraw.filled_circle(self.surface, x+maxWidth+int(self.scrollIndicatorWidth/2)+1, y+int(position), int(self.scrollIndicatorWidth/2)-2, self.color)
+		else:
+			gfxdraw.circle(self.surface, x+maxWidth+int(self.scrollIndicatorWidth/2)+1, y+int(position), int(self.scrollIndicatorWidth/2)-2, self.color)
+		
+	def draw_r(self):
+		x=self.getX()
+		startY=self.getY()
+		maxWidth=self.getWidth()-self.scrollIndicatorWidth
+		height=self.getHeight()
+		groupCount=self.drawText(x, startY, maxWidth, height)
+		self.drawScrollIndicator(x, startY, maxWidth, height, groupCount)
 
 class AWindow(AContainer):
 	def __init__(self, parent=None, children=None, borderWidth=5, color="orange", beveled=True):
@@ -173,8 +206,11 @@ class AWindow(AContainer):
 		self.width=200
 		self.height=int(self.width*A1Ratio)
 		Universe.append(self)
-	def draw(self):
-		drawRoundRect(self.surface, self.getX(), self.getY(), self.width, self.height, self.borderWidth, self.color)
+	def draw_r(self):
+		if(self.beveled):
+			drawRoundRect(self.surface, self.getX(), self.getY(), self.width, self.height, self.borderWidth, self.color)
+		else:
+			gfxdraw.rectangle(self.surface, (self.getX(), self.getY(), self.getX()+self.getWidth(), self.getY()+self.getHeight()), self.color)
 		for child in self.children:
 			child.draw()
 
@@ -182,17 +218,15 @@ def windowTest():
 	init()
 	text=ATextChunk(content="hello, world!\nThis is a new line\nThis is a very long line and the next line should contain a single word that is also very long hold on let me pad out the line so we definitely wrap... ok here we go!\nThis_is_a_very_long_line_and_the_next_line_should_contain_a_single_word_that_is_also_very_long_hold_on_let_me_pad_out_the_line_so_we_definitely_wrap..._ok_here_we_go!\n\n\nThere should have just been two blank lines\nNow we want to make our line wrap to the very end of the box and we can do that by being very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very long", fontSize=10)
 	window=AWindow(children=[text])
-	mainloop_body()
-	time.sleep(1)
-	text.scrollPosition+=1
-	mainloop_body()
-	time.sleep(1)
-	text.scrollPosition+=1
-	mainloop_body()
-	time.sleep(1)
-	text.scrollPosition+=1
-	mainloop_body()
-	time.sleep(1)
-	text.scrollPosition+=1
-	mainloop_body()
+	for i in range(0, 5):
+		mainloop_body()
+		time.sleep(1)
+		text.scroll()
+	for i in range(0, 5):
+		mainloop_body()
+		time.sleep(1)
+		text.scroll(-1)
+	
+
+
 windowTest()
