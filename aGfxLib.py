@@ -168,11 +168,13 @@ class AContainer(object):
 	def draw_r(self):
 		pass
 class ATextChunk(AContainer): # TODO implement flow support & move scrolling to a new scrollingcontainer class: this class should just be noodles
-	# TODO: also implement translucent background colors
-	def __init__(self, parent=None, content="", color="orange", font=None, fontSize=6, editable=False):
+	def __init__(self, parent=None, content="", color="orange", font=None, fontSize=6, editable=False, bgcolor=None):
 		AContainer.__init__(self, parent)
 		self.content=content
 		self.color=Color(color)
+		self.bgcolor=bgcolor
+		if(bgcolor):
+			self.bgcolor=Color(bgcolor)
 		self.editable=editable
 		self.fontSize=fontSize
 		self.font=font
@@ -189,6 +191,8 @@ class ATextChunk(AContainer): # TODO implement flow support & move scrolling to 
 		self.scrollPosition+=delta
 		self.setDirty()
 	def renderText(self, text):
+		if(self.bgcolor):
+			return self.font.render(text, self.antialias, self.color, self.bgcolor)
 		return self.font.render(text, self.antialias, self.color)
 	def splitWord(self, width, word):
 		wordSize=self.font.size(word)
