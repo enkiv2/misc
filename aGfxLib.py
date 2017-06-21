@@ -175,6 +175,8 @@ class ATextChunk(AContainer): # TODO implement flow support & move scrolling to 
 		self.bgcolor=bgcolor
 		if(bgcolor):
 			self.bgcolor=Color(bgcolor)
+		else:
+			self.bgcolor=Color(0, 0, 0, 0)
 		self.editable=editable
 		self.fontSize=fontSize
 		self.font=font
@@ -193,12 +195,8 @@ class ATextChunk(AContainer): # TODO implement flow support & move scrolling to 
 		self.setDirty()
 	def renderText(self, text):
 		if(self.invert):
-			if(self.bgcolor):
-				return self.font.render(text, self.antialias, self.bgcolor, self.color)
-			return self.font.render(text, self.antialias, Color(0, 0, 0, 0), self.color)
-		if(self.bgcolor):
-			return self.font.render(text, self.antialias, self.color, self.bgcolor)
-		return self.font.render(text, self.antialias, self.color)
+			return self.font.render(text, self.antialias, self.bgcolor, self.color)
+		return self.font.render(text, self.antialias, self.color, self.bgcolor)
 	def splitWord(self, width, word):
 		wordSize=self.font.size(word)
 		offset=len(word)
