@@ -115,9 +115,9 @@ class AContainer(object):
 			parentWidth=self.surface.get_width()
 		if(self.width>0):
 			if(self.width>parentWidth):
-				return parentWidth-self.offsetX
-			return self.width-self.offsetX
-		return self.width+parentWidth-self.offsetX
+				return parentWidth
+			return self.width
+		return self.width+parentWidth
 	def getX(self):
 		parentX=0
 		if(self.parent):
@@ -147,6 +147,11 @@ class AContainer(object):
 				wids=Universe[:i]
 			for wid in wids:
 				wid.setDirtyCascade()
+	def move(self, x, y):
+		self.hide()
+		self.offsetX=x
+		self.offsetY=y
+		self.show()
 	def hide(self):
 		self.erase()
 		self.visible=False
@@ -156,7 +161,7 @@ class AContainer(object):
 	def erase(self):
 		x=self.getX()
 		y=self.getY()
-		self.surface.fill(Color("black"), (x, y, x+self.getWidth()+1, y+self.getHeight()+1))
+		self.surface.fill(Color("black"), (x, y, x+self.width+1, y+self.height+1))
 	def draw(self):
 		if(self.visible):
 			if(self.dirty):
@@ -268,7 +273,6 @@ class ATextChunk(AContainer): # TODO implement flow support & move scrolling to 
 			gfxdraw.filled_circle(self.surface, x+maxWidth+int(self.scrollIndicatorWidth/2)+1, y+int(position), int(self.scrollIndicatorWidth/2)-2, self.color)
 		else:
 			gfxdraw.circle(self.surface, x+maxWidth+int(self.scrollIndicatorWidth/2)+1, y+int(position), int(self.scrollIndicatorWidth/2)-2, self.color)
-		
 	def draw_r(self):
 		x=self.getX()
 		startY=self.getY()
@@ -396,11 +400,13 @@ def windowTest():
 		time.sleep(1)
 		text.scroll()
 		text.invert=(not text.invert)
+		window.move(i*10, i*15)
 	for i in range(0, 5):
 		mainloop_body()
 		time.sleep(1)
 		text.scroll(-1)
 		text.invert=(not text.invert)
+		window.move(50+i*15, 75-i*10)
 	window.iconify()
 	mainloop_body()
 	time.sleep(1)
