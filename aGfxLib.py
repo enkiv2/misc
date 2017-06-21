@@ -31,7 +31,6 @@ def drawRoundRect(surface, x, y, width, height, bevelsize, color):
 	gfxdraw.arc(surface, x+width-bevelsize, y+height-bevelsize, bevelsize, 0, 90, color)
 
 class AContainer(object):
-	# TODO: drag_accept, drag_sprite_draw, drag_sprite_erase, takeFocus
 	def __init__(self, parent=None, children=None):
 		global Universe
 		self.surface=pygame.display.get_surface()
@@ -48,6 +47,7 @@ class AContainer(object):
 		self.width=-1
 		self.height=-1
 		self.dirty=True
+		self.color=Color("orange")
 		self.bgcolor=Color("black")
 		self.packMode="horizontal"
 		self.alignment="center"
@@ -55,6 +55,34 @@ class AContainer(object):
 		self.flowable=False
 		self.visible=True
 		self.packed=False
+		self.focusable=False
+		self.dragSpriteStyle="line"
+	def drag_accept(self, source_widget, start_x, start_y, end_x, end_y):
+		# This should be implemented in widgets that accept drag operations from other widgets
+		# The idea is, a drag_end event would cause a source widget to lookup the destination widget (if any) at end_x,end_y
+		# and call its drag_accept function. The drag_accept function would then decide how to respond to this event based on
+		# the type and ancestry of source_widget.
+		pass
+	def drag_sprite_draw(self, start_x, start_y, curr_x, curr_y):
+		if(dragSpriteStyle=="rectangle"):
+			gfxdraw.rectangle(self.surface, (start_x, start_y, curr_x, curr_y), self.color)
+		else:
+			gfxdraw.line(self.surface, start_x, start_y, curr_x, curr_y, self.color)
+	def drag_sprite_erase(self, start_x, start_y, curr_x, curr_y):
+		if(dragSpriteStyle=="rectangle"):
+			gfxdraw.rectangle(self.surface, (start_x, start_y, curr_x, curr_y), self.bgcolor)
+		else:
+			gfxdraw.line(self.surface, start_x, start_y, curr_x, curr_y, self.bgcolor)
+		self.updateWindowCascade(False)
+	def takeFocus(self):
+		global FocusedWidget
+		if(self.focusable):
+			FocusedWidget=self
+			return True
+		for child in self.children:
+			if(child.takeFocus()):
+				return True
+		return False
 	def flow(self, initalOffsetX, initialOffsetY):
 		# Flow is an alternative to pack for things like text
 		# In other words, you have a head and tail that's possibly
