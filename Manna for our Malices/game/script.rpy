@@ -339,6 +339,7 @@ label return_box:
         "Do it anyway":
             jump science_clubroom
 label science_clubroom:
+    scene bg hallway
     "As I walk down the hallway toward the science clubroom, I hear music from across the hall."
     play music "music/mystic chord practice.mp3"
     menu:
@@ -348,6 +349,7 @@ label science_clubroom:
             jump music_room
 label music_room:
     "I placed the box by the door to the science club's room, and went across the hall."
+    scene bg music room
     "The music room was large, with carpeted walls and a stadium-style step arrangement in the floor."
     "In the center, playing a violin and looking irritated, was Kuroneko."
     show kuroneko pout
@@ -426,9 +428,12 @@ label music_room:
     kuroneko "Sure, Ai. Just leave me here to stew in my failure."
     extend "\nLater."
     $ achievement.grant("Some Eyes-Wide-Shut MFers")
+    scene bg hallway dark
+    with dissolve
     jump walk_home
 label ignore_music:
     n "The music club sure is hard-working."
+    scene bg science room
     "I bring the box of glassware into the science clubroom and set it down on a table."
     "The dust is thick in here."
     "I wipe off my hands on my blouse and look around for a chair."
@@ -485,6 +490,8 @@ label ignore_music:
     show aoi hearteyes
     aoi "You betcha!"
     $ achievement.grant("A mysterious photograph")
+    scene bg hallway dark
+    with dissolve
     jump walk_home
 label ignore_box:
     "The glassware can wait. I think it's been here for weeks already anyway."
@@ -500,6 +507,8 @@ label ignore_box:
         jump dont_visit_track
 
 label visit_track:
+    scene bg track
+    with dissolve
     play music "music/Infocalypse_-_Other_Lands.mp3"
     "By the time I made it down to the track, Koneko was winding down."
     ai "Koneko-chan!"
@@ -541,13 +550,18 @@ label visit_track:
     "She slumped to the ground."
     "I checked to make sure she was breathing. She had passed out."
     "I carried her to the nurse's office and laid her out on a bed."
+    scene bg nurse office dark
     "A few minutes later, she woke up."
+    show koneko normal
     ai "Listen, Koneko-chan. I..."
     koneko "Senpai. I need to go."
     ai "If you can..."
     koneko "I'm late for an appointment."
     "Before I could say anything, she left."
+    hide koneko
     $ achievement.grant("Touch telepathy")
+    scene bg hallway dark
+    with dissolve
     jump walk_home
 
 label dont_visit_track:
