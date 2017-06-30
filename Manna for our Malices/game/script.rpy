@@ -35,10 +35,15 @@ image koneko pout = "koneko pout.png"
 
 ######################## STATUS FLAGS
 define died = False
+$ achievement.register("Stabbed in the back")
 define num_deaths=0
+$ achievement.register("Some chuunibyo BS") # >2 deaths
 define knows_about_aoi_parents = False
+$ achievement.register("A mysterious photograph")
 define knows_about_koneko_telepathy = False
+$ achievement.register("Touch telepathy")
 define knows_about_kuroneko_concert = False
+$ achievement.register("Some Eyes-Wide-Shut MFers")
 
 ####################### BACKGROUND IMAGES
 image bg white = "white.png"
@@ -408,6 +413,7 @@ label music_room:
     ai "Thanks for the set, Fujinomya! I gotta jet!"
     kuroneko "Sure, Ai. Just leave me here to stew in my failure."
     extend "\nLater."
+    $ achievement.grant("Some Eyes-Wide-Shut MFers")
     jump walk_home
 label ignore_music:
     n "The music club sure is hard-working."
@@ -466,6 +472,7 @@ label ignore_music:
     ai "Alright. I'll see you tomorrow?"
     show aoi hearteyes
     aoi "You betcha!"
+    $ achievement.grant("A mysterious photograph")
     jump walk_home
 label ignore_box:
     "The glassware can wait. I think it's been here for weeks already anyway."
@@ -528,6 +535,7 @@ label visit_track:
     ai "If you can..."
     koneko "I'm late for an appointment."
     "Before I could say anything, she left."
+    $ achievement.grant("Touch telepathy")
     jump walk_home
 
 label dont_visit_track:
@@ -608,6 +616,7 @@ label death:
         n "Why the hell do I keep dying?"
         if num_deaths > 2:
             n "What kind of stupid-ass chuunibyo bullshit is this?"
+            $ achievement.register("Some chuunibyo BS")
             if num_deaths > 5:
                 n "If there's a god, I hope he's ready to get an earful."
                 n "Jesus fuck. [num_deaths] times? Really?"
@@ -625,4 +634,5 @@ label rebirth:
         n "I figured I'd find out firsthand eventually."
         n "I didn't expect it to be this soon, though."
     $ died = True
+    $ achievement.grant("Stabbed in the back")
     jump core_story
