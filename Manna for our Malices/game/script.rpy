@@ -44,6 +44,7 @@ define knows_about_koneko_telepathy = False
 $ achievement.register("Touch telepathy")
 define knows_about_kuroneko_concert = False
 $ achievement.register("Some Eyes-Wide-Shut MFers")
+define knows_about_kuroneko_books = False
 
 ####################### BACKGROUND IMAGES
 image bg white = "white.png"
@@ -351,7 +352,18 @@ label music_room:
     "In the center, playing a violin and looking irritated, was Kuroneko."
     show kuroneko pout
     # XXX If we know about the music room from before, we look more carefully and see that Kuroneko has some books with scraps of sheet music shoved in them
-    # These are not music-related books but occult-related books. We can ask Mimi or Shironeko to research them.
+    # These are not music-related books but occult-related books.
+    if knows_about_kuroneko_concert:
+        "The first time this happened, I didn't really pay attention to what else was in the room."
+        "This time, I let Kuroneko continue playing, unaware of my presence, while I glanced around."
+        "For the most part, the music room was as it usually is at the beginning of practice. All the instruments are put away."
+        "I noticed some papers stuffed in Kuroneko's violin case, and a pile of books on a nearby stool."
+        "The books had scraps of sheet music sticking out of them, but they were not sheet music books. Instead, they were thick, leather-bound, and looked quite heavy."
+        "The book on the very top of the pile was open, and there was a piece of paper sitting on top of it, covered in scribbled notes, and a pencil."
+        "There were some geometrical figures on the paper."
+        "The bindings of the books had titles in some european language, and a funny-looking symbol."
+        $ knows_about_kuroneko_books = True
+    # We can ask Mimi or Shironeko to research them.
     # The occult books indicate that Kuroneko knows more than she initially seems to about the purpose of the concert.
     # Once you know the details, you can ask her about that stuff up-front. She will think you are a superior from the lodge sent to supervise her.
     ai "Having trouble?"
