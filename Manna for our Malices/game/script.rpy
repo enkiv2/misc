@@ -59,8 +59,8 @@ image bg classroom = "classroom.png"
 image bg classroom dark = "classroom night.png"
 
 ####################### SPLASH IMAGES
-image bg blood one = "blood 1.png"
-image bg blood two = "blood 2.png"
+image splash blood one = "blood 1.png"
+image splash blood two = "blood 2.png"
 
 ###################### SCRIPT
 # The game starts here.
@@ -352,7 +352,8 @@ label music_room:
     scene bg music room
     "The music room was large, with carpeted walls and a stadium-style step arrangement in the floor."
     "In the center, playing a violin and looking irritated, was Kuroneko."
-    show kuroneko pout
+    scene splash kuroneko violin
+    with dissolve
     # XXX If we know about the music room from before, we look more carefully and see that Kuroneko has some books with scraps of sheet music shoved in them
     # These are not music-related books but occult-related books.
     if knows_about_kuroneko_concert:
@@ -370,6 +371,9 @@ label music_room:
     # Once you know the details, you can ask her about that stuff up-front. She will think you are a superior from the lodge sent to supervise her.
     ai "Having trouble?"
     stop music
+    scene bg music room
+    with dissolve
+    show kuroneko pout
     "Kuroneko jumped."
     show kuroneko normal
     kuroneko "The fingering is hard on this piece."
@@ -386,8 +390,11 @@ label music_room:
     kuroneko "Just don't interrupt, OK?"
     ai "Fine, fine."
     show kuroneko normal
+    scene splash kuroneko violin
+    with dissolve
     play music "music/mystic chord practice.mp3"
     pause 23
+    scene bg music room
     show kuroneko pout
     stop music
     kuroneko "I'm getting nowhere with this."
@@ -398,9 +405,12 @@ label music_room:
     ai "What's so weird about that?"
     kuroneko "It wants me to play combinations of notes that normally would be done on two different instruments."
     kuroneko "In order to play both notes at the same time on the same instrument I have to hold my fingers like..."
+    scene splash kuroneko fingering
     extend " Here, you see what I'm doing with my hand?"
     "Her fingers were held in a kind of claw shape, and her wrist was at an awkward angle. Some fingers were pressing on multiple strings simultaneously at different angles."
     kuroneko "I have to go from that to another equally complicated chord in the space of one beat."
+    scene bg music room
+    show kuroneko normal
     kuroneko "The whole piece is like that."
     ai "Why don't you play something else? Or get a second violinist?"
     kuroneko "You know those weirdos out in that building with the gold roof?"
@@ -443,15 +453,19 @@ label ignore_music:
     "I try to move the books but my weary arms fumble, and one of them falls to the ground."
     n "Shit"
     "I put the rest of the stack down on top of the glassware and turn to pick up the dropped book. It has fallen open."
+    scene splash science room book
     "A folded piece of paper is sticking out, as well a photograph."
     "The paper is yellowed and the photograph is on real photo stock, so it must have been taken before digital cameras."
+    scene splash trophy photo
     "The photo is of two people in lab coats holding some kind of trophy."
     n "Isn't this..."
     play music "music/Infocalypse_-_Lull.mp3"
     extend " Aoi's parents?"
     "The back of the photo is labeled: \"Dr. Tomoe's group, 199x, Z-Prize\""
     n "I didn't realize they were such a big deal."
-    "I looked at the paper. It was a bunch of pages of printout from an old dot-matrix printer, accordion-folded."
+    "I looked at the paper."
+    scene splash science printout
+    "It was a bunch of pages of printout from an old dot-matrix printer, accordion-folded."
     "It had what looked like lab instructions, and some diagrams."
     "There were flow charts, drawing of molecules, and what looked like assembly diagrams for laboratory equipment."
     stop music
@@ -459,6 +473,7 @@ label ignore_music:
     $ knows_about_aoi_parents = True
     "{b}CLACK{/b}"
     "I jumped and quickly fumbled the paper back into the book, closing it."
+    scene bg science room
     "???" "Ai-chan?"
     "???"
     show aoi pout
@@ -530,15 +545,17 @@ label visit_track:
     koneko "If you'll excuse me, I--"
     "Koneko starts to brush past me,"
     stop music
-    show koneko pout
+    show koneko pain
     extend " but then suddenly doubles over in pain."
     ai "Koneko-chan! Are you okay?"
+    scene splash koneko pain
     koneko "I'm... it's just cramps..."
     "She was holding her stomach with one hand and her head with the other."
     ai "Are you sure you're alright?"
     "I reached for her hand to help her up."
     ai "I could get you to th--"
     play music "music/Infocalypse_-_Invent_New_Chemistry.mp3"
+    scene splash koneko shocked pain
     "As soon as I touched her hand, she let out a yelp and pulled it back. I felt a weird tickle down my spine."
     koneko "You--"
     extend "\nThere are two people in your head?!"
@@ -623,11 +640,11 @@ label walk_home:
     play music "music/Infocalypse_-_Harvest.mp3"
     extend " I feel a pinch and a strange pressure in my chest."
     "I look down."
-    scene bg blood one
+    scene splash blood one
     n "Oh shit shit shit shit"
     "A crimson stain"
     n "shit shit shit shit"
-    scene bg blood two
+    scene splash blood two
     "Vermillion droplets on the ground"
     n "shit shit sh"
     "The outline of a blade poking out of the center of my chest."
