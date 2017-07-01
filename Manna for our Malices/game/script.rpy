@@ -286,9 +286,17 @@ label dont_look_for_koneko_before_school:
     extend " Sit"
     "Teacher" "Now, let us quickly review the last chapter."
     "Teacher" "Let me see... We left off with the Genpei War."
-    extend "Who can tell me the name of the two eras that this conflict borders?"
+    extend " Who can tell me the name of the two eras that this conflict borders?"
     extend " ... "
-    extend "\n Since nobody's volunteering, Yamada?"
+    extend "\nSince nobody's volunteering, Tomoe?"
+    show aoi blush
+    aoi "Ummm..."
+    extend " The Nara period and the Meiji period?"
+    "The teacher sighed."
+    n "Sweet merciful fuck this girl is dense. Not only do those periods not border each other, but there's a thousand year gap!"
+    "Teacher" "Sit down, Tomoe."
+    hide aoi
+    "Teacher" "Yamada?"
     show mimi
     mimi "Um..."
     show mimi pensive
