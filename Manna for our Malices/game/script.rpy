@@ -16,6 +16,8 @@ define aoi = Character("Tomoe Aoi", color="#0000af")
 image aoi happy = "aoi.png"
 image aoi hearteyes = "aoi hearteyes.png"
 image aoi pout = "aoi akimbo.png"
+image aoi blush = "aoi blush.png"
+image aoi yandere = "aoi yandere.png"
 
 define kuroneko = Character("Fujinomiya Kuroneko", color="#aa0000")
 image kuroneko normal = "kuroneko.png"
@@ -34,6 +36,11 @@ image koneko happy = "koneko smile.png"
 image koneko pout = "koneko pout.png"
 
 define mimi = Character("Yamada Mimi", color="#ff7777")
+image mimi normal = "mimi.png"
+image mimi angry = "mimi angry.png"
+image mimi pensive = "mimi pensive.png"
+image mimi smug = "mimi smug.png"
+image mimi scoop = "mimi scoop.png"
 
 ######################## STATUS FLAGS
 # Ai route
