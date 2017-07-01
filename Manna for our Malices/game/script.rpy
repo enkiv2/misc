@@ -73,6 +73,8 @@ image bg fujinomiya household = "fujinomiya residence.png"
 image bg shironeko bedroom = "shironeko bedroom.png"
 image bg nurse office = "nurse office.png"
 image bg nurse office dark = "nurse office night.png"
+image bg loading dock = "loadingdock.png"
+image bg interrogation room = "interrogation room.png"
 
 ####################### SPLASH IMAGES
 image splash blood one = "blood 1.png"
@@ -84,6 +86,9 @@ image splash trophy photo = "science room photo splash.png"
 image splash science printout = "science room printout splash.png"
 image splash koneko pain = "splash koneko pain.png"
 image splash koneko shocked pain = "splash koneko shocked pain.png"
+image milpsi corridor = "milpsi corridor.png"
+image milpsi corridor massacre = "milpsi corridor massacre.png"
+image splash van = "van splash.png"
 
 ###################### SCRIPT
 # The game starts here.
