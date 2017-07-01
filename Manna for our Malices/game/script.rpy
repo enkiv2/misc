@@ -324,13 +324,14 @@ label dont_look_for_koneko_before_school:
             jump deliver_printouts
 
 label look_for_koneko_before_school:
+    play music "music/Infocalypse_-_Stimulated_Emission.mp3"
     ai "Hey, Aoi, Fujinomiya, could you spot me for a bit?"
     aoi "Sure! Anything for you~"
     kuroneko "What are you planning?"
     ai "Nothing suspicious. I just forgot something in my locker."
     ai "When the teacher comes in, tell her I'm in the bathroom. I'll leave my bag here."
     kuroneko "I don't buy it, but whatever. Sure, I'll lie for you."
-    aoi "I'd like for you any time, Ai-chan!"
+    aoi "I'd lie for you any time, Ai-chan!"
     extend " Fujinomiya-san says she'd lie for you but don't let that tempt you."
     extend " If you need a really big lie or a really dangerous lie, leave it to me!"
     extend " She can't lie well enough to steal you away from me! I'm sure she can't!"
@@ -340,18 +341,18 @@ label look_for_koneko_before_school:
     "I almost passed the teacher heading toward the stairs, but I hid around the corner of the stairwell until she passed."
     n "I've never seen her get dropped off, and the front entrance is visible from the classroom window. So, she must be getting dropped off in the rear."
     n "That would explain how she's never late. Freshmen are on the first floor, and the loading dock entrance is in back and it's by the end of the hall right near her classroom."
-    show bg loading dock
+    scene bg loading dock
     "I head to the loading dock and hide behind a trash can."
-    # Here, we probably see Koneko get out of a van with a symbol on it
-    show splash van
+    scene splash van
     "A black van pulls up. It has a symbol on the door."
     "A man in a black uniform gets out the passenger side, opens up the back, and helps Koneko out."
     "She's stumbling and holding her head."
     "He walks her to the door. As he passes, I see that he has the same symbol as on the van on his left shoulder."
     $ saw_milpsi_symbol = True
     "He pushes Koneko through the door and then returns to the van."
-    show bg loading dock
+    scene bg loading dock
     "It drives off. Once it's out of sight, I get up, preparing to head back to class."
+    stop music
     "I feel a hand grab my arm."
     "I turn. It's another man in the same dark uniform, with the same symbol on the shoulder."
     "MIB" "Seen anything interesting?"
@@ -362,16 +363,17 @@ label look_for_koneko_before_school:
     "He didn't look sorry."
     "MIB" "Sorry but you're gonna have to wear this."
     "He held up a black cloth bag. He still didn't look sorry."
-    show bg black
+    scene bg black
     extend "\nBefore I had a chance to say anything, he shoved my head into it roughly. He then grabbed my other arm and quickly zip-tied my wrists together."
     "I was dragged some distance, lifted slightly off the ground, and laid face down on what felt like carpeting."
     "Then, I was rolled onto my side and my legs were pushed in. I heard a door slam, another, and then felt the van begin to move."
     "After a little while, I felt the van make a sharp turn and then head down a steep hill. The terrain then evened out but became bumpy."
     "It's hard to get a clear sense of time when your senses are cut off, but it felt like twenty or thirty minutes before the van once again stopped."
+    play music "music/Infocalypse_-_The_Heads_Sprang_Up__Featuring_The_Dixie_Flatline_.mp3" fadein 600
     "I felt a gust of air as the door was opened, and somebody grabbed me."
     "My feet dragged over some gravel, and then a smoother surface. They went over a small bump, like the bottom edge of a doorway, and then another one."
     "I was placed, sitting down, in a folding chair. My mask was removed."
-    show bg interrogation room
+    scene bg interrogation room
     "MIB" "Okay, start talking."
     "I was still disoriented from the experience of being suddenly blindfolded and restrained."
     "MIB" "Today."
@@ -462,6 +464,8 @@ label look_for_koneko_before_school:
     "The pill bottle was open, partially filled, and sitting on the fountain. The glass was also sitting on the fountain, partway off the edge."
     "The cabinet door was open and the key was still in the lock. It was attached to a key ring."
     "I was considering going over to look in the cabinet when the lights went out."
+    scene bg black
+    play music "music/Infocalypse_-_KILL_CONSUME_MULTIPLY_CONQUER.mp3"
     "I heard a series of popping sounds, followed by a scream and several loud bangs."
     "Then, I heard a sliding sound, like somebody slowly rubbing sandpaper along the outside of a metal pipe."
     "I heard two banging sounds. The second one coincided with a dent appearing in the door."
