@@ -212,7 +212,7 @@ label core_story:
         n "Those guys that own the anthrosophy lodge behind the convenience store are paying her to play tomorrow night."
         extend "\n{b}And she's not ready?{/b}"
         extend "\nNot even remotely."
-        extend "\n{b}That's not like her...{/b}"
+        n "{b}That's not like her...{/b}"
         extend "\nThey must have suggested it at short notice."
         extend " I don't think she'd take an offer like that if she wasn't really hurting for money though."
     show kuroneko pout at right
