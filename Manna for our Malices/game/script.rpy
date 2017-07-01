@@ -57,10 +57,26 @@ image bg street = "street.png"
 image bg street dark = "street night.png"
 image bg classroom = "classroom.png"
 image bg classroom dark = "classroom night.png"
+image bg music room = "musicroom.png"
+image bg hallway = "hallway.png"
+image bg hallway dark = "hallway dark.png"
+image bg science room = "science room.png"
+image bg track = "track.png"
+image bg fujinomiya household = "fujinomiya residence.png"
+image bg shironeko bedroom = "shironeko bedroom.png"
+image bg nurse office = "nurse office.png"
+image bg nurse office dark = "nurse office night.png"
 
 ####################### SPLASH IMAGES
 image splash blood one = "blood 1.png"
 image splash blood two = "blood 2.png"
+image splash kuroneko violin = "kuroneko violin musicroom splash.png"
+image splash kuroneko fingering = "splash violin fingering.png"
+image splash science room book = "science room book splash.png"
+image splash trophy photo = "science room photo splash.png"
+image splash science printout = "science room printout splash.png"
+image splash koneko pain = "splash koneko pain.png"
+image splash koneko shocked pain = "splash koneko shocked pain.png"
 
 ###################### SCRIPT
 # The game starts here.
