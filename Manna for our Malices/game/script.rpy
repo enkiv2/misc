@@ -33,18 +33,25 @@ image koneko normal = "koneko.png"
 image koneko happy = "koneko smile.png"
 image koneko pout = "koneko pout.png"
 
+define mimi = Character("Yamada Mimi", color="#ff7777")
+
 ######################## STATUS FLAGS
+# Ai route
 define died = False
 $ achievement.register("Stabbed in the back")
 define num_deaths=0
 $ achievement.register("Some chuunibyo BS") # >2 deaths
+# Aoi route
 define knows_about_aoi_parents = False
 $ achievement.register("A mysterious photograph")
-define knows_about_koneko_telepathy = False
-$ achievement.register("Touch telepathy")
+# Kuroneko route
 define knows_about_kuroneko_concert = False
 $ achievement.register("Some Eyes-Wide-Shut MFers")
 define knows_about_kuroneko_books = False
+# Koneko route
+define knows_about_koneko_telepathy = False
+$ achievement.register("Touch telepathy")
+define saw_milpsi_symbol = False
 
 ####################### BACKGROUND IMAGES
 image bg white = "white.png"
@@ -266,8 +273,34 @@ label dont_look_for_koneko_before_school:
     extend " Bow..."
     extend " Sit"
     "Teacher" "Now, let us quickly review the last chapter."
-    # XXX maybe introduce Mimi & other characters here, by having them answer questions first?
-    comment "The teacher asks Ai a question and Ai responds correctly but with some colorful language. The teacher chews Ai out for this, and asks to see her after school."
+    "Teacher" "Let me see... We left off with the Genpei War."
+    extend "Who can tell me the name of the two eras that this conflict borders?"
+    extend " ... "
+    extend "\n Since nobody's volunteering, Yamada?"
+    mimi "Um..."
+    "Mimi picked up a small notebook and nervously flipped through the pages."
+    extend " She made a surprised face and then stood up straight."
+    mimi "The Jisho and the Juei. Hence the alternate name, the Jisho-Juei War."
+    "Teacher" "Correct, Yamada. But you should really remember this. You won't be able to consult your notebook for the test."
+    "Teacher" "Ok, so who were the two sides?"
+    extend " ... Fujinomiya"
+    kuroneko "The Minamoto and the Taira. Genpei is an alternate reading of the two names stuck together."
+    "Teacher" "Correct, as always. I should give you a harder one next time."
+    kuroneko "If you try to stump me, you will fail..."
+    "Teacher" "Wh-- "
+    extend "Nevermind. "
+    extend "Okay, Akagi. What sparked the conflict?"
+    ai "The Minamoto and the Taira kept bitch-slapping each other over their place in the imperial court's hierarchy, which is stupid because having favor would just make them a target anyway."
+    ai "This culminated in the Hogen and Heiji rebellions, where the Minamoto tried to fuck up the Taira but fucked themselves over instead."
+    ai "Then the Taira made a toddler emperor, which pissed off the previous emperor's other kid Mochihito, so Mochihito went and helped out the Minamoto."
+    ai "Of course, he and his Minamoto buddy got killed anyway so what was the point?"
+    ai "Anyway, Mochihito started building up an army, and the Taira heir -- not the rugrat, the geezer -- tried to lock him up. They chased him through Mii-dera and finally got him on the Uji bridge, and the other Minamoto offed himself."
+    "Teacher" "Not... incorrect."
+    extend " But again I need to remind you to watch your language in class."
+    extend "\nSee me after school."
+    "The class continued. We didn't even finish covering the Genpei War by the time the bell rang and second period began."
+    # XXX fill in other classes, or mention them. We can introduce new characterization for established characters, plug in the cue for Mimi's crush on Aoi, etc.
+    # We should especially have some kind of self-study / study hall class, in which the characters talk.
     "The rest of the day came and went without incident" # XXX this is crap
     "Finally, the bell rang."
     "I was about to leave until..."
@@ -286,17 +319,162 @@ label dont_look_for_koneko_before_school:
             jump deliver_printouts
 
 label look_for_koneko_before_school:
+    ai "Hey, Aoi, Fujinomiya, could you spot me for a bit?"
+    aoi "Sure! Anything for you~"
+    kuroneko "What are you planning?"
+    ai "Nothing suspicious. I just forgot something in my locker."
+    ai "When the teacher comes in, tell her I'm in the bathroom. I'll leave my bag here."
+    kuroneko "I don't buy it, but whatever. Sure, I'll lie for you."
+    aoi "I'd like for you any time, Ai-chan!"
+    extend " Fujinomiya-san says she'd lie for you but don't let that tempt you."
+    extend " If you need a really big lie or a really dangerous lie, leave it to me!"
+    extend " She can't lie well enough to steal you away from me! I'm sure she can't!"
+    n "Down, girl."
+    ai "Thanks. I'll be right back."
+    scene bg hallway
+    "I almost passed the teacher heading toward the stairs, but I hid around the corner of the stairwell until she passed."
+    n "I've never seen her get dropped off, and the front entrance is visible from the classroom window. So, she must be getting dropped off in the rear."
+    n "That would explain how she's never late. Freshmen are on the first floor, and the loading dock entrance is in back and it's by the end of the hall right near her classroom."
+    show bg loading dock
+    "I head to the loading dock and hide behind a trash can."
     # Here, we probably see Koneko get out of a van with a symbol on it
-    # Then, we set up a flag so that later we can get information about the symbol from Mimi
-    #
-    # However, that doesn't happen in this run-through because a MIB sees you acting suspiciously and takes you into questioning
-    #
-    # Answering the questions properly has him bring you back to school to get your stuff and then you walk home and die on the way
-    #
-    # Answering the questions incorrectly has you locked in an interrogation room, but then you hear pounding and screams and the door opens.
-    # You go through the door, see all the MIBs mangled, see some kind of glowing portal where the middle of the hallway used to be, 
-    # have your legs grabbed by prehensile tentacles, and get your head bashed in against a wall.
-    comment "XXX fill in look_for_koneko_before_school"
+    show splash van
+    "A black van pulls up. It has a symbol on the door."
+    "A man in a black uniform gets out the passenger side, opens up the back, and helps Koneko out."
+    "She's stumbling and holding her head."
+    "He walks her to the door. As he passes, I see that he has the same symbol as on the van on his left shoulder."
+    $ saw_milpsi_symbol = True
+    "He pushes Koneko through the door and then returns to the van."
+    show bg loading dock
+    "It drives off. Once it's out of sight, I get up, preparing to head back to class."
+    "I feel a hand grab my arm."
+    "I turn. It's another man in the same dark uniform, with the same symbol on the shoulder."
+    "MIB" "Seen anything interesting?"
+    ai "I was just..."
+    "MIB" "You were just hanging out behind a trash can during class?"
+    "I couldn't think of a better excuse."
+    "MIB" "We have a zero tolerance policy for suspicious behavior. I'm sorry to say you're going to have to come with us."
+    "He didn't look sorry."
+    "MIB" "Sorry but you're gonna have to wear this."
+    "He held up a black cloth bag. He still didn't look sorry."
+    show bg black
+    extend "\nBefore I had a chance to say anything, he shoved my head into it roughly. He then grabbed my other arm and quickly zip-tied my wrists together."
+    "I was dragged some distance, lifted slightly off the ground, and laid face down on what felt like carpeting."
+    "Then, I was rolled onto my side and my legs were pushed in. I heard a door slam, another, and then felt the van begin to move."
+    "After a little while, I felt the van make a sharp turn and then head down a steep hill. The terrain then evened out but became bumpy."
+    "It's hard to get a clear sense of time when your senses are cut off, but it felt like twenty or thirty minutes before the van once again stopped."
+    "I felt a gust of air as the door was opened, and somebody grabbed me."
+    "My feet dragged over some gravel, and then a smoother surface. They went over a small bump, like the bottom edge of a doorway, and then another one."
+    "I was placed, sitting down, in a folding chair. My mask was removed."
+    show bg interrogation room
+    "MIB" "Okay, start talking."
+    "I was still disoriented from the experience of being suddenly blindfolded and restrained."
+    "MIB" "Today."
+    ai "W-"
+    "MIB" "Who sent you?"
+    ai "N-"
+    "MIB" "..."
+    "I took a moment to gather myself."
+    ai "Nobody sent me."
+    "MIB" "Nobody sent you? You're saying you were just hanging out behind that t-"
+    ai "My friend was hurting."
+    ai "Something was making her hurt. And she was acting strange."
+    ai "So I decided to see what it was she was doing in the mornings."
+    "MIB" "This friend of yours is..."
+    "He read something off a clipboard."
+    "MIB" "Fu... ji... nomiya? Am I pronoucing that right?"
+    ai "Yes. Fujinomiya motherfucking Koneko. Okay? You know her?"
+    "MIB" "She's on the list."
+    ai "What list?"
+    "He shot me a glare."
+    "MIB" "I'm"
+    extend " asking"
+    extend " the questions."
+    extend "\nYou're"
+    extend " giving"
+    extend " the answers."
+    "MIB" "Are we clear on our roles?"
+    n "This guy is really getting on my nerves."
+    ai "Clear as fucking crystal."
+    "MIB" "I'll forgive the attitude if you tell me what I need to know."
+    "MIB" "Name?"
+    ai "Akagi Ai"
+    "MIB" "How do you spell it?"
+    ai "Aka as in red. Gi as in garment. Ai as in true fucking love."
+    "MIB" "... OK."
+    n "It looks like he's having trouble with the kanji. Is he even Japanese?"
+    n "I didn't notice an accent, so maybe he's just illiterate."
+    "MIB" "And what were you doing spying from behind that trash can?"
+    ai "I already told you. I was worried about my f--"
+    "MIB" "Oh, yes. That"
+    extend " ..."
+    extend " Fu-ichi-nandemoyo fellow."
+    ai "Fujinomiya."
+    n "I don't think it's kosher to use 'fellow' to refer to a teenage girl. This guy can't be a native speaker."
+    ai "She was acting weirdly."
+    "The man looked surprised, as though I hadn't just told him all this less than five minutes ago."
+    "MIB" "Acting strange? When?"
+    ai "Tod--"
+    ai "Yesterday."
+    n "What the hell am I doing? I can't tell this guy that I saw her acting strange LATER TODAY."
+    n "Get it together, Akagi Ai! The situation's strange but that's all the more reason that thinking straight is Fucking Important."
+    "The man didn't seem to notice my mistake."
+    "MIB" "When did you see her acting strangely yesterday?"
+    n "It's hard to remember anything that happened \"yesterday\". I've lived through \"today\" [num_deaths] times now."
+    n "Shit, if this keeps up I won't be able to remember anything that didn't happen \"today\"."
+    "The man cleared his throat."
+    "MIB" "When did you see her ac--"
+    "The man cleared his throat again."
+    "MIB" "When di--"
+    "He began coughing."
+    "After an extended bout of coughing, he put his clipboard down, got up, and went across the room."
+    "I got a look at his clipboard. His writing was chicken-scratch. Not just messy, but borderline unreadable."
+    "He'd be thrown out of second grade for that hirigana."
+    "The kanji was... not wrong, per-se, but the strokes were out of order, even on simple characters."
+    "He rattled around in a cabinet across the room for a little while, took out a pill bottle, filled a glass with water from the fountain in the corner, and took several pills."
+    "He then put the pill bottle and glass down on the fountain, locked the cabinet, and came back to the table."
+    "MIB" "Name?"
+    ai "I just told you my name."
+    "He looked down at the clipboard and then looked surprised."
+    "MIB" "So you did."
+    "He peered closely at the clipboard."
+    "MIB" "So you said you saw Fu-shi-gi-namae-ya--"
+    ai "Fujinomiya."
+    "MIB" "Yeah, Fushiginamaeyo. You say Fushiginomuru acting strangely yesterday. Could you describe the--"
+    "He stopped for a moment and looked blankly into space."
+    "He started to get up, and then sat back down."
+    "He started to get up again and stopped in the middle."
+    "MIB" "Excuse me for a moment."
+    "He got up, opened the door, and left."
+    "I don't know how long I was waiting for him to return."
+    "I began examining the scratches in the table in front of me. There were a lot of them."
+    "The ceiling was the kind with big, flat tiles with recessed flourescent lights."
+    "The tiles had little holes in them."
+    "I counted the holes for a while."
+    "When I lost count of the holes for the umpteenth time, I looked around for something else to do."
+    "I wondered why my wrists hurt, and then I remembered the zip tie."
+    "My gaze wandered to the other side of the room."
+    "The pill bottle was open, partially filled, and sitting on the fountain. The glass was also sitting on the fountain, partway off the edge."
+    "The cabinet door was open and the key was still in the lock. It was attached to a key ring."
+    "I was considering going over to look in the cabinet when the lights went out."
+    "I heard a series of popping sounds, followed by a scream and several loud bangs."
+    "Then, I heard a sliding sound, like somebody slowly rubbing sandpaper along the outside of a metal pipe."
+    "I heard two banging sounds. The second one coincided with a dent appearing in the door."
+    "The door slowly creaked open."
+    "I got up and went to look outside."
+    scene milpsi corridor massacre
+    "The lights were all out in the corridor except for one, which was flickering."
+    "The primary illumination was the dim glow from some kind of circular..."
+    extend " thing."
+    "The thing was swirling, and so was the light coming from it."
+    "It illuminated bloodstains in the dented walls and crumpled bodies in black uniforms."
+    "I was about to step back inside the interrogation room when I felt someone grab my ankle."
+    "I looked down, expecting to see the black-uniformed man from before, but instead there were a bunch of thin rubbery strands, about the width of a pencil."
+    "I bent down and touched them. They were covered in a sticky mucousy substance, and smelled overpoweringly rank, like week-old road kill."
+    "The mucous made webs between my fingers."
+    "Suddenly, I was lifted off my feet, upside down."
+    "I saw a wall coming toward me, too fast."
+    jump death
 label deliver_printouts:
     # We go to the Fujinomiya household, in the opposite direction from school
     scene bg street
