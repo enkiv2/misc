@@ -227,11 +227,11 @@ label core_story:
         n "{b}That's not like her...{/b}"
         extend "\nThey must have suggested it at short notice."
         extend " I don't think she'd take an offer like that if she wasn't really hurting for money though."
-    show kuroneko pout at right
+    show kuroneko pout at left
     ai "Fujinomiya! What crawled up your ass and died today?"
     "She took my greeting as a serious question."
     kuroneko "My sister's playing hooky again."
-    show aoi happy at left
+    show aoi happy at right
     aoi "Koneko-chan?"
     kuroneko "Are you an idiot? Koneko hasn't so much as been tardy once since preschool!"
     if knows_about_koneko_telepathy:
@@ -256,19 +256,19 @@ label dont_look_for_koneko_before_school:
     aoi "Then... Shironeko-senpai?"
     n "Why is that a question?!"
     kuroneko "It seems even Tomoe-san is capable of using the process of elimination."
-    show kuroneko happy at right
-    show aoi pout at left
+    show kuroneko happy at left
+    show aoi pout at right
     aoi "Ai~chan~~~! Fujinomia-san is making fun of me~~"
     "I patted her on the head"
     ai "There, there."
-    show aoi hearteyes at left
-    show kuroneko normal at right
+    show aoi hearteyes at right
+    show kuroneko normal at left
     kuroneko "You enable her too much, Ai."
-    show aoi happy at left
+    show aoi happy at right
     ai "Look who's talking. If you and Koneko-chan worked together, you could physically carry Shironeko-senpai to school, and she wouldn't miss so much class."
-    show kuroneko happy at right
+    show kuroneko happy at left
     kuroneko "She's been doing nothing but eating pocky and sitting at the computer lately. I doubt even Koneko could pick her up now."
-    show kuroneko normal at right
+    show kuroneko normal at left
     extend "\nWhat she does on there all day is a mystery to me."
     "Teacher" "Alright, settle down."
     stop music
