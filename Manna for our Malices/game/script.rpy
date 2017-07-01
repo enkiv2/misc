@@ -289,18 +289,27 @@ label dont_look_for_koneko_before_school:
     extend "Who can tell me the name of the two eras that this conflict borders?"
     extend " ... "
     extend "\n Since nobody's volunteering, Yamada?"
+    show mimi
     mimi "Um..."
+    show mimi pensive
     "Mimi picked up a small notebook and nervously flipped through the pages."
+    show mimi scoop
     extend " She made a surprised face and then stood up straight."
+    show mimi smug
     mimi "The Jisho and the Juei. Hence the alternate name, the Jisho-Juei War."
     "Teacher" "Correct, Yamada. But you should really remember this. You won't be able to consult your notebook for the test."
+    show mimi angry
     "Teacher" "Ok, so who were the two sides?"
+    hide mimi
     extend " ... Fujinomiya"
+    show kuroneko happy
     kuroneko "The Minamoto and the Taira. Genpei is an alternate reading of the two names stuck together."
     "Teacher" "Correct, as always. I should give you a harder one next time."
+    show kuroneko normal
     kuroneko "If you try to stump me, you will fail..."
     "Teacher" "Wh-- "
     extend "Nevermind. "
+    hide kuroneko
     extend "Okay, Akagi. What sparked the conflict?"
     ai "The Minamoto and the Taira kept bitch-slapping each other over their place in the imperial court's hierarchy, which is stupid because having favor would just make them a target anyway."
     ai "This culminated in the Hogen and Heiji rebellions, where the Minamoto tried to fuck up the Taira but fucked themselves over instead."
