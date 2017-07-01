@@ -217,6 +217,7 @@ label core_story:
     "We continued to make smalltalk the rest of the way to school."
     hide aoi
     scene bg classroom
+    show kuroneko pout at left
     "As we entered the classroom, we saw Fujinomiya Kuroneko muttering angrily to herself, stewing over some private betrayal."
     if knows_about_kuroneko_concert:
         n "That deadline must be eating away at her."
@@ -227,7 +228,6 @@ label core_story:
         n "{b}That's not like her...{/b}"
         extend "\nThey must have suggested it at short notice."
         extend " I don't think she'd take an offer like that if she wasn't really hurting for money though."
-    show kuroneko pout at left
     ai "Fujinomiya! What crawled up your ass and died today?"
     "She took my greeting as a serious question."
     kuroneko "My sister's playing hooky again."
