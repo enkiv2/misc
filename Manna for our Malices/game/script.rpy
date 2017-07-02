@@ -328,8 +328,63 @@ label dont_look_for_koneko_before_school:
     extend " But again I need to remind you to watch your language in class."
     extend "\nSee me after school."
     "The class continued. We didn't even finish covering the Genpei War by the time the bell rang and second period began."
-    # XXX fill in other classes, or mention them. We can introduce new characterization for established characters, plug in the cue for Mimi's crush on Aoi, etc.
-    # We should especially have some kind of self-study / study hall class, in which the characters talk.
+    "Second period should have been biology, but the teacher never showed up."
+    "Instead, halfway through the period, a substitute came in and announced a self-study period."
+    show kuroneko normal at left
+    kuroneko "That's strange. Our bio teacher is usually pretty reliable."
+    show mimi pensive
+    mimi "Indeed. The last time she missed a class was..."
+    "Mimi ruffled through her notebook."
+    show mimi smug
+    mimi "February third, nineteen seventy four."
+    show mimi normal
+    show aoi pout at right
+    aoi "Yamada-kun, how is it that you know all these things?"
+    kuroneko "Nevermind why you even have that information -- how did you look it up so fast?"
+    mimi "I have a mnemonic system."
+    show mimi smug
+    show aoi blush at right
+    mimi "You know how a kanji dictionary is organized by radical?"
+    mimi "I have a system sort of like that in this book, but organized by shapes."
+    mimi "I'm a visual thinker so I associate ideas with specific symbols, and then if I forget a detail I can look it up by shape."
+    show kuroneko smile at left
+    kuroneko "So I'll bet you're even better at looking up things that are already shapes, right?"
+    mimi "Yeah. I usually don't have a hard time remembering those unless they're really obscure, though."
+    kuroneko "Comes in handy for the school newspaper?"
+    mimi "It would, if that rag did any real journalism."
+    show aoi pout at right
+    aoi "Ai-chan~"
+    extend " Yamada-kun's m-mn-mnewhatsit thing isn't going to make you fall for her, is it?"
+    "She stuck out her lower lip and looked at me with puppy-dog eyes, looking almost at the edge of tears."
+    "I patted her head."
+    ai "You're the only one for me, Aoi~"
+    show aoi hearteyes at right
+    show mimi angry
+    show kuroneko normal at left
+    n "She's practically vibrating. It's absurd that such a small display of affection pleases her so much."
+    n "One of these days that possessiveness is going to bite me in the ass, though."
+    "Mimi got up from her seat."
+    mimi "Listen, since lunch is next, I'm going to head to the cafeteria and grab some lunch before the morning rush."
+    if died:
+        menu:
+            "Let her go":
+                jump dont_follow_mimi
+            "Make an excuse to follow her":
+                jump follow_mimi
+label dont_follow_mimi:
+    aoi "Don't worry, Ai-chan. I brought a bento for you~"
+    hide mimi
+    ai "I can make my own lunches, you know."
+    show aoi pout at right
+    aoi "But then our lunches wouldn't match!"
+    kuroneko "I'll leave you love birds to your nesting. I'm going to go claim a good spot on the roof."
+    ai "Sure, Fujinomiya. Abandon me. I'll be fine."
+    show kuroneko smile at left
+    kuroneko "I'm sure you will."
+    hide kuroneko
+    show aoi hearteyes at right
+    aoi "You're not alone, Ai-chan~ I'm here with you~~"
+    hide aoi
     "The rest of the day came and went without incident" # XXX this is crap
     "Finally, the bell rang."
     "I was about to leave until..."
