@@ -102,14 +102,14 @@ image splash van = "van splash.png"
 label start:
     play music "music/Infocalypse_-_yesterday_the_shadows_grew_again.mp3"
     scene bg black
-    centered "{cps=10}\"The outrageous is the reasonable, if introduced politely.\"{/cps}"
-    extend "{cps=10}\n{space=500}- Charles Fort,{/cps}"
-    extend "{cps=10}\n{space=400}The Book of the Damned{/cps}"
+    centered "{color=#fff}{cps=10}\"The outrageous is the reasonable, if introduced politely.\"{/cps}{/color}"
+    extend "{color=#fff}{cps=10}\n{space=500}- Charles Fort,{/cps}{/color}"
+    extend "{color=#fff}{cps=10}\n{space=400}The Book of the Damned{/cps}{/color}"
     scene bg white with dissolve
     scene bg black with dissolve
-    centered "{cps=15}In the year 20XX, in the small town of Yomiyama, there was a series of deaths.{/cps}"
-    extend "{cps=15}\nInvestigations of these deaths have been unsuccessful.{/cps}"
-    extend "{cps=15}\nAs it turns out, a lot was happening just under the surface.{/cps}"
+    centered "{color=#fff}{cps=15}In the year 20XX, in the small town of Yomiyama, there was a series of deaths.{/cps}{/color}"
+    extend "{color=#fff}{cps=15}\nInvestigations of these deaths have been unsuccessful.{/cps}{/color}"
+    extend "{color=#fff}{cps=15}\nAs it turns out, a lot was happening just under the surface.{/cps}{/color}"
     jump core_story
 
 # core_story is the beginning of the core story loop
@@ -427,7 +427,7 @@ label follow_mimi:
     ai "And, I yelled at her, and she backed up and fell off the wall."
     ai "She hit her head. She was in the hospital for a while, and when she was released she was all confused."
     ai "After that, I was afraid to push her away."
-    mimi normal
+    show mimi normal
     mimi "I'm sorry. I'm giving you a hard time without knowing the situation."
     ai "You couldn't know."
     mimi "I'm glad Tomoe-san has a friend like you. Even if you're leading her on a bit."
