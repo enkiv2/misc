@@ -55,10 +55,12 @@ $ achievement.register("A mysterious photograph")
 define knows_about_kuroneko_concert = False
 $ achievement.register("Some Eyes-Wide-Shut MFers")
 define knows_about_kuroneko_books = False
+define knows_about_oss = False
 # Koneko route
 define knows_about_koneko_telepathy = False
 $ achievement.register("Touch telepathy")
 define saw_milpsi_symbol = False
+define knows_about_stargate = False
 
 ####################### BACKGROUND IMAGES
 image bg white = "white.png"
@@ -447,6 +449,80 @@ label follow_mimi:
     ai "For once, yeah, Yamada, it is."
     mimi "Call me Mimi."
     ai "Alright, Mimi."
+    if knows_about_aoi_parents:
+        if knows_about_kuroneko_books:
+            jump trade_info_mimi_p
+        if saw_milpsi_symbol:
+            jump trade_info_mimi_p
+        jump dont_trade_info_mimi
+    else:
+        jump dont_trade_info_mimi
+label trade_info_mimi_p:
+    n "Mimi has quite a lot in that book. Maybe I should see if she can tell me something."
+    menu:
+        "Nah, that would be a little manipulative.":
+            jump dont_trade_info_mimi
+        "Ask her about that symbol on the black van" if saw_milpsi_symbol:
+            jump trade_info_mimi_milpsi_symbol
+        "Ask her about that symbol on Kuroneko's notes" if knows_about_kuroneko_books:
+            jump trade_info_mimi_kuroneko_books
+label trade_info_mimi_milpsi_symbol:
+    ai "Hey, Mimi. Do you happen to know what this symbol means?"
+    "I drew an inverted triangle with a snake in it."
+    mimi "That's, um..."
+    mimi "I recognize the components without having to look them up. The snake swallowing its tail is an ouraboros -- an ancient symbol of the cycle of rebirth."
+    mimi "A triangle with a circle in it pointing upward is usually a reference to the divine eye of providence -- a masonic symbol for god as engineer of the world."
+    mimi "Having it point downward... is weird, since inverting it is indicating, like, ending the world. But maybe that has to do with the ouraboros. Like, ending the world in order to rebuild it."
+    mimi "Where did you see this symbol?"
+    ai "Um... on a truck?"
+    mimi "I sure hope I never meet the owner of that truck..."
+    mimi "Lemme just double check that I haven't seen this exact symbol before...."
+    "Mimi flipped through her red book."
+    mimi "Nope! The closest I have is an unofficial patch design for Project Stargate, which has both an ouroboros and the eye of providence."
+    mimi "But in that, the ouraboros is around the earth, and the eye of providence is right-side up and looking at the earth."
+    ai "What the fuck is Project Stargate? Some kind of fan film?"
+    mimi "During the cold war, the CIA thought that the Russians were researching ESP. So, they started researching ESP themselves."
+    mimi "Project Stargate was one of these projects. Specifically, remote viewing. The idea was that psychic spies could watch anything anywhere from the safety of a secure facility."
+    mimi "They had some early luck but later it was attributed to bad experimental design. By the mid 90s, it was cancelled. It was declassified a couple years ago."
+    ai "Weird. And they had a patch?"
+    mimi "An unofficial one. Most military groups will make one, even if they aren't given one, because it's like a symbol they can all get behind and bond over."
+    mimi "They get made even when it doesn't really make sense. For instance, undercover narcotics officers assigned to investigate party drugs in the FBI had one that had a disco-dancing skeleton at a laser light show."
+    ai "No fucking way."
+    mimi "That's not the weirdest one."
+    ai "Do you have, like, a collection?"
+    mimi "I saw a website that has pictures of all of them once."
+    ai "You're going to have to link me to that website."
+    "Mimi flipped through her notebook, then took a post-it note out of her pocket and wrote a URL on it."
+    ai "Thanks!"
+    mimi "No problem. Weird symbols are sort of my thing."
+    ai "I noticed!"
+    $ knows_about_stargate = True
+    jump trade_info_mimi
+label trade_info_mimi_kuroneko_books:
+    ai "So, Mimi... I wonder if you can do me a favor."
+    mimi "What kind of favor?"
+    ai "Do you know what these symbols mean?"
+    "I take out a piece of paper and draw the symbols I saw on Kuroneko's books."
+    "Mimi looks at the symbols I drew and then takes out her red notebook and flips through it."
+    mimi "The one on the left with the six circles is the logo for the Order of the Seers of Sophia, or the O∴S∴S. That symbol with the three dots means they have, or claim to have, the \"mason word\"."
+    mimi "They're a pseudo-masonic occult society along the same lines as the Order of the Golden Dawn. In fact, they claim that the leader of their society is the proper outer head of the Golden Dawn, and they also claim to be the true lineage of the Anthrosophical and Theosophical societies."
+    mimi "Neither claim is taken seriously by scholars. Aside from an obsession with the early 20th century Russian composer Alexander Scriabin, the O∴S∴S has nothing to do with Anthrosophy."
+    mimi "Instead, it seems to be some kind of cult created out of whole cloth by their founder, a former Soviet music student who currently goes by the name Father Federov."
+    ai "Ok. That's very informative. Why do you know this?"
+    mimi "Well, we have an Anthrosophy lodge in our town. I figured that researching Anthrosophy and its offshoots might come in handy for a story..."
+    mimi "You know, if that rag did any real journalism."
+    mimi "As for the one on the right, it looks kind of familiar but I couldn't tell you."
+    mimi "You should ask Kuroneko. She's into all that occult stuff."
+    ai "She's into occult stuff?"
+    mimi "Yeah! Didn't you know? I don't think she takes it too seriously, but she's always reading pretty obscure western grimoires under her desk during class."
+    ai "She reads spellbooks during class?!"
+    mimi "You didn't know? You sit right next to her!"
+    ai "I don't usually stare at her crotch during class."
+    mimi "Your loss, I guess!"
+    $ knows_about_oss = True
+    jump trade_info_mimi
+label trade_info_mimi:
+label dont_trade_info_mimi:
     # XXX if we know about the photo but not about later stuff in that route, inject menu giving Mimi photo info here.
     # Specifically, we can choose to tell Mimi about the photo as "something about Aoi that she wouldn't even tell me"
     # And exchange it for information about something else we have only some clues about (like the symbol on the MIB van or the symbol on Kuroneko's books or the history of that anthrosophical lodge)
