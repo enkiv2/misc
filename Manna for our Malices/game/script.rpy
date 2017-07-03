@@ -549,10 +549,10 @@ label dont_trade_info_mimi:
     mimi "Will do!"
     scene bg classroom
     ai "I just spoke to the UN human rights inspector; they're about to declare that bathroom unsafe for habitation."
-    show aoi right
+    show aoi at right
     aoi "Huh?"
     ai "I took a big shit, is what I'm saying."
-    show kuroneko left
+    show kuroneko at left
     kuroneko "Your crudeness sometimes borders on endearing, but I think you're starting to overdo it."
     ai "What? All I'm saying is that I've completely evacuated my digestive track of rotting vegetable matter."
     jump dont_follow_mimi
