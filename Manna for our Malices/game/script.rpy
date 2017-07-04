@@ -52,6 +52,9 @@ $ achievement.register("Some chuunibyo BS") # >2 deaths
 define knows_about_aoi_parents = False
 $ achievement.register("A mysterious photograph")
 define knows_about_missing_lab_notebook = False
+$ from random import Random
+$ random = Random()
+define keycode = False
 # Kuroneko route
 define knows_about_kuroneko_concert = False
 $ achievement.register("Some Eyes-Wide-Shut MFers")
@@ -104,6 +107,12 @@ image splash sigils = "sigil splash.png"
 ###################### SCRIPT
 # The game starts here.
 label start:
+    python:
+        from random import Random
+        random=Random()
+        if not keycode:
+            keycode="".join([str(random.choice(range(0, 10))),str(random.choice(range(0, 10))),str(random.choice(range(0, 10))),str(random.choice(range(0, 10)))]) 
+    #quote "DEBUG: [keycode]"
     play music "music/Infocalypse_-_yesterday_the_shadows_grew_again.mp3"
     scene bg black
     centered "{color=#fff}{cps=10}\"The outrageous is the reasonable, if introduced politely.\"{/cps}{/color}"
