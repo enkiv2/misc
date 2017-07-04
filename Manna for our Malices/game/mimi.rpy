@@ -123,27 +123,27 @@ label trade_info_mimi_kuroneko_books:
     $ knows_about_oss = True
     jump trade_info_mimi
 label trade_info_mimi:
+    if knows_about_missing_lab_notebook is False:
+        # Specifically, we can choose to tell Mimi about the photo as "something about Aoi that she wouldn't even tell me"
+        # Basically: we tell Mimi that Aoi's parents won the Z-Prize in 199X, but Mimi says that nobody won it in 199X
+        # Instead, a lot of participants and sponsors boycotted that year (including the hotel) because of protests because one paper was rumored to have been based on
+        # human gene-line experiments. Then a bomb threat got called in before the ceremony and so everybody evacuated.
+        # This makes Ai suspicious, and Mimi asks for proof, so they go to the science room but the book isn't there.
+        # This event triggers a couple different flags:
+        # * one that makes us able to hide in the science club room's locker after school and verify that Aoi took the book
+        # * one that makes us able to ask shironeko about the 199X Z-Prize (like trying to get the papers entered)
+        # * one that lets us skip school at the very beginning of the game by climbing out the window to go investigate in person at Yomiyama Poly's research facility
+        # That last one branches out: we get killed by a guard having a smoke break behind a pole when we go straight into the employees-only area,
+        # which opens up a new option to hide behind a neighbouring pole until the guard leaves to do rounds. We then go up against a keypad lock.
+        # We inevitably get killed here but now that we know there's a keypad lock we can dare shironeko to get the combination (which will be randomly 
+        # generated and then stored in persistent storage, so that it's unique to the game copy but the same each time we ask her)
+        # Entering the code lets us enter the facility where we eventually find the clone racks. Aoi, who has followed us, kills us here.
+        # Following that death if we do the same operation we open up dialogue trees that will allow us to get Aoi's backstory & info about the clones.
+        # (But some of the info about the clones should be able to come from getting a copy of the paper from shironeko -- a proposal that probably has 
+        # fully disconnected cerebellums instead of hypoxic cerebellums. It will be hard to explain the technical details of the cloning in a way consistent
+        # with even yandere-mode Aoi.)
+        $ knows_about_missing_lab_notebook = True
 label dont_trade_info_mimi:
-    # XXX if we know about the photo but not about later stuff in that route, inject menu giving Mimi photo info here.
-    # Specifically, we can choose to tell Mimi about the photo as "something about Aoi that she wouldn't even tell me"
-    # And exchange it for information about something else we have only some clues about (like the symbol on the MIB van or the symbol on Kuroneko's books or the history of that anthrosophical lodge)
-    # Basically: we tell Mimi that Aoi's parents won the Z-Prize in 199X, but Mimi says that nobody won it in 199X
-    # Instead, a lot of participants and sponsors boycotted that year (including the hotel) because of protests because one paper was rumored to have been based on
-    # human gene-line experiments. Then a bomb threat got called in before the ceremony and so everybody evacuated.
-    # This makes Ai suspicious, and Mimi asks for proof, so they go to the science room but the book isn't there.
-    # This event triggers a couple different flags:
-    # * one that makes us able to hide in the science club room's locker after school and verify that Aoi took the book
-    # * one that makes us able to ask shironeko about the 199X Z-Prize (like trying to get the papers entered)
-    # * one that lets us skip school at the very beginning of the game by climbing out the window to go investigate in person at Yomiyama Poly's research facility
-    # That last one branches out: we get killed by a guard having a smoke break behind a pole when we go straight into the employees-only area,
-    # which opens up a new option to hide behind a neighbouring pole until the guard leaves to do rounds. We then go up against a keypad lock.
-    # We inevitably get killed here but now that we know there's a keypad lock we can dare shironeko to get the combination (which will be randomly 
-    # generated and then stored in persistent storage, so that it's unique to the game copy but the same each time we ask her)
-    # Entering the code lets us enter the facility where we eventually find the clone racks. Aoi, who has followed us, kills us here.
-    # Following that death if we do the same operation we open up dialogue trees that will allow us to get Aoi's backstory & info about the clones.
-    # (But some of the info about the clones should be able to come from getting a copy of the paper from shironeko -- a proposal that probably has 
-    # fully disconnected cerebellums instead of hypoxic cerebellums. It will be hard to explain the technical details of the cloning in a way consistent
-    # with even yandere-mode Aoi.)
     ai "Well, I should get back to the classroom. Aoi's going to get suspicious."
     mimi "Thank you for keeping her happy."
     ai "Make sure to eat the hell out of your lunch too!"

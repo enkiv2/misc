@@ -51,6 +51,7 @@ $ achievement.register("Some chuunibyo BS") # >2 deaths
 # Aoi route
 define knows_about_aoi_parents = False
 $ achievement.register("A mysterious photograph")
+define knows_about_missing_lab_notebook = False
 # Kuroneko route
 define knows_about_kuroneko_concert = False
 $ achievement.register("Some Eyes-Wide-Shut MFers")
