@@ -55,7 +55,11 @@ $ achievement.register("A mysterious photograph")
 define knows_about_missing_lab_notebook = False
 # The knows_about_missing_lab_notebook flag opens up several options:
 # * one that makes us able to hide in the science club room's locker after school and verify that Aoi took the book
+define knows_aoi_took_lab_notebook = False
+$ achievement.register("In the closet")
 # * one that makes us able to ask shironeko about the 199X Z-Prize (like trying to get the papers entered)
+define read_z_prize_papers = False
+$ achievement.register("Peer review")
 # * one that lets us skip school at the very beginning of the game by climbing out the window to go investigate in person at Yomiyama Poly's research facility
 # That last one branches out: we get killed by a guard having a smoke break behind a pole when we go straight into the employees-only area,
 # which opens up a new option to hide behind a neighbouring pole until the guard leaves to do rounds.
