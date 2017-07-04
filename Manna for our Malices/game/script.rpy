@@ -98,6 +98,7 @@ image splash koneko shocked pain = "splash koneko shocked pain.png"
 image milpsi corridor = "milpsi corridor.png"
 image milpsi corridor massacre = "milpsi corridor massacre.png"
 image splash van = "van splash.png"
+image splash sigils = "sigil splash.png"
 
 ###################### SCRIPT
 # The game starts here.

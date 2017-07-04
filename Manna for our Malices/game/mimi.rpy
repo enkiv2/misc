@@ -96,6 +96,7 @@ label trade_info_mimi_kuroneko_books:
     ai "So, Mimi... I wonder if you can do me a favor."
     mimi "What kind of favor?"
     ai "Do you know what these symbols mean?"
+    scene splash sigils
     "I take out a piece of paper and draw the symbols I saw on Kuroneko's books."
     "Mimi looks at the symbols I drew and then takes out her red notebook and flips through it."
     mimi "The one on the left with the six circles is the logo for the Order of the Seers of Sophia, or the O∴S∴S. That symbol with the three dots means they have, or claim to have, the \"mason word\"."
@@ -117,6 +118,8 @@ label trade_info_mimi_kuroneko_books:
     mimi "You didn't know? You sit right next to her!"
     ai "I don't usually stare at her crotch during class."
     mimi "Your loss, I guess!"
+    scene bg hallway
+    show mimi normal
     $ knows_about_oss = True
     jump trade_info_mimi
 label trade_info_mimi:
