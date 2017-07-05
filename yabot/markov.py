@@ -4,7 +4,7 @@ MAX_RESULT_LENGTH=400	# IRC limits total message length to 510 characters, inclu
 MAX_MARKOV_LEVEL=1
 
 replyrate=100
-replyrate=0
+#replyrate=0
 
 wordTotal=0
 wordFrequencies={}
@@ -322,7 +322,7 @@ def traverseLines(seed, mode):
 def respondLine(line):
 	sys.stderr.write("\n\nInput: \""+line+"\"\n")
 	candidates=[]
-	candidates.append(elizaResponse(line))
+	#candidates.append(elizaResponse(line))
 	markovCandidates2=[]
 	for mode in ["min", "max", "first", "last", "avg", "avg2"]:
 		lineClass=score(mode, line)
