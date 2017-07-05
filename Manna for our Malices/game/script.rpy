@@ -88,6 +88,10 @@ $ achievement.register("Touch telepathy")
 define saw_milpsi_symbol = False
 define knows_about_stargate = False
 
+# Shironeko route
+define knows_about_alien_tech = False
+$ achievement.register("The truth is out there")
+
 ####################### BACKGROUND IMAGES
 # Generic
 image bg white = "white.png"
