@@ -148,6 +148,7 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 		pushd ~/.$$-clip
 		mplayer -ao null -vo png -vf scale=$resolution -ss $st -endpos $end "$source"
 		frame_count=$(ls | wc -l)
+		if [[ $frame_count -eq 0 ]] ; then continue ; fi
 		frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
 		frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
 		if [[ $frame_ratio -gt 1 ]] ; then
@@ -207,6 +208,7 @@ else
 	mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 fi
 for item in $cliplist ; do rm $item ; done
+unsetopt SH_WORD_SPLIT
 mencoder -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
 rm ~/.$$-clip.avi
 rmdir ~/.$$-clip

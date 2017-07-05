@@ -425,13 +425,13 @@ def windowTest():
 	window=ADecoratedWindow(children=[text])
 	for i in range(0, 5):
 		mainloop_body()
-		time.sleep(1)
+		#time.sleep(1)
 		text.scroll()
 		text.invert=(not text.invert)
 		window.move(i*10, i*15)
 	for i in range(0, 5):
 		mainloop_body()
-		time.sleep(1)
+		#time.sleep(1)
 		text.scroll(-1)
 		text.invert=(not text.invert)
 		window.move(50+i*15, 75-i*10)
