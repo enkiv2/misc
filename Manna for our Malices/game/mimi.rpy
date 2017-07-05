@@ -1,4 +1,5 @@
 label follow_mimi:
+    play music "music/Infocalypse_-_vapor_intrusion.mp3" fadeout 5 fadein 5
     ai "I need to use the john. I'll be right back."
     kuroneko "Too much information."
     aoi "Have fun~"
@@ -135,6 +136,7 @@ label dont_trade_info_mimi:
     mimi "Thank you for keeping her happy."
     ai "Make sure to eat the hell out of your lunch too!"
     mimi "Will do!"
+    play music "music/Infocalypse_-_scathing_frolic.mp3" fadeout 2 fadein 2
     scene bg classroom
     ai "I just spoke to the UN human rights inspector; they're about to declare that bathroom unsafe for habitation."
     show aoi at right

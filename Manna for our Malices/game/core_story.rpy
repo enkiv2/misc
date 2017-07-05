@@ -170,6 +170,7 @@ label dont_look_for_koneko_before_school:
     "Class rep" "Rise..."
     extend " Bow..."
     extend " Sit"
+    play music "music/Infocalypse_-_scathing_frolic.mp3" fadein 5
     "Teacher" "Now, let us quickly review the last chapter."
     "Teacher" "Let me see... We left off with the Genpei War."
     extend " Who can tell me the name of the two eras that this conflict borders?"
