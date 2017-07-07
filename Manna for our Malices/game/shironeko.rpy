@@ -105,7 +105,7 @@ label ask_shironeko_about_oss:
     ai "Are your hacking skills sufficient to look up information about an occult society?"
     shironeko "If they have a computer and it isn't airgapped, I can get in. If it's airgapped, it'll take a little longer."
     ai "Your sister is involved with some group called the Order of Seers of Sophia. Apparently it pretends to be an anthrosophic lodge but it's actually something else."
-    shironeko "She's involved in that place behind the convenient store?"
+    shironeko "She's involved in that place behind the convenience store?"
     ai "I guess that must be the place, yeah."
     shironeko "Involved like how?"
     ai "All she's said is that they're paying her to put on a concert tomorrow. But, she had all sorts of occult material that had their logo on it and was reading it while practicing."
