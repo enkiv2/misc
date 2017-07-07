@@ -313,8 +313,40 @@ label make_effort_to_focus:
     n "Something like that happened..."
     scene bg interrogation room
     n "I need to get out of here..."
-    # XXX we attempt to focus again and end up breaking the glass to cut the zip ties and leaving (the door is open). We may look in cabinet.
-    # Everyone in the hallway is standing still, staring into space, wobbling slightly
-    # We leave, run up the hill until we see the sign for the shell company, and then the building expodes, we're thrown to the ground, and a chunk of shrapnel impales us
+    "I get up, momentarily surprised that my legs are not tied together. I had forgotten that."
+    "My gait is slightly wobbly from sitting for so long. Or maybe from something else. It's hard to remember how long I've been sitting."
+    "I try to grab on to the table for support and feel a sharp pain. I had forgotten that my hands are zip-tied together."
+    "I look around the room for something to cut the zip tie with."
+    "I notice that there's a glass sitting on the water fountain."
+    "I go over to the fountain and knock the glass to the floor. It shatters, and the sound breaks my concentration."
+    n "..."
+    n "Oh right. I was going to cut the zip tie with that glass."
+    "I awkwardly crouch with my back to the broken glass and feel around with my finger tips."
+    "The tip of one finger gets cut and I pick up that shard, carefully."
+    "I saw away at the zip tie with the shard of broken glass until it breaks apart, and walk over to the door."
+    "It's open."
+    scene milpsi corridor
+    "There is none of the horror outside that I remembered."
+    "Instead, the corridor is eerily quiet."
+    "After a moment, I notice that it is not as empty as it seems."
+    "Instead, about a dozen uniformed personnel are actually standing in the corridor, silently."
+    "They are all facing in the same direction, down the right side where I remember some kind of portal being."
+    "Their eyes are open but unfocused. Their bodies sway slightly."
+    "I carefully walk around them, but my fear that any loud sounds or sudden movements would wake them from their reverie is unfounded."
+    "As I leave the building I begin to hear murmuring."
+    "I pick up the pace, power-walking across the gravel lot. As I do, the murmuring gets louder."
+    "I can pick out words."
+    "Murmuring crowd" "FUL--L --E ------CY"
+    extend "\n---FIL TH- PRO---CY"
+    extend "\nFULFIL --- PROPHECY"
+    extend "\nFULFIL THE PROPHECY"
+    "They were almost screaming now, reaching a crescendo as I neared the peak of the hill."
+    "I was already jogging. At the hill's peak, it intersected with a major road."
+    "There was a sign. It said 'Yomiyama Industrial Products, Inc.'"
+    "I looked around desperately for a passing car to hail, but at this time of day even a major road is deserted in a backwater town like this."
+    "I heard a cracking sound behind me, followed by some pops."
+    "I felt a crack inside my head and found myself face-down in the roadside gravel."
+    "I touched the back of my head and it felt wet and soft."
+    "A piece of something hard -- maybe rock -- was jutting out of the back of my skull..."
     $ knows_milpsi_shell_co_name = True
     jump death
