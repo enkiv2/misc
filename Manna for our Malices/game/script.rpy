@@ -92,6 +92,7 @@ define knows_about_koneko_telepathy = False
 $ achievement.register("Touch telepathy")
 define saw_milpsi_symbol = False
 define knows_about_stargate = False
+define knows_milpsi_shell_co_name = False
 
 # Shironeko route
 define knows_about_alien_tech = False

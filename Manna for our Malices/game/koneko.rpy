@@ -84,7 +84,6 @@ label look_for_koneko_before_school:
     "A man in a black uniform gets out the passenger side, opens up the back, and helps Koneko out."
     "She's stumbling and holding her head."
     "He walks her to the door. As he passes, I see that he has the same symbol as on the van on his left shoulder."
-    $ saw_milpsi_symbol = True
     "He pushes Koneko through the door and then returns to the van."
     scene bg loading dock
     "It drives off. Once it's out of sight, I get up, preparing to head back to class."
@@ -192,14 +191,63 @@ label look_for_koneko_before_school:
     "He got up, opened the door, and left."
     "I don't know how long I was waiting for him to return."
     "I began examining the scratches in the table in front of me. There were a lot of them."
+    if saw_milpsi_symbol:
+        play music "music/Infocalypse_-_Ludibrium.mp3" fadein 100
+        "I vaguely remembered all of this happening before, but it felt like a half-remembered dream"
+        "All my memories of this place feel foggy, as though I was drugged"
+        n "Maybe I should try to focus"
+        n "{b}Why?{/b}"
+        n "Why should I focus?"
+        n "{b}Why should I focus?{/b}"
+        n "I..."
+        n "Why should I focus?"
+        n "Should I focus?"
+        menu:
+            "Make a concerted effort to focus":
+                jump make_effort_to_focus
+            "Nevermind, it's all good":
+                jump dont_focus_next
+label dont_focus_next:
     "The ceiling was the kind with big, flat tiles with recessed flourescent lights."
     "The tiles had little holes in them."
     "I counted the holes for a while."
     "When I lost count of the holes for the umpteenth time, I looked around for something else to do."
+    if saw_milpsi_symbol:
+        "I vaguely remembered all of this happening before, but it felt like a half-remembered dream"
+        "All my memories of this place feel foggy, as though I was drugged"
+        n "Maybe I should try to focus"
+        n "{b}Why?{/b}"
+        n "Why should I focus?"
+        n "{b}Why should I focus?{/b}"
+        n "I..."
+        n "Why should I focus?"
+        n "Should I focus?"
+        menu:
+            "Make a concerted effort to focus":
+                jump make_effort_to_focus
+            "It's all good":
+                jump dont_focus_next_2
+label dont_focus_next_2:
     "I wondered why my wrists hurt, and then I remembered the zip tie."
     "My gaze wandered to the other side of the room."
     "The pill bottle was open, partially filled, and sitting on the fountain. The glass was also sitting on the fountain, partway off the edge."
     "The cabinet door was open and the key was still in the lock. It was attached to a key ring."
+    if saw_milpsi_symbol:
+        "I vaguely remembered all of this happening before, but it felt like a half-remembered dream"
+        "All my memories of this place feel foggy, as though I was drugged"
+        n "Maybe I should try to focus"
+        n "{b}Why?{/b}"
+        n "Why should I focus?"
+        n "{b}Why should I focus?{/b}"
+        n "I..."
+        n "Why should I focus?"
+        n "Should I focus?"
+        menu:
+            "Make a concerted effort to focus":
+                jump make_effort_to_focus
+            "Nah, I'm sure everything will be fine":
+                jump dont_focus_next_3
+label dont_focus_next_3:
     "I was considering going over to look in the cabinet when the lights went out."
     scene bg black
     play music "music/Infocalypse_-_KILL_CONSUME_MULTIPLY_CONQUER.mp3"
@@ -220,4 +268,53 @@ label look_for_koneko_before_school:
     "The mucous made webs between my fingers."
     "Suddenly, I was lifted off my feet, upside down."
     "I saw a wall coming toward me, too fast."
+    $ saw_milpsi_symbol = True
+    jump death
+label make_effort_to_focus:
+    play music "music/Infocalypse_-_yesterday_the_shadows_grew_again.mp3"
+    "Focusing was hard. It was although my head was full of cotton."
+    scene bg black
+    pause 0.1
+    scene milpsi corridor massacre
+    pause 0.1
+    scene bg black
+    pause 0.1
+    scene bg interrogation room
+    "I remembered that something bad had already happened to me here."
+    scene bg black
+    pause 0.1
+    scene milpsi corridor massacre
+    pause 0.1
+    scene bg black
+    pause 0.1
+    scene bg interrogation room
+    "I had stayed in this room for a long time, distracted and bored, and by the time I left"
+    scene bg black
+    pause 0.1
+    scene milpsi corridor massacre
+    pause 0.1
+    scene bg black
+    pause 0.1
+    scene bg interrogation room
+    pause 0.1
+    scene bg black
+    pause 0.1
+    scene milpsi corridor massacre
+    pause 0.1
+    scene bg black
+    pause 0.1
+    scene bg interrogation room
+    pause 0.1
+    scene milpsi corridor massacre
+    pause 0.1
+    scene bg interrogation room
+    pause 0.1
+    scene milpsi corridor massacre
+    n "Something like that happened..."
+    scene bg interrogation room
+    n "I need to get out of here..."
+    # XXX we attempt to focus again and end up breaking the glass to cut the zip ties and leaving (the door is open). We may look in cabinet.
+    # Everyone in the hallway is standing still, staring into space, wobbling slightly
+    # We leave, run up the hill until we see the sign for the shell company, and then the building expodes, we're thrown to the ground, and a chunk of shrapnel impales us
+    $ knows_milpsi_shell_co_name = True
     jump death
