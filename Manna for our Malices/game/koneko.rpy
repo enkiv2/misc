@@ -90,6 +90,7 @@ label look_for_koneko_before_school:
     "It drives off. Once it's out of sight, I get up, preparing to head back to class."
     stop music
     "I feel a hand grab my arm."
+    play music "music/Infocalypse_-_Dread_Hypoborea.mp3"
     "I turn. It's another man in the same dark uniform, with the same symbol on the shoulder."
     "MIB" "Seen anything interesting?"
     ai "I was just..."
