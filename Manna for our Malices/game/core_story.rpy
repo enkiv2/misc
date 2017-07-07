@@ -44,7 +44,7 @@ label core_story:
             extend "\n{b}No, you first. I'm not letting a strange ghost squat in my skull. The least you can do is fucking introduce yourself.{/b}"
             n "I'm Akagi Ai."
             extend "\n{b}No, {u}I{/u} am Akagi Ai. Try again.{/b}"
-            n "No, seriously. I'm Akagi Ai. I'm a junior at Yomiyama High. My student ID number is XXXXX."
+            n "No, seriously. I'm Akagi Ai. I'm a junior at Yomiyama Girls' Academy. My student ID number is XXXXX."
             n "{b}You're saying you're me?{/b}"
             n "I guess?"
             n "{b}OK, then. What's my darkest secret?{/b}"
