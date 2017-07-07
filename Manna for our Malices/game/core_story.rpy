@@ -282,6 +282,9 @@ label dont_follow_mimi:
     "Teacher" "Or, if you prefer, you can bring her all her missed printouts."
     "She pointed at a thick stack of printouts on the desk, which looked very heavy."
     if died is False:
+        n "Nahhhhhh"
+        ai "Cleaning the classroom sounds just fucking fine!"
+        "Teacher" "... I'll accept that answer, I guess."
         jump clean_classroom
     menu:
         "Clean the classroom":

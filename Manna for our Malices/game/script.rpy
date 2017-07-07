@@ -42,6 +42,11 @@ image mimi pensive = "mimi pensive.png"
 image mimi smug = "mimi smug.png"
 image mimi scoop = "mimi scoop.png"
 
+define misa = Character("Umeji Misa", color="#77ff77")
+# Misa: UFO cultist, appears to be pure / yamato nadeshiko type character
+# Probably want to link UFO cult to both OSS & to the stuff Shironeko dug up
+# I'm thinking the cult should be pseudo-Raelian
+
 ######################## STATUS FLAGS
 # Ai route
 define died = False
