@@ -38,6 +38,8 @@ label deliver_printouts:
             jump ask_shironeko_about_stargate
         "Ask her about the symbol on the van" if knows_about_milpsi_symbol:
             jump ask_shironeko_about_milpsi_symbol
+        "Ask her about Yomiyama Industrial Products, Inc." if knows_milpsi_shell_co_name:
+            jump ask_shironeko_about_yipi
         "Ask her about the O∴S∴S" if knows_about_oss:
             jump ask_shironeko_about_oss
         "Ask her about the 199X Z-Prize ceremony" if knows_about_missing_lab_notebook:
@@ -57,7 +59,11 @@ label i_got_nothin:
     "As I leave, I hear a burst of typing."
     jump walk_home
 
+label ask_shironeko_about_yipi:
+    comment "XXX fill in ask_shironeko_about_yipi"
+    jump alien_tech
 label ask_shironeko_about_stargate:
+    jump alien_tech
 label ask_shironeko_about_milpsi_symbol:
     ai "Do you know what this symbol means?"
     "I drew the symbol from the side of the van on a napkin and showed it to her."
@@ -85,7 +91,11 @@ label ask_shironeko_about_oss:
     comment "XXX inject more stuff"
     jump alien_tech
 label ask_shironeko_about_zprize:
+    comment "XXX fill in ask_shironeko_about_yipi"
+    jump alien_tech
 label ask_shironeko_for_zprize_papers:
+    comment "XXX fill in ask_shironeko_about_yipi"
+    jump alien_tech
 label ask_shironeko_for_keypad_code:
     ai "On the entrance to the synthetic biology lab at Yomiyama Poly's research center, there's a keypad lock. I'll bet you can't tell me what the code is."
     shironeko "You underestimate me at your peril, foolish Ai-chan~ Give me, like, five minutes."
