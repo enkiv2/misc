@@ -22,10 +22,9 @@ label visit_track:
     koneko "If you'll excuse me, I--"
     "Koneko starts to brush past me,"
     stop music
-    show koneko pain
+    scene splash koneko pain
     extend " but then suddenly doubles over in pain."
     ai "Koneko-chan! Are you okay?"
-    scene splash koneko pain
     koneko "I'm... it's just cramps..."
     "She was holding her stomach with one hand and her head with the other."
     ai "Are you sure you're alright?"
@@ -41,10 +40,12 @@ label visit_track:
     ai "How do you..."
     koneko "What's g..."
     stop music
+    scene bg track
     "She slumped to the ground."
+    play music "music/Infocalypse_-_Dread_Hypoborea.mp3"
     "I checked to make sure she was breathing. She had passed out."
-    "I carried her to the nurse's office and laid her out on a bed."
     scene bg nurse office dark
+    "I carried her to the nurse's office and laid her out on a bed."
     "A few minutes later, she woke up."
     show koneko normal
     ai "Listen, Koneko-chan. I..."
