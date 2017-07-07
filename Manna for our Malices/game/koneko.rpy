@@ -334,6 +334,7 @@ label make_effort_to_focus:
     "Their eyes are open but unfocused. Their bodies sway slightly."
     "I carefully walk around them, but my fear that any loud sounds or sudden movements would wake them from their reverie is unfounded."
     "As I leave the building I begin to hear murmuring."
+    scene bg milpsi parking lot
     "I pick up the pace, power-walking across the gravel lot. As I do, the murmuring gets louder."
     "I can pick out words."
     "Murmuring crowd" "FUL--L --E ------CY"
@@ -341,6 +342,7 @@ label make_effort_to_focus:
     extend "\nFULFIL --- PROPHECY"
     extend "\nFULFIL THE PROPHECY"
     "They were almost screaming now, reaching a crescendo as I neared the peak of the hill."
+    scene bg milpsi entrance
     "I was already jogging. At the hill's peak, it intersected with a major road."
     "There was a sign. It said 'Yomiyama Industrial Products, Inc.'"
     "I looked around desperately for a passing car to hail, but at this time of day even a major road is deserted in a backwater town like this."

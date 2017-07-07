@@ -122,6 +122,8 @@ image bg nurse office = "nurse office.png"
 image bg nurse office dark = "nurse office night.png"
 image bg loading dock = "loadingdock.png"
 image bg interrogation room = "interrogation room.png"
+image bg milpsi parking lot = "milpsi parking lot.png"
+image bg milpsi entrance = "milpsi entrance.png"
 # Shironeko route
 image bg fujinomiya household = "fujinomiya residence.png"
 image bg shironeko bedroom = "shironeko bedroom.png"
