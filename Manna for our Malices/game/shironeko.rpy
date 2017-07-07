@@ -36,7 +36,7 @@ label deliver_printouts:
             jump i_got_nothin
         "Ask her about Project Stargate" if knows_about_stargate:
             jump ask_shironeko_about_stargate
-        "Ask her about the symbol on the van" if knows_about_milpsi_symbol:
+        "Ask her about the symbol on the van" if saw_milpsi_symbol:
             jump ask_shironeko_about_milpsi_symbol
         "Ask her about Yomiyama Industrial Products, Inc." if knows_milpsi_shell_co_name:
             jump ask_shironeko_about_yipi
