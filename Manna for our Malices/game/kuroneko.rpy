@@ -22,6 +22,7 @@ label music_room:
     # Once you know the details, you can ask her about that stuff up-front. She will think you are a superior from the lodge sent to supervise her.
     ai "Having trouble?"
     stop music
+    play music "music/Infocalypse_-_scathing_frolic.mp3"
     scene bg music room
     with dissolve
     show kuroneko pout
@@ -48,6 +49,7 @@ label music_room:
     scene bg music room
     show kuroneko pout
     stop music
+    play music "music/Infocalypse_-_scathing_frolic.mp3"
     kuroneko "I'm getting nowhere with this."
     ai "What is it, exactly, that you're trying to do?"
     show kuroneko normal
