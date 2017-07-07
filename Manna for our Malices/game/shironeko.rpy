@@ -12,9 +12,9 @@ label deliver_printouts:
     pause 2
     "This time, I hear some shuffling from inside."
     "The door opens."
-    # Shironeko is even more disheveled and sleep-deprived than usual
     shironeko "Yeah yeah, I'm coming."
     show shironeko
+    "Shironeko is even more disheveled and sleep-deprived than usual"
     shironeko "Oh, Ai-chan. Wassup?"
     ai "I brought you your printouts."
     shironeko "Come on in."
@@ -63,6 +63,7 @@ label ask_shironeko_about_yipi:
     comment "XXX fill in ask_shironeko_about_yipi"
     jump alien_tech
 label ask_shironeko_about_stargate:
+    comment "XXX fill in ask_shironeko_about_stargate"
     jump alien_tech
 label ask_shironeko_about_milpsi_symbol:
     ai "Do you know what this symbol means?"
@@ -91,10 +92,12 @@ label ask_shironeko_about_oss:
     comment "XXX inject more stuff"
     jump alien_tech
 label ask_shironeko_about_zprize:
-    comment "XXX fill in ask_shironeko_about_yipi"
+    comment "XXX fill in ask_shironeko_about_zprize"
     jump alien_tech
 label ask_shironeko_for_zprize_papers:
-    comment "XXX fill in ask_shironeko_about_yipi"
+    comment "XXX fill in ask_shironeko_for_zprize_papers"
+    $ read_zprize_papers = True
+    $ achievement.grant("Peer review")
     jump alien_tech
 label ask_shironeko_for_keypad_code:
     ai "On the entrance to the synthetic biology lab at Yomiyama Poly's research center, there's a keypad lock. I'll bet you can't tell me what the code is."
