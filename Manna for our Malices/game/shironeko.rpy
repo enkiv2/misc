@@ -50,6 +50,7 @@ label deliver_printouts:
             jump ask_shironeko_for_keypad_code
 label alien_tech:
     comment "XXX fill in alien tech info"
+    comment "Aliens are blue dwarves. Their tech is related to genetically engineering plants that grow into space ships -- capable of going slightly faster than light speed by a combination of super-efficient solar sail leaves and super-dense neutronium nodules that bend space in particular patterns."
     $ knows_about_alien_tech = True
     jump leave_fujinomiya_residence
 label i_got_nothin:

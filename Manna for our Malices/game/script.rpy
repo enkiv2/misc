@@ -44,8 +44,9 @@ image mimi scoop = "mimi scoop.png"
 
 define misa = Character("Umeji Misa", color="#77ff77")
 # Misa: UFO cultist, appears to be pure / yamato nadeshiko type character
-# Probably want to link UFO cult to both OSS & to the stuff Shironeko dug up
-# I'm thinking the cult should be pseudo-Raelian
+# UFO cult worships aryan space brothers; cult leader doesn't believe in it & uses cultists as cheap labor
+# Misa believes in the divinity of the space brothers because of direct contact (with the tentacle aliens that the YIPI brought, pretending to be space bros)
+
 
 ######################## STATUS FLAGS
 # Ai route
