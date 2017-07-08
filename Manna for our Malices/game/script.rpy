@@ -116,6 +116,7 @@ image bg downstairs = "downstairs.png"
 image bg music room = "musicroom.png"
 # Aoi route
 image bg science room = "science room.png"
+image bg yomi poly entrance = "yomi poly entrance.png"
 # Koneko route
 image bg track = "track.png"
 image bg nurse office = "nurse office.png"
