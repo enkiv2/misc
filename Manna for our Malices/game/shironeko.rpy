@@ -59,6 +59,10 @@ label leave_fujinomiya_residence:
     ai "It's getting late, so I should head home."
     "Shironeko grunts noncommitally, still staring at her monitor."
     "As I leave, I hear a burst of typing."
+    scene bg street dark
+    pause 1
+    scene bg hallway dark
+    pause 1
     jump walk_home
 
 label ask_shironeko_about_yipi:

@@ -359,6 +359,8 @@ label walk_home:
     n "The sun has gone down. How late is it?"
     n "I'd better get home."
     "I gather my things and head home."
+    scene bg hallway dark
+    pause 1
     scene bg street dark
     play music "music/Infocalypse_-_Light.mp3"
     if died is False:
