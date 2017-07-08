@@ -54,7 +54,7 @@ label alien_tech:
     jump leave_fujinomiya_residence
 label i_got_nothin:
     "I guess I can't tell her about the ghost thing..."
-label leave_fujinomia_residence:
+label leave_fujinomiya_residence:
     "The light level in Shironeko's bedroom has gradually changed while I wasn't paying attention."
     ai "It's getting late, so I should head home."
     "Shironeko grunts noncommitally, still staring at her monitor."
