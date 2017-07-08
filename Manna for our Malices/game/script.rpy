@@ -117,6 +117,9 @@ image bg music room = "musicroom.png"
 # Aoi route
 image bg science room = "science room.png"
 image bg yomi poly entrance = "yomi poly entrance.png"
+image bg yomi poly security desk = "yomi poly security desk.png"
+image bg yomi poly keypad = "yomi poly keypad.png"
+image bg clone rack = "clone rack.png"
 # Koneko route
 image bg track = "track.png"
 image bg nurse office = "nurse office.png"
