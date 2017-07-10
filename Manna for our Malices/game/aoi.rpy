@@ -30,6 +30,22 @@ label ignore_music:
     scene splash science room book
     "A folded piece of paper is sticking out, as well a photograph."
     "The paper is yellowed and the photograph is on real photo stock, so it must have been taken before digital cameras."
+    if knows_about_missing_lab_notebook:
+        n "I should make sure Aoi isn't the one who took this."
+        n "I mean, she had a weak excuse for showing up, and the notebook does have a connection to her family."
+        scene bg science room
+        "I stacked the books back up the way they were and looked for a hiding place. Luckily, at the back of the room there was a nearly empty locker."
+        "I hid, and looking through the grate, I watched as Aoi came in, looked around, and picked up the lab notebook."
+        n "Hmm..."
+        n "If it's hers, why is she bringing evidence of a government coverup to school? If it's not hers, who brought it and why is she being sent to pick it up?"
+        n "And why is she hanging out in the science club room after school?"
+        n "After all, I was with her until the end of classes. If the notebook wasn't here at lunch then she can't have brought it until the end of the day."
+        n "If it was she who brought it."
+        $ knows_aoi_took_lab_notebook = True
+        n "Anyhow, if the timeline's lining up then it's getting late and I should get home."
+        scene bg hallway dark
+        pause 1
+        jump walk_home
     scene splash trophy photo
     "The photo is of two people in lab coats holding some kind of trophy."
     n "Isn't this..."
