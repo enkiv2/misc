@@ -133,11 +133,32 @@ label trade_info_mimi_kuroneko_books:
     jump trade_info_mimi
 label trade_info_mimi:
     if knows_about_missing_lab_notebook is False:
-        # Specifically, we can choose to tell Mimi about the photo as "something about Aoi that she wouldn't even tell me"
-        # Basically: we tell Mimi that Aoi's parents won the Z-Prize in 199X, but Mimi says that nobody won it in 199X
-        # Instead, a lot of participants and sponsors boycotted that year (including the hotel) because of protests because one paper was rumored to have been based on
-        # human gene-line experiments. Then a bomb threat got called in before the ceremony and so everybody evacuated.
-        # This makes Ai suspicious, and Mimi asks for proof, so they go to the science room but the book isn't there.
+        ai "So, in exchange for that information, I'm going to tell you something interesting about Aoi."
+        mimi "Oh yeah?"
+        ai "Yeah. This is something she never even told me."
+        mimi "Is it some kind of secret? I'm curious, but you shouldn't be telling me Tomoe-san's secrets."
+        ai "It's not anything embarassing."
+        ai "Actually, I'm not really sure why she hasn't bragged about it."
+        ai "Apparently, her parents won the Z-Prize back in 199X."
+        mimi "The... um..."
+        "Mimi opened up her red notebook and flipped through it."
+        mimi "I knew that didn't sound right..."
+        mimi "The thing is, the Z-Prize didn't happen in 199X. The ceremony was cancelled."
+        "She read off something from her notebook."
+        mimi "\"Despite the protests and the loss of their usual venue, the organizers pushed ahead. However, they were stopped in their tracks by a bomb threat which cleared out the hotel.\" No prizes were given that year, because of protests over human germline research."
+        mimi "Where did you get this information?"
+        ai "I found a notebook in the science club room. It had a photo of them recieving the prize."
+        ai "It's probably still there -- nobody really goes in there."
+        n "Or rather, it's probably already there..."
+        mimi "You've piqued my interest. A coverup would be a huge scoop."
+        scene bg science room
+        ai "It was on the top of that pile of books on the chair..."
+        "I looked through the stack."
+        ai "It's not here! I wonder what happened to it."
+        mimi "Well... If you find it, let me know, I guess? I mean, it'd be a big scoop if there was evidence."
+        n "If the book was here later today... will be here later today... and it's not here now, that means somebody brought it here... will bring it here... later on."
+        n "I had assumed that the notebook had been here for years, because it was so old. But if somebody's moving around this evidence..."
+        ai "If I find it, I'll let you know."
         $ knows_about_missing_lab_notebook = True
 label dont_trade_info_mimi:
     ai "Well, I should get back to the classroom. Aoi's going to get suspicious."
