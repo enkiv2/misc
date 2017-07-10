@@ -42,6 +42,7 @@ label ignore_music:
         n "After all, I was with her until the end of classes. If the notebook wasn't here at lunch then she can't have brought it until the end of the day."
         n "If it was she who brought it."
         $ knows_aoi_took_lab_notebook = True
+        $ achievement.grant("In the closet")
         n "Anyhow, if the timeline's lining up then it's getting late and I should get home."
         scene bg hallway dark
         pause 1
