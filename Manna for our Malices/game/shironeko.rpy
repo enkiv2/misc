@@ -193,7 +193,7 @@ label ask_shironeko_about_zprize:
     jump alien_tech
 label ask_shironeko_for_zprize_papers:
     comment "XXX fill in ask_shironeko_for_zprize_papers"
-    $ read_zprize_papers = True
+    $ read_z_prize_papers = True
     $ achievement.grant("Peer review")
     jump alien_tech
 label ask_shironeko_for_keypad_code:

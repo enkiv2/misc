@@ -62,6 +62,21 @@ label core_story:
     ai "God damn it!"
     "7 o'clock."
     n "I'm going to be late for school"
+    if read_z_prize_papers:
+        n "More importantly, if I want to know what's going on with Aoi, this is really my only chance."
+        n "{b}With Aoi?{/b}"
+        n "There's something going on with her, and with her parents."
+        n "She was in the science room and she took a notebook."
+        n "{b}She was in the science room?! She fucking hates science!{/b}"
+        n "The notebook contained photographic evidence of a prize ceremony that officially never happened."
+        n "A ceremony in which her parents won an award for work on forbidden human germline research, involving cloning humans and harvesting their organs."
+        n "I've never survived past this evening so I think if I'm going to figure out what they're doing in that synthetic bio lab, I'm going to have to start early."
+        menu:
+            "Nah":
+                jump dont_sneak_to_yomipoly
+            "Sneak out":
+                jump sneak_to_yomipoly
+label dont_sneak_to_yomipoly:
     "I throw my clothes on and rush downstairs."
     scene bg downstairs
     with fade

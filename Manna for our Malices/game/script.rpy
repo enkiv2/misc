@@ -74,6 +74,8 @@ define knows_poly_guard_position = False
 define knows_about_keypad = False
 # We inevitably get killed here but now that we know there's a keypad lock we can dare shironeko to get the combination (which will be randomly 
 # generated and then stored in persistent storage, so that it's unique to the game copy but the same each time we ask her)
+define keycode_try = "0000" # this is input
+define keycode_success = False
 define keycode = False # this is defined in a python block in start
 # Entering the code lets us enter the facility where we eventually find the clone racks. Aoi, who has followed us, kills us here.
 define knows_about_clone_racks = False

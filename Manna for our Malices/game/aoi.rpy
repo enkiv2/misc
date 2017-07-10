@@ -99,3 +99,90 @@ label ignore_music:
     scene bg hallway dark
     with dissolve
     jump walk_home
+
+label sneak_to_yomipoly:
+    "I threw on street clothes, rather than my usual uniform, and carefully climbed out the window so Aoi wouldn't see me."
+    scene bg street
+    "The facility was in the opposite direction from school, and if I made good time, I could be gone long before my mother -- or Aoi -- noticed."
+    "After all, I've often slept in or been hard to rouse. It would take probably fifteen minutes before their suspicion was piqued."
+    "After a little while I came upon the campus."
+    scene bg yomi poly entrance
+    n "Looks remarkably innocent... I guess all campuses do."
+    "I had taken pains to pick out an outfit that would let me pass as a university student, but many of the students were dressed in their uniforms from high school, so I needn't have bothered."
+    n "I guess they're trying to get the most out of them..."
+    "I made my way to the lab building."
+    scene bg yomi poly security desk
+    "I was in luck. The security desk was deserted."
+    if knows_poly_guard_position:
+        n "It's not deserted. It only looks that way."
+        n "{b}What do you mean?{/b}"
+        n "Look carefully at that pillar."
+        n "{b}Smoke?{/b}"
+        n "The guard is behind there, sneaking a cig."
+        n "He can't run for shit, but he's packing."
+        n "{b}What should we do?{/b}"
+        n "I'll bet that when he puts that cigarette out he's going to do it somewhere far away from the desk, so he's got plausible deniability."
+        n "If we hide behind the desk and wait for him to leave, we should be able to get to the elevator."
+        n "{b}Worth a try{/b}"
+        "I hid behind the desk. Just as expected, once the guard had smoked most of the way to the filter, he went far down the hall to dump the cup in the trash can of a nearby office."
+        "I dashed toward the elevator. The doors opened."
+        "Guard" "Miss! That's a--"
+        "I slammed the close door button and the doors, thankfully, closed."
+        "I guessed that if there was going to be a secret facility, it would be in the basement, so that's what I punched."
+        scene bg yomi poly keypad
+        "Getting out, my suspicions were somewhat confirmed. There were no other entrances or exits to this small intercene area. The only other door was locked with a keypad."
+        n "Shit..."
+        jump keypad_entry
+    else:
+        "I looked around and then dashed toward the elevator."
+        "???" "Young lady!"
+        "My head whipped around and I saw the security guard."
+        n "{b}Of course the desk wasn't abandoned, if they had top secret stuff here.{/b}"
+        n "Will you give me a break? I have a lot on my mind, OK?"
+        n "{b}I'll bet we can make it if we run for it. He was surreptitiously smoking behind that pole so he's probably got a pretty heavy habit. Why else would he be smoking at work, in a non-smoking area, during his shift?{/b}"
+        n "OK, I'll try it. Nothing to lose, right?"
+        "I started running again."
+        "Guard" "That's a sec-- Young lady! Stop!"
+        "Guard" "Listen, I'm authorized to shoot! Stop!"
+        n "{b}Just keep--{/b}"
+        "{b}BANG{/b}"
+        $ knows_poly_guard_position = True
+        jump death
+label keypad_entry:
+    $ knows_about_keypad = True
+    python:
+        keycode_try = renpy.input("What is the password?")
+        if keycode==keycode_try:
+            keycode_success=True
+        else:
+            keycode_success=False
+    if keycode_success:
+        jump clone_racks
+    else:
+        "Guard" "Time's up."
+        "{b}BANG{/b}"
+        jump death
+
+
+label clone_racks:
+    "The door opened."
+    scene bg clone rack
+    n "Oh my god..."
+    "The clones were naked. Tubes went into various orifices."
+    "They were mounted on rack-like devices on top of pedestals."
+    "They were drooling and dazed, but their eyes looked at me as I entered the room and I sensed some intelligence behind them, like that of a dying old dog."
+    "???" "I hoped you'd never find out..."
+    "I turned"
+    show aoi pout
+    aoi "I hoped you'd never see this."
+    ai "Aoi-chan?"
+    "She was within arm's length, but she stepped closer."
+    "There was a cold, sad look in her eyes."
+    "I stepped back."
+    aoi "But now, it's too late."
+    show aoi yandere
+    "She was a few steps too close for comfort. I was pinned up against the barrier."
+    aoi "I have no choice."
+    "She made a quick motion with her hand and I felt warm fluid soak through my shirt. Then..."
+    $ knows_about_clone_racks = True
+    jump death
