@@ -128,11 +128,6 @@ label sneak_to_yomipoly:
         "I hid behind the desk. Just as expected, once the guard had smoked most of the way to the filter, he went far down the hall to dump the cup in the trash can of a nearby office."
         "I dashed toward the elevator. The doors opened."
         "Guard" "Miss! That's a--"
-        "I slammed the close door button and the doors, thankfully, closed."
-        "I guessed that if there was going to be a secret facility, it would be in the basement, so that's what I punched."
-        scene bg yomi poly keypad
-        "Getting out, my suspicions were somewhat confirmed. There were no other entrances or exits to this small intercene area. The only other door was locked with a keypad."
-        n "Shit..."
         jump keypad_entry
     else:
         "I looked around and then dashed toward the elevator."
@@ -151,6 +146,20 @@ label sneak_to_yomipoly:
         $ knows_poly_guard_position = True
         jump death
 label keypad_entry:
+    "I slammed the close door button and the doors, thankfully, closed."
+    if knows_about_keypad:
+        n "Press the button for the basement. That's where the facility is."
+        n "{b}Roger that!{/b}"
+        scene bg yomi poly keypad
+        "The basement was sparse, with the only door other than the elevator locked with a keypad."
+        n "{b}Man, this place does NOT care about the fire code. Such a liability.{/b}"
+        n "I think they're violating more than the fire code down here."
+        "I walked up to the keypad."
+    else:
+        "I guessed that if there was going to be a secret facility, it would be in the basement, so that's what I punched."
+        scene bg yomi poly keypad
+        "Getting out, my suspicions were somewhat confirmed. There were no other entrances or exits to this small intercene area. The only other door was locked with a keypad."
+        n "Shit..."
     $ knows_about_keypad = True
     python:
         keycode_try = renpy.input("What is the password?")
