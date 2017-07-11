@@ -101,6 +101,7 @@ label ignore_music:
     jump walk_home
 
 label sneak_to_yomipoly:
+    play music "music/Infocalypse_-_Logolo.mp3"
     "I threw on street clothes, rather than my usual uniform, and carefully climbed out the window so Aoi wouldn't see me."
     scene bg street
     "The facility was in the opposite direction from school, and if I made good time, I could be gone long before my mother -- or Aoi -- noticed."
@@ -145,6 +146,7 @@ label sneak_to_yomipoly:
         "Guard" "That's a sec-- Young lady! Stop!"
         "Guard" "Listen, I'm authorized to shoot! Stop!"
         n "{b}Just keep--{/b}"
+        play sound "sfx/gun-shot.wav"
         "{b}BANG{/b}"
         $ knows_poly_guard_position = True
         jump death
@@ -160,12 +162,15 @@ label keypad_entry:
         jump clone_racks
     else:
         "Guard" "Time's up."
+        play sound "sfx/gun-shot.wav"
         "{b}BANG{/b}"
         jump death
 
 
 label clone_racks:
     "The door opened."
+    play music "music/Infocalypse_-_Pitted_Crystal-Chrome_Kryptonite.mp3"
+    queue music "music/Infocalypse_-_Dickless_Whore__The_Disembodied_.mp3"
     scene bg clone rack
     n "Oh my god..."
     "The clones were naked. Tubes went into various orifices."
