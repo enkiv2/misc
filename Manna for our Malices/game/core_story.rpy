@@ -3,6 +3,7 @@
 label core_story:
     play music "music/Infocalypse_-_vapor_intrusion.mp3"
     scene bg morning
+    play sound "sfx/alarm-clock.wav"
     "Alarm clock" "Ring Ring Ring Ring"
     n "Ughhhhh"
     "Alarm clock" "Ring Ring Ring Ring"
@@ -59,6 +60,7 @@ label core_story:
             extend "\n{b}How does that make you from the future?{/b}"
             extend "\nBecause you don't remember dying."
     "I slap the snooze button, and then look at the clock's face."
+    stop sound
     ai "God damn it!"
     "7 o'clock."
     n "I'm going to be late for school"
