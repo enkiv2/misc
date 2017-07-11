@@ -166,7 +166,6 @@ label keypad_entry:
         "{b}BANG{/b}"
         jump death
 
-
 label clone_racks:
     "The door opened."
     play music "music/Infocalypse_-_Pitted_Crystal-Chrome_Kryptonite.mp3"
@@ -175,6 +174,28 @@ label clone_racks:
     n "Oh my god..."
     "The clones were naked. Tubes went into various orifices."
     "They were mounted on rack-like devices on top of pedestals."
+    if knows_about_clone_racks:
+        n "Quick, turn around!"
+        n "{b}Wh--{/b}"
+        n "Aoi's coming!"
+        n "{b}Aoi? Why--{/b}"
+        aoi "I hoped you'd never see this."
+        menu:
+            "What the hell is going on?":
+                ai "What the hell is going on, Aoi?"
+                "I turned."
+                show aoi pout
+                aoi "It's too late. You could never love me, now that you know."
+                show aoi yandere
+                aoi "That's why you have to die. So we can be together."
+                "She made a quick motion with her hand, and I saw a flash of steel. Blood seeped into my shirt."
+                jump death
+            "What is this place?":
+                ai "What is this place, Aoi-chan? And what are you doing here?"
+                show aoi pout
+                aoi "You--"
+                aoi "It's a long story. Come with me; it's dangerous to stay here."
+                jump aoi_saves
     "They were drooling and dazed, but their eyes looked at me as I entered the room and I sensed some intelligence behind them, like that of a dying old dog."
     "???" "I hoped you'd never find out..."
     "I turned"
@@ -191,3 +212,30 @@ label clone_racks:
     "She made a quick motion with her hand and I felt warm fluid soak through my shirt. Then..."
     $ knows_about_clone_racks = True
     jump death
+
+label aoi_saves:
+    play music "music/Infocalypse_-_Imploded_Transcendence.mp3"
+    comment "XXX fill this section in"
+    # Aoi saves Ai, brings her out of the building, and finds a secluded spot
+    # She explains that she's not the first Tomoe Aoi, but instead a replacement
+    # That fall that Ai mentioned to Mimi was fatal and she had already been cloned.
+    # So her parents adopted the clone as a substitute. She takes drugs to defeat the hypoxia, and they work a little
+    # Then they go to school but are late.
+    # Specifically they get to school as lunch is beginning.
+    scene bg street
+    pause 1
+    play music "music/Infocalypse_-_scathing_frolic.mp3"
+    scene bg classroom
+    show kuroneko normal at left
+    show aoi blush at right
+    kuroneko "Well aren't we adventurous, skipping morning classes together?"
+    ai "It's not..."
+    ai "Something urgent came up, is all."
+    kuroneko "Lots of things can be urgent, when you're young and in love."
+    ai "We're the same age!"
+    kuroneko "Youth is ninety nine percent perspective."
+    ai "So you're, what, mentally a spinster?"
+    kuroneko "Something like that. By the way, you just missed Yamada. She went off to the cafeteria in a huff."
+    ai "The cafeteria, huh?"
+    ai "I skipped breakfast, so I'm pretty hungry."
+    jump dont_follow_mimi
