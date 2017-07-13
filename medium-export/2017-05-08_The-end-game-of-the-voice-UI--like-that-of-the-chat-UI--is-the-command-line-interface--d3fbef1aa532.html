@@ -1,0 +1,73 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>The end-game of the voice UI (like that of the chat UI) is the command line interface.</title><meta name="description" content="To start out with, there are a handful of differences between interfaces centering around how learning curves are managed. While all major…"><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">The end-game of the voice UI (like that of the chat UI) is the command line interface.</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+To start out with, there are a handful of differences between interfaces centering around how learning curves are managed. While all major…
+</section>
+<section data-field="body" class="e-content">
+<section name="7e35" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="c5d4" id="c5d4" class="graf graf--p graf--leading">The end-game of the voice UI (like that of the chat UI) is the command line interface. So, it’s useful to take cues from currently-existing good CLI UX. (For instance, look at the differences between zsh &amp; command.com, and the trends in the evolution of borne-compatible command shells since 1970.)</p><p name="9323" id="9323" class="graf graf--p graf-after--p">To start out with, there are a handful of differences between interfaces centering around how learning curves are managed. While all major command line interfaces front-load some learning (i.e., the user is expected to learn quite a bit early in the experience in order to understand basic operations — something that GUIs are loathe to do, and something that therefore limits how nuanced the control user have over GUIs can be with standard widgets), unix shells made big leaps in discoverability early: as of the GNU announcement in 1984, Stallman was already saying that any command shell should be expected to have auto-completion features, and online documentation systems like <em class="markup--em markup--p-em">man</em> &amp; <em class="markup--em markup--p-em">apropos</em> already existed (soon to be joined with the hypertext system <em class="markup--em markup--p-em">info</em>) — this at a time when both the Macintosh &amp; the Amiga were still under development &amp; most users had never seen a GUI, and during a period when users were generally split between Microsoft BASIC &amp; MS-DOS in terms of their command environment.</p><p name="d0c3" id="d0c3" class="graf graf--p graf-after--p">No virtual assistant I am aware of will list available functions or list the set of invocations they accept — in other words, there is no help system comparable to man or apropos — and since error reporting is nearly nonexistent, this means interacting with unfamiliar features is the equivalent of playing a classic text adventure. “I see no lamp here,” says Siri. This kind of interface is fine for a game (where part of the fun is figuring out the systems and thereby beating the snarky &amp; frustrating UI), but if we intend to do real work with virtual assistants they need to operate a lot more like a good CLI and provide detailed and specific technical information about their functionality. (The Arctek Gemini, a robot released in 1982, had a voice-controlled virtual assistant that could do this; why can’t Apple?)</p><p name="8a23" id="8a23" class="graf graf--p graf-after--p">The second big factor is that, if we want to do real work with these interfaces, we need to reduce the amount of fuzzy matching and move toward a system in which every word is expected to be meaningful. Picking one or two key words out of a sentence will give few false positives when performing simple tasks, but cannot scale: looking at programming languages that resemble english (such as SQL) gives us a good idea about how pronounceable keywords can be combined in relatively natural ways to allow the formation of specific, precise, and complex queries. Having some front-loading of learning is necessary for truly nuanced queries, but simple ones could still sound like natural speech. Combined with a built-in help system, the mechanisms for using this could be made very discoverable.</p><p name="695b" id="695b" class="graf graf--p graf-after--p">Mode indication is a problem in speech interfaces that have complex behaviors. We expect a great deal of stacked context, and even today’s systems, which are capable of doing next to nothing, tend to fail miserably at consistently keeping track of stacked context or falling in and out of different modes predictably.</p><p name="c3e6" id="c3e6" class="graf graf--p graf-after--p">Finally, a big problem is that almost everybody who has learned to type can type faster on a real keyboard than they can speak. On-screen keyboards on smartphones, disabilities affecting the hands, and contexts where keyboards are not handy or usable may justify speech-based interfaces even when they are otherwise not ideal; some of these cases are better-served by chording keyboards or by improvements to predictive text systems.</p><p name="9e95" id="9e95" class="graf graf--p graf-after--p">If we want speech-controlled virtual assistants to graduate from toy to tool, we can’t allow ourselves to be seduced by flashy but ultimately hollow flat-pack futurism, and must instead admit that this tech will be inappropriate in most situations: voice control will be rude in public and unnecessary in the home, no less distracting while driving than actually typing on the phone, and less effective in the workplace than speaking to a coworker about the same topic.</p><p name="ab5f" id="ab5f" class="graf graf--p graf-after--p graf--trailing">The killer apps for this tech at the moment seem to be fielding questions from pre-literate children and taking orders while an adult is cooking; a move toward having clear and precise syntax could make it possible for more complex queries to be asked (especially those in the domain of what non-technical users assume current voice assistants can handle but that they can’t — expecting “will it rain next Tuesday” to work because “will it rain tomorrow” does), and build-in help systems can encourage curious children to learn the kind of thinking that underlies programming, giving them a leg up in school when it comes to mathematics and grammar.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">John Ohno</a> on <a href="https://medium.com/p/d3fbef1aa532"><time class="dt-published" datetime="2017-05-08T17:47:40.531Z">May 8, 2017</time></a>.</p><p>Exported from <a href="https://medium.com">Medium</a> on June 13, 2017.</p></footer></article>
+
+</body></html>
