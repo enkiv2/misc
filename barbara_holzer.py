@@ -68,6 +68,9 @@ for item in candidates:
     except:
         pass
 bg.paste(ImageOps.grayscale(bg), (0, 0))
+bg2=Image.new("RGB", bg.size)
+bg2.paste(bg, (0, 0))
+bg=bg2
 while sloganRender.size[0]>bg.size[0] or sloganRender.size[1]>bg.size[1]:
     sloganRender=sloganRender.resize((sloganRender.size[0]/2, sloganRender.size[1]/2))
 bg.paste(sloganRender, (bg.size[0]/2-sloganRender.size[0]/2, bg.size[1]/2-sloganRender.size[1]/2))
