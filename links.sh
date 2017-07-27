@@ -2,7 +2,7 @@
 [[ -e ~/.linkit ]] || touch ~/.linkit
 
 function linkit() {
-	echo "$1\t$(date)\t$(getTitle "$1")" >> ~/.linkit
+	echo -e "$1\t$(date)\t$(getTitle "$1")" >> ~/.linkit
 }
 function getTitle() {
 	curl "$1"| grep -i "<title>" | head -n 1 | sed 's/^.*<[tT][iI][tT][lL][eE]>//;s/<\/[tT][iI][tT][lL][eE]>.*//' 
