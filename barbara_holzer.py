@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import sys
+import sys, os
 from PIL import Image, ImageOps, ImageFont, ImageDraw
 from random import Random
 random=Random()
@@ -48,7 +48,25 @@ sloganRender=Image.new("RGB", (size[0]+10, size[1]+10), color="red")
 sloganDraw=ImageDraw.Draw(sloganRender)
 sloganDraw.text((5, 5), slogan, font=font, fill="white")
 
-bg=Image.open(random.choice(sys.argv[1:]))
+candidates=[]
+def walk_helper(arg, dirname, fnames):
+    for item in fnames:
+        fullpath=os.path.join(dirname, item)
+        if not (os.path.isdir(fullpath)):
+            candidates.append(fullpath)
+for path in sys.argv[1:]:
+    if(os.path.isdir(path)):
+        os.path.walk(path, walk_helper, None)
+    else:
+        candidates.append(path)
+random.shuffle(candidates)
+bg=None
+for item in candidates:
+    try:
+        bg=Image.open(item)
+        break
+    except:
+        pass
 bg.paste(ImageOps.grayscale(bg), (0, 0))
 while sloganRender.size[0]>bg.size[0] or sloganRender.size[1]>bg.size[1]:
     sloganRender=sloganRender.resize((sloganRender.size[0]/2, sloganRender.size[1]/2))
