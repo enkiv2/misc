@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+args="$@"
+man "$@" || apropos "$@" || w3m "http://en.m.wikipedia.org/wiki/$(echo "$args" | sed 's/ /_/g')" || info "$@"
+
