@@ -192,7 +192,31 @@ label ask_shironeko_about_zprize:
     shironeko "Let me tell you about a place I got into recently where the security was actually a challenge."
     jump alien_tech
 label ask_shironeko_for_zprize_papers:
-    comment "XXX fill in ask_shironeko_for_zprize_papers"
+    ai "There was a Z-Prize ceremony in 199X. Its existence was covered up."
+    ai "I have reason to believe that the Yomiyama Polytechnic computers might have copies of the submitted papers."
+    ai "Do you figure you could get a copy of the Tomoe paper on clones?"
+    shironeko "Hmm... I don't think YomiPoly has great netsec. So, give me a few minutes."
+    "Shironeko cracked her knuckles and typed for a minute or two, before leaning back."
+    "A laser printer roared to life from somewhere under the mess."
+    shironeko "Hey, Ai-chan. Next time ask me for something a little more challenging, will you?"
+    ai "Ha. I'll try."
+    "Shironeko ducked under her desk and shuffled around what sounded like half-empty bags of crisps before reappearing with some mostly-clean printed pages."
+    shironeko "This is weird shit. How'd you know about it?"
+    ai "Um... It's a long story."
+    "I skimmed the paper. I may be doing well in high school biology but this is beyond me."
+    "Still, a couple things popped out."
+    "The proposal emphasizes that this is an ethical improvement over other suggested methods for growing human clones for organ harvesting."
+    "The suggestion is that they could genetically modify the clones so that their higher brain functions are completely cut off -- their cerebellums disconnected from the rest of the brain."
+    "It's creepy, but I guess I can see where they're coming from: we think of animals' lives as having value in proportion to their intelligence."
+    "That's based on the idea that you need a certain amount of intelligence to understand pain and mortality. If an animal doesn't understand what it means to die, then it's not unethical to kill it in a painless way."
+    "Still, the path it leads down is lobotomizing clones so you can kill them without guilt later. Doesn't bringing something to life in the first place have some moral ramifications? Particularly when the intent is to kill them."
+    "Or, being brainless, can we then just consider them to be the same as a support system for artifical organs?"
+    "There are other strange things here. Umbilical blood? Why specifically that kind?"
+    "As I suspected, this paper had a lot in common with the one I found in the science clubroom. For one thing, it shared the foetus diagram."
+    "But, I think that paper was probably an earlier draft of this. I wonder why Ai was carrying it around..."
+    ai "Thanks for this. It answers some questions I had."
+    ai "Did you have something you wanted to show me?"
+    shironeko "Oh man, do I ever"
     $ read_z_prize_papers = True
     $ achievement.grant("Peer review")
     jump alien_tech
