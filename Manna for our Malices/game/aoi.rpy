@@ -224,13 +224,70 @@ label clone_racks:
 
 label aoi_saves:
     play music "music/Infocalypse_-_Imploded_Transcendence.mp3"
-    comment "XXX fill this section in"
-    # Aoi saves Ai, brings her out of the building, and finds a secluded spot
-    # She explains that she's not the first Tomoe Aoi, but instead a replacement
-    # That fall that Ai mentioned to Mimi was fatal and she had already been cloned.
-    # So her parents adopted the clone as a substitute. She takes drugs to defeat the hypoxia, and they work a little
-    # Then they go to school but are late.
-    # Specifically they get to school as lunch is beginning.
+    "Aoi directed me toward a plain grey metal door at the end of the clone area."
+    "We passed many clones. Among them I saw one that resembled myself. Her eyes, though glazed and unfocused, followed me as I passed."
+    # XXX insert stairwell image
+    "We went through the door into what looked like a service stairwell."
+    aoi "There are no cameras here, but I need to edit the tapes. Stay here."
+    "Aoi went up the stairs a few flights."
+    n "{b}Is she calling for guards?{/b}"
+    n "I don't think so. The last time, she just stabbed us. If she wanted to get rid of us, thats easier"
+    "After a short time, she returned."
+    aoi "Ok, I removed the evidence that you were here. We need to leave quick, while the cameras are still blanked out."
+    ai "Lead on."
+    # XXX insert outside image
+    "Aoi led me down the stairs and out some kind of service or emergency exit."
+    n "{b}If we had known about this, we wouldn't have had to run past that asthmatic guard.{/b}"
+    n "I think we've found out what we need to know. This is probably the last time I'll need to visit this place."
+    aoi "I should probably explain."
+    aoi "I haven't told anybody else this, ever. I'll tell you because you're my very very best friend and I love you, okay, Ai-chan? But don't ever ever tell anybody, okay?"
+    ai "I wouldn't snitch on you, Aoi-chan."
+    ai "First, should we be doing this so close to the secret exit? There isn't even a keypad on this side."
+    aoi "Oh, yeah. You're right. Let's go to... um..."
+    aoi "Let's go to the women's locker room for the pool. There aren't any cameras or microphones there, and the pool's closed anyway."
+    "I followed Aoi across the campus and through a building with maze-like corridors, which she navigated with ease."
+    # XXX insert image of pool building hallways
+    aoi "I used to swim here when I was little. My parents would work in the lab until late, so I was allowed to stay."
+    aoi "Nobody asked for the key back, so I still have it."
+    "She unlocked an unlabeled door."
+    aoi "Come on in."
+    # XXX insert image of women's locker room
+    ai "You know this campus well, don't you?"
+    aoi "I was born here."
+    aoi "This is the secret. Promise not to tell anybody, okay?"
+    aoi "And super promise not to hate me?"
+    ai "Of course I won't hate you."
+    aoi "Pinkie swear?"
+    ai "Okay. Pinky swear."
+    "We shook pinkies."
+    aoi "I'm not..."
+    aoi "You're sure you won't be mad?"
+    ai "Seriously, I'm sure."
+    aoi "I'm not the real Aoi."
+    aoi "I... died. Or the original me died."
+    aoi "Some kind of accident. Fell and hit my head? Or her head?"
+    aoi "But I had a copy. In there. Everybody my age born in this town does."
+    aoi "My parents took all the umbilical cord blood! So they could keep organs for everybody! But they couldn't do a head transplant and anyway there wasn't anything left."
+    aoi "I didn't have anything in my head either. I mean, me-me, not the first me. So I had to learn everything."
+    n "Aoi is ditzy, sure, but the paper said the cerebellum should be disconnected. She definitely has higher brain function."
+    ai "The clones in there aren't like you, though, right? They're not as smart as you."
+    aoi "The clones were supposed to have no brains at all, but it turned out that the organs didn't grow right with no brain at all."
+    ai "I see... So, organ development is regulated partially by the cerebellum?"
+    aoi "Yeah, organs are told how to grow by the cera-whatsit. So instead of removing it, they just made sure it got only a little blood."
+    n "So their cognitive development is higher than planned, but their higher brain regions have constant hypoxia..."
+    aoi "I was like that when I was taken out."
+    "I remembered, distantly, what she was like after the accident. The glazed eyes, blank staring, learning to talk again..."
+    aoi "But my parents make me take all kinds of pills and they make me think better."
+    ai "Why did they use umbilical blood?"
+    aoi "Um... Something about stem cells? I don't really understand."
+    ai "I guess something like that would be beyond me too."
+    aoi "Beyond you? But you're getting As in biology! I've seen your tests!"
+    ai "You've copied my tests. Anyhow, there's a big difference between being good at high school biology and being a genius like your parents."
+    aoi "My parents are geniuses?"
+    ai "Yeah. You never realized? Nobody else has ever done human cloning. This was done before anybody had officially cloned a sheep."
+    aoi "Weird."
+    ai "Hey. We should probably get back to school. We'll be in trouble if we miss too much class. Especially you."
+    aoi "Oh, yeah. Let's head back."
     scene bg street
     pause 1
     play music "music/Infocalypse_-_scathing_frolic.mp3"
