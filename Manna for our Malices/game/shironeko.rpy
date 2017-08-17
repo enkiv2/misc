@@ -49,8 +49,32 @@ label deliver_printouts:
         "Ask her about the code for the keypad lock at Yomiyama Poly's synthetic biology research center" if knows_about_keypad:
             jump ask_shironeko_for_keypad_code
 label alien_tech:
-    comment "XXX fill in alien tech info"
-    comment "Aliens are blue dwarves. Their tech is related to genetically engineering plants that grow into space ships -- capable of going slightly faster than light speed by a combination of super-efficient solar sail leaves and super-dense neutronium nodules that bend space in particular patterns."
+    shironeko "So, I was snooping around in ambient traffic one day..."
+    ai "You can do that?"
+    shironeko "You can do that if you root the ISP."
+    ai "I recognize some of those words in isolation."
+    shironeko "Anyway, I saw some really heavy traffic that seemed to be using an unusual encryption method."
+    shironeko "It was going between a residential address way out in hokkaido and some mil address."
+    ai "Mil address?"
+    shironeko "The US military has its own top level domain. So, when I say mil address I don't mean JSSDF."
+    shironeko "There are public FTP sites on mil addresses so it's not so strange to see somebody occasionally download things from them, but also using weird encryption set me off. Plus, the IP looked familiar."
+    shironeko "Then I realized that the reason the IP looked familiar was that it was part of a VPN I set up for my IRC buddies."
+    shironeko "I tracked down who was using it and found out he was on some wild goose chase involving disclosure."
+    shironeko "He had a bug up his ass about aliens. Americans are weird like that sometimes. Anyway, I wouldn't normally bother but this thing was locked down tight so I decided to make a little wager with him."
+    ai "What were the terms?"
+    shironeko "He was always hitting on me, so I said if he got in first I'd show him my tits. If I got in first he'd give me his stash of cracked passwords."
+    shironeko "I won, obviously. But, damn it, the nutjob was right."
+    shironeko "That machine belonged to a US military base right here in Yomiyama, set up in the 50s. And, for whatever reason, they decided to store all their weird-ass UFO related research on machines in Japan."
+    shironeko "He wasn't pleased after I leaked him the documents. Too weird for his blood."
+    ai "A UFO nut thought these documents were too weird?"
+    shironeko "He wanted thin little greys like on TV. These guys are short, stocky, hairy, and blue."
+    shironeko "He wanted silver saucers, not space trees."
+    ai "Space... trees?"
+    shironeko "Yeah. Genetically engineered, probably. Solar sail leaves, super dense neutronium-filled nodules in the wood that bends space and provides gravity."
+    shironeko "The memos figured they could probably get pretty close to light speed, but that they had slowed down a whole lot by the time they hit Siberia."
+    shironeko "The gravity distortions protected them a little, and they got buried under the permafrost."
+    shironeko "Some surveillance balloons saw the soviets excavating something weird out there, and so the americans made sure one of their moles was involved in digging the thing up, reporting everything back."
+    shironeko "Then, in '91 some remaining assets managed to transport a couple bits and pieces back to the US: some frozen corpses, a bit of wood, a bit of leaf."
     $ knows_about_alien_tech = True
     jump leave_fujinomiya_residence
 label i_got_nothin:
