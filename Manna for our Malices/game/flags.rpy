@@ -33,6 +33,7 @@ define knows_about_clone_racks = False
 # (But some of the info about the clones should be able to come from getting a copy of the paper from shironeko -- a proposal that probably has 
 # fully disconnected cerebellums instead of hypoxic cerebellums. It will be hard to explain the technical details of the cloning in a way consistent
 # with even yandere-mode Aoi.)
+define knows_whole_aoi_story = False
 
 # Kuroneko route
 define knows_about_kuroneko_concert = False

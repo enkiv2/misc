@@ -288,6 +288,7 @@ label aoi_saves:
     aoi "Weird."
     ai "Hey. We should probably get back to school. We'll be in trouble if we miss too much class. Especially you."
     aoi "Oh, yeah. Let's head back."
+    $ knows_whole_aoi_story = True
     scene bg street
     pause 1
     play music "music/Infocalypse_-_scathing_frolic.mp3"
