@@ -14,7 +14,7 @@ label start:
     extend "{color=#fff}{cps=10}\n{space=400}The Book of the Damned{/cps}{/color}"
     scene bg white with dissolve
     scene bg black with dissolve
-    centered "{color=#fff}{cps=15}In the year 20XX, in the small town of Yomiyama, there was a series of deaths.{/cps}{/color}"
+    centered "{color=#fff}{cps=15}In the year 20XX, in the small town of Yomiyama, there were a series of deaths.{/cps}{/color}"
     extend "{color=#fff}{cps=15}\nInvestigations of these deaths have been unsuccessful.{/cps}{/color}"
     extend "{color=#fff}{cps=15}\nAs it turns out, a lot was happening just under the surface.{/cps}{/color}"
     jump core_story
