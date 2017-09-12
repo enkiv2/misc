@@ -8,6 +8,8 @@ sys.stdout = UTF8Writer(sys.stdout)
 
 from mastodon import Mastodon
 
+import dateutil.parser
+
 from random import Random
 random=Random()
 
@@ -22,7 +24,13 @@ creds=mastodon.account_verify_credentials()
 my_id=creds["id"]
 
 suggested={}
+notification_pool=[]
 
+def stupidDateToEpoch(d):
+    try:
+      return time.mktime(dateutil.parser.parse(d).timetuple())
+    except:
+        return time.mktime(d.timetuple())
 def get_followers(account_id):
     followers=mastodon.account_followers(account_id)
     #f=mastodon.account_followers(account_id, since_id=followers[-1]["id"])
@@ -37,19 +45,40 @@ def get_follower_ids(account_id):
         fids.append(item["id"])
     return fids
 def get_mentions(account_id, last=None):
-    global followers, last_notification
+    global followers, last_notification, last_update_time
     notifications=mastodon.notifications(since_id=last)
     mentions=[]
     new_follows=False
+    ls=0
     for n in notifications:
-        if(n["type"]=="follow"):
-            new_follows=True
-        elif(n["type"]=="mention"):
-            mentions.append(n)
+        if(stupidDateToEpoch(n["created_at"])>last_update_time) and n["id"]>last_notification:
+            if "status" in n:
+                if stupidDateToEpoch(n["status"]["created_at"])<=last_update_time:
+                    next
+            if(n["type"]=="follow"):
+                new_follows=True
+                try:
+                    mastodon.notifications_dismiss(n["id"])
+                except:
+                    pass
+            elif(n["type"]=="mention"):
+                if(stupidDateToEpoch(n["status"]["created_at"])>=last_update_time):
+                    mentions.append(n)
+                    print(n["created_at"])
+                    print(n["status"]["created_at"])
+                    if(ls<stupidDateToEpoch(n["status"]["created_at"])):
+                        ls=stupidDateToEpoch(n["status"]["created_at"])
+            else:
+                try:
+                    mastodon.notifications_dismiss(n["id"])
+                except:
+                    pass
+    last_update_time=ls
     if(new_follows):
         new_followers=get_follower_ids(account_id)
         followers=new_followers
-    last_notification=notifications[-1]["id"]
+    if(len(notifications)>0):
+        last_notification=notifications[-1]["id"]
     return mentions
 def evert_relationships(rdict):
     ids=[]
@@ -74,15 +103,50 @@ def reply_to_mentions(mentions):
                         suggested[acct_id].append(item)
         if(len(eligable_followers)==0):
             mastodon.status_post("@"+acct_name+" There are no users following me who you are not following, followed by, blocking, or muting.", in_reply_to_id=mid, visibility="direct")
+            print("@"+acct_name+" There are no users following me who you are not following, followed by, blocking, or muting.")
         else:
             chosen_follower=random.choice(eligable_followers)
             pretty_name=mastodon.account(chosen_follower)["acct"]
             mastodon.status_post("@"+acct_name+" I recommend following @"+pretty_name, in_reply_to_id=mid, visibility="direct")
+            print("@"+acct_name+" I recommend following @"+pretty_name)
+        try:
+            mastodon.notifications_dismiss(m["id"])
+        except:
+            pass
+    mastodon.notifications_clear()
 
 
 followers=get_follower_ids(my_id)
-last_notification=mastodon.notifications()[-1]["id"]
+notification_pool=mastodon.notifications()
+notification_id_pool=[]
+for item in notification_pool:
+    notification_id_pool.append(item["id"])
+last_notification=0
+if(len(notification_pool)>0):
+    last_notification=notification_id_pool[-1]
 last_ff=0
+last_update_time=time.time()
+for n in notification_pool:
+    if "status" in n:
+        l=stupidDateToEpoch(n["status"]["created_at"])
+        if(l>last_update_time):
+            last_update_time=l
+    l=stupidDateToEpoch(n["created_at"])
+    if(l>last_update_time):
+        last_update_time=l
+    try:
+        mastodon.notifications_dismiss(n["id"])
+    except:
+        pass
+mastodon.notifications_clear()
+#print(notification_id_pool)
+#print(notification_pool[-1])
+#
+#print(last_update_time)
+#print(stupidDateToEpoch(notification_pool[-1]["created_at"]))
+#print(time.time())
+#
+#sys.exit()
 
 while True:
 #	try:
@@ -98,6 +162,7 @@ while True:
                 for f in chosen_followers:
                     msg.append("@"+mastodon.account(f)["acct"])
                 mastodon.toot(" \n".join(msg))
+        print("sleep")
         time.sleep(600)
 #	except Exception as e:
 #            print(e)
