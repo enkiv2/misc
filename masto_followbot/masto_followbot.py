@@ -56,7 +56,7 @@ def evert_relationships(rdict):
     return ids
 def reply_to_mentions(mentions):
     for m in mentions:
-        mid=m["id"]
+        mid=m["status"]["id"]
         acct=m["account"]
         acct_id=acct["id"]
         acct_name=acct["acct"]
