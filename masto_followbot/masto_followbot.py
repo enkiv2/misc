@@ -23,10 +23,10 @@ my_id=creds["id"]
 
 def get_followers(account_id):
     followers=mastodon.account_followers(account_id)
-    f=mastodon.account_followers(account_id, since_id=followers[-1]["id"])
-    while(len(f)>0):
-        followers.extend(f)
-        f=mastodon.account_followers(account_id, since_id=followers[-1]["id"])
+    #f=mastodon.account_followers(account_id, since_id=followers[-1]["id"])
+    #while(len(f)>0):
+    #    followers.extend(f)
+    #    f=mastodon.account_followers(account_id, since_id=followers[-1]["id"])
     return followers
 def get_follower_ids(account_id):
     followers=get_followers(account_id)
@@ -40,9 +40,9 @@ def get_mentions(account_id, last=None):
     mentions=[]
     new_follows=False
     for n in notifications:
-        if(n.type=="follow"):
+        if(n["type"]=="follow"):
             new_follows=True
-        elif(n.type=="mention"):
+        elif(n["type"]=="mention"):
             mentions.append(n)
     if(new_follows):
         new_followers=get_follower_ids(account_id)
@@ -52,7 +52,7 @@ def get_mentions(account_id, last=None):
 def evert_relationships(rdict):
     ids=[]
     for item in rdict:
-        ids.append(rdict["id"])
+        ids.append(item["id"])
     return ids
 def reply_to_mentions(mentions):
     for m in mentions:
@@ -79,21 +79,21 @@ last_notification=None
 last_ff=0
 
 while True:
-	try:
-            reply_to_mentions(get_mentions(my_id, last_notification))
-            if(time.localtime()[6]==4): # if it's friday
-                if(last_ff-time.time())>(60*60*2):
-                    last_ff=time.time()
-                    samplesize=6
-                    if(len(followers)<samplesize):
-                        samplesize=len(followers)
-                    chosen_followers=random.sample(followers, samplesize)
-                    msg=["#ff #followfriday"]
-                    for f in chosen_followers:
-                        msg.append("@"+mastodon.account(f)["acct"])
-                    mastodon.toot(" \n".join(msg))
-	    time.sleep(600)
-	except Exception as e:
-            print(e)
-	    pass
+#	try:
+        reply_to_mentions(get_mentions(my_id, last_notification))
+        if(time.localtime()[6]==4): # if it's friday
+            if(last_ff-time.time())>(60*60*2):
+                last_ff=time.time()
+                samplesize=6
+                if(len(followers)<samplesize):
+                    samplesize=len(followers)
+                chosen_followers=random.sample(followers, samplesize)
+                msg=["#ff #followfriday"]
+                for f in chosen_followers:
+                    msg.append("@"+mastodon.account(f)["acct"])
+                mastodon.toot(" \n".join(msg))
+        time.sleep(600)
+#	except Exception as e:
+#            print(e)
+#	    pass
 
