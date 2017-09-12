@@ -21,6 +21,8 @@ followers=[]
 creds=mastodon.account_verify_credentials()
 my_id=creds["id"]
 
+suggested={}
+
 def get_followers(account_id):
     followers=mastodon.account_followers(account_id)
     #f=mastodon.account_followers(account_id, since_id=followers[-1]["id"])
@@ -65,7 +67,11 @@ def reply_to_mentions(mentions):
         for item in followers:
             if not item in relationships:
                 if item!=acct_id:
-                    eligable_followers.append(item)
+                    if(not acct_id in suggested):
+                        suggested[acct_id]=[]
+                    if(not item in suggested[acct_id]):
+                        eligable_followers.append(item)
+                        suggested[acct_id].append(item)
         if(len(eligable_followers)==0):
             mastodon.status_post("@"+acct_name+" There are no users following me who you are not following, followed by, blocking, or muting.", in_reply_to_id=mid, visibility="direct")
         else:
@@ -75,7 +81,7 @@ def reply_to_mentions(mentions):
 
 
 followers=get_follower_ids(my_id)
-last_notification=None
+last_notification=mastodon.notifications()[-1]["id"]
 last_ff=0
 
 while True:
