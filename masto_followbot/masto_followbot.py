@@ -64,8 +64,8 @@ def get_mentions(account_id, last=None):
             elif(n["type"]=="mention"):
                 if(stupidDateToEpoch(n["status"]["created_at"])>=last_update_time):
                     mentions.append(n)
-                    print(n["created_at"])
-                    print(n["status"]["created_at"])
+                    #print(n["created_at"])
+                    #print(n["status"]["created_at"])
                     if(ls<stupidDateToEpoch(n["status"]["created_at"])):
                         ls=stupidDateToEpoch(n["status"]["created_at"])
             else:
@@ -103,12 +103,12 @@ def reply_to_mentions(mentions):
                         suggested[acct_id].append(item)
         if(len(eligable_followers)==0):
             mastodon.status_post("@"+acct_name+" There are no users following me who you are not following, followed by, blocking, or muting.", in_reply_to_id=mid, visibility="direct")
-            print("@"+acct_name+" There are no users following me who you are not following, followed by, blocking, or muting.")
+            #print("@"+acct_name+" There are no users following me who you are not following, followed by, blocking, or muting.")
         else:
             chosen_follower=random.choice(eligable_followers)
             pretty_name=mastodon.account(chosen_follower)["acct"]
             mastodon.status_post("@"+acct_name+" I recommend following @"+pretty_name, in_reply_to_id=mid, visibility="direct")
-            print("@"+acct_name+" I recommend following @"+pretty_name)
+            #print("@"+acct_name+" I recommend following @"+pretty_name)
         try:
             mastodon.notifications_dismiss(m["id"])
         except:
@@ -162,7 +162,6 @@ while True:
                 for f in chosen_followers:
                     msg.append("@"+mastodon.account(f)["acct"])
                 mastodon.toot(" \n".join(msg))
-        print("sleep")
         time.sleep(600)
 #	except Exception as e:
 #            print(e)
