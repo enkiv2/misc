@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import sys, os
 from PIL import Image, ImageOps, ImageFont, ImageDraw
+import tracery, json
+import disarticulate
 from random import Random
 random=Random()
 holzer=[
@@ -35,7 +37,12 @@ holzer=[
 "you can live on through your descendants", "you can't expect people to be something they're not", "you can't fool others if you're fooling yourself", "you don't know what's what until you support yourself", "you have to hurt others to be extraordinary", "you must be intimate with a token few", "you must disagree with authority figures", "you must have one grand passion",
 "you must know where you stop and the world begins", "you can understand someone of your sex only", "you owe the world not the other way around", "you should study as much as possible", "your actions ae pointless if no one notices", "your oldest fears are the worst ones" ]
 
-slogan=random.choice(holzer).upper()
+grammar1=tracery.Grammar(json.load(open("holzer_markov.json", "r")))
+grammar2=tracery.Grammar(json.load(open("templates/proverbs_tracery.json", "r")))
+grammar3=tracery.Grammar(json.load(open("templates/memebombs_combined.json", "r")))
+slogan=random.choice([random.choice(holzer), random.choice([grammar1.flatten("#origin#"), grammar1.flatten("#origin#"), grammar2.flatten("#origin#"), grammar3.flatten("#origin#")])])
+slogan=random.choice([slogan, slogan.upper(), slogan.upper(), slogan.upper(), disarticulate.disarticulate(slogan, random.randint(1, 15))])
+
 try:
     font=ImageFont.truetype("arialbi.ttf", 64)
 except:
