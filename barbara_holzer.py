@@ -43,6 +43,8 @@ grammar3=tracery.Grammar(json.load(open("templates/memebombs_combined.json", "r"
 slogan=random.choice([random.choice(holzer), random.choice([grammar1.flatten("#origin#"), grammar1.flatten("#origin#"), grammar2.flatten("#origin#"), grammar3.flatten("#origin#")])])
 slogan=random.choice([slogan, slogan.upper(), slogan.upper(), slogan.upper(), disarticulate.disarticulate(slogan, random.randint(1, 15))])
 
+print(slogan)
+
 try:
     font=ImageFont.truetype("arialbi.ttf", 64)
 except:
