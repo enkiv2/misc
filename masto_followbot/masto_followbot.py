@@ -138,7 +138,7 @@ for n in notification_pool:
         mastodon.notifications_dismiss(n["id"])
     except:
         pass
-mastodon.notifications_clear()
+#mastodon.notifications_clear()
 #print(notification_id_pool)
 #print(notification_pool[-1])
 #
