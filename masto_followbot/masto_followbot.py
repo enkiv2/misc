@@ -152,7 +152,7 @@ while True:
 #	try:
         reply_to_mentions(get_mentions(my_id, last_notification))
         if(time.localtime()[6]==4): # if it's friday
-            if(last_ff-time.time())>(60*60*2):
+            if(last_ff==0) or (last_ff-time.time())>(60*60*2):
                 last_ff=time.time()
                 samplesize=6
                 if(len(followers)<samplesize):
