@@ -42,7 +42,7 @@ def getCorrespondence(w):
             ret=ret.split('.')[0]
         if(w2=="."):
             ret=w2
-        correspondences[w2]=ret
+        correspondences[w2]=random.choice(([w2]*5)+[ret])
         return matchCaps(w, ret)
 
 def randomHyper(w):
