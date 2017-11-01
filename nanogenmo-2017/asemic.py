@@ -5,10 +5,10 @@ from random import Random
 random=Random()
 
 global LENGTH
-LENGTH=5
+LENGTH=10
 
-#cursive=True
-cursive=False
+cursive=True
+#cursive=False
 
 def buildMarkovModel(vocab):
 	model={}
