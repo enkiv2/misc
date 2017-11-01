@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 import sys, os
 from PIL import Image, ImageOps, ImageChops, ImageFont, ImageDraw, ImageFilter
-import tracery, json
-from random import Random
-random=Random()
 
 def sketchify(sourceImage, colorized=True, sketchOnly=False):
     sketch=ImageOps.invert(ImageOps.autocontrast(sourceImage).filter(ImageFilter.FIND_EDGES))
