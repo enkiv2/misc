@@ -2,6 +2,7 @@
 import sys, os
 from PIL import Image, ImageOps, ImageChops, ImageFont, ImageDraw, ImageFilter
 
+# Make an image more closely resemble a pen drawing, with optional shading and coloring
 def sketchify(sourceImage, colorized=True, sketchOnly=False):
     sketch=ImageOps.invert(ImageOps.autocontrast(sourceImage).filter(ImageFilter.FIND_EDGES))
     if sketchOnly:
@@ -15,6 +16,7 @@ def sketchify(sourceImage, colorized=True, sketchOnly=False):
     merged=Image.blend(sourceImage, sketch, 0.5)
     return merged
 
+# Run sketchify and then fit to a particular size, followed by the addition of a gutter
 def panelify(sourceImage, targetSize, borderWidth=5, colorized=True, sketchOnly=False):
     sourceImage=sketchify(sourceImage, colorized, sketchOnly)
     sourceImage=ImageOps.fit(sourceImage, targetSize)
