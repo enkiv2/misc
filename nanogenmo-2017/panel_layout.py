@@ -43,6 +43,8 @@ def newPage():
 def layoutRect(bbox, page, bordersize=5, colorize=True, sketchOnly=False):
     width=bbox[2]-bbox[0]
     height=bbox[3]-bbox[1]
+    if(width<=bordersize*2 or height<=bordersize*2):
+        return []
     ok=False
     while not ok:
         try:
@@ -66,6 +68,10 @@ def layoutRect(bbox, page, bordersize=5, colorize=True, sketchOnly=False):
     if(abs(height-(1.0*img.size[1]))/height>0.2):
         if abs(height-img.size[1])>bordersize*2:
             targetHeight=img.size[1]
+    if(targetWidth<=bordersize*2):
+        targetWidth=width
+    if(targetHeight<=bordersize*2):
+        targetHeight=height
     panel=panelify(img, (targetWidth, targetHeight), bordersize, colorize, sketchOnly)
     page.paste(panel, (bbox[0], bbox[1]))
     leftovers=[]
@@ -85,15 +91,54 @@ def layoutRect(bbox, page, bordersize=5, colorize=True, sketchOnly=False):
 
 def layoutPage(bordersize=5, colorize=True, sketchOnly=False):
     page=newPage()
+    topBoundaries=[]
+    bottomBoundaries=[]
     leftovers=[(0, 0, page.size[0], page.size[1])]
     while(len(leftovers)>0):
         chunk=leftovers.pop()
+        topBoundaries.append((chunk[0], chunk[1]))
+        bottomBoundaries.append((chunk[0], chunk[3]))
         leftovers.extend(layoutRect(chunk, page, bordersize, colorize, sketchOnly))
+    return (page, topBoundaries, bottomBoundaries)
+
+def generateBox(line,colorize=True,  maxwidth=720):
+    size=font.getsize(line)
+    if(colorize):
+        color="#ffffcc"
+    else:
+        color="#ffffff"
+    box=Image.new("RGB", (size[0]+10, size[1]+10), color=color)
+    ImageDraw.Draw(box).text((5, 5), line, font=font, fill="#000000")
+    return box.convert("RGBA")
+
+def genPage(lines, bordersize=5, colorize=True, sketchOnly=False):
+    (page, topBoundaries, bottomBoundaries)=layoutPage(bordersize, colorize, sketchOnly)
+    i=0
+    for line in lines:
+        if(random.choice([True, False])):
+            # Align to the top of the frame
+            position=random.choice(topBoundaries)
+            topBoundaries.remove(position)
+            page.paste(generateBox(line, colorize), (position[0]+2*bordersize, position[1]+2*bordersize))
+        else:
+            # Align to the bottom of the frame
+            position=random.choice(topBoundaries)
+            topBoundaries.remove(position)
+            box=generateBox(line, colorize)
+            page.paste(box, (position[0]+2*bordersize, position[1]-(2*bordersize+box.size[1])))
+        if(len(topBoundaries)==0 or len(bottomBoundaries)==0):
+            return page
     return page
 
 
-pages=[]
+def genPages(lines, pfx, bordersize=5, colorize=True, sketchOnly=False):
+    pages=[]
+    try:
+        while True:
+            pages.append(genPage(lines, bordersize, colorize, sketchOnly))
+    except StopIteration:
+        for i in range(0, len(pages)):
+            pages[i].save(pfx+"-"+str(i)+".png")
 
-page=layoutPage()
-page.save("page.png")
+genPages(sys.stdin.readlines(), "comic")
 
