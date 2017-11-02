@@ -111,7 +111,7 @@ def generateBox(line,colorize=True,  maxwidth=720):
             i+=1
         boxes.append(generateBox(" ".join(words[:-i]), colorize, maxwidth))
         boxes.append(generateBox(" ".join(words[-i:]), colorize, maxwidth))
-        scratch=Image.new("RGBA", (max(boxes[0].size[0], boxes[1].size[0]), boxes[0].size[1]+boxes[1].size[1]))
+        scratch=Image.new("RGBA", (max(boxes[0].size[0], boxes[1].size[0]), boxes[0].size[1]+boxes[1].size[1]), "#ffffcc")
         scratch.paste(boxes[0], (0, 0))
         scratch.paste(boxes[1], (0, boxes[0].size[1]))
         return scratch
@@ -148,14 +148,21 @@ def genPage(lines, bordersize=5, colorize=True, sketchOnly=False):
 
 def genPages(lines, pfx, bordersize=5, colorize=True, sketchOnly=False):
     pages=[]
-    try:
-        while len(lines)>0:
+    while len(lines)>0:
+        try:
+            if(len(pages)==24):
+                colorize=False
+            if(len(pages)==94):
+                sketchOnly=True
+            if(len(pages)==101):
+                return
             (page, lines2)=genPage(lines, bordersize, colorize, sketchOnly)
             pages.append(page)
             pages[-1].save(pfx+"-"+str(len(pages))+".png")
             print("Page successful")
             lines=lines2
-    except:
-        return
-genPages(list(sys.stdin.readlines()), "comic")
+        except Exception as e:
+            print(e)
+lines=list(sys.stdin.readlines())
+genPages(lines, "comic")
 
