@@ -136,9 +136,9 @@ def genPages(lines, pfx, bordersize=5, colorize=True, sketchOnly=False):
     try:
         while True:
             pages.append(genPage(lines, bordersize, colorize, sketchOnly))
+            pages[-1].save(pfx+"-"+str(len(pages))+".png")
+            print("Page successful")
     except StopIteration:
-        for i in range(0, len(pages)):
-            pages[i].save(pfx+"-"+str(i)+".png")
-
+        return
 genPages(sys.stdin.readlines(), "comic")
 
