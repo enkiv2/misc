@@ -103,6 +103,18 @@ def layoutPage(bordersize=5, colorize=True, sketchOnly=False):
 
 def generateBox(line,colorize=True,  maxwidth=720):
     size=font.getsize(line)
+    if(size[0]>maxwidth):
+        boxes=[]
+        words=line.split()
+        i=1
+        while font.getsize(" ".join(words[:-i]))[0]>maxwidth and i<len(words):
+            i+=1
+        boxes.append(generateBox(" ".join(words[:-i]), colorize, maxwidth))
+        boxes.append(generateBox(" ".join(words[-i:]), colorize, maxwidth))
+        scratch=Image.new("RGBA", (max(boxes[0].size[0], boxes[1].size[0]), boxes[0].size[1]+boxes[1].size[1]))
+        scratch.paste(boxes[0], (0, 0))
+        scratch.paste(boxes[1], (0, boxes[0].size[1]))
+        return scratch
     if(colorize):
         color="#ffffcc"
     else:
@@ -115,30 +127,35 @@ def genPage(lines, bordersize=5, colorize=True, sketchOnly=False):
     (page, topBoundaries, bottomBoundaries)=layoutPage(bordersize, colorize, sketchOnly)
     i=0
     for line in lines:
+        i+=1
         if(random.choice([True, False])):
             # Align to the top of the frame
             position=random.choice(topBoundaries)
             topBoundaries.remove(position)
-            page.paste(generateBox(line, colorize), (position[0]+2*bordersize, position[1]+2*bordersize))
+            page.paste(generateBox(line, colorize, maxwidth=720-position[0]), (position[0]+2*bordersize, position[1]+2*bordersize))
         else:
             # Align to the bottom of the frame
             position=random.choice(topBoundaries)
             topBoundaries.remove(position)
-            box=generateBox(line, colorize)
+            box=generateBox(line, colorize, maxwidth=720-position[0])
             page.paste(box, (position[0]+2*bordersize, position[1]-(2*bordersize+box.size[1])))
         if(len(topBoundaries)==0 or len(bottomBoundaries)==0):
-            return page
-    return page
+            return (page, lines[i:])
+        if(i>5):
+            return (page, lines[i:])
+    return (page, [])
 
 
 def genPages(lines, pfx, bordersize=5, colorize=True, sketchOnly=False):
     pages=[]
     try:
-        while True:
-            pages.append(genPage(lines, bordersize, colorize, sketchOnly))
+        while len(lines)>0:
+            (page, lines2)=genPage(lines, bordersize, colorize, sketchOnly)
+            pages.append(page)
             pages[-1].save(pfx+"-"+str(len(pages))+".png")
             print("Page successful")
-    except StopIteration:
+            lines=lines2
+    except:
         return
-genPages(sys.stdin.readlines(), "comic")
+genPages(list(sys.stdin.readlines()), "comic")
 
