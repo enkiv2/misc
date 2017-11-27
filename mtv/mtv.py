@@ -84,10 +84,12 @@ class TranslitEditor(Tkinter.Text):
         Tkinter.Text(self, *args, **kw_args)
         self.edl=[]
         self.currentEDLHash=None
+        self.clipPaths=[]
         self.clipLookup=[]
+        self.linkLookup=[]
         self.concatext=[]
         self.odl=[]
-        self.path=""
+        self.path=None
         self.orphanFile=tempfile.NamedTemporaryFile(delete=False)
         self.orphan=[]
         self.showTransclusionColors=True
@@ -107,15 +109,43 @@ class TranslitEditor(Tkinter.Text):
     def renderTransclusionColors(self):
         for i in range(0, len(self.clipLookup)):
             renderTransclusionColor(i)
+    def renderLink(self, link):
+        found=False
+        tags=[]
+        endpoints=[]
+        for endpoint in link:
+            endpoints.append(endpoint.path)
+            if endpoint.path in [self.path, self.currentEDLHash]:
+                tagname="LINK"+str(len(linkLookup))
+                linkLookup.append((endpoint, link))
+                found=True
+                tags.append(tagname)
+            elif endpoint.path in self.clipPaths:
+                for i in range(0, len(self.clipLookup)):
+                    clip=self.clipLookup[i]
+                    if(clip.path==endpoint.path):
+                        if(endpoint.row>=clip.row and endpoint.row<=clip.row+clip.dRows):
+                            startRow=endpoint.row
+                        # XXX finish calculating overlap
+        if(found):
+            color=genHLColor(" ".join(endpoints))
+            for item in tags:
+                self.tag_config(tagname, background=color)
+            self.odl.append(link)
+
     def insertEDL(self, path):
         edl=json.load(get(path))
         concatext=edl2concatext(edl)
         for i in range(0, len(edl)):
+            self.clipPaths.append(edl[i].path)
+            if(edl[i].path in url2hash):
+                self.clipPaths.append(url2hash[edl[i].path])
             tagname="CLIP"+str(len(self.clipLookup))
             self.clipLookup.append(edl[i])
             self.insert("insert", concatext[i], [tagname])
         if(self.showTransclusionColors):
             self.renderTransclusionColors()
+        self.clipPaths=list(set(self.clipPaths))
         return (edl, concatext)
     def openEDL(self, path):
         self.path=path
@@ -201,6 +231,7 @@ class TranslitEditor(Tkinter.Text):
         self.calculateEDL()
         self.currentEDLHash=ipfsPutStr(json.dumps(self.edl))
         if(path):
+            self.path=path
             f=open(path, "w")
             f.write(ipfsGet(self.currentEDLHash).read())
             f.flush()
