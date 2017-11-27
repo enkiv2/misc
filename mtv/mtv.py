@@ -14,11 +14,13 @@ except:
     import tkinter as Tkinter
     from tkinter import *
 
-import os, sys
+import os, sys, subprocess
 import json
 import urllib, urllib2
 import tempfile
 from random import Random
+
+import cStringIO
 
 url2hash={}
 
@@ -30,7 +32,8 @@ def genHLColor(obj):
     return "#%02x%02x%02x" % (red, green, blue)
 
 def ipfsPutFile(path):
-    return os.popen("ipfs add -q --pin "+ path).read()
+    #return os.popen("ipfs add -q --pin "+ path).read()
+     return subprocess.check_output(["ipfs", "add", "-q", "--pin", path]).strip()
 def ipfsPutStr(content):
     temp=tempfile.NamedTemporaryFile(delete=False)
     temp.write(content)
@@ -47,10 +50,9 @@ def urlGet(url):
         url2hash[url]=h
     return ipfsGet(h)
 def ipfsGet(h):
+    h=h.strip()
     print "ipfs cat "+h
-    (stdin, stdout) = os.popen2(["ipfs", "cat", h])
-    stdin.close()
-    return stdout
+    return cStringIO.StringIO(subprocess.check_output(["ipfs", "cat", h]))
 def get(path):
     if path[0]=="/":
         path="file://"+path
