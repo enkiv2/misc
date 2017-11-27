@@ -24,6 +24,7 @@ import cStringIO
 
 url2hash={}
 clipboard=None
+global clipboard
 
 def genHLColor(obj):
     gen=Random(obj)
@@ -166,10 +167,12 @@ class TranslitEditor(Text):
                 self.clipPaths.append(url2hash[edl[i]["path"]])
             tagname="CLIP"+str(len(self.clipLookup))
             self.clipLookup.append(edl[i])
-            self.insert("insert", concatext[i], [tagname])
+            self.insert("insert", concatext[i], tagname)
         if(self.showTransclusionColors):
             self.renderTransclusionColors()
         self.clipPaths=list(set(self.clipPaths))
+        self.recalculateClips()
+        self.renderTransclusionColors()
         return (edl, concatext)
     def openTextAsEDL(self, path):
         self.path=path
@@ -198,18 +201,21 @@ class TranslitEditor(Text):
         clipsToRemove=[]
         lastTag="0.0"
         for item in self.dump("0.0", "end", tag=True):
+            print("iter")
             (key, value, index)=item
+            print(item)
             if(key=="tagon" and value.find("CLIP")==0):
+                print("Tag on: "+value)
                 if(len(currTags)==0):
                     chunk=self.get(lastTag, index)
                     if(len(chunk)>0):
                         chunkLines=chunk.split("\n")
                         clipsToAdd.append((("orphan", (len(self.orphan), 0), (len(chunkLines), 0)), (lastTag, index)))
                         self.orphan.extend(chunkLines)
-                currtags.append(value)
+                currTags.append(value)
                 lastTag=index
             elif(key=="tagoff" and value.find("CLIP")==0):
-                d=idxDelta(lastTag, index)
+                d=self.idxDelta(lastTag, index)
                 clipNum=int(value[4:])
                 dRows=self.clipLookup[clipNum]["dRows"]
                 dCols=self.clipLookup[clipNum]["dCols"]
@@ -218,24 +224,26 @@ class TranslitEditor(Text):
                     col=self.clipLookup[clipNum]["col"]
                     path=self.clipLookup[clipNum]["path"]
                     clipsToRemove.append((value, lastTag, index))
-                    clipsToAdd((path, (row, col), (d[0], d[1])), (lastTag, index))
+                    clipsToAdd.append( ( (path, (row, col), (d[0], d[1])),          (lastTag, index) ) )
                     if(d[0]!=dRows):
-                        clipLookup[clipNum]["dRows"]-=d[0]
-                        clipLookup[clipNum]["rows"]+=d[0]
-                        clipLookup[clipNum]["cols"]=d[1]
+                        self.clipLookup[clipNum]["dRows"] -= d[0]
+                        self.clipLookup[clipNum]["row"] += d[0]
+                        self.clipLookup[clipNum]["col"] = d[1]
                     else:
-                        clipLookup[clipNum]["dCols"]-=d[1]
-                        clipLookup[clipNum]["cols"]+=d[1]
-                currtags.remove(value)
+                        self.clipLookup[clipNum]["dCols"]-=d[1]
+                        self.clipLookup[clipNum]["cols"]+=d[1]
+                currTags.remove(value)
                 lastTag=index
         self.flushOrphan()
         for item in clipsToRemove:
             self.tag_remove(item[0], item[1], item[2])
         for item in clipsToAdd:
+            print(item)
             tagname="CLIP"+str(len(self.clipLookup))
             clipInfo=item[0]
-            self.clipLookup.append({"path":clipInfo[1], "row":clipInfo[1][0], "col":clipInfo[1][1], "dRows":clipInfo[2][0], "dCols":clipInfo[2][1]})
-            self.tag_add(tagname, item[1], item[2])
+            self.clipLookup.append({"path":clipInfo[0], "row":clipInfo[1][0], "col":clipInfo[1][1], "dRows":clipInfo[2][0], "dCols":clipInfo[2][1]})
+            self.tag_add(tagname, item[1][0], item[1][1])
+        print(self.tag_names())
     def publishOrphan(self):
         self.orphanFile.close()
         h=ipfsPutFile(self.orphanFile.name)
@@ -247,16 +255,41 @@ class TranslitEditor(Text):
                 self.clipLookup[i]["path"]=h
     def calculateEDLClip(self, start, end):
         edl=[]
-        for item in self.dump(start, end, tag=True):
+        print("EDL clip")
+        last=[]
+        for item in self.dump(start, end, all=True):
             (key, value, index)=item
+            print(item)
             if(key=="tagon" and value.find("CLIP")==0):
                 clipNum=int(value[4:])
                 edl.append(self.clipLookup[clipNum])
+            elif(key=="text"):
+                last.append(index)
+        if(len(edl)==0):
+            print(last)
+            tags=self.tag_names(last[0])
+            print(tags)
+            clip=None
+            for item in tags:
+                if(item.find("CLIP")==0):
+                        clip=item
+                        continue
+            print(clip)
+            try:
+                clipObj=self.clipLookup[int(clip[4:])]
+                start_idx=self.index(clip+".first")
+                offsetRow=int(start_idx.split(".")[0])-int(last[0].split(".")[0])
+                dRow=int(last[-1].split(".")[0])-int(last[0].split(".")[0])
+                dCol=int(last[-1].split(".")[1])
+                edl.append({"path":clipObj["path"], "row":clipObj["row"]+offsetRow, "col":int(start_idx.split(".")[1]), "dRows":dRow, "dCols":dCol})
+            except Exception as e:
+                print e
+        print(edl)
         return edl
     def calculateEDL(self):
-        self.edl=calculateEDLClip("0.0", "end")
+        self.edl=self.calculateEDLClip("0.0", "end")
     def selectionAsClip(self):
-        return calculateEDLClip(self, "SEL.first", "SEL.last")
+        return self.calculateEDLClip("sel.first", "sel.last")
     def saveEDL(self, path=None):
         self.recalculateClips()
         self.publishOrphan()
@@ -277,8 +310,25 @@ class TranslitEditorFrame(Frame):
         self.cmdpanel=Frame(self.fr)
         self.ed=TranslitEditor(self.fr)
         self.clippanel=Frame(self.cmdpanel)
-        self.copybtn=Button(self.clippanel, text="Copy clip")
-        self.pastebtn=Button(self.clippanel, text="Paste clip")
+        def copyHelper(*args):
+            global clipboard
+            self.ed.recalculateClips()
+            try:
+                clipboard=self.ed.selectionAsClip()
+                print("Copied: ")
+                print(clipboard)
+            except Exception as e:
+                print("Tried to copy but no selection!")
+                print(e)
+        def pasteHelper(*args):
+            self.ed.recalculateClips()
+            print("Pasting: ")
+            print(clipboard)
+            if(clipboard):
+                self.ed.insertEDL(ipfsPutStr(json.dumps(clipboard)))
+                self.ed.recalculateClips()
+        self.copybtn=Button(self.clippanel, text="Copy clip", command=copyHelper)
+        self.pastebtn=Button(self.clippanel, text="Paste clip", command=pasteHelper)
         self.copybtn.pack(side="left")
         self.pastebtn.pack()
         self.linkpanel=Frame(self.cmdpanel)
