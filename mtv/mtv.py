@@ -9,8 +9,10 @@
 
 try:
     import Tkinter
+    from Tkinter import *
 except:
     import tkinter as Tkinter
+    from tkinter import *
 
 import os, sys
 import json
@@ -79,9 +81,9 @@ def edl2concatext(edl):
 def concatext2str(concatext):
     return "".join(concatext)
 
-class TranslitEditor(Tkinter.Text):
+class TranslitEditor(Text):
     def __init__(self, *args, **kw_args):
-        Tkinter.Text(self, *args, **kw_args)
+        Text.__init__(self, *args, **kw_args)
         self.edl=[]
         self.currentEDLHash=None
         self.clipPaths=[]
@@ -224,7 +226,7 @@ class TranslitEditor(Tkinter.Text):
         for item in clipsToAdd:
             tagname="CLIP"+str(len(self.clipLookup))
             clipInfo=item[0]
-            self.clipLookup.append({path=clipInfo[1], row=clipInfo[1][0], col=clipInfo[1][1], dRows=clipInfo[2][0], dCols=clipInfo[2][1]})
+            self.clipLookup.append({path:clipInfo[1], row:clipInfo[1][0], col:clipInfo[1][1], dRows:clipInfo[2][0], dCols:clipInfo[2][1]})
             self.tag_add(tagname, item[1], item[2])
     def publishOrphan(self):
         self.orphanFile.close()
