@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env python
 
 """ mtv - minimal transliterature viewer
     (c) 2017 John Ohno
@@ -259,3 +259,12 @@ class TranslitEditor(Tkinter.Text):
             f.write(ipfsGet(self.currentEDLHash).read())
             f.flush()
             f.close()
+
+def main():
+    top=Tkinter.Tk()
+    ed=TranslitEditor(top)
+    ed.pack()
+    top.mainloop()
+
+if __name__=="__main__":
+    main()
