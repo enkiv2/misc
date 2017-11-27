@@ -93,6 +93,7 @@ class TranslitEditor(Tkinter.Text):
         self.orphanFile=tempfile.NamedTemporaryFile(delete=False)
         self.orphan=[]
         self.showTransclusionColors=True
+        self.showLinkColors=True
     def idxDelta(self, idx, idx2):
         idx=idx.split(".")
         idx2=idx2.split(".")
@@ -109,7 +110,17 @@ class TranslitEditor(Tkinter.Text):
     def renderTransclusionColors(self):
         for i in range(0, len(self.clipLookup)):
             renderTransclusionColor(i)
-    def renderLink(self, link):
+    def renderLink(self, linkNum):
+        if(self.showLinkColors):
+            endpoints=[]
+            for item in self.linkLookup[linkNum][1].endpoints:
+                endpoints.append(item.path)
+            color=genHLColor(" ".join(lendpoints))
+            self.tag_config("LINK"+str(linkNum), color)
+    def renderLinks(self):
+        for i in range(0, len(self.linkLookup)):
+            self.renderLink(i)
+    def addLink(self, link):
         found=False
         tags=[]
         endpoints=[]
@@ -128,9 +139,6 @@ class TranslitEditor(Tkinter.Text):
                             startRow=endpoint.row
                         # XXX finish calculating overlap
         if(found):
-            color=genHLColor(" ".join(endpoints))
-            for item in tags:
-                self.tag_config(tagname, background=color)
             self.odl.append(link)
 
     def insertEDL(self, path):
