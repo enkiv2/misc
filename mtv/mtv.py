@@ -273,7 +273,15 @@ def main():
     top=Tkinter.Tk()
     ed=TranslitEditor(top)
     ed.pack()
-    ed.insertEDL(sys.argv[1])
+    cmdtype=sys.argv[1]
+    target=sys.argv[2]
+    if(cmdtype=="text"):
+        ed.openTextAsEDL(target)
+    else:
+        try:
+            ed.openEDL(target)
+        except:
+            ed.openTextAsEDL(target)
     top.mainloop()
 
 if __name__=="__main__":
