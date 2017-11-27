@@ -30,22 +30,24 @@ def genHLColor(obj):
     return "#%02x%02x%02x" % (red, green, blue)
 
 def ipfsPutFile(path):
-    return os.popen(["ipfs", "put", "-Q", "--pin", path]).read()
+    return os.popen("ipfs add -q --pin "+ path).read()
 def ipfsPutStr(content):
     temp=tempfile.NamedTemporaryFile(delete=False)
     temp.write(content)
+    temp.flush()
     temp.close()
-    h=ipfsPutFile(f.name)
-    os.unlink(f.name)
+    h=ipfsPutFile(temp.name)
+    os.unlink(temp.name)
     return h
 def urlGet(url):
-    if url in urlhash:
-        h=urlhash[url]
+    if url in url2hash:
+        h=url2hash[url]
     else:
         h=ipfsPutStr(urllib2.urlopen(url).read())
-        urlhash[url]=h
+        url2hash[url]=h
     return ipfsGet(h)
 def ipfsGet(h):
+    print "ipfs cat "+h
     (stdin, stdout) = os.popen2(["ipfs", "cat", h])
     stdin.close()
     return stdout
@@ -63,6 +65,7 @@ def get(path):
 
 def rcSpan2str(row, col, dRows, dCols, contentStream):
     ret=[]
+    line=""
     for i in range(0, row):
         line=contentStream.readline()
     ret.append(line[col:])
@@ -75,7 +78,7 @@ def rcSpan2str(row, col, dRows, dCols, contentStream):
 def edl2concatext(edl):
     concatext=[]
     for clip in edl:
-        concatext.append(rcSpan2str(clip.row, clip.col, clip.dRows, clip.dCols, get(clip.path)))
+        concatext.append(rcSpan2str(clip["row"], clip["col"], clip["dRows"], clip["dCols"], get(clip["path"])))
     return concatext
 
 def concatext2str(concatext):
@@ -102,7 +105,7 @@ class TranslitEditor(Text):
         return (int(idx2[0])-int(idx[0]), int(idx2[1])-int(idx[1]))
     def renderTransclusionColor(self, clipNum):
         tagname="CLIP"+str(clipNum)
-        h=clipLookup[clipNum].path
+        h=self.clipLookup[clipNum]["path"]
         if(h=="orphan"):
             self.tag_config(tagname, background="#ffffff")
             return
@@ -111,7 +114,7 @@ class TranslitEditor(Text):
         self.tag_config(tagname, background=genHLColor(h))
     def renderTransclusionColors(self):
         for i in range(0, len(self.clipLookup)):
-            renderTransclusionColor(i)
+            self.renderTransclusionColor(i)
     def renderLink(self, linkNum):
         if(self.linkLookup[i].type=="format"):
             self.tag_config("LINK"+str(linkNum), **self.linkLookup[i].attributes)
@@ -119,7 +122,7 @@ class TranslitEditor(Text):
         if(self.showLinkColors):
             endpoints=[]
             for item in self.linkLookup[linkNum][1].endpoints:
-                endpoints.append(item.path)
+                endpoints.append(item["path"])
             color=genHLColor(" ".join(lendpoints))
             self.tag_config("LINK"+str(linkNum), background=color)
     def renderLinks(self):
@@ -130,32 +133,34 @@ class TranslitEditor(Text):
         tags=[]
         endpoints=[]
         for endpoint in link:
-            endpoints.append(endpoint.path)
-            if endpoint.path in [self.path, self.currentEDLHash]:
+            endpoints.append(endpoint["path"])
+            if endpoint["path"] in [self.path, self.currentEDLHash]:
                 tagname="LINK"+str(len(linkLookup))
                 linkLookup.append((endpoint, link))
                 found=True
                 tags.append(tagname)
-            elif endpoint.path in self.clipPaths:
+            elif endpoint["path"] in self.clipPaths:
                 for i in range(0, len(self.clipLookup)):
                     clip=self.clipLookup[i]
-                    if(clip.path==endpoint.path):
-                        if(endpoint.row>=clip.row and endpoint.row<=clip.row+clip.dRows):
-                            startRow=endpoint.row
+                    if(clip["path"]==endpoint["path"]):
+                        if(endpoint["row"]>=clip["row"] and endpoint["row"]<=clip["row"]+clip["dRows"]):
+                            startRow=endpoint["row"]
                         # XXX finish calculating overlap
         if(found):
             self.odl.append(link)
     def insertTextAsEDL(self, path):
         text=get(path).read()
         lines=text.split("\n")
-        return self.insertEDL(ipfsPutStr(json.dumps({path:path, row:0, col:0, dRows:len(ines), dCols:0})))
+        if path in url2hash:
+            path=url2hash[path]
+        return self.insertEDL(ipfsPutStr(json.dumps([{"path":path, "row":0, "col":0, "dRows":len(lines), "dCols":0}])))
     def insertEDL(self, path):
         edl=json.load(get(path))
         concatext=edl2concatext(edl)
         for i in range(0, len(edl)):
-            self.clipPaths.append(edl[i].path)
-            if(edl[i].path in url2hash):
-                self.clipPaths.append(url2hash[edl[i].path])
+            self.clipPaths.append(edl[i]["path"])
+            if(edl[i]["path"] in url2hash):
+                self.clipPaths.append(url2hash[edl[i]["path"]])
             tagname="CLIP"+str(len(self.clipLookup))
             self.clipLookup.append(edl[i])
             self.insert("insert", concatext[i], [tagname])
@@ -203,21 +208,21 @@ class TranslitEditor(Text):
             elif(key=="tagoff" and value.find("CLIP")==0):
                 d=idxDelta(lastTag, index)
                 clipNum=int(value[4:])
-                dRows=self.clipLookup[clipNum].dRows
-                dCols=self.clipLookup[clipNum].dCols
+                dRows=self.clipLookup[clipNum]["dRows"]
+                dCols=self.clipLookup[clipNum]["dCols"]
                 if(d[0]!=dRows or d[1]!=dCols):
-                    row=self.clipLookup[clipNum].row
-                    col=self.clipLookup[clipNum].col
-                    path=self.clipLookup[clipNum].path
+                    row=self.clipLookup[clipNum]["row"]
+                    col=self.clipLookup[clipNum]["col"]
+                    path=self.clipLookup[clipNum]["path"]
                     clipsToRemove.append((value, lastTag, index))
                     clipsToAdd((path, (row, col), (d[0], d[1])), (lastTag, index))
                     if(d[0]!=dRows):
-                        clipLookup[clipNum].dRows-=d[0]
-                        clipLookup[clipNum].rows+=d[0]
-                        clipLookup[clipNum].cols=d[1]
+                        clipLookup[clipNum]["dRows"]-=d[0]
+                        clipLookup[clipNum]["rows"]+=d[0]
+                        clipLookup[clipNum]["cols"]=d[1]
                     else:
-                        clipLookup[clipNum].dCols-=d[1]
-                        clipLookup[clipNum].cols+=d[1]
+                        clipLookup[clipNum]["dCols"]-=d[1]
+                        clipLookup[clipNum]["cols"]+=d[1]
                 currtags.remove(value)
                 lastTag=index
         self.flushOrphan()
@@ -226,7 +231,7 @@ class TranslitEditor(Text):
         for item in clipsToAdd:
             tagname="CLIP"+str(len(self.clipLookup))
             clipInfo=item[0]
-            self.clipLookup.append({path:clipInfo[1], row:clipInfo[1][0], col:clipInfo[1][1], dRows:clipInfo[2][0], dCols:clipInfo[2][1]})
+            self.clipLookup.append({"path":clipInfo[1], "row":clipInfo[1][0], "col":clipInfo[1][1], "dRows":clipInfo[2][0], "dCols":clipInfo[2][1]})
             self.tag_add(tagname, item[1], item[2])
     def publishOrphan(self):
         self.orphanFile.close()
@@ -235,8 +240,8 @@ class TranslitEditor(Text):
         self.orphan=[]
         self.orphanFile=tempfile.NamedTemporaryFile(delete=False)
         for i in range(0, len(self.clipLookup)):
-            if self.clipLookup[i].path=="orphan":
-                self.clipLookup[i].path=h
+            if self.clipLookup[i]["path"]=="orphan":
+                self.clipLookup[i]["path"]=h
     def calculateEDLClip(self, start, end):
         edl=[]
         for item in self.dump(start, end, tag=True):
@@ -266,6 +271,7 @@ def main():
     top=Tkinter.Tk()
     ed=TranslitEditor(top)
     ed.pack()
+    ed.insertEDL(sys.argv[1])
     top.mainloop()
 
 if __name__=="__main__":
