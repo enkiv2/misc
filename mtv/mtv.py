@@ -23,6 +23,7 @@ from random import Random
 import cStringIO
 
 url2hash={}
+clipboard=None
 
 def genHLColor(obj):
     gen=Random(obj)
@@ -269,10 +270,36 @@ class TranslitEditor(Text):
             f.flush()
             f.close()
 
+class TranslitEditorFrame(Frame):
+    def __init__(self, *args, **kw_args):
+        Frame.__init__(self, *args, **kw_args)
+        self.fr=Frame(self)
+        self.cmdpanel=Frame(self.fr)
+        self.ed=TranslitEditor(self.fr)
+        self.clippanel=Frame(self.cmdpanel)
+        self.copybtn=Button(self.clippanel, text="Copy clip")
+        self.pastebtn=Button(self.clippanel, text="Paste clip")
+        self.copybtn.pack(side="left")
+        self.pastebtn.pack()
+        self.linkpanel=Frame(self.cmdpanel)
+        self.linkbtn=Button(self.linkpanel, text="Link")
+        self.fmtbtn=Button(self.linkpanel, text="Format")
+        self.linkbtn.pack(side="left")
+        self.fmtbtn.pack()
+        self.clippanel.pack()
+        self.linkpanel.pack()
+        self.cmdpanel.pack()
+        self.ed.pack()
+        self.fr.pack()
+        self.title()
+        self.bind("<Enter>", self.title)
+    def title(self, *args):
+        self.master.wm_title(str(self.ed.path)+" ("+str(self.ed.currentEDLHash)+") - mtv")
+
 def main():
-    top=Tkinter.Tk()
-    ed=TranslitEditor(top)
-    ed.pack()
+    top=TranslitEditorFrame(Tk())
+    top.pack()
+    ed=top.ed
     cmdtype=sys.argv[1]
     target=sys.argv[2]
     if(cmdtype=="text"):
