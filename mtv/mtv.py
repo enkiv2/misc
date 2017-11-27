@@ -146,7 +146,7 @@ class TranslitEditor(Tkinter.Text):
     def insertTextAsEDL(self, path):
         text=get(path).read()
         lines=text.split("\n")
-        return self.insertEDL(ipfsPutStr(json.dumps({path=path, row=0, col=0, dRows=len(ines), dCols=0})))
+        return self.insertEDL(ipfsPutStr(json.dumps({path:path, row:0, col:0, dRows:len(ines), dCols:0})))
     def insertEDL(self, path):
         edl=json.load(get(path))
         concatext=edl2concatext(edl)
