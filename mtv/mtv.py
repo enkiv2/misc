@@ -242,6 +242,8 @@ class TranslitEditor(Tkinter.Text):
         return edl
     def calculateEDL(self):
         self.edl=calculateEDLClip("0.0", "end")
+    def selectionAsClip(self):
+        return calculateEDLClip(self, "SEL.first", "SEL.last")
     def saveEDL(self, path=None):
         self.recalculateClips()
         self.publishOrphan()
