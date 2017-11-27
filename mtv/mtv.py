@@ -1,4 +1,12 @@
 #!/usr/bin/env zsh
+
+""" mtv - minimal transliterature viewer
+    (c) 2017 John Ohno
+    This software is not associated with Project Xanadu (tm)!
+
+    Requirements: python, tkinter, ipfs command line tools
+"""
+
 try:
     import Tkinter
 except:
