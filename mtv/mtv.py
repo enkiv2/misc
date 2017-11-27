@@ -140,7 +140,10 @@ class TranslitEditor(Tkinter.Text):
                         # XXX finish calculating overlap
         if(found):
             self.odl.append(link)
-
+    def insertTextAsEDL(self, path):
+        text=get(path).read()
+        lines=text.split("\n")
+        return self.insertEDL(ipfsPutStr(json.dumps({path=path, row=0, col=0, dRows=len(ines), dCols=0})))
     def insertEDL(self, path):
         edl=json.load(get(path))
         concatext=edl2concatext(edl)
@@ -155,10 +158,17 @@ class TranslitEditor(Tkinter.Text):
             self.renderTransclusionColors()
         self.clipPaths=list(set(self.clipPaths))
         return (edl, concatext)
+    def openTextAsEDL(self, path):
+        self.path=path
+        self.delete("0.0", "end")
+        (self.edl, self.concatext) = self.insertTextAsEDL(path)
+        if path in url2hash:
+            path=url2hash[path]
+        self.currentEDLHash=path
     def openEDL(self, path):
         self.path=path
         self.delete("0.0", "end")
-        (self.edl, self.concatext) = insertEDL(path)
+        (self.edl, self.concatext) = self.insertEDL(path)
         if path in url2hash:
             path=url2hash[path]
         self.currentEDLHash=path
