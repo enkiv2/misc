@@ -176,13 +176,16 @@ class TranslitEditor(Tkinter.Text):
         for i in range(0, len(self.clipLookup)):
             if self.clipLookup[i].path=="orphan":
                 self.clipLookup[i].path=h
-    def calculateEDL(self):
-        self.edl=[]
-        for item in self.dump("0.0", "end", tag=True):
+    def calculateEDLClip(self, start, end):
+        edl=[]
+        for item in self.dump(start, end, tag=True):
             (key, value, index)=item
             if(key=="tagon" and value.find("CLIP")==0):
                 clipNum=int(value[4:])
-                self.edl.append(self.clipLookup[clipNum])
+                edl.append(self.clipLookup[clipNum])
+        return edl
+    def calculateEDL(self):
+        self.edl=calculateEDLClip("0.0", "end")
     def saveEDL(self, path=None):
         self.recalculateClips()
         self.publishOrphan()
