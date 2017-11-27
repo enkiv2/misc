@@ -111,12 +111,15 @@ class TranslitEditor(Tkinter.Text):
         for i in range(0, len(self.clipLookup)):
             renderTransclusionColor(i)
     def renderLink(self, linkNum):
+        if(self.linkLookup[i].type=="format"):
+            self.tag_config("LINK"+str(linkNum), **self.linkLookup[i].attributes)
+            return
         if(self.showLinkColors):
             endpoints=[]
             for item in self.linkLookup[linkNum][1].endpoints:
                 endpoints.append(item.path)
             color=genHLColor(" ".join(lendpoints))
-            self.tag_config("LINK"+str(linkNum), color)
+            self.tag_config("LINK"+str(linkNum), background=color)
     def renderLinks(self):
         for i in range(0, len(self.linkLookup)):
             self.renderLink(i)
