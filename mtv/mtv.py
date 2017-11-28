@@ -124,6 +124,12 @@ class TranslitEditor(Text):
         self.orphan=[]
         self.showTransclusionColors=True
         self.showLinkColors=True
+        self.lastInsertionCursorPosition="0.0"
+        def _on_change(self, event):
+            if(self.index("insert")!=self.lastInsertionCursorPosition):
+                self.lastInsertionCursorPosition=self.index("insert")
+                self.showLinkTarget()
+        self.bind("<<Change>>", _on_change)
     def idxDelta(self, idx, idx2):
         idx=idx.split(".")
         idx2=idx2.split(".")
