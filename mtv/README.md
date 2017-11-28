@@ -1,3 +1,11 @@
+    mtv - minimal transliterature viewer
+    (c) 2017 John Ohno
+    This software is not associated with Project Xanadu (tm)!
+
+    Requirements: python, tkinter, ipfs command line tools
+
+
+
 EDL format:
 
 An EDL is an array of clips. Each clip is a json object containing the following attributes:
