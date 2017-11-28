@@ -84,7 +84,7 @@ def rcSpan2str(row, col, dRows, dCols, contentStream):
         ret.append(line[col+1:dCols])
     else:
         ret.append(line[col+1:])
-        for i in range(1, dRows):
+        for i in range(0, dRows):
             ret.append(contentStream.readline())
         ret.append(contentStream.readline()[:dCols])
     contentStream.close()
@@ -311,7 +311,7 @@ class TranslitEditor(Text):
                         self.clipLookup[clipNum]["col"] = d[1]
                     else:
                         self.clipLookup[clipNum]["dCols"]-=d[1]
-                        self.clipLookup[clipNum]["cols"]+=d[1]
+                        self.clipLookup[clipNum]["col"]+=d[1]
                 currTags.remove(value)
                 lastTag=index
         self.flushOrphan()
