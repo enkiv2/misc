@@ -411,6 +411,7 @@ class TranslitEditorFrame(Frame):
         self.bind("<Enter>", self.title)
         def handleAutoSave(*args):
             self.ed.saveEDL()
+            self.master.destroy()
         self.master.protocol("WM_DELETE_WINDOW", handleAutoSave)
     def title(self, *args):
         self.master.wm_title(str(self.ed.path)+" ("+str(self.ed.currentEDLHash)+") - mtv")
