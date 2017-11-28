@@ -332,7 +332,7 @@ class TranslitEditorFrame(Frame):
         def openFileHelper(*args):
             url=tkFileDialog.askopenfilename(title="Open EDL or text file", filetypes=[("EDL", "*.edl"), ("Plain text", "*.txt"), ("JSON", "*.json")], parent=self)
             if(url):
-                spawnTranslitEditor(url)
+                spawnTranslitEditor("file://"+url)
         self.openfilebtn=Button(self.utilpanel, text="Open from filesystem", command=openFileHelper)
         self.openipfsbtn=Button(self.utilpanel, text="Open from URL", command=openURLHelper)
         def exportHelper(*args):
