@@ -27,7 +27,7 @@ from random import Random
 
 import cStringIO
 
-global clipboard
+global clipboard, url2hash
 clipboard=None
 url2hash={}
 windows=[]
@@ -95,6 +95,11 @@ def concatext2str(concatext):
     return "".join(concatext)
 
 def spawnTranslitEditor(edl):
+    for item in windows:
+        if(edl in [item.ed.hash, item.ed.path]):
+            item.master.master.deiconify()
+            item.lift()
+            return item
     top=TranslitEditorFrame(Toplevel())
     top.pack()
     windows.append(top)
@@ -102,6 +107,7 @@ def spawnTranslitEditor(edl):
         top.ed.openEDL(target)
     except:
         top.ed.openTextAsEDL(target)
+    return top
 
 class TranslitEditor(Text):
     def __init__(self, *args, **kw_args):
@@ -134,20 +140,34 @@ class TranslitEditor(Text):
     def renderTransclusionColors(self):
         for i in range(0, len(self.clipLookup)):
             self.renderTransclusionColor(i)
+    def showLinkTarget(self):
+        target=self.index("insert")
+        tags=self.tag_names(target)
+        for tag in tags:
+            if tag.find("LINK")==0:
+                linkID=int(tag[4:])
+                link=self.linkLookup[linkID]
+                if(link["type"]!="format"):
+                    for endpoint in link["endpoints"]:
+                        win=spawnTranslitEditor(endpoint["path"])
+                        win.ed.addLink(link)
+                        win.ed.see(".".join([str(endpoint["row"]), str(endpoint["col"])]))
     def renderLink(self, linkNum):
-        if(self.linkLookup[i].type=="format"):
-            self.tag_config("LINK"+str(linkNum), **self.linkLookup[i].attributes)
+        if(self.linkLookup[i]["type"]=="format"):
+            self.tag_config("LINK"+str(linkNum), **self.linkLookup[i]["attributes"])
             return
         if(self.showLinkColors):
             endpoints=[]
-            for item in self.linkLookup[linkNum][1].endpoints:
+            for item in self.linkLookup[linkNum][1]["endpoints"]:
                 endpoints.append(item["path"])
-            color=genHLColor(" ".join(lendpoints))
+            color=genHLColor(" ".join(endpoints))
             self.tag_config("LINK"+str(linkNum), background=color)
     def renderLinks(self):
         for i in range(0, len(self.linkLookup)):
             self.renderLink(i)
     def addLink(self, link):
+        if(link in self.odl):
+            return
         found=False
         tags=[]
         endpoints=[]
@@ -317,6 +337,7 @@ class TranslitEditor(Text):
             f.write(ipfsGet(self.currentEDLHash).read())
             f.flush()
             f.close()
+        json.dump(url2hash, open("url2hash.json", "w"))
 
 class TranslitEditorFrame(Frame):
     def __init__(self, *args, **kw_args):
@@ -386,6 +407,11 @@ class TranslitEditorFrame(Frame):
         self.master.wm_title(str(self.ed.path)+" ("+str(self.ed.currentEDLHash)+") - mtv")
 
 def main():
+    global url2hash
+    try:
+        url2hash=json.load(open("url2hash.json", "r"))
+    except:
+        json.dump(url2hash, open("url2hash.json", "w"))
     top=TranslitEditorFrame(Tk())
     top.pack()
     ed=top.ed
