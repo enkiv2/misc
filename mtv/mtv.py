@@ -409,6 +409,9 @@ class TranslitEditorFrame(Frame):
         self.fr.pack()
         self.title()
         self.bind("<Enter>", self.title)
+        def handleAutoSave(*args):
+            self.ed.saveEDL()
+        self.master.protocol("WM_DELETE_WINDOW", handleAutoSave)
     def title(self, *args):
         self.master.wm_title(str(self.ed.path)+" ("+str(self.ed.currentEDLHash)+") - mtv")
 
@@ -418,13 +421,18 @@ def main():
         url2hash=json.load(open("url2hash.json", "r"))
     except:
         json.dump(url2hash, open("url2hash.json", "w"))
-    top=TranslitEditorFrame(Tk())
+    tk=Tk()
+    top=TranslitEditorFrame(tk)
     top.pack()
-    ed=top.ed
     windows.append(top)
     if len(sys.argv)>1:
         for target in sys.argv[1:]:
             spawnTranslitEditor(target)
+    def handleAutoSave(*args):
+        for win in windows:
+            win.ed.saveEDL()
+        tk.destroy()
+    tk.protocol("WM_DELETE_WINDOW", handleAutoSave)
     top.mainloop()
 
 if __name__=="__main__":
