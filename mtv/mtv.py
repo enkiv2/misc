@@ -326,7 +326,7 @@ class TranslitEditorFrame(Frame):
         self.ed=TranslitEditor(self.fr)
         self.utilpanel=Frame(self.cmdpanel)
         def openURLHelper(*args):
-            url=tkSimpleDialog.askstring("Open URL or hash", "URL or hash", parent=self)
+            url=tkSimpleDialog.askstring("Open URL or hash", "URL or hash", parent=self, initialvalue=self.clipboard_get())
             if(url):
                 spawnTranslitEditor(url)
         def openFileHelper(*args):
