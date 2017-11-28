@@ -27,10 +27,11 @@ from random import Random
 
 import cStringIO
 
-global clipboard, url2hash
+global clipboard, url2hash, odl
 clipboard=None
 url2hash={}
 windows=[]
+odl=[]
 
 def genHLColor(obj):
     gen=Random(obj)
@@ -109,8 +110,14 @@ def spawnTranslitEditor(edl):
     except:
         top.ed.openTextAsEDL(edl)
     top.title()
+    top.ed.addLinks(odl)
     json.dump(url2hash, open("url2hash.json", "w"))
     return top
+
+def addLinksToODL(links):
+    odl.extend(links)
+    for win in windows:
+        win.ed.addlinks(odl)
 
 class TranslitEditor(Text):
     def __init__(self, *args, **kw_args):
@@ -174,6 +181,9 @@ class TranslitEditor(Text):
     def renderLinks(self):
         for i in range(0, len(self.linkLookup)):
             self.renderLink(i)
+    def recolor(self):
+        self.renderTransclusionColors()
+        self.renderLinks()
     def addLink(self, link):
         if(link in self.odl):
             return
@@ -196,6 +206,10 @@ class TranslitEditor(Text):
                         # XXX finish calculating overlap
         if(found):
             self.odl.append(link)
+    def addLinks(self, links):
+        for link in links:
+            self.addLink(link)
+        self.recolor()
     def insertTextAsEDL(self, path):
         text=get(path).read()
         lines=text.split("\n")
@@ -216,7 +230,7 @@ class TranslitEditor(Text):
             self.renderTransclusionColors()
         self.clipPaths=list(set(self.clipPaths))
         self.recalculateClips()
-        self.renderTransclusionColors()
+        self.recolor()
         return (edl, concatext)
     def openTextAsEDL(self, path):
         self.path=path
