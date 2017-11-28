@@ -62,7 +62,7 @@ def urlGet(url):
     return ipfsGet(h)
 def ipfsGet(h):
     h=h.strip()
-    return cStringIO.StringIO(subprocess.check_output(["ipfs", "cat", h]))
+    return cStringIO.StringIO(subprocess.check_output(["ipfs", "cat", h]).replace("\r\n", "\n"))
 def get(path):
     if path[0]=="/":
         path="file://"+path
@@ -78,12 +78,15 @@ def get(path):
 def rcSpan2str(row, col, dRows, dCols, contentStream):
     ret=[]
     line=""
-    for i in range(0, row):
+    for i in range(1, row):
         line=contentStream.readline()
-    ret.append(line[col:])
-    for i in range(0, dRows-1):
-        ret.append(contentStream.readline())
-    ret.append(contentStream.readline()[:dCols])
+    if(dRows==0):
+        ret.append(line[col+1:dCols])
+    else:
+        ret.append(line[col+1:])
+        for i in range(1, dRows):
+            ret.append(contentStream.readline())
+        ret.append(contentStream.readline()[:dCols])
     contentStream.close()
     return "\n".join(ret)
 
@@ -140,7 +143,7 @@ class TranslitEditor(Text):
         self.orphan=[]
         self.showTransclusionColors=True
         self.showLinkColors=True
-        self.lastInsertionCursorPosition="0.0"
+        self.lastInsertionCursorPosition="1.0"
         def _on_change(self, event):
             if(self.index("insert")!=self.lastInsertionCursorPosition):
                 self.lastInsertionCursorPosition=self.index("insert")
@@ -240,14 +243,14 @@ class TranslitEditor(Text):
         return (edl, concatext)
     def openTextAsEDL(self, path):
         self.path=path
-        self.delete("0.0", "end")
+        self.delete("1.0", "end")
         (self.edl, self.concatext) = self.insertTextAsEDL(path)
         if path in url2hash:
             path=url2hash[path]
         self.currentEDLHash=path
     def openEDL(self, path):
         self.path=path
-        self.delete("0.0", "end")
+        self.delete("1.0", "end")
         (self.edl, self.concatext) = self.insertEDL(path)
         if path in url2hash:
             path=url2hash[path]
@@ -263,8 +266,8 @@ class TranslitEditor(Text):
         currTags=[]
         clipsToAdd=[]
         clipsToRemove=[]
-        lastTag="0.0"
-        for item in self.dump("0.0", "end", tag=True):
+        lastTag="1.0"
+        for item in self.dump("1.0", "end", tag=True):
             (key, value, index)=item
             if(key=="tagon" and value.find("CLIP")==0):
                 if(len(currTags)==0):
@@ -333,16 +336,21 @@ class TranslitEditor(Text):
             try:
                 clipObj=self.clipLookup[int(clip[4:])]
                 start_idx=self.index(clip+".first")
-                offsetRow=int(start_idx.split(".")[0])-int(last[0].split(".")[0])
-                dRow=int(last[-1].split(".")[0])-int(last[0].split(".")[0])
-                dCol=int(last[-1].split(".")[1])
-                edl.append({"path":clipObj["path"], "row":clipObj["row"]+offsetRow, "col":int(start_idx.split(".")[1]), "dRows":dRow, "dCols":dCol})
+                offsetRow=(int(self.index(start).split(".")[0])/2-int(start_idx.split(".")[0]))+1
+                print(start_idx)
+                print(clipObj)
+                print(self.index(start))
+                print(self.index(end))
+                dRow=int(self.index(end).split(".")[0])-int(self.index(start).split(".")[0])
+                dCol=int(self.index(end).split(".")[1])
+                edl.append({"path":clipObj["path"], "row":clipObj["row"]+offsetRow, "col":int(self.index(start).split(".")[1]), "dRows":dRow, "dCols":dCol})
             except Exception as e:
                 print e
         print(edl)
+        print(edl2concatext(edl))
         return edl
     def calculateEDL(self):
-        self.edl=self.calculateEDLClip("0.0", "end")
+        self.edl=self.calculateEDLClip("1.0", "end")
     def selectionAsClip(self):
         return self.calculateEDLClip("sel.first", "sel.last")
     def saveEDL(self, path=None):
