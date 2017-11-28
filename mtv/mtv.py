@@ -60,7 +60,6 @@ def urlGet(url):
     return ipfsGet(h)
 def ipfsGet(h):
     h=h.strip()
-    print "ipfs cat "+h
     return cStringIO.StringIO(subprocess.check_output(["ipfs", "cat", h]))
 def get(path):
     if path[0]=="/":
@@ -97,14 +96,11 @@ def concatext2str(concatext):
 
 def spawnTranslitEditor(edl):
     global url2hash
-    print("Windows", windows)
     for item in windows:
         if(edl in [item.ed.currentEDLHash, item.ed.path]):
-            print("Found open window")
             item.master.master.deiconify()
             item.lift()
             return item
-    print("Spawning window")
     top=TranslitEditorFrame(Toplevel())
     top.pack()
     windows.append(top)
@@ -112,7 +108,6 @@ def spawnTranslitEditor(edl):
         top.ed.openEDL(edl)
     except:
         top.ed.openTextAsEDL(edl)
-    print(url2hash)
     json.dump(url2hash, open("url2hash.json", "w"))
     return top
 
@@ -249,11 +244,8 @@ class TranslitEditor(Text):
         clipsToRemove=[]
         lastTag="0.0"
         for item in self.dump("0.0", "end", tag=True):
-            print("iter")
             (key, value, index)=item
-            print(item)
             if(key=="tagon" and value.find("CLIP")==0):
-                print("Tag on: "+value)
                 if(len(currTags)==0):
                     chunk=self.get(lastTag, index)
                     if(len(chunk)>0):
@@ -286,12 +278,10 @@ class TranslitEditor(Text):
         for item in clipsToRemove:
             self.tag_remove(item[0], item[1], item[2])
         for item in clipsToAdd:
-            print(item)
             tagname="CLIP"+str(len(self.clipLookup))
             clipInfo=item[0]
             self.clipLookup.append({"path":clipInfo[0], "row":clipInfo[1][0], "col":clipInfo[1][1], "dRows":clipInfo[2][0], "dCols":clipInfo[2][1]})
             self.tag_add(tagname, item[1][0], item[1][1])
-        print(self.tag_names())
     def publishOrphan(self):
         self.orphanFile.close()
         h=ipfsPutFile(self.orphanFile.name)
@@ -307,22 +297,18 @@ class TranslitEditor(Text):
         last=[]
         for item in self.dump(start, end, all=True):
             (key, value, index)=item
-            print(item)
             if(key=="tagon" and value.find("CLIP")==0):
                 clipNum=int(value[4:])
                 edl.append(self.clipLookup[clipNum])
             elif(key=="text"):
                 last.append(index)
         if(len(edl)==0):
-            print(last)
             tags=self.tag_names(last[0])
-            print(tags)
             clip=None
             for item in tags:
                 if(item.find("CLIP")==0):
                         clip=item
                         continue
-            print(clip)
             try:
                 clipObj=self.clipLookup[int(clip[4:])]
                 start_idx=self.index(clip+".first")
