@@ -382,6 +382,7 @@ class TranslitEditor(Text):
             f.write(ipfsGet(self.currentEDLHash).read())
             f.flush()
             f.close()
+            url2hash[path]=self.currentEDLHash
         json.dump(url2hash, open("url2hash.json", "w"))
 
 class TranslitEditorFrame(Frame):
@@ -404,11 +405,11 @@ class TranslitEditorFrame(Frame):
         def exportHelper(*args):
             self.ed.saveEDL()
         def exportFileHelper(*args):
-            url=tkFileDialog.asksavefilename(title="Save EDL as", filetypes=[("EDL", "*.edl"), ("JSON", "*.json")], parent=self)
+            url=tkFileDialog.asksaveasfilename(title="Save EDL as", filetypes=[("EDL", "*.edl"), ("JSON", "*.json")], parent=self)
             if(url):
                 self.ed.saveEDL(url)
         self.export=Button(self.utilpanel, text="Export", command=exportHelper)
-        self.exportfile=Button(self.utilpanel, text="Export to file")
+        self.exportfile=Button(self.utilpanel, text="Export to file", command=exportFileHelper)
         self.openfilebtn.pack(side="left")
         self.openipfsbtn.pack(side="left")
         self.export.pack(side="left")
