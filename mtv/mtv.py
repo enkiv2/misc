@@ -37,7 +37,7 @@ def genHLColor(obj):
     red     = gen.randint(0, 128)+128
     green   = gen.randint(0, 128)+128
     blue    = gen.randint(0, 128)+128
-    return "#%02x%02x%02x" % (red, green, blue)
+    return "#%02X%02X%02X" % (red-1, green-1, blue-1)
 
 def ipfsPutFile(path):
     #return os.popen("ipfs add -q --pin "+ path).read()
@@ -51,6 +51,7 @@ def ipfsPutStr(content):
     os.unlink(temp.name)
     return h
 def urlGet(url):
+    global url2hash
     if url in url2hash:
         h=url2hash[url]
     else:
@@ -95,18 +96,20 @@ def concatext2str(concatext):
     return "".join(concatext)
 
 def spawnTranslitEditor(edl):
+    global url2hash
     for item in windows:
-        if(edl in [item.ed.hash, item.ed.path]):
+        if(edl in [item.ed.currentEDLHash, item.ed.path]):
             item.master.master.deiconify()
             item.lift()
-            return item
+        return item
     top=TranslitEditorFrame(Toplevel())
     top.pack()
     windows.append(top)
     try:
-        top.ed.openEDL(target)
+        top.ed.openEDL(edl)
     except:
-        top.ed.openTextAsEDL(target)
+        top.ed.openTextAsEDL(edl)
+    json.dump(url2hash, open("url2hash.json", "w"))
     return top
 
 class TranslitEditor(Text):
@@ -332,6 +335,7 @@ class TranslitEditor(Text):
     def selectionAsClip(self):
         return self.calculateEDLClip("sel.first", "sel.last")
     def saveEDL(self, path=None):
+        global url2hash
         self.recalculateClips()
         self.publishOrphan()
         self.renderTransclusionColors()
@@ -420,7 +424,8 @@ def main():
     global url2hash
     try:
         url2hash=json.load(open("url2hash.json", "r"))
-    except:
+    except Exception as e:
+        print(e)
         json.dump(url2hash, open("url2hash.json", "w"))
     tk=Tk()
     top=TranslitEditorFrame(tk)
