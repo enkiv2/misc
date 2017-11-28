@@ -309,6 +309,22 @@ class TranslitEditorFrame(Frame):
         self.fr=Frame(self)
         self.cmdpanel=Frame(self.fr)
         self.ed=TranslitEditor(self.fr)
+        self.utilpanel=Frame(self.cmdpanel)
+        self.opentextfilebtn=Button(self.utilpanel, text="Open text from filesystem")
+        self.opentextipfsbtn=Button(self.utilpanel, text="Open text from ipfs")
+        self.openedlfilebtn=Button(self.utilpanel, text="Open edl from filesystem")
+        self.openedlipfsbtn=Button(self.utilpanel, text="Open edl from ipfs")
+        def exportHelper(*args):
+            self.ed.saveEDL()
+        self.export=Button(self.utilpanel, text="Export", command=exportHelper)
+        self.exportfile=Button(self.utilpanel, text="Export to file")
+        self.opentextfilebtn.pack(side="left")
+        self.opentextipfsbtn.pack(side="left")
+        self.openedlfilebtn.pack(side="right")
+        self.openedlipfsbtn.pack(side="right")
+        self.export.pack(side="left")
+        self.exportfile.pack(side="right")
+        self.utilpanel.pack()
         self.clippanel=Frame(self.cmdpanel)
         def copyHelper(*args):
             global clipboard
