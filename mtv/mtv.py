@@ -10,9 +10,14 @@
 try:
     import Tkinter
     from Tkinter import *
+    import tkFileDialog
+    import tkSimpleDialog
 except:
     import tkinter as Tkinter
     from tkinter import *
+    from tkinter import filedialog
+    tkFileDialog=filedialog
+    import tkSimpleDialog
 
 import os, sys, subprocess
 import json
@@ -87,6 +92,14 @@ def edl2concatext(edl):
 
 def concatext2str(concatext):
     return "".join(concatext)
+
+def spawnTranslitEditor(edl):
+    top=TranslitEditorFrame(Toplevel())
+    top.pack()
+    try:
+        top.ed.openEDL(target)
+    except:
+        top.ed.openTextAsEDL(target)
 
 class TranslitEditor(Text):
     def __init__(self, *args, **kw_args):
@@ -310,18 +323,26 @@ class TranslitEditorFrame(Frame):
         self.cmdpanel=Frame(self.fr)
         self.ed=TranslitEditor(self.fr)
         self.utilpanel=Frame(self.cmdpanel)
-        self.opentextfilebtn=Button(self.utilpanel, text="Open text from filesystem")
-        self.opentextipfsbtn=Button(self.utilpanel, text="Open text from ipfs")
-        self.openedlfilebtn=Button(self.utilpanel, text="Open edl from filesystem")
-        self.openedlipfsbtn=Button(self.utilpanel, text="Open edl from ipfs")
+        def openURLHelper(*args):
+            url=tkSimpleDialog.askstring("Open URL or hash", "URL or hash", parent=self)
+            if(url):
+                spawnTranslitEditor(url)
+        def openFileHelper(*args):
+            url=tkFileDialog.askopenfilename(title="Open EDL or text file", filetypes=[("EDL", "*.edl"), ("Plain text", "*.txt"), ("JSON", "*.json")], parent=self)
+            if(url):
+                spawnTranslitEditor(url)
+        self.openfilebtn=Button(self.utilpanel, text="Open from filesystem", command=openFileHelper)
+        self.openipfsbtn=Button(self.utilpanel, text="Open from URL", command=openURLHelper)
         def exportHelper(*args):
             self.ed.saveEDL()
+        def exportFileHelper(*args):
+            url=tkFileDialog.asksavefilename(title="Save EDL as", filetypes=[("EDL", "*.edl"), ("JSON", "*.json")], parent=self)
+            if(url):
+                self.ed.saveEDL(url)
         self.export=Button(self.utilpanel, text="Export", command=exportHelper)
         self.exportfile=Button(self.utilpanel, text="Export to file")
-        self.opentextfilebtn.pack(side="left")
-        self.opentextipfsbtn.pack(side="left")
-        self.openedlfilebtn.pack(side="right")
-        self.openedlipfsbtn.pack(side="right")
+        self.openfilebtn.pack(side="left")
+        self.openipfsbtn.pack(side="left")
         self.export.pack(side="left")
         self.exportfile.pack(side="right")
         self.utilpanel.pack()
@@ -366,15 +387,15 @@ def main():
     top=TranslitEditorFrame(Tk())
     top.pack()
     ed=top.ed
-    cmdtype=sys.argv[1]
-    target=sys.argv[2]
-    if(cmdtype=="text"):
-        ed.openTextAsEDL(target)
-    else:
-        try:
-            ed.openEDL(target)
-        except:
+    if len(sys.argv)>1:
+        target=sys.argv[1]
+        if(cmdtype=="text"):
             ed.openTextAsEDL(target)
+        else:
+            try:
+                ed.openEDL(target)
+            except:
+                ed.openTextAsEDL(target)
     top.mainloop()
 
 if __name__=="__main__":
