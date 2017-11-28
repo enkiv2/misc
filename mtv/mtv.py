@@ -27,9 +27,10 @@ from random import Random
 
 import cStringIO
 
-url2hash={}
-clipboard=None
 global clipboard
+clipboard=None
+url2hash={}
+windows=[]
 
 def genHLColor(obj):
     gen=Random(obj)
@@ -96,6 +97,7 @@ def concatext2str(concatext):
 def spawnTranslitEditor(edl):
     top=TranslitEditorFrame(Toplevel())
     top.pack()
+    windows.append(top)
     try:
         top.ed.openEDL(target)
     except:
@@ -387,15 +389,10 @@ def main():
     top=TranslitEditorFrame(Tk())
     top.pack()
     ed=top.ed
+    windows.append(top)
     if len(sys.argv)>1:
         target=sys.argv[1]
-        if(cmdtype=="text"):
-            ed.openTextAsEDL(target)
-        else:
-            try:
-                ed.openEDL(target)
-            except:
-                ed.openTextAsEDL(target)
+        spawnTranslitEditor(target)
     top.mainloop()
 
 if __name__=="__main__":
