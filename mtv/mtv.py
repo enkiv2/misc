@@ -391,8 +391,8 @@ def main():
     ed=top.ed
     windows.append(top)
     if len(sys.argv)>1:
-        target=sys.argv[1]
-        spawnTranslitEditor(target)
+        for target in sys.argv[1:]:
+            spawnTranslitEditor(target)
     top.mainloop()
 
 if __name__=="__main__":
