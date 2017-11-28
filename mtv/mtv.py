@@ -62,7 +62,7 @@ def urlGet(url):
     return ipfsGet(h)
 def ipfsGet(h):
     h=h.strip()
-    return cStringIO.StringIO(subprocess.check_output(["ipfs", "cat", h]).replace("\r\n", "\n"))
+    return cStringIO.StringIO(subprocess.check_output(["ipfs", "cat", h]).replace("\r", ""))
 def get(path):
     if path[0]=="/":
         path="file://"+path
@@ -88,7 +88,7 @@ def rcSpan2str(row, col, dRows, dCols, contentStream):
             ret.append(contentStream.readline())
         ret.append(contentStream.readline()[:dCols])
     contentStream.close()
-    return "\n".join(ret)
+    return "".join(ret)
 
 def edl2concatext(edl):
     concatext=[]
@@ -144,11 +144,27 @@ class TranslitEditor(Text):
         self.showTransclusionColors=True
         self.showLinkColors=True
         self.lastInsertionCursorPosition="1.0"
-        def _on_change(self, event):
+        self._orig=self._w + "_orig"
+        self.tk.call("rename", self._w, self._orig)
+        self.tk.createcommand(self._w, self._proxy)
+        def on_change(event):
+            print("Change event")
             if(self.index("insert")!=self.lastInsertionCursorPosition):
                 self.lastInsertionCursorPosition=self.index("insert")
                 self.showLinkTarget()
-        self.bind("<<Change>>", _on_change)
+                #print("Position: "+self.index("insert"))
+        self.bind("<<CursorChange>>", on_change)
+    def _proxy(self, *args):
+        cmd = (self._orig,) + args
+        result = self.tk.call(cmd)
+
+        # generate an event if something was added or deleted,
+        # or the cursor position changed
+        if (args[0] in ("insert", "delete") or 
+            args[0:3] == ("mark", "set", "insert")):
+            self.event_generate("<<CursorChange>>", when="tail")
+
+        return result  
     def idxDelta(self, idx, idx2):
         idx=idx.split(".")
         idx2=idx2.split(".")
@@ -336,7 +352,7 @@ class TranslitEditor(Text):
             try:
                 clipObj=self.clipLookup[int(clip[4:])]
                 start_idx=self.index(clip+".first")
-                offsetRow=(int(self.index(start).split(".")[0])/2-int(start_idx.split(".")[0]))+1
+                offsetRow=(int(self.index(start).split(".")[0])-int(start_idx.split(".")[0]))+1
                 print(start_idx)
                 print(clipObj)
                 print(self.index(start))
