@@ -97,11 +97,14 @@ def concatext2str(concatext):
 
 def spawnTranslitEditor(edl):
     global url2hash
+    print("Windows", windows)
     for item in windows:
         if(edl in [item.ed.currentEDLHash, item.ed.path]):
+            print("Found open window")
             item.master.master.deiconify()
             item.lift()
-        return item
+            return item
+    print("Spawning window")
     top=TranslitEditorFrame(Toplevel())
     top.pack()
     windows.append(top)
@@ -109,6 +112,7 @@ def spawnTranslitEditor(edl):
         top.ed.openEDL(edl)
     except:
         top.ed.openTextAsEDL(edl)
+    print(url2hash)
     json.dump(url2hash, open("url2hash.json", "w"))
     return top
 
@@ -433,13 +437,14 @@ def main():
     windows.append(top)
     if len(sys.argv)>1:
         for target in sys.argv[1:]:
+            print("Target: "+target)
             spawnTranslitEditor(target)
     def handleAutoSave(*args):
         for win in windows:
             win.ed.saveEDL()
         tk.destroy()
     tk.protocol("WM_DELETE_WINDOW", handleAutoSave)
-    top.mainloop()
+    tk.mainloop()
 
 if __name__=="__main__":
     main()
