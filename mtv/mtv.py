@@ -105,7 +105,7 @@ def spawnTranslitEditor(edl):
             return item
     if edl in recentDocs:
         recentDocs.remove(edl)
-    recentDocs.push(edl)
+    recentDocs.insert(0, edl)
 
     top=TranslitEditorFrame(Toplevel())
     top.pack()
