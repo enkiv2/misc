@@ -27,11 +27,12 @@ from random import Random
 
 import cStringIO
 
-global clipboard, url2hash, odl
+global clipboard, url2hash, odl, recentDocs
 clipboard=None
 url2hash={}
 windows=[]
 odl=[]
+recentDocs=[]
 
 def genHLColor(obj):
     gen=Random(obj)
@@ -96,12 +97,16 @@ def concatext2str(concatext):
     return "".join(concatext)
 
 def spawnTranslitEditor(edl):
-    global url2hash
+    global url2hash, recentDocs
     for item in windows:
         if(edl in [item.ed.currentEDLHash, item.ed.path]):
             item.master.master.deiconify()
             item.lift()
             return item
+    if edl in recentDocs:
+        recentDocs.remove(edl)
+    recentDocs.push(edl)
+
     top=TranslitEditorFrame(Toplevel())
     top.pack()
     windows.append(top)
@@ -112,6 +117,7 @@ def spawnTranslitEditor(edl):
     top.title()
     top.ed.addLinks(odl)
     json.dump(url2hash, open("url2hash.json", "w"))
+    json.dump(recentDocs, open("recent.json", "w"))
     return top
 
 def addLinksToODL(links):
@@ -426,12 +432,14 @@ class TranslitEditorFrame(Frame):
         self.master.wm_title(str(self.ed.path)+" ("+str(self.ed.currentEDLHash)+") - mtv")
 
 def main():
-    global url2hash
+    global url2hash, recentDocs
     try:
         url2hash=json.load(open("url2hash.json", "r"))
+        recentDocs=json.load(open("recent.json", "r"))
     except Exception as e:
         print(e)
         json.dump(url2hash, open("url2hash.json", "w"))
+        json.dump(recentDocs, open("recent.json", "w"))
     tk=Tk()
     top=TranslitEditorFrame(tk)
     top.pack()
