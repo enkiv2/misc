@@ -108,6 +108,7 @@ def spawnTranslitEditor(edl):
         top.ed.openEDL(edl)
     except:
         top.ed.openTextAsEDL(edl)
+    top.title()
     json.dump(url2hash, open("url2hash.json", "w"))
     return top
 
