@@ -15,6 +15,14 @@ for line in sys.stdin.readlines():
 for line in range(0, len(wordMatrix)):
     if(len(wordMatrix[line])<maxWordsPerLine):
         wordMatrix[line].extend(['']*(maxWordsPerLine-len(wordMatrix[line])))
+try:
+    import gensim
+    model=gensim.models.Word2Vec(wordMatrix)
+    gensimMode=True
+except:
+    gensimMode=False
+
+
 
 markov={}
 #markov['']={}
@@ -67,15 +75,25 @@ while not found:
         word=line[startingCol]
         found=True
 
-startingLine=0
-startingCol=0
+#startingLine=0
+#startingCol=0
 
 def setWord(line, col, options):
-    if line<len(outputWordMatrix)-1:
-        if col<len(outputWordMatrix[line])-1:
-            if(outputWordMatrix[line][col]):
-                options.append(outputWordMatrix[line][col])
-            outputWordMatrix[line][col]=random.choice(options)
+    try:
+        if line<len(outputWordMatrix)-1:
+            if col<len(outputWordMatrix[line])-1:
+                if(outputWordMatrix[line][col]):
+                    w=random.choice(options)
+                    if gensimMode and w:
+                        try:
+                            options=[model.most_similar([w, outputWordMatrix[line][col]])[0][0]]
+                        except:
+                            options=[w, outputWordMatrix[line][col]]
+                    else:
+                        options=[w, outputWordMatrix[line][col]]
+                outputWordMatrix[line][col]=random.choice(options)
+    except:
+        pass
 def setCross(line, col, word):
     setWord(line, col, [word])
     if(line>0):
