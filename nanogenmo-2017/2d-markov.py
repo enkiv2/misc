@@ -59,24 +59,14 @@ for lineNum in range(0, len(wordMatrix)):
             markov[word]["up"]=[up]
             markov[word]["down"]=[down]
 
-outputWordMatrix=[]
-for line in range(0, len(wordMatrix)):
-    ret=[]
-    for word in range(0, maxWordsPerLine):
-        ret.append("")
-    outputWordMatrix.append(ret)
+width=maxWordsPerLine
+height=len(wordMatrix)
+outputWordMatrix=[['']*width]*height
 
-found=False
-while not found:
-    startingLine=random.randint(0, len(wordMatrix))
-    startingCol=random.randint(0, maxWordsPerLine)
-    line=wordMatrix[startingLine]
-    if(len(line)>startingCol):
-        word=line[startingCol]
-        found=True
 
-#startingLine=0
-#startingCol=0
+startingLine=height/2
+startingCol=width/2
+word=wordMatrix[startingLine][startingCol]
 
 def setWord(line, col, options):
     try:
@@ -107,15 +97,24 @@ def setCross(line, col, word):
     if(line<maxWordsPerLine-1):
         setWord(line, col+1, markov[word]["right"])
 
+outputWordMatrix=wordMatrix
 setCross(startingLine, startingCol, word)
 
 for lineNum in range(0, startingLine):
     for wordNum in range(0, startingCol):
         setCross(startingLine-lineNum, startingCol-wordNum, outputWordMatrix[startingLine-lineNum+1][startingCol-wordNum+1])
 
-for lineNum in range(startingLine, len(wordMatrix)):
-    for wordNum in range(startingCol, maxWordsPerLine):
+for lineNum in range(0, startingLine):
+    for wordNum in range(startingCol, width):
+        setCross(startingLine-lineNum, wordNum, outputWordMatrix[startingLine-lineNum+1][wordNum])
+
+for lineNum in range(startingLine, height):
+    for wordNum in range(startingCol, width):
         setCross(lineNum, wordNum, outputWordMatrix[lineNum-1][wordNum-1])
+
+for lineNum in range(startingLine, height):
+    for wordNum in range(0, startingCol):
+        setCross(lineNum, startingCol-wordNum, outputWordMatrix[lineNum-1][startingCol-wordNum+1])
 
 for line in outputWordMatrix:
     print(" ".join(line))
