@@ -86,7 +86,9 @@ def setWord(line, col, options):
                     w=random.choice(options)
                     if gensimMode and w:
                         try:
-                            options=[model.most_similar([w, outputWordMatrix[line][col]])[0][0]]
+                            options.append(outputWordMatrix[line][col])
+                            options=[model.most_similar(positive=options)[0][0]]
+                            #options=[model.most_similar(positive=[w, options[-1]])[0][0]]
                         except:
                             options=[w, outputWordMatrix[line][col]]
                     else:
