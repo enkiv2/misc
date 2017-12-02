@@ -9,10 +9,11 @@ locale.setlocale(locale.LC_ALL, '')
 code=locale.getpreferredencoding()
 
 import curses
-global screen
+global screen, status
 screen=None
+status=None
 def initCurses():
-    global screen
+    global screen, status
     screen=curses.initscr()
     curses.start_color()
     curses.noecho()
@@ -20,6 +21,8 @@ def initCurses():
     screen.keypad(1)
     curses.init_pair(1, 5, 0)   # Links are magenta on black, or black on magenta
     curses.curs_set(0)
+    status=curses.newwin(1, curses.COLS, curses.LINES-1, 0)
+    status.overlay(screen)
 
 def killCurses():
     global screen
@@ -32,13 +35,14 @@ pageStack=[]
 global currentlySelected, selectedLink
 currentlySelected=0
 selectedLink=None
+offset=0
 
 def displayGopherMenu(page):
-    global selectedLink
+    global selectedLink, offset
     lines=page.split("\r\n")
     links=0
     screen.clear()
-    for line in lines:
+    for line in lines[offset:]:
         if(len(line)<8):
             continue
         ltype=line[0]
@@ -61,11 +65,16 @@ def displayGopherMenu(page):
             except:
                 pass
             links+=1
+    status.clear()
+    status.addstr(0, 0, "(g)o (q)uit  -  ncgopher  -  "+str(pageStack[-1][1][0])+" ("+str(pageStack[-1][1][1])+":"+str(pageStack[-1][1][2]), curses.A_REVERSE)
+    status.overwrite(screen)
+    status.refresh()
     screen.refresh()
 
 def navGopherMenu(page):
-    global currentlySelected
+    global currentlySelected, offset
     currentlySelected=0
+    offset=0
     while True:
         displayGopherMenu(page)
         ch=screen.getch()
@@ -79,6 +88,14 @@ def navGopherMenu(page):
             if(len(pageStack)>1):
                 pageStack.pop()
                 return pageStack.pop()
+        elif ch==curses.KEY_NPAGE:
+            offset+=curses.LINES/2
+            if(offset>len(page)):
+                offset=len(page)-curses.LINES/2+1
+        elif ch==curses.KEY_PPAGE:
+            offset-=curses.LINES/2
+            if(offset<0):
+                offset=0
         elif ch==ord("q"):
             return None
         elif ch==ord("g"):
@@ -207,6 +224,7 @@ def displayGopherObject(addr, host, port, itype=None):
             killCurses()
             os.system(pager+"<"+temp.name)
             initCurses()
+            os.unlink(temp.name)
         else:
             dest_filename=queryForInput("Destination path:")
             if(dest_filename):
@@ -217,9 +235,9 @@ def displayGopherObject(addr, host, port, itype=None):
                     temp.flush()
                     temp.close()
                     os.copy(temp.name, dest_filename)
+                    os.unlink(temp.name)
                 except Exception as e:
                     errMsg(str(e))
-        os.unlink(temp.name)
     if(len(pageStack)>0):
         return pageStack.pop()
     return None
