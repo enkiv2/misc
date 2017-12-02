@@ -122,6 +122,8 @@ if not pager:
     pager="less"
 
 def guessIfPageIsMenu(page):
+    if(not page):
+        return False
     if(len(page)==0):
         return False
     line=page.split("\r\n")[0]
@@ -133,6 +135,10 @@ def guessIfPageIsMenu(page):
 
 def displayGopherObject(addr, host, port, itype=None):
     page=fetchGopherObject(addr, host, port)
+    if not page:
+        if(len(pageStack)>0):
+            return pageStack.pop()
+        return None
     if itype==None:
         if(guessIfPageIsMenu(page)):
             itype='1'
@@ -155,9 +161,15 @@ def displayGopherObject(addr, host, port, itype=None):
     return None
 
 def main():
+    if(len(sys.argv)<3):
+        print("Usage: "+sys.argv[0]+" query hostname [port]")
+        sys.exit(1)
+    port=70
+    if(len(sys.argv)>=4):
+        port=sys.argv[3]
     initCurses()
     try:
-        nextItem=(None, (sys.argv[3], sys.argv[1], sys.argv[2]))
+        nextItem=(None, (sys.argv[1], sys.argv[2], port))
         while nextItem!=None:
             nextItem=displayGopherObject(nextItem[1][0], nextItem[1][1], nextItem[1][2], nextItem[0])
     except:
