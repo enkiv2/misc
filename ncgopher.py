@@ -193,8 +193,24 @@ def statusMsg(msg):
 def displayGopherObject(addr, host, port, itype=None):
     if(itype in ["9", "g", "I", "s"]):
         if errYesNo("File type is binary. Continue?"):
-            statusMsg("Downloading...")
-            page=fetchGopherObject(addr, host, port)
+            dest_filename=queryForInput("Destination path:")
+            if(dest_filename):
+                try:
+                    statusMsg("Downloading...")
+                    page=fetchGopherObject(addr, host, port)
+                    statusMsg("Saving...")
+                    temp=tempfile.NamedTemporaryFile(delete=False)
+                    temp.write(page)
+                    temp.flush()
+                    temp.close()
+                    os.copy(temp.name, dest_filename)
+                    os.unlink(temp.name)
+                except Exception as e:
+                    errMsg(str(e))
+            else:
+                if(len(pageStack)>0):
+                    return pageStack.pop()
+                return None
         else:
             if(len(pageStack)>0):
                 return pageStack.pop()
@@ -215,7 +231,7 @@ def displayGopherObject(addr, host, port, itype=None):
         pageStack.append((itype, (addr, host, port)))
         return navGopherMenu(page)
     else:
-        if(itype=="0"):
+        if(itype=="0" or True):
             statusMsg("Opening...")
             temp=tempfile.NamedTemporaryFile(delete=False)
             temp.write(page)
@@ -225,19 +241,6 @@ def displayGopherObject(addr, host, port, itype=None):
             os.system(pager+"<"+temp.name)
             initCurses()
             os.unlink(temp.name)
-        else:
-            dest_filename=queryForInput("Destination path:")
-            if(dest_filename):
-                try:
-                    statusMsg("Saving...")
-                    temp=tempfile.NamedTemporaryFile(delete=False)
-                    temp.write(page)
-                    temp.flush()
-                    temp.close()
-                    os.copy(temp.name, dest_filename)
-                    os.unlink(temp.name)
-                except Exception as e:
-                    errMsg(str(e))
     if(len(pageStack)>0):
         return pageStack.pop()
     return None
