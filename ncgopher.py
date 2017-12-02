@@ -203,6 +203,9 @@ def displayGopherObject(addr, host, port, itype=None):
                     temp.write(page)
                     temp.flush()
                     temp.close()
+                    if(len(pageStack)>0):
+                        return pageStack.pop()
+                    return None
                 except Exception as e:
                     errMsg(str(e))
                     if(len(pageStack)>0):
