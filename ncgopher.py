@@ -25,6 +25,7 @@ def killCurses():
     curses.echo(); curses.nocbreak(); screen.keypad(0); curses.endwin()
 
 GOPHER_ITEM_TYPES=["+", "g", "I", "T", "h", "i", "s", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+GOPHER_TEXT_TYPES=["0", "1", "5", "i", "h"]
 pageStack=[]
 global currentlySelected, selectedLink
 currentlySelected=0
@@ -79,17 +80,7 @@ def navGopherMenu(page):
         elif ch==ord("q"):
             return None
         elif ch==ord("g"):
-            query=curses.newwin(4, 80, 10, 0)
-            query.box()
-            query.addstr(1, 1, "Address (query, optionally followed by tab-separated address and port):")
-            query.overlay(screen)
-            screen.refresh()
-            query.refresh()
-            curses.echo()
-            addy=query.getstr(2, 1)
-            curses.noecho()
-            del query
-            screen.refresh()
+            addy=queryForInput("Address (query, optionally followed by tab-separated address and port):")
             if len(addy)>0:
                 parts=addy.split("\t")
                 if(len(parts)==1):
@@ -132,6 +123,31 @@ def guessIfPageIsMenu(page):
         if(len(fields)>=2):
             return True
     return False
+def queryForInput(msg):
+        query=curses.newwin(4, 80, 10, 0)
+        query.box()
+        query.addstr(1, 1, msg)
+        query.overlay(screen)
+        screen.refresh()
+        query.refresh()
+        curses.echo()
+        addy=query.getstr(2, 1)
+        curses.noecho()
+        del query
+        screen.refresh()
+        return addy
+def errYesNo(msg):
+        query=curses.newwin(4, 80, 10, 0)
+        query.box()
+        query.addstr(1, 1, msg)
+        query.addstr(2, 1, "Y/n")
+        query.overlay(screen)
+        screen.refresh()
+        query.refresh()
+        res=query.getch()
+        del query
+        screen.refresh()
+        return (res in [ord("y"), ord("Y")])
 def errMsg(msg):
         query=curses.newwin(4, 80, 10, 0)
         query.box()
@@ -143,8 +159,17 @@ def errMsg(msg):
         query.getch()
         del query
         screen.refresh()
+
 def displayGopherObject(addr, host, port, itype=None):
-    page=fetchGopherObject(addr, host, port)
+    if(itype in ["9", "g", "I", "s"]):
+        if errYesNo("File type is binary. Continue?"):
+            page=fetchGopherObject(addr, host, port)
+        else:
+            if(len(pageStack)>0):
+                return pageStack.pop()
+            return None
+    else:
+        page=fetchGopherObject(addr, host, port)
     if not page:
         errMsg("Couldn't load page gopher://"+str(host)+":"+str(port)+"/"+str(addr))
         if(len(pageStack)>0):
@@ -163,9 +188,17 @@ def displayGopherObject(addr, host, port, itype=None):
         temp.write(page)
         temp.flush()
         temp.close()
-        killCurses()
-        os.system(pager+"<"+temp.name)
-        initCurses()
+        if(itype==0):
+            killCurses()
+            os.system(pager+"<"+temp.name)
+            initCurses()
+        else:
+            dest_filename=queryForInput("Destination path:")
+            if(dest_filename):
+                try:
+                    os.copy(temp.name, dest_filename)
+                except Exception as e:
+                    errMsg(str(e))
         os.unlink(temp.name)
     if(len(pageStack)>0):
         return pageStack.pop()
