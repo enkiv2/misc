@@ -132,10 +132,21 @@ def guessIfPageIsMenu(page):
         if(len(fields)>=2):
             return True
     return False
-
+def errMsg(msg):
+        query=curses.newwin(4, 80, 10, 0)
+        query.box()
+        query.addstr(1, 1, msg)
+        query.addstr(2, 1, "PRESS ANY KEY TO CONTINUE")
+        query.overlay(screen)
+        screen.refresh()
+        query.refresh()
+        query.getch()
+        del query
+        screen.refresh()
 def displayGopherObject(addr, host, port, itype=None):
     page=fetchGopherObject(addr, host, port)
     if not page:
+        errMsg("Couldn't load page gopher://"+str(host)+":"+str(port)+"/"+str(addr))
         if(len(pageStack)>0):
             return pageStack.pop()
         return None
