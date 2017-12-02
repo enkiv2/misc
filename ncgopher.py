@@ -215,7 +215,7 @@ def displayGopherObject(addr, host, port, itype=None):
         pageStack.append((itype, (addr, host, port)))
         return navGopherMenu(page)
     else:
-        if(itype==0):
+        if(itype=="0"):
             statusMsg("Opening...")
             temp=tempfile.NamedTemporaryFile(delete=False)
             temp.write(page)
