@@ -199,14 +199,15 @@ def displayGopherObject(addr, host, port, itype=None):
                     statusMsg("Downloading...")
                     page=fetchGopherObject(addr, host, port)
                     statusMsg("Saving...")
-                    temp=tempfile.NamedTemporaryFile(delete=False)
+                    temp=open(dest_filename, "w")
                     temp.write(page)
                     temp.flush()
                     temp.close()
-                    os.copy(temp.name, dest_filename)
-                    os.unlink(temp.name)
                 except Exception as e:
                     errMsg(str(e))
+                    if(len(pageStack)>0):
+                        return pageStack.pop()
+                    return None
             else:
                 if(len(pageStack)>0):
                     return pageStack.pop()
