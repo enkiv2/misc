@@ -19,9 +19,11 @@ def initCurses():
     curses.cbreak()
     screen.keypad(1)
     curses.init_pair(1, 5, 0)   # Links are magenta on black, or black on magenta
+    curses.curs_set(0)
 
 def killCurses():
     global screen
+    curses.curs_set(1)
     curses.echo(); curses.nocbreak(); screen.keypad(0); curses.endwin()
 
 GOPHER_ITEM_TYPES=["+", "g", "I", "T", "h", "i", "s", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
@@ -131,7 +133,9 @@ def queryForInput(msg):
         screen.refresh()
         query.refresh()
         curses.echo()
+        curses.curs_set(1)
         addy=query.getstr(2, 1)
+        curses.curs_set(0)
         curses.noecho()
         del query
         screen.refresh()
@@ -159,10 +163,20 @@ def errMsg(msg):
         query.getch()
         del query
         screen.refresh()
+def statusMsg(msg):
+        query=curses.newwin(4, 80, 10, 0)
+        query.box()
+        query.addstr(1, 1, msg)
+        query.addstr(2, 1, "<="+("="*73)+"=>")
+        query.overlay(screen)
+        screen.refresh()
+        query.refresh()
+        del query
 
 def displayGopherObject(addr, host, port, itype=None):
     if(itype in ["9", "g", "I", "s"]):
         if errYesNo("File type is binary. Continue?"):
+            statusMsg("Downloading...")
             page=fetchGopherObject(addr, host, port)
         else:
             if(len(pageStack)>0):
@@ -184,11 +198,12 @@ def displayGopherObject(addr, host, port, itype=None):
         pageStack.append((itype, (addr, host, port)))
         return navGopherMenu(page)
     else:
-        temp=tempfile.NamedTemporaryFile(delete=False)
-        temp.write(page)
-        temp.flush()
-        temp.close()
         if(itype==0):
+            statusMsg("Opening...")
+            temp=tempfile.NamedTemporaryFile(delete=False)
+            temp.write(page)
+            temp.flush()
+            temp.close()
             killCurses()
             os.system(pager+"<"+temp.name)
             initCurses()
@@ -196,6 +211,11 @@ def displayGopherObject(addr, host, port, itype=None):
             dest_filename=queryForInput("Destination path:")
             if(dest_filename):
                 try:
+                    statusMsg("Saving...")
+                    temp=tempfile.NamedTemporaryFile(delete=False)
+                    temp.write(page)
+                    temp.flush()
+                    temp.close()
                     os.copy(temp.name, dest_filename)
                 except Exception as e:
                     errMsg(str(e))
