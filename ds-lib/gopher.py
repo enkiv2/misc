@@ -6,7 +6,7 @@ except:
 
 import socket
 
-GOPHER_ITEM_TYPES=["+", "g", "I", "T", "h", "i", "s"].extend(range(0, 10))
+GOPHER_ITEM_TYPES=["+", "g", "I", "T", "h", "i", "s", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 class GopherInvalidTypeException(Exception):
     def __init__(self):
