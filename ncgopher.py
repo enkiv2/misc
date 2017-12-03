@@ -32,6 +32,7 @@ def killCurses():
 GOPHER_ITEM_TYPES=["+", "g", "I", "T", "h", "i", "s", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 GOPHER_TEXT_TYPES=["0", "1", "5", "i", "h"]
 pageStack=[]
+posStack=[]
 global currentlySelected, selectedLink
 currentlySelected=0
 selectedLink=None
@@ -73,8 +74,6 @@ def displayGopherMenu(page):
 
 def navGopherMenu(page):
     global currentlySelected, offset
-    currentlySelected=0
-    offset=0
     while True:
         displayGopherMenu(page)
         ch=screen.getch()
@@ -83,10 +82,14 @@ def navGopherMenu(page):
         elif ch==curses.KEY_DOWN:
             currentlySelected+=1
         elif ch==curses.KEY_RIGHT:
+            posStack.append((currentlySelected, offset))
+            currentlySelected=0
+            offset=0
             return selectedLink
         elif ch==curses.KEY_LEFT:
             if(len(pageStack)>1):
                 pageStack.pop()
+                (currentlySelected, offset)=posStack.pop()
                 return pageStack.pop()
         elif ch==curses.KEY_NPAGE:
             offset+=curses.LINES/2
@@ -191,6 +194,7 @@ def statusMsg(msg):
         del query
 
 def displayGopherObject(addr, host, port, itype=None):
+    global currentlySelected, offset
     if(itype in ["9", "g", "I", "s"]):
         if errYesNo("File type is binary. Continue?"):
             dest_filename=queryForInput("Destination path:")
@@ -204,19 +208,23 @@ def displayGopherObject(addr, host, port, itype=None):
                     temp.flush()
                     temp.close()
                     if(len(pageStack)>0):
+                        (currentlySelected, offset)=posStack.pop()
                         return pageStack.pop()
                     return None
                 except Exception as e:
                     errMsg(str(e))
                     if(len(pageStack)>0):
+                        (currentlySelected, offset)=posStack.pop()
                         return pageStack.pop()
                     return None
             else:
                 if(len(pageStack)>0):
+                    (currentlySelected, offset)=posStack.pop()
                     return pageStack.pop()
                 return None
         else:
             if(len(pageStack)>0):
+                (currentlySelected, offset)=posStack.pop()
                 return pageStack.pop()
             return None
     else:
@@ -224,6 +232,7 @@ def displayGopherObject(addr, host, port, itype=None):
     if not page:
         errMsg("Couldn't load page gopher://"+str(host)+":"+str(port)+"/"+str(addr))
         if(len(pageStack)>0):
+            (currentlySelected, offset)=posStack.pop()
             return pageStack.pop()
         return None
     if itype==None:
@@ -246,6 +255,7 @@ def displayGopherObject(addr, host, port, itype=None):
             initCurses()
             os.unlink(temp.name)
     if(len(pageStack)>0):
+        (currentlySelected, offset)=posStack.pop()
         return pageStack.pop()
     return None
 
