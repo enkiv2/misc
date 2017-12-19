@@ -968,3 +968,30 @@
 2017-12-18T10:07:08-05:00	Testing 1 2 3...
 2017-12-18T10:07:56-05:00	Testing 1 2 3...
 2017-12-18T10:09:05-05:00	Testing 1 2 3...
+2017-12-18T10:52:47-05:00	Millennials Are Screwed - The Huffington Post http://highline.huffingtonpost.com/articles/en/poor-millennials/
+2017-12-18T11:35:49-05:00	Glowing Auras and ‘Black Money’: The Pentagon’s Myste... https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+2017-12-18T11:44:53-05:00	Heuristic for cleaning up medium: start by unsubscribing from anybody who lists their occupation in their bio. Then, move on to anybody who posts under a name that looks real.
+2017-12-18T12:07:51-05:00	Fu... https://www.theatlantic.com/technology/archive/2017/12/it-might-be-impossible-for-future-historians-to-understand-our-internet/547463/
+2017-12-18T12:08:47-05:00	How our housing choices make adult friendships more difficult - Vox https://www.vox.com/2015/10/28/9622920/housing-adult-friendship
+2017-12-18T12:14:09-05:00	This Is How Visiting A Porn Site Can Make You A Pawn In An Ad Fraud Scheme https://www.buzzfeed.com/craigsilverman/porn-runs-the-internet
+2017-12-18T12:17:20-05:00	The Weaponization of Awkwardness - The... https://www.theatlantic.com/entertainment/archive/2017/12/the-weaponization-of-awkwardness/548291/
+2017-12-18T12:24:18-05:00	White Knight Syndrome | Niela Orr https://thebaffler.com/bread-and-circuses/white-knight-syndrome-orr
+2017-12-18T12:42:21-05:00	Bad idea of the day: voting, except with a 30 year delay, to force people to actually think ahead.
+2017-12-18T12:50:54-05:00	Britain’s imperial dream-catchers and the truths of empi... https://aeon.co/essays/britains-imperial-dream-catchers-and-the-truths-of-empire
+2017-12-18T12:51:58-05:00	band name of the day: default mode network
+2017-12-18T12:56:33-05:00	Can neuroscience rehabilitate Freud for the age of th... https://aeon.co/essays/can-neuroscience-rehabilitate-freud-for-the-age-of-the-brain
+2017-12-18T13:00:33-05:00	How nuclear fears helped inspire creation of the interne... https://aeon.co/essays/how-nuclear-fears-helped-inspire-creation-of-the-internet
+2017-12-18T13:04:55-05:00	Cold War propaganda: the truth belonged to no one country... https://aeon.co/essays/cold-war-propaganda-the-truth-belonged-to-no-one-country
+2017-12-18T13:12:23-05:00	How extreme rituals forge intense social bonds | Aeon Essays https://aeon.co/essays/how-extreme-rituals-forge-intense-social-bonds
+2017-12-18T13:16:18-05:00	The human brain’s bandwidth for visual images is s... https://aeon.co/ideas/the-human-brains-bandwidth-for-visual-images-is-severely-limited
+2017-12-18T13:29:40-05:00	The Not Yorker https://thenotyorker.com/
+2017-12-18T13:34:40-05:00	Unlocking the commons: or, the psychoeconomics of patr... https://kottke.org/17/12/unlocking-the-commons-or-the-psychoeconomics-of-patronage
+2017-12-18T14:15:33-05:00	Emic Automata &amp; Thematic Automata | Storyboard | maetl https://maetl.net/notes/storyboard/generative-writing-with-cellular-automata
+2017-12-18T14:16:51-05:00	This Code Is Remix... https://motherboard.vice.com/en_us/article/vbzvad/this-code-is-remixing-translations-of-the-bible-to-find-new-meanings
+2017-12-18T14:25:00-05:00	This Game Teaches You How to Build a Quantum Compu... https://motherboard.vice.com/en_us/article/a3jkya/quantum-game-physics-computer-puzzle
+2017-12-18T14:30:36-05:00	Odd Comments and Strange Doings in Unix http://9p.io/who/dmr/odd.html
+2017-12-18T14:40:03-05:00	André Staltz - A plan to rescue the Web from the Internet https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html
+2017-12-19T07:29:21-05:00	band name of the day: frolic in secret
+2017-12-19T08:32:15-05:00	microscale http://alestsurko.by/microscale/
+2017-12-19T12:22:04-05:00	Maybe the loss of net neutrality will revitalize interest in muni broadband projects, though they will be more expensive given the loss of common carrier status.
+2017-12-19T12:23:43-05:00	You know a situation is bad when the only way to prevent local monopolies on a popular service is to convince the town to run its own competitor and run cable.

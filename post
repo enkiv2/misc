@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 args="$@"
 t post "$args"
-twtxt tweet "$args"
+yes | twtxt tweet "$args"
 echo "toot $args" | tootstream
 
