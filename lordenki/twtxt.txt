@@ -995,3 +995,67 @@
 2017-12-19T08:32:15-05:00	microscale http://alestsurko.by/microscale/
 2017-12-19T12:22:04-05:00	Maybe the loss of net neutrality will revitalize interest in muni broadband projects, though they will be more expensive given the loss of common carrier status.
 2017-12-19T12:23:43-05:00	You know a situation is bad when the only way to prevent local monopolies on a popular service is to convince the town to run its own competitor and run cable.
+2017-12-19T12:56:40-05:00	band name of the day: sleep spindles
+2017-12-19T12:57:24-05:00	Older Adu... https://www.npr.org/sections/health-shots/2017/12/18/571120472/older-adults-forgetfulness-tied-to-faulty-brain-rhythms-in-sleep
+2017-12-19T13:07:02-05:00	GitHub - Jam3/math-as-code: a cheat-sheet for mathematical notation in code form https://github.com/Jam3/math-as-code
+2017-12-19T13:25:14-05:00	UFO IPO-182 – Take me to your dealer: the Pentagon UFO story, crowdfund... https://boingboing.net/2017/12/18/ufo-ipo-182-take-me-to-you.html
+2017-12-19T13:33:41-05:00	A 1986 ... https://arstechnica.com/information-technology/2017/04/a-1986-bulletin-board-system-has-brought-the-old-web-back-to-life-in-2017/
+2017-12-19T14:13:26-05:00	The Screenless Office http://screenl.es/
+2017-12-20T06:46:48-05:00	Mastodon makes the internet feel like home again | The ... https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again
+2017-12-20T07:16:36-05:00	bowser ❌ on Twitter: &quot;WSJ is quoting the Illuminatus Trilogy, what is ha... https://twitter.com/browserdotsys/status/943233927795355648
+2017-12-20T08:12:06-05:00	GitHub - webyrd/Barliman: Prototype smart text editor https://github.com/webyrd/Barliman
+2017-12-20T08:27:08-05:00	the lost medium https://www.dgsiegel.net/talks/the-lost-medium
+2017-12-20T08:27:54-05:00	Structure and Interpretation of Computer Programmers : ... http://www.sicpers.info/2017/12/falsehoods-programmers-believe-about-programming/
+2017-12-20T08:50:55-05:00	Alex Mordvintsev - Art - NIPS Creativity Art Submission - YouTube https://www.youtube.com/watch?v=1PwY-Hfspoc
+2017-12-20T08:52:15-05:00	Dynamicland https://dynamicland.org/
+2017-12-20T09:11:49-05:00	Storming the Ivory Tower: The Next Homestuck Wil... http://www.stormingtheivorytower.com/2017/12/the-next-homestuck-will-not-be-made-in.html
+2017-12-20T09:37:29-05:00	Why Is Anime Obsessed With Power Lines? - Atlas Obs... https://www.atlasobscura.com/articles/why-power-lines-anime-electrical-infrastructure
+2017-12-20T09:44:55-05:00	band name of the day: members of a bizarre order
+2017-12-20T10:18:10-05:00	The story of early tape music, microsound, ... http://cdm.link/2017/12/the-story-of-early-tape-music-microsound-and-a-eurorack-resurrection/
+2017-12-20T10:24:48-05:00	This frostbitten black meta... https://theoutline.com/post/2556/this-frostbitten-black-metal-album-was-created-by-an-artificial-intelligence
+2017-12-20T10:36:37-05:00	A Priesthood of Programmers &#8211; Jacobite https://jacobitemag.com/2017/12/05/a-priesthood-of-programmers/
+2017-12-20T10:53:49-05:00	Productivity is dangerous | The Outline https://theoutline.com/post/2595/productivity-is-dangerous
+2017-12-20T12:27:13-05:00	Request Rejected http://www.typewritten.org/Media/
+2017-12-21T08:05:44-05:00	Dare to be Stupid: that time Weird Al tried to make fun of Devo and instead just became Devo
+2017-12-21T09:20:19-05:00	Drone-Ver v.1.sleepy.0.0.calamitous.1437363538.7 http://drone-ver.org/
+2017-12-21T09:32:44-05:00	Bad idea of the day: a filter that eggcorn-izes test using substitutions from https://eggcorns.lascribe.net/browse-eggcorns/
+2017-12-22T08:37:02-05:00	I wonder how much more effective trying to use scott/tiger as ackles for arbitrary oracle systems is than arbitrary (say) postgres systems
+2017-12-22T11:59:16-05:00	band name of the day: autometalogolex
+2017-12-22T12:45:19-05:00	Dissecting Software Component&#039;s Reproductive System - 250bpm http://250bpm.com/blog:51
+2017-12-22T16:54:51-05:00	Tommy Wiseau: The Last Auteur - Brows Held High - YouTube https://www.youtube.com/watch?v=V7pUs-9C-gY
+2017-12-22T16:57:36-05:00	Keeping Old Anime Alive in the Age of Simulcasts - YouTube https://www.youtube.com/watch?v=MGeyGbjUCdc
+2017-12-23T09:23:17-05:00	The thing about HTTP is that you should only get a 404 if two meteors simultaneously wiped out both your primary and backup copy (or if it never existed in the first place)
+2017-12-24T18:42:24-05:00	Evolution of Shaft in Openings (1987-2017) - YouTube https://www.youtube.com/watch?v=XAiM6zEwnNE
+2017-12-25T14:37:48-05:00	Fan Service in Anime vs. The Monogatari Series [PART 1] – Subverting Our Biases - YouTube https://www.youtube.com/watch?v=PFQa3dHlHSg
+2017-12-25T14:38:08-05:00	Foreshadowing and Irony in The Monogatari Series [PART 1] - YouTube https://www.youtube.com/watch?v=8qeq2OMfEUc
+2017-12-25T14:38:16-05:00	Foreshadowing and Irony in The Monogatari Series - Why Is Monogatari NOT Chronological? [PART... https://www.youtube.com/watch?v=m78E3bqkVO8
+2017-12-25T14:38:23-05:00	Foreshadowing and Irony in The Monogatari Series - Chekhov&#39;s Gun, Panties &amp; Ougi Oshi... https://www.youtube.com/watch?v=IhRycjAxzg0
+2017-12-25T14:43:32-05:00	Fan Service in Anime vs. The Monogatari Series [PART 2] - Redefining Relationships - YouTube https://www.youtube.com/watch?v=nBT3wH_0NGw
+2017-12-25T16:21:16-05:00	If somebody tells you that their favorite christmas movie is Eyes Wide Shut, run.
+2017-12-26T06:51:38-05:00	Bad idea of the day: mirror all google fonts on ipfs and then use an extension that rewrites the urls to use that version. Alternately: use an extension that downloads them via tor.
+2017-12-26T06:52:00-05:00	Today is boxing day. Celebrate by casting to Object.
+2017-12-26T06:52:25-05:00	Today is boxing day. Celebrate by picking a fight with a kangaroo.
+2017-12-26T07:08:51-05:00	Computer latency: 1977-2017 http://danluu.com/input-lag/
+2017-12-26T07:18:59-05:00	Keyboard latency https://danluu.com/keyboard-latency/
+2017-12-26T07:20:12-05:00	Evil Coding Incantations - Posts http://9tabs.com/random/2017/12/23/evil-coding-incantations.html
+2017-12-26T08:43:39-05:00	OkCupid begins e... https://arstechnica.com/information-technology/2017/12/okcupid-begins-enforcing-real-name-rules-insists-its-a-good-idea/
+2017-12-26T08:44:58-05:00	Text-only news sites are slowly making a comeback.... https://www.poynter.org/news/text-only-news-sites-are-slowly-making-comeback-heres-why
+2017-12-26T09:08:03-05:00	Who Is Reality Winner? http://nymag.com/daily/intelligencer/2017/12/who-is-reality-winner.html
+2017-12-26T11:30:34-05:00	The Human Cost of the Ghost&nbsp;Economy  https://longreads.com/2017/12/13/the-human-cost-of-the-ghost-economy/
+2017-12-26T11:42:58-05:00	Festival 23 - Wonderism, Fake News... http://www.mondo2000.com/2017/12/17/discordian-festival-23-wonderism-fake-news-neo-discordian-revival/
+2017-12-26T11:46:55-05:00	As the year draws to a close it becomes ever more clear: nothing has prepared us for the Strange Times.
+2017-12-26T12:00:53-05:00	Conspiracy theory: Satoshi Nakamoto is the avatar by which Roko's Basilisk walks on this plane.
+2017-12-27T09:32:21-05:00	How I learned to program https://danluu.com/learning-to-program/
+2017-12-27T17:54:24-05:00	Dr Phibes is just steampunk Deadpool
+2017-12-28T11:35:15-05:00	Bad Behavioural Science: Failures, bias and fa... https://jasoncollins.org/2016/05/11/bad-behavioural-science-failures-bias-and-fairy-tales/
+2017-12-28T11:36:14-05:00	GitHub - lf94/blots: A simple paper-based storage format https://github.com/lf94/blots
+2017-12-28T11:38:57-05:00	Not Explicit https://boats.gitlab.io/blog/post/2017-12-27-things-explicit-is-not/?
+2017-12-28T13:38:55-05:00	Analyzing the Gender Representation of 34,476 Comic Book Characters https://pudding.cool/2017/07/comics/
+2017-12-28T13:48:34-05:00	The Future Will be Technical https://coolguy.website/writing/the-future-will-be-technical/background().html
+2017-12-28T14:54:47-05:00	34C3 -  Dude, you broke the Future! - YouTube https://www.youtube.com/watch?v=RmIgJ64z6Y4
+2017-12-28T18:55:03-05:00	Decentralization 2017 https://rbs.io/2017/12/decentralization-2017/
+2017-12-29T13:05:20-05:00	jesus christ quora stop asking me about acronyms
+2017-12-29T13:36:15-05:00	YourLanguageSucks - Theory.org Wiki https://wiki.theory.org/index.php/YourLanguageSucks
+2017-12-29T14:00:11-05:00	GitHub - basic-gongfu/cixl: a minimal scripting language https://github.com/basic-gongfu/cixl
+2017-12-29T14:22:18-05:00	The People That Capitalism Makes | Current Affairs https://www.currentaffairs.org/2017/12/the-people-that-capitalism-makes
+2017-12-30T08:49:05-05:00	It's time for cyberpunk games to remember how to be punk ... http://www.pcgamer.com/its-time-for-cyberpunk-games-to-remember-how-to-be-punk/
