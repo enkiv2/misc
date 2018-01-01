@@ -1059,3 +1059,5 @@
 2017-12-29T14:00:11-05:00	GitHub - basic-gongfu/cixl: a minimal scripting language https://github.com/basic-gongfu/cixl
 2017-12-29T14:22:18-05:00	The People That Capitalism Makes | Current Affairs https://www.currentaffairs.org/2017/12/the-people-that-capitalism-makes
 2017-12-30T08:49:05-05:00	It's time for cyberpunk games to remember how to be punk ... http://www.pcgamer.com/its-time-for-cyberpunk-games-to-remember-how-to-be-punk/
+2017-12-31T09:17:42-05:00	Hypertext Research: The Development of HyperTIES http://www.cs.umd.edu/hcil/hyperties/
+2017-12-31T19:58:16-05:00	The Russian netstalkers are still at it apparently: https://pastebin.com/TPuEZd3m
