@@ -1061,3 +1061,9 @@
 2017-12-30T08:49:05-05:00	It's time for cyberpunk games to remember how to be punk ... http://www.pcgamer.com/its-time-for-cyberpunk-games-to-remember-how-to-be-punk/
 2017-12-31T09:17:42-05:00	Hypertext Research: The Development of HyperTIES http://www.cs.umd.edu/hcil/hyperties/
 2017-12-31T19:58:16-05:00	The Russian netstalkers are still at it apparently: https://pastebin.com/TPuEZd3m
+2018-01-02T11:48:03-05:00	HTML is a mistake. Generating HTML is a bigger mistake. Generating HTML at runtime as a display layer for interactive applications is the basis for modern UIs & I want to cry
+2018-01-02T11:49:40-05:00	If you cannot use it to trivially put a pixel at an X,Y coordinate, YOU SHOULD NOT WRITE A COMPLEX UI IN IT, EXCEPT AS A JOKE.
+2018-01-02T11:54:31-05:00	Web application design is like a generation of people looked at that text adventure written in postscript and said LETS WRITE ALL FIRST PERSON SHOOTERS IN POSTSCRIPT EMBEDDED IN SELF-MODIFYING LATEX DOCUMENTS FOREVER
+2018-01-02T11:58:00-05:00	Describing Words - Find Adjectives to Describe Things http://describingwords.io/
+2018-01-02T12:08:36-05:00	SOME PEOPLE HAVE POINTED OUT THAT WRITING APPS IN POSTSCRIPT IS SANE-ISH. THIS IS TRUE. IT'S HARD TO COME UP WITH COMPARABLE SITUATIONS THAT ARE MORE ABSURD, BECAUSE WE COLLECTIVELY DID THE ABSOLUTE WORST THING AND THEN CONVINCED OURSELVES IT WAS OK.
+2018-01-02T12:11:38-05:00	Web app developers: OF COURSE I DIG THESE TRAIN TUNNELS WITH A JEWEL-ENCRUSTED GOLD DECORATIVE COCKTAIL FORK. EVERYBODY DOES. WHAT DO YOU EXPECT ME TO USE, A TOOTHPICK?
