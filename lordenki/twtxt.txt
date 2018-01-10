@@ -1067,3 +1067,49 @@
 2018-01-02T11:58:00-05:00	Describing Words - Find Adjectives to Describe Things http://describingwords.io/
 2018-01-02T12:08:36-05:00	SOME PEOPLE HAVE POINTED OUT THAT WRITING APPS IN POSTSCRIPT IS SANE-ISH. THIS IS TRUE. IT'S HARD TO COME UP WITH COMPARABLE SITUATIONS THAT ARE MORE ABSURD, BECAUSE WE COLLECTIVELY DID THE ABSOLUTE WORST THING AND THEN CONVINCED OURSELVES IT WAS OK.
 2018-01-02T12:11:38-05:00	Web app developers: OF COURSE I DIG THESE TRAIN TUNNELS WITH A JEWEL-ENCRUSTED GOLD DECORATIVE COCKTAIL FORK. EVERYBODY DOES. WHAT DO YOU EXPECT ME TO USE, A TOOTHPICK?
+2018-01-03T08:45:29-05:00	Proceed With Caution: Let&#x27;s Talk Warning Signs https://tedium.co/2018/01/02/warning-signs-history/
+2018-01-03T09:54:53-05:00	This Is the Most Important Fallacy You’ve Never Heard Of http://nautil.us/issue/55/trust/the-resulting-fallacy-is-ruining-your-decisions
+2018-01-03T09:56:51-05:00	How to Read Mathematics http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
+2018-01-03T12:20:53-05:00	The Coming Software Apocalypse - The Atlantic https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+2018-01-03T15:38:55-05:00	Xuan Luo http://roxanneluo.github.io/PeppersCone.html
+2018-01-03T15:39:31-05:00	GitHub - achlipala/frap: Formal Reasoning About Programs https://github.com/achlipala/frap
+2018-01-03T15:40:15-05:00	Simulating Chutes & Ladders in Python | Pythonic Perambulations http://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/
+2018-01-04T14:28:12-05:00	IRDC 2017 - Tom Ford, Narrative Dungeon Generation - YouTube https://www.youtube.com/watch?v=1Ea57XERywM
+2018-01-04T17:57:57-05:00	Don&#x27;t Be Evil https://logicmag.io/03-dont-be-evil/
+2018-01-05T09:11:07-05:00	GitHub - tombh/texttop: A fully interactive X Linux desktop rendered in TTY and streamable over SSH https://github.com/tombh/texttop
+2018-01-05T09:22:09-05:00	The WELL: State of the World 2018: Bruce... https://people.well.com/conf/inkwell.vue/topics/503/State-of-the-World-2018-Bruce-St-page01.html
+2018-01-05T10:11:53-05:00	Who is Marx now and what can he say to the 21st century? |... https://aeon.co/essays/who-is-marx-now-and-what-can-he-say-to-the-21st-century
+2018-01-05T10:31:26-05:00	Wars are not won by military genius or decisive battles | A... https://aeon.co/ideas/wars-are-not-won-by-military-genius-or-decisive-battles
+2018-01-05T10:37:44-05:00	Ten new principles for good design https://kottke.org/18/01/ten-new-principles-for-good-design
+2018-01-05T10:42:17-05:00	BBC iPlayer - Bletchley Park: Code-breaking'... https://www.bbc.co.uk/iplayer/episode/b069gxz7/bletchley-park-codebreakings-forgotten-genius
+2018-01-05T10:55:06-05:00	Is the Mill Architecture (https://en.wikipedia.org/wiki/Mill_architecture) immune to the new out-of-order-execution attacks, theoretically?
+2018-01-05T10:57:19-05:00	There are two classes of bug. One is where the program doesn't match your mental model of the program. The other is when the problem doesn't match your mental model of the problem. Most bugs are both.
+2018-01-05T11:35:33-05:00	Reality has a surprising amount of detail http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+2018-01-05T11:41:15-05:00	Describing Words - Find Adjectives to Describe Things http://describingwords.io/for/adjective
+2018-01-05T11:55:24-05:00	The Martians Claim Canada | Margaret Atwood | Granta  https://granta.com/martians-claim-canada/
+2018-01-05T12:21:38-05:00	gritty Freakazoid reboot when
+2018-01-05T18:57:29-05:00	Understanding &quot;Hurt&quot; - YouTube https://www.youtube.com/watch?v=H8n78hRFSew
+2018-01-06T09:27:59-05:00	Slavoj Žižek | Maybe We Just Need a New Chicken | Full Film - YouTube https://www.youtube.com/watch?v=hHqY3id5p5Y
+2018-01-08T08:55:08-05:00	Nothing is temporary unless you put in the effort to destroy it. Nothing gets maintained unless you fix it.
+2018-01-08T08:56:36-05:00	If you make something and you aren't OK with the idea of a degraded, broken zombie form of it existing forever, killing it is your responsibility.
+2018-01-08T09:05:03-05:00	The vintage beauty of Soviet control rooms | Ufunk.net http://www.ufunk.net/en/insolite/salles-de-controle-sovietiques-vintage/
+2018-01-08T09:25:12-05:00	These psychedelic stickers blow AI minds  |  TechCrunch https://techcrunch.com/2018/01/02/these-psychedelic-stickers-blow-ai-minds/
+2018-01-08T09:26:13-05:00	How the Sausage Gets Made: The Hidden Work of Content · An A List Apart Article https://alistapart.com/article/the-hidden-work-of-content
+2018-01-08T10:16:43-05:00	Exhilarating if flawed, Colin Wilson helped open my mind |... https://aeon.co/essays/exhilarating-if-flawed-colin-wilson-helped-open-my-mind
+2018-01-08T10:26:15-05:00	Why Foucault&#39;s work on power is more important than ev... https://aeon.co/essays/why-foucaults-work-on-power-is-more-important-than-ever
+2018-01-08T10:35:58-05:00	Wall Of Voodoo - Back In Flesh - YouTube https://www.youtube.com/watch?v=hIiWtGa2TmU
+2018-01-08T10:36:29-05:00	Devo - S.I.B (Swelling itching brain) - YouTube https://www.youtube.com/watch?v=YcaVXeyBR44
+2018-01-08T11:09:59-05:00	Anime Openings openings.moe
+2018-01-08T11:17:04-05:00	Ask Dr. Time: Orality and Literacy from Homer to Twitter https://kottke.org/18/01/ask-dr-time-orality-and-literacy
+2018-01-08T17:46:33-05:00	Free Will and Waifus - The True Horror of Doki Doki Literature Club - YouTube https://www.youtube.com/watch?v=qebsRBIleDY
+2018-01-08T18:16:51-05:00	Finding a CPU Design Bug in the Xbox 360 | Random ... https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/
+2018-01-08T20:38:49-05:00	V7/x86 Home | Robert Nordier http://www.nordier.com/v7x86/
+2018-01-08T20:54:24-05:00	Help Me Somebody ~ Brian Eno - David Byrne - YouTube https://www.youtube.com/watch?v=DxeO0LBR6GY
+2018-01-09T10:10:34-05:00	Permanent Redirect: digital art tha... https://kottke.org/18/01/permanent-redirect-digital-art-that-moves-to-a-new-url-when-someone-views-it
+2018-01-09T14:31:33-05:00	Conway&#39;s Game Of Life in APL - YouTube https://www.youtube.com/watch?v=a9xAKttWgP4
+2018-01-09T20:26:39-05:00	Ted Talking Fast: How Computer Documents Got Dumbed Down-- and the Alternative - YouTube https://www.youtube.com/watch?v=gDrHkNgGQDs
+2018-01-10T08:13:42-05:00	Life in UNIX® V7: an attempt at a simple task | Fun with... https://virtuallyfun.com/2018/01/10/life-in-unix-v7-an-attempt-at-a-simple-task/
+2018-01-10T08:17:05-05:00	&#8220;A Sloppy Machine, Like Me&#8221... https://wearethemutants.com/2018/01/09/a-sloppy-machine-like-me-the-history-of-video-synthesizers/
+2018-01-10T08:25:45-05:00	Google and Others Are Building... https://www.technologyreview.com/s/609762/google-and-others-are-building-ai-systems-that-doubt-themselves/
+2018-01-10T10:11:31-05:00	Self: The Movie; - YouTube https://www.youtube.com/watch?v=Ox5P7QyL774
+2018-01-10T10:11:42-05:00	Self and Self: Whys and Wherefores - YouTube https://www.youtube.com/watch?v=3ka4KY7TMTU
