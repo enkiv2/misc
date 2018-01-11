@@ -51,3 +51,4 @@ Misc:
 Moved:
 
 * [yabot](yabot): [Yet Another irc chatBot](http://github.com/enkiv2/yabot)
+* [Manna for our Malices](Manna for our Malices): [Manna for our Malices](https://github.com/enkiv2/mannaforourmalices)
