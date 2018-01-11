@@ -1113,3 +1113,23 @@
 2018-01-10T08:25:45-05:00	Google and Others Are Building... https://www.technologyreview.com/s/609762/google-and-others-are-building-ai-systems-that-doubt-themselves/
 2018-01-10T10:11:31-05:00	Self: The Movie; - YouTube https://www.youtube.com/watch?v=Ox5P7QyL774
 2018-01-10T10:11:42-05:00	Self and Self: Whys and Wherefores - YouTube https://www.youtube.com/watch?v=3ka4KY7TMTU
+2018-01-10T10:51:07-05:00	Improving Ourselves to Death | The New Yorker https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death
+2018-01-10T11:22:46-05:00	A video game that doesn’t click until you let go of t... https://www.polygon.com/2018/1/9/16851376/everything-best-games-2017-year-in-review
+2018-01-10T11:25:43-05:00	I wonder how long it'll take for people to realize that they should be publishing all their paywalled medium posts on the first of the month...
+2018-01-10T11:28:04-05:00	The Brilliant Fake News of “LiarTown” | The New Yorker https://www.newyorker.com/magazine/2018/01/01/the-brilliant-fake-news-of-liartown
+2018-01-10T12:00:11-05:00	Mental models http://www.defmacro.org/2016/12/22/models.html
+2018-01-10T14:11:20-05:00	A Modern Office with Vintage hardware – ~ajroach42.com – I'm Andrew. I write ... http://ajroach42.com/a-modern-office-with-vintage-hardware/
+2018-01-10T14:14:47-05:00	DIY Media  – ~ajroach42.com – I'm Andrew. I write about the past and future of tech, music, media, cultur... http://ajroach42.com/diy-media/
+2018-01-10T14:17:32-05:00	Wax - Or the Discovery of Television Among the Bees  – ~ajroach42... http://ajroach42.com/wax-or-the-discovery-of-television-among-the-bees/
+2018-01-10T14:28:03-05:00	Plaque in Circulation: Dec... https://99percentinvisible.org/article/plaque-circulation-deciphering-philadelphias-sidewalk-easement-markers/
+2018-01-10T14:28:29-05:00	Self-Contained Cities: ... https://99percentinvisible.org/article/self-contained-cities-hyperdense-arcologies-urban-fiction-utopian-fantasy/
+2018-01-10T14:29:06-05:00	Cory Doctorow: Persuasion, Adaptati... http://locusmag.com/2018/01/cory-doctorow-persuasion-adaptation-and-the-arms-race-for-your-attention/
+2018-01-10T18:07:53-05:00	Band name of the day: instant literature
+2018-01-10T18:08:08-05:00	Band name of the day: a vision for the macrocosm
+2018-01-10T18:08:24-05:00	Band name of the day: that oddly heroic act of postponement
+2018-01-10T18:08:44-05:00	Band name of the day: explode the palimpsest
+2018-01-10T18:08:56-05:00	Band name of the day: a literature of exhaustion
+2018-01-10T18:10:46-05:00	#nanogenmo idea: a database of loosely-related epigrams or paragraphs, tagged by topic; going to a topic displays the associated epigrams in arbitrary order. the tags are generated from analysis of the text.
+2018-01-10T18:11:56-05:00	we need more books designed to be packaged as decks of playing cards. the family arcana is great but not enough.
+2018-01-10T18:19:47-05:00	The OpenBSD web stack, by Michael W. Lucas (EuroBSDcon 2017) - YouTube https://www.youtube.com/watch?v=BLwAcruM65A
+2018-01-10T19:09:12-05:00	Band name of the day: experiments in tone
