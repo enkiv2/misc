@@ -1155,3 +1155,55 @@
 2018-01-11T12:02:43-05:00	we have established that soup can be a sandwich -- but can it be a vehicle?
 2018-01-11T12:11:33-05:00	Band name of the day: cosmic ear bakery
 2018-01-11T12:26:02-05:00	A Tiny New York Town With Not One, But 5 Indie Bookstores - Atlas Obscura https://www.atlasobscura.com/articles/hobart-book-village
+2018-01-11T18:23:05-05:00	From Machen to VanderMeer: The Weird Landscape as th... http://weirdfictionreview.com/2018/01/machen-vandermeer-weird-landscape-avatar-evil/
+2018-01-11T19:14:26-05:00	Band name of the day: moon logic
+2018-01-12T08:00:09-05:00	GitHub - mewo2/ketchum: Use word vectors to interactively generate lists of similar words https://github.com/mewo2/ketchum
+2018-01-12T10:37:58-05:00	Steve Jobs has been dead for 10 years but Apple (& the rest of us too) still hasn't recovered from poor decisions he made in 1981. Come on guys, get with the program.
+2018-01-12T10:40:33-05:00	This shit is my jam: http://botnik.org/apps/writer/?source=5e1146383c382d6a9d2bf9c879fa4d1f http://botnik.org/apps/writer/?source=fd5562a2ed723d22d654d384b165a819
+2018-01-12T12:42:47-05:00	Band name of the day: a mysterious force
+2018-01-12T12:51:50-05:00	Band name of the day: unadaptable cinema
+2018-01-12T14:24:17-05:00	Band name of the day: drink the web
+2018-01-12T15:10:46-05:00	https://imgur.com/gallery/lUTV2
+2018-01-13T14:14:20-05:00	The Problem With Card Game Anime - YouTube https://www.youtube.com/watch?v=CJ6YeGCM1wo
+2018-01-13T14:14:38-05:00	Richard Williams- Animating Movement - YouTube https://www.youtube.com/watch?v=iWAwfXsYMrA
+2018-01-13T14:15:12-05:00	WATCH OLD ANIME - YouTube https://www.youtube.com/watch?v=1ztNup6Xlew
+2018-01-13T14:15:49-05:00	William Gibson: The Gernsback Continuum - Semiotic Ghosts - #8 - YouTube https://www.youtube.com/watch?v=dWjhxhMI-Qo
+2018-01-13T14:16:34-05:00	Devilman Crybaby - Instant AOTY? - YouTube https://www.youtube.com/watch?v=5bGjnA30XYw
+2018-01-13T14:16:53-05:00	How Good is: Devilman Crybaby? - YouTube https://www.youtube.com/watch?v=cQQYD0Ia5fA
+2018-01-13T14:18:32-05:00	Thinking Weirdly with China Miéville - Los Angeles Review of ... https://lareviewofbooks.org/article/thinking-weirdly-with-china-mieville/#!
+2018-01-13T14:19:37-05:00	Band name of the day: cognitive estrangement
+2018-01-13T14:23:49-05:00	Band name of the day: strange tricks of cartography
+2018-01-13T14:26:19-05:00	Band name of the day: the crashing crescendo
+2018-01-13T14:46:51-05:00	Bad idea of the day: Distribute a copy of Society of the Spectacle in the form of playing cards
+2018-01-13T15:00:00-05:00	We need tools that will encourage us to do what Jefferson did to his bible with razors and glue. These tools will be discouraged and limited for the same reason that these practices were discouraged on the bible.
+2018-01-14T09:51:15-05:00	A Constructive Look At TempleOS http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
+2018-01-14T10:03:13-05:00	OFFSystem - Wikipedia https://en.wikipedia.org/wiki/OFFSystem
+2018-01-14T10:03:50-05:00	Named data networking - Wikipedia https://en.wikipedia.org/wiki/Named_data_networking
+2018-01-14T10:14:57-05:00	NDN – Why Bother? — NDN Tutorial at ACM SIGCOMM 2017 – Van Jacobson - YouTube https://www.youtube.com/watch?v=uvnP-_R-RYA
+2018-01-14T12:22:10-05:00	Band name of the day: whimsical doodles of fireproof hell-flesh
+2018-01-14T12:27:03-05:00	Band name of the day: whimsical doodles of fireproof hell-flesh
+2018-01-14T12:31:21-05:00	A look at Barbara Kruger and Jenny ... https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-use-of-typographic-art/
+2018-01-14T16:16:37-05:00	Sustainable community education through WTFM http://web.archive.org/web/20170416184606/http://www.roaming-initiative.com/blog/posts/wtfm
+2018-01-15T07:05:01-05:00	Doki Doki Literature Club - A Metamodern Horror Game - YouTube https://www.youtube.com/watch?v=UgTTDdzxqdo
+2018-01-15T07:45:43-05:00	The Importance of Being Mishima Yukio | Nippon.com https://www.nippon.com/en/column/g00471/
+2018-01-15T07:50:20-05:00	Band name of the day: innovation theatre
+2018-01-15T07:56:55-05:00	Band name of the day: command phrase
+2018-01-15T08:09:12-05:00	Bad idea of the day: Instead of ads mining bitcoins in your browser, they run IPFS nodes and pin arbitrary hashes in browser persistent storage then store them.
+2018-01-15T08:14:54-05:00	Grid computing - Wikipedia https://en.wikipedia.org/wiki/Grid_computing
+2018-01-15T08:27:15-05:00	Band name of the day: proof of burn
+2018-01-15T08:34:11-05:00	Band name of the day: the noonday demon
+2018-01-15T08:34:22-05:00	How to Think Like a Medieval Monk | Lapham’s Quarterly https://www.laphamsquarterly.org/roundtable/how-think-medieval-monk
+2018-01-15T08:55:01-05:00	pos2tracery https://www.npmjs.com/package/pos2tracery
+2018-01-15T08:56:44-05:00	Band name of the day: snarf buffer
+2018-01-15T09:09:46-05:00	Bad idea of the day: Cryptocurrency but the proof of work is computing a giant-ass rainbow table
+2018-01-15T09:10:17-05:00	Bad idea of the day: Cryptocurrency but the proof of work is burning dollar bills on live television
+2018-01-15T09:11:02-05:00	Bad idea of the day: Cryptocurrency but the proof of work is making and serving coffee
+2018-01-15T09:12:14-05:00	Bad idea of the day: A book-length work of fiction that contains no nouns
+2018-01-15T09:16:49-05:00	Bad idea of the day: Cryptocurrency but the proof of work is unclassifiable acts of kindness toward disadvantaged strangers
+2018-01-15T09:21:29-05:00	If I resurrected my newsletter, would anybody subscribe? I'm thinking of modifying the format to have it contain the content I usually post on Medium, and then paywall the Medium essays for a month. (So, subscribers would be getting the free essays early.)
+2018-01-15T09:35:08-05:00	Foreclosing on the future of the book https://kottke.org/18/01/foreclosing-on-the-future-of-the-book
+2018-01-15T09:41:40-05:00	Band name of the day: new lines for a new mind
+2018-01-15T09:49:56-05:00	Bad idea of the day: An ebook reader program in two columns, where the second column is specifically for recording personal marginal notes & is the same size as the book's text itself -- notes pinned to the paragraph, line, or sentence. Call it 'MARGINAL'.
+2018-01-15T09:56:19-05:00	Band name of the day: scriptorium
+2018-01-15T09:57:06-05:00	Band name of the day: refocus the system
+2018-01-15T18:26:27-05:00	Band name of the day: too many facts about blood
