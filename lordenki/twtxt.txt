@@ -1243,3 +1243,95 @@
 2018-01-17T09:54:30-05:00	Band name of the day: loud telegrams
 2018-01-17T10:33:40-05:00	Band name of the day: the attaining gigantick dimensions
 2018-01-17T10:36:52-05:00	Philip K. Dick and the Fake Humans | Boston Review https://bostonreview.net/literature-culture/henry-farrell-philip-k-dick-and-fake-humans
+2018-01-17T11:52:04-05:00	Document Your Art: How to Archive – ~ajroach42.com – I'm Andrew. I write about the... http://ajroach42.com/document-your-art-how-to-archive/
+2018-01-17T11:53:04-05:00	Open psychology data: Raw data from online personality tests https://openpsychometrics.org/_rawdata/
+2018-01-17T11:54:45-05:00	Band name of the day: competitive self-play
+2018-01-17T12:02:33-05:00	ffwd: delegation is (much) faster than you think | the... https://blog.acolyer.org/2017/12/04/ffwd-delegation-is-much-faster-than-you-think/
+2018-01-17T12:04:18-05:00	FM Backscatter: Enabling connected cities... https://blog.acolyer.org/2017/04/28/fm-backscatter-enabling-connected-cities-and-smart-fabrics/
+2018-01-17T12:05:28-05:00	Accelerating innovation through analogy mining | the ... https://blog.acolyer.org/2017/09/14/accelerating-innovation-through-analogy-mining/
+2018-01-17T12:08:42-05:00	Struc2vec: learning node representa... https://blog.acolyer.org/2017/09/15/struc2vec-learning-node-representations-from-structural-identity/
+2018-01-18T07:06:52-05:00	Band name of the day: unconventional halos
+2018-01-18T07:45:42-05:00	Band name of the day: surrealistic makeup effects
+2018-01-18T07:47:59-05:00	GitHub - jedisct1/piknik: Copy/paste anything over the network https://github.com/jedisct1/piknik
+2018-01-18T09:30:40-05:00	The occult roots of higher-dimensional research in phys... https://aeon.co/essays/the-occult-roots-of-higher-dimensional-research-in-physics
+2018-01-18T10:05:10-05:00	GitHub - yaronn/blessed-contrib: Build terminal dashboards using ascii/ansi art and javascript https://github.com/yaronn/blessed-contrib
+2018-01-18T10:51:37-05:00	io guide http://iolanguage.org/guide/guide.html
+2018-01-19T14:06:09-05:00	Post-work: the radical idea of a world wi... https://www.theguardian.com/news/2018/jan/19/post-work-the-radical-idea-of-a-world-without-jobs
+2018-01-19T14:34:03-05:00	Tutorial https://jsandler18.github.io/
+2018-01-21T11:15:28-05:00	Ted Nelson on What Moder... https://spectrum.ieee.org/video/geek-life/profiles/ted-nelson-on-what-modern-programmers-can-learn-from-the-past
+2018-01-21T12:44:44-05:00	Too Many Requests https://www.reddit.com/r/anime/comments/7rywat/masaaki_yuasa_ama_overview/
+2018-01-21T12:44:57-05:00	I am Masaaki Yuasa, Director of Lu Over t... https://www.reddit.com/r/anime/comments/7rypm2/i_am_masaaki_yuasa_director_of_lu_over_the_wall/
+2018-01-21T15:49:58-05:00	Band name of the day: combined horse
+2018-01-21T16:43:18-05:00	Band name of the day: the border of the haunted stars
+2018-01-21T16:57:21-05:00	A Demented Trading Bot Tweets Absurdist Marke... https://creators.vice.com/en_us/article/59p9nd/demented-trading-bot-absurdist-market-advice
+2018-01-21T17:30:30-05:00	Band name of the day: the count's phantom planet
+2018-01-22T07:55:52-05:00	If you want to snarf up the Project Stargate documents, now is the time: https://www.cia.gov/library/readingroom/collection/crest-25-year-program-archive
+2018-01-22T09:10:36-05:00	The Story of &#39;Hyperch... https://motherboard.vice.com/en_us/article/bjyav3/the-story-of-hyperchess-a-3d-chess-game-inspired-by-star-trek
+2018-01-22T09:18:47-05:00	EXTREMELY ONLINE — Real Life http://reallifemag.com/issue-extremely-online/
+2018-01-22T09:21:19-05:00	How to Do Things With Memes — Real Life http://reallifemag.com/how-to-do-things-with-memes/
+2018-01-22T09:22:43-05:00	Band name of the day: the speech acts
+2018-01-22T09:23:07-05:00	Band name of the day: how to do things with notes
+2018-01-22T09:23:53-05:00	Band name of the day: the collapsing contexts
+2018-01-22T09:24:30-05:00	Band name of the day: the exploding palimpsests
+2018-01-22T10:02:08-05:00	Band name of the day: the ends of sleep
+2018-01-22T10:05:05-05:00	Band name of the day: home taping
+2018-01-22T10:39:17-05:00	Historic Tale Construction Kit - Bayeux https://htck.github.io/bayeux/
+2018-01-22T10:56:33-05:00	Programming and proving with distributed protocol... https://blog.acolyer.org/2018/01/22/programming-and-proving-with-distributed-protocols/
+2018-01-22T11:01:06-05:00	A general purpose counting filter: making e... https://blog.acolyer.org/2017/08/08/a-general-purpose-counting-filter-making-every-bit-count/
+2018-01-22T11:02:10-05:00	Adversarial examples for evaluatin... https://blog.acolyer.org/2017/09/13/adversarial-examples-for-evaluating-reading-comprehension-systems/
+2018-01-22T11:06:35-05:00	Universal adversarial perturbations | the morning paper https://blog.acolyer.org/2017/09/12/universal-adversarial-perturbations/
+2018-01-22T11:08:09-05:00	On the design of distributed programming models | th... https://blog.acolyer.org/2017/08/17/on-the-design-of-distributed-programming-models/
+2018-01-22T11:08:15-05:00	Band name of the day: the partial failures
+2018-01-22T11:11:32-05:00	Writing parsers like it is 2017 | the morning paper https://blog.acolyer.org/2017/08/15/writing-parsers-like-it-is-2017/
+2018-01-22T11:15:21-05:00	Ocean of Awareness https://jeffreykegler.github.io/Ocean-of-Awareness-blog/
+2018-01-23T09:57:48-05:00	GitHub - x0rz/tweetentropy: Twitter as an extra entropy source https://github.com/x0rz/tweetentropy
+2018-01-23T11:14:33-05:00	Why a Radical 1970s Science Group Is M... https://www.atlasobscura.com/articles/radical-1970s-group-relevant-science-for-the-people-politics
+2018-01-23T12:00:06-05:00	TIL: doing google image search for 'japanese <built structure>' is useless for finding reference images for contemporary japanese architecture. 'anime <built structure>' works much better.
+2018-01-23T13:07:06-05:00	Wikipedia Day 2018 NYC on Livestream https://livestream.com/internetsociety/wikidaynyc/videos/168540333
+2018-01-23T16:07:50-05:00	Rajneeshpuram | Down the Rabbit Hole - YouTube https://www.youtube.com/watch?v=Gwx9nqknu-c
+2018-01-23T16:08:48-05:00	Devilman Crybaby The Art of Stylization - YouTube https://www.youtube.com/watch?v=s2WvS8PgqGU
+2018-01-23T16:11:38-05:00	Jordan Stole The Precious Slam - YouTube https://www.youtube.com/watch?v=vR5HJp_xXRs
+2018-01-23T16:28:48-05:00	DDLC and Undertale&#39;s Fan-made Happy Endings - YouTube https://www.youtube.com/watch?v=HxSM6_BLb90
+2018-01-24T08:24:31-05:00	Botnik Studios http://botnik.org/content/fire-and-fury.html
+2018-01-24T08:25:16-05:00	Botnik Studios http://botnik.org/content/kings-dominion.html
+2018-01-24T08:51:21-05:00	Bad idea of the day: Stop distinguishing between wartime non-civillian killings and non-wartime civillian killings, and have all actions during war subject to regular police investigation and trial by jury.
+2018-01-24T10:17:14-05:00	Nightcore - Its Your Move - YouTube https://www.youtube.com/watch?v=SceFx1vNCro
+2018-01-24T14:30:49-05:00	ActivityPub https://www.w3.org/TR/2018/REC-activitypub-20180123/
+2018-01-24T17:51:01-05:00	Band name of the day: the livid farts from the butt of a lesser god
+2018-01-25T09:20:23-05:00	Getting down and medieval: the sex lives of the Middle ... https://aeon.co/essays/getting-down-and-medieval-the-sex-lives-of-the-middle-ages
+2018-01-25T09:31:37-05:00	Why is pop culture obsessed with battles between go... https://aeon.co/essays/why-is-pop-culture-obsessed-with-battles-between-good-and-evil
+2018-01-25T10:04:23-05:00	Selected Papers, 1977 : Theodor Holm Nelson : Free Download &amp; Streaming : Internet Arc... https://archive.org/details/SelectedPapers1977
+2018-01-25T10:42:18-05:00	Band name of the day: vomit draft
+2018-01-25T10:54:37-05:00	Under Neoliberalism, You Can Be Your Own Tyrannica... https://jacobinmag.com/2018/01/under-neoliberalism-you-can-be-your-own-tyrannical-boss
+2018-01-25T10:55:06-05:00	Paper Programs https://paperprograms.org/
+2018-01-25T10:57:56-05:00	The Online Hell of Amazon&#39;s Mechanical Turk - The... https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/
+2018-01-25T11:05:44-05:00	Engineered for Dystopia | David A. Banks https://thebaffler.com/latest/engineered-for-dystopia-banks
+2018-01-25T11:36:23-05:00	The crazy years - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/01/the-crazy-years.html
+2018-01-25T11:41:08-05:00	Pixelized 16-bit portrait of Ben Franklin from the 1840s https://kottke.org/18/01/pixelized-16-bit-portrait-of-ben-franklin-from-the-1840s
+2018-01-25T11:45:21-05:00	Ask Dr. Time: What Should I Call My AI? https://kottke.org/18/01/ask-dr-time-what-should-i-call-my-ai
+2018-01-25T16:54:17-05:00	Weird Old Anime: The Arthouse Filler Movie - YouTube https://www.youtube.com/watch?v=Xd1P0Li54-g
+2018-01-25T18:55:17-05:00	Band name of the day: the extra-believable socks
+2018-01-27T13:39:41-05:00	Why the Oscars Don&#39;t &quot;Get&quot; Animation - Especially Anime - YouTube https://www.youtube.com/watch?v=CfyMD5rSK50
+2018-01-28T18:28:28-05:00	UI Design Tips for visual novels &#8211; Studio Th... http://dev.studiotheophilus.com/index.php/2018/01/14/ui-design-tips-for-visual-novels/
+2018-01-29T07:59:58-05:00	Storming the Ivory Tower: BLAME!: The End of Cyberpunk http://www.stormingtheivorytower.com/2018/01/blame-end-of-cyberpunk.html
+2018-01-29T08:31:59-05:00	Knowing One&#8217;s Place &#8211; Jacobite https://jacobitemag.com/2018/01/29/knowing-ones-place/
+2018-01-29T08:38:39-05:00	How Schopenhauer’s thought can illuminate a midlife crisi... https://aeon.co/ideas/how-schopenhauers-thought-can-illuminate-a-midlife-crisis
+2018-01-29T10:09:50-05:00	Band name of the day: destructive deduction
+2018-01-29T10:10:04-05:00	Band name of the day: schwerpunk
+2018-01-29T10:29:51-05:00	MCD | Making the Music of the Mazg https://www.mcdbooks.com/features/sourdough
+2018-01-29T10:33:15-05:00	Bad idea of the day: Feed all those KMart recordings into sample-rnn and generate infinite automatic mallsoft
+2018-01-29T10:33:30-05:00	Band name of the day: infinite automatic mallsoft
+2018-01-29T11:05:36-05:00	More Than 750 American Communities Have Built Their Own Int... https://motherboard.vice.com/en_us/article/a3np4a/new-municipal-broadband-map
+2018-01-29T11:13:16-05:00	Da Share Z0ne’s Admin Wants You to ... https://motherboard.vice.com/en_us/article/mbpyyb/da-share-zone-the-devils-level-admin-dril-interview
+2018-01-29T11:18:04-05:00	JS things I never knew existed http://air.ghost.io/js-things-i-never-knew-existed/
+2018-01-29T11:20:23-05:00	Beware the Near Enemies (In Life & Tech) http://blog.pamelafox.org/2018/01/beware-near-enemies-in-life-tech.html
+2018-01-29T11:20:30-05:00	Band name of the day: the near enemies
+2018-01-29T11:28:42-05:00	The Deep Roots of an ... https://www.atlasobscura.com/articles/deep-roots-italian-song-sounds-like-english-american-medieval-comedy-nonsense
+2018-01-29T11:35:58-05:00	The Roots of Romanticism in David Bowie&#39;s Berlin T... https://www.popmatters.com/david-bowie-berlin-triptych-romanticism-2528071219.html
+2018-01-29T11:41:16-05:00	Band name of the day: primary vision
+2018-01-29T13:00:35-05:00	Animating Virtualities in Net-juu no Susume - YouTube https://www.youtube.com/watch?v=Ggo7jpFBaTE
+2018-01-29T16:47:18-05:00	Band name of the day: the lovesick dead
+2018-01-29T17:39:38-05:00	Junji Ito: Master of Horror in Comics - Comic Tropes (Episode 75) - YouTube https://www.youtube.com/watch?v=5GxHtLyI4TQ
+2018-01-29T17:46:00-05:00	Band name of the day: the death stench
+2018-01-30T07:48:23-05:00	Tank! (from Cowboy Bebop) - YouTube https://www.youtube.com/watch?v=0iKpIh6xonc
+2018-01-30T08:44:51-05:00	Band name of the day: the garden of hours

@@ -20,3 +20,5 @@ x bbox println
 "Y:" println
 y bbox println
 
+
+while(Scheduler yieldingCoros size > 1, yield)
