@@ -8,13 +8,14 @@ for item in "$@" ; do
 		tr -d ':\r' |
 		grep -v 'label _' | awk '
 			/^label / { 
+				print "\"" $2 "\""
 				if(curr_label)
-					print curr_label " -> " $2 ";"
+					print "\"" curr_label "\" -> \"" $2 "\";"
 				curr_label=$2
 			} 
 			/^jump/ { 
 				print curr_label " -> " $2 ";" 
-			}' | sort | uniq
+			}' | grep '[A-Za-z]' | sort | uniq
 done | awk '
 		
 	BEGIN { 
@@ -33,21 +34,23 @@ done | awk '
 	}
 	END {
 		print "subgraph cluster_" c["start"] " {"
-		print x["start"]
+		print "start;"
 		print "style=\"rounded,dashed\";"
 		print "color=blue;"
 		print "labelalloc=b;"
 		print "label=\"" c["start"] "\";"
 		print "}"
+		print x["start"]
 		for (i in x)
 			if(i!="start") {
 				print "subgraph cluster_" c[i] "{"
-				print x[i]
+				print i ";"
 				print "style=\"rounded,dashed\";"
 				print "color=blue;"
 				print "labelalloc=b;"
 				print "label=\"" c[i] "\";"
 				print "}"
+				print x[i]
 			}
 		print "}"
 	}' 
