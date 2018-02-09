@@ -1363,3 +1363,76 @@
 2018-02-01T15:54:28-05:00	The problem with building a “fair” system - O&#39;Reilly Media https://www.oreilly.com/ideas/the-problem-with-building-a-fair-system
 2018-02-01T16:04:55-05:00	DJ Cummerbund - Jereloose - YouTube https://www.youtube.com/watch?v=92wH9qBqTh4
 2018-02-01T18:10:32-05:00	But what is the Fourier Transform?  A visual introduction. - YouTube https://www.youtube.com/watch?v=spUNpyF58BY
+2018-02-02T06:54:31-05:00	Black Mirror and The History of Science Fiction - YouTube https://www.youtube.com/watch?v=hr9_DcO6G3A
+2018-02-02T11:12:31-05:00	bixlee - pretty hate mashing (nine inch nails mashup album) - YouTube https://www.youtube.com/watch?v=bwXVEzfIzpo
+2018-02-02T11:22:27-05:00	Solder History: The Unsung Hero of Digital Electronics https://tedium.co/2018/01/25/soldering-technology-history/
+2018-02-02T15:03:44-05:00	Understanding &quot;Life On Mars?&quot; - YouTube https://www.youtube.com/watch?v=pY27JurC1Y0
+2018-02-03T16:58:08-05:00	Lemon Demon - Redesign Your Logo - YouTube https://www.youtube.com/watch?v=qImHuiYnVQ0
+2018-02-03T16:58:18-05:00	&quot;Weird Al&quot; Yankovic - Mission Statement - YouTube https://www.youtube.com/watch?v=GyV_UG60dD4
+2018-02-04T18:01:16-05:00	Band name of the day: a frightening inheritance
+2018-02-05T08:14:57-05:00	Why We're Drawn To Time Loop Stories Like 'Groundhog Day' - Digg http://digg.com/2018/time-loop-movies-shows-books-groundhog-day
+2018-02-05T09:28:42-05:00	Band name of the day: external shrinkage
+2018-02-05T09:39:19-05:00	Band name of the day: we will ruin you
+2018-02-05T09:40:31-05:00	Bad idea of the day: set your voice assistant's wake word to 'OK computer'
+2018-02-05T09:41:39-05:00	Band name of the day: the taking of weapons
+2018-02-05T10:16:23-05:00	Cringe and the Design of Sacred Experiences https://www.ribbonfarm.com/2018/01/11/cringe-and-the-design-of-sacred-experiences/
+2018-02-05T10:31:46-05:00	Profile: Barbara Kruger on Trump, Supreme, &am... https://www.thecut.com/2018/02/profile-barbara-kruger-on-trump-supreme-and-harassment.html
+2018-02-05T12:52:21-05:00	'Blow' is an archaic term for 'blossom' in both its verb and noun sense, & that's beautiful
+2018-02-05T13:47:53-05:00	Ted Nelson: What We Can Still Learn from Xanadu - The New Stack https://thenewstack.io/ted-nelson-can-still-learn-xanadu/
+2018-02-05T14:49:24-05:00	GitHub - Zulko/moviepy: Video editing with Python https://github.com/Zulko/moviepy
+2018-02-05T14:50:35-05:00	Linguistic bots explain why big gr... https://arstechnica.com/science/2018/02/linguistic-bots-explain-why-big-groups-produce-simple-grammar/
+2018-02-05T14:55:55-05:00	The Social Dynamics of Programming Together in Dynamicland https://dynamicland.org/research-notes/social-dynamics-of-programming-together/
+2018-02-05T15:22:26-05:00	Manifesto Jam - itch.io https://itch.io/jam/manifesto-jam
+2018-02-05T18:35:14-05:00	Band name of the day: the mysterious night visitor
+2018-02-06T08:30:23-05:00	The Age of Creativity · The Walrus https://thewalrus.ca/the-age-of-creativity/
+2018-02-06T08:50:17-05:00	Why I barely read SF these days - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/02/why-i-barely-read-sf-these-day.html
+2018-02-06T10:45:00-05:00	The Darkness Before the Right - The Awl https://www.theawl.com/2015/09/the-darkness-before-the-right/
+2018-02-06T19:39:08-05:00	Jordan Peterson’s Bullshit https://jacobinmag.com/2018/02/jordan-peterson-enlightenment-nietzsche-alt-right
+2018-02-07T08:37:09-05:00	Rather than sending advertisements into outer space, it would be really nice if we made it so that Facebook and Twitter would run reasonably on six month old mid-market desktop computers. These JS timeouts are annoying.
+2018-02-07T11:02:15-05:00	Bad idea of the day: playing cards with oblique strategies on tghem
+2018-02-07T11:47:18-05:00	Tools, substitutes or compani... https://cyberselves.org/2018/02/05/tools-substitutes-or-companions-metaphors-for-thinking-about-technology/
+2018-02-07T12:43:05-05:00	Early Legal Streaming Services: Why Pressplay and MusicNet ... https://tedium.co/2018/01/30/legal-music-streaming-history/?utm_source=Tedium
+2018-02-07T12:49:42-05:00	Doki Doki Literature Club (Zero Punctuation) - YouTube https://www.youtube.com/watch?v=krq6-1ht_kk
+2018-02-07T13:01:10-05:00	Blue men of the Minch - Wikipedia https://en.wikipedia.org/wiki/Blue_men_of_the_Minch
+2018-02-07T16:46:27-05:00	Dog World Pilot Animatic on Vimeo https://vimeo.com/48994457
+2018-02-07T17:39:13-05:00	Bad idea of the day: spaghetti and cakeballs in a cinnamon-sugar-butter sauce
+2018-02-08T07:44:39-05:00	Longbox History: The Compact Disc&#x27;s Wasteful Container https://tedium.co/2018/02/06/compact-disc-longbox-history/
+2018-02-08T07:51:26-05:00	Band name of the day: let them eat art
+2018-02-08T08:14:47-05:00	The House That Spied on Me https://gizmodo.com/the-house-that-spied-on-me-1822429852
+2018-02-08T08:50:00-05:00	The Hyperbolic Geometry of DMT Experiences: Symmetries... https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/
+2018-02-08T08:53:57-05:00	bell hooks talks to John Perry Barlow - Lion&#039;s Roar https://www.lionsroar.com/bell-hooks-talks-to-john-perry-barlow/
+2018-02-08T08:57:19-05:00	Band name of the day: a sleeping suit for air-raid nights
+2018-02-08T09:09:28-05:00	Why the Culture Wins: An Appreciation of Iain M. Banks &#8... http://sciphijournal.org/why-the-culture-wins-an-appreciation-of-iain-m-banks/
+2018-02-08T09:44:34-05:00	Linguistics Using Category Theory | The n-Category Caf&#... https://golem.ph.utexas.edu/category/2018/02/linguistics_using_category_the.html
+2018-02-08T09:48:53-05:00	GitHub - chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application ... https://github.com/chriskiehl/Gooey
+2018-02-08T09:49:55-05:00	Labouring in the digital economy: The people making content (in)visible o... https://www.diggitmagazine.com/column/labouring-digital-economy
+2018-02-08T11:43:09-05:00	GitHub - automerge/automerge: A JSON-like data structure that can be modified concurrently by diff... https://github.com/automerge/automerge
+2018-02-08T11:51:54-05:00	You can now play with Spotify’s rec... https://www.theverge.com/tldr/2018/2/5/16974194/spotify-recommendation-algorithm-playlist-hack-nelson
+2018-02-08T11:55:49-05:00	I Spent Tw... https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/
+2018-02-08T12:14:20-05:00	Meet the pirate queen making aca... https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit
+2018-02-08T16:16:03-05:00	When Amazon Opens Warehouses - The Atlantic https://www.theatlantic.com/business/archive/2018/02/amazon-warehouses-poor-cities/552020/
+2018-02-08T16:36:10-05:00	Band name of the day: an explosion was audible within each toad
+2018-02-08T17:14:11-05:00	Band name of the day: international orbit
+2018-02-08T17:25:56-05:00	The Cult of Debt Forgiveness - YouTube https://www.youtube.com/watch?v=3ec2WLyUtbA
+2018-02-08T17:28:15-05:00	Beating Film Censorship in China: Online Big Movies - YouTube https://www.youtube.com/watch?v=lyj7A6iD9Nk
+2018-02-08T17:42:50-05:00	How to Survive a Harem Anime - Public Service Anime - YouTube https://www.youtube.com/watch?v=6FmtiDbg4xY
+2018-02-09T07:09:21-05:00	[1511.04206] Quantum algorithms: an overview https://arxiv.org/abs/1511.04206
+2018-02-09T07:10:51-05:00	How To Become A Centaur https://jods.mitpress.mit.edu/pub/issue3-case
+2018-02-09T07:11:46-05:00	Band name of the day: the enforcement specialists
+2018-02-09T07:11:58-05:00	Band name of the day: the brood parasites
+2018-02-09T07:12:21-05:00	Band name of the day: the parasite brood
+2018-02-09T07:16:36-05:00	Bad idea of the day: at a wedding, the bride, groom, bridesmaids, and best man all wear identical suits and photorealistic masks of Richard K. James
+2018-02-09T07:26:28-05:00	Your periodic reminder that I am running a no-budget film contest again this year. If you plan to make a no-budget film, submit it. If you want an excuse to make one, you have one now.
+2018-02-09T07:27:41-05:00	Announcing the 2018 No-Budget Film Contest – Rococo Mo... https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-02-09T07:30:11-05:00	Band name of the day: thanatosis
+2018-02-09T08:48:37-05:00	Bad idea of the day: a claw machine except it's a fishing pole with a hook on the end
+2018-02-09T10:10:29-05:00	Guidelines for future hypertext systems – Rococo Modem Ba... https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/guidelines-for-future-hypertext-systems-647b6a10f7dd
+2018-02-09T11:32:41-05:00	Bad idea of the day: ESP32 throwies with flash memory as store-and-forward nodes for an incrementally growing DHT
+2018-02-09T11:36:23-05:00	Bad idea of the day: Raspberry Pi based seedboxes built into your shoes, connecting to every open network, and trying to break into every not-open one.
+2018-02-09T11:39:19-05:00	Bad idea of the day: a captcha system that shows you something that should be upsetting and then determines if you're humane by checking your computer for signs of whether or not you were upset by it
+2018-02-09T11:41:15-05:00	Bad idea of the day: an extension that runs term extraction on whatever web page you're viewing and then increases the size and contrast of words based on their computed importance ranking
+2018-02-09T11:43:11-05:00	Bad idea of the day: an extension that decreases the size of images based on how many copies of similar images are already in your browser cache
+2018-02-09T11:44:17-05:00	Bad idea of the day: an extension that renders every word in a font chosen based on the hash of that word
+2018-02-09T11:46:02-05:00	A reverse CAPTCHA designed to filter out humans / Boing Boing https://boingboing.net/2018/02/09/a-reverse-captcha-designed-to.html
+2018-02-09T13:05:40-05:00	song2comdemo https://sites.google.com/site/song2comdemo/
+2018-02-09T17:14:11-05:00	GitHub - vurtun/nuklear: A single-header ANSI C gui library https://github.com/vurtun/nuklear
