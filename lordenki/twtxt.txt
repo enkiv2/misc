@@ -1436,3 +1436,75 @@
 2018-02-09T11:46:02-05:00	A reverse CAPTCHA designed to filter out humans / Boing Boing https://boingboing.net/2018/02/09/a-reverse-captcha-designed-to.html
 2018-02-09T13:05:40-05:00	song2comdemo https://sites.google.com/site/song2comdemo/
 2018-02-09T17:14:11-05:00	GitHub - vurtun/nuklear: A single-header ANSI C gui library https://github.com/vurtun/nuklear
+2018-02-09T17:44:23-05:00	Bret Victor - Inventing on Principle on Vimeo https://vimeo.com/36579366
+2018-02-10T12:00:03-05:00	MMO Junkie&#39;s Racist Director - Should We Hate the Work, or the Jerk? - YouTube https://www.youtube.com/watch?v=kP2KATrNlbE
+2018-02-11T16:46:27-05:00	Recovery of an MMO Junkie - What Do You Want to Be? - YouTube https://www.youtube.com/watch?v=rT729ReUCjM
+2018-02-12T08:29:35-05:00	Slack is the opposite of organizational memory https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html
+2018-02-12T08:47:24-05:00	I keep hearing the awful take that Altered Carbon is shallow aesthetic-centric cyberpunk devoid of social commentary. Did these people rush to skim the book when they heard about the TV show or something?
+2018-02-12T08:48:51-05:00	The first book in the Altered Carbon series hews closer to standard hardboiled structure & is less 'about' resleeving but is very much about social inequality at scale.
+2018-02-12T08:50:23-05:00	The second and third books are mostly about the political & social ramifications of resleeving technology over centuries. That is, after all, the point of the series.
+2018-02-12T08:52:18-05:00	I feel like Netflix's adaptation did a pretty good job of keeping that social & political focus, and even frontloading it a little bit by injecting backstory from the second and third books.
+2018-02-12T08:54:00-05:00	People make the obvious comparison to Blade Runner, but seeing as how Blade Runner is a famously shallow & aesthetically-focused adaptation that strips the social & political elements from its source, Altered Carbon comes out the winner here
+2018-02-12T09:18:19-05:00	I am the very model of a New York Times contrar... https://slate.com/culture/2018/02/i-am-the-very-model-of-a-new-york-times-contrarian.html
+2018-02-12T09:19:52-05:00	Every Society Invents the Failed Utopia it... http://publicdomainreview.org/collections/every-society-invents-the-failed-utopia-it-deserves/
+2018-02-12T09:22:13-05:00	Band name of the day: the printing offices of confusion
+2018-02-12T09:23:18-05:00	Band name of the day: fantastic plenum
+2018-02-12T09:28:50-05:00	Band name of the day: the germinal base of beatitude
+2018-02-12T09:29:30-05:00	Band name of the day: the nine springs of our nature
+2018-02-12T09:33:03-05:00	Band name of the day: a principle of sufficient unreason
+2018-02-12T09:46:26-05:00	Every Deluze quote is relevant to every situation, given sufficient effort on the part of the reader.
+2018-02-12T09:52:16-05:00	Gene name errors are widespread in the scientific literature |... https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7
+2018-02-12T13:37:19-05:00	Why hiring the ‘best’ people produces the least crea... https://aeon.co/ideas/why-hiring-the-best-people-produces-the-least-creative-results
+2018-02-12T13:44:24-05:00	Band name of the day: added smashing power
+2018-02-12T15:16:22-05:00	Band name of the day: the structured crowd
+2018-02-12T15:31:28-05:00	Social structure is a technology, but it's one that most self-identified techies are ill-equipped to debug, mainly due to bigotry against properly studying it.
+2018-02-12T15:32:56-05:00	We're really bad at being dispassionate about non-social technologies, but even worse about social technologies (by which I mean: political systems, power relations).
+2018-02-12T15:34:17-05:00	Of course, being driven by emotion, nostalgia, and other prejudices is a non-issue in emacs vs vi. But, in deciding how to structure power relations, it's huge.
+2018-02-12T15:36:41-05:00	In an equitable society, social problems are a matter of individual choice. We don't live in such a society, and never have. If we want to, we should be honest about this. Pretending to have achieved equity is a good way to amplify shitty power relations.
+2018-02-12T15:38:47-05:00	Optimizing for anything other than human happiness seems like a recipe for misery. Of course, no existing political system really seriously attempts to optimize for human happiness.
+2018-02-12T15:39:59-05:00	There are legitimate open questions: should we maximize minimum happiness? Should we maximize mean, or median, or total happiness? But, no existing social system optimizes for any of these metrics or any combination of them.
+2018-02-12T15:46:00-05:00	The Center for Humane... https://thesocietypages.org/cyborgology/2018/02/09/the-center-for-humane-technology-doesnt-want-your-attention/
+2018-02-13T06:34:22-05:00	Band name of the day: the snake oil standard
+2018-02-13T06:57:29-05:00	5 recomm... https://mkdev.me/en/posts/5-recommendations-on-how-to-maintain-the-code-quality-and-keep-your-self-development-when-nobody-cares
+2018-02-13T07:51:27-05:00	Pace Layering: How Complex Systems Learn and Keep Learning https://jods.mitpress.mit.edu/pub/issue3-brand
+2018-02-13T07:55:41-05:00	Lessons from Optics, The Other Deep Learning &#8211; arg min blog http://www.argmin.net/2018/01/25/optics/
+2018-02-13T09:54:29-05:00	Band name of the day: screen hearthing
+2018-02-13T11:58:43-05:00	Discovering Types for Entity Disambiguation https://blog.openai.com/discovering-types-for-entity-disambiguation/
+2018-02-13T13:20:16-05:00	METAHEADCANON: Harmon's Head - An 8 Circuit Model of Community http://www.metaheadcanon.com/2018/02/harmons-head-8-circuit-model-of.html
+2018-02-13T14:15:32-05:00	Why Paper Jams Persist | The New Yorker https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist
+2018-02-14T18:25:08-05:00	3Dfx History: The GPU’s Great Turning Point? https://tedium.co/2018/02/14/3dfx-history-failure/
+2018-02-14T18:26:01-05:00	How Protein Conquered America - Eater https://www.eater.com/2018/2/12/16991634/muscle-milk-protein-culture
+2018-02-14T18:29:10-05:00	Letting neural networks be weird &bull; The n... http://aiweirdness.com/post/159302925452/the-neural-network-generated-pickup-lines-that-are
+2018-02-14T18:29:39-05:00	Letting neural networks be weird &bull; Candy H... http://aiweirdness.com/post/170685749687/candy-heart-messages-written-by-a-neural-network
+2018-02-14T18:30:09-05:00	Metadata: Paper review. IPFS: Content addressed, versio... http://muratbuffalo.blogspot.com/2018/02/paper-review-ipfs-content-addressed.html
+2018-02-14T18:30:38-05:00	Let&#39;s talk about usernames https://www.b-list.org/weblog/2018/feb/11/usernames/
+2018-02-14T18:31:11-05:00	There Is No Such Thing as a Smart City - The Atlantic https://www.theatlantic.com/technology/archive/2018/02/stupid-cities/553052/
+2018-02-14T18:31:58-05:00	We Don’t Need New Laws for Faked Videos, We... https://www.eff.org/deeplinks/2018/02/we-dont-need-new-laws-faked-videos-we-already-have-them
+2018-02-14T18:32:26-05:00	Absurdist Dialogues with Siri https://www.theparisreview.org/blog/2018/02/12/absurdist-dialogues-siri/
+2018-02-14T18:33:33-05:00	Letting neural networks be weird &bull; More candy hearts by... http://aiweirdness.com/post/170820844947/more-candy-hearts-by-neural-network
+2018-02-14T18:49:39-05:00	Extended Director’s Cut: Ted Nelson on Hypertext, Douglas Englebart, Xanadu and More - YouTube https://www.youtube.com/watch?v=i67rQdHuO-8
+2018-02-14T18:50:38-05:00	A Matter of Mind - A Chaos;Head, Chaos;Child Comparison - YouTube https://www.youtube.com/watch?v=RPiyo7t29BQ
+2018-02-15T06:24:01-05:00	Invisible Algorithms, Invisible Politics | Public Books http://www.publicbooks.org/invisible-algorithms-invisible-politics/
+2018-02-15T08:09:03-05:00	Band name of the day: animal vigour
+2018-02-15T08:15:55-05:00	Episode 46: Allison Parrish — Commonplace: Conversations with Poe... https://www.commonpodcast.com/home/2018/2/14/episode-46-allison-parrish
+2018-02-15T08:20:23-05:00	&#39;Doki Doki Literature Club&#39; Fits i... https://waypoint.vice.com/en_us/article/kzp7gy/doki-doki-literature-club-history-visual-novels
+2018-02-15T13:32:13-05:00	GitHub - WorldBrain/Memex: Browser Extension to full-text search your browsing history &amp; bookmarks. https://github.com/WorldBrain/Memex
+2018-02-15T13:33:42-05:00	Deep Reinforcement Learning Doesn't Work Yet https://www.alexirpan.com/2018/02/14/rl-hard.html
+2018-02-15T13:35:11-05:00	Neural network AI is simple. So&#8230; Stop pretending you are a... https://www.kdnuggets.com/2018/02/neural-network-ai-simple-genius.html
+2018-02-15T13:36:42-05:00	The Sound and the Fury: Inside the Mystery of the Havana… — ProPublica https://www.propublica.org/article/diplomats-in-cuba
+2018-02-15T13:38:11-05:00	What Danganronpa... https://medium.com/@urbanfriendden/what-danganronpa-and-my-hero-academia-say-about-school-as-an-institution-e4b9632bb624
+2018-02-15T13:39:58-05:00	In Leaked Chats, WikiLeaks Discusses Preference for ... https://theintercept.com/2018/02/14/julian-assange-wikileaks-election-clinton-trump/
+2018-02-15T13:41:40-05:00	Samurai, spy, commando: who were the real ninja? | Aeon Ideas https://aeon.co/ideas/samurai-spy-commando-who-were-the-real-ninja
+2018-02-15T13:43:18-05:00	The tech bias: why Silicon Valley needs social theory | Aeon I... https://aeon.co/ideas/the-tech-bias-why-silicon-valley-needs-social-theory
+2018-02-15T13:44:55-05:00	Is the gun the basis of modern Anglo civilisation? | Aeon Essays https://aeon.co/essays/is-the-gun-the-basis-of-modern-anglo-civilisation
+2018-02-15T13:46:29-05:00	The offloading ape: the human is the beast that automates... https://aeon.co/essays/the-offloading-ape-the-human-is-the-beast-that-automates
+2018-02-15T13:47:58-05:00	My Friend, The Bot https://vector-bsfa.com/2017/12/16/my-friend-the-bot/
+2018-02-16T11:27:13-05:00	Bad idea of the day: A bot that iterates over one-syllable verbs, saying, for each verb X, <X>ers gonna <X>, <X>, <X>, <X>, <X>, <X>
+2018-02-16T11:32:40-05:00	Band name of the day: a tantalizing typology of personality
+2018-02-16T11:47:52-05:00	The Good Room &#8211; Frank Chimero https://frankchimero.com/writing/the-good-room/
+2018-02-16T11:49:33-05:00	OPERATI... https://medium.com/@StealThisSingul/operation-mindfuck-was-too-successful-r-u-sirius-interviewed-by-douglas-rushkoff-6607e4edc522
+2018-02-16T12:02:08-05:00	I Learned the Nerdy Cooking Secrets of Modernist Ch... https://gizmodo.com/i-learned-the-nerdy-cooking-secrets-of-modernist-chefs-1822747790
+2018-02-16T12:04:07-05:00	How I Cracked Facebook’s New Algorithm And... https://www.buzzfeed.com/katienotopoulos/how-i-cracked-facebooks-new-algorithm-and-tortured-my
+2018-02-16T12:27:38-05:00	The Great Stink  https://longreads.com/2018/02/14/the-great-stink/
+2018-02-16T12:32:40-05:00	Blockchain Just Isn&#8217;t As Radical As You Want... https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/
+2018-02-16T12:43:00-05:00	A look at the J languag... https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/
