@@ -3,11 +3,11 @@
 
 function linkit() {
 	echo -e "$1\t$(date)\t$(getTitle "$1")" >> ~/.linkit
-	post="$(tail -n 1 ~/.linkit | awk 'BEGIN{FS="\t"} {url=$1 ; title=$3 ; if(url!=title && title!=""&&title!=" ") {if(length(url)+length(title)>=140) {delta=(length(url)+length(title))-140; delta+=4; if(delta<length(title)) { title=substr(title, 0, length(title)-delta) "..." ; print title " " url } } else print title " " url } }' | grep . | head -n 1)"
+	post="$(tail -n 1 ~/.linkit | awk 'BEGIN{FS="\t"} {url=$1 ; title=$3 ; if(url!=title && title!=""&&title!=" ") {if(length(url)+length(title)>=280) {delta=(length(url)+length(title))-280; delta+=4; if(delta<length(title)) { title=substr(title, 0, length(title)-delta) "..." ; print title " " url } } else print title " " url } }' | grep . | head -n 1 | recode HTML)"
 	[[ -n "$post" ]] && (
 		t post "$post" 
 		echo "toot $post" | tootstream 
-		twtxt tweet "$post")
+		yes|twtxt tweet "$post")
 	stty sane
 }
 function getTitle() {

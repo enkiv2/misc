@@ -1596,3 +1596,109 @@
 2018-02-26T07:39:50-05:00	Let Them Eat Experience https://jacobinmag.com/2018/02/trump-unpaid-internships-labor-department
 2018-02-26T08:50:06-05:00	What Annihilation learned from Andrei Tarkovsky... https://www.avclub.com/what-annihilation-learned-from-andrei-tarkovsky-s-sovie-1819005171
 2018-02-26T09:55:17-05:00	HN with most of the bullshit removed: http://jsomers.net/hn/
+2018-02-26T10:25:12-05:00	Beauty and Terror Collide in Alex Garland&#8217;s An... https://www.tor.com/2018/02/23/annihilation-jeff-vandermeer-adaptation-movie-review/
+2018-02-26T10:33:12-05:00	End of the Line: Jeff VanderMeer and the Southern Re... https://www.tor.com/2014/12/15/interview-jeff-vandermeer-the-southern-reach-trilogy/
+2018-02-26T11:22:03-05:00	What is the post-Soviet? An essay on the term tha... http://www.calvertjournal.com/features/show/9672/post-soviet-visions-introduction-essay
+2018-02-26T11:54:52-05:00	John Perry Barlow gav... https://slate.com/technology/2018/02/john-perry-barlow-gave-internet-activists-only-half-the-mission-they-need.html
+2018-02-26T13:27:48-05:00	Pet peeve: people who don't realize that pencils are a technology
+2018-02-26T14:00:09-05:00	Reading Nabokov&#x2019;s Dream Diary | The New Republic https://newrepublic.com/article/146906/night-vision
+2018-02-28T07:12:19-05:00	Band name of the day: in doomful half-dream
+2018-02-28T17:36:09-05:00	Infocalypse - Music For Spaceports | Jamendo Music - Free music downloads https://www.jamendo.com/album/175213/music-for-spaceports/null
+2018-03-01T08:19:02-05:00	Bad idea of the day: A voice assistant specifically designed to answer toddlers when they ask 'why'.
+2018-03-02T08:08:07-05:00	To the Point — Real Life http://reallifemag.com/to-the-point/
+2018-03-02T08:33:17-05:00	Quinn Norton: The New York Times ... https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/
+2018-03-02T08:46:02-05:00	Good Boys — Real Life http://reallifemag.com/good-boys/
+2018-03-02T09:13:02-05:00	The Radical Left-Wing Theory That the Government Has Unlimited... https://www.vice.com/en_us/article/a34n54/modern-monetary-theory-explained
+2018-03-02T09:14:28-05:00	How Lenders Are Turning Low-Level Courts Into Dicke... https://theintercept.com/2018/02/28/criminalization-of-debt-imprisonment-aclu-report/
+2018-03-02T09:17:42-05:00	Why I Quit Google to Work for Myself - Silly Bits https://mtlynch.io/why-i-quit-google/
+2018-03-02T09:19:10-05:00	The Powerful Global Spy Alliance You Never Knew Existed https://theintercept.com/2018/03/01/nsa-global-surveillance-sigint-seniors/
+2018-03-02T09:21:31-05:00	The trouble with stopping a teenage killer before th... https://theoutline.com/post/3557/nikolas-cruz-josh-pillault-stopping-teenage-killers
+2018-03-02T09:37:41-05:00	The Sortix Operating System https://sortix.org/
+2018-03-02T09:45:32-05:00	AdBlock Adds Feature to Cache ... https://www.bleepingcomputer.com/news/software/adblock-adds-feature-to-cache-popular-javascript-libraries/
+2018-03-02T09:50:44-05:00	Periodic reminder that submissions for the no-budget film contest begin on April 20th and end on July 4th: https://medium.com/p/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-03-02T11:08:53-05:00	Band name of the day: 52Hz wail
+2018-03-02T11:09:14-05:00	Band name of the day: the king of motion
+2018-03-02T11:09:41-05:00	The Most Disturbing Painting - YouTube https://www.youtube.com/watch?v=g15-lvmIrcg
+2018-03-02T11:17:10-05:00	A Winter Olympics wrap-up written with a predi... https://kottke.org/18/02/a-winter-olympics-wrap-up-written-with-a-predictive-text-keyboard
+2018-03-02T11:17:22-05:00	Band name of the day: crypt trip
+2018-03-02T11:18:10-05:00	The Nakamoto Variations - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/02/the-nakamoto-variations.html
+2018-03-02T11:44:53-05:00	The Rise of Virtual Citizenship - The Atlantic https://www.theatlantic.com/technology/archive/2018/02/virtual-citizenship-for-sale/553733/
+2018-03-02T13:17:19-05:00	Sniglet History: The Art of Invented Words https://tedium.co/2018/03/01/sniglet-history-rich-hall/
+2018-03-02T14:01:33-05:00	GitHub - tuhdo/os01: Bootstrap yourself to write an OS from scratch. A book for self-learner. https://github.com/tuhdo/os01
+2018-03-02T14:04:59-05:00	Band name of the day: pseudopleasure
+2018-03-02T14:07:28-05:00	Band name of the day: minimized badging
+2018-03-02T19:53:52-05:00	Emily Short - Five Strategies For Collaborating With A Machine [PROCJAM 2016] - YouTube https://www.youtube.com/watch?v=narjui3em1k
+2018-03-04T18:49:40-05:00	Voyages in sentence space https://www.robinsloan.com/voyages-in-sentence-space/
+2018-03-05T08:32:52-05:00	Band name of the day: slowness in human relations
+2018-03-05T08:33:16-05:00	Understanding word vectors: A tutorial for &quot;Reading and Writing El... https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
+2018-03-05T08:34:13-05:00	GitHub - erroneousboat/slack-term: Slack client for your terminal https://github.com/erroneousboat/slack-term
+2018-03-05T09:11:48-05:00	It Never Went Away https://www.jacobinmag.com/2018/03/italy-fascism-lega-bersculoni-immigration
+2018-03-05T09:46:24-05:00	The Alt-right is recruiting depres... https://theoutline.com/post/3537/alt-right-recruiters-have-infiltrated-the-online-depression-community
+2018-03-05T10:19:50-05:00	A creative multiplicity: the philosophy of Deleuze ... https://aeon.co/essays/a-creative-multiplicity-the-philosophy-of-deleuze-and-guattari
+2018-03-05T10:46:49-05:00	Band name of the day: absurd machine
+2018-03-05T15:34:51-05:00	The Case Against Retweets - The Atlantic https://www.theatlantic.com/amp/article/554078/?single_page=true
+2018-03-05T17:35:55-05:00	Bad idea of the day: Sort the frames of a movie by average color & play it that way
+2018-03-05T17:37:15-05:00	Bad idea of the day: Rearrange the frames of a movie so that each frame is followed by the remaining frame that has the minimum (or maximum) difference, in terms first of brightness and then of color
+2018-03-05T17:39:09-05:00	Bad idea of the day: Take two movies & drop or combine frames until they are exactly the same length. Then, interpolate the two, so that in each frame, every other line is a different movie. Then, interpolate the FFT of the soundtrack so that, for some band size, every other band is the other movie.
+2018-03-06T07:44:43-05:00	Social engineering is engineering. When you design software used by people, the community is not an externality -- it's shaped by your design, & therefore your responsibility.
+2018-03-06T07:46:17-05:00	As a software engineer, being ignorant of sociology & psychology is just as bad as being ignorant of cryptography. Treat toxic communities the way you would treat any other security vulnerability: as an emergency.
+2018-03-06T09:43:08-05:00	Band name of the day: the spaces of exception
+2018-03-06T10:42:58-05:00	What Ancient Sparta and Modern Small-scale Societies Have in Common http://nautil.us/blog/the-point-of-mens-cults
+2018-03-06T12:16:48-05:00	My Mondo piece on sublims is up on gopher: gopher://fuckup.solutions/1enkiv2/sublim.txt
+2018-03-06T12:23:40-05:00	APL Style: Patterns/Anti-patterns https://sway.com/b1pRwmzuGjqB30On
+2018-03-06T12:29:22-05:00	Reminder: submissions for the no-budget film contest begin 4/20. You have almost two months if you start now. https://medium.com/p/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-03-06T13:22:18-05:00	Counterintuitive Properties of High Dimensional Space... https://marckhoury.github.io/counterintuitive-properties-of-high-dimensional-space/
+2018-03-06T13:28:00-05:00	As we may think | the morning paper https://blog.acolyer.org/2018/02/23/as-we-may-think/
+2018-03-06T13:29:21-05:00	Tracing fake... https://blog.acolyer.org/2018/02/19/tracing-fake-news-footprints-characterizing-social-media-messages-by-how-they-propagate/
+2018-03-06T16:55:41-05:00	Programming is Forgetting: Toward a New Hacker Ethic - All... http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
+2018-03-06T17:51:37-05:00	Dyalog17: Patterns and Anti-patterns in APL: Escaping the Beginner&#39;s Plateau - YouTube https://www.youtube.com/watch?v=9xCJ3BCIudI
+2018-03-07T17:48:09-05:00	Band name of the day: fraudulent fish
+2018-03-08T07:30:39-05:00	TFW you have so many movies you haven't watched yet that you have to roll a D4 once and then a D20 twice in order to pick one
+2018-03-08T09:13:29-05:00	People say that the world is getting weirder. But, the weirdness is not new: it's always been here. It's just not visible unless you look closely, so we see it more clearly in recent events.
+2018-03-08T12:31:55-05:00	Ted's ComParadigm in OneLiners http://xanadu.com.au/ted/TN/WRITINGS/TCOMPARADIGM/tedCompOneLiners.html
+2018-03-08T12:32:22-05:00	QOTD: 'The Web is the minimal concession to hypertext that a sequence-and-hierarchy chauvinist could possibly make.' -Ted Nelson
+2018-03-08T13:33:05-05:00	Is every anime containing WcDonalds as a trademark-free McDonalds expy now retroactively progressive? Like, even SAO? (Hint: no)
+2018-03-08T14:36:01-05:00	Greg Young - The art of destroying software on Vimeo https://vimeo.com/108441214
+2018-03-08T14:38:01-05:00	Waiting for Steven Pinker’s Enlightenment | The Nation https://www.thenation.com/article/waiting-for-steven-pinkers-enlightenment/
+2018-03-08T16:20:55-05:00	Hot take: mashups & references can be powerful tools for getting your message across, but if you don't have a message (or your message is this is my taste) it's just masturbatory. (Fite me.)
+2018-03-09T06:18:50-05:00	We have entered a period in history where Batman Returns is more culturally relevant than The Dark Knight. That scares me a bit.
+2018-03-09T06:40:09-05:00	Gratitude for Invisible Systems - The Atla... https://www.theatlantic.com/technology/archive/2017/05/gratitude-for-invisible-systems/526344/
+2018-03-09T08:53:11-05:00	SkyKnit: How an AI Took Over an Adult Kni... https://www.theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894/
+2018-03-09T09:04:51-05:00	Anton's Research Ramblings - 2018_03_08_how_i_write_code http://antongerdelan.net/blog/formatted/2018_03_08_how_i_write_code.html
+2018-03-09T09:07:19-05:00	The Streaming Void | Judy Berman https://thebaffler.com/salvos/the-streaming-void-berman
+2018-03-09T09:54:43-05:00	If there isn't a bathrobe-clad Judas Priest cover band named Dudeist Priest, there should be.
+2018-03-09T10:29:33-05:00	How Self-A... https://www.theatlantic.com/health/archive/2018/03/you-dont-know-yourself-as-well-as-you-think-you-do/554612/?single_page=true
+2018-03-09T10:32:35-05:00	Huge MIT Study of ‘Fake News’: Fa... https://www.theatlantic.com/technology/archive/2018/03/largest-study-ever-fake-news-mit-twitter/555104/
+2018-03-09T10:40:02-05:00	Granular Audio Synthesis &laquo; The blog at the bottom of the sea https://blog.demofox.org/2018/03/05/granular-audio-synthesis/
+2018-03-09T12:17:54-05:00	Cory Doctorow: Let&#8217;s Get Better at Demandi... http://locusmag.com/2018/03/cory-doctorow-lets-get-better-at-demanding-better-from-tech/
+2018-03-09T12:58:52-05:00	Prop Electronics History: The Art of Fakery https://tedium.co/2018/03/08/fake-prop-electronics-history/
+2018-03-09T13:03:57-05:00	Uncle John’s Bathroom Reader History: Useful At Certain Times https://tedium.co/2018/03/06/uncle-johns-bathroom-reader-history/
+2018-03-09T15:23:34-05:00	Smart Drugs &amp; Nutrients in 1991 (MONDO 20... http://www.mondo2000.com/2018/03/09/smart-drugs-nutrients-1991-mondo-2000-flashback-friday/
+2018-03-09T15:24:49-05:00	Pink Lexical Goop: The Dark Side of Autocorrect - Mondo 2000 http://www.mondo2000.com/2018/01/17/pink-lexical-goop-dark-side-autocorrect/
+2018-03-10T11:02:41-05:00	A Messiah... https://lareviewofbooks.org/article/a-messiah-cum-surrogate-dad-for-gormless-dimwits-on-jordan-b-petersons-12-rules-for-life/#!
+2018-03-10T13:42:57-05:00	Band name of the day: wraith of the name
+2018-03-11T20:37:19-04:00	Band name of the day: mega purple
+2018-03-12T08:02:09-04:00	Bad idea of the day: donate synthetic diamond machines to hackerspaces
+2018-03-12T10:14:09-04:00	Reddit and the Quest to Detoxify the Internet... https://www.newyorker.com/magazine/2018/03/19/reddit-and-the-quest-to-detoxify-the-internet
+2018-03-12T10:24:50-04:00	Telex: Anticensorship in the Network Infrastructure https://telex.cc/
+2018-03-12T10:29:46-04:00	Blame the Computer | Corey Pein https://thebaffler.com/salvos/blame-the-computer-pein
+2018-03-12T10:43:31-04:00	Letting neural networks be weird &bull; The Bands... http://aiweirdness.com/post/171776876562/the-bands-of-south-by-southwest-interpreted-by
+2018-03-12T10:45:44-04:00	In The Eternal... http://www.harrowell.org.uk/blog/2018/01/31/in-the-eternal-inferno-fiends-torment-ronald-coase-with-the-fate-of-his-ideas/
+2018-03-12T10:48:13-04:00	Band name of the day: multiple music
+2018-03-12T11:00:53-04:00	Four AI composition tools ... https://arstechnica.com/gaming/2018/03/robots-composed-the-soundtrack-for-my-home-movie-they-can-help-you-too/
+2018-03-12T11:07:58-04:00	Buy A Share Of Mike https://www.montag.wtf/buy-a-share-of-mike/
+2018-03-12T11:30:54-04:00	What an ‘infinite’ AI-generat... https://www.theverge.com/2018/3/11/17099578/ai-generated-podcast-procedural-storytelling-art-sheldon-county
+2018-03-12T11:34:11-04:00	Ancient Thresholds: Classical W... https://99percentinvisible.org/article/ancient-thresholds-classical-welcome-mats-dazzling-medusa-mosaics/
+2018-03-12T11:54:03-04:00	Writing a Simple IPFS Crawler &middot; Gokberk Yaltirakli https://gkbrk.com/2018/03/writing-a-simple-ipfs-crawler/
+2018-03-12T11:57:54-04:00	All Of The Things That You Can Do With Arrays  https://tinyletter.com/learntocomputer/letters/all-of-the-things-that-you-can-do-with-arrays
+2018-03-12T12:01:20-04:00	History generation in Epitaph | Affording Play https://mkremins.github.io/blog/history-generation-epitaph
+2018-03-12T12:05:22-04:00	A Recipe for Sparkles  https://tinyletter.com/learntocomputer/letters/a-recipe-for-sparkles
+2018-03-12T13:14:37-04:00	Benjamin Kovach https://www.kovach.me/posts/2018-03-07-generating-art.html
+2018-03-12T13:40:32-04:00	Community/Creative Commons - J Wiki http://code.jsoftware.com/wiki/Community/Creative_Commons
+2018-03-12T13:53:16-04:00	GitHub - Widdershin/programmers-oath: An oath for programmers, comparable to the Hippocrat... https://github.com/Widdershin/programmers-oath
+2018-03-12T16:28:32-04:00	RustConf 2017 - Closing Keynote: Safe Systems Software and the Future of Computing by Joe Duf... https://www.youtube.com/watch?v=CuD7SCqHB7k
+2018-03-12T16:50:02-04:00	Practical Procedural Generation for Everyone - YouTube https://www.youtube.com/watch?v=WumyfLEa6bU
+2018-03-12T17:03:59-04:00	Jason Grinblat - Procedural History in Caves of Qud - YouTube https://www.youtube.com/watch?v=ClGAApZYIvI
+2018-03-13T18:02:59-04:00	Hallucinated Gods &#124; Melting Asphalt https://www.meltingasphalt.com/hallucinated-gods/
+2018-03-13T18:33:26-04:00	Log Ratio – an informal introduction | ESRC Centre for Corpus Approaches to Social Science (CASS) http://cass.lancs.ac.uk/?p=1133
+2018-03-14T08:01:56-04:00	How Psychopaths See the World - The Atlantic https://www.theatlantic.com/science/archive/2018/03/a-hidden-problem-at-the-heart-of-psychopathy/555335/
