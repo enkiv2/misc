@@ -1702,3 +1702,30 @@
 2018-03-13T18:02:59-04:00	Hallucinated Gods &#124; Melting Asphalt https://www.meltingasphalt.com/hallucinated-gods/
 2018-03-13T18:33:26-04:00	Log Ratio – an informal introduction | ESRC Centre for Corpus Approaches to Social Science (CASS) http://cass.lancs.ac.uk/?p=1133
 2018-03-14T08:01:56-04:00	How Psychopaths See the World - The Atlantic https://www.theatlantic.com/science/archive/2018/03/a-hidden-problem-at-the-heart-of-psychopathy/555335/
+2018-03-14T08:23:21-04:00	List: What Your Bookshelf Organization Says About You - McSweeneyâs Internet Tendency https://www.mcsweeneys.net/articles/what-your-bookshelf-organization-says-about-you
+2018-03-14T08:54:24-04:00	ed(1) is Turing-Complete – *nix Windows https://nixwindows.wordpress.com/2018/03/13/ed1-is-turing-complete/
+2018-03-14T09:42:36-04:00	How the Cold War led the CIA to promote human capital theory | Aeon Essays https://aeon.co/essays/how-the-cold-war-led-the-cia-to-promote-human-capital-theory
+2018-03-14T09:45:34-04:00	Oingo Boingo History: New Waveâs Oddball West-Coast Icons https://tedium.co/2018/03/13/oingo-boingo-danny-elfman-history/
+2018-03-14T09:56:14-04:00	Bad idea of the day: An RPG whose stats are traits like alienation, shadow integration, neurosis
+2018-03-14T09:58:31-04:00	In the 1950s everybody cool was a little alienated. What changed? | Aeon Essays https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed
+2018-03-14T10:04:05-04:00	The Mystic Knights of the Oingo Boingo’s odyssey from absurdist theatre troupe to new wave octet – Night Flight http://nightflight.com/the-mystic-knights-of-the-oingo-boingos-odyssey-from-absurdist-theatre-troupe-to-new-wave-octet/
+2018-03-14T10:34:15-04:00	Book Towns Are Made for Book Lovers - Atlas Obscura https://www.atlasobscura.com/articles/what-is-a-book-town
+2018-03-14T10:36:36-04:00	Bad idea of the day: A bot that generates not surrealistic and impossible recipes but merely strange Futurist Cookbook style recipes you could actually cook.
+2018-03-14T10:39:12-04:00	#nanogenmo idea: Create a pantheon with thematic names, modeled on sumerian, & sumerian-style myths around them. Ex., a god of water could be called Ena or Nina (since 'a' means water, & 'en' & 'nin' are prefixes for god names) & have hundreds of generated epithets based on domain
+2018-03-14T11:16:59-04:00	How knowing Lisp destroyed my programming career http://coding.derkeiler.com/Archive/Lisp/comp.lang.lisp/2006-04/msg01644.html
+2018-03-15T07:25:24-04:00	Band name of the day: mercury in vermigrade
+2018-03-15T07:26:42-04:00	BBC - Culture - Twenty-six words we donât want to lose http://www.bbc.com/culture/story/20171122-twenty-six-words-we-dont-want-to-lose
+2018-03-15T07:36:06-04:00	Today is the ides of march. Celebrate by being ware.
+2018-03-15T07:36:39-04:00	Today is the ides of march. Celebrate by shanking your friends.
+2018-03-15T07:37:52-04:00	Today is the ides of march. Celebrate by not letting prophetic dreams get in the way of your public speaking engagements.
+2018-03-15T08:09:15-04:00	The Intellectual We Deserve | Current Affairs https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve
+2018-03-15T11:42:59-04:00	Stop Blaming Russian Bots For Everything https://www.buzzfeed.com/miriamelder/stop-blaming-russian-bots-for-everything
+2018-03-15T15:35:42-04:00	Band name of the day: provisional hope
+2018-03-16T07:26:57-04:00	Hot take: the whole 'you need to code in your free time' is partially justified by the way a 4 year CS degree doesn't remotely prepare you for an entry-level code-crunching position.
+2018-03-16T08:14:25-04:00	If we disagree about morality, how can we teach it? | Aeon Ideas https://aeon.co/ideas/if-we-disagree-about-morality-how-can-we-teach-it
+2018-03-16T08:16:56-04:00	Portable Computer Pre-History: Portable Before Laptops https://tedium.co/2018/03/15/early-portable-computer-history/
+2018-03-16T09:47:59-04:00	The legal battle to colonize Mars | The Outline https://theoutline.com/post/3739/mars-colony-settlement-spacex-elon-musk-trump
+2018-03-16T10:09:52-04:00	GitHub - kapok-lang/kapok: A Lisp on the Erlang VM https://github.com/kapok-lang/kapok
+2018-03-16T10:22:12-04:00	For Me, David Bowie Lives On - GARAGE https://garage.vice.com/en_us/article/zmwap9/for-paul-gorman-david-bowie-lives-on
+2018-03-16T11:45:25-04:00	How Ken Layne Created a Publishing Oasis in a Desert Town of 8,000 People - Pacific Standard https://psmag.com/news/ken-layne-desert-oracle
+2018-03-16T11:53:08-04:00	Band name of the day: invaders on holiday
