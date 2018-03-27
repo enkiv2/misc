@@ -2,7 +2,11 @@
 
 from PIL import Image, ImageFont, ImageStat, ImageFile, ImageOps, ImageDraw, ImageChops
 
+from multiprocessing import Pool
+
 import sys, os, math
+poolSize=10
+pool=Pool(poolSize)
 pad=0
 fmt=""
 def invertMask(pixel):
@@ -12,8 +16,44 @@ def avg(l):
     for i in l:
     	ax+=i
     return ax/len(l)
+def chunkDivide(l, chunkMax):
+    ret=[]
+    i=0
+    while(len(l)>i):
+        j=i+chunkMax
+        if(chunkMax>=len(l)):
+            chunkMax=len(l)-1
+        ret.append(l[i:j])
+        i=j
+    return ret
+def mindex(l):
+    i=0
+    m=l[0]
+    for j in range(0, len(l)):
+        if(l[j]<m):
+            m=l[j]
+            i=j
+    return (m, i)
+def mindex2(l):
+    l2=pool.map(mindex, l)
+    l3=[]
+    for i in range(0, len(l)):
+        l3.extend(pool.map(lambda x: (x[0], x[1]*i), l2[i]))
+    m=l3[0][0]
+    i=0
+    for j in range(0, len(l3)):
+        if(m>l3[j][0]):
+            m=l3[j][0]
+            i=l3[j][1]
+    return i
+cache={}
+def deCache(framenum, outdir):
+    num=str(framenum)
+    if(not(num in cache)):
+        cache[num]=(Image.open(outdir+"/"+fmt.format(framenum)+".jpg")).convert("RGB")
+    return cache[num]
 def imgDelta(a, b):
-    merge=ImageChops.difference(a.convert("RGB"), b.convert("RGB")).convert("L")
+    merge=ImageChops.difference(a, b).convert("L")
     return avg(ImageStat.Stat(merge).mean)
 
 def vid2frames(vidfile, fps, outdir):
@@ -51,15 +91,9 @@ def frames2audio(outdir, fps, framenums):
 def findBestMatchFrame(needle, haystack, outdir):
     if(len(haystack)==1):
         return haystack[0]
-    needleF=Image.open(outdir+"/"+fmt.format(needle)+".jpg")
-    best=math.pow(2, 32)
-    bestI=needle
-    for item in haystack:
-        delta=imgDelta(needleF, Image.open(outdir+"/"+fmt.format(item)+".jpg"))
-        if(best>delta):
-            best=delta
-            bestI=item
-    return item
+    needleF=deCache(needle, outdir)
+    return mindex2(pool.map(lambda y: pool.map(lambda x: imgDelta(needleF, deCache(x, outdir)), y), chunkDivide(haystack, poolSize)))
+
 def findMatchChain(initialFrame, frames, outdir):
     outFrames=[initialFrame]
     try:
@@ -68,6 +102,7 @@ def findMatchChain(initialFrame, frames, outdir):
         pass
     while(len(frames)>0):
         match=findBestMatchFrame(outFrames[-1], frames, outdir)
+        cache.remove(str(outFrames[-1]))
         frames.remove(match)
         outFrames.append(match)
     return outFrames
