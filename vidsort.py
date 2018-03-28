@@ -3,12 +3,43 @@
 from PIL import Image, ImageFont, ImageStat, ImageFile, ImageOps, ImageDraw, ImageChops
 
 from multiprocessing import Pool
+import multiprocessing
+from random import Random
+random=Random()
 
-import sys, os, math
+import sys, os, math, gc
 poolSize=10
-pool=Pool(poolSize)
 pad=0
 fmt=""
+##############################################################################
+# From: https://stackoverflow.com/a/16071616/1966871
+def fun(f, q_in, q_out):
+    while True:
+        i, x = q_in.get()
+        if i is None:
+            break
+        q_out.put((i, f(x)))
+
+
+def parmap(f, X, nprocs=multiprocessing.cpu_count()):
+    q_in = multiprocessing.Queue(1)
+    q_out = multiprocessing.Queue()
+
+    proc = [multiprocessing.Process(target=fun, args=(f, q_in, q_out))
+            for _ in range(nprocs)]
+    for p in proc:
+        p.daemon = True
+        p.start()
+
+    sent = [q_in.put((i, x)) for i, x in enumerate(X)]
+    [q_in.put((None, None)) for _ in range(nprocs)]
+    res = [q_out.get() for _ in range(len(sent))]
+
+    [p.join() for p in proc]
+
+    return [x for i, x in sorted(res)]
+###############################################################################
+
 def invertMask(pixel):
     return abs(pixel-255)
 def avg(l):
@@ -34,25 +65,22 @@ def mindex(l):
             m=l[j]
             i=j
     return (m, i)
-def mindex2(l):
-    l2=pool.map(mindex, l)
-    l3=[]
-    for i in range(0, len(l)):
-        l3.extend(pool.map(lambda x: (x[0], x[1]*i), l2[i]))
-    m=l3[0][0]
-    i=0
-    for j in range(0, len(l3)):
-        if(m>l3[j][0]):
-            m=l3[j][0]
-            i=l3[j][1]
-    return i
+cacheMaxItems=750
 cache={}
 def deCache(framenum, outdir):
+    while(len(cache.keys())>=cacheMaxItems):
+        del cache[random.choice(cache.keys())]
+        gc.collect()
     num=str(framenum)
     if(not(num in cache)):
-        cache[num]=(Image.open(outdir+"/"+fmt.format(framenum)+".jpg")).convert("RGB")
+        try:
+            cache[num]=(Image.open(outdir+"/"+fmt.format(framenum)+".jpg")).convert("RGB")
+        except:
+            return None
     return cache[num]
 def imgDelta(a, b):
+    if(a==None or b==None):
+        return 2**64
     merge=ImageChops.difference(a, b).convert("L")
     return avg(ImageStat.Stat(merge).mean)
 
@@ -73,10 +101,15 @@ def vid2frames(vidfile, fps, outdir):
     fmt="{0:0>"+str(pad)+"}"
     return framecount
 def frames2vid(vidfile, fps, framenums, outdir, audiofile):
+    def fileIfExists(x):
+        path=outdir+"/"+fmt.format(x)+".jpg"
+        if(os.path.exists(path)):
+            return "\"mf://"+path+"\""
+        else: return ""
     os.system("mencoder -oac copy -ovc lavc -mf fps="+str(fps)+
         " -audiofile \""+outdir+"/"+audiofile+"\" "+
         " -o \""+vidfile+"\" "+
-        " ".join(map(lambda x: "\"mf://"+outdir+"/"+fmt.format(x)+".jpg\"", framenums)))
+        " ".join(map(fileIfExists, framenums)))
 def frame2audio(outdir, duration, idx, outfile):
     os.system("sox \""+outdir+"/audio.wav\" \""+outdir+"/"+outfile+"\" trim "+str(duration*idx)+" "+str(duration*(idx+1)))
 def frames2audio(outdir, fps, framenums):
@@ -85,26 +118,70 @@ def frames2audio(outdir, fps, framenums):
     for frame in framenums[1:]:
         frame2audio(outdir, spf, frame, "item.wav")
         os.system("sox \""+outdir+"/ax.wav\" \""+outdir+"/item.wav\" ax2.wav")
-        os.system("mv ax2.wav \""+outdir+"/ax.wav")
+        os.system("mv ax2.wav \""+outdir+"/ax.wav\"")
     os.system("mv \""+outdir+"/ax.wav\" \""+outdir+"/processed_audio.wav\"")
 
 def findBestMatchFrame(needle, haystack, outdir):
+    global pool
     if(len(haystack)==1):
         return haystack[0]
+    sys.stdout.write("|")
     needleF=deCache(needle, outdir)
-    return mindex2(pool.map(lambda y: pool.map(lambda x: imgDelta(needleF, deCache(x, outdir)), y), chunkDivide(haystack, poolSize)))
+    sys.stdout.write("\b-")
+    sys.stdout.flush()
+    def deltaDecache(x):
+        sys.stdout.write("\b"+random.choice(["|", "/", "-", "\\"]))
+        sys.stdout.flush()
+        return imgDelta(needleF, deCache(x, outdir))
+    deltas=parmap(deltaDecache, haystack)
+    sys.stdout.write("\b")
+    sys.stdout.flush()
+    return mindex(deltas)[1]
+    #return mindex2(pool.map(lambda y: pool.map(lambda x: imgDelta(needleF, deCache(x, outdir)), y), chunkDivide(haystack, poolSize)))
 
 def findMatchChain(initialFrame, frames, outdir):
+    numFrames=len(frames)
+    print("Caching frames...")
+    framesToCache=frames
+    if(len(framesToCache)>cacheMaxItems):
+        framesToCache=frames[:cacheMaxItems]
+    parmap(lambda x: deCache(x, outdir), framesToCache)
+    print("Starting frame path identification...")
     outFrames=[initialFrame]
     try:
-        frames.remove(initialFrame)
+        frames.remove(0)
     except:
         pass
+    try:
+        del frames[initialFrame]
+    except:
+        pass
+    plugged=False
     while(len(frames)>0):
-        match=findBestMatchFrame(outFrames[-1], frames, outdir)
-        cache.remove(str(outFrames[-1]))
-        frames.remove(match)
+	sys.stdout.write(".")
+        percent=(len(frames)*100)/numFrames
+        if(percent%10 == 0):
+            if(not plugged):
+                sys.stdout.write(str(percent)+"%")
+                plugged=True
+        else:
+            plugged=False
+        frameSample=frames
+        if(len(frames)>1000):
+            frameSample=random.sample(frames, 1000)
+        match=findBestMatchFrame(outFrames[-1], frameSample, outdir)
+        try:
+            del cache[str(outFrames[-1])]
+        except:
+            pass
+        try:
+            del frames[match]
+        except:
+            outFrames.append(match)
+            outFrames.extend(frames)
+            return outFrames
         outFrames.append(match)
+        gc.collect()
     return outFrames
 
 def main():
