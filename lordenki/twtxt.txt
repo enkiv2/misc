@@ -1855,3 +1855,6 @@
 2018-03-27T11:18:24-04:00	When coding style survives compilation: de-anonymizing programmers from executable binaries | the morning paper https://blog.acolyer.org/2018/03/16/when-coding-style-survives-compilation-de-anonymizing-programmers-from-executable-binaries/
 2018-03-27T11:21:11-04:00	A practitionerâs guide to reading programming languages papers | the morning paper https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 2018-03-27T11:21:20-04:00	Band name of the day: The Known
+2018-03-28T07:12:13-04:00	Married â¦ With Children History: How Terry Rakolta Changed Television https://tedium.co/2018/03/27/married-with-children-terry-rakolta/
+2018-03-28T08:29:04-04:00	Ad Scammers Need Suckers, and Facebook Helps Find Them - Bloomberg https://www.bloomberg.com/news/features/2018-03-27/ad-scammers-need-suckers-and-facebook-helps-find-them
+2018-03-28T08:50:39-04:00	Band name of the day: the submerged man

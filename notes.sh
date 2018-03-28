@@ -24,3 +24,12 @@ function lnote() {
 	fi
 }
 
+bnotd () 
+{ 
+    echo "$@" | addnote;
+    post "Band name of the day: $@"
+}
+biotd () 
+{ 
+    post "Bad idea of the day: $@"
+}
