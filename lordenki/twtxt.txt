@@ -1858,3 +1858,20 @@
 2018-03-28T07:12:13-04:00	Married â¦ With Children History: How Terry Rakolta Changed Television https://tedium.co/2018/03/27/married-with-children-terry-rakolta/
 2018-03-28T08:29:04-04:00	Ad Scammers Need Suckers, and Facebook Helps Find Them - Bloomberg https://www.bloomberg.com/news/features/2018-03-27/ad-scammers-need-suckers-and-facebook-helps-find-them
 2018-03-28T08:50:39-04:00	Band name of the day: the submerged man
+2018-03-28T09:08:03-04:00	Think Again https://thinkagain.ought.org/
+2018-03-28T09:10:47-04:00	Punding - Wikipedia https://en.wikipedia.org/wiki/Punding
+2018-03-28T09:11:50-04:00	Knolling - Wikipedia https://en.wikipedia.org/wiki/Knolling
+2018-03-28T09:29:02-04:00	Pin-Ups: David Bowie Goes to the Movies https://www.tiff.net/the-review/david-bowie-goes-to-the-movies/
+2018-03-28T11:22:32-04:00	Hot take: big tech exists only as a failure to create small (human-scale) tech. Facebook & twitter represents a failure to create & publicize p2p alternatives.
+2018-03-28T11:25:56-04:00	Architectural Mystery: Ruin Researcher Explores Ancient Temple's Hidden History - 99% Invisible https://99percentinvisible.org/article/architectural-mystery-ruin-researcher-explores-ancient-temples-hidden-history/
+2018-03-28T11:27:01-04:00	Facebook Has Had Countless Privacy Scandals. But This One Is Different. https://www.buzzfeed.com/charliewarzel/why-facebooks-data-scandal-just-wont-quit
+2018-03-28T11:30:25-04:00	Why Big Tech Needs Big Ethics — Right Now! – Lauren Weinstein's Blog https://lauren.vortex.com/2018/03/24/why-big-tech-needs-big-ethics-right-now
+2018-03-28T11:33:20-04:00	With Musical Cryptography, Composers Can Hide Messages in Their Melodies - Atlas Obscura https://www.atlasobscura.com/articles/musical-cryptography-codes
+2018-03-28T12:11:28-04:00	My Cow Game Extracted Your Facebook Data - The Atlantic https://www.theatlantic.com/technology/archive/2018/03/my-cow-game-extracted-your-facebook-data/556214/
+2018-03-28T12:38:28-04:00	Re: 'architecture is fate' -- a more accurate version is 'precedent is easily mistaken for fate'. Part of the problem is creating bad precedent; part is not looking closely enough to distinguish esence from accident.
+2018-03-28T14:40:10-04:00	Interview : EBN - YouTube https://www.youtube.com/watch?v=2uYXI-5rkOo
+2018-03-28T14:40:30-04:00	Secret History of Silicon Valley - YouTube https://www.youtube.com/watch?v=ZTC_RxWN_xo
+2018-03-28T14:58:09-04:00	Bad idea of the day: video theramin
+2018-03-28T15:02:16-04:00	Bad idea of the day: use the luma channel from one VCR and the chroma channel from a different one
+2018-03-28T21:37:30-04:00	Letting neural networks be weird • April Foolâs pranks written by neural network http://aiweirdness.com/post/172345256807/april-fools-pranks-written-by-neural-network
+2018-03-29T08:39:20-04:00	Using Ethics In Web Design â Smashing Magazine https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/
