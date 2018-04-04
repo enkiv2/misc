@@ -1875,3 +1875,31 @@
 2018-03-28T15:02:16-04:00	Bad idea of the day: use the luma channel from one VCR and the chroma channel from a different one
 2018-03-28T21:37:30-04:00	Letting neural networks be weird • April Foolâs pranks written by neural network http://aiweirdness.com/post/172345256807/april-fools-pranks-written-by-neural-network
 2018-03-29T08:39:20-04:00	Using Ethics In Web Design â Smashing Magazine https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/
+2018-03-29T10:19:57-04:00	GitHub - roamanalytics/mittens: A fast implementation of GloVe, with optional retrofitting https://github.com/roamanalytics/mittens
+2018-03-29T10:24:46-04:00	A history of the Amiga, part 12: Red vs. Blue | Ars Technica https://arstechnica.com/gadgets/2018/03/a-history-of-the-amiga-part-12-red-vs-blue/
+2018-03-29T11:08:09-04:00	It's Nice That | A chat with the Orwellian mastermind in charge of the UK town known as Scarfolk  https://www.itsnicethat.com/features/scarfolk-graphic-design-210318
+2018-03-30T08:41:35-04:00	Robert Virding, Mariano Guerra - Implementing Languages on the BEAM - Code BEAM SF 2018 - YouTube https://www.youtube.com/watch?v=lkAbwmn5Rv8
+2018-03-30T12:15:54-04:00	If Youâve Met Aliens While on DMT, These Scientists Would Like to Hear From You - Motherboard https://motherboard.vice.com/en_us/article/bjpjxm/dmt-aliens-study-johns-hopkins
+2018-03-30T15:37:48-04:00	For the first time in history, the internet makes it reasonable to expect people to already understand that nothing is unprecedented.
+2018-04-01T10:51:33-04:00	Big and small computing â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/big-and-small-computing-73dc49901b9a
+2018-04-01T10:56:43-04:00	Software utopianism in a flawed universe â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/software-utopianism-in-a-flawed-universe-20dd51cad195
+2018-04-01T11:01:55-04:00	Against UI standardization â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/against-ui-standardization-791b8bbc4fbe
+2018-04-01T11:07:07-04:00	How to fail at culture jamming â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/how-to-fail-at-culture-jamming-7b409abf5db5
+2018-04-01T11:12:19-04:00	Against trendism: how to defang the social media disinformation complex https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/against-trendism-how-to-defang-the-social-media-disinformation-complex-81a8e2635956
+2018-04-01T11:17:32-04:00	A design for a hypothetical undergraduate CS curriculum https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-design-for-a-hypothetical-undergraduate-cs-curriculum-1d776cc91b2c
+2018-04-01T11:22:43-04:00	Meditations on morality â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/meditations-on-morality-d6d4bb51d9e0
+2018-04-01T11:27:56-04:00	On tackiness â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/on-tackiness-3f9a1c46ea4b
+2018-04-01T18:09:49-04:00	Ad-tech and fatigue â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/ad-tech-and-fatigue-b918bee5ee75
+2018-04-01T18:10:16-04:00	The manufacture of steam-engine time â Rococo Modem Basilisk â Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-manufacture-of-steam-engine-time-9f83cd24a9b0
+2018-04-02T12:03:54-04:00	Good Game Well Played: The Story of the Staying Power of âStarCraftâ - The Ringer https://www.theringer.com/2018/3/30/17179036/1998-video-games-starcraft-turns-20
+2018-04-02T13:49:53-04:00	What we talk about when we talk about post-truth | Aeon Ideas https://aeon.co/ideas/what-we-talk-about-when-we-talk-about-post-truth
+2018-04-03T08:29:39-04:00	Connective disintegration – Axxon N. Horror https://axxonnhorror.wordpress.com/2018/03/24/connective-disintegration/
+2018-04-03T09:25:58-04:00	Dungeons and Dragons, not chess and Go: why AI needs roleplay | Aeon Ideas https://aeon.co/ideas/dungeons-and-dragons-not-chess-and-go-why-ai-needs-roleplay
+2018-04-03T09:26:20-04:00	Bad idea of the day: an all-robot jam band
+2018-04-03T09:26:55-04:00	Band name of the day: tube-pork medley
+2018-04-03T09:58:30-04:00	GitHub - stardothosting/facebook-purge: Obfuscate, poison and purge all your facebook data permanently https://github.com/stardothosting/facebook-purge
+2018-04-03T10:20:12-04:00	My Own ‘Bad Story’: I Thought Journalism Would Make a Hero of Me  https://longreads.com/2018/04/03/my-own-bad-story-i-thought-journalism-would-make-a-hero-of-me/
+2018-04-03T10:24:59-04:00	Interview: Hideaki Anno VS. Yoshiyuki Tomino (Animage – 07/1994) | Wave Motion Cannon https://wavemotioncannon.com/2016/11/08/interview-hideaki-anno-vs-yoshiyuki-tomino-animage-071994/
+2018-04-03T10:33:19-04:00	Band name of the day: The Emergency
+2018-04-04T10:03:58-04:00	Phoenicia: an imaginary friend to nations in need of ancestors | Aeon Essays https://aeon.co/essays/phoenicia-an-imaginary-friend-to-nations-in-need-of-ancestors
+2018-04-04T10:34:57-04:00	I wonder if the recent Charlie Wartzel-spawned increase in the use of the term 'infocalypse' will affect the popularity of the music I've been releasing under that name for the past eleven years...
