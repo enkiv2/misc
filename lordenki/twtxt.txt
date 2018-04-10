@@ -1950,3 +1950,6 @@
 2018-04-10T09:06:30-04:00	Confessions of a fairy hunter | THE Features https://www.timeshighereducation.com/features/confessions-fairy-hunter
 2018-04-10T10:40:13-04:00	Samin Nosrat's 'Salt, Fat, Acid, Heat' and the Best Books for Learning How to Cook - The Atlantic https://www.theatlantic.com/entertainment/archive/2017/04/the-why-of-cooking-samin-nosrat/523923/
 2018-04-10T11:42:30-04:00	dan soucy / derivejoy Â· GitLab https://gitlab.com/danso/derivejoy
+2018-04-10T12:21:12-04:00	How to Build a Low-tech Internet - LOW-TECH MAGAZINE http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
+2018-04-10T12:50:14-04:00	Hot take: authenticity is a separate issue from control. 'Selling out' is a matter of centralized control of media, not of compromised 'individuality'. People are often genuinely individually awful.
+2018-04-10T13:01:29-04:00	Headlines making you anxious? Delay reading them | Oliver Burkeman | Life and style | The Guardian https://www.theguardian.com/lifeandstyle/2018/apr/06/how-to-handle-headline-anxiety-take-time-reading-news-oliver-burkeman
