@@ -107,9 +107,12 @@ def frames2vid(vidfile, fps, framenums, outdir, audiofile):
             return "\"mf://"+path+"\""
         else: return ""
     os.system("mencoder -oac copy -ovc lavc -mf fps="+str(fps)+
-        " -audiofile \""+outdir+"/"+audiofile+"\" "+
         " -o \""+vidfile+"\" "+
         " ".join(map(fileIfExists, framenums)))
+    os.system("mencoder -oac copy -ovc copy " +
+        " -audiofile \""+outdir+"/"+audiofile+"\" "+
+        "-o \"new_"+vidfile+"\" \""+vidfile+"\"")
+    os.system("mv \"new_"+vidfile+"\" \""+vidfile+"\"")
 def frame2audio(outdir, duration, idx, outfile):
     os.system("sox \""+outdir+"/audio.wav\" \""+outdir+"/"+outfile+"\" trim "+str(duration*idx)+" "+str(duration*(idx+1)))
 def frames2audio(outdir, fps, framenums):

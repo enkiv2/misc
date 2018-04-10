@@ -1903,3 +1903,50 @@
 2018-04-03T10:33:19-04:00	Band name of the day: The Emergency
 2018-04-04T10:03:58-04:00	Phoenicia: an imaginary friend to nations in need of ancestors | Aeon Essays https://aeon.co/essays/phoenicia-an-imaginary-friend-to-nations-in-need-of-ancestors
 2018-04-04T10:34:57-04:00	I wonder if the recent Charlie Wartzel-spawned increase in the use of the term 'infocalypse' will affect the popularity of the music I've been releasing under that name for the past eleven years...
+2018-04-04T11:24:02-04:00	Storming the Ivory Tower: Let's Pop Together Part 2 http://www.stormingtheivorytower.com/2018/03/lets-pop-together-part-2.html
+2018-04-05T05:55:58-04:00	revolt against the prevailing heterodoxy too
+2018-04-05T07:55:03-04:00	The Pitch https://pitchfork.com/thepitch/how-a-calypso-anthem-became-the-surreal-centerpiece-of-beetlejuice/
+2018-04-05T08:18:02-04:00	GitHub - endrazine/wcc: The Witchcraft Compiler Collection https://github.com/endrazine/wcc
+2018-04-05T08:30:12-04:00	In Defense of Design Thinking, Which Is Terrible + Subtraction.com https://www.subtraction.com/2018/04/02/in-defense-of-design-thinking-which-is-terrible/
+2018-04-05T08:34:32-04:00	TL;DR version of my 'big and small computing' essay: amateur & pro can & should coexist, and we should expand the amateur while making sure the stuff that matters is done by pros.
+2018-04-05T09:01:44-04:00	Mass Surveillance Memes Show Our Collective Anxiety Over Government Spying - Motherboard https://motherboard.vice.com/en_us/article/zmg3ky/surveillance-memes-nsa-fbi-facebook
+2018-04-05T09:03:40-04:00	Procedural Worlds from Simple Tiles http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html
+2018-04-06T08:49:30-04:00	IF Magazine : Free Texts : Download & Streaming : Internet Archive https://archive.org/details/ifmagazine
+2018-04-06T08:49:53-04:00	Heavy Metal Magazine : Free Texts : Download & Streaming : Internet Archive https://archive.org/details/heavy-metal-magazine
+2018-04-06T08:50:32-04:00	Remembering the â70s activist group that tried to save us from the tech industry | The Outline https://theoutline.com/post/4029/computer-people-for-peace-history
+2018-04-06T09:37:54-04:00	Review: John Bargh’s “Before You Know It” – Mind Hacks https://mindhacks.com/2018/04/04/review-john-barghs-before-you-know-it/
+2018-04-06T09:40:55-04:00	Goodhart’s Law and Why Measurement is Hard https://www.ribbonfarm.com/2016/06/09/goodharts-law-and-why-measurement-is-hard/
+2018-04-06T09:41:14-04:00	A graph that is made by perceiving it – Mind Hacks https://mindhacks.com/2018/02/25/a-graph-that-is-made-by-perceiving-it/
+2018-04-06T09:42:07-04:00	spaced repetition & Darwin’s golden rule – Mind Hacks https://mindhacks.com/2018/02/26/spaced-repetition-darwins-golden-rule/
+2018-04-06T09:54:07-04:00	The Scientific Paper Is Obsolete. Here's What's Next. - The Atlantic https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+2018-04-06T11:32:27-04:00	The lucid dreaming playbook: how to take charge of your dreams | Aeon Ideas https://aeon.co/ideas/the-lucid-dreaming-playbook-how-to-take-charge-of-your-dreams
+2018-04-06T11:50:44-04:00	Decentralization Dilemma â Molus https://www.molus.org/blog/decentralization-dilemma/
+2018-04-06T11:55:17-04:00	How to Gopher http://davebucklin.com/play/2018/03/31/how-to-gopher.html
+2018-04-06T11:59:21-04:00	Formatting for Gopher with GNU troff http://davebucklin.com/play/2018/03/04/gopher-groff.html
+2018-04-07T14:39:02-04:00	We Have Accepted Mediocrity - YouTube https://www.youtube.com/watch?v=GHGAgE19NFE
+2018-04-07T14:39:24-04:00	David Lynch: The Treachery of Language - YouTube https://www.youtube.com/watch?v=ffllV6-aqWU
+2018-04-07T14:39:44-04:00	Isekai Anime Survival Guide - Public Service Anime - YouTube https://www.youtube.com/watch?v=LF2DzAQYw68
+2018-04-07T14:41:07-04:00	ONE HIT WONDERLAND: "Pepper" by Butthole Surfers - YouTube https://www.youtube.com/watch?v=zIjE8R_j5h4
+2018-04-08T17:56:24-04:00	Blood and Sand  All You Ever Wanted to Know About Spanish Horror Films - YouTube https://www.youtube.com/watch?v=IYnS3P8pp9Y
+2018-04-08T18:06:41-04:00	Blood And Black Lace - The History Of Italian Horror Film - YouTube https://www.youtube.com/watch?v=1fb_j2v_VtE
+2018-04-08T18:19:05-04:00	Strange Behavior - Cult Films Of Eurocine Studios - YouTube https://www.youtube.com/watch?v=6C7g-KJJIFg
+2018-04-09T08:14:15-04:00	Hot take: if you have more than one user or you're taking money from anybody, 'break things' should not be part of your motto, unless your job is literally demolition.
+2018-04-09T08:28:53-04:00	Somebody on mastodon linked me to this, and it's a fantastic syllabus. Highly recommend reading ALL of these: https://paper.dropbox.com/doc/hyperreal-VRp8uyehhIOdW3tET3O64
+2018-04-09T08:59:43-04:00	Band name of the day: urban foxes
+2018-04-09T09:04:38-04:00	After Authenticity http://subpixel.space/entries/after-authenticity/
+2018-04-09T09:06:30-04:00	Operant Conditioning by Software Bugs – Embedded in Academia https://blog.regehr.org/archives/861
+2018-04-09T09:09:36-04:00	Molly Ringwald Revisits âThe Breakfast Clubâ in the Age of #MeToo | The New Yorker https://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink
+2018-04-09T10:11:43-04:00	A Mass of Copyrighted Works Will Soon Enter the Public Domain - The Atlantic https://www.theatlantic.com/technology/archive/2018/04/copywritten-so-dont-copy-me/557420/
+2018-04-09T10:53:17-04:00	Why itâs as hard to escape an echo chamber as it is to flee a cult | Aeon Essays https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult
+2018-04-09T12:12:27-04:00	How to keep your ISPâs nose out of your browser history with encrypted DNS | Ars Technica https://arstechnica.com/information-technology/2018/04/how-to-keep-your-isps-nose-out-of-your-browser-history-with-encrypted-dns/
+2018-04-09T12:41:51-04:00	Yeah, this is almost exactly what I did too: https://www.theverge.com/circuitbreaker/2017/7/27/16035508/diy-wearable-computer-google-glass-raspberry-pi-instructions
+2018-04-09T12:46:06-04:00	Cramulus | In the future, dolphins, elephants, and several... http://cramul.us/post/172758639737/in-the-future-dolphins-elephants-and-several
+2018-04-09T12:48:41-04:00	Band name of the day: mouthbrow
+2018-04-09T12:49:06-04:00	Band name of the day: selfies with bears
+2018-04-09T13:15:56-04:00	The dots do matter: how to scam a Gmail user https://jameshfisher.com/2018/04/07/the-dots-do-matter-how-to-scam-a-gmail-user.html
+2018-04-09T13:21:52-04:00	These Fortune-Telling Tea Cups Made Divination Easy - Gastro Obscura https://www.atlasobscura.com/articles/fortune-telling-tea-cups
+2018-04-09T13:39:55-04:00	Band name of the day: illegal anatomy
+2018-04-09T13:53:42-04:00	So, which one of you are gonna fill the blockchain with anarchocommunist pamphlets?
+2018-04-10T09:06:30-04:00	Confessions of a fairy hunter | THE Features https://www.timeshighereducation.com/features/confessions-fairy-hunter
+2018-04-10T10:40:13-04:00	Samin Nosrat's 'Salt, Fat, Acid, Heat' and the Best Books for Learning How to Cook - The Atlantic https://www.theatlantic.com/entertainment/archive/2017/04/the-why-of-cooking-samin-nosrat/523923/
+2018-04-10T11:42:30-04:00	dan soucy / derivejoy Â· GitLab https://gitlab.com/danso/derivejoy
