@@ -2,5 +2,5 @@
 args="$@"
 t post "$args"
 yes | twtxt tweet "$args"
-echo "toot $args" | tootstream
+echo -e "toot -v $args\nu" | tootstream
 

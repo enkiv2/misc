@@ -1974,3 +1974,7 @@
 2018-04-11T08:54:40-04:00	Lessons Learned Reproducing a Deep Reinforcement Learning Paper http://amid.fish/reproducing-deep-rl
 2018-04-11T11:21:57-04:00	Band name of the day: apes with ape problems
 2018-04-11T11:28:14-04:00	Why Does "=" Mean Assignment? â¢ Hillel Wayne https://www.hillelwayne.com/post/equals-as-assignment/
+2018-04-11T11:42:05-04:00	Band name of the day: all-purpose survival cracker
+2018-04-11T13:40:53-04:00	Are 'Learning Styles' Real? - The Atlantic https://www.theatlantic.com/science/archive/2018/04/the-myth-of-learning-styles/557687/
+2018-04-11T13:56:10-04:00	Brutalist design is the bad influence we all need https://www.imaginarycloud.com/blog/why-we-need-web-brutalism/
+2018-04-11T13:56:27-04:00	Alex Schroeder: 2018-01-10 Encrypted Gopher https://alexschroeder.ch/wiki/2018-01-10_Encrypted_Gopher
