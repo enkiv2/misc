@@ -1953,3 +1953,24 @@
 2018-04-10T12:21:12-04:00	How to Build a Low-tech Internet - LOW-TECH MAGAZINE http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
 2018-04-10T12:50:14-04:00	Hot take: authenticity is a separate issue from control. 'Selling out' is a matter of centralized control of media, not of compromised 'individuality'. People are often genuinely individually awful.
 2018-04-10T13:01:29-04:00	Headlines making you anxious? Delay reading them | Oliver Burkeman | Life and style | The Guardian https://www.theguardian.com/lifeandstyle/2018/apr/06/how-to-handle-headline-anxiety-take-time-reading-news-oliver-burkeman
+2018-04-10T15:31:17-04:00	Hive Minds, Mind Hives - YouTube https://www.youtube.com/watch?v=6GAicTW7MGo
+2018-04-10T16:38:04-04:00	Ubik: apply directly to the forehead
+2018-04-10T16:51:04-04:00	The Verge Book Club 001 -'Ubik' - YouTube https://www.youtube.com/watch?v=sBiHiShnhso
+2018-04-10T17:03:32-04:00	Band name of the day: beyond taste
+2018-04-10T18:47:58-04:00	Band name of the day: night shape
+2018-04-10T18:55:58-04:00	Band name of the day: an unorthodox guidance
+2018-04-10T19:12:35-04:00	Pay for Your Words | Peter Pomerantsev | Granta Magazine  https://granta.com/pay-for-your-words/
+2018-04-10T19:13:56-04:00	What is more terrifying -- that  know something about you that you don't know yourself, or that even though you have no self -- no center other than an arithmetic mean --  can still predict your absurdities better than you can?
+2018-04-10T19:14:20-04:00	What is more terrifying -- that `they` know something about you that you don't know yourself, or that even though you have no self -- no center other than an arithmetic mean -- `they` can still predict your absurdities better than you can?
+2018-04-10T20:09:41-04:00	Please describe the precise nature of the absurdity.
+2018-04-10T20:21:29-04:00	Your Pretty Face is Going to Sell : Open Space https://openspace.sfmoma.org/2018/04/your-pretty-face-is-going-to-sell/
+2018-04-11T07:09:56-04:00	Band name of the day: beaverduck
+2018-04-11T07:59:33-04:00	A Taxonomy of Tech Debt | Riot Games Engineering https://engineering.riotgames.com/news/taxonomy-tech-debt
+2018-04-11T08:13:57-04:00	How to Make Everything Ourselves: Open Modular Hardware - LOW-TECH MAGAZINE http://www.lowtechmagazine.com/2012/12/how-to-make-everything-ourselves-open-modular-hardware.html
+2018-04-11T08:17:29-04:00	Designing better file organization around tags, not hierarchies https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies
+2018-04-11T08:33:53-04:00	Ontology http://www.acutesoftware.com.au/aikif/ontology.html
+2018-04-11T08:44:44-04:00	Whatâs Really at Stake in the Battle for âIdeological Diversityâ at Elite Media Outlets https://theintercept.com/2018/04/10/kevin-williamson-atlantic-ideological-diversity/
+2018-04-11T08:54:03-04:00	Code and Data for the Social Sciences:A Practitioner's Guide http://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml
+2018-04-11T08:54:40-04:00	Lessons Learned Reproducing a Deep Reinforcement Learning Paper http://amid.fish/reproducing-deep-rl
+2018-04-11T11:21:57-04:00	Band name of the day: apes with ape problems
+2018-04-11T11:28:14-04:00	Why Does "=" Mean Assignment? â¢ Hillel Wayne https://www.hillelwayne.com/post/equals-as-assignment/
