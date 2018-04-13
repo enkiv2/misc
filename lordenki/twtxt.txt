@@ -1978,3 +1978,25 @@
 2018-04-11T13:40:53-04:00	Are 'Learning Styles' Real? - The Atlantic https://www.theatlantic.com/science/archive/2018/04/the-myth-of-learning-styles/557687/
 2018-04-11T13:56:10-04:00	Brutalist design is the bad influence we all need https://www.imaginarycloud.com/blog/why-we-need-web-brutalism/
 2018-04-11T13:56:27-04:00	Alex Schroeder: 2018-01-10 Encrypted Gopher https://alexschroeder.ch/wiki/2018-01-10_Encrypted_Gopher
+2018-04-11T15:18:55-04:00	TXR Language http://nongnu.org/txr/
+2018-04-11T15:20:24-04:00	TXR Language http://nongnu.org/txr/
+2018-04-11T15:21:33-04:00	TXR Language http://nongnu.org/txr/
+2018-04-11T18:04:30-04:00	Eromanga-Sensei: One Year Later - YouTube https://www.youtube.com/watch?v=B4QVE87UfX8
+2018-04-12T07:41:46-04:00	The gopher onion initiative project gopher://bitreich.org/1/onion
+2018-04-12T07:52:38-04:00	Re: TLS in Gopher https://lists.debian.org/gopher-project/2018/02/msg00038.html
+2018-04-12T09:02:57-04:00	Have you tried proving parts of the problem insoluble?
+2018-04-12T09:09:11-04:00	Band name of the day: suddenly hyperconnected to the real
+2018-04-12T09:12:02-04:00	Center for a Stateless Society  » Black Market Mutualism and the Soul of Society https://c4ss.org/content/50650
+2018-04-12T09:43:28-04:00	Reddit redesigned its site and it could kill discussion subreddits – Change My View https://changemyview.net/2018/04/11/reddit-redesigned-its-site-and-it-could-kill-discussion-subreddits/
+2018-04-12T09:51:45-04:00	PaintsChainer http://paintschainer.preferred.tech/index_en.html
+2018-04-12T10:06:01-04:00	Creating Passionate Users: Is Twitter TOO good? http://headrush.typepad.com/creating_passionate_users/2007/03/is_twitter_too_.html
+2018-04-12T10:24:40-04:00	Band name of the day: seated humans with large heads
+2018-04-12T10:24:59-04:00	Band name of the day: the vocal statue
+2018-04-12T10:26:27-04:00	Listen to the Sick Beats of Rhubarb Growing in the Dark  - Gastro Obscura https://www.atlasobscura.com/articles/forced-rhubarb-makes-sound
+2018-04-12T10:32:49-04:00	The junhu and the art of everyday politics in imperial China | Aeon Essays https://aeon.co/essays/the-junhu-and-the-art-of-everyday-politics-in-imperial-china
+2018-04-12T11:01:55-04:00	I Lived Exclusively Off Doomsday Prepper Food for a Week - MUNCHIES https://munchies.vice.com/en_us/article/vbx399/what-does-prepper-food-taste-like-v25n1
+2018-04-12T11:26:13-04:00	How American Chopper, And Other Preferential Memes, Took Over The Internet - Digg http://digg.com/2018/american-chopper-meme
+2018-04-12T11:45:21-04:00	GÃ¶del's First Incompleteness Theorem for Programmers — Adventures https://dvt.name/2018/03/12/godels-first-incompleteness-theorem-programmers/
+2018-04-12T11:47:09-04:00	GÃ¶delâs Second Incompleteness Theorem for Programmers — Adventures https://dvt.name/2018/04/11/godels-second-incompleteness-theorem-programmers/
+2018-04-12T15:37:42-04:00	Band name of the day: the jugglaries of the memnonium
+2018-04-12T16:54:42-04:00	Band name of the day: the teeming millions
