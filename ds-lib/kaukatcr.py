@@ -40,13 +40,14 @@ def Kdef(interpreterHead, currCell):
     remote=n.clone()
     interpreterHead.rankHead("d.funcs", True).setNext("d.funcs", remote)
     n=n.getNext("d.exec")
-    while n!=None and n!="end":
+    while n!=None and n!="end" and n!=";;":
         remote=rankPush(remote, "d.exec", n.clone())
         n=n.getNext("d.exec")
     if(n):
         return n.getNext("d.exec")
     return n
 builtins["def"]=Kdef
+builtins[":"]=Kdef
 def Kif(interpreterHead, currCell):
     if(rankPop(interpreterHead, "d.stack").getValue()):
         return currCell.getNext("d.branch")
