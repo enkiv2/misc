@@ -34,6 +34,10 @@ def Krot(interpreterHead, currCell):
     rankPush(interpreterHead, "d.stack", item2)
     return currCell.getNext("d.exec")
 builtins["rot"]=Krot 
+def Kpop(interpreterHead, currCell):
+    rankPop(interpreterHead, "d.stack")
+    return currCell.getNext("d.exec")
+builtins["pop"]=Kpop
 # Control flow builtins
 def Kdef(interpreterHead, currCell):
     n=currCell.getNext("d.exec")
