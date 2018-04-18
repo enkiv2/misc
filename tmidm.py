@@ -50,11 +50,12 @@ def train(files):
                 occurrence[word1][word2]+=1
         sys.stderr.write(".")
     sys.stderr.write("\n")
-
+    del docs
+    del background
     for word1 in composite.keys():
         for word2 in composite[word1].keys():
             composite[word1][word2]/=(1.0*occurrence[word1][word2])
-
+    del occurrence
     return composite
 
 def chainNext(composite, start):
@@ -65,21 +66,18 @@ def chainNext(composite, start):
 
 def chain(composite, start):
     ret=[]
-    ret.append(start)
     sys.stdout.write(start)
     sys.stdout.write(" ")
     item=chainNext(composite, start)
     while(item!=""):
-        ret.append(item)
         sys.stdout.write(item)
         sys.stdout.write(" ")
         sys.stdout.flush()
         item=chainNext(composite, item)
-    return " ".join(ret)
 
 def main():
-    composite=train(sys.argv)
-    print(chain(composite, ""))
+    composite=train(sys.argv[1:])
+    chain(composite, "")
 
 if __name__=="__main__":
     main()
