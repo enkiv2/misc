@@ -15,6 +15,7 @@ def train(files):
     for doc in files:
         docModel={}
         corpus=" ".join(open(doc, 'r').readlines())
+        corpus.replace("  ", "\\n")
         corpus.lower()
         words=corpus.split()
         words.append("")
@@ -66,11 +67,11 @@ def chainNext(composite, start):
 
 def chain(composite, start):
     ret=[]
-    sys.stdout.write(start)
+    sys.stdout.write(start.replace("\\n", "\n"))
     sys.stdout.write(" ")
     item=chainNext(composite, start)
     while(item!=""):
-        sys.stdout.write(item)
+        sys.stdout.write(item.replace("\\n", "\n"))
         sys.stdout.write(" ")
         sys.stdout.flush()
         item=chainNext(composite, item)
