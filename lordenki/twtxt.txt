@@ -2000,3 +2000,44 @@
 2018-04-12T11:47:09-04:00	GÃ¶delâs Second Incompleteness Theorem for Programmers — Adventures https://dvt.name/2018/04/11/godels-second-incompleteness-theorem-programmers/
 2018-04-12T15:37:42-04:00	Band name of the day: the jugglaries of the memnonium
 2018-04-12T16:54:42-04:00	Band name of the day: the teeming millions
+2018-04-13T09:39:57-04:00	Oh hey this paper is making the rounds again: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268
+2018-04-13T10:53:44-04:00	I love Wait But Why, and so it's a real shame that Tim Urban has transformed into Elon Musk's personal PR guy for the past few years, rather than writing on a wider array of topics.
+2018-04-13T13:48:46-04:00	Epistemic status: U MAD BRO?
+2018-04-13T14:34:15-04:00	Band name of the day: powerhammer
+2018-04-13T17:08:20-04:00	Kaukatcr: an experiment in language design for multi-dimensional spaces http://www.lord-enki.net/medium-backup/2018-04-12_Kaukatcr--an-experiment-in-language-design-for-multi-dimensional-spaces-cc038caafff9.html
+2018-04-13T17:35:16-04:00	Let’s Replace JavaScript with Something Better https://john.ankarstrom.se/english/texts/replacing-javascript/
+2018-04-13T19:45:41-04:00	Band name of the day: the dark courage to sin
+2018-04-13T22:17:52-04:00	Kyousougiga And The Nostalgia Of Home - YouTube https://www.youtube.com/watch?v=aYLTAqMv1DM
+2018-04-13T22:18:33-04:00	Video Ethnography of "ICARUS " on the Xerox Alto - YouTube https://www.youtube.com/watch?v=BauuOoB6EIU
+2018-04-13T22:19:12-04:00	The Thin White Duke: David Bowie's Darkest Character - YouTube https://www.youtube.com/watch?v=ofeSZJJ_fxQ
+2018-04-13T22:19:37-04:00	How Uber Got Ahead By Breaking The Rules - YouTube https://www.youtube.com/watch?v=Jm4I93gVVP4
+2018-04-13T23:00:39-04:00	The Web That Wasn't - YouTube https://www.youtube.com/watch?v=72nfrhXroo8
+2018-04-14T14:38:02-04:00	Urasawa Naoki no Manben: Itou Junji (S4E2, 2017) [english subs] - YouTube https://www.youtube.com/watch?v=OZ44yJgPBzE&list=PL1JoX06lyHW58diQaYk_wFyCw1jVC02NH
+2018-04-15T10:45:47-04:00	Web 2.0 Expo NY: Clay Shirky (shirky.com) It's Not Information Overload. It's Filter Failure. - YouTube https://www.youtube.com/watch?v=LabqeJEOQyI
+2018-04-15T13:41:24-04:00	Xanadu Basics 1a - VISIBLE CONNECTION - YouTube https://www.youtube.com/watch?v=hMKy52Intac
+2018-04-15T13:41:24-04:00	Changlin Li - Moving Beyond Defensive Programming - YouTube https://www.youtube.com/watch?v=Csj3lzsr0_I
+2018-04-16T09:31:52-04:00	If nothing else, Peterson is really good at making people write at length about him, even when they're not sure if he's actually saying anything: http://slatestarcodex.com/2018/04/03/highlights-from-the-comments-on-twelve-rules/
+2018-04-16T09:52:51-04:00	GitHub - geophile/osh: Osh (Object SHell) is a command-line and API toolkit combining cluster access, database access, and data slicing and dicing. Sort of like awk and cssh morsels wrapped up in a Python crust. https://github.com/geophile/osh
+2018-04-16T10:00:38-04:00	graydon2 | programming languages and empiricism https://graydon2.dreamwidth.org/259333.html
+2018-04-16T10:06:02-04:00	Cambridge Analytica is bad, but Palantir is fucking terrifying | The Outline https://theoutline.com/post/3978/peter-thiel-knows-you-ran-that-red-light
+2018-04-16T10:14:04-04:00	How to change the course of human history | Eurozine https://www.eurozine.com/change-course-human-history/
+2018-04-16T13:29:17-04:00	Chain Letter Evolution http://www.silcom.com/~barnowl/chain-letter/evolution.html
+2018-04-16T16:47:06-04:00	2017 ACM PPoPP Keynote: It's Time for a New Old Language - YouTube https://www.youtube.com/watch?v=7HKbjYqqPPQ
+2018-04-16T17:48:20-04:00	Bad idea of the day: quantitative poststructuralism (with corpus statistics ofc)
+2018-04-16T17:50:39-04:00	The reason it's a bad idea is that the kind of people who badmouth poststructuralist methods as unscientific will do so even while using them. (See: Jordon Peterson)
+2018-04-17T07:09:24-04:00	Parsing timeline v3: https://jeffreykegler.github.io/personal/timeline_v3
+2018-04-17T07:23:49-04:00	Not news to anybody paying attention, but I still feel like it's worth a visibility boost: https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html
+2018-04-17T08:23:56-04:00	If you need something to watch, start with these: https://news.ycombinator.com/item?id=16857613
+2018-04-17T08:39:35-04:00	OLPCâs $100 laptop was going to change the world â then it all went wrong - The Verge https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now
+2018-04-17T09:30:05-04:00	The citation graph is one of humankind's most important intellectual achievements / Boing Boing https://boingboing.net/2018/04/14/open-graphs.html
+2018-04-17T09:42:45-04:00	The chemistry of William Gibson’s Neuromancer. » Chemistry Blog http://www.chemistry-blog.com/2018/04/16/the-chemistry-of-william-gibsons-neuromancer/
+2018-04-17T10:22:15-04:00	The Overlooked Wonders of Soviet-Era Industrial Design - Atlas Obscura https://www.atlasobscura.com/articles/soviet-design-history
+2018-04-17T15:40:26-04:00	Encoding data in dubstep drops https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops
+2018-04-17T16:02:58-04:00	Pete Corey - Writing Mandelbrot Fractals with Hooks and Forks http://www.petecorey.com/blog/2018/04/16/writing-mandelbrot-factals-with-hooks-and-forks/
+2018-04-17T20:54:32-04:00	Band name of the day: international space crimes
+2018-04-18T09:32:19-04:00	Preface - APL and J https://crypto.stanford.edu/~blynn/c/apl.html
+2018-04-18T09:35:37-04:00	Oh boy: http://code.jsoftware.com/wiki/Essays/Incunabulum
+2018-04-18T09:40:50-04:00	mikeash.com: Friday Q&A 2009-02-20: The Good and Bad of Distributed Objects https://www.mikeash.com/pyblog/friday-qa-2009-02-20-the-good-and-bad-of-distributed-objects.html
+2018-04-18T09:44:24-04:00	BBC Sound Effects Archive Resource â¢ Research & Education Space http://bbcsfx.acropolis.org.uk/
+2018-04-18T10:04:29-04:00	Thread by @ptychomancer: "I love maps &amp; their promise of fractal discovery. I love procedural generation and the aesthetics of the unauthored. Where do these two [â¦]" https://threadreaderapp.com/thread/980968298002006016.html
+2018-04-18T10:06:48-04:00	GitHub - luanfujun/deep-painterly-harmonization: Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189 https://github.com/luanfujun/deep-painterly-harmonization#user-content-examples
