@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Term Markov Inverse Document Markov
 
@@ -59,14 +59,8 @@ def train(files):
 
 def chainNext(composite, start):
     options=composite[start]
-    opts2=[]
-    for item in options.keys():
-        for i in range(0, int(options[item])):
-            opts2.append(item)
-    item=random.choice(opts2)
-    while not (item in composite):
-        opts2.remove(item)
-        item=random.choice(opts2)
+    opts=list(options.keys())
+    item=random.choices(opts, map(lambda x: options[x], opts))[0]
     return item
 
 def chain(composite, start):
