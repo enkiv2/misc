@@ -2041,3 +2041,88 @@
 2018-04-18T09:44:24-04:00	BBC Sound Effects Archive Resource â¢ Research & Education Space http://bbcsfx.acropolis.org.uk/
 2018-04-18T10:04:29-04:00	Thread by @ptychomancer: "I love maps &amp; their promise of fractal discovery. I love procedural generation and the aesthetics of the unauthored. Where do these two [â¦]" https://threadreaderapp.com/thread/980968298002006016.html
 2018-04-18T10:06:48-04:00	GitHub - luanfujun/deep-painterly-harmonization: Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189 https://github.com/luanfujun/deep-painterly-harmonization#user-content-examples
+2018-04-18T13:40:39-04:00	This Must Be David Byrne | GQ https://www.gq.com/story/david-byrne-talking-heads-icon-profile
+2018-04-18T13:47:14-04:00	Band name of the day: it's coming through your hands
+2018-04-18T14:07:46-04:00	Charting Death https://owenshen24.github.io/charting-death/
+2018-04-18T14:09:21-04:00	Mathematicians Explore Mirror Link Between Two Geometric Worlds | Quanta Magazine https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/
+2018-04-19T11:08:35-04:00	Bad idea of the day: twitch plays pictionary
+2018-04-19T11:25:32-04:00	Loper OS » Why Hypercard Had to Die http://www.loper-os.org/?p=568
+2018-04-19T11:29:07-04:00	Loper OS » Seven Laws of Sane Personal Computing http://www.loper-os.org/?p=284
+2018-04-19T12:47:30-04:00	countercomplex: The resource leak bug of our civilization http://viznut.fi/texts-en/resource_leak_bug_of_our_civilization.html
+2018-04-19T16:09:29-04:00	Reminder: submissions open tomorrow for the no-budget film contest: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-04-20T09:01:52-04:00	Hans Holbeinâs Dance of Death (1523â5) – The Public Domain Review http://publicdomainreview.org/collections/hans-holbeins-dance-of-death-1523-5/
+2018-04-20T09:41:36-04:00	My Five Discordian Rituals | Historia Discordia http://historiadiscordia.com/my-five-discordian-rituals/
+2018-04-20T09:43:38-04:00	TIL that the technology for viewing US census data summaries is called DADS: https://factfinder.census.gov/help/en/data_access_and_dissemination_system_dads.htm
+2018-04-20T09:46:19-04:00	Is This Creepy Sculpture An Ad For Soylent? https://www.buzzfeed.com/katienotopoulos/soylent-sculpture-girlfriend
+2018-04-20T10:03:27-04:00	Claire Evansâs âBroad Bandâ Excerpt http://nymag.com/selectall/2018/04/claire-evanss-broad-band-excerpt.html
+2018-04-20T10:09:04-04:00	Eminent Philosophers Name the 43 Most Important Philosophy Books Written Between 1950-2000: Wittgenstein, Foucault, Rawls & More |  Open Culture http://www.openculture.com/2018/04/eminent-philosophers-name-the-43-most-important-philosophy-books-written-between-1950-2000.html
+2018-04-20T10:11:56-04:00	Construction grammar - Wikipedia https://en.wikipedia.org/wiki/Construction_grammar
+2018-04-20T10:43:14-04:00	Hot take: If you believe technological determinism cannot be effectively resisted, then how much the projected trajectory benefits you personally determines where you fall on the scale from Kevin Kelley to the Unabomber
+2018-04-20T10:51:11-04:00	Oh hey one of these is actually good: https://medium.com/the-long-now-foundation/megan-and-rick-prelingers-selected-books-for-the-manual-for-civilization-1853c7b93f2d
+2018-04-20T10:55:24-04:00	This one is good too -- you know somebody's taking it seriously when they include a book of random digits: https://medium.com/the-long-now-foundation/george-dysons-selections-for-the-manual-for-civilization-3efb5ab3db
+2018-04-20T11:23:54-04:00	How city birds evolved to be smarter than rural birds | Aeon Essays https://aeon.co/essays/how-city-birds-evolved-to-be-smarter-than-rural-birds
+2018-04-20T11:27:48-04:00	countercomplex: Counteracting alienation with technological arts and crafts http://viznut.fi/texts-en/counteracting_tech_alienation.html
+2018-04-20T12:08:32-04:00	Multics https://ban.ai/multics/
+2018-04-20T12:20:46-04:00	Band name of the day: a lawsuit waiting to happen
+2018-04-20T12:31:49-04:00	Bad idea of the day: a prolog repl, except pred definitions are checked in reverse definition order and all pred definitions not starting with underscore are persistent. you can export the persistent environment image as a regular prolog file.
+2018-04-20T12:49:05-04:00	What lies behind the simplistic image of the happy Buddhist? | Aeon Essays https://aeon.co/essays/what-lies-behind-the-simplistic-image-of-the-happy-buddhist
+2018-04-20T12:59:47-04:00	Bad idea of the day: a program that computes the degree to which the response to a query meets gricean maxims and, if beyond a threshhold, produces potential implicatures, on a synthetic logic-based language and an ontology
+2018-04-20T13:08:20-04:00	In The Mesh - Scuttlebutt, A Decentralized Alternative To Facebook https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/
+2018-04-20T13:09:53-04:00	Palantir Knows Everything About You https://www.bloomberg.com/features/2018-palantir-peter-thiel/
+2018-04-20T13:20:38-04:00	Probability Theory (For Scientists and Engineers) https://betanalpha.github.io/assets/case_studies/probability_theory.html
+2018-04-20T13:34:29-04:00	countercomplex: Bringing magic back to technology http://viznut.fi/texts-en/magic_back_to_technology.html
+2018-04-20T13:40:28-04:00	International May Day  » The Haymarket frame-up and the origins of May Day http://internationalmayday.org/the-haymarket-frame-up-and-the-origins-of-may-day/
+2018-04-20T13:45:03-04:00	Don't submit yourself to a game machine! | Countercomplex http://viznut.fi/texts-en/dont_submit_yourself_to_game_machine.html
+2018-04-20T13:47:51-04:00	An interesting correspondence table: http://viznut.fi/texts-en/ancient_binary_symbolism.html
+2018-04-20T14:05:06-04:00	countercomplex: Slower Moore's law wouldn't be that bad. http://viznut.fi/texts-en/slower_moores_law.html
+2018-04-20T14:35:21-04:00	The Lebowski Theorem of machine superintelligence https://kottke.org/18/04/the-lebowski-theorem-of-machine-superintelligence
+2018-04-20T18:06:09-04:00	Gerry Sussman - We Really Don't Know How to Compute! - YouTube https://www.youtube.com/watch?v=O3tVctB_VSU
+2018-04-20T18:31:41-04:00	Band name of the day: redundant and degenerate
+2018-04-20T18:41:36-04:00	Zebras All the Way Down - Bryan Cantrill, Uptime 2017 - YouTube https://www.youtube.com/watch?v=fE2KDzZaxvE
+2018-04-20T19:33:32-04:00	Effective Programs - 10 Years of Clojure - Rich Hickey - YouTube https://www.youtube.com/watch?v=2V1FtfBDsLU
+2018-04-20T22:34:38-04:00	Hot take: most of the code a non-programmer end user runs should be written by that non-programmer end user, the same way most of the food a non-chef eats was cooked by that non-chef
+2018-04-20T22:55:44-04:00	"Uncle" Bob Martin - "The Future of Programming" - YouTube https://www.youtube.com/watch?v=ecIWPzGEbFc
+2018-04-20T23:06:59-04:00	Band name of the day: write skew
+2018-04-21T10:05:24-04:00	Bret Victor   The Future of Programming - YouTube https://www.youtube.com/watch?v=8pTEmbeENF4
+2018-04-22T08:22:46-04:00	enki2: http://enki2.tumblr.com/post/173173968844/enki2-enki2-everything-is-easier-with-a
+2018-04-23T07:52:22-04:00	Katherine Maher, Wikimedia Executive Director Interview https://nymag.com/selectall/2018/04/katherine-maher-wikimedia-executive-director-interview.html
+2018-04-23T08:09:25-04:00	countercomplex: Reaching for the blocks of the living world http://viznut.fi/texts-en/reaching_for_the_blocks.html
+2018-04-23T09:05:12-04:00	A description of how Aquarius Prolog gets performance comparable to imperative languages: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf
+2018-04-23T10:05:48-04:00	countercomplex: How I view our species and our world http://viznut.fi/texts-en/our_species_and_our_world.html
+2018-04-23T10:30:41-04:00	The Book No One Read - Issue 28: 2050 - Nautilus http://nautil.us/issue/28/2050/the-book-no-one-read
+2018-04-23T10:38:46-04:00	Jaron Lanier Interview on What Went Wrong With the Internet http://nymag.com/selectall/2018/04/jaron-lanier-interview-on-what-went-wrong-with-the-internet.html
+2018-04-23T11:03:31-04:00	The Quest to Teach AI to Write Pop Songs https://gizmodo.com/the-quest-to-teach-ai-to-write-pop-songs-1824157220
+2018-04-23T11:09:08-04:00	Learning to see: Gloomy Sunday on Vimeo https://vimeo.com/260612034
+2018-04-23T11:57:29-04:00	Reminder -- entries are open for the 2018 no-budget film contest: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-04-23T12:28:42-04:00	$uptime - Mondo 2000 http://www.mondo2000.com/2018/03/21/2096/
+2018-04-23T18:00:21-04:00	"Consistency without consensus in production systems" by Peter Bourgon - YouTube https://www.youtube.com/watch?v=em9zLzM8O7c
+2018-04-24T08:08:33-04:00	General Magic is a film about the â90s startup that imagined the smartphone - The Verge https://www.theverge.com/2018/4/22/17233362/general-magic-movie-review-documentary-silicon-valley-tribeca-2018
+2018-04-24T08:59:53-04:00	Is English Wikipedia’s ‘rise and decline’ typical? – copyrighteous https://mako.cc/copyrighteous/revisiting-the-rise-and-decline
+2018-04-24T09:50:55-04:00	Band name of the day: cosmetic computing
+2018-04-24T10:15:17-04:00	Malcolm Harris on Glitch Capitalism and AI Logic http://nymag.com/selectall/2018/04/malcolm-harris-on-glitch-capitalism-and-ai-logic.html
+2018-04-24T10:19:17-04:00	Paper As a Substrate for Circuits «  bunnie's blog https://www.bunniestudios.com/blog/?p=5259
+2018-04-24T10:23:06-04:00	Memetics does provide a useful way of understanding cultural evolution - Dr Susan Blackmore https://www.susanblackmore.uk/chapters/memetics-does-provide-a-useful-way-of-understanding-cultural-evolution/
+2018-04-24T10:31:40-04:00	Null Object as identity http://blog.ploeh.dk/2018/04/23/null-object-as-identity/
+2018-04-24T10:32:06-04:00	Color: From Hexcodes to Eyeballs http://jamie-wong.com/post/color/
+2018-04-24T12:33:03-04:00	The Five Types Of Nicolas Cage Movies | FiveThirtyEight https://fivethirtyeight.com/features/the-five-types-of-nicolas-cage-movies/
+2018-04-24T14:17:48-04:00	403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake. http://freakonomics.com/2013/02/20/how-to-game-a-grading-curve/
+2018-04-24T18:43:46-04:00	David Nolen on Parsing With Derivatives - YouTube https://www.youtube.com/watch?v=FKiEsJiTMtI
+2018-04-24T18:59:24-04:00	Monktoberfest 2016: Bryan Cantrill - Oral Tradition in Software Engineering - YouTube https://www.youtube.com/watch?v=4PaWFYm0kEw
+2018-04-24T19:55:46-04:00	Spec-ulation Keynote - Rich Hickey - YouTube https://www.youtube.com/watch?v=oyLBGkS5ICk
+2018-04-25T07:46:44-04:00	Apparently, there's an upcoming Suspiria remake scored by Thom Yorke. Why didn't I know about this already?
+2018-04-25T10:25:43-04:00	http://markallenthornton.com/blog/numerical-advantage/
+2018-04-25T10:31:10-04:00	How K-pop became a propaganda tool | The Outline https://theoutline.com/post/4269/k-pop-propaganda-south-korea-north-korea-demilitarized-zone
+2018-04-25T12:46:04-04:00	HÃ¤irIÃ: Human Hair as Interactive Material - YouTube https://www.youtube.com/watch?v=8JV2D7gJ5HI
+2018-04-25T14:12:40-04:00	Stop Writing Classes - YouTube https://www.youtube.com/watch?v=o9pEzgHorH0
+2018-04-25T14:49:36-04:00	Observations on Modern Computing (The Last 10 Years Were a Misstep)  â ~ajroach42.com â I'm Andrew. I write about the past and future of tech, music, media, culture, art, and activism. This... http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-misstep/
+2018-04-25T15:12:38-04:00	"Propositions as Types" by Philip Wadler - YouTube https://www.youtube.com/watch?v=IOiZatlZtGU
+2018-04-25T16:18:21-04:00	Wolfenstein vs Call of Duty - The Need for âBâ Games - Extra Credits - YouTube https://www.youtube.com/watch?v=42OkO9gQoQA
+2018-04-26T08:47:40-04:00	esoteric.codes http://esoteric.codes/post/173030072108/interview-with-allison-parrish
+2018-04-26T10:09:19-04:00	The Kunst Saga | How the Right Wing Views Modern Art - YouTube https://www.youtube.com/watch?v=9M5RUoNfSyI
+2018-04-26T10:13:41-04:00	What happened to distributed programming languages? by Heather Miller - YouTube https://www.youtube.com/watch?v=eAcDWcaezXY
+2018-04-26T11:31:25-04:00	How Do Original Anime Get Made? | Anime Studio Spotlight - YouTube https://www.youtube.com/watch?v=PIUWZcZZHqw
+2018-04-26T15:56:50-04:00	The rise and fall and rise of logic | Aeon Essays https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic
+2018-04-27T09:27:44-04:00	How communist Bulgaria became a leader in tech and sci-fi | Aeon Essays https://aeon.co/essays/how-communist-bulgaria-became-a-leader-in-tech-and-sci-fi
+2018-04-27T10:30:43-04:00	The alt-right is drunk on bad readings of Nietzsche. The Nazis were too. - Vox https://www.vox.com/2017/8/17/16140846/alt-right-nietzsche-richard-spencer-nazism
+2018-04-29T10:36:02-04:00	IS SONIC 2 ABOUT CAPITALISM??!??!? | SERIOUS LORE ANALYSIS 3 - YouTube https://www.youtube.com/watch?v=TebCHHCw9rY
+2018-04-29T10:38:29-04:00	Bret Victor - Media for Thinking the Unthinkable - YouTube https://www.youtube.com/watch?v=oUaOucZRlmE
