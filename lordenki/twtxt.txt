@@ -2126,3 +2126,41 @@
 2018-04-27T10:30:43-04:00	The alt-right is drunk on bad readings of Nietzsche. The Nazis were too. - Vox https://www.vox.com/2017/8/17/16140846/alt-right-nietzsche-richard-spencer-nazism
 2018-04-29T10:36:02-04:00	IS SONIC 2 ABOUT CAPITALISM??!??!? | SERIOUS LORE ANALYSIS 3 - YouTube https://www.youtube.com/watch?v=TebCHHCw9rY
 2018-04-29T10:38:29-04:00	Bret Victor - Media for Thinking the Unthinkable - YouTube https://www.youtube.com/watch?v=oUaOucZRlmE
+2018-04-29T15:01:37-04:00	Band name of the day: institute of applied oneironautics
+2018-04-29T15:01:52-04:00	Band name of the day: institute of implied oneironautics
+2018-04-30T07:46:28-04:00	Radiohead - Burn The Witch - YouTube https://www.youtube.com/watch?v=yI2oS2hoL0k
+2018-04-30T08:23:27-04:00	Are you really Facebookâs product? The history of a dangerous idea. https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html
+2018-04-30T08:37:55-04:00	Language Design: Unified Condition Syntax https://soc.github.io/languages/unified-condition-syntax
+2018-04-30T08:48:51-04:00	Semantic Domain: Are functional programs easier to verify than imperative programs? http://semantic-domain.blogspot.com/2018/04/are-functional-programs-easier-to.html
+2018-04-30T10:24:37-04:00	Mathematicians Measure Infinities, Find Theyâre Equal | Quanta Magazine https://www.quantamagazine.org/mathematicians-measure-infinities-find-theyre-equal-20170912/
+2018-04-30T10:30:48-04:00	Language Log » Reconstructing deconstruction http://languagelog.ldc.upenn.edu/nll/?p=37876
+2018-04-30T10:39:27-04:00	A History of APL in 50 Functions http://www.jsoftware.com/papers/50/
+2018-04-30T10:39:58-04:00	Dao De Jing Translations http://www.daoisopen.com/ddjtranslations.html
+2018-04-30T10:42:23-04:00	Mathematical Illustrations http://www.math.ubc.ca/~cass/graphics/manual/
+2018-04-30T10:53:40-04:00	I tried leaving Facebook. I couldnât - The Verge https://www.theverge.com/2018/4/28/17293056/facebook-deletefacebook-social-network-monopoly
+2018-04-30T11:01:12-04:00	Lost in Math: Beauty != truth | Ars Technica https://arstechnica.com/science/2018/04/lost-in-math-beauty-truth/
+2018-04-30T11:05:19-04:00	GitHub - xoreaxeaxeax/movfuscator: The single instruction C compiler https://github.com/xoreaxeaxeax/movfuscator
+2018-04-30T11:27:25-04:00	Why Cars Intentionally Ramming Into Crowds Is A Relatively New Problem https://jalopnik.com/why-cars-intentionally-ramming-into-crowds-is-a-relativ-1797817536
+2018-04-30T11:36:49-04:00	An MSG Convert Visits the High Church of Umami | The New Yorker https://www.newyorker.com/culture/annals-of-gastronomy/an-msg-convert-visits-the-high-church-of-umami
+2018-04-30T13:17:39-04:00	Capitalism and Art - YouTube https://www.youtube.com/watch?v=HwJBI6lWmpQ
+2018-04-30T13:36:44-04:00	NOW THATS WHAT I CALL FUCK | fuckcore https://fuckcore.bandcamp.com/album/now-thats-what-i-call-fuck
+2018-04-30T13:46:17-04:00	Barbara Kruger - 52 Artworks, Bio & Shows on Artsy https://www.artsy.net/artist/barbara-kruger
+2018-04-30T13:47:07-04:00	Imperfect Uncertainty | endless state machine https://endless-state-machine.bandcamp.com/album/imperfect-uncertainty
+2018-04-30T13:48:06-04:00	On word embeddings - Part 1 http://ruder.io/word-embeddings-1/
+2018-04-30T14:22:13-04:00	A Mass of Copyrighted Works Will Soon Enter the Public Domain - The Atlantic https://www.theatlantic.com/technology/archive/2018/04/copywritten-so-dont-copy-me/557420/
+2018-04-30T14:25:53-04:00	Band name of the day: bundle of sleep
+2018-05-01T07:50:36-04:00	Zsh Native Scripting Handbook http://zdharma.org/Zsh-100-Commits-Club/Zsh-Native-Scripting-Handbook.html
+2018-05-01T07:55:08-04:00	Art Bell and âCoast to Coast AMâ represented a time when conspiracy theories were innocent | The Outline https://theoutline.com/post/4343/art-bell-coast-to-coast-am-obitiuary
+2018-05-01T08:01:35-04:00	The Dream and Promise of Multimedia, Regainedâ¦ â Midboss (Em) â Medium https://medium.com/@midboss/the-dream-and-promise-of-multimedia-regained-e515e99b36ad
+2018-05-01T08:02:18-04:00	my friend pokey â note dump, dump notes http://myfriendpokey.tumblr.com/post/171904353715/note-dump-dump-notes
+2018-05-01T08:06:10-04:00	About âReal UFO Storiesâ and more broadly, typologies https://medium.com/@midboss/about-real-ufo-stories-and-more-broadly-typologies-cd8be21db40f
+2018-05-01T08:07:55-04:00	Band name of the day: perceptual snake machine
+2018-05-01T08:43:21-04:00	First IC :) – Sam Zeloof http://sam.zeloof.xyz/first-ic/
+2018-05-01T08:57:03-04:00	I would like to wish all of you a very happy international socialist solidarity day
+2018-05-01T10:13:01-04:00	Band name of the day: struck by flying items
+2018-05-01T10:23:34-04:00	The protest songs that drove the Wobblies a century ago are still lighting fires | Music Feature | Chicago Reader https://www.chicagoreader.com/chicago/little-red-songbook-iww-wobblies-joe-hill-may-day/Content?oid=46456670
+2018-05-01T10:34:34-04:00	Is Your Job Lynchian, or Is It More Kafkaesque?  https://longreads.com/2018/04/26/is-your-job-lynchian-or-is-it-more-kafkaesque/
+2018-05-01T11:01:36-04:00	In Vernor Vinge's 2006 novel Rainbows End, there's a group called FOP (Friends Of Privacy) who are a radical misinformation-chaffing charity. Basically, they spread large amounts of fake, believable, and boring dox about people, so that automated analysis of OSINT has to work harder.
+2018-05-01T11:26:00-04:00	GitHub - motherboardgithub/mass_archive: A basic tool for pushing a web page to multiple archiving services at once. https://github.com/motherboardgithub/mass_archive
+2018-05-01T11:29:52-04:00	Disrupting the Commons: Dockless Bikes and Scooters Create Layers of Community Instability - Motherboard https://motherboard.vice.com/en_us/article/ne9gxd/electric-scooters-san-francisco-limebike-the-commons
+2018-05-01T11:31:14-04:00	These People Are Selling the CIA's Internal Board Game to the Public - Motherboard https://motherboard.vice.com/en_us/article/vbxkd8/cia-board-game-techdirt-kickstarter
