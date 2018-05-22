@@ -3,13 +3,14 @@
 
 function linkit() {
 	(which mass_archive 2>&1 > /dev/null && mass_archive "$1")
+	export LC_ALL=en_US.UTF-8
 	echo -e "$1\t$(date)\t$(getTitle "$1")" >> ~/.linkit
-	post="$(tail -n 1 ~/.linkit | awk 'BEGIN{FS="\t"} {url=$1 ; title=$3 ; if(url!=title && title!=""&&title!=" ") {if(length(url)+length(title)>=280) {delta=(length(url)+length(title))-280; delta+=4; if(delta<length(title)) { title=substr(title, 0, length(title)-delta) "..." ; print title " " url } } else print title " " url } }' | grep . | head -n 1 | recode HTML)"
+	post="$(export LC_ALL=en_US.UTF-8 ; tail -n 1 ~/.linkit | awk 'BEGIN{FS="\t"} {url=$1 ; title=$3 ; if(url!=title && title!=""&&title!=" ") {if(length(url)+length(title)>=280) {delta=(length(url)+length(title))-280; delta+=4; if(delta<length(title)) { title=substr(title, 0, length(title)-delta) "..." ; print title " " url } } else print title " " url } }' | grep . | head -n 1 | recode -f UTF8)"
 	[[ -n "$post" ]] && post "$post"
 	stty sane
 }
 function getTitle() {
-	curl "$1"| grep -i "<title>" | head -n 1 | sed 's/^.*<[tT][iI][tT][lL][eE]>//;s/<\/[tT][iI][tT][lL][eE]>.*//' 
+	curl "$1"| grep -i "<title>" | head -n 1 | sed 's/^.*<[tT][iI][tT][lL][eE]>//;s/<\/[tT][iI][tT][lL][eE]>.*//' | tr '\221\222\223\224\226\227' '\047\047""--'
 }
 function fmtlinks() {
 	echo "<html>"

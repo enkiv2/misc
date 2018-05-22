@@ -2164,3 +2164,222 @@
 2018-05-01T11:26:00-04:00	GitHub - motherboardgithub/mass_archive: A basic tool for pushing a web page to multiple archiving services at once. https://github.com/motherboardgithub/mass_archive
 2018-05-01T11:29:52-04:00	Disrupting the Commons: Dockless Bikes and Scooters Create Layers of Community Instability - Motherboard https://motherboard.vice.com/en_us/article/ne9gxd/electric-scooters-san-francisco-limebike-the-commons
 2018-05-01T11:31:14-04:00	These People Are Selling the CIA's Internal Board Game to the Public - Motherboard https://motherboard.vice.com/en_us/article/vbxkd8/cia-board-game-techdirt-kickstarter
+2018-05-01T12:09:01-04:00	eBook History: Life Before There Was Kindle https://tedium.co/2018/04/26/ebook-history-before-kindle/
+2018-05-01T12:40:38-04:00	The Robin Hood You Love is A Lie  |  Tor.com https://www.tor.com/2018/04/18/the-robin-hood-you-love-is-a-lie/
+2018-05-01T12:42:15-04:00	The rise of the ambient video game | The Outline https://theoutline.com/post/4181/ambient-video-game-legend-of-zelda
+2018-05-01T12:52:44-04:00	Bad idea of the day: creepypasta in the form of a walkthrough for a nonexistent game from an alternate universe where a game like that described is normal
+2018-05-01T13:02:23-04:00	The Enduring Irony of May Day â Brett S. Morris â Medium https://medium.com/@brettsmorris/the-enduring-irony-of-may-day-e13a1851e3f6
+2018-05-01T13:30:46-04:00	Two Things Together  https://tinyletter.com/learntocomputer/letters/two-things-together
+2018-05-01T13:58:46-04:00	Robotic Arm History: The Industrial Era's Defining Innovation https://tedium.co/2018/04/19/robotic-arm-history-unimate-versatran/
+2018-05-01T14:01:09-04:00	Band name of the day: Machine-Like Men Are Still Toddlers
+2018-05-01T14:03:58-04:00	Band name of the day: ULTRA HAND
+2018-05-01T14:11:51-04:00	"UYA" notices and face-saving in moderation systems | MetaFilter https://www.metafilter.com/173881/UYA-notices-and-face-saving-in-moderation-systems#inline-7389802
+2018-05-01T14:13:42-04:00	C Is Not a Low-level Language - ACM Queue https://queue.acm.org/detail.cfm?id=3212479
+2018-05-01T14:51:41-04:00	What's So Great About Jojo's Bizarre Adventure (500k Special!) - YouTube https://www.youtube.com/watch?v=3PFagLd6Jh4
+2018-05-01T15:30:46-04:00	The Strange World of 1950s Propaganda | Video Essay - YouTube https://www.youtube.com/watch?v=MPdP80BnZfE
+2018-05-02T08:46:17-04:00	Band name of the day: the stinking rose of mirth
+2018-05-02T11:15:13-04:00	Band name of the day: the words of conjunction
+2018-05-02T13:12:48-04:00	Band name of the day: automatic uncontrollable giving
+2018-05-02T13:13:12-04:00	BBC - Capital - These fake start-ups highlight tech firmsâ silly name trends http://www.bbc.com/capital/story/20180425-why-do-startup-company-names-all-sound-alike
+2018-05-02T22:02:05-04:00	Bad idea of the day: an emoji moon but it renders as whatever phase the moon is actually in
+2018-05-03T07:48:47-04:00	GitHub - hellerve/cspfuck: Brainfuck with Actors https://github.com/hellerve/cspfuck
+2018-05-03T07:50:37-04:00	Bad idea of the day: a letter-writing campaign to members of CS program accreditation boards (at their home addresses) requesting algorithmic bias & data ownership be a part of mandatory ethics classes in the curriculum.
+2018-05-03T09:03:05-04:00	Band name of the day: the ends of sleep
+2018-05-03T09:05:02-04:00	I Dream of Content-Trash | Zach Webb https://thebaffler.com/latest/i-dream-of-content-trash-webb
+2018-05-03T09:08:37-04:00	Band name of the day: the apparatus as a break
+2018-05-03T09:33:44-04:00	Send Anarchists, Guns, and Money | Jacob Siegel https://thebaffler.com/salvos/anarchists-guns-and-money-siegel
+2018-05-03T09:43:20-04:00	How to Write Personalities for the AI Around Us https://www.theparisreview.org/blog/2018/05/02/how-to-write-personalities-for-the-ai-around-us/
+2018-05-03T10:03:20-04:00	Band name of the day: internet hole
+2018-05-03T10:05:14-04:00	The toxic legacy of Canada's CIA brainwashing experiments: 'They strip you of your soul' | World news | The Guardian https://www.theguardian.com/world/2018/may/03/montreal-brainwashing-allan-memorial-institute
+2018-05-03T10:06:21-04:00	Quatermass and the Pit: 50 Years On | Mysterious Universe http://mysteriousuniverse.org/2018/05/quatermass-and-the-pit-50-years-on/
+2018-05-03T10:08:06-04:00	The Art of the 1960s Paris Riots http://www.messynessychic.com/2016/05/18/the-art-of-the-1960s-paris-riots/
+2018-05-03T10:42:00-04:00	Band name of the day: the rich and gullible of europe
+2018-05-03T10:55:08-04:00	Band name of the day: night of the corpse whales
+2018-05-03T10:55:38-04:00	A Theory of Information Warfare http://www.iwar.org.uk/iwar/resources/airchronicles/szfran.htm
+2018-05-03T11:18:13-04:00	Band name of the day: calming slaughterbox
+2018-05-03T11:24:00-04:00	GANZEER - The year is 1812.  Mr. Smith of Huddersfield walks... http://www.ganzeer.com/post/173232122769/the-year-is-1812-mr-smith-of-huddersfield-walks
+2018-05-03T11:46:30-04:00	Band name of the day: nameless assemblage
+2018-05-03T11:53:10-04:00	Band name of the day: reciprocation dingle-arm
+2018-05-03T12:01:13-04:00	Searching for a Future Beyond Facebook  https://longreads.com/2018/05/01/searching-for-a-future-beyond-facebook/
+2018-05-03T12:04:33-04:00	Ribbon Cutting Ceremony History: Why Are The Scissors So Big? https://tedium.co/2018/05/01/ribbon-cuttings-ceremonial-scissors-history/
+2018-05-03T12:27:57-04:00	An Algorithmic Investigation of the Highfalutin 'Poet Voice' - Atlas Obscura https://www.atlasobscura.com/articles/cultural-analysis-poet-voice
+2018-05-03T14:04:02-04:00	The False Allure of Hashing for Anonymization https://gravitational.com/blog/hashing-for-anonymization/
+2018-05-04T06:53:10-04:00	In the future when people tell me the web stack is an acceptable GUI layer I should just show them this: https://www.vox.com/2018/5/3/17309078/digital-art-diana-a-smith-francine-coded-browser-art ; if drawing a picture is impressive with your tools, your tools are shit
+2018-05-04T06:55:42-04:00	Goodbye, Cold War | Issue 30 | n+1 https://nplusonemag.com/issue-30/politics/goodbye-cold-war/
+2018-05-04T07:11:43-04:00	eBay, Organized Crime, and Evangelical Christians: The Ethical Minefield of Studying Ancient Civ... https://motherboard.vice.com/en_us/article/9kgxjp/ebay-organized-crime-and-evangelical-christians-the-ethical-minefield-of-studying-ancient-civilizations-hobby-lobby-irisagrig-iraq
+2018-05-04T07:15:52-04:00	How to send local files to Chromecast with Python - Will do stuff for stuff https://rinzewind.org/blog-en/2018/how-to-send-local-files-to-chromecast-with-python.html
+2018-05-04T08:02:42-04:00	REMINDER: Entries for the 2018 No-Budget Film Conest are OPEN NOW, but will close on July 4th: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-04T09:43:35-04:00	Oracle's Network Computer: Larry Ellison's Too-Early Idea https://tedium.co/2018/04/12/larry-ellison-network-computer-history/
+2018-05-04T09:52:02-04:00	NES Homebrew Scene: Not Necessarily Driven By Nostalgia https://tedium.co/2018/04/10/nes-homebrew-scene-history/
+2018-05-04T10:33:12-04:00	Information flow reveals prediction limits in online social activity | the morning paper https://blog.acolyer.org/2018/03/26/information-flow-reveals-prediction-limits-in-online-social-activity/
+2018-05-04T10:37:10-04:00	Three years of the Right To Be Forgotten | the morning paper https://blog.acolyer.org/2018/03/22/three-years-of-the-right-to-be-forgotten/
+2018-05-04T11:55:12-04:00	Social Anarchist Futures – Solarpunk Anarchist https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures/
+2018-05-04T12:17:56-04:00	This reminds me of the @swaim_corp / smallbeans George Lucas v Disney skit: http://aiweirdness.com/post/163491778652/darth-net-star-wars-characters-invented-by-neural
+2018-05-04T12:31:29-04:00	all my favorite movies are beautiful clusterfucks because a dysfunctional game of telephone with people who don't share a common language is the most reliable way to generate creativity
+2018-05-05T14:08:18-04:00	Cambridge Analytica dismantled for good? Nope: It just changed its name to Emerdata â¢ The Register     https://www.theregister.co.uk/2018/05/02/cambridge_analytica_shutdown/
+2018-05-05T14:09:08-04:00	âI had to guard an empty roomâ: the rise of the pointless job | Money | The Guardian https://www.theguardian.com/money/2018/may/04/i-had-to-guard-an-empty-room-the-rise-of-the-pointless-job
+2018-05-05T14:19:44-04:00	Why Silicon Valley canât fix itself | News | The Guardian https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism
+2018-05-05T14:49:57-04:00	Band name of the day: against action
+2018-05-05T14:50:42-04:00	Dada and Surrealism: Europe After the Rain documentary (1978) - YouTube https://www.youtube.com/watch?v=sdBaS8fgwNs
+2018-05-05T15:01:16-04:00	The Impact of Akira: The Film that Changed Everything - YouTube https://www.youtube.com/watch?v=IqVoEpRIaKg
+2018-05-05T15:01:36-04:00	AWAKEN AKIRA - YouTube https://www.youtube.com/watch?v=iY1QHpp6iEE
+2018-05-05T15:18:39-04:00	200 years later, we can say that Marx was very often right â but in a much more literal way than he intended | The Independent https://www.independent.co.uk/voices/karl-marx-200-years-uk-politics-elections-working-class-slavoj-zizek-a8335931.html
+2018-05-06T13:06:34-04:00	Band name of the day: that mad chemistry
+2018-05-06T15:38:24-04:00	Band name of the day: the new all-human cerebellum
+2018-05-06T17:54:17-04:00	Bad idea of the day: a system for sharing playlists of things that aren't audio or online video, like themed triple-features or reading lists, so you can curate or browse that kind of human recommendation
+2018-05-07T07:31:51-04:00	What should you do when Google gets into bed with the US military? | WIRED UK http://www.wired.co.uk/article/google-microsoft-amazon-us-military-ai-conflict
+2018-05-07T08:19:12-04:00	Ironically, Alanis Morissette never got enough credit | The Outline https://theoutline.com/post/4400/alanis-morissette-very-intriguing-person
+2018-05-07T09:25:53-04:00	Twenty-First Century Victorians https://www.jacobinmag.com/2016/10/victorian-values-fitness-organic-wealth-parenthood
+2018-05-07T10:54:01-04:00	A Political History of the Future: The City & The City - Lawyers, Guns & Money http://www.lawyersgunsmoneyblog.com/2018/05/political-history-future-city-city
+2018-05-07T15:33:12-04:00	Phase IV 1974 - Movie ending - YouTube https://www.youtube.com/watch?v=oHWSAZ3fZsQ
+2018-05-07T18:07:27-04:00	Band name of the day: trees in time
+2018-05-08T08:20:00-04:00	Book review: The puzzling empathy of debugging https://wozniak.ca/blog/2018/05/07/The-puzzling-empathy-of-debugging.html
+2018-05-08T08:27:12-04:00	Using Vim's Conceal Feature to Make Code More Readable (For You) – Every Man a Debtor https://alok.github.io/2018/04/26/using-vim-s-conceal-to-make-languages-more-tolerable/
+2018-05-08T09:24:42-04:00	Apparently, the term 'intellectual darknet' is trending on twitter. Is this a reference to LW, or to incel communities? Or, are people finally reading Neoreaction: A Basilisk?
+2018-05-08T09:25:23-04:00	Band name of the day: information weapon
+2018-05-08T10:04:11-04:00	The Violence of Pure Reason: Neoreaction: A Basilisk, Adam Riggio « Social Epistemology Review and Reply Collective https://social-epistemology.com/2016/09/23/the-violence-of-pure-reason-neoreaction-a-basilisk-adam-riggio/
+2018-05-08T10:14:38-04:00	NSA Backdoor Key from Lotus-Notes http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html
+2018-05-08T10:27:13-04:00	My Brain Keeps Turning Thoughts into Memories - VICE https://www.vice.com/en_us/article/3kjxpb/my-brain-keeps-turning-thoughts-into-memories
+2018-05-08T11:10:31-04:00	M. C. Escher (1898-1972). Prints and Drawings - Digital Commonwealth https://www.digitalcommonwealth.org/collections/commonwealth:3r076r52x
+2018-05-08T12:08:07-04:00	GANZEER - MAKING THE INTANGIBLE TACTILE Scripps College... http://www.ganzeer.com/post/172354522364/making-the-intangible-tactile-scripps-college
+2018-05-08T12:19:11-04:00	You try to put up a picture of Grimes and Elon Musk, but everything on your mood board becomes the same picture of Nicholas Cage as soon as you blink. Today is no different.
+2018-05-08T13:48:25-04:00	People are jumping on Musk for 'researching his jokes' but, you know, if you researched your jokes you'd actually make better ones. Let's be clear. The problem with Musk is not researching jokes. The problem with Musk is capitalism.
+2018-05-08T14:49:57-04:00	Voices on the left are rising in the US. Why arenât they in mainstream media? - Columbia Journalism Review https://www.cjr.org/analysis/nyt_opinion-left.php
+2018-05-08T18:35:18-04:00	Jordan Peterson | ContraPoints - YouTube https://www.youtube.com/watch?v=4LqZdkkBDas
+2018-05-08T18:35:37-04:00	Xanadu Basics 1b-- INDIRECT DOCUMENT DELIVERY - YouTube https://www.youtube.com/watch?v=1gPM3GqjMR4
+2018-05-09T07:51:43-04:00	Band name of the day: non stop mystery action
+2018-05-09T10:41:21-04:00	Making Interactive Fiction: Using Generative Prose - sub-Q Magazine https://sub-q.com/making-interactive-fiction-using-generative-prose/
+2018-05-09T19:15:44-04:00	Bad idea of the day: a parser-based IF where the parser language is turing-complete
+2018-05-10T11:53:04-04:00	Band name of the day: rock harmonicon
+2018-05-10T11:57:15-04:00	Band name of the day: Shadows from the Walls of Death
+2018-05-10T12:21:27-04:00	Band name of the day: frost heave
+2018-05-10T12:21:46-04:00	New England Is Crisscrossed With Thousands of Miles of Stone Walls - Atlas Obscura https://www.atlasobscura.com/articles/new-england-stone-walls
+2018-05-10T12:38:22-04:00	if comcast replaces its entire tech support department with google duplex, would it still be part of the marketing branch?
+2018-05-10T12:40:32-04:00	Bad idea of the day: an extension that disables all CSS on all pages, and then allows you to approve rules one by one, or edit them in place
+2018-05-10T12:43:41-04:00	take a page out of the hollow earthers' book, not the MRA's: if you're gonna be wrong, at least be wrong in an interesting way.
+2018-05-10T15:45:14-04:00	Why you should make useless things | Simone Giertz - YouTube https://www.youtube.com/watch?v=c0bsKc4tiuY
+2018-05-10T15:51:33-04:00	tfw middle-aged billionaires try to buy their way into weird sun twitter & accidentally get cybergoth GFs instead
+2018-05-10T16:29:57-04:00	Band name of the day: half-way to anywhere
+2018-05-10T16:37:35-04:00	Band name of the day: tiny crab utopia
+2018-05-10T18:11:33-04:00	Why Did Some Countercultural Types Vote For Trump? - Mondo 2000 http://www.mondo2000.com/2018/05/10/why-did-some-countercultural-types-vote-for-trump/
+2018-05-11T06:51:54-04:00	Bad idea of the day: an irc-style chat interface for mastodon, where whatever you type is posted
+2018-05-11T06:52:05-04:00	Bad idea of the day: an irc-style chat interface for mastodon, where whatever you type is posted
+2018-05-11T06:52:22-04:00	Bad idea of the day: an irc-style chat interface for mastodon, where whatever you type is posted & you just see your home timeline
+2018-05-11T06:52:33-04:00	fucking ampersands
+2018-05-11T07:07:36-04:00	What It’s Like to Be a Bot â Real Life http://reallifemag.com/what-its-like-to-be-a-bot/
+2018-05-11T07:15:51-04:00	Dual inheritance theory - Wikipedia https://en.wikipedia.org/wiki/Dual_inheritance_theory
+2018-05-11T07:18:04-04:00	Red Pilled â Real Life http://reallifemag.com/red-pilled/
+2018-05-11T07:21:08-04:00	Daily Affirmations â Real Life http://reallifemag.com/daily-affirmations/
+2018-05-11T07:23:21-04:00	Altered States â Real Life http://reallifemag.com/altered-states/
+2018-05-11T07:24:04-04:00	Uncomfortable ASMR â Real Life http://reallifemag.com/uncomfortable-asmr/
+2018-05-11T07:30:33-04:00	Faking It â Real Life http://reallifemag.com/faking-it/
+2018-05-11T07:42:31-04:00	Full-body high-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks | DeNA Co., Ltd. http://dena.com/intl/anime-generation/
+2018-05-11T08:15:49-04:00	I have a newsletter I never use, & a script for crossposting links that also makes a link archive. I'm tempted to figure out how to automate taking the links I post for a particular timeframe, sticking them in the newsletter, and sending them off.
+2018-05-11T08:41:03-04:00	302 Found https://hackernoon.com/kaukatcr-an-experiment-in-language-design-for-multi-dimensional-spaces-cc038caafff9
+2018-05-11T08:47:32-04:00	Bad idea of the day: a browser extension that gives you long-now-dates by prefixing a zero to all four digit numbers
+2018-05-11T08:52:42-04:00	Java: Executing code in comments?! | Programming.Guide http://programming.guide/java/executing-code-in-comments.html
+2018-05-11T08:53:11-04:00	Vintage Computer Festival East – Vintage Computer Federation http://vcfed.org/wp/festivals/vintage-computer-festival-east/
+2018-05-11T08:55:28-04:00	Underhanded C Contest - Wikipedia https://en.wikipedia.org/wiki/Underhanded_C_Contest
+2018-05-11T12:48:03-04:00	I'm not gonna lie; I would listen to all of @derkirche's NN-generated podcasts: https://pastebin.com/raw/NzdfAbvP
+2018-05-11T12:48:52-04:00	Bad idea of the day: run podcast transcripts through char-rnn and then through the duplex speech synthesizer to generate hours of nonsense indistinguishable from NPR
+2018-05-11T12:56:14-04:00	Medium really REALLY wants me to re-read that tedium piece about CD longboxes, this past month
+2018-05-11T13:19:42-04:00	Mood: using the mobile version of the website on desktop because you don't live in california
+2018-05-11T18:02:41-04:00	Band name of the day: the every-trichord hexachord
+2018-05-12T09:15:35-04:00	Jordan Peterson is like a pack of tarot cards: stare at him hard enough for long enough and eventually you'll see a message that is both true and profound. But, as with tarot cards, if you attribute that message to any intent on Peterson's part, it brands you as foolish.
+2018-05-12T09:23:32-04:00	Philip K. Dick’s VALIS and The Man Who Fell to Earth and Duncan Jones https://bowiesattva.wordpress.com/2012/02/02/philip-k-dicks-valis-and-the-man-who-fell-to-earth-and-duncan-jones/
+2018-05-12T09:24:38-04:00	Pretty Loud For Being So Silenced | Current Affairs https://www.currentaffairs.org/2018/05/pretty-loud-for-being-so-silenced
+2018-05-13T13:20:20-04:00	Aggretsuko - A Cartoon For Children Ages 20+ - YouTube https://www.youtube.com/watch?v=bv8kRvZ25Gs
+2018-05-13T14:07:34-04:00	The Author Who Tried to END The World (Watchmen / Alan Moore) â Wisecrack Edition - YouTube https://www.youtube.com/watch?v=163Cb1bAW7U
+2018-05-14T08:53:11-04:00	Satanism: The Dark Alternative with Mitch Horowitz - YouTube https://www.youtube.com/watch?v=xAXdiXNWv-E
+2018-05-14T10:56:16-04:00	Bad idea of the day: philosophy speed-dating: get a prime number of doctoral candidates, split into two lines, and have them give hot takes to each other for 5 minutes on a stated topic before moving on.
+2018-05-14T11:33:55-04:00	Band name of the day: profane human calculators
+2018-05-14T11:39:47-04:00	Decontructing the "Unix philosophy" https://www.tedinski.com/2018/05/08/case-study-unix-philosophy.html
+2018-05-14T12:24:01-04:00	What Everyone Needs to Know about Russia Under Putin - FPRI's 2018 Champagne Brunch for Partners - YouTube https://www.youtube.com/watch?v=RnWp_kr4tfc
+2018-05-14T13:01:19-04:00	The Break Up Of Big Tech II (Scott Galloway, L2) | DLD New York 18 - YouTube https://www.youtube.com/watch?v=92LZ9ti6tPo
+2018-05-14T14:12:38-04:00	"Making Impossible States Impossible" by Richard Feldman - YouTube https://www.youtube.com/watch?v=IcgmSRJHu_8
+2018-05-14T14:42:28-04:00	Kevlin Henney - Procedural Programming: It's Back? It Never Went Away - YouTube https://www.youtube.com/watch?v=otAcmD6XEEE
+2018-05-14T14:56:35-04:00	A New Way to look at Networking - YouTube https://www.youtube.com/watch?v=8Z685OF-PS8
+2018-05-14T15:52:36-04:00	"The Mess We're In" by Joe Armstrong - YouTube https://www.youtube.com/watch?v=lKXe3HUG2l4
+2018-05-15T07:47:18-04:00	Band name of the day: rabbit town
+2018-05-15T08:28:27-04:00	Habeas Data excerpt: How a mugger helped create the modern NSA surveillance program. https://slate.com/technology/2018/05/habeas-data-excerpt-how-a-mugger-helped-create-the-modern-nsa-surveillance-program.html
+2018-05-15T08:50:38-04:00	Band name of the day: the ratio club
+2018-05-15T09:23:53-04:00	LSD research: Michael Pollanâs How to Change Your Mind, reviewed. https://slate.com/culture/2018/05/lsd-research-michael-pollans-how-to-change-your-mind-reviewed.html
+2018-05-15T09:29:41-04:00	(MORE) guided journalists during the 1970s media crisis of confidence - Columbia Journalism Review https://www.cjr.org/the_profile/more-journalism-review.php
+2018-05-15T10:48:46-04:00	The Church of the SubGenius Finally Plays It Straight – Texas Monthly https://www.texasmonthly.com/the-daily-post/the-church-of-the-subgenius-finally-plays-it-straight/
+2018-05-15T10:51:57-04:00	QOTD: "Let’s get back to hating the conspiracy instead of ourselves."
+2018-05-15T10:59:58-04:00	Band name of the day: hot ham water
+2018-05-15T11:14:15-04:00	'Ethics are beyond my purview' is a fancy way of saying 'it is unsafe to allow me to make decisions'
+2018-05-15T11:18:17-04:00	Amazon's Mechanical Turk has Reinvented Research | JSTOR Daily https://daily.jstor.org/amazons-mechanical-turk-has-reinvented-research/
+2018-05-15T11:45:07-04:00	Doc Searls Weblog · GDPR will pop the adtech bubble https://blogs.harvard.edu/doc/2018/05/12/gdpr/
+2018-05-15T11:52:31-04:00	Footnotes to Plato | Spinoza's philosophy of freedom â Steven Nadler https://www.the-tls.co.uk/articles/public/spinoza-philosophy-freedom/
+2018-05-15T12:43:10-04:00	The HP-35 http://codex99.com/design/the-hp35.html
+2018-05-15T12:55:19-04:00	"HP typically priced their equipment at the cost of the material list × π (or in an especially competitive market, list × e)" NEEEEERDS
+2018-05-15T13:00:14-04:00	Band name of the day: pocket answer machine
+2018-05-15T14:05:20-04:00	Breaking news: Person famous for saying stupid things in public says stupid thing in public. Film at 11.
+2018-05-15T15:17:47-04:00	The Artful Imperfection of Medieval Manuscript Repair - Atlas Obscura https://www.atlasobscura.com/articles/medieval-manuscripts-embroidery
+2018-05-16T08:44:26-04:00	The Chinese Robocall Blues https://tedium.co/2018/05/15/spam-robocalls-history-comparison/
+2018-05-16T09:45:39-04:00	The Surprising History (and Future) of Fingerprints https://www.theparisreview.org/blog/2018/05/15/the-surprising-history-and-future-of-fingerprints/
+2018-05-16T10:13:09-04:00	How Gaston Bachelard gave the emotions of home a philosophy | Aeon Essays https://aeon.co/essays/how-gaston-bachelard-gave-the-emotions-of-home-a-philosophy
+2018-05-16T11:39:37-04:00	From pointing to nodding: is gesture a universal language? | Aeon Essays https://aeon.co/essays/from-pointing-to-nodding-is-gesture-a-universal-language
+2018-05-16T14:55:40-04:00	403 Bots Forbidden https://www.jwz.org/blog/2008/03/most-positive-bignum/
+2018-05-17T09:29:47-04:00	Cambridge Analytica whistleblower fears Facebook data was shared with Russia - CNNPolitics https://www.cnn.com/2018/05/16/politics/cambridge-analytica-congress-wylie/index.html
+2018-05-17T09:56:06-04:00	the one true grimes and elon musk thinkpiece – emily leedham https://emilymariesarah.wordpress.com/2018/05/15/the-one-true-grimes-and-elon-musk-thinkpiece/
+2018-05-17T10:54:12-04:00	The most interesting thing about https://www.fastly.com/blog/headers-we-dont-want is the indication that the culture of the web is a cargo-cult one where we will waste kilobytes per response on redundant headers that were deprecated 20 years ago or present possible security problems
+2018-05-17T11:09:14-04:00	The Blood Ritual That Lives on YouTube https://gizmodo.com/the-blood-ritual-that-lives-on-youtube-1825726446
+2018-05-17T11:26:27-04:00	Whatâs That Smell Youâre Reading? | Science History Institute https://www.sciencehistory.org/distillations/magazine/whats-that-smell-youre-reading
+2018-05-17T11:29:25-04:00	Band name of the day: the teeth of time
+2018-05-17T12:11:13-04:00	Bad idea of the day: A browser extension that links everything in your browser cache with a fake file whose name is a hash of that item, serves those fake files over bittorrent, and, for all URLs whose expiration date is in the future, keeps a distributed table of URL to hash & attempts to fetch from bittorrent before from http
+2018-05-17T15:51:17-04:00	Googleâs Selfish Ledger is an unsettling vision of Silicon Valley social engineering - The Verge https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy
+2018-05-18T06:57:26-04:00	Band name of the day: sharp flesh
+2018-05-18T07:23:06-04:00	Band name of the day: artificial fear
+2018-05-18T07:29:46-04:00	Band name of the day: synthetic torso
+2018-05-18T08:07:23-04:00	Band name of the day: self-negating component
+2018-05-18T08:11:16-04:00	UFOs, Guillermo del Toro, Terence McKenna and the Co-Creation Hypothesis – The Daily Grail https://www.dailygrail.com/2018/05/ufos-guillermo-del-toro-terence-mckenna-and-the-co-creation-hypothesis/
+2018-05-18T08:11:36-04:00	Any Sufficiently Advanced Civilization is Indistinguishable from Nature https://www.nextnature.net/2012/02/any-sufficiently-advanced-civilization-is-indistinguishable-from-nature/
+2018-05-18T08:11:49-04:00	Band name of the day: catastrophic steam event
+2018-05-18T08:13:56-04:00	GDPR Hysteria · Jacques Mattheij https://jacquesmattheij.com/gdpr-hysteria
+2018-05-18T08:16:31-04:00	Maliciously Changing Someone's Address - Schneier on Security https://www.schneier.com/blog/archives/2018/05/maliciously_cha.html
+2018-05-18T08:47:14-04:00	Semantic Compression https://caseymuratori.com/blog_0015
+2018-05-18T09:10:01-04:00	Band name of the day: brain needle
+2018-05-18T09:38:13-04:00	A Most Violent Year                       | The New Republic https://newrepublic.com/article/148276/violent-year
+2018-05-18T09:40:42-04:00	pro tip: when you tie a part of reality to a social construct (like tying life to money, or violence to law, or technical decisions to industry hype) you risk huge ramifications unless the 'real' portion is the primary driver. social constructs are too floaty.
+2018-05-18T09:53:43-04:00	enki's third law: your perception of any group that you are not a part of is based almost entirely on the members of that group that other members find most annoying
+2018-05-18T11:03:33-04:00	Nintendo Music Scene: Chiptune and Game-Rock Heavyweights https://tedium.co/2018/05/17/nintendo-nes-chiptune-music-scene/
+2018-05-18T11:28:29-04:00	Butterfly labeled "Flat links in embedded markup, addresses do not guarantee static data"; Caption: "is this HYPERMEDIA"
+2018-05-18T11:47:32-04:00	The Truth of Ray Bradbury's Prophetic Vision | Literary  Hub https://lithub.com/the-truth-of-ray-bradburys-prophetic-vision/
+2018-05-18T11:50:14-04:00	Resistance – Subcultures and Sociology http://haenfler.sites.grinnell.edu/subcultural-theory-and-theorists/resistance/
+2018-05-18T11:53:09-04:00	ferd.ca -> The Zen of Erlang https://ferd.ca/the-zen-of-erlang.html
+2018-05-18T12:21:59-04:00	Reminder that I have 2 essays on escaping path-dependence: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-manufacture-of-steam-engine-time-9f83cd24a9b0 & https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-wtf-awards-sketching-a-map-to-an-escape-from-steam-engine-time-1bc4bd29c2e4
+2018-05-18T12:54:06-04:00	Periodic reminder: submissions for the No-Budget Film Contest close July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-18T13:20:06-04:00	the political spectrum is a horseshoe crab: ancient, ugly, full of blue blood that contains poorly-understood enzymes that might cure some kinds of cancer, and frequently leaving its molted shells along the north atlantic shoreline of north america
+2018-05-18T13:40:27-04:00	'It's an Anime Titty Holocaust:' Steam Is Cracking Down on Visual Novels - Motherboard https://motherboard.vice.com/en_us/article/evkxdk/steam-banning-adult-anime-visual-novel-huniepop
+2018-05-18T16:56:10-04:00	HCIL Demo - HyperTIES Browsing - YouTube https://www.youtube.com/watch?v=fZi4gUjaGAM
+2018-05-19T00:55:07-04:00	Periodic reminder: submissions for the No-Budget Film Contest close July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-19T12:55:17-04:00	Periodic reminder: submissions for the No-Budget Film Contest close July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-20T00:55:33-04:00	Periodic reminder: submissions for the No-Budget Film Contest close July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-20T08:57:18-04:00	Band name of the day: definition of planet
+2018-05-20T12:43:31-04:00	Killing The Prince in Adolescence of Utena | Backlog Bop - YouTube https://www.youtube.com/watch?v=uX0C9ln9APM
+2018-05-20T12:48:45-04:00	GOTO 2016 â¢ The Error of Our Ways â¢ Kevlin Henney - YouTube https://www.youtube.com/watch?v=IiGXq3yY70o
+2018-05-20T12:54:10-04:00	The Narrative Trick of Hyouka Episode Six - YouTube https://www.youtube.com/watch?v=JsEvcdB5H3c
+2018-05-20T12:55:44-04:00	Periodic reminder: submissions for the No-Budget Film Contest close July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-20T12:59:28-04:00	RetroAhoy: The Secret of Monkey Island - YouTube https://www.youtube.com/watch?v=9F9ahZQ7oP0
+2018-05-20T13:05:00-04:00	Nine Inch Nails - God Break Down The Door - YouTube https://www.youtube.com/watch?v=eeJ_DzRJUI4
+2018-05-20T13:10:16-04:00	The Art Of Sci-Fi Book Covers - YouTube https://www.youtube.com/watch?v=M7Qm_UJML54
+2018-05-20T16:49:52-04:00	\...........//: Embracing the New Flesh https://ellaguro.blogspot.com.es/2014/10/embracing-new-flesh.html
+2018-05-20T16:55:24-04:00	Cleveland Okie https://clevelandokie.blogspot.com/2011/04/editors-note-this-interview-with-robert.html
+2018-05-21T09:29:22-04:00	PSIBER Space Deck Demo - YouTube https://www.youtube.com/watch?v=iuC_DDgQmsM
+2018-05-21T10:56:48-04:00	Move Slow and Mend Things by Kevlin Henney - YouTube https://www.youtube.com/watch?v=1kklyq4XYpw
+2018-05-21T11:22:18-04:00	'Declarative Thinking, Declarative Practice' - Kevlin Henney [ ACCU 2016 ] - YouTube https://www.youtube.com/watch?v=nrVIlhtoE3Y
+2018-05-21T12:56:25-04:00	Periodic reminder: submissions for the No-Budget Film Contest close July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-21T13:57:45-04:00	mossmanga: Berserk Lost Chapter 1 https://mossmanga.blogspot.com/2014/09/berserk-lost-chapter-1.html
+2018-05-21T14:32:02-04:00	Sound Blaster: How Sound Cards Took Over Computing https://tedium.co/2018/05/10/sound-blaster-history/
+2018-05-21T14:50:26-04:00	Kibler Electronics http://www.kiblerelectronics.com/tcj/archive/archive.shtml
+2018-05-21T16:23:10-04:00	GitHub - bitlaw-jp/the-constitution-of-japan https://github.com/bitlaw-jp/the-constitution-of-japan
+2018-05-21T19:41:16-04:00	Xanadu Basics 1c - Parallel Media. Parallel Subjects - YouTube https://www.youtube.com/watch?v=hGKbRcvIZT8
+2018-05-22T08:58:06-04:00	Symbolics Lisp Machine Museum https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html
+2018-05-22T08:59:22-04:00	Prolog Basics Class https://docs.google.com/forms/d/e/1FAIpQLSf3KMzm7tx_py67vc__JgoO1imlscNkVQ7_6ppvxOCoTWOUVQ/viewform
+2018-05-22T09:07:12-04:00	The Female Painter Whose Modern Art Shocked Ireland - Artsy https://www.artsy.net/article/artsy-editorial-female-painter-modern-art-shocked-ireland
+2018-05-22T09:13:08-04:00	The CIA made a Magic: The Gathering-style card game for training agents, and we played it - The Verge https://www.theverge.com/2018/5/21/17374054/cia-collect-it-all-declassified-training-tabletop-card-game
+2018-05-22T09:26:05-04:00	Band name of the day: grinding utility
+2018-05-22T10:08:55-04:00	âCrush Themâ: An Oral History of the Lawsuit That Upended Silicon Valley - The Ringer https://www.theringer.com/tech/2018/5/18/17362452/microsoft-antitrust-lawsuit-netscape-internet-explorer-20-years
+2018-05-22T10:47:23-04:00	‘Crush Them’: An Oral History of the Lawsuit That Upended Silicon Valley - The Ringer https://www.theringer.com/tech/2018/5/18/17362452/microsoft-antitrust-lawsuit-netscape-internet-explorer-20-years
