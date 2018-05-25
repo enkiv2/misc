@@ -2383,3 +2383,46 @@
 2018-05-22T09:26:05-04:00	Band name of the day: grinding utility
 2018-05-22T10:08:55-04:00	âCrush Themâ: An Oral History of the Lawsuit That Upended Silicon Valley - The Ringer https://www.theringer.com/tech/2018/5/18/17362452/microsoft-antitrust-lawsuit-netscape-internet-explorer-20-years
 2018-05-22T10:47:23-04:00	‘Crush Them’: An Oral History of the Lawsuit That Upended Silicon Valley - The Ringer https://www.theringer.com/tech/2018/5/18/17362452/microsoft-antitrust-lawsuit-netscape-internet-explorer-20-years
+2018-05-22T11:49:33-04:00	The Spectacular Personal Mythology of Rammellzee | The New Yorker https://www.newyorker.com/magazine/2018/05/28/the-spectacular-personal-mythology-of-rammellzee
+2018-05-22T12:19:03-04:00	Ask An Ice Cream Professional: AI-generated ice cream flavors https://kottke.org/18/05/ask-an-ice-cream-professional-ai-generated-ice-cream-flavors
+2018-05-22T12:19:42-04:00	Psychotronic horror and sci-fi films with the people edited out / Boing Boing https://boingboing.net/2018/05/21/psychotronic-horror-and-sci-fi.html
+2018-05-22T12:20:39-04:00	QOTD: "Like any extension of the human psyche, machines are scary things[...] When you take the scary human psyche and magnify it hundreds or thousands of times with technology, it's really nightmarish"
+2018-05-22T12:27:28-04:00	I've been shitposting about writing composable GUI systems with proper hypertext & network transparency in postscript but actually that existed at Sun & seems to have been pretty cool: https://medium.com/@donhopkins/hyperlook-nee-hypernews-nee-goodnews-99f411e58ce4
+2018-05-22T12:56:44-04:00	Happy 21st Century! - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/05/happy-21st-century.html
+2018-05-22T13:04:23-04:00	higher-order-unification/explanation.md at 21382f44205aa3d8b115fe2b2eba47489da4b492 · jozefg/higher-order-unification · GitHub https://github.com/jozefg/higher-order-unification/blob/21382f44205aa3d8b115fe2b2eba47489da4b492/explanation.md
+2018-05-22T15:56:24-04:00	PDP-10 · GitHub https://github.com/PDP-10
+2018-05-22T18:53:02-04:00	The Lost Magic of Traditional Anime Production - YouTube https://www.youtube.com/watch?v=k1Lm5P-mJCk
+2018-05-22T18:59:47-04:00	A really interesting composable UI project designed for generative art: https://lobste.rs/s/9ezxcf/hyperlook_nee_hypernews_nee_goodnews#c_rva21l
+2018-05-22T19:27:57-04:00	Climax, de Gaspar Noé - trailer - YouTube https://www.youtube.com/watch?v=XDDeCOarFtU
+2018-05-22T19:28:56-04:00	Binary file (standard input) matches
+2018-05-23T07:41:07-04:00	programmer interfaces - Google Slides https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g1da0625f1b_0_56
+2018-05-23T10:23:02-04:00	Thread by @GalaxyKate: &quot;Do you know this book (grapefruit, by Yoko Ono)? I&#039;ve been reading it and profoundly affecting my bot-making. Art appreciation and bot-makin […]&quot; https://threadreaderapp.com/thread/999110758305882112.html?refreshed=yes
+2018-05-23T10:26:35-04:00	Thread by @GalaxyKate: "Do you know this book (grapefruit, by Yoko Ono)? I've been reading it and profoundly affecting my bot-making. Art appreciation and bot-makin […]" https://threadreaderapp.com/thread/999110758305882112.html?refreshed=yes
+2018-05-23T10:33:30-04:00	Thread by @GalaxyKate: "Was thinking about this again, and it's important to recognize: WE CONFLATE THING BEING DIFFICULT FOR HUMANS WITH THINGS BEING DIFFICULT FOR […]" https://threadreaderapp.com/thread/982999780929388544.html
+2018-05-23T10:47:53-04:00	Hackintosh Before Hackintosh: When Mac Fans Skinned Windows https://tedium.co/2018/05/22/windows-fake-osx-macos-interface-skins-history/
+2018-05-23T10:57:20-04:00	Band name of the day: icons of beige
+2018-05-23T10:58:43-04:00	This Twitter Bot Is Generating Jokes and It&#39;s Funnier Than You - Motherboard https://motherboard.vice.com/en_us/article/j5kmzy/headlinetron-comedy-twitter-bot
+2018-05-23T11:23:52-04:00	This Twitter Bot Is Generating Jokes and It's Funnier Than You - Motherboard https://motherboard.vice.com/en_us/article/j5kmzy/headlinetron-comedy-twitter-bot
+2018-05-23T11:35:57-04:00	ZZ Cell Programming http://xanadu.com/zigzag/fw99/ZZcellProg.html
+2018-05-23T11:43:25-04:00	Crossing-based interface - Wikipedia https://en.wikipedia.org/wiki/Crossing-based_interface
+2018-05-23T12:02:42-04:00	Alan Kay Thesis: The Reactive Engine http://www.chilton-computing.org.uk/inf/pdfs/kay.htm
+2018-05-23T12:04:03-04:00	Bad idea of the day: a gesture based interface that uses DSP on the audio produced by a theramin to identify gestures, while playing that audio for learning feedback
+2018-05-23T12:05:32-04:00	Bad idea of the day: a dual-layer LCD (like the 3d TVs from a few years ago) that uses the top layer exclusively for hover behavior
+2018-05-23T12:06:10-04:00	Bad idea of the day: a full-sized hand crank on the side of your keyboard that acts as a scrollwheel with large (page per click) delta
+2018-05-23T12:07:10-04:00	Bad idea of the day: use eye tracking to save power by blanking the parts of the display not within the light cone of the fovea
+2018-05-23T12:10:11-04:00	Bad idea of the day: use those ear-mounted accelerometers that normally wake people who are dozing off at the wheel to instead redden the display, replace desktop background with surreal and dreamlike images, fade in quiet calming ambient music, raise the thermostat
+2018-05-23T12:13:19-04:00	Who the fuck decided to call it 'walk and talk' instead of 'circumlocution circumlocation'
+2018-05-23T12:13:33-04:00	Who the fuck decided to call it 'walk and talk' instead of 'circumlocution circumnavigation'
+2018-05-23T12:21:55-04:00	Parallel Status Hierarchies https://www.jefftk.com/p/parallel-status-hierarchies
+2018-05-23T14:51:48-04:00	Row Polymorphism Isn't Subtyping - BAM Weblog https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping
+2018-05-23T15:07:32-04:00	OO & message passing in postscript in NeWS: https://lobste.rs/s/9ezxcf/hyperlook_nee_hypernews_nee_goodnews#c_6spsyi
+2018-05-23T15:56:10-04:00	Happy Day of Discord, everyone. (5/23) See you again on 5/32!
+2018-05-24T10:41:54-04:00	Band name of the day: normal shopping experience
+2018-05-24T13:49:00-04:00	Scalability! But at what COST? | the morning paper https://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/
+2018-05-24T13:57:17-04:00	Cosmic rays are a completely reasonable explanation https://lwn.net/Articles/219983/
+2018-05-24T16:27:27-04:00	Heteroglossic Space in the Please! Series - YouTube https://www.youtube.com/watch?v=djBgQ-37V6E
+2018-05-25T07:21:24-04:00	The Forgotten &#x27;80s Home Robots Trend https://tedium.co/2018/05/24/80s-home-robot-history/
+2018-05-25T08:15:00-04:00	Band name of the day: omnicidal death machine
+2018-05-25T08:29:09-04:00	Why reliable, unchanging, boring, mechanical interfaces are important in big-computing contexts: https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf
+2018-05-25T08:38:25-04:00	Band name of the day: the secret self
+2018-05-25T09:01:36-04:00	Band name of the day: the depth boys

@@ -10,7 +10,9 @@ function linkit() {
 	stty sane
 }
 function getTitle() {
-	curl "$1"| grep -i "<title>" | head -n 1 | sed 's/^.*<[tT][iI][tT][lL][eE]>//;s/<\/[tT][iI][tT][lL][eE]>.*//' | tr '\221\222\223\224\226\227' '\047\047""--'
+	curl "$1"| grep -i "<title>" | head -n 1 | sed 's/^.*<[tT][iI][tT][lL][eE]>//;s/<\/[tT][iI][tT][lL][eE]>.*//' | 
+		sed 's/&#039\;/'"'"'/g;s/&#39\;/'"'"'/g;s/&quot\;/"/g' | 
+		tr '\221\222\223\224\226\227' '\047\047""--'
 }
 function fmtlinks() {
 	echo "<html>"
