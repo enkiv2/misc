@@ -96,6 +96,7 @@ func (self object) clone(newName string) object {
 	}
 	ret.name=newName
 	ret.parent=&self
+	Lobby[ret.name]=&ret
 	ret.run()
 	return ret
 }
