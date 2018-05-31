@@ -47,17 +47,16 @@ func nextChunk(s string) (string, string) {
 	var head string
 	var tail string
 	s=strings.TrimSpace(s)
-	nextSpace := strings.IndexAny(s, " \n\t")
+	nextComma := strings.IndexAny(s, ",")
 	nextParen := strings.Index(s, "(")
-	if(nextSpace==-1) { nextSpace=len(s) }
-	if(nextParen==-1 || nextSpace<nextParen) {
-		head = s[0:nextSpace-1]
-		if(nextSpace+1<len(s)-1) {
-			tail = s[nextSpace+1:len(s)-1]
+	if(nextComma==-1) { nextComma=len(s) }
+	if(nextParen==-1 || nextComma<nextParen) {
+		head = s[0:nextComma-1]
+		if(nextComma+1<len(s)-1) {
+			tail = s[nextComma+1:len(s)-1]
 		} else {
 			tail = ""
 		}
-		return head, tail
 	} else if(nextParen!=0) {
 		head = s[0:nextParen-1]
 		if(nextParen<len(s)-1) {
@@ -65,7 +64,6 @@ func nextChunk(s string) (string, string) {
 		} else {
 			tail = ""
 		}
-		return head, tail
 	} else { // Our parenthetical expression begins the chunk
 		depth := 1
 		i:=0
@@ -81,12 +79,12 @@ func nextChunk(s string) (string, string) {
 					} else {
 						tail = ""
 					}
-					return head, tail
+					return strings.TrimSpace(head), strings.TrimSpace(tail)
 				}
 			}
 		}
 	}
-	return head, tail // only necessary because Go is stupid
+	return strings.TrimSpace(head), strings.TrimSpace(tail)
 }
 
 func (self object) clone(newName string) object {
