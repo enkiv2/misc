@@ -13,6 +13,7 @@ type object struct {
 	parent *object
 	supportedMessages map[string]string
 	mailbox chan message
+	children map[string]object
 }
 type message struct {
 	messageName string
@@ -24,6 +25,7 @@ type message struct {
 var Object object
 var Future object
 var Nil object
+var String object
 
 var Lobby map[string]*object
 
@@ -36,18 +38,20 @@ func initializeEnvironment() {
 		- Memory mapped lobby
 		- Versioned lobby (maybe just as journal to start out with)
 	 */
-	Object := object{"Object", "Object", nil, nil, make(chan message)}
-	Future := object{"Future", "Future", &Object, nil, make(chan message)}
+	Object := object{"Object", "Object", nil, nil, make(chan message), nil}
+	Future := object{"Future", "Future", &Object, nil, make(chan message), nil}
+	String := object{"String", "String", &Object, nil, make(chan message), nil}
 	Lobby["Object"]=&Object
 	Lobby["Future"]=&Future
 	Lobby["Nil"]=&Nil
+	Lobby["String"]=&String
 
 }
-func nextChunk(s string) (string, string) {
+func nextChunk(s string, term string) (string, string) {
 	var head string
 	var tail string
 	s=strings.TrimSpace(s)
-	nextComma := strings.IndexAny(s, ",")
+	nextComma := strings.IndexAny(s, term)
 	nextParen := strings.Index(s, "(")
 	if(nextComma==-1) { nextComma=len(s) }
 	if(nextParen==-1 || nextComma<nextParen) {
@@ -79,25 +83,80 @@ func nextChunk(s string) (string, string) {
 					} else {
 						tail = ""
 					}
-					return strings.TrimSpace(head), strings.TrimSpace(tail)
+					return strings.TrimSpace(head), tail
 				}
 			}
 		}
 	}
-	return strings.TrimSpace(head), strings.TrimSpace(tail)
+	return strings.TrimSpace(head), tail
 }
-/*
-func execute_r(context object, head string) object {
-	for (;len(head)>0;) {
-		if(head[0]=='(') {
-			(head2, tail2) := nextChunk(head)
-			context=execute(context, head2, tail2))
-		} else {
-			if(
-			context.handle(message{head)
-		}
+func nextPtFreeChunk(s string) (string, string) {
+	return nextChunk(s, " \t\n");
+}
+func nextArgChunk(s string) (string, string) {
+	return nextChunk(s, ",");
+}
 
-}*/
+func vivifyObject(context object, name string) object {
+	ret := context.handle(vivifyMsg(name))
+	var ret2 *object
+	var ok bool
+	if(ret.name=="") {
+		if ret2, ok=Lobby[name];ok{
+			return *ret2
+		} else {
+			if(name[0]=='"') {
+				return String.clone(name)
+			} // TODO: parse numbers and turn them into Number objects
+		}
+	}
+	return Nil
+}
+func vivifyMsg(head string) message {
+	var msg message
+	if(head[0]=='@') {
+		msg.expectsResponse=false
+		msg.messageName=head[1:len(head)-1]
+	} else {
+		msg.expectsResponse=true
+		msg.messageName=head
+	}
+	msg.response=make(chan object)
+	return msg
+}
+
+func execute_r(context object, head string, tail string) []object { // accumulates args of a message
+	var ret []object
+	if(head=="") { head, tail = nextArgChunk(tail) }
+	for ;len(head)>0||len(tail)>0; head, tail = nextArgChunk(tail) {
+		if(head[0]=='(') {
+			head2, tail2 := nextArgChunk(head)
+			ret=append(ret, execute(context, head2, tail2))
+		} else {
+			ret=append(ret, vivifyObject(context, head))
+		}
+	}
+	return ret
+}
+func execute(context object, head string, tail string) object { // handles pointfree sequences of messages, given initial context
+	if(head=="") { head, tail = nextPtFreeChunk(tail) }
+	for ;len(head)>0 || len(tail)>0; head, tail = nextPtFreeChunk(tail) {
+		if(head[0]=='(') {
+			head2, tail2 := nextPtFreeChunk(head)
+			context=execute(context, head2, tail2)
+		} else {
+			msg:=vivifyMsg(head)
+			if(tail[0]=='(') {
+				argList:=""
+				argList, tail = nextPtFreeChunk(tail)
+				msg.args=execute_r(context, "", argList)
+			}
+			context=context.handle(msg)
+		}
+	}
+	return context
+
+}
 
 func (self object) clone(newName string) object {
 	var ret=object{}
@@ -121,19 +180,17 @@ func (self object) clone(newName string) object {
 func (self object) handle(m message) object {
 	// TODO implement error stack and error condition
 	var impl string
-	if(self.supportedMessages != nil) {
-		impl=self.supportedMessages[m.messageName]
-	} else {
-		impl=""
-	}
 	var ret object
-	if(impl!="") {
-		// TODO call out to parser/executor, set ret
+	var ok bool
+	if impl, ok=self.supportedMessages[m.messageName]; ok {
+		ret = execute(self, "", impl)
 	} else {
-		if(self.parent!=nil) {
-			ret=self.parent.handle(m)
-		} else {
-			// TODO throw error
+		if ret, ok = self.children[m.messageName]; !ok {
+			if(self.parent!=nil) {
+				ret=self.parent.handle(m)
+			} else {
+				// TODO throw error
+			}
 		}
 	}
 	if(m.expectsResponse) {
