@@ -86,7 +86,18 @@ func nextChunk(s string) (string, string) {
 	}
 	return strings.TrimSpace(head), strings.TrimSpace(tail)
 }
+/*
+func execute_r(context object, head string) object {
+	for (;len(head)>0;) {
+		if(head[0]=='(') {
+			(head2, tail2) := nextChunk(head)
+			context=execute(context, head2, tail2))
+		} else {
+			if(
+			context.handle(message{head)
+		}
 
+}*/
 
 func (self object) clone(newName string) object {
 	var ret=object{}
@@ -145,7 +156,7 @@ func (self object) call(other object, msg message) object{
 		ret := <-msg.response
 		return ret
 	}
-	return Nil 
+	return Nil
 }
 func (self object) callAsync(other object, msg message) object {
 	var ret=Future.clone("")
