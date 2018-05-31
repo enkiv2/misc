@@ -4,6 +4,7 @@ package senketsu
 import (
 //	"strconv"
 	"fmt"
+	"strings"
 )
 
 type object struct {
@@ -33,6 +34,51 @@ func initializeEnvironment() {
 	Lobby["Future"]=&Future
 	Lobby["Nil"]=&Nil
 
+}
+func nextChunk(s string) (string, string) {
+	var head string
+	var tail string
+	s=strings.TrimSpace(s)
+	nextSpace := strings.IndexAny(s, " \n\t")
+	nextParen := strings.Index(s, "(")
+	if(nextSpace==-1) { nextSpace=len(s) }
+	if(nextParen==-1 || nextSpace<nextParen) {
+		head = s[0:nextSpace-1]
+		if(nextSpace+1<len(s)-1) {
+			tail = s[nextSpace+1:len(s)-1]
+		} else {
+			tail = ""
+		}
+		return head, tail
+	} else if(nextParen!=0) {
+		head = s[0:nextParen-1]
+		if(nextParen<len(s)-1) {
+			tail = s[nextParen:len(s)-1]
+		} else {
+			tail = ""
+		}
+		return head, tail
+	} else { // Our parenthetical expression begins the chunk
+		depth := 1
+		i:=0
+		for i=0; i<len(s); i++ {
+			if (s[i]=='(') {
+				depth++
+			} else if(s[i]==')') {
+				depth--
+				if(depth==0) {
+					head = s[0:i]
+					if(i+1<len(s)-1) {
+						tail = s[i+1:len(s)]
+					} else {
+						tail = ""
+					}
+					return head, tail
+				}
+			}
+		}
+	}
+	return head, tail // only necessary because Go is stupid
 }
 
 func (self object) clone(newName string) object {
