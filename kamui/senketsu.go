@@ -28,6 +28,14 @@ var Nil object
 var Lobby map[string]*object
 
 func initializeEnvironment() {
+	/* TODO: 
+		- Lobby object in Lobby, providing all objects as children
+		- Function executor (requires looking up Io semantics in detail)
+		- FFI of some kind (so we can implement builtins, at least)
+		- Error handling
+		- Memory mapped lobby
+		- Versioned lobby (maybe just as journal to start out with)
+	 */
 	Object := object{"Object", "Object", nil, nil, make(chan message)}
 	Future := object{"Future", "Future", &Object, nil, make(chan message)}
 	Lobby["Object"]=&Object
