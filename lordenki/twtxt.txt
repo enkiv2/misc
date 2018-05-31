@@ -2426,3 +2426,91 @@
 2018-05-25T08:29:09-04:00	Why reliable, unchanging, boring, mechanical interfaces are important in big-computing contexts: https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf
 2018-05-25T08:38:25-04:00	Band name of the day: the secret self
 2018-05-25T09:01:36-04:00	Band name of the day: the depth boys
+2018-05-25T09:24:44-04:00	Band name of the day: the conditions for democracy
+2018-05-25T09:42:37-04:00	Taco Bell Programming http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html
+2018-05-25T09:47:50-04:00	Band name of the day: the hidden persuaders
+2018-05-25T10:10:57-04:00	Band name of the day: empty prosperity
+2018-05-25T10:28:00-04:00	If William Gibson is so prophetic then why hasn't Bono married Hatsune Miku yet?! /s
+2018-05-25T10:34:03-04:00	Band name of the day: these new selves
+2018-05-25T10:38:12-04:00	Audacious Fox: The UX of Hidden Game Mechanics https://audaciousfox.net/linked/2018/hidden-game-mechanics
+2018-05-25T10:40:18-04:00	The Quietus | Opinion | Black Sky Thinking | Why AI Pop Stars Are Even More Real Than The Real Thing http://thequietus.com/articles/24629-lil-miquela-poppy-ai-pop-stars
+2018-05-25T10:44:03-04:00	Tourist Trap is apparently on Shudder now. Even though it's not Giallo, I recommend Giallo fans give it a watch: much like Profundo Russo & other pre-Suspiria Argento, it combines messy storytelling with some beautiful, surreal, and terrifying shot composition.
+2018-05-25T10:57:11-04:00	Band name of the day: the inner directives
+2018-05-25T11:13:09-04:00	TFW people you've never interacted with already have you blocked on birdsite because you sent positive affirmations to Tay years ago & the shared blocklist curator wasn't discerning.
+2018-05-25T11:20:27-04:00	Band name of the day: radical lesbian nuns
+2018-05-25T11:43:33-04:00	Band name of the day: the private horror
+2018-05-25T11:44:56-04:00	America’s Brand of Capitalism Is Incompatible With Democracy https://nymag.com/daily/intelligencer/2018/05/americas-brand-of-capitalism-is-incompatible-with-democracy.html
+2018-05-25T11:46:28-04:00	Review: 12 Rules for Life by Jordan Peterson | Kate Manne https://www.the-tls.co.uk/articles/public/jordan-peterson-12-rules-kate-manne-review/
+2018-05-25T12:06:39-04:00	Band name of the day: immortal replicator
+2018-05-25T12:29:45-04:00	Band name of the day: community vibrancy index
+2018-05-25T12:52:51-04:00	Band name of the day: the hidden & unwelcome impulses
+2018-05-26T10:16:35-04:00	Xanadu Basics 2 - Five working Xanadu Systems (four usable) - YouTube https://www.youtube.com/watch?v=9_o8q4Sp-w0
+2018-05-26T12:05:18-04:00	Re: trendism - basing visibility on popularity is a uniquely awful version of 'tyrrany of the majority' because uncommon views become invisible, even if, were they to start on an even playing field, they would become popular.
+2018-05-26T12:28:19-04:00	This is some kind of a e s t h e t i c I can't classify https://www.youtube.com/watch?v=2KfeHNIXYUc
+2018-05-26T14:42:30-04:00	Protip: change your display name and avatar periodically, so that people will forget who you are and you, in turn, gain the ability to develop without the pressure of their models of you.
+2018-05-26T16:53:22-04:00	GitHub - classilla/overbitenx: Because Firefox isn't complete without Gopherspace. https://github.com/classilla/overbitenx
+2018-05-26T17:50:59-04:00	Oh man remember these? Only 90s kids had their neural networks in hardware ICs. https://www.sigarch.org/neurochips-from-the-90s/
+2018-05-26T18:07:39-04:00	Visual Programming Languages - Snapshots http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/
+2018-05-26T21:05:41-04:00	Stealth Cell Tower https://julianoliver.com/output/stealth-cell-tower
+2018-05-26T21:10:21-04:00	We spend an enormous amount of time and effort teaching children about animals -- even ones that only exist far away (like tigers and elephants and giraffes) or that have been extinct for tens to hundreds of millions of years.
+2018-05-26T21:33:57-04:00	If it was developed in the 70s & you understand it, you can write a crappy version of it in an afternoon. If it wasn't developed in the 70s, you have never heard of it.
+2018-05-27T13:13:43-04:00	It's interesting to think about how habitual migration patterns break the close association between culture and geography. There's a psychogeographic wormhole between Fairfield County, CT and south Florida, & used to be one between there & upstate NY.
+2018-05-27T13:35:46-04:00	Hints for writing Unix tools https://monkey.org/~marius/unix-tools-hints.html
+2018-05-27T13:52:52-04:00	Binary file (standard input) matches
+2018-05-27T13:56:13-04:00	https://medium.com/@thegrugq/meme-game-on-fleek-yeah-nah-4ce777ba059a (related to https://medium.com/p/how-to-fail-at-culture-jamming-7b409abf5db5 )
+2018-05-27T14:47:34-04:00	samim - Thoughts on Botnets and CreativityToday, Botnets impact almost every aspect of human life. Promoting products, providing... https://samim.io/p/2018-04-23-the-solution-to-exploding-fake-news-and-spam-botnets-ca/
+2018-05-27T15:04:49-04:00	Band name of the day: the lifestyle taxonomists
+2018-05-28T14:18:04-04:00	Hot take: anybody who understands markets isn't going to be a free-market purist. A market is a piece of social machinery with particular environmental requirements under which it works, & those requirements are rare.
+2018-05-28T14:36:36-04:00	DadaBots: Socially Automated Dadaist Music Remix Bots on Vimeo https://vimeo.com/72277348
+2018-05-28T14:42:28-04:00	Bad idea of the day: MC Eliza, who rephrases your diss track in the form of a question. "How does that make you feel? Tell me more. Perhaps in your fantasies my flow is basic."
+2018-05-28T14:48:04-04:00	This skate punk album was created by artificial intelligence | The Outline https://theoutline.com/post/3567/this-skate-punk-album-was-created-by-artificial-inteliigence
+2018-05-28T14:50:09-04:00	Band name of the day: no hay banda
+2018-05-28T17:01:19-04:00	Basic Income, Not Basic Jobs: Against Hijacking Utopia | Slate Star Codex http://slatestarcodex.com/2018/05/16/basic-income-not-basic-jobs-against-hijacking-utopia/
+2018-05-28T17:17:05-04:00	Survival of the Mediocre Mediocre https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/
+2018-05-28T17:30:34-04:00	The easiest path to GDPR compliance: switch to a completely static website with no javascript, CGI, or CSS, and rotate the logs daily.
+2018-05-28T19:16:34-04:00	Band name of the day: sign value
+2018-05-28T19:34:04-04:00	American Psycho, Baudrillard and the Postmodern Condition - YouTube https://www.youtube.com/watch?v=RJfurfb5_kw
+2018-05-28T19:34:20-04:00	Did the Sokal affair "destroy postmodernism"? - YouTube https://www.youtube.com/watch?v=Rnmfe6qskRY
+2018-05-28T19:35:34-04:00	Fate/Zero's Infamous Spinning Scene Is Genius - YouTube https://www.youtube.com/watch?v=efJ3fmm98ww
+2018-05-28T19:48:45-04:00	Jordan Peterson doesn't understand postmodernism - YouTube https://www.youtube.com/watch?v=cU1LhcEh8Ms
+2018-05-29T07:27:29-04:00	Flying Saucerers: The Role of Science Fiction and the Occult in the Birth of the UFO Era &#8211; The Daily Grail https://www.dailygrail.com/2018/05/flying-saucerers-the-role-of-science-fiction-and-the-occult-in-the-birth-of-the-ufo-era/
+2018-05-29T07:53:06-04:00	Bad idea of the day: Replace each word with another with maximum delta in word vector space but minimum edit distance, or vice versa. Tune weights until result is interesting.
+2018-05-29T08:02:34-04:00	Band name of the day: the unofficial capacity
+2018-05-29T08:13:41-04:00	APL deserves its renaissance too http://wordsandbuttons.online/apl_deserves_its_renaissance_too.html
+2018-05-29T09:27:27-04:00	Probability Theory (For Scientists and Engineers) https://betanalpha.github.io/assets/case_studies/probability_theory.html
+2018-05-29T09:28:27-04:00	Teaching Programming Languages by Experimental and Adversarial Thinking http://cs.brown.edu/~sk/Publications/Papers/Published/pkf-teach-pl-exp-adv-think/
+2018-05-29T09:29:00-04:00	Introduction · mostly-adequate-guide https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+2018-05-29T09:29:16-04:00	The Power of Prolog https://www.metalevel.at/prolog
+2018-05-29T10:42:41-04:00	On Deadpool 2 and the “Art” of Fridging  |  Tor.com https://www.tor.com/2018/05/21/on-deadpool-2-and-the-art-of-fridging/
+2018-05-29T10:55:49-04:00	Bill, Ted, and the End of History  |  Tor.com https://www.tor.com/2018/05/22/bill-ted-and-the-end-of-history/
+2018-05-29T12:05:02-04:00	A new fast hash table in response to Google&#8217;s new fast hash table | Probably Dance https://probablydance.com/2018/05/28/a-new-fast-hash-table-in-response-to-googles-new-fast-hash-table/
+2018-05-29T12:22:00-04:00	Bad idea of the day: Take advertising jingles and slow them down by 8x or more, remix them together, add infrasound and 19hz binaural beats.
+2018-05-29T12:23:38-04:00	Bad idea of the day: As soon as a topic is identified to be trending, hide all conversation about it from anyone not already in the thread. Keep it hidden for 24 hours.
+2018-05-29T12:31:51-04:00	The Early History of Smalltalk http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html
+2018-05-29T12:40:08-04:00	Plaques of Future Past: Eccentric Stone Monuments to Anti-Gravity Research - 99% Invisible https://99percentinvisible.org/article/plaques-future-past-eccentric-stone-monuments-anti-gravity-research/
+2018-05-29T12:48:59-04:00	ERR! 418 I'm a teapot (this is not a joke) · Issue #20791 · npm/npm · GitHub https://github.com/npm/npm/issues/20791
+2018-05-29T12:53:03-04:00	Bad idea of the day: altcoin where the proof of work is correctly decoding messages from extraterrestrial civilizations
+2018-05-29T13:17:47-04:00	What It’s Like When Elon Musk’s Twitter Mob Comes After You https://www.thedailybeast.com/what-its-like-when-elon-musks-twitter-mob-comes-after-you
+2018-05-29T17:25:47-04:00	If your NN produced yacht rock, would you call it Steely GAN?
+2018-05-29T18:18:54-04:00	Bad idea of the day: Put the 'hyper' modifier key back on the keyboard, but you hold it while typing to create hyperlinks, press it while clicking to open a hyperlink
+2018-05-30T08:34:15-04:00	Ep. 2: Elizabeth Sandifer on Neoreaction: A Basilisk https://parallaxviews.podbean.com/e/ep-2-elizabeth-sandifer-on-neoreaction-a-basilisk/
+2018-05-30T08:43:51-04:00	Band name of the day: the super-marginal
+2018-05-30T08:57:13-04:00	Same Name Movie Review: Andrew Egan on Andrew Egan https://tedium.co/2018/05/29/same-name-movie-review-locus-of-control/
+2018-05-30T12:07:35-04:00	Writing long, overly complex, & logically flawed apologia of bad mainstream ideas in order to recast them as revolutionary is a growth industry. (See the 'intellectual dark web', whose major unifying trait is boringly normie positions.) Why not reach for a surreal or absurd take?
+2018-05-30T12:44:16-04:00	Why Beans Were an Ancient Emblem of Death - Gastro Obscura https://www.atlasobscura.com/articles/favism-fava-beans
+2018-05-30T13:11:32-04:00	(Un)Familiar Vampires: Michio Yamamoto&#8217;s BLOODTHIRSTY TRILOGY (1970 - 1974) | Birth.Movies.Death. https://birthmoviesdeath.com/2018/05/29/michio-yamamotos-bloodthirsty-trilogy-1970-1974
+2018-05-30T15:15:15-04:00	Periodic reminder: entries for the 2018 No-Budget Film Contest end July 4th. https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-30T15:46:02-04:00	Areas of transience -- the hyperspace of psychogeography -- are not 'non-places' with 'non-culture'. They have a uniquely warped kind of culture, in the same way tourist-dependent places do, except some people spend their lives in it (long haul truckers or jet-setting businessmen).
+2018-05-31T06:46:23-04:00	This Man Committed Paradise Lost to Memory for Mental Exercise http://nautil.us/blog/-this-man-memorized-a-60000_word-poem-using-deep-encoding
+2018-05-31T07:24:34-04:00	The shining moment when Russian revolutionary women reinvented sex | Aeon Essays https://aeon.co/essays/the-shining-moment-when-russian-revolutionary-women-reinvented-sex
+2018-05-31T08:06:47-04:00	A few words on Doug Engelbart http://worrydream.com/Engelbart/
+2018-05-31T08:07:24-04:00	GitHub - microcai/llvm-qbasic: llvm based QBASIC Compiler https://github.com/microcai/llvm-qbasic
+2018-05-31T08:14:33-04:00	When I say 'luckily software has nothing to do with business', what I mean is that software is uniquely positioned, compared to all other engineering, to be free of economies of scale: it is cheap to develop and has near zero cost of reproduction.
+2018-05-31T08:57:17-04:00	Periodic reminder: submissions for the 2018 No Budget Film Contest CLOSE on July 4th; submit your entries now: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-05-31T08:58:57-04:00	Is there a mastodon/scuttlebutt bridge?
+2018-05-31T10:57:02-04:00	Bad idea of the day: A fediverse node that only federates over packet radio via moon bounce
+2018-05-31T11:35:50-04:00	What caused Elon Musk’s Twitter meltdown? He’s enraged people stopped believing his tall tales. - Vox https://www.vox.com/the-big-idea/2018/5/30/17405922/elon-musk-twitter-meltdown-tesla-valuation-bubble-model-3-promises-reality
+2018-05-31T11:38:13-04:00	PSA: skepticism != disbelief; criticism != insult. If a 'skeptic' 'criticizes' something, that means actual intellectual effort is going into examination.
+2018-05-31T12:06:18-04:00	In case you wanted to know how to implement classes & objects in Postscript: http://donhopkins.com/home/monterey86.pdf
+2018-05-31T12:10:42-04:00	The parallelization of logic languages: https://cliplab.org/papers/partut-toplas.pdf
+2018-05-31T12:18:32-04:00	Happy Syaday, in some sense
