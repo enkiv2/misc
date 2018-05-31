@@ -73,9 +73,9 @@ func nextChunk(s string) (string, string) {
 			} else if(s[i]==')') {
 				depth--
 				if(depth==0) {
-					head = s[0:i]
+					head = s[1:i-1]
 					if(i+1<len(s)-1) {
-						tail = s[i+1:len(s)]
+						tail = s[i+1:len(s)-1]
 					} else {
 						tail = ""
 					}
@@ -86,6 +86,7 @@ func nextChunk(s string) (string, string) {
 	}
 	return strings.TrimSpace(head), strings.TrimSpace(tail)
 }
+
 
 func (self object) clone(newName string) object {
 	var ret=object{}
