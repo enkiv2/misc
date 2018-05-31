@@ -22,15 +22,23 @@ type message struct {
 
 var Object object
 var Future object
+var Nil object
+
+var Lobby map[string]*object
 
 func initializeEnvironment() {
 	Object := object{"Object", "Object", nil, nil, make(chan message)}
 	Future := object{"Future", "Future", &Object, nil, make(chan message)}
+	Lobby["Object"]=&Object
+	Lobby["Future"]=&Future
+	Lobby["Nil"]=&Nil
+
 }
 
 func (self object) clone(newName string) object {
 	var ret=object{}
 	if (newName=="") {
+		if(self.typeName=="") { self.typeName="Object" }
 		ret.typeName=self.typeName
 		newName=self.typeName+fmt.Sprintf("_%x", &ret)
 	} else {
@@ -79,12 +87,11 @@ func (self object) run() {
 }
 func (self object) call(other object, msg message) object{
 	other.mailbox <- msg
-	var ret object
 	if(msg.expectsResponse) {
 		ret := <-msg.response
 		return ret
 	}
-	return ret // TODO: replace with nil object
+	return Nil 
 }
 func (self object) callAsync(other object, msg message) object {
 	var ret=Future.clone("")
