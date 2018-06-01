@@ -74,7 +74,7 @@ def buildGod(domain):
 	return (name.capitalize(), properDomain)
 
 def buildEpithet(domain, godName):
-	if(random.randint(0, 10)==0):
+	if(random.randint(0, 25)==0):
 		return "["+str(random.randint(1, 25))+" ms have: "
 	if(random.randint(0, 2)):
 		if(random.randint(0, 3)):
@@ -116,7 +116,7 @@ def genStory():
 		template=template.replace("%band%", buildBand())
 	return template
 
-print(genStoryName().capitalize())
+print(genStoryName().upper())
 print()
 for i in range(0, 15):
 	print(genStory())
