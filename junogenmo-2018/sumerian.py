@@ -109,11 +109,11 @@ def genStory():
 	b=random.choice(gods)
 	template=random.choice(storyTemplates)
 	while(template.find("%")>=0):
-		template=template.replace("%a%", buildEpithetList(a[1], a[0], random.randint(1, 50)))
-		template=template.replace("%b%", buildEpithetList(b[1], b[0], random.randint(1, 50)))
-		template=template.replace("%wagers%", random.choice(["the crown of %city%", "the great ME of princeship", "the domain of the "+random.choice((list)(domainInverse.keys()))]))
-		template=template.replace("%city%", random.choice(cities))
-		template=template.replace("%band%", buildBand())
+		template=template.replace("%a%", buildEpithetList(a[1], a[0], random.randint(1, 50)), 1)
+		template=template.replace("%b%", buildEpithetList(b[1], b[0], random.randint(1, 50)), 1)
+		template=template.replace("%wagers%", random.choice(["the crown of %city%", "the great ME of princeship", "the domain of the "+random.choice((list)(domainInverse.keys()))]), 1)
+		template=template.replace("%city%", random.choice(cities), 1)
+		template=template.replace("%band%", buildBand(), 1)
 	return template
 
 print(genStoryName().upper())
