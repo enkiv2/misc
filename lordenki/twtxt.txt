@@ -2514,3 +2514,12 @@
 2018-05-31T12:06:18-04:00	In case you wanted to know how to implement classes & objects in Postscript: http://donhopkins.com/home/monterey86.pdf
 2018-05-31T12:10:42-04:00	The parallelization of logic languages: https://cliplab.org/papers/partut-toplas.pdf
 2018-05-31T12:18:32-04:00	Happy Syaday, in some sense
+2018-05-31T15:19:11-04:00	Go is a much stranger language than I initially understood. Anyhow, this is my work thus far on an implementation of the Io language in it: https://github.com/enkiv2/misc/blob/master/kamui/senketsu.go
+2018-05-31T16:08:59-04:00	The existential paranoia fueling Elon Musk's fear of AI | Document Journal http://www.documentjournal.com/2018/04/the-existential-paranoia-fueling-elon-musks-fear-of-ai/
+2018-05-31T17:24:12-04:00	Bad idea of the day: Use eliza as your therapist for an hour a day for years, then train a markov bot on the logs.
+2018-05-31T18:40:05-04:00	Quantum::Entanglement  https://www.perl.com/pub/2001/08/08/quantum.html/
+2018-05-31T20:25:20-04:00	Bitcoin As Explained by A.I. - YouTube https://www.youtube.com/watch?v=tBRWJzAjkjk
+2018-05-31T20:35:28-04:00	Band name of the day: tin whiskers
+2018-06-01T22:26:31-04:00	Binary file (standard input) matches
+2018-06-01T22:27:37-04:00	Itertools in Python 3, By Example " Real Python https://realpython.com/python-itertools/
+2018-06-01T22:28:13-04:00	Webring History: Social Media Before Social Media https://tedium.co/2018/05/31/webring-history/
