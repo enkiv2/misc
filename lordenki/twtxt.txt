@@ -2523,3 +2523,30 @@
 2018-06-01T22:26:31-04:00	Binary file (standard input) matches
 2018-06-01T22:27:37-04:00	Itertools in Python 3, By Example " Real Python https://realpython.com/python-itertools/
 2018-06-01T22:28:13-04:00	Webring History: Social Media Before Social Media https://tedium.co/2018/05/31/webring-history/
+2018-06-02T00:40:29-04:00	Why Everyone Loves Macaroni and Cheese | Essay | Zócalo Public Square http://www.zocalopublicsquare.org/2018/05/24/everyone-loves-macaroni-cheese/ideas/essay/
+2018-06-02T00:41:23-04:00	Band name of the day: WE HAVE MEAT
+2018-06-02T00:41:37-04:00	Band name of the day: telecomputer man
+2018-06-02T01:00:18-04:00	Bad idea of the day: the melophone -- it plays a tape loop on the line if you pick up the handset
+2018-06-02T10:43:38-04:00	Internet traffic chaffing: http://makeinternetnoise.com/index.html
+2018-06-02T12:22:40-04:00	Life hack: find the video in your youtube recommendations you're least interested in watching, click on it, turn off your speakers, and leave your house for a week.
+2018-06-02T13:13:53-04:00	RAIN Mark II Supercomputer Trainer | Hackaday.io https://hackaday.io/project/85392-rain-mark-ii-supercomputer-trainer
+2018-06-02T13:14:57-04:00	302 Found https://modernmythology.net/invisible-architecture-iii-e30d6add047d
+2018-06-02T13:37:29-04:00	No Views: watch unwatched YouTube videos | Randomly Inspired! https://www.randomlyinspired.com/noviews
+2018-06-02T13:37:59-04:00	Incognitube :: Random videos with less than 100 views https://www.incognitube.com/
+2018-06-02T14:23:06-04:00	Over-engineering is under-engineering " Baldur Bjarnason https://www.baldurbjarnason.com/notes/under-engineering-websites/
+2018-06-03T12:41:52-04:00	Young women on tumblr tagging their selfies 'cursed image' is probably a thread with some deep & interesting sociological research on the end if somebody with a PhD tugs on it.
+2018-06-03T14:18:27-04:00	Ted reads COMPUTOPIA AND CYBERCRUD,  published in 1970 - YouTube https://www.youtube.com/watch?v=Hf_cSTt1hmk
+2018-06-03T15:01:05-04:00	Days after jokingly asking when someone will do an american live action adaptation of Kite, I find that Anchor Bay already has.
+2018-06-03T15:18:58-04:00	TBH there is nothing more cyberpunk than a world where actual politically-relevant cyberpunk literature is forgotten while shitty shallow corporatized versions with awful politics are blockbusters.
+2018-06-03T15:53:31-04:00	Basically, if the antagonist of your story is actually a person or something person-like, it's not really cyberpunk, because it's not about the things cyberpunk is about. If you have an evil government or an evil corporation, it's not cyberpunk either.
+2018-06-03T16:36:51-04:00	Stereo clip - YouTube https://www.youtube.com/watch?v=exI0TlAROPw
+2018-06-04T07:28:47-04:00	Hot take: the endgame of any company is 90s Microsoft or death. If Microsoft had not bought Github, Github would have become Microsoft, because it has a profit motive.
+2018-06-04T08:39:22-04:00	Submissions for the 2018 No Budget Film Contest close on July 4th: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-06-04T09:44:04-04:00	Expedition | waynebarlowe https://waynebarlowe.wordpress.com/artwork/expedition/
+2018-06-04T10:44:59-04:00	My long strange winter trip with John Perry Barlow, a legend in the making | Salon.com https://www.salon.com/2018/06/02/1969-my-long-strange-winter-trip-with-john-perry-barlow-a-legend-in-the-making/?curator=MusicREDEF
+2018-06-04T10:58:02-04:00	Band name of the day: the psychogenic shivers
+2018-06-04T11:00:11-04:00	Band name of the day: the cheap and bleak
+2018-06-04T11:02:42-04:00	Psychogenic shivers: why we get the chills when we aren’t cold | Aeon Ideas https://aeon.co/ideas/psychogenic-shivers-why-we-get-the-chills-when-we-arent-cold
+2018-06-04T11:15:10-04:00	IGiS https://igis.io/
+2018-06-04T11:39:43-04:00	Announcing Tildes - a non-profit community site driven by its users' interests https://blog.tildes.net/announcing-tildes
+2018-06-04T11:43:10-04:00	The Shape of Code &raquo; Premium mediocrity is software engineering&#8217;s demographic http://shape-of-code.coding-guidelines.com/2018/05/21/premium-mediocrity-is-software-engineerings-demographic/

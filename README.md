@@ -1,6 +1,8 @@
 # misc
 things that don't deserve their own repo
 
+mirrored on git-ssb at ssb://%peZat1oevgpj9Irwc/lToAh9pm5TiGsxM/MRM04RV4U=.sha256
+
 Text generation or manipulation:
 
 * [applyMapping.py](applyMapping.py): apply mapping created by buildVowelSubstitutionMap
