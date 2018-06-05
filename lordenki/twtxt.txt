@@ -2550,3 +2550,14 @@
 2018-06-04T11:15:10-04:00	IGiS https://igis.io/
 2018-06-04T11:39:43-04:00	Announcing Tildes - a non-profit community site driven by its users' interests https://blog.tildes.net/announcing-tildes
 2018-06-04T11:43:10-04:00	The Shape of Code &raquo; Premium mediocrity is software engineering&#8217;s demographic http://shape-of-code.coding-guidelines.com/2018/05/21/premium-mediocrity-is-software-engineerings-demographic/
+2018-06-05T07:50:37-04:00	Submissions for the 2018 No Budget Film Contest close on July 4th: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-06-05T08:12:49-04:00	There is only one OS, and it&#8217;s been obsolete for decades &#8211; Programming, Made Complicated https://programmingmadecomplicated.wordpress.com/2017/08/12/there-is-only-one-os-and-its-been-obsolete-for-decades/
+2018-06-05T09:50:31-04:00	The Accursed Share " Real Life http://reallifemag.com/the-accursed-share/
+2018-06-05T10:15:45-04:00	The Premium Mediocre Life of Maya Millennial https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/
+2018-06-05T10:56:14-04:00	Legend Tripping " Real Life http://reallifemag.com/legend-tripping/
+2018-06-05T11:04:39-04:00	Julia Kristeva&#8217;s Face - The Rumpus.net http://therumpus.net/2011/06/julia-kristevas-face/
+2018-06-05T11:13:34-04:00	True Nonbelievers " Real Life http://reallifemag.com/true-nonbelievers/
+2018-06-05T11:19:03-04:00	History and Future of the Compressed Air Economy - LOW-TECH MAGAZINE http://www.lowtechmagazine.com/2018/05/history-and-future-of-the-compressed-air-economy.html
+2018-06-05T11:52:51-04:00	The Rust Way of OS Development https://phil-opp.github.io/talk-konstanz-may-2018/
+2018-06-05T12:11:17-04:00	Bad idea of the day: A parody of The Haunting of Hill House called The Haunting of White House, from the perspective of a scatterbrained narcissist who is influenced by the angry ghosts of the dead to join the government.
+2018-06-05T12:25:47-04:00	Seeing into the True Nature: Have You Tried Solving the Problem? http://grognor.blogspot.com/2016/12/have-you-tried-solving-problem.html
