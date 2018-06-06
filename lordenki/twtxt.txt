@@ -2561,3 +2561,36 @@
 2018-06-05T11:52:51-04:00	The Rust Way of OS Development https://phil-opp.github.io/talk-konstanz-may-2018/
 2018-06-05T12:11:17-04:00	Bad idea of the day: A parody of The Haunting of Hill House called The Haunting of White House, from the perspective of a scatterbrained narcissist who is influenced by the angry ghosts of the dead to join the government.
 2018-06-05T12:25:47-04:00	Seeing into the True Nature: Have You Tried Solving the Problem? http://grognor.blogspot.com/2016/12/have-you-tried-solving-problem.html
+2018-06-05T12:48:29-04:00	Have you tried making sure the problem is not actually a solution to another problem, so that they could solve each other? For instance, is the problem edible?
+2018-06-05T12:49:31-04:00	Have you tried reading the manual? Have you tried writing the manual?
+2018-06-05T12:50:18-04:00	Have you tried becoming the manual?
+2018-06-05T12:50:33-04:00	Have you tried switching to manual?
+2018-06-05T12:52:57-04:00	Have you tried reframing acceptance of the problem as a form of costly signalling, and using the problem as a gatekeeping mechanism?
+2018-06-05T12:54:37-04:00	Have you tried accusing the outgroup of trying to solve the problem? Have you tried accusing the outgroup of failing to solve the problem? Have you tried accusing the outgroup of successfully solving the problem?
+2018-06-05T12:55:04-04:00	Have you tried accusing the outgroup of being incapable of understanding the problem?
+2018-06-05T12:55:55-04:00	Have you tried accusing the outgroup of trying to prevent the ingroup from solving the problem?
+2018-06-05T12:57:57-04:00	Have you tried using markov chain monte carlo to perform a weighted random walk of solution space?
+2018-06-05T12:59:02-04:00	Have you tried accusing the outgroup of believing the problem to be a problem? Have you tried accusing the outgroup of believing the problem not to be a problem?
+2018-06-05T12:59:38-04:00	Have you tried accusing the outgroup of using the problem to introduce a solution that is worse than the problem?
+2018-06-05T13:00:04-04:00	Have you tried introducing a solution that is worse than the problem?
+2018-06-05T13:01:36-04:00	Have you tried claiming that all solutions to the problem are worse than the problem?
+2018-06-05T13:02:26-04:00	Have you tried claiming that a recent failure to solve the problem marks the end of all possible progress on or debate about the problem?
+2018-06-05T13:03:57-04:00	Have you tried accusing the outgroup of only pretending to care about the problem in order to gain social currency?
+2018-06-05T13:04:27-04:00	Have you tried only pretending to care about the problem in order to gain social currency?
+2018-06-05T13:05:25-04:00	Have you tried being very vague and confused in your descriptions of the problem, so that in your mind it metamorphoses into a different, more easily solved problem?
+2018-06-05T13:06:22-04:00	Have you tried pretending not to care about the problem in order to gain social currency among people who believe that the outgroup only pretends to care about the problem in order to gain social currency?
+2018-06-05T13:33:12-04:00	git ssb - noffle/from-github-to-git-ssb@master https://git.scuttlebot.io/%25RPKzL382v2fAia5HuDNHD5kkFdlP7bGvXQApSXqOBwc%3D.sha256
+2018-06-05T13:56:17-04:00	Mailing lists vs Github https://begriffs.com/posts/2018-06-05-mailing-list-vs-github.html
+2018-06-05T14:05:07-04:00	Have you tried documenting the problem so that future implementations need to reproduce it?
+2018-06-05T15:36:59-04:00	FLCL - "It's Okay To Feel Stupid" - YouTube https://www.youtube.com/watch?v=8ncZQkRZ-kQ
+2018-06-05T16:42:41-04:00	Exploring The Digital Ruins Of 'Second Life' - Digg https://digg.com/2018/second-life-in-2018
+2018-06-06T07:01:47-04:00	Submissions for the 2018 No Budget Film Contest close on July 4th: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-06-06T08:00:01-04:00	The Story of Second Life's Long-Abandoned Duran Duran Universe | Kotaku UK http://www.kotaku.co.uk/2017/07/07/the-story-of-second-lifes-long-abandoned-duran-duran-universe
+2018-06-06T08:26:17-04:00	Velcro History: An Important, Yet Unfashionable, Invention https://tedium.co/2018/06/05/velcro-history/
+2018-06-06T09:28:26-04:00	How a 64k intro is made http://www.lofibucket.com/articles/64k_intro.html
+2018-06-06T09:30:12-04:00	Scuttlebutt Protocol Guide https://ssbc.github.io/scuttlebutt-protocol-guide/
+2018-06-06T09:31:59-04:00	Robot Pedantry, Human Empathy | Mike McQuaid https://mikemcquaid.com/2018/06/05/robot-pedantry-human-empathy/
+2018-06-06T10:39:01-04:00	301 Moved Permanently https://github.com/basic-gongfu/cixl.git
+2018-06-06T10:47:02-04:00	The UNIX Philosophy and a Fear of Pixels http://prog21.dadgum.com/159.html
+2018-06-06T10:51:09-04:00	Returning to the Original Social Network https://begriffs.com/posts/2016-07-08-returning-original-social-network.html
+2018-06-06T10:58:03-04:00	How do elites manage to hijack voters’ ideas of themselves? | Aeon Essays https://aeon.co/essays/how-do-elites-manage-to-hijack-voters-ideas-of-themselves
