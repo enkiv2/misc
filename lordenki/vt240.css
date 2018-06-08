@@ -1,0 +1,22 @@
+html, a, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, menu, nav, section, time, mark, audio, video, details, summary {
+	font-family: "monospace";
+	color: #ff7700;
+	background-color: #000000;
+}
+tr, td, ul, ol {
+	border-color: #ff7700;
+	outline: 1px solid #ff7700;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+a {
+	font-weight: 900;
+	text-decoration-line: none;
+}
+a:hover{
+	color: #000000;
+	background-color: #ff7700;
+}
+

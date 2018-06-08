@@ -2594,3 +2594,84 @@
 2018-06-06T10:47:02-04:00	The UNIX Philosophy and a Fear of Pixels http://prog21.dadgum.com/159.html
 2018-06-06T10:51:09-04:00	Returning to the Original Social Network https://begriffs.com/posts/2016-07-08-returning-original-social-network.html
 2018-06-06T10:58:03-04:00	How do elites manage to hijack voters’ ideas of themselves? | Aeon Essays https://aeon.co/essays/how-do-elites-manage-to-hijack-voters-ideas-of-themselves
+2018-06-06T11:47:35-04:00	My unique identifier on scuttlebutt is @Q6jeOaoJOdFq8/3oFaOYC6bKhaVCD3IIdpjG+7Fab2M=.ed25519
+2018-06-06T11:49:41-04:00	/howto/ssb/scuttlebot https://transitiontech.ca/howto/ssb/scuttlebot
+2018-06-06T11:53:09-04:00	GitHub - evbogue/starboard: Scuttlebot distributed social in your terminal https://github.com/evbogue/starboard
+2018-06-06T12:00:56-04:00	I am also http://decent.gwenbell.com/#@OOcccHWADhKOl9urObXkXpT5qed3w8MU2/kPtrND1uk=.ed25519
+2018-06-06T12:16:12-04:00	It's not unusual that John MacAffee is planning to run for president. It's sort of unusual that we now have precedent for joke candidates actually winning. Imagine President MacAffee. Imagine him filling the oval office with literal piles of cocaine.
+2018-06-06T12:34:37-04:00	People who have been to Japan: what kind of food (if any) is served in/around japanese video arcades? Does american arcade fare like curly fries or nachos exist? Is it japanese-style junk food like takoyaki? One-handed/clean stuff like stuffed mochi, rice balls, meat buns, stuffed bread?
+2018-06-06T12:59:40-04:00	Possible article idea: 'the case for chaffing'
+2018-06-06T13:15:51-04:00	Band name of the day: the corresponding bogus packets
+2018-06-06T13:49:14-04:00	Against trendism: ipfs://QmQDqrz8Asn3wPbiTHFH9pyAXPNxwbeytJgzWUHF1PZup2 / http://ipfs.io/ipfs/QmQDqrz8Asn3wPbiTHFH9pyAXPNxwbeytJgzWUHF1PZup2 / gopher://fuckup.solutions/1enkiv2/medium-backup/2018-04-01_Against-trendism--how-to-defang-the-social-media-disinformation-complex-81a8e2635956.txt / https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/against-trendism-how-to-defang-the-social-media-disinformation-complex-81a8e2635956
+2018-06-06T13:56:39-04:00	I should probably implement an example version of transcopyright for my repo of 'important data structures, algorithms, & ideas that have no easily-understood isolated example implementations' (https://github.com/enkiv2/misc/tree/master/ds-lib) since it's already mostly xanadu shit
+2018-06-06T14:06:06-04:00	Actually, if I did a series of articles on (non-secret parts of) Xanadu internals, would anybody care? Not just transcopyright -- I've got detailed knowledge on how ZZOGL / FloatingWord did layout, for instance. I think I can explain these things in a clearer way than Ted does, in some cases.
+2018-06-06T19:12:23-04:00	An Engineer’s Guide to the Docuverse " Rococo Modem Basilisk " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/an-engineers-guide-to-the-docuverse-d080cdbb73a6
+2018-06-07T06:13:04-04:00	Submissions for the 2018 No Budget Film Contest close on July 4th: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-06-07T08:12:51-04:00	Jaron Lanier interview: on VR, LSD, and where Silicon Valley went wrong - Vox https://www.vox.com/2018/1/16/16897738/jaron-lanier-interview
+2018-06-07T08:43:43-04:00	Band name of the day: the nocturnal design
+2018-06-07T08:46:40-04:00	Band name of the day: the committee of sleep
+2018-06-07T09:05:40-04:00	Band name of the day: reserve heads
+2018-06-07T09:17:49-04:00	After the Miracle " The California Sunday Magazine https://story.californiasunday.com/infosys-india-tech
+2018-06-07T09:39:22-04:00	Apparently Lachman has a new book: https://boingboing.net/2018/06/06/dark-star-rising-magick-and-p.html
+2018-06-07T09:49:11-04:00	The Art of Picking Intel Registers https://www.swansontec.com/sregisters.html
+2018-06-07T09:55:32-04:00	Bad idea of the day: a noir story set in the insular world of professional c-list celebrity impersonators
+2018-06-07T10:03:01-04:00	The Russian Philosopher Who Sought Immortality in the Cosmos - Atlas Obscura https://www.atlasobscura.com/articles/what-is-russian-cosmism-nikolai-federov
+2018-06-07T10:05:40-04:00	Smooth Criminal But Every Other Beat is Missing - YouTube https://www.youtube.com/watch?v=jLvDnRU_ajk
+2018-06-07T10:26:45-04:00	70 Long-Lost Japanese Video Games Have Been Discovered in a 67GB Folder of ROMs on a Private Forum - Motherboard https://motherboard.vice.com/en_us/article/a3anja/labyrinthe-japanese-game-discovered-on-private-forum
+2018-06-07T10:33:23-04:00	The NSA Just Released 136 Historical Propaganda Posters - Motherboard https://motherboard.vice.com/en_us/article/43548d/nsa-historical-propaganda-posters-foia
+2018-06-07T10:38:32-04:00	The Mastermind by Evan Ratliff · Longform https://longform.org/posts/the-mastermind
+2018-06-07T10:48:49-04:00	Algorithmic glass ceiling in social networks: the effects of social recommendations on network diversity | the morning paper https://blog.acolyer.org/2018/05/24/algorithmic-glass-ceiling-in-social-networks-the-effects-of-recommendation-on-social-diversity/
+2018-06-07T10:59:21-04:00	Re-coding Black Mirror, Part I | the morning paper https://blog.acolyer.org/2018/05/14/re-coding-black-mirror-part-i/
+2018-06-07T10:59:32-04:00	Re-coding Black Mirror, Part II | the morning paper https://blog.acolyer.org/2018/05/15/re-coding-black-mirror-part-ii/
+2018-06-07T10:59:42-04:00	Re-coding Black Mirror Part III | the morning paper https://blog.acolyer.org/2018/05/16/re-coding-black-mirror-part-iii/
+2018-06-07T10:59:52-04:00	Re-coding Black Mirror Part IV | the morning paper https://blog.acolyer.org/2018/05/17/re-coding-black-mirror-part-iv/
+2018-06-07T11:00:01-04:00	Re-coding Black Mirror, Part V | the morning paper https://blog.acolyer.org/2018/05/18/re-coding-black-mirror-part-v/
+2018-06-07T11:06:17-04:00	TIL that Jaron Lanier is to blame for Second Life's shitty/dysfunctional internal Linden economy
+2018-06-07T11:11:12-04:00	403 Forbidden http://www.os2museum.com/wp/troubled-time/
+2018-06-07T11:17:14-04:00	Pocket-size Pi Zero Desktop features e-paper Display | Hackaday https://hackaday.com/2018/06/04/pocket-size-pi-zero-desktop-features-e-paper-display/
+2018-06-07T13:07:24-04:00	Suspiria - Teaser Trailer | Amazon Studios - YouTube https://www.youtube.com/watch?v=3uGIEY7tdg8
+2018-06-07T13:09:04-04:00	Fate/Stay Night At Its Best in Heaven's Feel I. Presage Flower | Backlog Bop - YouTube https://www.youtube.com/watch?v=4jv9ilKrRRc
+2018-06-07T13:34:46-04:00	The Savage Passions of Hammer Horror | Village Voice https://www.villagevoice.com/2018/06/01/the-savage-passions-of-hammer-horror/
+2018-06-07T15:25:03-04:00	Band name of the day: eat your tv
+2018-06-07T15:27:25-04:00	Band name of the day: expectorate the vestigial
+2018-06-07T16:46:26-04:00	Band name of the day: death as productive matrix
+2018-06-07T16:46:43-04:00	Band name of the day: hydraulic tendency
+2018-06-07T16:48:16-04:00	Band name of the day: machinic praxis
+2018-06-07T16:48:52-04:00	Band name of the day: organization as suppression
+2018-06-07T16:56:48-04:00	Band name of the day: abstract culture
+2018-06-07T16:58:03-04:00	Band name of the day: theoretical anti-system
+2018-06-07T17:00:42-04:00	Band name of the day: a cryptography of cosmic pain
+2018-06-07T17:01:09-04:00	Band name of the day: thermic waves
+2018-06-07T17:12:09-04:00	Band name of the day: tactics of intensification
+2018-06-07T17:41:44-04:00	Band name of the day: beyond appearance
+2018-06-07T18:00:42-04:00	There's this idea in Land & Zizek that the iterative is at war with the rational / the evolutionary at war with the revolutionary b/c the former saps the discontent that powers the latter
+2018-06-07T18:16:03-04:00	Band name of the day: the spiriting night
+2018-06-07T18:29:03-04:00	Band name of the day: the securities of ontotheology
+2018-06-07T19:23:02-04:00	Band name of the day: a petrified desolation
+2018-06-07T19:23:44-04:00	Band name of the day: blood and image
+2018-06-07T19:23:58-04:00	Band name of the day: a lunar countenance
+2018-06-07T19:41:09-04:00	Band name of the day: night pool
+2018-06-07T19:41:44-04:00	Bad idea of the day: edit executable files by removing any bytes that are not numberwang
+2018-06-07T19:57:30-04:00	Band name of the day: a fading and cooling of stars
+2018-06-07T20:02:51-04:00	Band name of the day: the vast and senseless dispersion of the stars
+2018-06-07T20:14:14-04:00	Fuck, Land doesn't seem to get that any major anomoly would be signal AF & therefore, hiding it behind redundancy is a bug in any information-theoretic channel
+2018-06-08T05:24:24-04:00	Submissions for the 2018 No Budget Film Contest close on July 4th: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2018-no-budget-film-contest-e023a922fadd
+2018-06-08T09:16:35-04:00	Band name of the day: out of order
+2018-06-08T09:18:07-04:00	Chaotic Good, Snap #918 - Beyond Belief | Snap Judgment | WNYC Studios https://www.wnycstudios.org/story/chaotic-good-snap-918-beyond-belief/
+2018-06-08T09:41:07-04:00	Band name of the day: there are interior teeth
+2018-06-08T09:42:15-04:00	Kevin's Meandering Mind | A Whale&#8217;s Lantern: The Oral History of a Musical Collaboration (part one) http://dogtrax.edublogs.org/2018/04/14/a-whales-lantern-the-oral-history-of-a-musical-collaboration-part-one/
+2018-06-08T09:42:34-04:00	Kevin's Meandering Mind | A Whale&#8217;s Lantern: The Oral History of a Musical Collaboration (part two) http://dogtrax.edublogs.org/2018/04/15/a-whales-lantern-the-oral-history-of-a-musical-collaboration-part-two/
+2018-06-08T10:03:24-04:00	Pardon Our Interruption https://www.chronicle.com/article/is-this-the-world-s-most/243599
+2018-06-08T10:20:20-04:00	You’re simply not that big a deal: now isn’t that a relief? | Aeon Ideas https://aeon.co/ideas/youre-simply-not-that-big-a-deal-now-isnt-that-a-relief
+2018-06-08T11:22:05-04:00	Band name of the day: outside threat
+2018-06-08T11:25:22-04:00	Why Is a ‘Pepper’ Different From ‘Pepper’? Blame Christopher Columbus - Gastro Obscura https://www.atlasobscura.com/articles/why-called-pepper
+2018-06-08T11:26:33-04:00	Why Foley Artists Use Cabbage and Celery to Create Hollywood’s Distinctive Sounds - Gastro Obscura https://www.atlasobscura.com/articles/how-are-film-sound-effects-made
+2018-06-08T11:57:07-04:00	How Spotify Discovers the Genres of Tomorrow " News " Spotify for Artists https://artists.spotify.com/blog/how-spotify-discovers-the-genres-of-tomorrow
+2018-06-08T12:01:51-04:00	Band name of the day: functional music
+2018-06-08T12:17:12-04:00	Inside the Songs of Our Lives: 'Video Killed The Radio Star' http://www.realclearlife.com/music/video-killed-the-radio-star/
+2018-06-08T12:27:02-04:00	Lazyweb: are there good horror movies about sound engineering / foley other than LFO and Berberian Sound Studio?
+2018-06-08T12:39:28-04:00	Fairy Scapegoats: A History of the Persecution of Changeling&nbsp;Children  https://longreads.com/2018/06/08/fairy-scapegoats-a-history-of-the-persecution-of-changeling-children/
+2018-06-08T12:40:58-04:00	Band name of the day: a charm of blood and stones
+2018-06-08T13:40:24-04:00	Letting neural networks be weird &bull; Why did the neural network cross the road? http://aiweirdness.com/post/174691534037/why-did-the-neural-network-cross-the-road
+2018-06-08T15:55:41-04:00	A Vor Never&nbsp;Sleeps  https://longreads.com/2018/06/04/a-vor-never-sleeps/
+2018-06-08T16:08:48-04:00	ARM Holdings History: From Acorn to Giant Tree https://tedium.co/2018/06/07/acorn-arm-holdings-history/
