@@ -2675,3 +2675,89 @@
 2018-06-08T13:40:24-04:00	Letting neural networks be weird &bull; Why did the neural network cross the road? http://aiweirdness.com/post/174691534037/why-did-the-neural-network-cross-the-road
 2018-06-08T15:55:41-04:00	A Vor Never&nbsp;Sleeps  https://longreads.com/2018/06/04/a-vor-never-sleeps/
 2018-06-08T16:08:48-04:00	ARM Holdings History: From Acorn to Giant Tree https://tedium.co/2018/06/07/acorn-arm-holdings-history/
+2018-06-08T21:21:38-04:00	THE GEKKO ESTATE - Episode 1: Market Undulation - YouTube https://www.youtube.com/watch?v=XGg1DntKJ1w
+2018-06-09T00:05:36-04:00	New album: https://www.jamendo.com/album/177456/night-of-the-corpse-whale
+2018-06-09T11:18:34-04:00	The Existential Horror of Aggretsuko - YouTube https://www.youtube.com/watch?v=yp_Nts2XpfA
+2018-06-09T11:49:10-04:00	Knowing that half of The Buggles became The Art of Noise makes me feel like maybe we do live in a comprehensible and ordered universe. But then I look at literally anything else.
+2018-06-10T09:55:48-04:00	Band name of the day: distant thunder
+2018-06-10T13:09:45-04:00	Minimalist C Libraries « null program https://nullprogram.com/blog/2018/06/10/
+2018-06-10T20:47:31-04:00	Band name of the day: squirrel events
+2018-06-11T08:00:09-04:00	serialism experiments lain, layer 44: c# e g# a# b f a f# d d# b# c g e#
+2018-06-11T08:16:33-04:00	Band name of the day: the business of war
+2018-06-11T08:30:48-04:00	The Art of Kimchi | SAVEUR https://www.saveur.com/article/Kitchen/The-Art-of-Kimchi
+2018-06-11T08:36:06-04:00	Band name of the day: a jagged sky
+2018-06-11T09:53:47-04:00	GitHub Is Microsoft’s $7.5 Billion Undo Button - Bloomberg https://www.bloomberg.com/news/articles/2018-06-06/github-is-microsoft-s-7-5-billion-undo-button
+2018-06-11T09:54:56-04:00	Your Phone Is Listening and it's Not Paranoia - VICE https://www.vice.com/en_au/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia
+2018-06-11T10:49:17-04:00	'Sci-Fi Music Felt Like a Vast, Interconnected Mythology': An Interview with Jason Heller | Hazlitt https://hazlitt.net/feature/sci-fi-music-felt-vast-interconnected-mythology-interview-jason-heller
+2018-06-11T11:24:09-04:00	The cyberpunk aesthetic, moreso than mere future noir, is the future as seen through the eyes of Sir Clive Sinclair: sleek but broken, and dominated by posturing. It's a beveled black hermetically-sealed shell cracked open to fix manufacturing & design flaws, alligator-clipped wire spilling out, but no fix will prevent it from frying your brain if you look at it funny.
+2018-06-11T11:35:33-04:00	The end of a world of nation-states may be upon us | Aeon Essays https://aeon.co/essays/the-end-of-a-world-of-nation-states-may-be-upon-us
+2018-06-11T12:01:17-04:00	Bad idea of the day: running a script that speaks random words aloud all day while you leave your phone at home, in order to chaff your audio-surveillance-based ad targeting
+2018-06-11T12:02:46-04:00	Bad idea of the day: creating ads that target things that are in dictionaries but could never be sold in order to identify people who use dictionary-based chaffing techniques
+2018-06-11T12:03:20-04:00	Bad idea of the day: creating ads that target asemic combinations of dictionary words order to identify people who use dictionary-based chaffing techniques
+2018-06-11T12:04:59-04:00	Bad idea of the day: treating asemic combinations of dictionary words as an aesthetic to be appropriated by commerce, and appropriating it with commerce, thus making attempts to identify dictionary-based chaffing techniques lossier
+2018-06-11T12:07:13-04:00	Finance has its own term for 'skin in the game': 'insider trading'. It's also a legal term, because people very occasionally go to jail for being too obvious when they do it.
+2018-06-11T12:18:03-04:00	article idea: media (esp. social media) as perverse psychogeography, & the inhabitants of transient spaces by career & disposition
+2018-06-11T15:08:03-04:00	QOTD: "Criticism and negativity alone still secrete a phantom of the reality of power. If they become weak[...] power has no recourse but to artificially revive and hallucinate them."
+2018-06-11T15:24:43-04:00	Band name of the day: the real atomic clash
+2018-06-11T15:38:02-04:00	Band name of the day: spectacular death apparatus
+2018-06-11T15:55:03-04:00	Band name of the day: alligator belief championship
+2018-06-12T09:11:42-04:00	GitHub - thosakwe/t2b: A wicked-powerful text macro language for building binary files. https://github.com/thosakwe/t2b
+2018-06-12T09:44:08-04:00	How hunters paved the way for the American environmental movement - Vox https://www.vox.com/conversations/2018/6/12/17449154/hunting-culture-shaped-masculinity-the-nra-and-environmentalism
+2018-06-12T10:00:28-04:00	Hot take: it's important to distinguish 'junk food media' (i.e., stuff that, regardless of technical competence, will succeed by delivering on purience) from 'premium media' (works whose popularity depends on craftsmanship). The former is more important for the progress of art, because polish runs counter to experimentation.
+2018-06-12T17:34:50-04:00	Hot take: the most accurate depiction of the deep state in media is the 1980s british sitcom Yes, Prime Minister
+2018-06-12T17:36:05-04:00	Hotter take: Yes, Prime Minister is also an extremely accurate depiction of all non-state actors consisting of two or more people
+2018-06-12T17:52:12-04:00	can you explain to some degree why SPARC chips run... - kremlin_t http://kremlin.enterprises/post/142778524020/can-you-explain-to-some-degree-why-sparc-chips-run
+2018-06-12T18:17:38-04:00	Myths programmers believe | Átila on Code https://atilanevesoncode.wordpress.com/2018/06/12/myths-programmers-believe/
+2018-06-12T18:22:12-04:00	More Hints for Writing Unix Tools | Mario Campos https://www.mariocampos.io/blog/more-unix-tools-hints/
+2018-06-12T18:26:39-04:00	30 years later, QBasic is still the best | Personal Registry Editor http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/
+2018-06-13T06:12:15-04:00	Survivorship bias spicy take: if someone is successful enough to be notable for their success, they are rare enough that no lessons from their experience apply generally enough to make someone else successful beyond the 50% mark.
+2018-06-13T06:18:55-04:00	Band name of the day: vampire empire
+2018-06-13T08:48:01-04:00	Band name of the day: disruption operation playbook
+2018-06-13T08:49:09-04:00	A Beginner's Guide to Coding Graphics Shaders https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313
+2018-06-13T08:50:59-04:00	LEXICAL AND PRAGMATIC CONSIDERATIONS OF INPUT STRUCTURES https://www.billbuxton.com/lexical.html
+2018-06-13T08:53:24-04:00	Band name of the day: the quietized home
+2018-06-13T08:59:39-04:00	Flexi Disc History: Vinyl&#x27;s Thinner Cousin https://tedium.co/2018/06/12/flexi-disc-history/
+2018-06-13T09:32:25-04:00	Return the pop-culture idea of the MIB to where it was in the mid-60s: tall, pale, completely hairless, wearing bright red lipstick, and with bulging eyes and a robotic, monotone vocal cadence.
+2018-06-13T09:35:48-04:00	The Pivot - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/06/the-pivot.html
+2018-06-13T09:44:22-04:00	Band name of the day: the maury island incident
+2018-06-13T09:45:23-04:00	Band name of the day: the washington flap
+2018-06-13T10:16:33-04:00	Look Down: How Toynbee Tiles Invaded (And Disappeared From) Pittsburgh Streets | 90.5 WESA http://wesa.fm/post/look-down-how-toynbee-tiles-invaded-and-disappeared-pittsburgh-streets#stream/0
+2018-06-13T10:24:53-04:00	Shtetl-Optimized  &raquo; Blog Archive   &raquo; Quantum computing for policymakers and philosopher-novelists https://www.scottaaronson.com/blog/?p=3848
+2018-06-13T10:57:13-04:00	Distorted Text Says A Lot | Hackaday https://hackaday.com/2018/05/31/distorted-text-says-a-lot/
+2018-06-13T10:58:52-04:00	"Mind-boggling" Stanford research turns human blood cells into functional neurons https://newatlas.com/blood-cells-transformed-neurons-stanford/54948/
+2018-06-13T10:59:31-04:00	The Jankó keyboard, an 1882 replacement for the traditional piano layout | The Kid Should See This http://thekidshouldseethis.com/post/the-janko-keyboard-an-1882-replacement-for-the-traditional-piano-layout
+2018-06-13T11:00:11-04:00	The Avant-Garde Adventures of Yeah Yeah Yeahs Drummer Brian Chase &laquo; Bandcamp Daily https://daily.bandcamp.com/2018/06/11/brian-chase-yeah-yeah-yeahs-interview/
+2018-06-13T11:01:42-04:00	The Pressures Of Being An Interpreter At A High-Stakes Summit : NPR https://www.npr.org/2018/06/11/611734103/the-pressures-of-being-an-interpreter-at-a-high-stakes-summit
+2018-06-13T11:03:10-04:00	Formally Specifying UIs • Hillel Wayne https://www.hillelwayne.com/post/formally-specifying-uis/
+2018-06-13T11:03:37-04:00	Why it’s so hard to develop the right material for brain implants  - The Verge https://www.theverge.com/2018/5/30/17408852/brain-implant-materials-neuroscience-health-chris-bettinger
+2018-06-13T11:12:30-04:00	Bad idea of the day: Distort text so that, from a distance, it will be read as a QR code containing the same text -- a typographical pseudo-quine
+2018-06-13T11:16:51-04:00	Don&#x27;t Be Evil https://logicmag.io/03-dont-be-evil/
+2018-06-13T11:55:04-04:00	Russian Censorship of Telegram - Schneier on Security https://www.schneier.com/blog/archives/2018/06/russian_censors.html
+2018-06-13T12:24:30-04:00	Cursed ontologies in forbidden orthographies. Special tools are required to handle them safely: wands, swords, cups, pantacles -- all important safety equipment in any conceptual laboratory environment.
+2018-06-13T12:30:02-04:00	Bad idea of the day: A tarot deck formatted like a set of business cards, one for the egregore of each arcanum (major and minor -- not just trumps)
+2018-06-13T12:47:12-04:00	Band name of the day: power tool massacre
+2018-06-13T13:32:26-04:00	The khipu code: the knotty mystery of the Inkas’ 3D records | Aeon Ideas https://aeon.co/ideas/the-khipu-code-the-knotty-mystery-of-the-inkas-3d-records
+2018-06-13T13:47:42-04:00	Designing apps for the E Ink Kindle https://kevinlynagh.com/kindle-games/
+2018-06-13T13:50:12-04:00	The Democratic Surround: A Conversation Between Fred Turner and Clay Shirky | Public Books http://www.publicbooks.org/the-democratic-surround-a-conversation-between-fred-turner-and-clay-shirky/
+2018-06-14T07:35:12-04:00	Band name of the day: weather station in a dead universe
+2018-06-14T09:35:50-04:00	Band name of the day: horrible clown violence
+2018-06-14T10:07:35-04:00	The Erotically Charged Technophilia of Cyberpunk Paintings https://hyperallergic.com/446862/agustin-fernandez-paris-cyberpunk/
+2018-06-14T10:38:48-04:00	Effective Standards Work, Part 1: The Lay Of The Land | Infrequently Noted https://infrequently.org/2018/06/effective-standards-work-part-1-the-lay-of-the-land/
+2018-06-14T10:42:53-04:00	Browsers are big. ($1724353) · Snippets · GitLab https://gitlab.com/snippets/1724353
+2018-06-14T10:56:09-04:00	Band name of the day: revenge of the cyranoids
+2018-06-14T10:56:35-04:00	Band name of the day: the fulfillment centre
+2018-06-14T10:58:28-04:00	Blood Will Out | Rachel Riederer https://thebaffler.com/latest/shark-tankification-riederer
+2018-06-14T11:06:45-04:00	Band name of the day: villiage of witches
+2018-06-14T11:09:33-04:00	Iain M. Banks&#8217; Culture Series: Caledonian Antisyzygy and the Principle of Charity &#8211; Heradas http://heradas.com/2018/06/iain-m-banks-culture-series-caledonian-antisyzygy-and-the-principle-of-charity/
+2018-06-14T11:39:00-04:00	Hot take: if you can't write a feature-complete proof of concept implementation of it in 100 lines, then there will never be a stable implementation, but if you can, then even 10k line implementations can be made stable.
+2018-06-14T12:21:20-04:00	Band name of the day: the unlimited stick
+2018-06-14T12:24:23-04:00	Thinkpiece formula: <intensely personal yet widespread situation> in the age of <political, technical, or economic circumstance at macro scale>
+2018-06-14T13:09:40-04:00	Rosemary’s Baby: Blueprint for Satanic Panic - CrookedMarquee https://crookedmarquee.com/rosemarys-baby-blueprint-for-satanic-panic/
+2018-06-14T13:18:46-04:00	My Approach to Getting Dramatically Better as a Programmer &#8211; malisper.me http://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/
+2018-06-14T13:22:56-04:00	Sects Education: Cults in Film - CrookedMarquee https://crookedmarquee.com/sects-education-cults-in-movies/
+2018-06-14T13:41:29-04:00	Bad idea of the day: A small dedicated machine (like a chumby, maybe based on the raspberry pi) that ships with ipfs & ssb/patchwork, casts from ipfs or peertube to TVs.
+2018-06-14T14:04:28-04:00	Bad idea of the day: A language with APL-style syntax and PROLOG-style semantics
+2018-06-14T14:09:18-04:00	Reading about Web Prolog & it reminds me a lot of the work I did on Mycroft. I wonder: how will routing work here? If fully-qualified predicates have an explicit hostname component, Web Prolog can go fuk.
+2018-06-14T18:03:56-04:00	Hot take: it's a good thing that genre films & genre literature aren't taken seriously by the mainstream, because things that are taken seriously aren't allowed to be interesting/experimental/meaningful. (See: Star Wars, & associated drama)
+2018-06-14T18:10:40-04:00	Building the Commodore that should have existed, an interview with Stefany Allaire - SnapEDA Blog http://blog.snapeda.com/2018/06/06/building-the-commodore-computer-that-should-have-existed-an-interview-with-stefany-allaire/
+2018-06-15T06:26:37-04:00	Bad idea of the day: Scroll back through GUI input events & application states like you scroll back through shell history; inject conditionals and loops; use speculative execution of applications to show projected state from these changes.

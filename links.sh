@@ -16,7 +16,7 @@ function getTitle() {
 }
 function fmtlinks() {
 	echo "<html>"
-	echo "<head><title>Links</title></head>"
+	echo '<head><title>Links</title><link rel="stylesheet" type="text/css" href="vt240.css"></head>'
 	echo "<body>"
 	echo "<table>"
 	echo "<tr><th>Link</th><th>Date</th></tr>"
