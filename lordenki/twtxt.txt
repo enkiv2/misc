@@ -2761,3 +2761,12 @@
 2018-06-14T18:03:56-04:00	Hot take: it's a good thing that genre films & genre literature aren't taken seriously by the mainstream, because things that are taken seriously aren't allowed to be interesting/experimental/meaningful. (See: Star Wars, & associated drama)
 2018-06-14T18:10:40-04:00	Building the Commodore that should have existed, an interview with Stefany Allaire - SnapEDA Blog http://blog.snapeda.com/2018/06/06/building-the-commodore-computer-that-should-have-existed-an-interview-with-stefany-allaire/
 2018-06-15T06:26:37-04:00	Bad idea of the day: Scroll back through GUI input events & application states like you scroll back through shell history; inject conditionals and loops; use speculative execution of applications to show projected state from these changes.
+2018-06-15T07:23:14-04:00	Is there a prolog implementation that JIT-compiles with LLVM? In particular, something that emits a subset of LLVM bytecode that corresponds to the WAM or BAM?
+2018-06-15T08:09:39-04:00	deathmtn https://smidgeo.com/notes/deathmtn/deathmtn-BpGYoJnF.html
+2018-06-15T08:11:38-04:00	I'm starting to think I should post an explanation of my crossposting/linking toolchain. It's so straightforward that I didn't think it required explanation, but other people are doing equivalents with webapps?
+2018-06-15T08:20:43-04:00	Generative Artistry https://generativeartistry.com/
+2018-06-15T08:26:15-04:00	How to Make Perfect Lemon Curd in the Microwave https://skillet.lifehacker.com/how-to-make-perfect-lemon-curd-in-the-microwave-1826812427
+2018-06-15T08:34:26-04:00	Eggs Benedict with grilled cheese and tomato soup hollandaise is the mashup of dreams https://thetakeout.com/eggs-benedict-with-grilled-cheese-and-tomato-soup-holla-1825280982
+2018-06-15T08:57:51-04:00	Codemasters History: The NES’ Best Unlicensed Developer https://tedium.co/2018/06/15/codemasters-history-nes-nintendo/
+2018-06-15T09:13:47-04:00	Inside the calming communities of YouTube’s lo-fi hip hop scene | Dazed http://www.dazeddigital.com/music/article/40366/1/youtube-lo-fi-hip-hop-study-relax-24-7-livestream-scene
+2018-06-15T09:17:14-04:00	Exploring the Amiga - Part 1 - The Digital Cat http://blog.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/

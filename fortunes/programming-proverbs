@@ -1,0 +1,788 @@
+Dance like nobody is watching, code like everybody is.
+%
+A deployed MVP is worth two prototyped.
+%
+When you reach bearded-level, there are at least a hundred grey-beards above you.
+%
+A/B Test twice, deploy changes once.
+%
+Don't commit on master when drunk.
+%
+Sleep on a force push.
+%
+A git pull a day, keeps the doctor away.
+%
+Sometimes you have to cut legacy support to allow the new product to bloom.
+%
+More hours worked, more commits made. Mostly reverts and bug-causing features.
+%
+Even a greybeard will drop production DB.
+%
+Scope creep makes a mountain.
+%
+A hundred programmers won't make a two-year project in a week.
+%
+Facebook wasn't built in a day.
+%
+Just ship" is no substitute for design.
+%
+Today's fashion is tomorrow's legacy.
+%
+Learning obscure and strange languages, yields better understanding and broader horizons.
+%
+The better job you do, the easier others discount the level of difficulty.
+%
+Testing is easier than debugging.
+%
+Finish a product in a day, and people will expect a new product every day. Teach people about proper development cycles, and your company will flourish.
+%
+Customers are the best testers.
+%
+Absence is beauty, in error logs.
+%
+Eternal sunshine of the stateless mind.
+%
+Laziness is your best friend. Never do twice what you can automate once.
+%
+Good test coverage + automated workflows = quiet cell phones and better sleep.
+%
+The best code is no code at all.
+%
+The best request is the one you don't make.
+%
+If a system works perfectly, no one will care what is inside it. Once it breaks, systems design and architecture decides your fate.
+%
+Leave architecture for applications that require long-term support.
+%
+Architecture and design are preparations for problems and changes, not a key to runtime.
+%
+Without a prototype, don't build a final product.
+%
+Without boilerplate, there's no speedy development.
+%
+Code frustration is a bad advisor for a refactor.
+%
+The more technology you learn, the more you realize how little you know.
+%
+An early BETA launch will teach you more than a delayed promise.
+%
+All applications are pretty when your screen is off.
+%
+Do not pick a framework for its demo page, instead pick it for its code.
+%
+You cannot set a web standard alone.
+%
+A poor programmer blames the language.
+%
+The code's writin' but ain't nobody programming.
+%
+Mañana often has the most tickets.
+%
+Never optimize before measuring
+%
+Think about your dance moves when drunk, next time you try to code with some beers on your count.
+%
+What happens in Git stays in Git
+%
+Simpler code has less bugs.
+%
+Lock up your dependency versions and other valuables.
+%
+Quantity of attempts often yields quality at the end. Commitment to refactoring legacy code yields better quality yet.
+%
+Accept that some days you're the QA and some days you're the one fixing bugs.
+%
+Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
+%
+Debugging becomes significantly easier if you first admit that you are the problem.
+%
+Figure out your data structures, and the code will follow.
+%
+One thing should never do more than one thing.
+%
+Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
+%
+An open source developer does not act for personal fame.
+%
+Public code review forces one to better oneself. It forces better practices, smarter solutions, growth as a developer... or being broken.
+%
+Testing covers not testing.
+%
+The most attractive pull requests are the ones wearing a lot of red.
+%
+Coding styleguides without peer code reviews are like running a country on voluntary taxes
+%
+Deploying an unmonitored app is like going on a roadtrip without a gas gauge.
+%
+Learn a programming language, become a new developer.
+%
+Some old code never refactors, and breaks at the slightest change.
+%
+A developer will spot a peer from far away
+%
+A developer that codes until burnout, lives without a mind.
+%
+A marketer is not a QA, a developer does not advertise.
+%
+A soft spoken developer will see his warnings of technical debt unheeded, and will suffer the blame.
+%
+A well spoken developer can be hired hastily but at the last minute fail an easy test.
+%
+One can self-learn the art of code but do not assume other crafts suffer of such low bar of entry.
+%
+Find ease in your code: Code difficult to read and understand is code destined to be in troubled legacy.
+%
+Collaborating on open source projects can bring about friendship and community just as it can create factions and flame wars.
+%
+Refactor or rewrite, there is no patching unmaintainable legacy code
+%
+If you stop learning now and take the easy path, you will find yourself stuck in legacy software forever.
+%
+A beautiful product which is pleasing to non-paying users is good only for frightening investors when it runs out of funding.
+%
+A foreach loop avoided is a CPU cycle earned.
+%
+You cannot prevent managers from asking too much of you, but you can prevent them from getting used to it.
+%
+Your code might be perfect but you aren't
+%
+Any sufficiently complex app architecture is indistinguishable from spaghetti code.
+%
+Writing requirements based code and walking on water are both relatively easy to do when frozen.
+%
+It takes twice as much intelligence to debug than to program, therefore you peer review because you can never truly be smart enough to debug your own code.
+%
+Hofstadter's Law will tell you to always add more time than you think you need to a project because it will take longer, even when you take into account Hofstadter's Law.
+%
+Long lasting code is written only when you pretend that it will be peer reviewed or maintained by a violent psycopath who knows where you live.
+%
+Small bug becomes a huge problem.
+%
+Commiting is the only command I know, Commiting on you.
+%
+No one who codes before dawn 360 days a year fails to make his startup profitable
+%
+There is no test without first a failure
+%
+A line of testing is worth more than a module of code
+%
+Don't put all your logic in one method basket
+%
+As you code so shall you also deploy
+%
+Diff before you Push
+%
+When the only tool you have is Rails, everything looks like Ruby
+%
+Careful that Ignoring a PR doesn't get construed as Approval
+%
+An interview at the right price is worth two at Google
+%
+With commit and deploy access comes great responsibility
+%
+When aruging with a foolish and conceded programmer, first make sure that the other person isn't doing the exact same thing
+%
+Don't enter an architecture argument without knowing design patterns first
+%
+Anger and stubborness make bad allies in code review
+%
+Not all those that prototype and test ideas are lost.
+%
+Each new commit holds new chances, new beginnings
+%
+Commit or do not commit, there is no try
+%
+Deploying an unmonitored app is like going on a road trip without a gas gauge.
+%
+More hours worked, more commits made. Mostly reverts and bug-causing features.
+%
+Scope creep makes a mountain.
+%
+Sometimes you have to cut legacy support to allow the new product to bloom.
+%
+Just ship" is no substitute for design.
+%
+You cannot prevent managers from asking too much of you, but you can prevent them from getting used to it.
+%
+Testing is easier than debugging.
+%
+Laziness is your best friend.  Never do twice what you can automate once.
+%
+The better job you do, the easier others discount the level of difficulty.
+%
+Any sufficiently complex app architecture is indistinguishable from spaghetti code.
+%
+An early BETA launch will teach you more than a delayed promise.
+%
+One thing should never do more than one thing.
+%
+A marketer is not a QA, a developer does not advertise.
+%
+Writing requirements-based code and walking on water are both relatively easy to do when frozen.
+%
+Don't commit on master when drunk.
+%
+The best code is the code never written.
+%
+The most secure code is the code never written.
+%
+The most reliable code is the code never written.
+%
+The fastest code is the code never written.
+%
+Less is more.
+%
+Days of development can save hours of planning.
+%
+Your real problem is that you don't understand your problem.
+%
+Reading code is harder than writing code.
+%
+The best way to predict the future is to invent it. -Alan Kay
+%
+A point of view is worth 80 IQ points. -Alan Kay
+%
+Lisp isn't a language, it's a building material. -Alan Kay
+%
+Simple things should be simple, complex things should be possible. -Alan Kay
+%
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. -Bill Gates
+%
+Controlling complexity is the essence of computer programming. -Brian Kernighan
+%
+The unavoidable price of reliability is simplicity. -C.A.R. Hoare
+%
+You're bound to be unhappy if you optimize everything. -Donald Knuth
+%
+Simplicity is prerequisite for reliability. -Edsger W. Dijkstra
+%
+Deleted code is debugged code. -Jeff Sickel
+%
+The key to performance is elegance, not battalions of special cases. -Jon Bentley and Doug McIlroy
+%
+First, solve the problem. Then, write the code. -John Johnson
+%
+Simplicity is the ultimate sophistication. -Leonardo da Vinci
+%
+Programming is not about typing... it's about thinking. -Rich Hickey
+%
+Design is about pulling things apart. -Rich Hickey
+%
+Programmers know the benefits of everything and the tradeoffs of nothing. -Rich Hickey
+%
+Code never lies, comments sometimes do. -Ron Jeffries
+%
+The true delight is in the finding out rather than in the knowing. -Isaac Asimov
+%
+Read whitepapers, not blog posts
+%
+Just ship" is no substitute for design
+%
+Attempt personal projects that are big enough to scare you
+%
+Today's fashion is tomorrow's legacy
+%
+Learn weird languages to broaden your horizons
+%
+Industry focuses on technologies at the expense of practice and discipline
+%
+The better the job you do, the more they discount the level of difficulty
+%
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+%
+Show me you algorithm and I will remain puzzled, but show me your data structure and I will be enlightened.
+%
+If the documentation is clear, concise, and easy to understand it is out of date.
+%
+"Programs must be written for people to read, and only incidentally for machines to execute." - Abelson & Sussman, SICP, preface to the first edition
+%
+"That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted." - George Boole, quoted in Iverson's Turing Award Lecture
+%
+"Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
+%
+"Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve." - Alan Perlis
+%
+"Premature optimization is the root of all evil (or at least most of it) in programming." - Donald Knuth
+%
+"Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts." - Edsger Dijkstra, CACM, 15:10
+%
+"The key to performance is elegance, not battalions of special cases." - Jon Bentley and Doug McIlroy
+%
+"Change breaks the brittle." - Jan Houtema
+%
+"Your twenties are always an apprenticeship, but you don't always know what for." - Jan Houtema
+%
+"Focusing is about saying no." - Steve Jobs
+%
+Practice doesn't make perfect, practice makes permanent
+%
+"Greenspun's Tenth Rule of Programming: any sufficiently complicated C or Fortran program contains an ad hoc informally-specified bug-ridden slow implementation of half of Common Lisp." - Philip Greenspun
+%
+"Lisp isn't a language, it's a building material."- Alan Kay
+%
+"The greatest single programming language ever designed" - Alan Kay, on Lisp
+%
+"Lisp is a programmable programming language." - John Foderaro, CACM, September 1991
+%
+"Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot." - Eric Raymond, "How to Become a Hacker"
+%
+"Lisp is a programmer amplifier." - Martin Rodgers (first said by Chuck Moore about Forth)
+%
+Most papers in computer science describe how their author learned what someone else already knew. - Peter Landin (This is a paraphrase. I'd appreciate it if anyone can tell me the exact quote. - pg)
+%
+"The only way to learn a new programming language is by writing programs in it." - Kernighan and Ritchie
+%
+"SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing." - Philip Greenspun
+%
+"The continuation that obeys only obvious stack semantics, O grasshopper, is not the true continuation." - Guy Steele
+%
+pi seconds is a nanocentury.
+%
+Regression testing cuts test intervals in half.
+%
+Absence makes the heart grow fonder.
+%
+Out of sight, out of mind.
+%
+Plagiarism is the sincerest form of flattery.
+%
+When in doubt, use brute force.
+%
+Avoid arc-sine and arc-cosine functions---you can usually do better by applying a trig identity or computing a vector dot-product.
+%
+Allocate four digits for the year part of a date: a new millennium is approaching.
+%
+Avoid asymmetry.
+%
+The sooner you start to code, the longer the program will take.
+%
+If you can't write it down in English, you can't code it.
+%
+Details count.
+%
+If the code and the comments disagree, then both are probably wrong.
+%
+If you have too many special cases, you are doing it wrong.
+%
+Get your data structures correct first, and the rest of the program will write itself.
+%
+[The Principle of Least Astonishment] Make a user interface as consistent and as predictable as possible.
+%
+A program designed for inputs from people is usually stressed beyond breaking point by computer-generated inputs.
+%
+Twenty percent of all input forms filled by people contain bad data.
+%
+Eighty percent of all input forms ask questions they have no business asking.
+%
+Don't make the user interface provide information that the system already knows.
+%
+For 80% of all data sets, 95% of the information can be seen in a good graph.
+%
+Of all my programming bugs, 80% are syntax errors. Of the remaining 20%, 80% are trivial logical errors. Of the remaining 4%, 80% are pointer errors. And the remaining 0.8% are hard.
+%
+It takes three times the effort to find and fix bugs in system test than when done by the developer. It takes ten times the effort to find and fix bugs in the field than when done in system test. Therefore, insist on unit tests by the developer.
+%
+Don't debug standing up. It cuts your patience in half, and you need all you can muster.
+%
+Don't get suckered in by the comments---they can be terribly misleading. Debug only code.
+%
+Testing can show the presence of bugs, not their absence.
+%
+Each new user of a new system uncovers a new class of bugs.
+%
+If it ain't broke, don't fix it.
+%
+[The Maintainer's Motto] If we can't fix it, it ain't broke.
+%
+The first step in fixing a broken program is getting it to fail repeatably.
+%
+[The First Rule of Program Optimization] Don't do it.
+%
+[The Second Rule of Program Optimization---For experts only] Don't do it yet.
+%
+The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand.
+%
+One some machines indirection is slower with displacement, so the most-used member of a structure or a record should be first.
+%
+In non-I/O-bound programs, less than four percent of a program generally accounts for more than half of its running time.
+%
+Before optimizing, use a profiler to locate the "hot spots" of the program.
+%
+[Conservation of Code Size] When you turn an ordinary page of code into just a handful of instructions for speed, expand the comments to keep the number of source lines constant.
+%
+If the programmer can simulate a construct faster than a compiler can implement the construct itself, then the compiler writer has blown it badly.
+%
+To speed up an I/O-bound program, begin by accounting for all I/O. Eliminate that which is unnecessary or redundant, and make the remaining as fast as possible.
+%
+The fastest I/O is no I/O.
+%
+The cheapest, fastest and most reliable components of a computer system are those that aren't there.
+%
+Most assembly languages have a loop operation that does a compare and branch in a single machine instruction; although it was intended for loops, it can sometimes be used to do a general comparison very efficiently.
+%
+[Compiler Writer's Motto---Optimization Pass] Making a wrong program worse is no sin.
+%
+Electricity travels a foot in a nanosecond.
+%
+Lisp programmers know the value of everything and the cost of nothing.
+%
+[The Test of Negation] Don't include a sentence in documentation if its negation is obviously false.
+%
+When explaining a command, or language feature, or hardware widget, first describe the problem it is designed to solve.
+%
+[One Page Principle] A {specification, design, procedure, test plan} that will not fit on one page of 8.5-by-11 inch paper cannot be understood.
+%
+The job's not over until the paperwork's done.
+%
+The structure of a system reflects the structure of the organization that built it.
+%
+Don't keep doing what doesn't work.
+%
+[Rule of Credibility] The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
+%
+Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.
+%
+Good judgement comes from experience, and experience comes from bad judgement.
+%
+Don't write a new program if one already does more or less what you want. And if you must write a program, use existing code to do as much of the work as possible.
+%
+Whenever possible, steal code.
+%
+Good customer relations double productivity.
+%
+Translating a working program to a new language or system takes ten percent of the original development time or manpower or cost.
+%
+Don't use the computer to do things that can be efficiently done by hand.
+%
+Don't use hands to do things that can be efficiently done by the computer.
+%
+I would rather write programs to help me write programs than write programs.
+%
+[Brooks's Law of Prototypes] Plan to throw one away, you will anyhow.
+%
+If you plan to throw one away, you will throw away two.
+%
+Prototyping cuts the work to produce a system by 40%.
+%
+[Thompson's Rule for First-Time Telescope Makers] It is faster to make a four-inch mirror and then a six-inch mirror than to make a six-inch mirror.
+%
+Furious activity is no substitute for understanding.
+%
+Always do the hard part first. If the hard part is impossible, why waste time on the easy part? Once the hard part is done, you're home free.
+%
+Always do the easy part first. What you think at first is the easy part often turns out to be the hard part. Once the easy part is done, you can concentrate all your efforts on the hard part.
+%
+[Sturgeon's Law---This applies as well to computer science as to science fiction] Sure, 90% of all software is crap. That's because 90% of everything is crap.
+%
+If you lie to the computer, it will get you.
+%
+If a system doesn't have to be reliable, it can do anything else.
+%
+One person's constant is another person's variable.
+%
+One person's data is another person's program.
+%
+[KISS] Keep it simple, stupid.
+%
+Eschew clever rules.
+%
+Deprecated is a synonym for correct.
+%
+To understand recursion, you must first understand recursion.
+%
+When you find yourself in a hole, stop digging.
+%
+The buggiest code is that which has had the most bugs fixed.
+%
+A framework is an understanding of how things could fit together. When designing these things, it's important to remember that your understanding is incomplete
+%
+A rule of three: write it the first time, copy it the second time, extract it to a common routine the third time.
+%
+With excellence comes understanding. With understanding comes excellence. Practice both.
+%
+Whatever can be done FOR you automatically can be done TO you automatically.
+%
+Automate at the First Sign of Resistance
+%
+There's nothing more permanent than a temporary solution.
+%
+Simple isn't easy
+%
+One man's constant is another man's variable.
+%
+Functions delay binding; data structures induce binding. Moral: Structure data late in the programming process.
+%
+Syntactic sugar causes cancer of the semicolon.
+%
+Every program is a part of some other program and rarely fits.
+%
+If a program manipulates a large amount of data, it does so in a small number of ways.
+%
+Symmetry is a complexity-reducing concept (co-routines include subroutines); seek it everywhere.
+%
+It is easier to write an incorrect program than understand a correct one.
+%
+A programming language is low level when its programs require attention to the irrelevant.
+%
+It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.
+%
+Get into a rut early: Do the same process the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
+%
+If you have a procedure with ten parameters, you probably missed some.
+%
+Recursion is the root of computation since it trades description for time.
+%
+If two people write exactly the same program, each should be put into microcode and then they certainly won't be the same.
+%
+In the long run every program becomes rococo - then rubble.
+%
+Everything should be built top-down, except the first time.
+%
+Every program has (at least) two purposes: the one for which it was written, and another for which it wasn't.
+%
+If a listener nods his head when you're explaining your program, wake him up.
+%
+A program without a loop and a structured variable isn't worth writing.
+%
+A language that doesn't affect the way you think about programming, is not worth knowing.
+%
+Wherever there is modularity there is the potential for misunderstanding: Hiding information implies a need to check communication.
+%
+Optimization hinders evolution.
+%
+A good system can't have a weak command language.
+%
+To understand a program you must become both the machine and the program.
+%
+Perhaps if we wrote programs from childhood on, as adults we'd be able to read them.
+%
+One can only display complex information in the mind. Like seeing, movement or flow or alteration of view is more important than the static picture, no matter how lovely.
+%
+There will always be things we wish to say in our programs that in all known languages can only be said poorly.
+%
+Once you understand how to write a program get someone else to write it.
+%
+Around computers it is difficult to find the correct unit of time to measure progress. Some cathedrals took a century to complete. Can you imagine the grandeur and scope of a program that would take as long?
+%
+For systems, the analogue of a face-lift is to add to the control graph an edge that creates a cycle, not just an additional node.
+%
+In programming, everything we do is a special case of something more general -- and often we know it too quickly.
+%
+Simplicity does not precede complexity, but follows it.
+%
+Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.
+%
+The eleventh commandment was "Thou Shalt Compute" or "Thou Shalt Not Compute" - I forget which.
+%
+The string is a stark data structure and everywhere it is passed there is much duplication of process. It is a perfect vehicle for hiding information.
+%
+Everyone can be taught to sculpt: Michelangelo would have had to be taught not to. So it is with great programmers.
+%
+The use of a program to prove the 4-color theorem will not change mathematics - it merely demonstrates that the theorem, a challenge for a century, is probably not important to mathematics.
+%
+The most important computer is the one that rages in our skulls and ever seeks that satisfactory external emulator. The standarization of real computers would be a disaster - and so it probably won't happen.
+%
+Structured Programming supports the law of the excluded middle.
+%
+Re graphics: A picture is worth 10K words - but only those to describe the picture. Hardly any sets of 10K words can be adequately described with pictures.
+%
+There are two ways to write error-free programs; only the third one works.
+%
+Some programming languages manage to absorb change, but withstand progress.
+%
+You can measure a programmer's perspective by noting his attitude on the continuing vitality of FORTRAN.
+%
+In software systems, it is often the early bird that makes the worm.
+%
+Sometimes I think the only universal in the computing field is the fetch-execute cycle.
+%
+The goal of computation is the emulation of our synthetic abilities, not the understanding of our analytic ones.
+%
+Like punning, programming is a play on words.
+%
+As Will Rogers would have said, "There is no such thing as a free variable."
+%
+The best book on programming for the layman is "Alice in Wonderland"; but that's because it's the best book on anything for the layman.
+%
+Giving up on assembly language was the apple in our Garden of Eden: Languages whose use squanders machine cycles are sinful. The LISP machine now permits LISP programmers to abandon bra and fig-leaf.
+%
+When we understand knowledge-based systems, it will be as before -- except our fingertips will have been singed.
+%
+Bringing computers into the home won't change either one, but may revitalize the corner saloon.
+%
+Systems have sub-systems and sub-systems have sub- systems and so on ad infinitum - which is why we're always starting over.
+%
+So many good ideas are never heard from again once they embark in a voyage on the semantic gulf.
+%
+Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.
+%
+A LISP programmer knows the value of everything, but the cost of nothing.
+%
+Software is under a constant tension. Being symbolic it is arbitrarily perfectible; but also it is arbitrarily changeable.
+%
+It is easier to change the specification to fit the program than vice versa.
+%
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+%
+In English every word can be verbed. Would that it were so in our programming languages.
+%
+In seeking the unattainable, simplicity only gets in the way.
+%
+In programming, as in everything else, to be in error is to be reborn.
+%
+In computing, invariants are ephemeral.
+%
+When we write programs that "learn", it turns out that we do and they don't.
+%
+Often it is the means that justify the ends: Goals advance technique and technique survives even when goal structures crumble.
+%
+Make no mistake about it: Computers process numbers - not symbols. We measure our understanding (and control) by the extent to which we can arithmetize an activity.
+%
+Making something variable is easy. Controlling duration of constancy is the trick.
+%
+Think of all the psychic energy expended in seeking a fundamental distinction between "algorithm" and "program".
+%
+If we believe in data structures, we must believe in independent (hence simultaneous) processing. For why else would we collect items within a structure? Why do we tolerate languages that give us the one without the other?
+%
+In a 5 year period we get one superb programming language. Only we can't control when the 5 year period will be.
+%
+Over the centuries the Indians developed sign language for communicating phenomena of interest. Programmers from different tribes (FORTRAN, LISP, ALGOL, SNOBOL, etc.) could use one that doesn't require them to carry a blackboard on their ponies.
+%
+Documentation is like term insurance: It satisfies because almost no one who subscribes to it depends on its benefits.
+%
+An adequate bootstrap is a contradiction in terms.
+%
+It is not a language's weakness but its strengths that control the gradient of its change: Alas, a language never escapes its embryonic sac.
+%
+Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to see it as a soap bubble?
+%
+Because of its vitality, the computing field is always in desperate need of new cliches: Banality soothes our nerves.
+%
+It is the user who should parameterize procedures, not their creators.
+%
+The cybernetic exchange between man, computer and algorithm is like a game of musical chairs: The frantic search for balance always leaves one of the three standing ill at ease.
+%
+If your computer speaks English, it was probably made in Japan.
+%
+A year spent in artificial intelligence is enough to make one believe in God.
+%
+Prolonged contact with the computer turns mathematicians into clerks and vice versa.
+%
+In computing, turning the obvious into the useful is a living definition of the word "frustration".
+%
+We are on the verge: Today our program proved Fermat's next-to-last theorem.
+%
+What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton hotel on its peak.
+%
+Motto for a research laboratory: What we work on today, others will first think of tomorrow.
+%
+Though the Chinese should adore APL, it's FORTRAN they put their money on.
+%
+We kid ourselves if we think that the ratio of procedure to data in an active data-base system can be made arbitrarily small or even kept small.
+%
+We have the mini and the micro computer. In what semantic niche would the pico computer fall?
+%
+It is not the computer's fault that Maxwell's equations are not adequate to design the electric motor.
+%
+One does not learn computing by using a hand calculator, but one can forget arithmetic.
+%
+Computation has made the tree flower.
+%
+The computer reminds one of Lon Chaney -- it is the machine of a thousand faces.
+%
+The computer is the ultimate polluter: its feces are indistinguish- able from the food it produces.
+%
+When someone says "I want a programming language in which I need only say what I wish done," give him a lollipop.
+%
+Interfaces keep things tidy, but don't accelerate growth: Functions do.
+%
+Don't have good ideas if you aren't willing to be responsible for them.
+%
+Computers don't introduce order anywhere as much as they expose opportunities.
+%
+When a professor insists computer science is X but not Y, have compassion for his graduate students.
+%
+In computing, the mean time to failure keeps getting shorter.
+%
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+%
+We will never run out of things to program as long as there is a single program around.
+%
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.
+%
+One can't proceed from the informal to the formal by formal means.
+%
+Purely applicative languages are poorly applicable.
+%
+The proof of a system's value is its existence.
+%
+You can't communicate complexity, only an awareness of it.
+%
+It's difficult to extract sense from strings, but they're the only communication coin we can count on.
+%
+The debate rages on: is PL/I Bachtrian or Dromedary?
+%
+Whenever two programmers meet to criticize their programs, both are silent.
+%
+Think of it! With VLSI we can pack 100 ENIACS in 1 sq. cm.
+%
+Editing is a rewording activity.
+%
+Why did the Roman Empire collapse? What is Latin for office automation?
+%
+Computer Science is embarrassed by the computer.
+%
+The only constructive theory connecting neuroscience and psychology will arise from the study of software.
+%
+Within a computer natural language is unnatural.
+%
+Most people find the concept of programming obvious, but the doing impossible.
+%
+You think you know when you can learn, are more sure when you can write, even more when you can teach, but certain when you can program.
+%
+It goes against the grain of modern education to teach children to program. What fun is there in making plans, acquiring discipline in organizing thoughts, devoting attention to detail and learning to be self-critical?
+%
+If you can imagine a society in which the computer- robot is the only menial, you can imagine anything.
+%
+Programming is an unnatural act.
+%
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones. 
+%
+Beautiful is better than ugly.
+%
+Explicit is better than implicit.
+%
+Simple is better than complex.
+%
+Complex is better than complicated.
+%
+Flat is better than nested.
+%
+Sparse is better than dense.
+%
+Readability counts.
+%
+Special cases aren't special enough to break the rules.
+%
+Although practicality beats purity.
+%
+Errors should never pass silently.
+%
+Unless explicitly silenced.
+%
+In the face of ambiguity, refuse the temptation to guess.
+%
+There should be one-- and preferably only one --obvious way to do it.
+%
+Although that way may not be obvious at first unless you're Dutch.
+%
+Now is better than never.
+%
+Although never is often better than *right* now.
+%
+If the implementation is hard to explain, it's a bad idea.
+%
+If the implementation is easy to explain, it may be a good idea.
+%
+Namespaces are one honking great idea -- let's do more of those!
+%
