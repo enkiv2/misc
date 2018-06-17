@@ -1,0 +1,71 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>I always wonder a little bit why dependency-tracking systems that don’t strictly require ordering…</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">I always wonder a little bit why dependency-tracking systems that don’t strictly require ordering…</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+It’s one thing if we’re talking about a package manager that builds dependencies from source as they are needed, and therefore must run a…
+</section>
+<section data-field="body" class="e-content">
+<section name="15fb" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="e508" id="e508" class="graf graf--p graf--leading">I always wonder a little bit why dependency-tracking systems that don’t strictly require ordering don’t perform pooling.</p><p name="f33e" id="f33e" class="graf graf--p graf-after--p">It’s one thing if we’re talking about a package manager that builds dependencies from source as they are needed, and therefore must run a particular set of commands in order to make other resources available to a future build. But, if all injected dependencies are available to all their children in the dependency tree, we’re essentially talking about flattening a walk through a graph into a list, right? In other words, if what Guice is doing is creating a list of strings corresponding to classpath elements, and that classpath is made available to every VM we spawn, then circular dependencies are a non-issue because we can check for cycles by searching the already-stored list of dependencies for each new one we find.</p><p name="8e37" id="8e37" class="graf graf--p graf-after--p">(It’s a different matter if we need to make it possible for different versions of a jar with the same canonical name to be used by different classes. I think that could be managed with some reflection-based name mangling.)</p><p name="15b5" id="15b5" class="graf graf--p graf-after--p">This is not a complaint about your solution, of course. This is more of a complaint directed at the authors of these systems, who don’t seem to have realized that they are not operating under the same memory restrictions as Dijkstra &amp; are already storing the information necessary to identify &amp; break cycles in what functionally isn’t really a dependency tree.</p><p name="35fb" id="35fb" class="graf graf--p graf-after--p graf--trailing">(Python imports have a similar kind of solution: a module enters a dictionary of loaded modules before its own imports are handled, and module loading is idempotent, so a circular import is a non-issue.)</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">Rococo Modem Basilisk</a> on <a href="https://medium.com/p/85e75fbf7cce"><time class="dt-published" datetime="2018-04-13T21:31:05.737Z">April 13, 2018</time></a>.</p><p><a href="https://medium.com/@enkiv2/i-always-wonder-a-little-bit-why-dependency-tracking-systems-that-dont-strictly-require-ordering-85e75fbf7cce" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on June 17, 2018.</p></footer></article></body></html>
