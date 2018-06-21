@@ -2780,3 +2780,53 @@
 2018-06-16T12:04:56-04:00	"The Scale Is Just Unfathomable" https://logicmag.io/04-the-scale-is-just-unfathomable/
 2018-06-16T12:06:29-04:00	403 Forbidden http://www.os2museum.com/wp/a-brief-history-of-unreal-mode/
 2018-06-16T14:57:55-04:00	Conspiracy theory: 'spaghetti carbonara' is so named for the Carbonari, the italian pseudo-rosicrucian secret society also known as 'coal-burners', who popularized various pasta dishes as an edible encoding of their philosophy
+2018-06-18T08:01:02-04:00	GitHub - nickolas360/markov-complete: A hackathon project written with ~bobbybee. Inspired by code written by ~hardmath123 and me. https://github.com/nickolas360/markov-complete
+2018-06-18T10:49:55-04:00	GitHub - jvburnes/node9: A portable hybrid distributed OS based on Inferno, LuaJIT and Libuv https://github.com/jvburnes/node9
+2018-06-18T11:32:46-04:00	Attention knitters: (n) the ad-tech people who make sure your recommended youtube videos smoothly transition from lets-plays to people who are very angry that the lizard people refuse to inflate the flat earth with ghosts
+2018-06-18T11:48:55-04:00	Elvis is Everywhere - Mojo Nixon and Skid Roper - YouTube https://www.youtube.com/watch?v=knc9LKjukSQ
+2018-06-18T11:50:18-04:00	Fibonacci Hashing: The Optimization that the World Forgot (or: a Better Alternative to Integer Modulo) | Probably Dance https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/
+2018-06-18T12:47:18-04:00	The difficulty in translating 'dokidoki' for non-otaku audiences is a great example of why conceptual frames are a useful idea. You can literally translate it as 'badump' because it's the heartbeat sfx, but you lose something.
+2018-06-18T14:06:32-04:00	HyperLook (aka HyperNeWS (aka GoodNeWS)) http://www.art.net/~hopkins/Don/hyperlook/
+2018-06-18T14:07:20-04:00	Designing to Facilitate Browsing: A Look Back at the Hyperties Workstation Browser | Don Hopkins http://www.donhopkins.com/drupal/node/102
+2018-06-19T06:16:00-04:00	Hot take: 'truth sandwich' is a terrible name because sandwiches are named after what's on the inside of them instead of what's on the outside. Instead, call it 'stuffed truth', by analogy to 'stuffed bread'.
+2018-06-19T06:58:35-04:00	Why I Taught My Son to Speak Russian | The New Yorker https://www.newyorker.com/culture/personal-history/why-did-i-teach-my-son-to-speak-russian
+2018-06-19T07:18:45-04:00	’Ndrangheta mafia: more powerful, and scarier, than it’s ever been. https://slate.com/news-and-politics/2018/06/ndrangheta-mafia-more-powerful-and-scarier-than-its-ever-been.html?utm_source=nextdraft
+2018-06-19T07:43:05-04:00	Designing a Programming Language for the Desert | Futhark - A High Performance Functional Array Language https://futhark-lang.org/blog/2018-06-18-designing-a-programming-language-for-the-desert.html
+2018-06-19T08:27:58-04:00	Ghost Writer: The Story of Patience Worth, the Posthumous&nbsp;Author  https://longreads.com/2018/06/13/ghost-writer-the-story-of-patience-worth-the-posthumous-author/
+2018-06-19T10:05:13-04:00	the sceptical futuryst: An Experiential Futures Interview https://futuryst.blogspot.com/2018/06/an-experiential-futures-interview.html
+2018-06-19T10:13:27-04:00	The DEC 340 Monitor &#8211; ENGBLG http://engblg.livingcomputers.org/index.php/2018/06/07/the-dec-340-monitor/
+2018-06-19T10:24:45-04:00	x86 assembly doesn't have to be scary (interactive) https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial
+2018-06-19T10:29:44-04:00	Res Obscura: The Art of Fooling the Eye https://resobscura.blogspot.com/2011/10/art-of-fooling-eye.html
+2018-06-19T10:40:12-04:00	A Gentle Intro to PLT https://mpc.sh/blog/a-gentle-intro-to-plt/
+2018-06-19T14:15:29-04:00	life hex: for financial planning advice, summon Foras, Great President of Hell
+2018-06-19T14:16:53-04:00	life hex: sick of dating sites? Instead of trusting a pickup artist, trust Furfur, Earl of Hell. Just remember to put him inside a magic triangle before asking him for relationship advice
+2018-06-19T14:21:08-04:00	life hex: leash-training your dog can be a pain. Instead, make an effigy of your dog, and wrap around it twine made from his own hair, while chanting 'I bind you to this image'. Pop the poppet in your pocket and off you go
+2018-06-19T14:22:41-04:00	life hex: is your company's marketing falling flat? Before spending millions on a re-branding effort, try charging your existing logo by staring at it during orgasm and then reproducing it in seminal fluid
+2018-06-19T14:41:08-04:00	Bad idea of the day: A lootbox service for public-domain work -- every month you get a hardcover of a PD book & a vinyl of a PD recording
+2018-06-19T17:07:18-04:00	28c3: The Science of Insecurity - YouTube https://www.youtube.com/watch?v=3kEfedtQVOY
+2018-06-19T19:09:56-04:00	periodic reminder that weapons in of themselves don't have a moral valence & we should think materially about whether or not their use is appropriate to our goals, instead of vaguely about accidental associations. this includes social/memetic weaponry like protest techniques
+2018-06-20T07:51:02-04:00	Literate Programming http://www.literateprogramming.com/
+2018-06-20T08:30:08-04:00	Speak &amp; Spell History: Texas Instruments&#x27; Greatest Product https://tedium.co/2018/06/19/speak-and-spell-history/
+2018-06-20T10:34:52-04:00	World Models Rendered in Text | Emily Short's Interactive Storytelling https://emshort.blog/2018/06/19/world-models-rendered-in-text/
+2018-06-20T10:37:14-04:00	302 Found https://worldwritable.com/https-worldwritable-com-natural-language-processing-for-programmers-world-models-b01943959830
+2018-06-20T10:47:06-04:00	Writing in Collaboration with the System | Emily Short's Interactive Storytelling https://emshort.blog/2014/10/29/writing-in-collaboration-with-the-system/
+2018-06-20T10:49:33-04:00	Rob Martin - Teaching functional programming to noobs (Lambda Days 2016) - YouTube https://www.youtube.com/watch?v=bmFKEewRRQg
+2018-06-20T10:51:25-04:00	Making Interactive Fiction: Using Generative Prose - sub-Q Magazine https://sub-q.com/making-interactive-fiction-using-generative-prose/
+2018-06-20T11:29:19-04:00	Band name of the day: starscum
+2018-06-20T11:40:40-04:00	Periodic reminder that the state exists at the pleasure of the people who compose it, and should be dissolved when it ceases to benefit them. This means all of us, not just politicians or billionaires.
+2018-06-20T17:16:01-04:00	Band name of the day: chrome rotation
+2018-06-20T17:19:29-04:00	if there is not a parody of TOPPS trading cards called BOTTOMS featuring butts... something is very wrong with the world
+2018-06-20T17:26:39-04:00	Band name of the day: nonstop necropolis
+2018-06-21T06:49:55-04:00	Unsolved Mysteries: Still Being Updated After All These Years https://tedium.co/2018/06/19/unsolved-mysteries-modern-updates/
+2018-06-21T06:50:41-04:00	The Texas Instruments 99/4: World’s First 16-Bit Home Computer - IEEE Spectrum https://spectrum.ieee.org/tech-history/heroic-failures/the-texas-instruments-994-worlds-first-16bit-computer
+2018-06-21T07:22:17-04:00	What can depersonalisation disorder say about the self? | Aeon Essays https://aeon.co/essays/what-can-depersonalisation-disorder-say-about-the-self
+2018-06-21T07:34:56-04:00	YAML: probably not so great after all https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html
+2018-06-21T07:37:40-04:00	JSON as configuration files: please don’t https://arp242.net/weblog/json_as_configuration_files-_please_dont
+2018-06-21T10:06:41-04:00	Ecological “law” turns out to just be the result of us fishing | Ars Technica https://arstechnica.com/science/2018/06/ecological-law-turns-out-to-just-be-the-result-of-us-fishing/
+2018-06-21T10:09:23-04:00	Band name of the day: the international committee of robot arms
+2018-06-21T10:12:54-04:00	Bad idea of the day: a fuzzer disguised as a usb charger
+2018-06-21T10:28:20-04:00	Band name of the day: convalescence quilts
+2018-06-21T10:58:36-04:00	The geneology of Eliza: http://elizagen.org/index.html
+2018-06-21T12:21:51-04:00	Bad idea of the day: a physical crank for rolling back commits
+2018-06-21T14:26:12-04:00	Thread by @Nick_Hanover: "more and more people are bringing up the Gilded Age lately so it's probably important to remember how laborers gained victories back then be […]" https://threadreaderapp.com/thread/1009574091865690115.html
+2018-06-21T15:27:49-04:00	Postmodernism vs. The Pomoid Cluster &#8211; Everything Studies https://everythingstudies.com/2018/06/21/postmodernism-vs-the-pomoid-cluster/comment-page-1/#comment-954
