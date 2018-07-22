@@ -2914,3 +2914,243 @@
 2018-06-29T12:05:11-04:00	Abalonia: The Island Nation That Never Was - Gastro Obscura https://www.atlasobscura.com/articles/cortes-bank
 2018-06-29T12:12:12-04:00	Is a hole a real thing, or just a place where something isn’t? | Aeon Ideas https://aeon.co/ideas/is-a-hole-a-real-thing-or-just-a-place-where-something-isnt
 2018-06-29T12:15:55-04:00	Hot take: a hole isn't the absence of a thing (outer space isn't a hole, while the hole of a doughnut, full of air, is), but a violation of our expectation of continuity. We expect a full form & get a discontinuity in the middle.
+2018-06-29T12:43:14-04:00	How to Live in a Dystopian Fiction https://www.theparisreview.org/blog/2018/06/28/how-to-live-in-a-dystopian-fiction/
+2018-06-29T13:47:15-04:00	Screenshots | vvvv https://vvvv.org/screenshots
+2018-06-29T14:00:23-04:00	Viewer-Friendly Interface - TV Tropes https://tvtropes.org/pmwiki/pmwiki.php/Main/ViewerFriendlyInterface
+2018-06-29T14:00:41-04:00	Extreme Graphical Representation - TV Tropes https://tvtropes.org/pmwiki/pmwiki.php/Main/ExtremeGraphicalRepresentation
+2018-06-29T14:01:09-04:00	Apparatus: A hybrid graphics editor and programming environment for creating interactive diagrams http://aprt.us/
+2018-06-29T15:33:03-04:00	The hidden benefits of NaNoGenMo " Rococo Modem Basilisk " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-hidden-benefits-of-nanogenmo-dd91193bda6
+2018-06-29T16:25:45-04:00	Hot take: the 'rule of law' is only possible because social norms have made deviations from desired behavior rare. The policeman in your head does the heavy lifting. When norms diverge from law, norms win.
+2018-06-30T07:38:34-04:00	Botnik ASMR - YouTube https://www.youtube.com/watch?v=HBu1zatDbKI
+2018-06-30T09:57:58-04:00	Thread by @colmmacc: "Have you ever needed to generate a random number in code? whether it's for rolling a dice, or shuffling a set, this tweet thread is here for […]" https://threadreaderapp.com/thread/1012719876706840578.html
+2018-06-30T10:19:30-04:00	If listicles are good enough for Euclid and Ludwig von Wittgenstein, they're good enough for me
+2018-07-01T00:02:15-04:00	Bad idea of the day: Get Annals of the Perrigues style themed corpora type output in your templates by adjusting probabilities by the semantic distance between a choice & some word that is the locus of a theme, with word2vec or something
+2018-07-01T14:36:52-04:00	Kunihiko Ikuhara: A Revolutionary Director of Anime - YouTube https://www.youtube.com/watch?v=dNNJ80N1Aoc
+2018-07-01T14:37:31-04:00	Hauntology, Lost Futures and 80s Nostalgia - YouTube https://www.youtube.com/watch?v=gSvUqhZcbVg
+2018-07-01T14:37:58-04:00	Spidermath - YouTube https://www.youtube.com/watch?v=LMCu9DVizTM
+2018-07-01T14:38:26-04:00	Smells Like Teen Spirit but every note or chord is B flat - YouTube https://www.youtube.com/watch?v=gUD-TrPW-V4
+2018-07-02T07:56:45-04:00	'It's more fun to be a pirate than join the navy' is accurate, but Jobs failed to mention that any BUSINESS is a navy in this metaphor. A small navy is at a disadvantage. Naval officers who act like pirates are called war criminals.
+2018-07-02T07:58:20-04:00	Chris Espinosa, quoted in the final chapter of Fire in the Valley, says that when Jobs came back to Apple his screaming fits were 'for show'. What's worse: a manager with no emotional control or one that fakes it for emotional manipulation?
+2018-07-02T08:05:36-04:00	PMJ, Pomplamoose, the Surfrajettes, and other cover bands keep demonstrating that shitty pop songs often at their core are competently constructed and become great if you change the arrangement & instrumentation.
+2018-07-02T08:11:46-04:00	Band name of the day: difficult conversations laboratory
+2018-07-02T08:17:50-04:00	302 Found https://thewholestory.solutionsjournalism.org/complicating-the-narratives-b91ea06ddf63
+2018-07-02T08:40:19-04:00	Cognitive ease is the enemy: if something makes sense, that's an indication that you have done insufficient research or applied insufficient consideration, because nothing real makes sense.
+2018-07-02T08:46:21-04:00	ｈａｃｋｍｕｄ https://www.hackmud.com/
+2018-07-02T08:46:59-04:00	HyperRogue: the weirdest roguelike | Rock, Paper, Shotgun https://www.rockpapershotgun.com/2017/09/28/hyperrogue-non-euclidean-roguelike/
+2018-07-02T08:57:49-04:00	Remember the good old [hellenic] days, when political parties were sports teams and were also named after their jersey colors, and politicians were elected via lottery?
+2018-07-02T09:17:24-04:00	How to read | Robert Heaton https://robertheaton.com/2018/06/25/how-to-read/
+2018-07-02T09:33:51-04:00	Idioms of Dynamic Languages http://willcrichton.net/notes/idioms-of-dynamic-languages/
+2018-07-02T09:37:43-04:00	A Survey of Programming Language Package Systems http://neurocline.github.io/papers/survey-of-programming-language-packaging-systems.html
+2018-07-02T09:39:32-04:00	Nadia Eghbal | The independent researcher https://nadiaeghbal.com/independent-research
+2018-07-02T09:57:03-04:00	Double Loop Learning: Download New Skills and Information into Your Brain https://fs.blog/2018/06/double-loop-learning/
+2018-07-02T11:13:14-04:00	Fiction generator post-mortem: comic book generation https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/fiction-generator-post-mortem-comic-book-generation-9df847dd4ada
+2018-07-03T06:29:47-04:00	Glossary of Commonly Used Terms in the Western Mystery Tradition - Introduction to the Western Mystery Tradition - Journal of the Western Mystery Tradition - Hermetic Library https://hermetic.com/jwmt/v1n0/glossary2
+2018-07-03T06:37:23-04:00	301 Moved Permanently https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets/
+2018-07-03T07:57:14-04:00	How yuppies hacked the original hacker ethos | Aeon Essays https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos
+2018-07-03T17:00:38-04:00	Hot take: the space of all possible understandable statements is composed almost exclusively of references to complex & abstract ideas with a tenuous relationship to any physical reality & unclear test conditions
+2018-07-03T17:01:41-04:00	Hot take: almost all ACTUAL statements encountered in daily life are untestable except in an ad-hoc & ambiguous way, because their referents don't map well to physical reality.
+2018-07-03T17:03:21-04:00	Hot take: even statements about physical objects, because they are about classes of objects the definitions of which have unclear borders, are almost always ambiguous as to their truth even when tested.
+2018-07-03T18:54:45-04:00	Outsiders: How To Adapt H.P. Lovecraft In the 21st Century - YouTube https://www.youtube.com/watch?v=l8u8wZ0WvxI
+2018-07-04T11:39:27-04:00	Looking For Meaning in Tim Burton's Movies - YouTube https://www.youtube.com/watch?v=inXrIYr2V_U
+2018-07-04T11:39:55-04:00	Slow Bob in the Lower Dimensions (Feb. 2016 scan) - YouTube https://www.youtube.com/watch?v=a-Dj6XviBQM
+2018-07-04T11:40:34-04:00	Why the US national anthem is terrible " and perfect - YouTube https://www.youtube.com/watch?v=cdl8p9akJJw
+2018-07-04T11:43:06-04:00	Cory Doctorow: Zuck&#8217;s Empire of Oily Rags &#8211; Locus Online http://locusmag.com/2018/07/cory-doctorow-zucks-empire-of-oily-rags/
+2018-07-04T11:46:13-04:00	Hot take: the primary function of clothing is as a support system for pockets
+2018-07-04T12:03:00-04:00	Too Many Requests https://www.reddit.com/r/conlangs/comments/8vzs5q/rausle_the_language_of_birds_a_conlang_with_one/
+2018-07-04T12:21:46-04:00	The Surveillance Economy and Extreme Income Inequality: You Can't Have One Without the Other - YouTube https://www.youtube.com/watch?v=VSH9gOqevRc
+2018-07-04T12:38:39-04:00	1. Introduction to Human Behavioral Biology - YouTube https://www.youtube.com/watch?v=NNnIGh9g6fA
+2018-07-04T14:54:57-04:00	Habitat Chronicles:   You can't tell people anything http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/
+2018-07-04T16:30:33-04:00	Lupin the III Ishikawa Goemon Movie - YouTube https://www.youtube.com/watch?v=u0s4Qt0ZQUE
+2018-07-04T16:32:08-04:00	Akiyuki Shinbo - The Director of Studio Shaft (SCRAPPED RCANIME VIDEO) - YouTube https://www.youtube.com/watch?v=tqBZ4yxigpA
+2018-07-04T16:33:27-04:00	The Golden Calf Vol. 2 | Is Art a Commodity? - YouTube https://www.youtube.com/watch?v=U5AxnNbC-oM
+2018-07-04T17:01:25-04:00	Lies, Trust and Tech with Jeff Hancock - YouTube https://www.youtube.com/watch?v=48uDsaFtwjY
+2018-07-05T07:40:38-04:00	Holy shit, Morning Cup of Coding featured my article about Scene/Sequel as a part of their description of NaNoGenMo. http://tinyurl.com/yayvdl9u #botally
+2018-07-05T08:25:53-04:00	Band name of the day: concrete corduroy
+2018-07-05T08:31:44-04:00	Band name of the day: the circuits of the supersavers
+2018-07-05T08:37:56-04:00	Band name of the day: neonatal handling
+2018-07-05T11:54:47-04:00	Band name of the day: social anosmia
+2018-07-05T14:16:23-04:00	Band name of the day: the neuron doctrine
+2018-07-05T14:22:43-04:00	Are there good studies on the neurochemical basis of variation in succeptibility to numinous or spiritual experiences within normal (non-clinical non-drug-induced) ranges? (I.e., not temporal lobe epilepsy)
+2018-07-05T16:05:09-04:00	Stacking the Bricks: How the Blog Broke the Web https://stackingthebricks.com/how-blogs-broke-the-web/
+2018-07-06T07:44:02-04:00	I feel like I'm late to the party in saying this but Colin Dickey's Ghostland is really good y'all
+2018-07-06T08:10:48-04:00	Proteus Project: NOMLEX https://nlp.cs.nyu.edu/nomlex/
+2018-07-06T11:44:45-04:00	Thread by @Foone: "You want to know something about how bullshit insane our brains are? OK, so there's a physical problem with our eyes: We move them in short […]" https://threadreaderapp.com/thread/1014267515696922624.html
+2018-07-06T11:46:11-04:00	Thread by @analogist_net: "In honor of @Foone's thread on the visual quirks of our brains, let's talk about "how bullshit insane our brains are": sensory and motor sys […]" https://threadreaderapp.com/thread/1014397203450744832.html
+2018-07-06T14:14:47-04:00	Smart Toilets: Is the World Ready For Connected Lavatories? https://tedium.co/2018/07/05/smart-bathroom-technology-toilets/
+2018-07-06T14:18:03-04:00	Band name of the day: The Event
+2018-07-06T17:44:49-04:00	The dopamine switch between atheist, believer and fanatic | Aeon Essays https://aeon.co/essays/the-dopamine-switch-between-atheist-believer-and-fanatic
+2018-07-06T20:33:00-04:00	In a thousand years, we'll all have protruding foreheads because of the growth of the prefrontal corpus, a dunbar number of 10,000, and internet forums with polite behavior despite lack of active moderation.
+2018-07-06T21:50:45-04:00	Band name of the day: typed holes
+2018-07-06T22:25:10-04:00	Band name of the day: the oneiric visions
+2018-07-07T12:49:23-04:00	Hot take: EVEN AT BEST, cyberpunk is a diagnosis & not a prescription. The 'heroes' in the genre are flawed for a reason: they shouldn't be emulated without consideration\!
+2018-07-07T13:40:56-04:00	Where GREP Came From - Computerphile - YouTube https://www.youtube.com/watch?v=NTfOnGZUZDk
+2018-07-07T14:07:14-04:00	Band name of the day: Exposure
+2018-07-07T16:03:51-04:00	Computers/Commuters - YouTube https://www.youtube.com/watch?v=Aw_h2KOMQFk
+2018-07-07T17:05:37-04:00	Anthem - YouTube https://www.youtube.com/watch?v=TI7nhSIuHg4
+2018-07-08T10:30:15-04:00	Band name of the day: tiny knife massage
+2018-07-08T16:58:18-04:00	Playing D&amp;D With Porn Stars: Stay Unprofessional https://dndwithpornstars.blogspot.com/2016/07/stay-unprofessional.html
+2018-07-08T20:22:26-04:00	Butler, &ldquo;Monkeying Around with Text&rdquo; http://projects.chass.utoronto.ca/chwp/CHC2005/Butler/Butler.htm
+2018-07-09T07:56:59-04:00	Motion aftereffect - Wikipedia https://en.wikipedia.org/wiki/Motion_aftereffect
+2018-07-09T07:58:08-04:00	Saccade Display http://www.junji.org/saccade/
+2018-07-09T08:02:57-04:00	Physarum polycephalum - Wikipedia https://en.wikipedia.org/wiki/Physarum_polycephalum
+2018-07-09T08:31:09-04:00	Band name of the day: exploding in reverse
+2018-07-09T13:05:34-04:00	Rithmomachy - Wikipedia https://en.m.wikipedia.org/wiki/Rithmomachy
+2018-07-09T14:08:18-04:00	Contrasting and categorization of emotions - Wikipedia https://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions
+2018-07-09T16:04:21-04:00	The Jackintosh: A Real GEM " Remembering the Atari ST - Paleotronic Magazine https://paleotronic.com/2018/07/08/the-jackintosh-a-real-gem-remembering-the-atari-st/
+2018-07-09T16:06:28-04:00	The div that look different in every browser https://codepen.io/MartijnCuppens/pen/MXojmw
+2018-07-09T16:07:13-04:00	The Federalist Papers: Author Identification Through K-Means Clustering - JonLuca's Blog https://blog.jonlu.ca/posts/the-federalist-papers-author-identification-through-k-means-clustering
+2018-07-09T18:42:48-04:00	Stanford's Sapolsky On Depression in U.S. (Full Lecture) - YouTube https://www.youtube.com/watch?v=NOAgplgTxfc
+2018-07-10T06:50:24-04:00	a little of what you fancy | the m john harrison blog https://ambientehotel.wordpress.com/2018/07/09/a-little-of-what-you-fancy/
+2018-07-10T11:36:12-04:00	do not attempt to use your own limbs
+2018-07-10T11:36:57-04:00	Hawkwind - Sonic Attack - YouTube https://www.youtube.com/watch?v=LwRvWpsiM2w
+2018-07-10T11:39:28-04:00	Creeper &amp; Reaper http://corewar.co.uk/creeper.htm
+2018-07-10T11:39:41-04:00	Band name of the day: corridors of core
+2018-07-10T19:59:18-04:00	Band name of the day: rapid autopsy
+2018-07-10T20:01:34-04:00	I feel like I'm repeating myself when I say: knowing the ideological diversity of your enemy is TACTICALLY USEFUL because, when observed closely, any group large enough to be politically powerful is full of hidden fault lines and tense cease-fires
+2018-07-11T07:40:11-04:00	The Company That Makes Mechanical Keyboards Clack - Motherboard https://motherboard.vice.com/en_us/article/a3qzy5/the-company-that-makes-mechanical-keyboards-clack
+2018-07-11T07:49:02-04:00	The Men in Black and the Dweller on the Threshold - Norton's Imperium - Hermetic Library https://hermetic.com/norton/meninblack
+2018-07-11T07:57:33-04:00	Gwen’s Garbage Chicken Deluxe is ugly delicious https://thetakeout.com/gwen-s-garbage-chicken-deluxe-is-ugly-delicious-1825814466
+2018-07-11T08:16:03-04:00	GitHub - saitoha/libsixel: A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel). https://github.com/saitoha/libsixel
+2018-07-11T08:17:17-04:00	Brutalist Web Design https://brutalist-web.design/
+2018-07-11T08:38:04-04:00	GitHub - chubin/cheat.sh: the only cheat sheet you need https://github.com/chubin/cheat.sh
+2018-07-11T08:38:21-04:00	Band name of the day: impossible color
+2018-07-11T08:43:52-04:00	Argh-P-M! " Dissecting the RPM file format &ndash; Stefan's Blog https://blog.bethselamin.de/posts/argh-pm.html
+2018-07-11T08:46:21-04:00	Simple, correct, fast: in that order | Drew DeVault’s Blog https://drewdevault.com/2018/07/09/Simple-correct-fast.html
+2018-07-11T09:15:50-04:00	Plastic Straw Sustainability: Why Straws Are Problematic https://tedium.co/2018/07/10/plastic-straw-replacement-controversy/
+2018-07-11T10:36:21-04:00	Procgen Tarot by watabou https://watabou.itch.io/procgen-tarot
+2018-07-11T10:51:00-04:00	Band name of the day: doom loop
+2018-07-11T10:51:32-04:00	Band name of the day: liquid ass
+2018-07-11T10:54:38-04:00	Pro tip: avoiding the signifiers of commonly-understood identity constellations both allows you to shape your identity beyond cliche & jams the signal used by advertisers to classify you.
+2018-07-11T11:19:48-04:00	The Logic of Militant Democracy | Online Only | n+1 https://nplusonemag.com/online-only/online-only/the-logic-of-militant-democracy/
+2018-07-11T11:55:49-04:00	How Sound Effects For Horror Movies Are Made - YouTube https://www.youtube.com/watch?v=zrcpfwIkcoM
+2018-07-11T11:57:57-04:00	Notion " The all-in-one workspace for your notes, tasks, wikis, and databases. https://www.notion.so/tools-and-craft/01-andy-hertzfeld
+2018-07-11T12:04:21-04:00	Augmenting Long-term Memory http://augmentingcognition.com/ltm.html
+2018-07-11T13:19:46-04:00	Band name of the day: emotional prosthetic
+2018-07-11T13:37:45-04:00	Band name of the day: one thousand years of dream
+2018-07-11T13:38:01-04:00	Band name of the day: the tomb of sleep
+2018-07-11T13:38:14-04:00	Band name of the day: space away from earth
+2018-07-11T13:42:37-04:00	Band name of the day: the forgetting curve
+2018-07-11T13:43:48-04:00	Band name of the day: massed practice
+2018-07-11T13:46:58-04:00	Band name of the day: consolation in numbers
+2018-07-11T14:23:55-04:00	Magic Paper http://cognitivemedium.com/magic_paper/index.html
+2018-07-11T14:24:42-04:00	Striking user interfaces http://cognitivemedium.com/striking_ui/striking_ui.html
+2018-07-11T14:29:27-04:00	Reinventing Explanation http://michaelnielsen.org/reinventing_explanation/index.html
+2018-07-11T14:39:19-04:00	The BeOS file system, an OS geek retrospective | Ars Technica https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/
+2018-07-11T14:50:13-04:00	Using Artificial Intelligence to Augment Human Intelligence https://distill.pub/2017/aia/
+2018-07-12T06:12:34-04:00	National anthems are weird. They're usually an already-old poem glued to an unrelated foreign folk-tune, and then the poem is about, like, whatever. (Exceptions: Deuchland Uber Alles is actually about Germany)
+2018-07-12T06:15:21-04:00	Come to think of it, gluing some unrelated poem to some unrelated tune was all over the place before the 20th century, wasn't it? Ode to Joy, Jerusalem... Maybe we just stopped because of tin pan alley copyright expansion?
+2018-07-12T06:28:51-04:00	Band name of the day: the delaware of reasoning
+2018-07-12T06:34:02-04:00	Band name of the day: whirly girl
+2018-07-12T07:14:25-04:00	Band name of the day: other landscapes are possible
+2018-07-12T07:24:05-04:00	The only good online fandom left is Dune | The Outline https://theoutline.com/post/5333/dune-revival-2018-david-lynch
+2018-07-12T07:38:20-04:00	Dune - just the whispered voiceover lines - YouTube https://www.youtube.com/watch?v=LBNsDi6jI5M
+2018-07-12T07:56:53-04:00	Conspiracy theory: the Sonic The Hedgehog franchise is elaborate fanfiction for the Hawkwind track Sonic Attack, from the perspective of the antagonist. The VO in that track is Dr Robotnik.
+2018-07-12T08:22:59-04:00	Critics of toxic open source culture be like https://www.smithsonianmag.com/smithsonian-institution/how-noisy-males-control-gnus-cycle-180969596/
+2018-07-12T08:48:08-04:00	Bad idea of the day: 9p/activitypub bridge
+2018-07-12T08:48:23-04:00	Bad idea of the day: 9p/scuttlebutt bridge
+2018-07-12T08:50:33-04:00	302 Moved Temporarily http://memex.link/-ctFQPkhz/distill.pub/2017/aia
+2018-07-12T08:56:12-04:00	Thought as a Technology http://cognitivemedium.com/tat/
+2018-07-12T09:09:08-04:00	Hot take: the big problem in generative art is not that computers aren't creative but that computers don't have taste. We've solved that problem by building taste into the mechanisms of generation instead of building filters.
+2018-07-12T09:28:57-04:00	Hot take: it's not 'technical debt' but 'technical hoarding'
+2018-07-12T09:35:36-04:00	sub-Q Magazine - About https://sub-q.com/about/
+2018-07-12T10:15:07-04:00	The biology of disinformation: http://www.iftf.org/fileadmin/user_upload/images/DigIntel/SR-2002_IFTF_Biology_of_disinformation_tk_042618.pdf
+2018-07-12T10:24:22-04:00	Bad idea of the day: replace your planner with a planchette and let DEAD GHOSTS set your daily schedule, remind you of appointments, etc.
+2018-07-12T10:40:22-04:00	&raquo; minimal web  mnmlist http://mnmlist.com/w/
+2018-07-12T10:43:14-04:00	Toward an exploratory medium for mathematics http://cognitivemedium.com/emm/emm.html
+2018-07-12T10:45:05-04:00	squeakland : resources : books : reading list  http://www.squeakland.org/resources/books/readingList.jsp
+2018-07-12T10:48:43-04:00	Hunting the Con Queen of Hollywood | Hollywood Reporter https://www.hollywoodreporter.com/features/hunting-con-queen-hollywood-1125932
+2018-07-12T10:53:32-04:00	Technoleviathan https://popula.com/2018/07/10/china-silicon-valley-state-surveillance/
+2018-07-12T11:21:58-04:00	You have the right to a wheel. If you do not have a wheel, one will be provided for you. Please use METAL -- not ORGANIC -- limbs. We disclaim all liability if you use your own limbs during a sonic attack!
+2018-07-12T11:24:15-04:00	We shouldn't let people get used to the idea that software fails - Rakhim.org https://rakhim.org/2018/07/software-shouldnt-fail
+2018-07-12T14:03:19-04:00	Products aren't for people yet - Rakhim.org https://rakhim.org/2017/02/by_devs
+2018-07-12T14:22:16-04:00	1. Running Through My Back Brain (Messages) - YouTube https://www.youtube.com/watch?v=Robv-yAvWMY
+2018-07-13T07:03:31-04:00	It is Friday the 13th. Celebrate by being struck by lightning, twice.
+2018-07-13T07:40:39-04:00	So, I'm going on a 6 hour road trip on Friday the 13th, starting after work on a day when I woke up at 5am. Wish me luck.
+2018-07-13T07:41:55-04:00	William Gibson’s Alien 3 Is Becoming a Comic Book https://io9.gizmodo.com/dark-horse-is-turning-william-gibsons-alien-3-script-in-1827548457
+2018-07-13T07:43:37-04:00	Peterson&#8217;s Complaint  https://longreads.com/2018/07/12/petersons-complaint/
+2018-07-13T07:47:06-04:00	Band name of the day: fridge poetry for Roman Emperors
+2018-07-13T08:20:28-04:00	mapping the cartography of the nickland-scape
+2018-07-13T08:42:27-04:00	Hot Chili Peppers, War, and Sichuan Cuisine http://nautil.us/issue/62/systems/why-revolutionaries-love-spicy-food-rp
+2018-07-13T09:01:48-04:00	Band name of the day: emanating from a dead moon
+2018-07-13T09:02:12-04:00	Band name of the day: burnt maps
+2018-07-13T09:02:37-04:00	Band name of the day: burnt maps emanating from a dead moon
+2018-07-13T09:07:29-04:00	Band name of the day: seven days without light
+2018-07-13T09:12:02-04:00	Independence Day: Why the Fourth of July? Why Not July 2nd? https://tedium.co/2018/07/03/independence-day-why-july-4/
+2018-07-13T09:16:09-04:00	JavaCard: The execution environment you didn’t know you were using &#8211; Bentham’s Gaze https://www.benthamsgaze.org/2018/07/13/javacard-the-execution-environment-you-didnt-know-you-were-using/
+2018-07-13T09:22:08-04:00	The Allure of Gothic Horror  |  Tor.com https://www.tor.com/2018/07/09/the-allure-of-gothic-horror/
+2018-07-13T09:49:50-04:00	A Compendium of Tides by Warren Ellis: http://spiritsofplace.com/files/Compendium-of-Tides.pdf
+2018-07-13T10:21:03-04:00	The Bizarre Story of the Seattle Mystery Vending Machine http://www.todayifoundout.com/index.php/2018/07/the-bizarre-story-of-the-seattle-mystery-vending-machine/
+2018-07-13T12:38:23-04:00	Bad idea of the day: a movie review show where you review imaginary movies that you wish were coming out but never will, and you give them bad reviews
+2018-07-13T13:46:56-04:00	Band name of the day: aphelion
+2018-07-13T14:22:48-04:00	How many news articles could be retitled 'Dude with PhD has Weird Opinion His Colleagues Openly Mock Him For'? (Not that weird opinions aren't inherently interesting & all)
+2018-07-16T08:59:15-04:00	Band name of the day: die in complete surprise
+2018-07-16T09:40:04-04:00	Band name of the day: boomtime for deathcults
+2018-07-16T10:03:14-04:00	It Was Raining in the Data Center " Member Feature Stories " Medium https://medium.com/s/story/it-was-raining-in-the-data-center-9e1525c37cc3
+2018-07-16T10:14:08-04:00	“All medias are propagandic” " Of Bowie, Mishima, Memewar: Jamie Curcio Interviewed https://medium.com/@StealThisSingul/all-medias-are-propagandic-of-bowie-mishima-memewar-jamie-curcio-interviewed-fba0245075bc
+2018-07-16T10:25:19-04:00	George Hotz is on a hacker crusade against the ‘scam’ of self-driving cars - The Verge https://www.theverge.com/2018/7/13/17561484/george-hotz-comma-ai-self-driving-car-scam-diy-kit
+2018-07-16T11:36:26-04:00	The Twitch streamers who spend years broadcasting to no one - The Verge https://www.theverge.com/2018/7/16/17569520/twitch-streamers-zero-viewers-motivation-community
+2018-07-16T11:43:27-04:00	How a cabal of romance writers cashed in on Amazon Kindle Unlimited  - The Verge https://www.theverge.com/2018/7/16/17566276/cockygate-amazon-kindle-unlimited-algorithm-self-published-romance-novel-cabal
+2018-07-16T11:59:49-04:00	E. W. Dijkstra Archive: A parable. (EWD 594) https://www.cs.utexas.edu/users/EWD/transcriptions/EWD05xx/EWD594.html
+2018-07-16T12:01:09-04:00	The key to creating gorgeous, glitchy YouTube images: anticipation and deletion - The Verge https://www.theverge.com/2018/7/15/17564588/datamosh-youtubeartifacts-glitch-art-kraftsow
+2018-07-16T12:57:36-04:00	Amiga like OSes on QEMU http://zero.eik.bme.hu/~balaton/qemu/amiga/
+2018-07-16T13:36:32-04:00	There are live performances of Ultimate Care II, Matmos's washing machine album, apparently.
+2018-07-16T13:50:05-04:00	Unfollowing Everybody https://anildash.com/2018/07/13/unfollowing-everybody/
+2018-07-16T17:31:24-04:00	Band name of the day: instant trash
+2018-07-17T11:13:40-04:00	Digital ads are starting to feel psychic | The Outline https://theoutline.com/post/5380/targeted-ad-creepy-surveillance-facebook-instagram-google-listening-not-alone
+2018-07-17T11:18:25-04:00	Memoir in a Melody: The Tragic Disappearance Behind Fastball's 'The Way' http://www.signature-reads.com/2014/04/memoir-in-a-melody-the-tragic-disappearance-behind-fastballs-the-way/
+2018-07-17T11:23:07-04:00	Band name of the day: nudge unit
+2018-07-17T11:37:02-04:00	The secret history of Marxist alien hunters | The Outline https://theoutline.com/post/5384/the-secret-history-of-marxist-alien-hunters
+2018-07-17T11:37:35-04:00	Band name of the day: the alien world of objects
+2018-07-17T11:43:24-04:00	"After Posadas’s death, Minazzoli began to focus exclusively on political readings of the great scientific Ufologists like Hynek and Vallee." Yesss
+2018-07-17T11:52:20-04:00	Is psychedelics research closer to theology than to science? | Aeon Essays https://aeon.co/essays/is-psychedelics-research-closer-to-theology-than-to-science
+2018-07-17T12:03:55-04:00	Band name of the day: horizontal transcendence
+2018-07-17T12:38:21-04:00	Band name of the day: brain garbage
+2018-07-17T12:44:17-04:00	Scripting News: What became of the blogosphere? http://scripting.com/2018/06/26/114410.html
+2018-07-17T14:25:33-04:00	Band name of the day: process s
+2018-07-17T14:26:01-04:00	Melatonin: Much More Than You Wanted To Know | Slate Star Codex http://slatestarcodex.com/2018/07/10/melatonin-much-more-than-you-wanted-to-know/
+2018-07-17T15:29:02-04:00	The roots of writing lie in hopes and dreams, not in accounting | Aeon Essays https://aeon.co/essays/the-roots-of-writing-lie-in-hopes-and-dreams-not-in-accounting
+2018-07-17T16:28:15-04:00	DAW - Penguin Books USA http://www.penguin.com/publishers/daw/
+2018-07-18T08:02:31-04:00	Calendar house - Wikipedia https://en.wikipedia.org/wiki/Calendar_house
+2018-07-18T09:59:07-04:00	How to build an npm worm https://jamie.build/how-to-build-an-npm-worm
+2018-07-18T10:14:44-04:00	The Creativity Driving DOS Nostalgia https://tedium.co/2018/07/17/dos-nostalgia-squirrel-monkey-interview/
+2018-07-18T11:30:00-04:00	I've lost control of my life 🌸🌸 - an entomologist rates ant emojis http://curlicuecal.tumblr.com/post/175362924100/an-entomologist-rates-ant-emojis
+2018-07-18T11:36:22-04:00	Canned Monkeys Don't Ship Well, the Remix Version - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/07/canned-monkeys-dont-ship-well-.html
+2018-07-18T11:52:32-04:00	365 tomorrows : A New Flash of Science Fiction Every Day https://365tomorrows.com/
+2018-07-18T12:00:40-04:00	Unsustainable Interstellar Civilization, Hotspot Colonies, and Dwarf Culture - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/07/unsustainable-interstellar-civ.html
+2018-07-18T12:38:02-04:00	Band name of the day: ice harvester
+2018-07-18T14:15:36-04:00	Band name of the day: exodus to an uninhabitable earth
+2018-07-18T15:29:58-04:00	Penti Chorded Keyboard https://software-lab.de/penti.html
+2018-07-18T16:10:37-04:00	Band name of the day: our miserable end
+2018-07-19T12:40:18-04:00	Evil Children And Overachieving Skeletons: Welcome To The World Of Paperback Horror : NPR https://www.npr.org/2018/07/07/626546622/evil-children-and-overachieving-skeletons-welcome-to-the-world-of-paperback-horr
+2018-07-19T12:41:12-04:00	These 'Paperbacks From Hell' Reflect The Real-Life Angst Of The 1970s  : NPR https://www.npr.org/2017/10/26/559522789/these-paperbacks-from-hell-reflect-the-real-life-angst-of-the-1970s
+2018-07-19T12:50:28-04:00	Letting neural networks be weird &bull; A neural net tries writing Burma-Shave jingles http://aiweirdness.com/post/176056635992/a-neural-net-tries-writing-burma-shave-jingles
+2018-07-19T14:10:17-04:00	Band name of the day: the west-german sex-comedy
+2018-07-19T14:15:00-04:00	Band name of the day: vicious attack dolls
+2018-07-19T14:37:40-04:00	Band name of the day: slausen's lost oasis
+2018-07-19T19:19:49-04:00	Why horror movies are now more important than ever in Hollywood https://www.fastcompany.com/90199673/why-horror-movies-are-now-more-important-than-ever-in-hollywood
+2018-07-20T08:15:57-04:00	Hot take: the 'with AI' part of the 'Making X do Y with AI' is redundant when X is a computing device and Y is a task associated with intelligence, since anything doing that would be called AI
+2018-07-20T08:17:34-04:00	Band name of the day: entropic ruin
+2018-07-20T08:19:55-04:00	Quiver Doodles https://www.ribbonfarm.com/2018/07/19/quiver-doodles/
+2018-07-20T08:24:39-04:00	BIG DUMB OBJECTS AND COSMIC ENIGMAS | GREGORY BENFORD http://www.gregorybenford.com/extra/big-dumb-objects-and-cosmic-enigmas/
+2018-07-20T08:30:08-04:00	Band name of the day: the ten thousand moon-brains of the Solid State Entity
+2018-07-20T09:56:02-04:00	Wiki Wiki Hypercard &#8211; Adam Croom's Wikity http://acroom.wikity.cc/wiki-wiki-hypercard/
+2018-07-20T09:57:00-04:00	My old HyperCard stack (Phil Gyford&#8217;s website) https://www.gyford.com/phil/writing/2017/08/16/hypercard-tea/
+2018-07-20T09:58:08-04:00	Wiki Inversions &#8211; Adam Croom's Wikity http://acroom.wikity.cc/wiki-inversions/?cardbox=&t=Wiki%20Inversions
+2018-07-20T10:01:37-04:00	Why Google&#x27;s Material Design is a political choice | Imaginary Cloud https://www.imaginarycloud.com/blog/material-design-is-a-political-choice/
+2018-07-20T10:19:49-04:00	The Maze and the Other in Interactive Fiction &#8211; samplereality http://www.samplereality.com/2018/07/17/the-maze-and-the-other-in-interactive-fiction/
+2018-07-20T10:41:58-04:00	A Mansion Filled With Hidden Worlds: When the Internet Was Young https://undark.org/article/wilo-evans-broad-band/
+2018-07-20T10:42:39-04:00	Band name of the day: wet dirt appreciation society
+2018-07-20T10:50:05-04:00	QOTD: "Being a god is no guarantee of adult behaviour."
+2018-07-20T10:52:06-04:00	302 Found http://www.samplereality.com/2015/09/05/your-mistake-was-a-vital-strategy/
+2018-07-20T11:08:55-04:00	302 Found http://www.samplereality.com/2017/05/31/a-parallax-reading-of-roethkes-my-papas-waltz/
+2018-07-20T11:48:57-04:00	The Policeman’s Beard is Algorithmically Constructed - 3:AM Magazine https://www.3ammagazine.com/3am/the-policemans-beard-is-algorithmically-constructed/
+2018-07-20T12:21:56-04:00	PERIPHERALS; It's, Well, HyperCard - The New York Times https://www.nytimes.com/1987/08/18/science/peripherals-it-s-well-hypercard.html
+2018-07-20T12:46:59-04:00	Bad idea of the day: an anthology of human-selected machine-generated fiction and poetry from various codebases, with introductions explaining the generation method, selected on the same lines as a literary anthology
+2018-07-20T12:55:28-04:00	Bad idea of the day: a reality tv show where Stephen King and Joe Hill move into a cramped apartment together while both trying to write new novels, confusingly titled King of the Hill
+2018-07-20T14:43:43-04:00	Remember when this happened with latin & it turned out lorem ipsum was being compared to political blogs, like 10 years ago? https://motherboard.vice.com/en_us/article/j5npeg/why-is-google-translate-spitting-out-sinister-religious-prophecies
+2018-07-20T14:58:16-04:00	I'd like to see less tech journalism that's PR or PR-teardowns for companies, and more tech journalism that's about strange technically-interesting things people do for fun that could never conceviably be productized.
+2018-07-20T15:00:15-04:00	Almost every coverage of NaNoGenMo is spun around commercial applications of prose-generating tech or the lack thereof, but nobody involved (AFAIK) sees it as a business venture. They just want to do quantitative experiments on literature.
+2018-07-20T17:20:57-04:00	He was the kind of guy whose programs always had one label, and it was always called ConsideredHarmful, regardless of what it did.
+2018-07-20T19:30:56-04:00	Band name of the day: charming bed & breakfast nightmare
+2018-07-20T21:24:44-04:00	Band name of the day: midnight wimp bowling league
+2018-07-22T14:10:42-04:00	A statistical analysis of WikiLeaks publications &#8211; Emma Best http://emma.best/2018/07/22/statistical-analysis-of-wikileaks-publications/
