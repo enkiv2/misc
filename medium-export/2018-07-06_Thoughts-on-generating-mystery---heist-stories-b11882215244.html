@@ -1,0 +1,71 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Thoughts on generating mystery &amp; heist stories</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">Thoughts on generating mystery &amp; heist stories</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+I had some thoughts about heists &amp; mysteries, with regard to plot generation.
+</section>
+<section data-field="body" class="e-content">
+<section name="ae7f" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="0344" id="0344" class="graf graf--h3 graf--leading graf--title">Thoughts on generating mystery &amp; heist stories</h3><p name="caa5" id="caa5" class="graf graf--p graf-after--h3">I had some thoughts about heists &amp; mysteries, with regard to plot generation.</p><p name="9f2a" id="9f2a" class="graf graf--p graf-after--p">Mysteries and heists are interesting for generation because they’re, in a literal sense, formulaic.</p><p name="f286" id="f286" class="graf graf--p graf-after--p">Every classical (Sherlock Holmes / Agatha Cristie) mystery story has basically the same format:</p><ol class="postList"><li name="943c" id="943c" class="graf graf--li graf-after--p">there is a real story / world-state,</li><li name="f228" id="f228" class="graf graf--li graf-after--li">bits and pieces of that world state (clues) are revealed gradually,</li><li name="849b" id="849b" class="graf graf--li graf-after--li">then there is a total reveal in which the detective character tells the story using only already-revealed clues.</li></ol><p name="2dbd" id="2dbd" class="graf graf--p graf-after--li">You’d think this would be easy to generate (and it is!). But, it’s very hard to generate a satisfying mystery of this type because the joy in a mystery story is being in the thin sliver of the information spectrum where the set of clues makes the conclusion neither obvious nor impossible but also ultimately only produces a single possible result. Doing this means having a pretty good idea of what’s in the reader’s head — what are the reader’s priors — and engineering clues around that.</p><p name="aadc" id="aadc" class="graf graf--p graf-after--p">Maybe I’m wrong about how often the resulting stories are satisfying &amp; we can just generate pretty satisfying mysteries with only a handful of heurstics about what kinds of clues should be chosen, but Ithink we’d actually need to create several kinds of planners/ontologies to simulate different figures:</p><ul class="postList"><li name="3aa9" id="3aa9" class="graf graf--li graf-after--p">stuff the murderer knows</li><li name="552b" id="552b" class="graf graf--li graf-after--li">stuff the detective knows</li><li name="f1a3" id="f1a3" class="graf graf--li graf-after--li">stuff the reader knows</li></ul><p name="291d" id="291d" class="graf graf--p graf-after--li">Then, we have some minimum number of steps the detective has to go through to solve the crime (a number of steps we can’t expect the reader to go through), reveal the extra information the reader doesn’t know as clues, and have the detective walk through the whole solution at the end. this means a whole lot of careful ontology engineering.</p><p name="fe05" id="fe05" class="graf graf--p graf-after--p">A heist is different. (By this I mean a classic heist, like Ocean’s 11.)</p><p name="6aaa" id="6aaa" class="graf graf--p graf-after--p">A proper heist contains a bunch of things that <a href="https://hackernoon.com/scene-sequel-post-mortem-of-a-fiction-generator-583ad51f3c1b" data-href="https://hackernoon.com/scene-sequel-post-mortem-of-a-fiction-generator-583ad51f3c1b" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">scene/sequel</a> doesn’t: on one hand, it has multiple specialists, and on the other, much like a mystery, it needs to trick the reader. However, the way a heist tricks the reader is different &amp; easier, because it relates to the goal, not the content.</p><p name="a911" id="a911" class="graf graf--p graf-after--p">The heist has three parts. The first part is finding specialists to execute parts of the plan, and isn’t part of the plot per-se. (In fact, the specialists don’t need to have their own planner systems &amp; can be treated as tools of the main planner for the sake of generation.) The second is the explanation and implementation of the apparent plan. The third is the twist, where additional steps are revealed that transforms the apparent plan into a second, hidden plan with a different goal.</p><p name="145f" id="145f" class="graf graf--p graf-after--p">The relationship between the two is that the hidden plan contains either all of the same steps as the apparent plan or a set of steps that visibly resemble those steps, and the set of steps needs to be necessary for both (or else you get a failure mode like Ocean’s 12, wherein the audience was disappointed &amp; confused that so much of the plot was ‘unnecessary’.)</p><p name="e91d" id="e91d" class="graf graf--p graf-after--p">If we go about this backwards, we can choose an initial goal, evaluate it to produce the plan just as with scene/sequel, but upon getting to either the climax or the ultimate failure of that goal we implement the twist: we choose a different goal and then navigate to that one, explicitly picking one that is within a certain number of hops &amp; wouldn’t be more reachable significantly earlier.</p><p name="c893" id="c893" class="graf graf--p graf-after--p">(Usually in actual heist flicks the hidden parts of the plan occur in the middle but we can get away with something closer to the end. Consider Logan Lucky, where the brunt of the hidden parts of the plan were after the apparent partial failure of the heist.)</p><p name="0b3e" id="0b3e" class="graf graf--p graf-after--p">Outside of the plot structure, the appealing components of heists are basically amenable to generation: the specialists should each have one humorous quirk in addition to their specialization, and don’t need to have any kind of interiority — flavor/filler dialogue composed of specialists criticizing each other for their quirks or playing their quirks off each other act as the primary form of comic relief.</p><p name="6a12" id="6a12" class="graf graf--p graf-after--p graf--trailing">(Compare this to the classic mystery, wherein even red herrings should, ideally, be in the form of complex counterfactual planner-states for suspects with an actual planner state that does not result in murder!)</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">Rococo Modem Basilisk</a> on <a href="https://medium.com/p/b11882215244"><time class="dt-published" datetime="2018-07-06T14:03:36.636Z">July 6, 2018</time></a>.</p><p><a href="https://medium.com/@enkiv2/thoughts-on-generating-mystery-heist-stories-b11882215244" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on July 23, 2018.</p></footer></article></body></html>
