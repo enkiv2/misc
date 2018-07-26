@@ -3164,3 +3164,21 @@
 2018-07-23T11:12:45-04:00	The Tyranny of Stuctureless https://www.jofreeman.com/joreen/tyranny.htm
 2018-07-23T12:07:38-04:00	Hot take: even dysfunctional states are antifragile, so it requires a certain amount of planning and competence even to fuck shit up. Unaimed chaos tends to get deflected toward those already in deep shit.
 2018-07-23T17:43:07-04:00	Simone Natale, 'Deceitful Media and Deceitful Mediums' by Popular Occulture 1875-1947 | Free Listening on SoundCloud https://soundcloud.com/user-569807420/simone-natale-deceitful-media-and-deceitful-mediums
+2018-07-24T05:55:26-04:00	Webstock '17: Marcin Wichary - Charles Babbage&rsquo;s mouse pointer on Vimeo https://vimeo.com/209179824
+2018-07-24T06:36:07-04:00	Hot take: more dangerous than centralization itself is the permanence of structures that should be temporary -- particularly ones that gain inerta through their own inequity.
+2018-07-24T13:39:59-04:00	Somebody ought to make a word2vec model trained on https://rit-public.github.io/HappyDB/ available. If I get some time, maybe it'll be me.
+2018-07-24T20:48:51-04:00	Ahh, the Macintosh. The budget-Lisa that was neither.
+2018-07-25T07:11:18-04:00	No, TRIGGER's Patreon Won't Save Anime - YouTube https://www.youtube.com/watch?v=iKbSzCW8fsM
+2018-07-25T07:54:52-04:00	Let's hope Shudder's Creepshow series is more in line with Creepshow I & II than it is with Creepshow III.
+2018-07-25T08:16:30-04:00	James Gunn’s firing shows the enduring power of Gamergate - Vox https://www.vox.com/culture/2018/7/24/17599132/james-gunn-fired-gamergate-guardians-of-the-galaxy
+2018-07-25T08:29:08-04:00	Folks who don't use medium -- do they have misleading popups or something? I have an account so I never see any of this crap, but people have indicated to me that they think they need to pay for (non-paywalled) posts.
+2018-07-25T08:37:34-04:00	TV Programming Quirks: Why So Many Shows Have 65 Episodes https://tedium.co/2018/07/24/tv-programming-quirks-history/
+2018-07-25T09:31:00-04:00	'Hey, folks who are suffering the worst from capitalism, here's your medicine: more capitalism, now with extra corruption' https://www.forbes.com/sites/forbesdigitalcovers/2018/07/17/an-unlikely-group-of-billionaires-and-politicians-has-created-the-most-unbelievable-tax-break-ever/
+2018-07-25T12:44:26-04:00	Logical-Based Artificial Intelligence and Expert Systems | Primary Objects http://www.primaryobjects.com/2018/07/23/logical-based-artificial-intelligence-and-expert-systems/
+2018-07-25T12:53:23-04:00	Managing TLS connections using Lua and Lua coroutines - The Boston Diaries - Captain Napalm http://boston.conman.org/2018/07/23.1
+2018-07-25T16:20:49-04:00	Marxism! | The Whole Plate Episode 9 - YouTube https://www.youtube.com/watch?v=pFMiuAtbMO0
+2018-07-25T19:35:20-04:00	Mods are asleep; post your favorite unpopular/lesser-known infohazard
+2018-07-25T20:18:48-04:00	moods are asleep; post your favorite lesser-known emotions
+2018-07-26T08:01:01-04:00	Hot take: if we're gonna have free-market boosters, we need more of the kind that will make sacrifices to ensure the conditions for the possibility of fair markets, & fewer of the kind who pretend all markets are fair.
+2018-07-26T09:09:33-04:00	Game Studio With No Bosses Pays Everyone The Same https://kotaku.com/game-studio-with-no-bosses-pays-everyone-the-same-1827872972
+2018-07-26T09:18:20-04:00	Arnemancy :  Giordano Bruno&#8217;s Art of Memory https://arnemancy.com/articles/art-of-memory/giordano-brunos-art-of-memory/
