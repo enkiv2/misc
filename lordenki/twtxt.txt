@@ -3182,3 +3182,81 @@
 2018-07-26T08:01:01-04:00	Hot take: if we're gonna have free-market boosters, we need more of the kind that will make sacrifices to ensure the conditions for the possibility of fair markets, & fewer of the kind who pretend all markets are fair.
 2018-07-26T09:09:33-04:00	Game Studio With No Bosses Pays Everyone The Same https://kotaku.com/game-studio-with-no-bosses-pays-everyone-the-same-1827872972
 2018-07-26T09:18:20-04:00	Arnemancy :  Giordano Bruno&#8217;s Art of Memory https://arnemancy.com/articles/art-of-memory/giordano-brunos-art-of-memory/
+2018-07-26T09:32:38-04:00	How Witchcraft Became A Brand https://www.buzzfeed.com/corinfaife/how-witchcraft-became-a-brand
+2018-07-26T10:35:41-04:00	Thread by @JairusKhan: "I was a speaker and workshop organizer at hopeconf this year. My first 2600 meeting was over 20 years ago. I'm also an event organizer with […]" #hopeconf https://threadreaderapp.com/thread/1021576113875771392.html
+2018-07-26T10:41:03-04:00	Band name of the day: viable system model
+2018-07-26T11:08:07-04:00	The Spy Who Drove Me | GQ https://www.gq.com/story/spy-or-uber-driver
+2018-07-26T12:51:07-04:00	every thing every time &mdash; Great Exhibition of the North https://getnorth2018.com/events/every-thing-every-time/
+2018-07-26T13:03:19-04:00	The &apos;Guerrilla&apos; Wikipedia Editors Who Combat Conspiracy Theories https://www.wired.com/story/guerrilla-wikipedia-editors-who-combat-conspiracy-theories/amp?__twitter_impression=true
+2018-07-26T15:05:17-04:00	China Miéville: Marxism and Halloween - Socialism 2013 - YouTube https://www.youtube.com/watch?v=paCqiY1jwqc
+2018-07-26T15:10:12-04:00	Band name of the day: the dreaded outcome
+2018-07-26T15:50:24-04:00	Roger Luckhurst: "Negotiating the Public and Private in The Ghost Club” - YouTube https://www.youtube.com/watch?v=QWUDgyeN7_c
+2018-07-26T18:07:09-04:00	Band name of the day: colorspace atlas
+2018-07-27T11:01:07-04:00	Error 406 - Not Acceptable http://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html
+2018-07-27T11:04:45-04:00	Meet the Anarchists Making Their Own Medicine - Motherboard https://motherboard.vice.com/en_us/article/43pngb/how-to-make-your-own-medicine-four-thieves-vinegar-collective
+2018-07-27T11:19:36-04:00	Linux Load Averages: Solving the Mystery http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
+2018-07-27T11:50:37-04:00	Disposable Camera History: Point, Shoot, and Throw Away https://tedium.co/2018/07/26/disposable-camera-history/
+2018-07-27T12:05:20-04:00	ArtStation - Eric Geusz https://www.artstation.com/ericgeusz
+2018-07-27T12:25:28-04:00	Hot take: Everybody whose handle is the word 'Real' followed by a name is DEFINITELY a fake/parody account. Fite me.
+2018-07-27T12:31:00-04:00	What Silicon Valley won’t admit about technology and progress | Aeon Essays https://aeon.co/essays/what-silicon-valley-wont-admit-about-technology-and-progress
+2018-07-27T13:32:10-04:00	Band name of the day: actuarial escape velocity
+2018-07-27T14:57:01-04:00	Imagine This: A Web Without Servers - Tara Vancil - JSConf EU 2018 - YouTube https://www.youtube.com/watch?v=rJ_WvfF3FN8
+2018-07-27T15:47:35-04:00	Band name of the day: mechanical violator
+2018-07-27T15:58:09-04:00	Why Are There So Many Anime Elitists? - YouTube https://www.youtube.com/watch?v=iY6XMBRM6A4
+2018-07-27T18:13:04-04:00	Too Many Requests https://www.reddit.com/r/SignalHorrorFiction/comments/92gvwj/the_house_on_foulness/
+2018-07-27T18:43:50-04:00	Band name of the day: the central premonitions registry
+2018-07-27T20:35:02-04:00	How Silicon Valley Became a Den of Spies - POLITICO Magazine https://www.politico.com/magazine/story/2018/07/27/silicon-valley-spies-china-russia-219071
+2018-07-27T20:44:57-04:00	Band name of the day: a most extraordinary something
+2018-07-28T09:19:16-04:00	Why didn't Carnival of Souls spawn a whole genre the way Night of the Living Dead did?
+2018-07-28T09:40:15-04:00	Imagine if Marvel's Captain Marvel movie was out at the same time as Shazaam (DC's Captain Marvel). And then imagine if there was also a Marvelman (one of the other Captain Marvels) movies.
+2018-07-28T13:47:16-04:00	The Conversations that Cryptocurrency Killed &#8211; Jacobite https://jacobitemag.com/2018/07/27/the-conversations-that-cryptocurrency-kills/
+2018-07-29T15:35:35-04:00	I'm half-convinced that the new popular trolling tactic with the youths is to respond to screencaps of popular anime asking what show it is when they already know the answer.
+2018-07-30T08:41:07-04:00	A Spectre is Haunting Unicode https://www.dampfkraft.com/ghost-characters.html
+2018-07-30T09:05:16-04:00	Band name of the day: square and stationary earth
+2018-07-30T09:09:41-04:00	Double Faults | Writing an OS in Rust https://os.phil-opp.com/double-fault-exceptions/
+2018-07-30T09:23:15-04:00	So you want to invent your own currency | Aeon Essays https://aeon.co/essays/so-you-want-to-invent-your-own-currency
+2018-07-30T12:48:27-04:00	alias grpe='sleep 5m'
+2018-07-30T13:35:06-04:00	Lonely Men Club (Mike Kleine) | Emily Short's Interactive Storytelling https://emshort.blog/2018/06/28/lonely-men-club-mike-kleine/
+2018-07-30T13:54:36-04:00	For weeks I've been getting 400 trying to load any youtube page on one machine (on chrome), and starting last week another machine started having the same problem. Any idea what's happening?
+2018-07-31T07:35:47-04:00	Joel Simon http://www.joelsimon.net/evo_floorplans.html
+2018-07-31T07:39:08-04:00	Re: https://www.fastcompany.com/90208681/the-myth-of-human-centered-design -- good design encourages symbiosis, while bad design encourages parasitism. (Go read your Engelbart & Licklider again.)
+2018-07-31T07:42:07-04:00	Neodymium &#8211; Popula https://popula.com/2018/07/30/neodymium/
+2018-07-31T08:31:47-04:00	Demo Preview " Fake News Horror Show https://www.fakenewshorrorshow.org/demo-expo/
+2018-07-31T08:33:50-04:00	Bad idea of the day: a twitter bot that responds to messages by paying mechanical turk five cents to produce a response -- and in the absence of mentions, pays mechanical turk five cents to produce one tweet per day
+2018-07-31T08:37:44-04:00	An Anarchist Critique of Democracy https://libcom.org/library/anarchist-critique-democracy
+2018-07-31T10:14:14-04:00	Hot take: really strongly associating anime with japanese-ness is weird in the same way as immediately associating westerns with italian-ness, & marks casuals/outsiders to fandom. It's a syncretic medium with a hotbed in japan.
+2018-07-31T10:25:48-04:00	The Practice of Change - Joi Ito Home https://joi.ito.com/the-practice-of-change.html
+2018-07-31T10:27:25-04:00	Band name of the day: the psychic-industrial complex
+2018-07-31T10:31:26-04:00	story idea: after computing the cenusus, an unexpected conclusion -- about 10% of the population is gone, with no explanation
+2018-07-31T10:34:13-04:00	story idea: a fringe political party backed by organized crime controls a network of seemingly-independent roadside palmistry shops & new-age stores -- organizing fortunes & stocking books in a plan to manipulate voters
+2018-07-31T10:39:11-04:00	Ringer Top 100 TV Episodes: When Do TV Shows Peak?  - The Ringer https://www.theringer.com/tv/2018/7/31/17628494/when-do-tv-shows-peak
+2018-07-31T11:06:02-04:00	Bad idea of the day: pay a million-account botnet to all change their display names to Elon Musk simultaneously
+2018-07-31T11:34:15-04:00	The Environment is Not a System &#124; a peer-reviewed journal about_ http://www.aprja.net/the-environment-is-not-a-system/
+2018-08-01T07:26:15-04:00	The Bullshit Web &mdash; Pixel Envy https://pxlnv.com/blog/bullshit-web/
+2018-08-01T07:29:23-04:00	Ready Player One is the roadmap to digital dystopia - The Verge https://www.theverge.com/2018/4/19/17250892/ready-player-one-book-facebook-internet-dystopia
+2018-08-01T07:36:59-04:00	Why Hostility Can Bring People Closer Together - Scientific American https://www.scientificamerican.com/article/why-hostility-can-bring-people-closer-together/
+2018-08-01T07:42:23-04:00	Bo Burnham and the Illusion of Meritocracy - Facts So Romantic - Nautilus http://nautil.us/blog/bo-burnham-and-the-illusion-of-meritocracy
+2018-08-01T07:43:49-04:00	Hot take: in a system where both success and failure compound themselves & affect later likelihood of success & failure respectively, even extreme outcome variation is best explained by random fluctuations early in the process
+2018-08-01T09:06:24-04:00	Just Randomness? " Real Life http://reallifemag.com/just-randomness/
+2018-08-01T09:33:40-04:00	Prospecting for Hash Functions « null program https://nullprogram.com/blog/2018/07/31/
+2018-08-01T10:01:21-04:00	Slack as group mind https://abe-winter.github.io/2018/07/31/group-mind.html
+2018-08-02T00:29:26-04:00	It seems like every time I reboot, Ubuntu manages to forget about another piece of hardware I have. First it was the USB controller, then the wifi (still not fixed), and now it's my sound card.
+2018-08-02T00:56:28-04:00	Donald Glover&#8217;s &#8216;Community&#8217; Exit And The Evolution Of The End Tags https://uproxx.com/tv/donald-glover-end-tags-giant-hand-dan-harmon/
+2018-08-02T05:54:18-04:00	Hot take: cybernetics is an extremely powerful model if you understand the feedback mechanisms in place & game theory is an extremely powerful model if you understand the incentives, but you don't, so be careful & check your work
+2018-08-02T07:27:19-04:00	New Wave Sci-Fi: 75 Best Novels of 1964"1983 &#8211; HILOBROW https://hilobrow.com/new-wave-sci-fi/
+2018-08-02T07:29:57-04:00	Band name of the day: the Forgotten Works
+2018-08-02T07:30:46-04:00	Band name of the day: the disaster that everted
+2018-08-02T07:35:17-04:00	Band name of the day: A Romance of Entropy
+2018-08-02T07:36:21-04:00	Band name of the day: Callisto cuddle sponge
+2018-08-02T07:50:52-04:00	The slacktivism of Richard Linklater. http://www.slate.com/articles/news_and_politics/summer_movies/2006/06/watching_the_detectives.html
+2018-08-02T07:56:30-04:00	The Black Iron Prison &#8211; HILOBROW http://hilobrow.com/2011/07/13/the-black-iron-prison/
+2018-08-02T07:56:47-04:00	Band name of the day: the spirit of gain
+2018-08-02T09:24:21-04:00	Band name of the day: condemned to hope forever
+2018-08-02T13:09:25-04:00	Reality Apathy is like Reality Winner's depressing mirror-universe counterpart
+2018-08-02T15:35:21-04:00	Different Worlds | Slate Star Codex http://slatestarcodex.com/2017/10/02/different-worlds/
+2018-08-02T15:36:05-04:00	Information Civics https://infocivics.com/
+2018-08-02T15:46:43-04:00	Bad idea of the day: a foot pedal for bold and a second foot pedal for italic
+2018-08-02T17:09:05-04:00	My Hero Academia &amp; The Quest For the Perfect Shounen Anime - YouTube https://www.youtube.com/watch?v=zAV1uv3lPBQ
+2018-08-02T17:14:19-04:00	Xanadu Basics 3 - Browser Law - YouTube https://www.youtube.com/watch?v=kV_vYkSmkxk
+2018-08-02T17:19:31-04:00	Push Meme To The Edge; All My Faves Are Dead - YouTube https://www.youtube.com/watch?v=G51D51f_WPo
+2018-08-02T18:46:37-04:00	Mouth Analysis: The Surprising Way Neil Cicierega Navigates Culture - YouTube https://www.youtube.com/watch?v=-D-iWeD4SVM
