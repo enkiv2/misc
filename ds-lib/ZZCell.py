@@ -51,7 +51,7 @@ class ZZCell:
 		return self.cloneHead().value
 	def getNext(self, dim, pos=True):
 		if dim in self.connections[pos]:
-			return self.connections[pos]
+			return self.connections[pos][dim]
 		return None
 	def insert(self, dim, val, pos=True):
 		""" like setNext, except it will repair exactly one connection """
@@ -123,9 +123,7 @@ class ZZCell:
 			connections[k]=self.connections[True][k].cid
 		return {"cid":self.cid, "value":self.getValue(), "connections":connections}
 	def __repr__(self):
-		return str(self.compressedRep())
-	def __hash__(self):
-		return hash(self.cid)
+		return str(self.cid)
 
 def zz2dia(cellList):
 	""" return a graphviz-compatible graph description for the zzstructure """

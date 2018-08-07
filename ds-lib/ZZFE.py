@@ -5,6 +5,7 @@
 # This implementation is covered by US Patent 262736B1! Until it expires, do not use it without permission from Ted Nelson.
 
 from ZZCell import *
+import sys
 
 try:
 	import Tkinter
@@ -30,6 +31,10 @@ maxLineWidth=150
 minCellWidth=20
 minCellHeight=50
 
+		
+operationMark=None
+markedCell=None
+
 dims=[]
 for i in range(0, 9):
 	dims.append("d."+str(i))
@@ -47,15 +52,15 @@ def refreshDimList():
 class ZZPane:
 	def __init__(self, parent, accursed=0, hlColor='#aaaaff'):
 		self.accursed=accursed
-		if(type(accursed)==type(0)):
-			self.accursed=cells(accursed)
+		if(accursed==0):
+			self.accursed=cells[accursed]
 		self.hlColor=hlColor
 		self.other=None
 		self.dimX=0
 		self.dimY=1
-		self.canvas=Canvas(parent, width=paneWidth, height=paneHeight)
+		self.canvas=Tkinter.Canvas(parent, width=paneWidth, height=paneHeight)
 		self.dimYLabel=None; self.dimXLabel=None
-		self.operationMark=None
+		self.prevCells=[]; self.prevCellCenters=[]
 	def pack(self, *args):
 		self.canvas.pack(*args)
 	def drawCompass(self, full=False):
@@ -64,17 +69,41 @@ class ZZPane:
 			self.canvas.create_line(gap, gap, gap, gap*2, arrow="last")
 		if(self.dimYLabel):
 			self.canvas.delete(self.dimYLabel)
-		self.dimYLabel=self.canvas.create_text((0, gap*3), text=dims[self.dimY])
+		self.dimYLabel=self.canvas.create_text((gap, gap*3), text=dims[self.dimY])
 		if(self.dimXLabel):
 			self.canvas.delete(self.dimXLabel)
 		self.dimXLabel=self.canvas.create_text((gap*3, gap), text=dims[self.dimX])
-	def drawVisibleCells(self, accursed=None, ttl=10, x=paneWidth/2, y=paneHeight/2, push=None, prevCoord=None, prevCells=[], prevCellCenters=[]):
-		fillColor=cellColor
-		if accursed==None:
-			accursed=self.accursed
-			fillColor=self.hlColor
-		if accursed in prevCells:
-			target=prevCellCenters[prevCells.index(accursed)]
+	def drawLinkToAlreadyVisibleCell(self, accursed, x, y, prevCoord, push):
+		target=self.prevCellCenters[self.prevCells.index(accursed)]
+		middle1=[x+push[0]*gap*2, y+push[1]*gap*2]
+		middle3=[target[0]-push[0]*gap*2, target[1]-push[1]*gap*2]
+		middle2=[(x+target[0])/2, (y+target[1])/2]
+		if x==target[0]:
+			middle2[0]+=2*gap
+		if y==target[1]:
+			middle2[1]+=2*gap
+		self.canvas.tag_lower(self.canvas.create_line(x, y, middle1[0], middle1[1], middle2[0], middle2[1], middle3[0], middle3[1], target[0], target[1], smooth="bezier"))
+	def drawCell(self, accursed, x, y, push, prevCoord, fillColor):
+		if accursed.cloneHead() in self.prevCells:
+			fillColor=cloneColor
+		cellText=self.canvas.create_text((x, y), text=accursed.getValue(), width=maxLineWidth)
+		bbox=self.canvas.bbox(cellText)
+		if(bbox[2]-bbox[0]<minCellWidth):
+			delta=(minCellWidth-(bbox[2]-bbox[0]))/2
+			bbox=(bbox[0]-delta, bbox[1], bbox[2]+delta, bbox[3])
+		if(bbox[3]-bbox[1]<minCellHeight):
+			delta=(minCellHeight-(bbox[3]-bbox[1]))/2
+			bbox=(bbox[0], bbox[1]-delta, bbox[2], bbox[3]+delta)
+		if(push):
+			deltaX=int(push[0]*(bbox[2]-bbox[0]))
+			deltaY=int(push[1]*(bbox[3]-bbox[1]))
+			bbox=(bbox[0]+deltaX, bbox[1]+deltaY, bbox[2]+deltaX, bbox[3]+deltaY)
+			self.canvas.move(cellText, deltaX, deltaY)
+			x+=deltaX
+			y+=deltaY
+		if(accursed.cloneHead() in self.prevCells):
+			print(accursed.cloneHead())
+			target=self.prevCellCenters[self.prevCells.index(accursed.cloneHead())]
 			middle=[x+target[0]/2, y+target[1]/2]
 			if x>=target[0]:
 				middle[0]+=200
@@ -84,73 +113,73 @@ class ZZPane:
 				middle[1]+=200
 			else:
 				middle[1]-=200
-			self.canvas.tag_lower(self.canvas.create_line(x, y, middle[0], middle[1], target[0], target[1], smooth="bezier"))  
+			self.canvas.tag_lower(self.canvas.create_line(x, y, middle[0], middle[1], target[0], target[1], smooth="bezier", dash=[2, 1], fill=cloneColor, outline=cloneColor))
+		if(fillColor==cellColor and accursed==self.other.accursed):
+			fillColor=self.other.hlColor
+		self.canvas.create_rectangle(bbox, fill=fillColor)
+		if(accursed==self.accursed and accursed==self.other.accursed):
+			bbox2=(bbox[0]+((bbox[2]-bbox[0])/2), bbox[1], bbox[2], bbox[3])
+			self.canvas.create_rectangle(bbox2, fill=self.other.hlColor)
+		self.canvas.tag_raise(cellText)
+		return (x, y)
+	def drawVisibleCells(self, accursed=None, ttl=10, x=paneWidth/2, y=paneHeight/2, push=None, prevCoord=None, drawn=[]):
+		fillColor=cellColor
+		if accursed==None:
+			accursed=self.accursed
+			fillColor=self.hlColor
+		if accursed in drawn:
+			return
+		print(self.prevCells)
+		print(accursed in self.prevCells)
+		if accursed in self.prevCells:
+			return self.drawLinkToAlreadyVisibleCell(accursed, x, y, prevCoord, push)
 		else:
-			if accursed.cloneHead() in prevCells:
-				fillColor=cloneColor
-			cellText=self.canvas.create_text((x, y), text=accursed.getValue(), width=maxLineWidth)
-			bbox=self.canvas.bbox(cellText)
-			if(bbox[2]-bbox[0]<minCellWidth):
-				delta=(minCellWidth-(bbox[2]-bbox[0]))/2
-				bbox=(bbox[0]-delta, bbox[1], bbox[2]+delta, bbox[3])
-			if(bbox[3]-bbox[1]<minCellHeight):
-				delta=(minCellHeight-(bbox[3]-bbox[1]))/2
-				bbox=(bbox[0], bbox[1]-delta, bbox[2], bbox[3]+delta)
-			if(push):
-				deltaX=int(push[0]*(bbox[2]-bbox[0]))
-				deltaY=int(push[1]*(bbox[3]-bbox[1]))
-				bbox=(bbox[0]+deltaX, bbox[1]+deltaY, bbox[2]+deltaX, bbox[3]+deltaY)
-				self.canvas.move(cellText, deltaX, deltaY)
-				x+=deltaX
-				y+=deltaY
-			if(fillColor==cloneColor):
-				target=prevCellCenters[prevCells.index(accursed.cloneHead())]
-				middle=[x+target[0]/2, y+target[1]/2]
-				if x>=target[0]:
-					middle[0]+=200
-				else:
-					middle[0]-=200
-				if y>=target[1]:
-					middle[1]+=200
-				else:
-					middle[1]-=200
-				self.canvas.tag_lower(self.canvas.create_line(x, y, middle[0], middle[1], target[0], target[1], smooth="bezier", dash=[2, 1], fill=cloneColor))
-			if(fillColor==cellColor and accursed==self.other.accursed):
-				fillColor=self.other.hlColor
-			self.canvas.create_rectangle(bbox, fill=fillColor)
-			if(fillColor!=cellColor and accursed==self.other.accursed):
-				bbox2=(bbox[0]+(bbox[2]-bbox[0]/2), bbox[1], bbox[2], bbox[3])
-				self.canvas.create_rectangle(bbox2, fill=self.other.hlColor)
-			self.canvas.tag_raise(cellText)
+			(x, y)=self.drawCell(accursed, x, y, push, prevCoord, fillColor)
+			self.prevCells+=[accursed]
+			self.prevCellCenters+=[(x, y)]
 			if(accursed.getNext(dims[self.dimX])):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimX], True), ttl-1, x+gap, y, (1,0), (x, y), prevCells+[accursed], prevCellCenters+[(x, y)])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimX], True), ttl-1, x+gap, y, (1,0), (x, y), drawn+[accursed])
 			if(accursed.getNext(dims[self.dimX], False)):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimX], False), ttl-1, x-gap, y, (-1,0), (x, y), prevCells+[accursed], prevCellCenters+[(x, y)])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimX], False), ttl-1, x-gap, y, (-1,0), (x, y), drawn+[accursed])
 			if(accursed.getNext(dims[self.dimY])):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimY], True), ttl-1, x, y+gap, (0,1), (x, y), prevCells+[accursed], prevCellCenters+[(x, y)])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimY], True), ttl-1, x, y+gap, (0,1), (x, y), drawn+[accursed])
 			if(accursed.getNext(dims[self.dimY], False)):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimY], False), ttl-1, x, y-gap, (0,-1), (x, y), prevCells+[accursed], prevCellCenters+[(x, y)])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimY], False), ttl-1, x, y-gap, (0,-1), (x, y), drawn+[accursed])
 		if(prevCoord):
 			self.canvas.tag_lower(self.canvas.create_line(prevCoord[0], prevCoord[1], x, y))
 	def clear(self):
 		for item in self.canvas.find_all():
 			self.canvas.delete(item)
-	def refresh(self):
+		self.canvas.delete(ALL)
+	def _refresh(self):
 		self.clear()
-		self.drawCompass()
+		self.drawCompass(True)
+		self.prevCells=[]
+		self.prevCellCenters=[]
+		self.toDraw=[]
 		self.drawVisibleCells()
+	def refresh(self):
+		print("Cells")
+		for cell in cells:
+			print(str(cell.compressedRep()))
+		self._refresh()
+		self.other._refresh()
 	def nav(self, dim, pos=True):
-		if(self.operationMark):
-			if(self.operationMark=="break"):
+		global operationMark
+		if(operationMark):
+			if(operationMark=="break"):
 				self.accursed.breakConnection(dim, pos)
-			elif(self.operationMark=="insert"):
-				self.accursed.insert(dim, self.markedCell, pos)
-			elif(self.operationMark=="new"):
-				self.accursed.insert(dim, ZZCell(), pos)
-			elif(self.operationMark=="hop"):
+			elif(operationMark=="insert"):
+				self.accursed.insert(dim, markedCell, pos)
+			elif(operationMark=="new"):
+				self.accursed.insert(dim, ZZCell(""), pos)
+			elif(operationMark=="hop"):
 				self.accursed.hop(dim, pos)
-			self.operationMark=None
+			self.refresh()
+			operationMark=None
+			return
 		if(self.accursed.getNext(dim, pos)):
+			print(self.accursed.getNext(dim, pos))
 			self.accursed=self.accursed.getNext(dim, pos)
 			self.refresh()
 	def navPosX(self, *args, **kw_args):
@@ -181,29 +210,66 @@ class ZZPane:
 		if(self.dimY<0):
 			self.dimY=len(dims)-1
 		self.refresh()
-def main():
-	top=tk()
-	zzFrame=Frame(top)
-	left=zzPane(zzFrame, hlColor=leftHLColor)
-	right=zzPane(zzFrame, hlColor=rightHLColor)
+	def markAccursed(self, *arg, **kw_args):
+		global markedCell
+		markedCell=self.accursed
+		print("Marked: "+str(markedCell))
+		self.refresh()
+def setupTK():
+	global top, left, right
+	try:
+		top=Tkinter.tk()
+	except:
+		top=Tkinter.Tk()
+	zzFrame=Tkinter.Frame(top)
+	left=ZZPane(zzFrame, hlColor=leftHLColor)
+	right=ZZPane(zzFrame, hlColor=rightHLColor)
 	left.other=right
 	right.other=left
-	left.pack(side="left")
-	right.pack(side="right")
-	zzFrame.bind("<Key-s>", left.navNegX)
-	zzFrame.bind("<Key-f>", left.navPosX)
-	zzFrame.bind("<Key-e>", left.navNegY)
-	zzFrame.bind("<Key-c>", left.navPosY)
-	zzFrame.bind("<Key-j>", right.navNegX)
-	zzFrame.bind("<Key-l>", right.navPosX)
-	zzFrame.bind("<Key-i>", right.navNegY)
-	zzFrame.bind("<Key-comma>", right.navPosY)
-	zzFrame.bind("<Key-x>", left.nextDimX)
-	zzFrame.bind("<Key-X>", left.prevDimX)
-	zzFrame.bind("<Key-y>", left.nextDimY)
-	zzFrame.bind("<Key-Y>", left.prevDimY)
-	zzFrame.bind("<Key-Control-x>", right.nextDimX)
-	zzFrame.bind("<Key-Control-X>", right.prevDimX)
-	zzFrame.bind("<Key-Control-y>", right.nextDimY)
-	zzFrame.bind("<Key-Control-Y>", right.prevDimY)
+	left.canvas.pack(side="left")
+	right.canvas.pack(side="right")
+	top.bind("<Key-s>", left.navNegX)
+	top.bind("<Key-f>", left.navPosX)
+	top.bind("<Key-e>", left.navNegY)
+	top.bind("<Key-c>", left.navPosY)
+	top.bind("<Key-j>", right.navNegX)
+	top.bind("<Key-l>", right.navPosX)
+	top.bind("<Key-i>", right.navNegY)
+	top.bind("<Key-comma>", right.navPosY)
+	top.bind("<Key-x>", left.nextDimX)
+	top.bind("<Key-X>", left.prevDimX)
+	top.bind("<Key-y>", left.nextDimY)
+	top.bind("<Key-Y>", left.prevDimY)
+	top.bind("<Control-Key-x>", right.nextDimX)
+	top.bind("<Control-Key-X>", right.prevDimX)
+	top.bind("<Control-Key-y>", right.nextDimY)
+	top.bind("<Control-Key-Y>", right.prevDimY)
+	def opMarkHelper(mark, *arg, **argv):
+		global operationMark
+		print("Mark: "+mark)
+		sys.stdout.flush()
+		operationMark=mark
+	def opBreak(*arg, **argv):
+		opMarkHelper("break", *arg, **argv)
+	def opNew(*arg, **argv):
+		opMarkHelper("new", *arg, **argv)
+	def opHop(*arg, **argv):
+		opMarkHelper("hop", *arg, **argv)
+	def opLink(*arg, **argv):
+		opMarkHelper("insert", *arg, **argv)
+	top.bind("<Key-b>", opBreak)
+	top.bind("<Key-exclam>", opBreak)
+	top.bind("<Key-n>", opNew)
+	top.bind("<Key-h>", opHop)
+	top.bind("<Key-bar>", opLink)
+	top.bind("<Key-m>", left.markAccursed)
+	top.bind("<Key-M>", right.markAccursed)
 	zzFrame.pack()
+def main():
+	home=ZZCell("Home")
+	setupTK()
+	left.refresh()
+	top.mainloop()
+
+if __name__=="__main__":
+	main()
