@@ -17,7 +17,8 @@ except:
     from tkinter import *
     from tkinter import filedialog
     tkFileDialog=filedialog
-    import tkSimpleDialog
+    from tkinter import simpledialog
+    tkSimpleDialog=simpledialog
 
 import os, sys, subprocess
 import json

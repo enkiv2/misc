@@ -16,7 +16,8 @@ except:
 	from tkinter import *
 	from tkinter import filedialog
 	tkFileDialog=filedialog
-	import tkSimpleDialog
+	from tkinter import simpledialog
+	tkSimpleDialog=simpledialog
 
 cellColor='#aaffff'
 cloneColor='#ffff00'
@@ -137,3 +138,61 @@ class ZZPane:
 		self.clear()
 		self.drawCompass()
 		self.drawVisibleCells()
+	def nav(self, dim, pos=True):
+		if(self.accursed.getNext(dim, pos)):
+			self.accursed=self.accursed.getNext(dim, pos)
+			self.refresh()
+	def navPosX(self, *args, **kw_args):
+		self.nav(dims[self.dimX], True)
+	def navPosY(self, *args, **kw_args):
+		self.nav(dims[self.dimY], True)
+	def navNegX(self, *args, **kw_args):
+		self.nav(dims[self.dimX], False)
+	def navNegY(self, *args, **kw_args):
+		self.nav(dims[self.dimY], False)
+	def nextDimX(self, *args, **kw_args):
+		self.dimX+=1
+		if(self.dimX>len(dims)):
+			self.dimX=0
+		self.refresh()
+	def nextDimY(self, *args, **kw_args):
+		self.dimY+=1
+		if(self.dimY>len(dims)):
+			self.dimY=0
+		self.refresh()
+	def prevDimX(self, *args, **kw_args):
+		self.dimX-=1
+		if(self.dimX<0):
+			self.dimX=len(dims)-1
+		self.refresh()
+	def prevDimY(self, *args, **kw_args):
+		self.dimY-=1
+		if(self.dimY<0):
+			self.dimY=len(dims)-1
+		self.refresh()
+def main():
+	top=tk()
+	zzFrame=Frame(top)
+	left=zzPane(zzFrame, hlColor=leftHLColor)
+	right=zzPane(zzFrame, hlColor=rightHLColor)
+	left.other=right
+	right.other=left
+	left.pack(side="left")
+	right.pack(side="right")
+	zzFrame.bind("<Key-s>", left.navNegX)
+	zzFrame.bind("<Key-f>", left.navPosX)
+	zzFrame.bind("<Key-e>", left.navNegY)
+	zzFrame.bind("<Key-c>", left.navPosY)
+	zzFrame.bind("<Key-j>", right.navNegX)
+	zzFrame.bind("<Key-l>", right.navPosX)
+	zzFrame.bind("<Key-i>", right.navNegY)
+	zzFrame.bind("<Key-comma>", right.navPosY)
+	zzFrame.bind("<Key-x>", left.nextDimX)
+	zzFrame.bind("<Key-X>", left.prevDimX)
+	zzFrame.bind("<Key-y>", left.nextDimY)
+	zzFrame.bind("<Key-Y>", left.prevDimY)
+	zzFrame.bind("<Key-Control-x>", right.nextDimX)
+	zzFrame.bind("<Key-Control-X>", right.prevDimX)
+	zzFrame.bind("<Key-Control-y>", right.nextDimY)
+	zzFrame.bind("<Key-Control-Y>", right.prevDimY)
+	zzFrame.pack()
