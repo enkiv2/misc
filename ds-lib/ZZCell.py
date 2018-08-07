@@ -124,6 +124,8 @@ class ZZCell:
 		return {"cid":self.cid, "value":self.getValue(), "connections":connections}
 	def __repr__(self):
 		return str(self.compressedRep())
+	def __hash__(self):
+	    return hash(self.cid)
 
 def zz2dia(cellList):
 	""" return a graphviz-compatible graph description for the zzstructure """
