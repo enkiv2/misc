@@ -55,6 +55,7 @@ class ZZPane:
 		self.dimY=1
 		self.canvas=Canvas(parent, width=paneWidth, height=paneHeight)
 		self.dimYLabel=None; self.dimXLabel=None
+		self.operationMark=None
 	def pack(self, *args):
 		self.canvas.pack(*args)
 	def drawCompass(self, full=False):
@@ -139,6 +140,16 @@ class ZZPane:
 		self.drawCompass()
 		self.drawVisibleCells()
 	def nav(self, dim, pos=True):
+		if(self.operationMark):
+			if(self.operationMark=="break"):
+				self.accursed.breakConnection(dim, pos)
+			elif(self.operationMark=="insert"):
+				self.accursed.insert(dim, self.markedCell, pos)
+			elif(self.operationMark=="new"):
+				self.accursed.insert(dim, ZZCell(), pos)
+			elif(self.operationMark=="hop"):
+				self.accursed.hop(dim, pos)
+			self.operationMark=None
 		if(self.accursed.getNext(dim, pos)):
 			self.accursed=self.accursed.getNext(dim, pos)
 			self.refresh()
