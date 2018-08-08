@@ -273,6 +273,7 @@ def loadSlice(filename):
 	global cells
 	with open(sys.argv[1], 'r') as f:
 		cells=pickle.load(f)
+	refreshDimList()
 
 def setupTK():
 	global top, left, right
