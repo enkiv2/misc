@@ -63,6 +63,7 @@ class ZZPane:
 		self.canvas=Tkinter.Canvas(parent, width=paneWidth, height=paneHeight)
 		self.dimYLabel=None; self.dimXLabel=None
 		self.prevCells=[]; self.prevCellCenters=[]
+		self.editMode=False
 	def pack(self, *args):
 		self.canvas.pack(*args)
 	def drawCompass(self, full=False):
@@ -167,6 +168,8 @@ class ZZPane:
 		self._refresh()
 		self.other._refresh()
 	def nav(self, dim, pos=True):
+		if self.editMode:
+			return
 		global operationMark
 		if(operationMark):
 			if(operationMark=="break"):
@@ -193,30 +196,50 @@ class ZZPane:
 	def navNegY(self, *args, **kw_args):
 		self.nav(dims[self.dimY], False)
 	def nextDimX(self, *args, **kw_args):
+		if self.editMode:
+			return
 		self.dimX+=1
 		if(self.dimX>len(dims)):
 			self.dimX=0
 		self.refresh()
 	def nextDimY(self, *args, **kw_args):
+		if self.editMode:
+			return
 		self.dimY+=1
 		if(self.dimY>len(dims)):
 			self.dimY=0
 		self.refresh()
 	def prevDimX(self, *args, **kw_args):
+		if self.editMode:
+			return
 		self.dimX-=1
 		if(self.dimX<0):
 			self.dimX=len(dims)-1
 		self.refresh()
 	def prevDimY(self, *args, **kw_args):
+		if self.editMode:
+			return
 		self.dimY-=1
 		if(self.dimY<0):
 			self.dimY=len(dims)-1
 		self.refresh()
 	def markAccursed(self, *arg, **kw_args):
+		if self.editMode:
+			return
 		global markedCell
 		markedCell=self.accursed
 		print("Marked: "+str(markedCell))
 		self.refresh()
+	def toggleEdit(self, *arg, **kw_args):
+		if(self.editMode):
+			self.accursed.cloneHead().value=self.editBox.get("0.0", END)
+			self.canvas.refresh()
+		else:
+			self.editBox=Tkinter.Text(self.canvas)
+			self.editBox.delete("0.0", END)
+			self.editBox.insert("0.0", self.accursed.getValue())
+			self.canvas.create_window((paneWidth/2, paneHeight/2), window=editBox)
+		self.editMode=not self.editMode
 def setupTK():
 	global top, left, right
 	try:
@@ -247,6 +270,8 @@ def setupTK():
 	top.bind("<Control-Key-y>", right.nextDimY)
 	top.bind("<Control-Key-Y>", right.prevDimY)
 	def opMarkHelper(mark, *arg, **argv):
+		if left.editMode:
+			return
 		global operationMark
 		print("Mark: "+mark)
 		sys.stdout.flush()
@@ -270,6 +295,7 @@ def setupTK():
 		kaukatcr.execute(left.accursed)
 		left.refresh()
 	top.bind("<Key-return>", execHelper)
+	top.bind("<Key-tab>", left.toggleEdit)
 	zzFrame.pack()
 def main():
 	home=ZZCell("Home")
