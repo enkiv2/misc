@@ -360,6 +360,9 @@ def setupTK():
 		opClone(right, *arg, **args)
 	top.bind("<Key-t>", opCloneLeft)
 	top.bind("<Key-T>", opCloneRight)
+	def exitHelper(*arg, **args):
+		sys.exit()
+	top.bind("<Control-Key-q>", exitHelper)
 	zzFrame.pack()
 
 def main():
@@ -384,8 +387,8 @@ tab - edit accursed cell in left pane            t/T - clone left/right accursed
 x/X - step through dim list for x on left pane   CTRL-x/CTRL-X - step through dim list for x on right
 y/Y - step through dim list for y on left pane   CTRL-y/CTRL-Y - step through dim list for y on right
 
-CTRL-s - save     CTRL-o - open   
-CTRL-a - save as  Enter  - execute accursed cell
+CTRL-s - save     CTRL-o - open                   
+CTRL-a - save as  Enter  - execute accursed cell                                        CTRL-q - exit
                             (left pane)
 """))
 			home.setNext("d.1", ZZCell(
