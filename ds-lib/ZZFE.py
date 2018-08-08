@@ -263,7 +263,7 @@ class ZZPane:
 			self.editBox=Tkinter.Text(self.canvas)
 			self.editBox.delete("0.0", END)
 			self.editBox.insert("0.0", self.accursed.getValue())
-			self.canvas.create_window((paneWidth/2, paneHeight/2), window=editBox)
+			self.canvas.create_window((paneWidth/2, paneHeight/2), window=self.editBox)
 		self.editMode=not self.editMode
 def saveSlice(filename):
 	refreshDimList()
