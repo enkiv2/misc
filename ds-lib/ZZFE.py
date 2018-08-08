@@ -317,6 +317,8 @@ def setupTK():
 	top.bind("<Key-m>", left.markAccursed)
 	top.bind("<Key-M>", right.markAccursed)
 	def execHelper(*arg, **argv):
+		if left.editMode:
+			return
 		kaukatcr.execute(left.accursed)
 		left.refresh()
 	top.bind("<Key-Return>", execHelper)
@@ -345,6 +347,19 @@ def setupTK():
 					left.refresh()
 				except:
 					pass
+	top.bind("<Control-Key-o>", openHelper)
+	def opClone(pane, *arg, **args):
+		if left.editMode:
+			return
+		global markedCell
+		markedCell=pane.accursed.clone()
+		opLink(*arg, **args)
+	def opCloneLeft(*arg, **args):
+		opClone(left, *arg, **args)
+	def opCloneRight(*arg, **args):
+		opClone(right, *arg, **args)
+	top.bind("<Key-t>", opCloneLeft)
+	top.bind("<Key-T>", opCloneRight)
 	zzFrame.pack()
 
 def main():
@@ -364,8 +379,8 @@ m/M - mark accursed cell in left/right pane      b/! - break connection (in dire
 h   - hop                                        |   - link accursed cell to marked cell (in direction)
 e/c - up/down in left pane                       i/, - up/down in right pane
 s/f - left/right in left pane                    j/l - left/right in right pane
-tab - edit accursed cell in left pane            
-       (or exit edit mode)                       
+tab - edit accursed cell in left pane            t/T - clone left/right accursed cell & mark that clone 
+       (or exit edit mode)                               for insertion
 x/X - step through dim list for x on left pane   CTRL-x/CTRL-X - step through dim list for x on right
 y/Y - step through dim list for y on left pane   CTRL-y/CTRL-Y - step through dim list for y on right
 

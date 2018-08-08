@@ -3310,3 +3310,4 @@
 2018-08-08T08:01:26-04:00	Sublime Pulp: An Interview with Illustrator Les Edwards  https://wearethemutants.com/2016/10/31/sublime-pulp-an-interview-with-illustrator-les-edwards/
 2018-08-08T08:22:14-04:00	NetZero, Juno: How Free Dial-Up Defined the Early Internet https://tedium.co/2018/08/07/juno-netzero-free-dialup-internet-history/
 2018-08-08T08:46:43-04:00	Why an interface with only one implementation? https://www.tedinski.com/2018/07/31/interfaces-cutting-dependencies.html
+2018-08-08T10:27:48-04:00	What's On My Mind http://www.xanadu.com.au/ted/zigzag/xybrap.html
