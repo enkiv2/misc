@@ -3305,3 +3305,8 @@
 2018-08-07T10:33:29-04:00	Band name of the day: duck the momentum
 2018-08-07T10:42:43-04:00	How long until somebody starts mining this for lawsuits? https://news.ycombinator.com/item?id=17692005
 2018-08-07T11:52:45-04:00	STEAL THIS SNOWCLONE
+2018-08-08T07:54:32-04:00	Beckett " Videogame as Literary Artefact - 3:AM Magazine https://www.3ammagazine.com/3am/beckett-videogame-as-literary-artefact/
+2018-08-08T07:59:50-04:00	The Crack Squad of Librarians Who Track Down Half-Forgotten Books - Atlas Obscura https://www.atlasobscura.com/articles/librarian-detectives-forgotten-books
+2018-08-08T08:01:26-04:00	Sublime Pulp: An Interview with Illustrator Les Edwards  https://wearethemutants.com/2016/10/31/sublime-pulp-an-interview-with-illustrator-les-edwards/
+2018-08-08T08:22:14-04:00	NetZero, Juno: How Free Dial-Up Defined the Early Internet https://tedium.co/2018/08/07/juno-netzero-free-dialup-internet-history/
+2018-08-08T08:46:43-04:00	Why an interface with only one implementation? https://www.tedinski.com/2018/07/31/interfaces-cutting-dependencies.html

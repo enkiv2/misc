@@ -5,6 +5,7 @@
 # This implementation is covered by US Patent 262736B1! Until it expires, do not use it without permission from Ted Nelson.
 
 from ZZCell import *
+import kaukatcr
 import sys
 
 try:
@@ -38,6 +39,7 @@ markedCell=None
 dims=[]
 for i in range(0, 9):
 	dims.append("d."+str(i))
+dims.extend(["d.exec", "d.branch", "d.comment", "d.stack", "d.funcs"])
 dims.append("d.clone")
 
 def refreshDimList():
@@ -82,7 +84,7 @@ class ZZPane:
 			middle2[0]+=2*gap
 		if y==target[1]:
 			middle2[1]+=2*gap
-		self.canvas.tag_lower(self.canvas.create_line(x, y, middle1[0], middle1[1], middle2[0], middle2[1], middle3[0], middle3[1], target[0], target[1], smooth="bezier"))
+		self.canvas.tag_lower(self.canvas.create_line(x, y, middle1[0], middle1[1], middle2[0], middle2[1], middle3[0], middle3[1], target[0], target[1], smooth="bezier", arrow="last"))
 	def drawCell(self, accursed, x, y, push, prevCoord, fillColor):
 		if accursed.cloneHead() in self.prevCells:
 			fillColor=cloneColor
@@ -264,6 +266,10 @@ def setupTK():
 	top.bind("<Key-bar>", opLink)
 	top.bind("<Key-m>", left.markAccursed)
 	top.bind("<Key-M>", right.markAccursed)
+	def execHelper(*arg, **argv):
+		kaukatcr.execute(left.accursed)
+		left.refresh()
+	top.bind("<Key-return>", execHelper)
 	zzFrame.pack()
 def main():
 	home=ZZCell("Home")
