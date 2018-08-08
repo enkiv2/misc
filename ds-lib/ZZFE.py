@@ -90,7 +90,12 @@ class ZZPane:
 		if(self.dimXLabel):
 			self.canvas.delete(self.dimXLabel)
 		self.dimXLabel=self.canvas.create_text((gap*3, gap), text=dims[self.dimX])
-		self.canvas.create_text((paneWidth/2, paneHeight-gap), text="Accursed: "+str(self.accursed.cid)+", Slice: "+sliceFilename)
+		op=operationMark
+		if(op==None):
+			op="move"
+		statusLine="Accursed: "+str(self.accursed.cid)+", Marked: "+str(markedCell)+", Operation: "+str(op)+", Slice: "+sliceFilename+", "+str(len(cells))+" cells resident"
+		print(statusLine)
+		self.canvas.create_text((paneWidth/2, paneHeight-gap), text=statusLine)
 	def drawLinkToAlreadyVisibleCell(self, accursed, x, y, prevCoord, push):
 		target=self.prevCellCenters[self.prevCells.index(accursed)]
 		middle1=[x+push[0]*gap*2, y+push[1]*gap*2]
@@ -120,7 +125,6 @@ class ZZPane:
 			x+=deltaX
 			y+=deltaY
 		if(accursed.cloneHead() in self.prevCells):
-			print(accursed.cloneHead())
 			target=self.prevCellCenters[self.prevCells.index(accursed.cloneHead())]
 			middle=[x+target[0]/2, y+target[1]/2]
 			if x>=target[0]:
@@ -147,8 +151,6 @@ class ZZPane:
 			fillColor=self.hlColor
 		if accursed in drawn:
 			return
-		print(self.prevCells)
-		print(accursed in self.prevCells)
 		if accursed in self.prevCells:
 			return self.drawLinkToAlreadyVisibleCell(accursed, x, y, prevCoord, push)
 		else:
@@ -177,9 +179,6 @@ class ZZPane:
 		self.toDraw=[]
 		self.drawVisibleCells()
 	def refresh(self):
-		print("Cells")
-		for cell in cells:
-			print(str(cell.compressedRep()))
 		self._refresh()
 		self.other._refresh()
 	def nav(self, dim, pos=True):
@@ -199,7 +198,6 @@ class ZZPane:
 			operationMark=None
 			return
 		if(self.accursed.getNext(dim, pos)):
-			print(self.accursed.getNext(dim, pos))
 			self.accursed=self.accursed.getNext(dim, pos)
 			self.refresh()
 	def navPosX(self, *args, **kw_args):
@@ -243,7 +241,6 @@ class ZZPane:
 			return
 		global markedCell
 		markedCell=self.accursed
-		print("Marked: "+str(markedCell))
 		self.refresh()
 	def toggleEdit(self, *arg, **kw_args):
 		if(self.editMode):
@@ -298,7 +295,6 @@ def setupTK():
 		if left.editMode:
 			return
 		global operationMark
-		print("Mark: "+mark)
 		sys.stdout.flush()
 		operationMark=mark
 	def opBreak(*arg, **argv):
