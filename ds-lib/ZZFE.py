@@ -344,6 +344,29 @@ def setupTK():
 				except:
 					pass
 	top.bind("<Control-Key-o>", openHelper)
+	def cloneheadHelper(pane):
+		if left.editMode:
+			return
+		pane.accursed=pane.accursed.cloneHead()
+		pane.refresh()
+	def cloneheadHelperLeft(*arg, **args):
+		cloneheadHelper(left)
+	def cloneheadHelperRight(*arg, **args):
+		cloneheadHelper(right)
+	top.bind("<Key-o>", cloneheadHelperLeft)
+	top.bind("<Key-O>", cloneheadHelperLeft)
+	def shl(*arg, **args):
+		if left.editMode:
+			return
+		left.accursed=right.accursed
+		left.refresh()
+	def shr(*arg, **args):
+		if left.editMode:
+			return
+		right.accursed=left.accursed
+		left.refresh()
+	top.bind("<Key-less>", shl)
+	top.bind("<Key-greater>", shr)
 	def opClone(pane, *arg, **args):
 		if left.editMode:
 			return
