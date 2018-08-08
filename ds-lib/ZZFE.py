@@ -294,8 +294,8 @@ def setupTK():
 	def execHelper(*arg, **argv):
 		kaukatcr.execute(left.accursed)
 		left.refresh()
-	top.bind("<Key-return>", execHelper)
-	top.bind("<Key-tab>", left.toggleEdit)
+	top.bind("<Key-Return>", execHelper)
+	top.bind("<Key-Tab>", left.toggleEdit)
 	zzFrame.pack()
 def main():
 	home=ZZCell("Home")
