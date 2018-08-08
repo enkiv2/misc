@@ -195,7 +195,7 @@ class ZZPane:
 		self._refresh()
 		self.other._refresh()
 	def nav(self, dim, pos=True):
-		if self.editMode:
+		if self.editMode or self.other.editMode:
 			return
 		global operationMark
 		if(operationMark):
@@ -222,58 +222,59 @@ class ZZPane:
 	def navNegY(self, *args, **kw_args):
 		self.nav(dims[self.dimY], False)
 	def nextDimX(self, *args, **kw_args):
-		if self.editMode:
+		if self.editMode or self.other.editMode:
 			return
 		self.dimX+=1
 		if(self.dimX>len(dims)):
 			self.dimX=0
 		self.refresh()
 	def nextDimY(self, *args, **kw_args):
-		if self.editMode:
+		if self.editMode or self.other.editMode:
 			return
 		self.dimY+=1
 		if(self.dimY>len(dims)):
 			self.dimY=0
 		self.refresh()
 	def prevDimX(self, *args, **kw_args):
-		if self.editMode:
+		if self.editMode or self.other.editMode:
 			return
 		self.dimX-=1
 		if(self.dimX<0):
 			self.dimX=len(dims)-1
 		self.refresh()
 	def prevDimY(self, *args, **kw_args):
-		if self.editMode:
+		if self.editMode or self.other.editMode:
 			return
 		self.dimY-=1
 		if(self.dimY<0):
 			self.dimY=len(dims)-1
 		self.refresh()
 	def markAccursed(self, *arg, **kw_args):
-		if self.editMode:
+		if self.editMode or self.other.editMode:
 			return
 		global markedCell
 		markedCell=self.accursed
 		self.refresh()
-	def toggleEdit(self, *arg, **kw_args):
-		if(self.editMode):
+	def enableEdit(self, *arg, **kw_args):
+		self.editBox=Tkinter.Text(self.canvas)
+		self.editBox.delete("0.0", END)
+		self.editBox.insert("0.0", self.accursed.getValue())
+		self.canvas.create_window((paneWidth/2, paneHeight/2), window=self.editBox)
+		self.editMode=True
+	def disableEdit(self, *arg, **kw_args):
+		if(self.editMode and self.editBox):
 			self.accursed.cloneHead().value=self.editBox.get("0.0", END)
-			self.canvas.refresh()
-		else:
-			self.editBox=Tkinter.Text(self.canvas)
-			self.editBox.delete("0.0", END)
-			self.editBox.insert("0.0", self.accursed.getValue())
-			self.canvas.create_window((paneWidth/2, paneHeight/2), window=self.editBox)
-		self.editMode=not self.editMode
+			self.refresh()
+		self.editMode=False
 def saveSlice(filename):
 	refreshDimList()
 	with open(filename, 'w') as f:
 		pickle.dump(cells, f)
 def autoSave(*args, **argv):
-	saveSlice(sliceFileName)
+	saveSlice(sliceFilename)
 def loadSlice(filename):
 	global cells
-	with open(sys.argv[1], 'r') as f:
+	with open(filename, 'r') as f:
 		cells=pickle.load(f)
 	refreshDimList()
 
@@ -333,7 +334,8 @@ def setupTK():
 		kaukatcr.execute(left.accursed)
 		left.refresh()
 	top.bind("<Key-Return>", execHelper)
-	top.bind("<Key-Tab>", left.toggleEdit)
+	top.bind("<Key-Tab>", left.enableEdit)
+	top.bind("<Key-Escape>", left.disableEdit)
 	top.bind("<Control-Key-s>", autoSave)
 	def saveAsHelper(*args, **argv):
 		global sliceFilename
@@ -408,7 +410,8 @@ def main():
 	if(len(cells)==0):
 		try:
 			loadSlice(sliceFilename)
-		except:
+		except Exception as e:
+			print(e)
 			home=ZZCell("Home")
 			home.setNext("d.0", ZZCell(
 """HOW TO USE THIS APPLICATION
