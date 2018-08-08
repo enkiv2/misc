@@ -358,6 +358,58 @@ def main():
 			loadSlice(sliceFilename)
 		except:
 			home=ZZCell("Home")
+			home.setNext("d.0", ZZCell(
+"""HOW TO USE THIS APPLICATION
+m/M - mark accursed cell in left/right pane      b/! - break connection (in direction)
+h   - hop                                        |   - link accursed cell to marked cell (in direction)
+e/c - up/down in left pane                       i/, - up/down in right pane
+s/f - left/right in left pane                    j/l - left/right in right pane
+tab - edit accursed cell in left pane            
+       (or exit edit mode)                       
+x/X - step through dim list for x on left pane   CTRL-x/CTRL-X - step through dim list for x on right
+y/Y - step through dim list for y on left pane   CTRL-y/CTRL-Y - step through dim list for y on right
+
+CTRL-s - save     CTRL-o - open   
+CTRL-a - save as  Enter  - execute accursed cell
+                            (left pane)
+"""))
+			home.setNext("d.1", ZZCell(
+"""
+(c) 2018 John Ohno
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of the <organization> nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+ZigZag(R) is a registered trademark of Project Xanadu(R).
+
+While I have written ZigZag implementations officially for Project Xanadu, 
+this implementation shares no code with those. This code contains no material
+under trade secret protection related to Project Xanadu, nor is it officially
+approved by Ted Nelson or Project Xanadu.
+
+This implementation is covered by US Patent 262736B1. Please do not use without
+permission from Ted Nelson.
+"""))
 			saveSlice(sliceFilename)
 	setupTK()
 	left.refresh()

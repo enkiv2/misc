@@ -64,8 +64,8 @@ class ZZCell:
 	def breakConnection(self, dim, pos=True):
 		if self.getNext(dim, pos):
 			temp=self.connections[pos][dim]
-			temp.connections[not pos][dim]=None
 			self.connections[pos][dim]=None
+			temp.connections[not pos][dim]=None
 	def clone(self):
 		""" create a clone """
 		c=ZZCell()
