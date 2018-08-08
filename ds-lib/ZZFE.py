@@ -57,13 +57,24 @@ dims.extend(["d.exec", "d.branch", "d.comment", "d.stack", "d.funcs"])
 dims.append("d.clone")
 
 def refreshDimList():
-	usedDims=[]
-	for cell in cells:
-		usedDims.extend(cell.getDims())
-		usedDims=list(set(usedDims))
-	for dim in usedDims:
-		if not (dim in dims):
-			dims.append(dim)
+	storedDims=[]
+	if len(cells)>0:
+		if cells[0].getNext("d.dimList"):
+			head=cells[0].getNext("d.dimList")
+			while head:
+				storedDims.append(head.getValue())
+				head=head.getNext("d.dimList")
+		usedDims=[]
+		usedDims.extend(storedDims)
+		for cell in cells:
+			usedDims.extend(cell.getDims())
+			usedDims=list(set(usedDims))
+		for dim in usedDims:
+			if not (dim in dims):
+				dims.append(dim)
+		for dim in dims:
+			if not (dim in storedDims):
+				cells[0].rankHead("d.dimList", True).setNext("d.dimList", ZZCell(dim))
 
 class ZZPane:
 	def __init__(self, parent, accursed=0, hlColor='#aaaaff'):
@@ -253,6 +264,7 @@ class ZZPane:
 			self.canvas.create_window((paneWidth/2, paneHeight/2), window=editBox)
 		self.editMode=not self.editMode
 def saveSlice(filename):
+	refreshDimList()
 	with open(filename, 'w') as f:
 		pickle.dump(cells, f)
 def autoSave(*args, **argv):
@@ -447,6 +459,7 @@ approved by Ted Nelson or Project Xanadu.
 This implementation is covered by US Patent 262736B1. Please do not use without
 permission from Ted Nelson.
 """))
+			refreshDimList()
 			saveSlice(sliceFilename)
 	setupTK()
 	left.refresh()
