@@ -2,11 +2,24 @@
 
 # LEGAL NOTE:
 # ZigZag(R) is a registered trademark of Project Xanadu(R).
-# This implementation is covered by US Patent 262736B1! Until it expires, do not use it without permission from Ted Nelson.
+
+# While I have written ZigZag implementations officially for Project Xanadu, 
+# this implementation shares no code with those. This code contains no material
+# under trade secret protection related to Project Xanadu.
+#
+# Please refer to a collection of these objects as a ZZStructure, rather than
+# ZigZag(R).
+#
+# This implementation is covered by US Patent 262736B1.
 
 from ZZCell import *
 import kaukatcr
 import sys
+
+try:
+	import cPickle as pickle
+except:
+	import pickle
 
 try:
 	import Tkinter
@@ -32,6 +45,7 @@ maxLineWidth=150
 minCellWidth=20
 minCellHeight=50
 
+sliceFilename="home.zzp"
 		
 operationMark=None
 markedCell=None
@@ -76,6 +90,7 @@ class ZZPane:
 		if(self.dimXLabel):
 			self.canvas.delete(self.dimXLabel)
 		self.dimXLabel=self.canvas.create_text((gap*3, gap), text=dims[self.dimX])
+		self.canvas.create_text((paneWidth/2, paneHeight-gap), text="Accursed: "+str(self.accursed.cid)+", Slice: "+sliceFilename)
 	def drawLinkToAlreadyVisibleCell(self, accursed, x, y, prevCoord, push):
 		target=self.prevCellCenters[self.prevCells.index(accursed)]
 		middle1=[x+push[0]*gap*2, y+push[1]*gap*2]
@@ -240,6 +255,16 @@ class ZZPane:
 			self.editBox.insert("0.0", self.accursed.getValue())
 			self.canvas.create_window((paneWidth/2, paneHeight/2), window=editBox)
 		self.editMode=not self.editMode
+def saveSlice(filename):
+	with open(filename, 'w') as f:
+		pickle.dump(cells, f)
+def autoSave(*args, **argv):
+	saveSlice(sliceFileName)
+def loadSlice(filename):
+	global cells
+	with open(sys.argv[1], 'r') as f:
+		cells=pickle.load(f)
+
 def setupTK():
 	global top, left, right
 	try:
@@ -296,9 +321,44 @@ def setupTK():
 		left.refresh()
 	top.bind("<Key-Return>", execHelper)
 	top.bind("<Key-Tab>", left.toggleEdit)
+	top.bind("<Control-Key-s>", autoSave)
+	def saveAsHelper(*args, **argv):
+		global sliceFilename
+		name=tkFileDialog.asksaveasfilename(initialfile=sliceFilename, filetypes=[("ZigZag pickle", "*.zzp")])
+		if(name):
+			if (name!=sliceFilename):
+				try:
+					saveSlice(name)
+					sliceFilename=name
+					left.refresh()
+				except:
+					pass
+	top.bind("<Control-Key-a>", saveAsHelper)
+	def openHelper(*args, **argv):
+		global sliceFilename
+		name=tkFileDialog.askopenfilename(initialfile=sliceFilename, filetypes=[("ZigZag pickle", "*.zzp")])
+		if(name):
+			if (name!=sliceFilename):
+				try:
+					loadSlice(name)
+					sliceFilename=name
+					left.refresh()
+				except:
+					pass
 	zzFrame.pack()
+
 def main():
-	home=ZZCell("Home")
+	global cells
+	global sliceFilename
+	if len(sys.argv)>1:
+		loadSlice(sys.argv[1])
+		sliceFilename=sys.argv[1]
+	if(len(cells)==0):
+		try:
+			loadSlice(sliceFilename)
+		except:
+			home=ZZCell("Home")
+			saveSlice(sliceFilename)
 	setupTK()
 	left.refresh()
 	top.mainloop()
