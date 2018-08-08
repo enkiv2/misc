@@ -38,10 +38,10 @@ cellColor='#aaffff'
 cloneColor='#ffff00'
 leftHLColor='#aaaaff'
 rightHLColor='#aaffaa'
-paneWidth=600
-paneHeight=600
+paneWidth=1200
+paneHeight=1000
 gap=20
-maxLineWidth=150
+maxLineWidth=700
 minCellWidth=20
 minCellHeight=50
 
@@ -117,7 +117,7 @@ class ZZPane:
 		if y==target[1]:
 			middle2[1]+=2*gap
 		self.canvas.tag_lower(self.canvas.create_line(x, y, middle1[0], middle1[1], middle2[0], middle2[1], middle3[0], middle3[1], target[0], target[1], smooth="bezier", arrow="last"))
-	def drawCell(self, accursed, x, y, push, prevCoord, fillColor):
+	def sizeCell(self, accursed, x, y, push, prevCoord, fillColor):
 		if accursed.cloneHead() in self.prevCells:
 			fillColor=cloneColor
 		cellText=self.canvas.create_text((x, y), text=accursed.getValue(), width=maxLineWidth)
@@ -149,13 +149,13 @@ class ZZPane:
 			self.canvas.tag_lower(self.canvas.create_line(x, y, middle[0], middle[1], target[0], target[1], smooth="bezier", dash=[2, 1], fill=cloneColor, outline=cloneColor))
 		if(fillColor==cellColor and accursed==self.other.accursed):
 			fillColor=self.other.hlColor
+		return (x, y, fillColor, cellText, bbox)
+	def drawCell(self, accursed, x, y, fillColor, bbox):
 		self.canvas.create_rectangle(bbox, fill=fillColor)
 		if(accursed==self.accursed and accursed==self.other.accursed):
 			bbox2=(bbox[0]+((bbox[2]-bbox[0])/2), bbox[1], bbox[2], bbox[3])
 			self.canvas.create_rectangle(bbox2, fill=self.other.hlColor)
-		self.canvas.tag_raise(cellText)
-		return (x, y)
-	def drawVisibleCells(self, accursed=None, ttl=10, x=paneWidth/2, y=paneHeight/2, push=None, prevCoord=None, drawn=[]):
+	def drawVisibleCells(self, accursed=None, ttl=10, x=paneWidth/2-250, y=paneHeight/2-250, push=None, prevCoord=None, drawn=[]):
 		fillColor=cellColor
 		if accursed==None:
 			accursed=self.accursed
@@ -165,17 +165,19 @@ class ZZPane:
 		if accursed in self.prevCells:
 			return self.drawLinkToAlreadyVisibleCell(accursed, x, y, prevCoord, push)
 		else:
-			(x, y)=self.drawCell(accursed, x, y, push, prevCoord, fillColor)
+			(x, y, fillColor, cellText, bbox)=self.sizeCell(accursed, x, y, push, prevCoord, fillColor)
 			self.prevCells+=[accursed]
 			self.prevCellCenters+=[(x, y)]
 			if(accursed.getNext(dims[self.dimX])):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimX], True), ttl-1, x+gap, y, (1,0), (x, y), drawn+[accursed])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimX], True), ttl-1, x+gap, y, (0.75,0), (x, y), drawn+[accursed])
 			if(accursed.getNext(dims[self.dimX], False)):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimX], False), ttl-1, x-gap, y, (-1,0), (x, y), drawn+[accursed])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimX], False), ttl-1, x-gap, y, (-0.75,0), (x, y), drawn+[accursed])
 			if(accursed.getNext(dims[self.dimY])):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimY], True), ttl-1, x, y+gap, (0,1), (x, y), drawn+[accursed])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimY], True), ttl-1, x, y+gap, (0,0.75), (x, y), drawn+[accursed])
 			if(accursed.getNext(dims[self.dimY], False)):
-				self.drawVisibleCells(accursed.getNext(dims[self.dimY], False), ttl-1, x, y-gap, (0,-1), (x, y), drawn+[accursed])
+				self.drawVisibleCells(accursed.getNext(dims[self.dimY], False), ttl-1, x, y-gap, (0,-0.75), (x, y), drawn+[accursed])
+			self.drawCell(accursed, x, y, fillColor, bbox)
+			self.canvas.tag_raise(cellText)
 		if(prevCoord):
 			self.canvas.tag_lower(self.canvas.create_line(prevCoord[0], prevCoord[1], x, y))
 	def clear(self):
@@ -286,8 +288,8 @@ def setupTK():
 	right=ZZPane(zzFrame, hlColor=rightHLColor)
 	left.other=right
 	right.other=left
-	left.canvas.pack(side="left")
-	right.canvas.pack(side="right")
+	left.canvas.pack(side="left", fill="both")
+	right.canvas.pack(side="right", fill="both")
 	top.bind("<Key-s>", left.navNegX)
 	top.bind("<Key-f>", left.navPosX)
 	top.bind("<Key-e>", left.navNegY)
@@ -395,7 +397,7 @@ def setupTK():
 	def exitHelper(*arg, **args):
 		sys.exit()
 	top.bind("<Control-Key-q>", exitHelper)
-	zzFrame.pack()
+	zzFrame.pack(fill="both")
 
 def main():
 	global cells
