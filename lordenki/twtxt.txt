@@ -3312,3 +3312,81 @@
 2018-08-08T08:46:43-04:00	Why an interface with only one implementation? https://www.tedinski.com/2018/07/31/interfaces-cutting-dependencies.html
 2018-08-08T10:27:48-04:00	What's On My Mind http://www.xanadu.com.au/ted/zigzag/xybrap.html
 2018-08-08T11:22:16-04:00	Hot take: the existence of garden path sentences tells us that: 1) language isn't so much a representation of meaning as a way of representing constraints for possible intepretation, and 2) we start processing before all the constraints have arrived
+2018-08-08T15:20:19-04:00	mods are a sleep and you know what that means: exactly one (1) sleep
+2018-08-08T15:40:28-04:00	How to make your own Xanadu demo · GitHub https://gist.github.com/ldodds/a7f901c7f0118e83a645
+2018-08-08T16:29:33-04:00	CASTLE FREAK - Remote Residency for Generative Literature | inside the castle http://www.insidethecastle.org/castle-freak/
+2018-08-08T16:34:30-04:00	Twitter’s new developer guidelines might end fun bot accounts. https://slate.com/technology/2018/08/twitters-new-developer-guidelines-might-end-fun-bot-accounts.html
+2018-08-08T18:20:05-04:00	If I ever make a horror move, its tagline will be 'All the gore, none of the plot' even if it has a plot.
+2018-08-08T20:18:15-04:00	The thing that worries me about MovieBob's 'man thought' pilot is that up until the last few minutes poe's law is in effect way too much and it's just indistinguishable from the shit he's making fun of
+2018-08-08T20:23:21-04:00	Pet peeve: the 6+ news outlets that titled their coverage of OXU in 2014 as 'Software project gets release after 54 years' as though there wasn't a release in 1999, another in 2007, one in 2014, and one in 2016 (and this is just the translit & just the stuff you can download now)
+2018-08-09T06:57:13-04:00	Band name of the day: the century of the exploding everything
+2018-08-09T09:47:50-04:00	It's not just that press coverage of things you already know about is bad. You only notice it when you know more about it than the journalist -- who is a professional outsider. Question is: when the author knows slightly more than you do, would you like them to dive deeper?
+2018-08-09T09:54:41-04:00	Let Me Tell You - Uncanny Magazine https://uncannymagazine.com/article/let-me-tell-you/
+2018-08-09T10:31:21-04:00	Band name of the day: the most powerful living cat
+2018-08-09T10:40:04-04:00	If you need stock background footage of nukes, you could do worse than https://www.youtube.com/playlist?list=PLvGO_dWo8VfcmG166wKRy5z-GlJ_OQND5 which I think are probably public domain since they're government-recorded
+2018-08-09T10:45:00-04:00	An Interactive Introduction to Attractor Landscapes https://ncase.me/attractors/
+2018-08-09T11:01:43-04:00	Center for a Stateless Society  &raquo; Long Live Anarchy: An Interview with Robert Anton Wilson (Part 1) https://c4ss.org/content/46524
+2018-08-09T11:08:25-04:00	Center for a Stateless Society  &raquo; Long Live Anarchy: An Interview With Robert Anton Wilson (Part 2) https://c4ss.org/content/46540
+2018-08-09T11:15:37-04:00	Notes from Dynamicland: Geokit https://rsnous.com/posts/notes-from-dynamicland-geokit/
+2018-08-09T11:49:05-04:00	Where Vim Came From https://twobithistory.org/2018/08/05/where-vim-came-from.html
+2018-08-09T12:35:47-04:00	Band name of the day: the extremely legal
+2018-08-09T14:50:19-04:00	What You Found In 3 Million Russian Troll Tweets | FiveThirtyEight https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/
+2018-08-10T08:55:53-04:00	Somehow, http://www.lord-enki.net/medium-backup/2016-09-01_A-Qualified-Defense-of-Jargon---Other-In-Group-Signifiers-2fe2cd37b66b.html is getting a lot of hate. I thought it was pretty even-handed. Do people dislike it because I said culture fit should only matter when it impacts effectiveness, or that it's useful at all?
+2018-08-10T10:34:22-04:00	The Podcasting Puppet Master https://tedium.co/2018/08/09/mst3k-puppeteer-interview/
+2018-08-10T10:51:10-04:00	Hot take: smashing the state of mind (i.e., producing the mental and cultural conditions for statelessness) goes beyond class consciousness & requires almost everybody to 'get' social dynamics in cybernetic terms, at scale. It's an anti-specialization; heuristics won't suffice. Communities exist that already do this (ex., kink).
+2018-08-10T11:27:40-04:00	CABINET // The Illusionistic Magic of Geometric Figuring http://cabinetmagazine.org/issues/26/wertheim.php
+2018-08-10T11:49:57-04:00	See No Evil https://logicmag.io/04-see-no-evil/
+2018-08-10T15:02:40-04:00	Abbot and Costello Meet Grave Consequences
+2018-08-10T16:13:48-04:00	Band name of the day: angry goat terror
+2018-08-10T17:46:41-04:00	COMPRESS;d e c o m p r e s s - YouTube https://www.youtube.com/watch?v=UZP_xG6yVKA
+2018-08-11T14:55:35-04:00	Pet peeve: when people conflate correctness with secrecy. Crypto can provide both, but the two are actually often in conflict. Please, think about the mechanisms you're using systematically & also with respect to your actual threat model.
+2018-08-11T14:57:43-04:00	Pet peeve: when people are so used to the model of defense against the strongest possible adversary that, in the case where that's not possible, they consider smaller guarantees useless. Things don't need to exist at google scale.
+2018-08-12T15:07:42-04:00	it's kind of amazing how much better Yuuna & the Haunted Onsen is than Ah My Buddha or Love Hina
+2018-08-12T16:26:23-04:00	Band name of the day: vintage skull imagery
+2018-08-13T09:45:12-04:00	1/0 = 0 • Hillel Wayne https://www.hillelwayne.com/post/divide-by-zero/
+2018-08-13T09:54:19-04:00	Enya is always out of reach | The Outline https://theoutline.com/post/5767/enya-very-intriguing-person
+2018-08-13T10:40:35-04:00	The End of Internet History and the Last Ad - Rambling Space https://ramblingspace.com/posts/end-internet-history-last-ad/
+2018-08-13T10:48:38-04:00	The 10:1 rule of writing and programming https://www.ybrikman.com/writing/2018/08/12/the-10-to-1-rule-of-writing-and-programming/
+2018-08-13T11:11:29-04:00	See No Evil https://logicmag.io/04-see-no-evil/
+2018-08-13T11:27:48-04:00	That book the protagonist of The Gernsback Continuum was doing apparently came out lol https://www.atlasobscura.com/articles/most-beautiful-gas-station-design
+2018-08-14T06:07:57-04:00	Why is Amazon adapting Strange Angel when Sex and Rockets is the clearly superior Parsons biography?
+2018-08-14T07:59:24-04:00	Gary Lachman on Dark Star Rising, Trump, and the Occult - Reality Sandwich http://realitysandwich.com/323117/gary-lachman-dark-star-rising-trump-occult/
+2018-08-14T10:03:44-04:00	It would be a lot more interesting if, instead of Sinclair Broadcasting Corp, all our local TV stations were owned by Sir Clive Sinclair
+2018-08-14T10:31:50-04:00	Is This the End of the TV Writers’ Room as We Know It? | Vanity Fair https://www.vanityfair.com/hollywood/2018/08/the-end-of-the-tv-writers-room-as-we-know-it-mini-rooms
+2018-08-14T10:45:46-04:00	What It's Like to Download Your Facebook Data - The Atlantic  https://www.theatlantic.com/magazine/archive/2018/09/download-your-facebook-data/565736/
+2018-08-14T11:45:03-04:00	The Dying Art of Anime Music Videos - YouTube https://www.youtube.com/watch?v=4qcuJM1H_lQ
+2018-08-14T13:42:56-04:00	"the Web never adopted fundamental findings from hypertext widely" YEAHH YOU TELL 'EM Atzenback et al. (2017) (pp35-36)\!
+2018-08-14T14:00:48-04:00	Theory of Hypertext Systems: Article by Jakob Nielsen https://www.nngroup.com/articles/architectural-component-hypertext-systems/
+2018-08-14T14:20:50-04:00	GitHub - joukos/PaperTTY: PaperTTY - Python module to render a TTY on e-ink https://github.com/joukos/PaperTTY
+2018-08-15T08:49:01-04:00	Band name of the day: the eighteen minute gap
+2018-08-15T10:45:14-04:00	Mailbag: Applying Filters to Character Dialogue | Emily Short's Interactive Storytelling https://emshort.blog/2018/05/08/mailbag-applying-filters-to-character-dialogue/
+2018-08-15T12:05:20-04:00	tired: refering to bitcoin as 'fake internet money'
+wired: refering to all money including gold & fiat as 'imaginary internet points'
+2018-08-15T12:56:45-04:00	Band name of the day: no crew for your heart
+2018-08-15T13:06:00-04:00	tinywm http://incise.org/tinywm.html
+2018-08-15T16:04:16-04:00	If 'Evil Maid Attack' doesn't literally become the name of an anime soon what is the industry even doing? It's right there.
+2018-08-16T08:37:52-04:00	Band name of the day: chemically peculiar
+2018-08-16T09:51:04-04:00	Band name of the day: Vengeful Piss Camel
+2018-08-16T10:25:23-04:00	So I accidentally wrote a book: https://www.amazon.com/dp/1718167423?ref_=pe_870760_150889320
+2018-08-16T11:24:53-04:00	Dataspace 0: Those Memex Dreams Again | Natepod http://natecull.org/wordpress/2017/06/26/dataspace-0/
+2018-08-16T11:32:11-04:00	Portable Distributed Objects - Wikipedia https://en.wikipedia.org/wiki/Portable_Distributed_Objects
+2018-08-16T11:42:11-04:00	Dataspace 1: In Search of a Data Model | Natepod http://natecull.org/wordpress/2017/07/05/dataspace-1/
+2018-08-16T11:58:29-04:00	Dataspace 1: In Search of a Data Model | Natepod http://natecull.org/wordpress/2017/07/05/dataspace-1/
+2018-08-16T11:58:48-04:00	Band name of the day: negative limbic arousal
+2018-08-16T12:37:43-04:00	Dataspace 2: Revenge of the Data Model | Natepod http://natecull.org/wordpress/2017/07/06/dataspace-2/
+2018-08-16T12:41:48-04:00	Dataspace 3: It Came from the S-Expressions | Natepod http://natecull.org/wordpress/2017/07/06/dataspace-3/
+2018-08-16T13:15:29-04:00	Dataspace 4: The Term-inator | Natepod http://natecull.org/wordpress/2017/07/06/dataspace-4/
+2018-08-16T13:18:32-04:00	When you don't think cybernetically, you ask questions like 'did X cause Y or did Y cause X' when actually most persistent things have self-perpetuating loops and cause themselves/each other. This will mystify you because aristotlean 'first cause' hierarchy shit baked your brain.
+2018-08-16T13:22:51-04:00	Dataspace 5: Introducing /all | Natepod http://natecull.org/wordpress/2017/07/09/dataspace-5/
+2018-08-16T13:25:03-04:00	Dataspace 6: Terms as Types | Natepod http://natecull.org/wordpress/2017/07/10/dataspace-6-terms-as-types/
+2018-08-16T13:27:56-04:00	Dataspace 7: A Low-Level Encoding | Natepod http://natecull.org/wordpress/2017/07/10/dataspace-7-a-low-level-encoding/
+2018-08-16T13:29:27-04:00	Dataspace 8: Example: Movie data | Natepod http://natecull.org/wordpress/2017/07/11/dataspace-8-example-movie-data/
+2018-08-16T13:31:21-04:00	Dataspace 9: A Tower of Nulls, And Awkward Sets | Natepod http://natecull.org/wordpress/2017/07/13/dataspace-9-a-tower-of-nulls-and-awkward-sets/
+2018-08-16T14:27:04-04:00	What Am I Worth to Advertisers? My Obsessive Quest to Put a Price on My Attention https://gizmodo.com/what-am-i-worth-to-advertisers-my-obsessive-quest-to-p-1828343202
+2018-08-16T14:31:20-04:00	This is a very hot take and also not a new one but here we go: the goal of a properly functioning software engineer is to obviate themselves, not by solving the customer's specific problems but by blurring the line between using a computer and programming one to the point where users can solve their own problems.
+2018-08-16T14:39:22-04:00	Hey guys any of you have an idea why the udev daemon is pinned slightly above 100% CPU like all the time now?
+2018-08-16T14:45:59-04:00	What's On My Mind http://www.xanadu.com.au/ted/zigzag/xybrap.html
+2018-08-16T18:54:22-04:00	Dataspace 10: An Array Representation | Natepod http://natecull.org/wordpress/2018/08/16/dataspace-10-an-array-representation/
+2018-08-16T19:41:23-04:00	Band name of the day: naturally occurring-interaction of gears, levers, and pulleys
+2018-08-17T10:42:40-04:00	Hot take: stuff happens for a reason, but that reason is very often stupid. Before dismissing a thing, figure out the best possible reason for it & see if it's stupid. Before defending a thing, ditto.
+2018-08-17T11:22:11-04:00	Take a look at pubsub on IPFS https://ipfs.io/blog/25-pubsub/
