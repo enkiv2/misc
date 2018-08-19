@@ -3390,3 +3390,7 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-08-16T19:41:23-04:00	Band name of the day: naturally occurring-interaction of gears, levers, and pulleys
 2018-08-17T10:42:40-04:00	Hot take: stuff happens for a reason, but that reason is very often stupid. Before dismissing a thing, figure out the best possible reason for it & see if it's stupid. Before defending a thing, ditto.
 2018-08-17T11:22:11-04:00	Take a look at pubsub on IPFS https://ipfs.io/blog/25-pubsub/
+2018-08-17T19:01:46-04:00	VLC logic: doubleclick toggles fullscreen but each single click in that double click still also toggles playback, so toggling fullscreen causes you play for 1/8 of a second
+2018-08-17T20:25:51-04:00	Translit is a little like bittorrent, if bittorrent used literally the same bytes for AMVs and trailers as for the corresponding scenes in the show/movie. Transcopyright is like assembling AMVs from your own DVD boxed set based on a list of instructions & leaving a gap if you're missing a disk.
+2018-08-18T13:46:04-04:00	The human condition: weaker than a lever, dumber than a calculator, worse memory than a notebook, and less creative than a pair of dice
+2018-08-18T14:05:44-04:00	Another way to talk about Maybe Logic re: map-territory confusion: a lot of people don't put error bars on their imagination. So, they make a prediction, the universe says 'nope', and they've got no idea where to start debugging bc every inference looks equally strong
