@@ -3394,3 +3394,93 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-08-17T20:25:51-04:00	Translit is a little like bittorrent, if bittorrent used literally the same bytes for AMVs and trailers as for the corresponding scenes in the show/movie. Transcopyright is like assembling AMVs from your own DVD boxed set based on a list of instructions & leaving a gap if you're missing a disk.
 2018-08-18T13:46:04-04:00	The human condition: weaker than a lever, dumber than a calculator, worse memory than a notebook, and less creative than a pair of dice
 2018-08-18T14:05:44-04:00	Another way to talk about Maybe Logic re: map-territory confusion: a lot of people don't put error bars on their imagination. So, they make a prediction, the universe says 'nope', and they've got no idea where to start debugging bc every inference looks equally strong
+2018-08-19T13:42:09-04:00	On Reading Hypertext : JMax : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/hypercard_on-reading-hypertext
+2018-08-19T16:00:50-04:00	So, the Pseudomonarchia is like A Thing in anime, isn't it... Using goetic demons as comic relief characters is something I see occasionally but it wasn't until You're Being Summoned, Azazel\! that I realized that it wasn't just like 3 guys doing it.
+2018-08-20T10:51:11-04:00	Russian Cosmism Versus Interstellar Bosses: Reclaiming Full-Throttle Luxury Space Communism - Los Angeles Review of Books https://lareviewofbooks.org/article/russian-cosmism-versus-interstellar-bosses-reclaiming-full-throttle-luxury-space-communism/
+2018-08-20T11:00:03-04:00	Uncle Buddy's Phantom Funhouse : John McDaid : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/unclebuddy
+2018-08-20T11:37:14-04:00	Odd Numbers " Real Life http://reallifemag.com/odd-numbers/
+2018-08-20T13:40:57-04:00	Band name of the day: nuclear battle mole
+2018-08-20T13:41:21-04:00	Band name of the day: the unreal city
+2018-08-21T12:35:59-04:00	Pop Songs Written by Native Speakers of Swedish https://www.theparisreview.org/blog/2018/08/15/pop-songs-in-english-written-by-native-speakers-of-swedish/
+2018-08-21T13:20:06-04:00	A comprehensive guide to yellow stripey things https://kottke.org/18/08/a-comprehensive-guide-to-yellow-stripey-things
+2018-08-21T13:47:58-04:00	Bad idea of the day: A movie podcast where the host double-features the Nth best-rated and Nth worst-rated movies on IMDB & compares them.
+2018-08-21T13:54:37-04:00	On Not Being Able to&nbsp;Read  https://longreads.com/2018/08/14/on-not-being-able-to-read/
+2018-08-21T14:03:37-04:00	Karl Marx removes his gloves to reveal knuckle tattoos: THEORY on the left hand and PRAXIS on the right. He removes his shirt and two extra arms unfold from his back: THESIS on the left arm's knuckles and ANTITHESIS on the right. 'Time to synthesize', he says.
+2018-08-21T14:24:05-04:00	Modern horror films are finding their scares in dead phone batteries - The Verge https://www.theverge.com/2018/8/16/17675474/modern-horror-films-dead-cell-phone-trope-isolation
+2018-08-21T14:57:29-04:00	Bad idea of the day: Select a bunch of positions, and pay people on mechanical turk to identify the strongest arguments for & against that position they can think of.
+2018-08-21T15:22:29-04:00	Letting neural networks be weird &mdash; This AI is bad at drawing but will try anyways. http://aiweirdness.com/post/177091486527/this-ai-is-bad-at-drawing-but-will-try-anyways/amp
+2018-08-21T17:18:01-04:00	The Problem With Anime Subtitles - YouTube https://www.youtube.com/watch?v=Lo4BrhIFcmo
+2018-08-22T08:40:05-04:00	Band name of the day: the irreconcilable gap
+2018-08-22T08:54:55-04:00	Stooge Story https://tedium.co/2018/08/21/three-stooges-history/
+2018-08-22T10:11:39-04:00	Serial Box creates books for the age of Peak TV - Vox https://www.vox.com/culture/2018/8/6/16849756/serial-box-serialized-books-peak-tv
+2018-08-22T10:23:28-04:00	Don't Do This in Production &middot; Stephen Mann https://stephenmann.io/post/dont-do-this-in-production/
+2018-08-22T11:10:18-04:00	What algorithmic art can teach us about artificial intelligence - The Verge https://www.theverge.com/2018/8/21/17761424/ai-algorithm-art-machine-vision-perception-tom-white-treachery-imagenet
+2018-08-22T11:43:01-04:00	Bad idea of the day: disguise copies of bolo'bolo as constitution pamphlets
+2018-08-22T12:17:16-04:00	Recognition Models: Scale World War Miniatures Used to Tell Friends from Foes - 99% Invisible https://99percentinvisible.org/article/recognition-models-scale-world-war-miniatures-used-to-tell-friends-from-foes/
+2018-08-22T17:58:17-04:00	Bad idea of the day: 'twitch writes a novel': the previous ~15 words are shown & the top ~20 next words based on a markov model of some corpus are voted on over a 2 minute period (going to the first item, if no votes are cast) until 50k words are written.
+2018-08-23T09:12:18-04:00	15. Int. Low &amp; No Budget film-sharing Festival 2018 - FilmFreeway https://filmfreeway.com/film-sharing
+2018-08-23T09:42:57-04:00	Hot take: when a type of work is no longer necessary, it becomes a hobby or luxury/artisinal work, & this is good for everybody involved.
+2018-08-23T10:03:12-04:00	Band name of the day: the potential carcasses
+2018-08-23T10:49:39-04:00	Mod and Remainder are not the Same &#8211; Rob Conery https://rob.conery.io/2018/08/21/mod-and-remainder-are-not-the-same/
+2018-08-23T11:31:14-04:00	This is what filter bubbles actually look like - MIT Technology Review https://www.technologyreview.com/s/611807/this-is-what-filter-bubbles-actually-look-like/
+2018-08-23T12:03:03-04:00	The Vintage Japanese Copy Machine Enjoying an Artistic Renaissance - Atlas Obscura https://www.atlasobscura.com/articles/risograph-machines
+2018-08-23T12:05:10-04:00	The Secret Meanings Behind the Beasts in a Medieval Menagerie - Atlas Obscura https://www.atlasobscura.com/articles/medieval-bestiary-allegories
+2018-08-23T12:27:32-04:00	Escaping the Default Future When Writing Science Fiction  |  Tor.com https://www.tor.com/2018/08/16/escaping-the-default-future-when-writing-science-fiction/
+2018-08-23T12:49:40-04:00	Who the heck decided that everybody who listens to podcasts is in the market for a new mattress?
+2018-08-23T13:43:21-04:00	The Quietus | Features | A Quietus Interview | How Can I Light Myself On Fire To Get You To Listen? NIN Interviewed http://thequietus.com/articles/25050-nine-inch-nails-trent-reznor-interview-bad-witch
+2018-08-23T13:50:29-04:00	Band name of the day: a disco in hell
+2018-08-23T15:27:45-04:00	Band name of the day: The Faceless
+2018-08-23T15:28:16-04:00	Band name of the day: THREAT
+2018-08-23T15:28:36-04:00	Letting neural networks be weird &bull; Robotics teams: why not name them with a bot? http://aiweirdness.com/post/177307156177/robotics-teams-why-not-name-them-with-a-bot
+2018-08-23T15:29:31-04:00	Band name of the day: Red Birth
+2018-08-23T15:47:34-04:00	Band name of the day: the unavoidable spasm
+2018-08-23T15:53:19-04:00	Hot take: being critical of the Tech Industry (i.e., VC-model businesses that may or may not have to do with tech) is not the same as being Anti-Tech. It's the kind of common sense that people inside the Tech Industry should take advantage of if they want to survive.
+2018-08-23T15:59:35-04:00	Logic Magazine | The Data Is Ours! What is big data? And how do we democratize it? by curio.io | Curio Io | Free Listening on SoundCloud https://soundcloud.com/curioio/logic-magazine-the-data-is-ours/s-8XDfX
+2018-08-23T19:32:28-04:00	When a social structure is flat (like twitter) all friction is between people & there's no 'natural' adjuticator except a powerful & unaccoutable adjutication class. When it has cliques (like mastodon) it can be broken down & adjuticators are limited in power.
+2018-08-24T08:35:20-04:00	Udevd was eating up literally all my ram and literally all my CPU, while doing nothing. I fixed it by turning off udevd. (Take that, systemd.)
+2018-08-24T08:36:24-04:00	Also pulse randomly decided that I didn't get to have a driver for my (extremely common) sound card anymore. Jesus, systemd -- you're pushing linux on the desktop back to 1998 levels of bullshit.
+2018-08-24T09:26:58-04:00	W O R D S https://garbados.github.io/my-blog/regarding-software.html
+2018-08-24T10:03:16-04:00	Severin re-release of The Changeling leads thousands of millenials to say 'Ohh, so THAT's what that scene in Scary Movie 2 was referencing'.
+2018-08-24T10:35:04-04:00	Curta Calculator History: A Mechanical Calculator Survival Story https://tedium.co/2018/08/23/curta-calculator-history/
+2018-08-24T10:51:20-04:00	The Abandoned, Apocalyptic Architecture of One Bold 1970s Retail Chain - Atlas Obscura https://www.atlasobscura.com/articles/best-superstores-architecture
+2018-08-24T11:08:11-04:00	Hot take: there are (somehow) no /mature/ GUI toolkits, but even under that low bar, there's lots of variability -- and webtech makes TK look like the Sagrada Familia.
+2018-08-24T11:26:11-04:00	Bad idea of the day: turn the entire military budget into a sovergn wealth fund
+2018-08-24T14:39:42-04:00	Band name of the day: droop snoot
+2018-08-24T14:48:29-04:00	Bad idea of the day: automatically replace words with synonyms that have more phoneme sequences in common with the previous word (post-processing)
+2018-08-25T15:13:21-04:00	Miyazaki, Lineage, and Depth - YouTube https://www.youtube.com/watch?v=6GpUQ42qtRA
+2018-08-25T15:13:45-04:00	Suspiria - Official Trailer | Amazon Studios - YouTube https://www.youtube.com/watch?v=BY6QKRl56Ok
+2018-08-25T16:34:48-04:00	This Fred Turner book really makes me wish we had good hypertext integrated into publishing. Hard to go more than a sentence or two in From Counterculture to Cyberculture without wanting to link it to Rise of the Machines, or Encountering America, or What the Dormouse Said, or Fire in the Valley
+2018-08-26T08:25:26-04:00	What (Else) Cells At Work Can Teach Us - YouTube https://www.youtube.com/watch?v=6u2Uh4SWGd8
+2018-08-27T07:08:17-04:00	PoundArt -- about Random Computer Comics http://www.poundart.com/art/randcomix/about.html
+2018-08-27T07:49:08-04:00	Taking note: Luhmann's Zettelkasten http://takingnotenow.blogspot.com/2007/12/luhmanns-zettelkasten.html
+2018-08-27T08:21:08-04:00	Bad idea of the day: A video game called 'infodump' where the primary mechanic is literally using a wiki/world bible to research lore.
+2018-08-27T10:55:44-04:00	Dread of Heinleinism - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/08/dread-of-heinleinism.html
+2018-08-27T11:01:14-04:00	Why Love Generative Art? " Artnome https://www.artnome.com/news/2018/8/8/why-love-generative-art
+2018-08-27T11:14:16-04:00	&#8220;Striving to minimize technical and reputational risks&#8221; &#8211; Ethical OS and Silicon Valley&#8217;s guilty ... https://librarianshipwreck.wordpress.com/2018/08/24/striving-to-minimize-technical-and-reputational-risks-ethical-os-and-silicon-valleys-guilty-conscience/
+2018-08-27T11:15:27-04:00	The very fact that 'product' and 'consumer' are often appropriate terms is an indication that we have failed to create a sensible world.
+2018-08-27T11:43:01-04:00	The four ways that ex-internet idealists explain where it all went wrong - MIT Technology Review https://www.technologyreview.com/s/611805/the-four-ways-that-ex-internet-idealists-explain-where-it-all-went-wrong/
+2018-08-27T13:19:50-04:00	Unitary urbanism - Wikipedia https://en.wikipedia.org/wiki/Unitary_urbanism
+2018-08-27T13:20:23-04:00	http://library.nothingness.org/articles/SI/en/pub_contents/5
+2018-08-27T14:27:15-04:00	Friends and Enemies: On Slogan Tees - Los Angeles Review of Books https://lareviewofbooks.org/article/friends-and-enemies-on-slogan-tees/
+2018-08-28T08:14:46-04:00	I would be surprised if Hataraki Saibou didn't become extremely popular with cosplayers. It has a wide variety of iconic, low-effort uniforms, plus a handful of even more iconic higher-effort ones.
+2018-08-28T08:15:31-04:00	Why Folklorists Hate Joseph Campbell&#8217;s Work | Jeana Jorgensen http://www.patheos.com/blogs/foxyfolklorist/why-folklorists-hate-joseph-campbells-work/
+2018-08-28T08:25:19-04:00	Band name of the day: strange remains
+2018-08-28T08:48:30-04:00	Online Bettors Know If Psychology Studies Will Replicate - The Atlantic  https://www.theatlantic.com/science/archive/2018/08/scientists-can-collectively-sense-which-psychology-studies-are-weak/568630/
+2018-08-28T10:11:38-04:00	Federated Learning https://florian.github.io/federated-learning/
+2018-08-28T10:13:07-04:00	Bad idea of the day: a metal detector that plays a guitar solo instead of beeping
+2018-08-28T11:48:38-04:00	Otaku Culture Oasis (This Ain't That) - YouTube https://www.youtube.com/watch?v=4SV1GME_FHQ
+2018-08-28T13:20:11-04:00	Vision for a new, truly decentralized Web | Empowering People. Uniting Communities. https://qbix.com/blog/2018/08/28/vision-for-a-new-truly-decentralized-web/
+2018-08-29T08:30:47-04:00	Band name of the day: the mosquito king
+2018-08-29T08:31:04-04:00	Band name of the day: hard dollar
+2018-08-29T08:32:41-04:00	Manifesto for Minimalist Software Engineers | Minifesto.org http://minifesto.org/
+2018-08-29T08:32:52-04:00	Band name of the day: tabby starr
+2018-08-29T09:17:37-04:00	Band name of the day: hotel fire
+2018-08-29T10:01:17-04:00	Oblix: an efficient oblivious search index | the morning paper https://blog.acolyer.org/2018/07/06/oblix-an-efficient-oblivious-search-index/
+2018-08-29T10:02:38-04:00	Deep code search | the morning paper https://blog.acolyer.org/2018/06/26/deep-code-search/
+2018-08-29T10:04:15-04:00	Debugging with intelligence via probabilistic inference | the morning paper https://blog.acolyer.org/2018/06/19/debugging-with-intelligence-via-probabilistic-inference/
+2018-08-29T10:09:56-04:00	The Mystery of People Who Speak Dozens of Languages | The New Yorker https://www.newyorker.com/magazine/2018/09/03/the-mystery-of-people-who-speak-dozens-of-languages
+2018-08-29T11:24:18-04:00	The Ripper: The disturbing Visceral Games project that EA canceled - Polygon https://www.polygon.com/2018/8/24/17770668/jack-the-ripper-visceral-games-electronic-arts-canceled
+2018-08-29T11:30:26-04:00	Bad idea of the day: Expand citizenship: you are automatically a citizen of a state if you were born there, if either parent is from there, if you have lived there for more than 6 months, or if you own or rent any land there.
+2018-08-29T12:03:23-04:00	Bad idea of the day: using spaced repetition software to remind yourself to meditate on open questions
+2018-08-29T12:04:13-04:00	Bad idea of the day: an anki deck of oblique strategies
+2018-08-29T12:23:58-04:00	Dr. Edward Morbius ⭕: "Agency, its lack, or what is often a sense of fal…" - mastodon.cloud https://mastodon.cloud/@dredmorbius/100629636975889255
