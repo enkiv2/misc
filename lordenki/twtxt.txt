@@ -3484,3 +3484,346 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-08-29T12:03:23-04:00	Bad idea of the day: using spaced repetition software to remind yourself to meditate on open questions
 2018-08-29T12:04:13-04:00	Bad idea of the day: an anki deck of oblique strategies
 2018-08-29T12:23:58-04:00	Dr. Edward Morbius ⭕: "Agency, its lack, or what is often a sense of fal…" - mastodon.cloud https://mastodon.cloud/@dredmorbius/100629636975889255
+2018-08-29T12:54:57-04:00	Brandon Invergo - Anti-Web-Design Manifesto http://brandon.invergo.net/news/2013-03-10-Anti-web-design-Manifesto.html
+2018-08-29T13:06:15-04:00	My feed will be deader than usual for a while so I'm going to be automatically posting a medium story I clapped for every 4 hours. Set your filters accordingly.
+2018-08-29T13:12:04-04:00	The thing about cultural niches is that they are created by and for ‘mass media’ as a novelty… https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-thing-about-cultural-niches-is-that-they-are-created-by-and-for-mass-media-as-a-novelty-4e5853196ee3
+2018-08-29T15:40:04-04:00	Bursting stovepipes creates an intellectual explosion, but it's short-lived. You don't get scenius without tribes, but you also don't get it without potlatches. The periodic nature of the potlatch is necessary, & so is the discarding of material work.
+2018-08-30T09:59:56-04:00	Band name of the day: dream loss bureau
+2018-08-30T10:11:08-04:00	Band name of the day: the desperate orgies
+2018-08-30T10:33:41-04:00	Band name of the day: hot sleep
+2018-08-30T11:15:56-04:00	C considered dangerous [LWN.net] https://lwn.net/SubscriberLink/763641/c9a04da2a33af0a3/
+2018-08-30T11:18:49-04:00	Translating HyperTalk to JavaScript http://lexnet.bravepages.com/HTMLJS.htm
+2018-08-30T11:26:36-04:00	My hobby: Troll hugging. - 鳳 http://pugs.blogs.com/audrey/2009/08/my-hobby-troll-hugging.html
+2018-08-30T11:31:27-04:00	Damn Cool Algorithms: Levenshtein Automata - Nick's Blog http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata
+2018-08-30T12:29:06-04:00	Hereditary (but it's Paddington) - YouTube https://www.youtube.com/watch?v=20AFSVC0_LQ
+2018-08-30T13:42:31-04:00	How Wikipedia dodged public outcry plaguing social media platforms https://medium.com/wiki-strategies/platform-a3b8c3ce901e
+2018-08-30T13:42:57-04:00	“Open” everything, and minimal financial needs: Wikipedia’s strengths https://medium.com/wiki-strategies/platform2-def60ce63a3a
+2018-08-30T15:35:13-04:00	Could Patreon Be "Better For The Industry" Than Crunchyroll? - Answerman - Anime News Network https://www.animenewsnetwork.com/answerman/2018-08-29/.136030
+2018-08-31T08:08:47-04:00	Socially Conscious Sci-Fi | The Smart Set https://thesmartset.com/socially-conscious-sci-fi/
+2018-08-31T08:09:35-04:00	QOTD: 'Deny what you know in your bones and instill a new law of reality in them'
+2018-08-31T08:12:17-04:00	Hot take: anything with more than 200 people in it is necessarily too diverse and internally schismatic to be called a 'community' -- if it has shared norms, it's at best a 'subculture', & if those norms are being imposed by a corporation, it's not even that.
+2018-08-31T08:16:29-04:00	Band name of the day: the ass antlers
+2018-08-31T08:41:20-04:00	Improving the Discussion Board - Lehigh University https://www.lehigh.edu/~indiscus/doc_guidelines.html
+2018-08-31T08:52:20-04:00	Little Languages http://staff.um.edu.mt/afra1/seminar/little-languages.pdf
+2018-08-31T08:55:47-04:00	Zero-copy deserialization in Julia http://scattered-thoughts.net/blog/2018/08/28/zero-copy-deserialization-in-julia/
+2018-08-31T09:57:41-04:00	Simplicity or style: what makes a sentence a masterpiece? | Aeon Ideas https://aeon.co/ideas/simplicity-or-style-what-makes-a-sentence-a-masterpiece
+2018-08-31T09:58:58-04:00	Clip Art History https://tedium.co/2018/08/30/clip-art-history/
+2018-08-31T10:46:35-04:00	The Secret London Exhibition for Spies' Eyes Only - Atlas Obscura https://www.atlasobscura.com/articles/exhibit-for-spies-at-natural-history-museum-london
+2018-08-31T11:01:06-04:00	Beheadings as honest communication devices &#8211; International Cognition and Culture Institute http://cognitionandculture.net/blog/radu-umbres-blog/beheadings-as-honest-communication-devices
+2018-08-31T16:07:47-04:00	Bad idea of the day: replace every sentence in some book with a sentence from a different gutenberg book that is an anagram of it
+2018-08-31T16:08:50-04:00	Bad idea of the day: replace every word in a book with a sentence in another book that is an anagram of the NATO word-spelling of it
+2018-09-02T10:01:58-04:00	Haunted by a phantom timeline - YouTube https://www.youtube.com/watch?v=VNHW4_R_xI8
+2018-09-02T15:44:03-04:00	Bad idea of the day: Batman (1968) vs Doctor Phibes: two rich geniuses who love gadgets and labelling things fight each other in an art-deco city with a comically incompetent police force
+2018-09-02T22:05:57-04:00	Band name of the day: betrothed by a scream
+2018-09-02T22:31:36-04:00	Bad idea of the day: a retelling of Dracula where Van Hellsing and Renfield are merged into the same character
+2018-09-02T22:46:27-04:00	Bad idea of the day: Phibes recut as a silent film
+2018-09-02T22:55:14-04:00	We live in a world where both Guy Madden's The Heart of the World & Matmos's Ultimate Care II exist, and that has to count for something.
+2018-09-02T23:08:42-04:00	Bad idea of the day: The HOWLing: angel-headed hipsters fight werewolves whose blood is running money and whose mind is vast machinery
+2018-09-03T11:34:59-04:00	The best vampire movies either make you ask 'is this about vampires' (Baba Yaga, Blood and Roses) or make you say 'god damn this is super about vampires' (Drink the Blood of Dracula, Captain Kronos, Vampire Hunter D)
+2018-09-03T15:58:21-04:00	In case you were wondering, indeed, Female Prisoner Scorpion is a MUCH better movie than the title makes it sound like. (It is exploitation, but it is ALSO surreal impressionistic gothic horror. Also, every frame of this damn movie is gorgeous.)
+2018-09-03T20:42:38-04:00	Bad idea of the day: a sanrio-branded sentient shoelace character who is nervous about fraying named Aglets-ko
+2018-09-04T09:13:15-04:00	Learning BASIC Like It's 1983 https://twobithistory.org/2018/09/02/learning-basic.html
+2018-09-04T09:17:53-04:00	How to teach yourself hard things - Julia Evans https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/
+2018-09-04T09:20:10-04:00	A Constructive Look At TempleOS http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
+2018-09-04T09:47:18-04:00	Why Is American Mass Transit So Bad? It's a Long Story. - CityLab  https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/
+2018-09-04T10:08:11-04:00	Mastodon and the challenges of abuse in a federated system | Read the Tea Leaves https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/
+2018-09-04T10:16:17-04:00	Unlimited Dream Country " a review of Applied Ballardianism: Memoir from a Parallel Universe by Simon Sellars ... https://minorliteratures.com/2018/06/20/unlimited-dream-country-a-review-of-applied-ballardianismmemoir-from-a-parallel-universe-by-simon-sellars-brendan-gillott/
+2018-09-04T10:17:39-04:00	On Emergent Centralization &middot; Field Notes https://fieldnotes.resistant.tech/defensive-decentralization/
+2018-09-04T10:20:13-04:00	Why Read the Classics? | by Italo Calvino | The New York Review of Books https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/
+2018-09-04T11:02:42-04:00	403 Forbidden http://www.os2museum.com/wp/the-history-of-a-security-hole/
+2018-09-04T11:10:32-04:00	Band name of the day: feathered death garlands
+2018-09-04T11:17:41-04:00	The Paradox of Karl Popper - Scientific American Blog Network https://blogs.scientificamerican.com/cross-check/the-paradox-of-karl-popper/
+2018-09-04T13:33:26-04:00	OK, so the next 22 people who click on this link get my book: https://www.amazon.com/ga/p/9035fb092fa86187?ref_=pe_1771210_134854370#ln-en (The two previous giveaways only gave out one book, which is stupid.)
+2018-09-04T13:34:55-04:00	♥️ danhon ♥️: "Jurassic Park Common User Interface 1.1b24 https:…" - mastodon.cloud https://mastodon.cloud/@Danhon/100618546995610700
+2018-09-04T13:45:25-04:00	#FolkloreAgainstFascism - The Daily Grail https://www.dailygrail.com/2018/08/folkloreagainstfascism/
+2018-09-04T13:48:57-04:00	Shirky: A Group Is Its Own Worst Enemy http://www.shirky.com/writings/herecomeseverybody/group_enemy.html
+2018-09-04T13:51:15-04:00	Silicon Valley's attempts to self-police are anti-democratic. They're also not new. -... https://www.washingtonpost.com/outlook/silicon-valleys-attempts-to-self-police-are-anti-democratic-theyre-also-not-new/2018/08/17/cd44fb22-9b1d-11e8-843b-36e177f3081c_story.html?noredirect=on
+2018-09-04T13:55:07-04:00	Mood: http://botnik.org/content/tingle-tinder1.jpg
+2018-09-04T13:56:14-04:00	Band name of the day: massive bubble phenomenon
+2018-09-04T16:03:13-04:00	Alejandro Jodorowsky - The Mystic Theatre - YouTube https://www.youtube.com/watch?v=pZsAP8VyoO4
+2018-09-04T18:44:27-04:00	mind over matter works a lot better if you use a hammer
+2018-09-04T18:45:30-04:00	a bicycle for the mind / tanks for the memories
+2018-09-04T18:46:36-04:00	a stationary bicycle for the mind. (stationery?)
+2018-09-04T18:54:30-04:00	Bad idea of the day: a movie musical called Greece, for extra confusion
+2018-09-05T10:48:45-04:00	The Thunder Child: Vertlieb's Views: Dracula in the 1970s: Prints of Darkness  http://thethunderchild.com/VertliebsViews/Dracua-PrintsofDarkness.html
+2018-09-05T11:57:40-04:00	Decoding the Unusual Shape of the Nepali Flag - Atlas Obscura https://www.atlasobscura.com/articles/nepal-flag-shape
+2018-09-05T12:04:58-04:00	All It Takes to Create a Ghost Is a Good Story - Atlas Obscura https://www.atlasobscura.com/articles/true-ghost-stories-portland-oregon
+2018-09-05T13:02:55-04:00	Disk Compressor History: A Microsoft Antitrust Prelude https://tedium.co/2018/09/04/disk-compression-stacker-doublespace-history/
+2018-09-05T13:23:12-04:00	GitHub - flipcoder/textbeat: text music sequencer and midi shell with vim playback https://github.com/flipcoder/textbeat
+2018-09-05T15:04:25-04:00	Homogeneous Operating Systems Are Better https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.html
+2018-09-05T15:56:11-04:00	The Art of Good Ecchi - How Not to Summon a Demon Lord - YouTube https://www.youtube.com/watch?v=nC6wit4Epeo
+2018-09-05T16:11:54-04:00	The Color of Pomegranates: A Failed Video Essay - YouTube https://www.youtube.com/watch?v=8MXjUf05HVE
+2018-09-05T17:36:01-04:00	Hot take: the most annoying thing about anti-spoiler behavior is that it protects the kind of bad, shallow media that spoilers actually affect from serious criticism until they have already been consumed.
+2018-09-05T18:48:54-04:00	Design Justice, A.I., and Escape from the Matrix of Domination https://jods.mitpress.mit.edu/pub/costanza-chock
+2018-09-05T18:55:28-04:00	Band name of the day: scavenger omnivore
+2018-09-05T18:58:49-04:00	Kabbalah | Pushing Ahead of the Dame https://bowiesongs.wordpress.com/tag/kabbalah/
+2018-09-05T19:44:08-04:00	This book is pretty good but Alex Wright keeps calling things like codex formats & indices 'literary hypertext'. No, that's just text. Yes, I get that hypertext is more text than text; that's why it's hyper.
+2018-09-06T07:59:22-04:00	The Surreal Joys Of The Beautiful Book Of Exquisite Corpses / Boing Boing https://boingboing.net/2018/09/05/the-surreal-joys-of-the-beauti.html
+2018-09-06T08:23:35-04:00	GitHub - ThoughtRiver/lmdb-embeddings: Fast word vectors with little memory usage in Python https://github.com/ThoughtRiver/lmdb-embeddings
+2018-09-06T08:24:38-04:00	Suffering-oriented&nbsp;programming - thoughts from the red planet - thoughts from the red planet http://nathanmarz.com/blog/suffering-oriented-programming.html
+2018-09-06T08:41:44-04:00	Numbers Every Programmer Should Know By Year https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+2018-09-06T09:19:11-04:00	Deep Laziness https://www.ribbonfarm.com/2018/04/06/deep-laziness/
+2018-09-06T09:49:10-04:00	Valve: 'It Really Does Seem Bad Games Are Made by Bad People' - Motherboard https://motherboard.vice.com/en_us/article/9kmej7/valve-it-really-does-seem-bad-games-are-made-by-bad-people
+2018-09-06T09:50:28-04:00	Post-apocalyptic Weaving on Vimeo https://vimeo.com/258513340
+2018-09-06T09:59:50-04:00	Researchers show Alexa “skill squatting” could hijack voice commands | Ars Technica https://arstechnica.com/information-technology/2018/08/researchers-show-alexa-skill-squatting-could-hijack-voice-commands/
+2018-09-06T10:19:23-04:00	Cowards and Trolls Log Off: Dril's New Book Is Awesome - Motherboard https://motherboard.vice.com/en_us/article/qvmqew/dril-new-book-tweets-interview
+2018-09-06T10:34:17-04:00	Software Rot and Classes of Rot Resistance · InductiveComputerScience/progsbase Wiki · GitHub https://github.com/InductiveComputerScience/progsbase/wiki/Software-Rot-and-Classes-of-Rot-Resistance
+2018-09-06T11:09:41-04:00	Le Corbusier's Special Measuring Tape Is Making a Comeback - Atlas Obscura https://www.atlasobscura.com/articles/le-corbusiers-modulor-rule
+2018-09-06T13:46:42-04:00	The Coral Project Notes https://frnsys.com/coral/
+2018-09-06T13:50:27-04:00	It's not that anonymity produces bad behavior, but that the absence of the ability to ignore or remove bad actors makes it difficult to prevent bad behavior, and persistent names assigned to persistent identities provides a convenient handle for dealing with individual bad actors.
+2018-09-06T14:24:13-04:00	Who Are the Forgotten Greats of Science Fiction?  |  Tor.com https://www.tor.com/2018/09/04/who-are-the-forgotten-greats-of-science-fiction/
+2018-09-06T14:33:16-04:00	QOTD: 'I am now at work on an apparatus by means of which, when it is perfected, I hope to manifest in their essential purity the radiations of malign force.'
+2018-09-06T15:02:28-04:00	QOTD: 'The web is broken because it is a half-hearted, incomplete implementation of Xanadu.' (Source: https://dev.to/tux0r/comment/586n)
+2018-09-06T15:34:16-04:00	Band name of the day: ownership of the dead
+2018-09-06T17:19:14-04:00	Dear Ranma, maybe if you have sudden traumatic gender transformations when wet don't travel primarily by running along the top of a fence by a riverbank.
+2018-09-07T06:33:35-04:00	GitHub - dominictarr/your-web-app-is-bloated: measuring memory usage of popular webapps https://github.com/dominictarr/your-web-app-is-bloated
+2018-09-07T06:50:55-04:00	The Servers Are Burning https://logicmag.io/05-the-servers-are-burning/
+2018-09-07T12:12:13-04:00	The Technicolor Nightmares of Suspiria - YouTube https://www.youtube.com/watch?v=VrcqxqsJSD4
+2018-09-07T15:52:23-04:00	Book idea (high effort, dunno if I'll do it): a survey of alternative computing systems in the style of Seven Languages in Seven Weeks. What should I include other than smalltalk, colorforth, oberon, templeos, and menuet?
+2018-09-10T08:27:00-04:00	Anatomy of an AI System https://anatomyof.ai/
+2018-09-10T10:39:58-04:00	Satoshi Kon and Why Love Is All You Need: Ep. 2 - Millennium Actress - YouTube https://www.youtube.com/watch?v=1dfn-yMmvis
+2018-09-10T11:25:57-04:00	SUSPIRIA - 40th Anniversary 4K Restoration Trailer (2017) | HD - YouTube https://www.youtube.com/watch?v=5Y0EEqtWrJI
+2018-09-10T12:21:12-04:00	Generative Art Finds Its Prodigy  " Artnome https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy
+2018-09-11T07:49:03-04:00	Bitcoin Bodice Rippers Are Romance’s Most Sizzling New Subgenre https://breakermag.com/bitcoin-bodice-rippers-are-romances-most-sizzling-new-subgenre/
+2018-09-11T08:30:39-04:00	Hack everything without fear | Drew DeVault’s Blog https://drewdevault.com/2018/03/17/Hack-everything-without-fear.html
+2018-09-11T09:29:31-04:00	Band name of the day: invasive reptiles
+2018-09-11T09:40:09-04:00	Inauthentic Behavior  https://longreads.com/2018/09/04/inauthentic-behavior/
+2018-09-11T09:45:05-04:00	Film Composition: The Subtle Art of Cinematic Scores https://tedium.co/2018/09/06/film-composition-subtle-art/
+2018-09-11T10:08:59-04:00	Hyperstition: MEGALITHIC ASTROPUNK http://hyperstition.abstractdynamics.org/archives/004932.html
+2018-09-11T10:22:40-04:00	A Time-Twisting Visit to the Museum of Capitalism - Atlas Obscura https://www.atlasobscura.com/articles/museum-of-capitalism-boston
+2018-09-11T11:25:44-04:00	Intro to Hegel (&amp; Progressive Politics) | Philosophy Tube - YouTube https://www.youtube.com/watch?v=OgNt1C72B_4
+2018-09-11T12:09:56-04:00	How psychoanalysis came to Japan and was turned on its head | Aeon Essays https://aeon.co/essays/how-psychoanalysis-came-to-japan-and-was-turned-on-its-head
+2018-09-11T12:41:52-04:00	Gaia: why some scientists think it's a nonsensical fantasy | Aeon Essays https://aeon.co/essays/gaia-why-some-scientists-think-it-s-a-nonsensical-fantasy
+2018-09-11T12:57:49-04:00	What happens when you set foot on absofreakinglutely nothing? | Aeon Essays https://aeon.co/essays/what-happens-when-you-set-foot-on-absofreakinglutely-nothing
+2018-09-11T13:14:14-04:00	Lisa Hanawalt of BoJack Horseman Talks to Heather Havrilesky https://www.thecut.com/2018/09/lisa-hanawalt-of-bojack-horseman-talks-to-heather-havrilesky.html
+2018-09-11T13:15:16-04:00	un-real.fun http://un-real.fun/
+2018-09-11T13:18:17-04:00	How Money Affects Elections | FiveThirtyEight https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/
+2018-09-11T14:21:56-04:00	Sergei Skripal and the Russian disinformation game - BBC News https://www.bbc.com/news/world-europe-45454142
+2018-09-11T14:24:00-04:00	"I doubt me an it be commercial." - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/09/i-doubt-me-an-it-be-commercial.html
+2018-09-11T17:39:11-04:00	YouTube: Manufacturing Authenticity (For Fun and Profit!) - YouTube https://www.youtube.com/watch?v=8FJEtCvb2Kw
+2018-09-11T18:04:09-04:00	Deconstruction - Stanley Fish - YouTube https://www.youtube.com/watch?v=QkvdxS4d0yY
+2018-09-11T18:20:03-04:00	Elon Musk | Philosophy Tube - YouTube https://www.youtube.com/watch?v=5gnlhmaM-dM
+2018-09-11T18:42:22-04:00	A Critique of Stephen Hicks' "Explaining Postmodernism" - YouTube https://www.youtube.com/watch?v=EHtvTGaPzF4
+2018-09-13T10:20:41-04:00	The Philosophy of Antifa | Philosophy Tube - YouTube https://www.youtube.com/watch?v=bgwS_FMZ3nQ
+2018-09-13T10:26:44-04:00	Since homing pigeons are extinct, I guess we will need to distribute our SSB micro flash cards via trained falcon.
+2018-09-13T10:30:33-04:00	Band name of the day: conspiracy to riot
+2018-09-13T11:03:27-04:00	David Bunch's Prophetic Dystopia | by Jeff VanderMeer | NYR Daily | The New York Review of Books https://www.nybooks.com/daily/2018/09/12/david-bunchs-prophetic-dystopia/
+2018-09-13T11:19:30-04:00	Band name of the day: domestication syndrome
+2018-09-13T11:34:30-04:00	Cicada 3301: An Internet Mystery - YouTube https://www.youtube.com/watch?v=I2O7blSSzpI
+2018-09-13T15:20:04-04:00	Peer-to https://peer-to.peer-to-peer-web.com/
+2018-09-14T08:28:55-04:00	VCR Board Games: Only One Way This Will End https://tedium.co/2018/09/13/vcr-board-games-history/
+2018-09-14T10:00:33-04:00	Splain it to Me | Status 451 https://status451.com/2016/01/06/splain-it-to-me/
+2018-09-14T10:15:03-04:00	The Wild, Baffling, and Sometimes Terrifying History of Crypto-Anarchy https://breakermag.com/the-wild-baffling-and-sometimes-terrifying-history-of-crypto-anarchy/
+2018-09-14T10:27:27-04:00	TFW you're trying to balance your desire to recommend a long list of books on some subject with your distaste for the concept of a canon, and then realize that it's probably OK because you don't have enough power to impact what people actually read
+2018-09-14T11:54:36-04:00	The (De-)Evolution of Tsundere - YouTube https://www.youtube.com/watch?v=bIN1CS0Ixwo
+2018-09-14T12:01:43-04:00	When Will Security Go Back to Normal? | Philosophy Tube - YouTube https://www.youtube.com/watch?v=yyzd_a6vLWY
+2018-09-14T12:21:55-04:00	LGR Tech Tales - The First Robot Ever Arrested: DC-2 - YouTube https://www.youtube.com/watch?v=UdjzmmcJgDM
+2018-09-14T12:29:05-04:00	Band name of the day: radical pro-crime agenda
+2018-09-14T12:30:25-04:00	Should People in Prison have a Right to Vote? | Philosophy Tube - YouTube https://www.youtube.com/watch?v=EXXZucuS7s4
+2018-09-14T18:35:34-04:00	Let's bring back the Sabbath as a radical act against ‘total work’ | Aeon Ideas https://aeon.co/ideas/lets-bring-back-the-sabbath-as-a-radical-act-against-total-work
+2018-09-14T19:36:33-04:00	Under the Influence: Joachim Trier on DON’T LOOK NOW - YouTube https://www.youtube.com/watch?v=ASj2ZCezQi8
+2018-09-14T20:55:31-04:00	Marx Part 1: Labour &amp; Class Conflict | Philosophy Tube - YouTube https://www.youtube.com/watch?v=CWF_0lkBhjY&list=PLvoAL-KSZ32f2WAqejJdLM2ByZWKpREt8
+2018-09-15T08:59:19-04:00	Aquarius Rising | by Jackson Lears | The New York Review of Books https://www.nybooks.com/articles/2018/09/27/1968-aquarius-rising/
+2018-09-15T09:24:52-04:00	Bad idea of the day: Current prisoners have mandatory voting while non-prisoners (including ex-prisoners) have the option to vote
+2018-09-15T10:08:56-04:00	Band name of the day: counterfeit infinity
+2018-09-15T10:09:34-04:00	Band name of the day: the diseased
+2018-09-16T12:40:47-04:00	Advertising is obsolete " here's why it's time to end it https://theconversation.com/advertising-is-obsolete-heres-why-its-time-to-end-it-101639
+2018-09-17T08:31:45-04:00	Band name of the day: the banana nightcap
+2018-09-17T08:57:41-04:00	An empirical analysis of anonymity in Zcash | the morning paper https://blog.acolyer.org/2018/09/14/an-empirical-analysis-of-anonymity-in-zcash/
+2018-09-17T10:40:36-04:00	The Tyranny of Personality Testing | The New Republic https://newrepublic.com/article/151098/personality-brokers-book-review-invention-myers-briggs-type-indicator
+2018-09-17T11:14:38-04:00	Piet Mondrian | Generative Artistry https://generativeartistry.com/tutorials/piet-mondrian/
+2018-09-17T11:15:37-04:00	Proposal for a book to be adapted into a movie starring Dwayne The Rock Johnson https://www.robinsloan.com/proposal-for-a-book/
+2018-09-17T13:25:09-04:00	Hot take: the profit motive is incompatible with goals of social equity simply because those who can afford to pay for their services will always be privileged by a profit-motivated organization
+2018-09-17T13:32:42-04:00	Band name of the day: a study in confusion and misery
+2018-09-17T13:35:36-04:00	Insufficiently known POSIX shell features - apenwarr https://apenwarr.ca/log/20110228
+2018-09-17T13:38:56-04:00	Bad idea of the day: univocalipogram.social
+2018-09-17T14:16:42-04:00	Pet peeve: folks who identify the neoliberal techno-utopian california-ideology currents with cyberpunk. To the extent that the cyberpunk literary movement had consistent politics, they were critical of Regan-flavored capitalism.
+2018-09-17T15:13:00-04:00	Hot take: a thick skin is a really useful skill to develop, but having it isn't really correlated with other useful skills, so we shouldn't use it as a proxy for who gets to contribute to things.
+2018-09-17T16:18:12-04:00	ZigZag: the BZZ project declares victory, 2010 - YouTube https://www.youtube.com/watch?v=EUN2DUc5hnk
+2018-09-17T17:48:36-04:00	Band name of the day: FLESHCAKE
+2018-09-18T08:02:11-04:00	I'm ambivalent about CloudFlare doing the IPFS gateways, but a lot of IPFS nodes are already running on AWS so I guess the ship has sailed on avoiding corporate data center creep in our p2p systems.
+2018-09-18T08:33:50-04:00	iridakos - Creating a bash completion script https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial
+2018-09-18T08:38:30-04:00	The TTY demystified http://www.linusakesson.net/programming/tty/index.php
+2018-09-18T09:41:55-04:00	The Rise and Demise of RSS https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html
+2018-09-18T09:59:54-04:00	Why You Should Buy Into the Emacs Platform https://two-wrongs.com/why-you-should-buy-into-the-emacs-platform
+2018-09-18T10:10:16-04:00	Newton Storage History | Dadhacker http://www.dadhacker.com/blog/?p=948
+2018-09-18T10:38:04-04:00	The global economy: gamblers betting on the effectiveness of bad assumptions made based on wide but shallow surveillance in influencing the distribution of ads that don't work for products that nobody wants and nobody can afford to people who are using adblock.
+2018-09-18T10:45:14-04:00	Whatever Happened to the Semantic Web? https://twobithistory.org/2018/05/27/semantic-web.html
+2018-09-18T10:46:43-04:00	How To Kill Your Tech Industry https://logicmag.io/05-how-to-kill-your-tech-industry/
+2018-09-18T10:55:03-04:00	If you mixed human ashes into concrete (say, to make a cornerstone for a building) would the concrete still set properly? How much corpse-ash would you need to add before it started to compromise structural integrity?
+2018-09-18T11:23:39-04:00	Media Piracy and Unpronounceable Names - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/09/media-piracy-and-unpronounceab.html
+2018-09-18T11:44:55-04:00	On The Road To Chaos In East Berlin (published MONDO 2000 1991) - Mondo 2000 http://www.mondo2000.com/2018/09/17/on-the-road-to-chaos-in-east-berlin-published-mondo-2000-1991/
+2018-09-19T07:39:40-04:00	Horror is a dark and piercing reflection of our anxious times | Aeon Essays https://aeon.co/essays/horror-is-a-dark-and-piercing-reflection-of-our-anxious-times
+2018-09-19T09:06:48-04:00	Unix is not an acceptable Unix | Affording Play http://mkremins.github.io/blog/unix-not-acceptable-unix/
+2018-09-19T09:12:30-04:00	Why Bob Vila Left "This Old House" https://tedium.co/2018/09/18/bob-vila-this-old-house-departure/
+2018-09-19T10:03:54-04:00	Ghost in a Box: The Haunting History of Television Broadcast Intrusions - The Daily Grail https://www.dailygrail.com/2017/11/ghost-in-a-box-the-haunting-history-of-television-broadcast-intrusions/
+2018-09-19T14:07:56-04:00	A Symposium on The Point of Art - Believer Magazine https://believermag.com/the-point-of-art/
+2018-09-19T14:27:40-04:00	Tell Me It’s Going to be OK | Miya Tokumitsu https://thebaffler.com/salvos/tell-me-its-going-to-be-ok-tokumitsu
+2018-09-20T10:49:42-04:00	The Harriet Tubman $20 Stamp https://kottke.org/18/09/the-harriet-tubman-20-stamp
+2018-09-20T10:55:40-04:00	Constraint Solver https://www.mattkeeter.com/projects/constraints/
+2018-09-20T11:56:00-04:00	David Patterson Says It’s Time for New Computer Architectures and Software Languages - IEEE Spectrum https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages
+2018-09-20T11:57:34-04:00	Canon Cat Emulation : Jef Raskin : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/canoncat
+2018-09-20T11:59:14-04:00	On Generative Algorithms&#58; Introduction &middot; inconvergent https://inconvergent.net/generative/
+2018-09-20T12:25:36-04:00	Band name of the day: the abyssal zone
+2018-09-20T12:31:58-04:00	Nitpicker / The Humane Interface http://nitpicker.pbworks.com/w/page/12451253/The%20Humane%20Interface
+2018-09-20T13:14:05-04:00	The Joe Rogan Experience Is a Safe Space to Launder Bad Ideas - Motherboard https://motherboard.vice.com/en_us/article/9kv9qd/the-joe-rogan-experience-is-a-safe-space-to-launder-bad-ideas
+2018-09-20T15:10:03-04:00	bootstrapping https://bootstrapping.miraheze.org/wiki/Main_Page
+2018-09-20T16:30:30-04:00	DSHR's Blog: It Isn't About The Technology https://blog.dshr.org/2018/01/it-isnt-about-technology.html
+2018-09-20T17:46:31-04:00	Band name of the day: assault on society
+2018-09-20T23:08:38-04:00	Band name of the day: rebound tenderness
+2018-09-21T11:06:34-04:00	Despite a really crappy title, this is a good article: https://medium.com/s/story/were-primed-to-be-addicted-to-social-media-b6b31cfc4099
+2018-09-21T11:27:41-04:00	In the grim dark future of 2020, nobody goes outside without first applying temporary tattoos of additional eyes to their face. Positioning of these additional eyes must be rotated every few hours for security purposes.
+2018-09-21T12:21:23-04:00	exocortex-halo/paywall_breaker at master · virtadpt/exocortex-halo · GitHub https://github.com/virtadpt/exocortex-halo/tree/master/paywall_breaker
+2018-09-21T12:49:05-04:00	Ep. 20: Yasha Levine on Right-Wing Dark Money &amp; the Electronic Frontier Foundation https://parallaxviews.podbean.com/e/ep-20-yasha-levine-on-right-wing-dark-money-the-electronic-frontier-foundation/
+2018-09-21T13:27:53-04:00	Error 406 - Not Acceptable http://www.iedu.com/Solar/Panels/index.html
+2018-09-21T15:23:45-04:00	Anime SHOULD BE(and is) POLITICAL - YouTube https://www.youtube.com/watch?v=sDQkf-0ke9o
+2018-09-22T09:57:24-04:00	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Paradox - YouTube https://www.youtube.com/watch?v=jlkt5Q9a9Ek
+2018-09-22T12:24:41-04:00	Band name of the day: a creeping naturalism
+2018-09-22T14:02:33-04:00	GitHub - mewo2/elovitz: Rule-based pronunciation for English https://github.com/mewo2/elovitz
+2018-09-22T14:58:54-04:00	How to Suffer Well: Sympathetic Characterization in Madoka and Magical Girl Site - YouTube https://www.youtube.com/watch?v=6kmaba2TopE
+2018-09-23T12:44:14-04:00	GUIdebook &gt; Articles &gt; &ldquo;Inventing the Lisa User Interface&rdquo; https://guidebookgallery.org/articles/inventingthelisauserinterface
+2018-09-24T07:47:32-04:00	Concurrent and Distributed Programming in Web Prolog https://bluishcoder.co.nz/2018/09/24/concurrent-and-distributed-programming-in-web-prolog.html
+2018-09-24T08:05:54-04:00	OLIVE: a system for emulating old OSes on old processors that saves old data from extinction / Boing Boing https://boingboing.net/2018/09/22/preserving-digital-heritage.html
+2018-09-24T09:01:04-04:00	Can somebody with access to SciAm or Nature summarize the substance of this SciAm article 'Subliminal Messages Can Cause Forgetting' for me? Is it just something stupid like 'priming can interfere with reencoding via jamais-vu'?
+2018-09-24T09:19:20-04:00	Do my Homework - Charlie's Diary http://www.antipope.org/charlie/blog-static/2018/09/do-my-homework.html
+2018-09-24T09:22:51-04:00	Robert Venturi and Learning From Las Vegas: his legacy. https://slate.com/business/2018/09/robert-venturi-architect-las-vegas-lessons-obituary.html
+2018-09-24T09:44:59-04:00	Does philosophy still need mathematics and vice versa? | Aeon Essays https://aeon.co/essays/does-philosophy-still-need-mathematics-and-vice-versa
+2018-09-24T09:50:25-04:00	Hot take: disambiguation in symbolic AI is probably a mistake, & we'd be better off with systems that pun uncontrollably because they operate on the locus of concepts rather than on their boundaries. You know, like a person.
+2018-09-24T09:52:08-04:00	Making bad puns and then learning hidden truths by taking them too seriously is, basically, the most human form of human intelligence. That's why we make fun of people for doing it. Dad jokes are the foundation of cognition.
+2018-09-24T10:57:05-04:00	Band name of the day: extremely normal website
+2018-09-24T10:57:55-04:00	The Deliberate Awfulness of Social Media | The New Yorker https://www.newyorker.com/books/under-review/the-deliberate-awfulness-of-social-media
+2018-09-24T11:47:17-04:00	Gutenberg:The History and Philosophy of Project Gutenberg by Michael Hart - Gutenberg https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart
+2018-09-24T11:54:08-04:00	Dodo Thoughts https://www.ribbonfarm.com/2018/09/20/dodo-thoughts/
+2018-09-24T12:02:20-04:00	The Scent of Bad Psychology &#8211; Put A Number On It! https://putanumonit.com/2018/09/07/the-scent-of-bad-psychology/
+2018-09-24T12:58:01-04:00	A Response to Yuval Harari's 'Sapiens: A Brief History of Humankind' > C. R. Hallpike https://www.newenglishreview.org/custpage.cfm?sec_id=189085
+2018-09-24T13:24:06-04:00	Think Entangled, Act Spooky https://www.ribbonfarm.com/2018/09/11/think-entangled-act-spooky/
+2018-09-24T13:42:20-04:00	Why does keeping a bird in a cage make people happy? | Aeon Essays https://aeon.co/essays/why-does-keeping-a-bird-in-a-cage-make-people-happy
+2018-09-24T14:01:12-04:00	Why the high-tech ideas of ‘Bucky’ Fuller are back in vogue | Aeon Essays https://aeon.co/essays/why-the-high-tech-ideas-of-bucky-fuller-are-back-in-vogue
+2018-09-24T16:22:57-04:00	PARALLEL HISTORY!  (A text in Japanese.) - YouTube https://www.youtube.com/watch?v=FDD3amMV25g
+2018-09-24T16:27:53-04:00	Neoliberalism, World Music and Corporate Aesthetics - YouTube https://www.youtube.com/watch?v=_sCRcfYRslg
+2018-09-24T19:18:13-04:00	Moderan reads like if dril was a battle-cyborg & tried to write his autobiography but kept on getting distracted by how COOL it is to PLASTIC-WRAP THE EARTH.
+2018-09-25T09:23:42-04:00	Quotes http://worrydream.com/quotes/
+2018-09-25T11:52:18-04:00	The Great Mortality " Real Life http://reallifemag.com/the-great-mortality/
+2018-09-25T13:13:43-04:00	Computers can solve your problem. You may not like the answer. - The Boston Globe https://apps.bostonglobe.com/ideas/graphics/2018/09/equity-machine/
+2018-09-26T08:15:01-04:00	With his new all-red-meat diet, Jordan Peterson can no longer consume the flesh of the lobster and thus, by showing his dominance over it, gain its immortality.
+2018-09-26T08:17:37-04:00	Hot take: only buy video games made by personal friends.
+2018-09-26T08:29:57-04:00	Band name of the day: london after midnight
+2018-09-26T08:37:04-04:00	They used Saint Pepsi as hold music, not Macintosh Plus. No one noticed.
+2018-09-26T08:37:47-04:00	Band name of the day: dead instrument
+2018-09-26T08:40:57-04:00	Band name of the day: the deadly silences
+2018-09-26T08:51:38-04:00	Band name of the day: pure duration
+2018-09-26T09:21:29-04:00	LOW&larr;TECH MAGAZINE https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+2018-09-26T09:24:45-04:00	TextWorld (Inform 7 &amp; machine learning) | Emily Short's Interactive Storytelling https://emshort.blog/2018/09/25/textworld-inform-7-machine-learning/
+2018-09-26T09:25:57-04:00	OPENSTEP Installation Guide http://openstep.bfx.re/
+2018-09-26T09:45:21-04:00	The Problem With APLs • Hillel Wayne https://www.hillelwayne.com/post/the-problem-with-apls/
+2018-09-26T09:58:25-04:00	Why targeted Facebook ads are so weirdly personal - Vox https://www.vox.com/the-goods/2018/9/25/17887796/facebook-ad-targeted-algorithm
+2018-09-26T10:20:55-04:00	The design and implementation of modern column-oriented database systems | the morning paper https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/
+2018-09-26T13:32:19-04:00	miniKanren: an interactive Tutorial http://io.livecode.ch/learn/webyrd/webmk
+2018-09-26T13:34:21-04:00	Announcing Hyperswarm https://pfrazee.hashbase.io/blog/hyperswarm
+2018-09-26T13:44:43-04:00	Common Cyborg | Jillian Weise | Granta  https://granta.com/common-cyborg/
+2018-09-26T14:46:19-04:00	Band name of the day: the lean and athirst
+2018-09-26T14:52:33-04:00	Band name of the day: the bottom of creation
+2018-09-26T14:53:50-04:00	Maybe the difficulty in describing the hounds of tindalos is that all those sharp angles prevent them from being... differentiated. *badum-tish*
+2018-09-26T15:20:05-04:00	Band name of the day: the monstrous burst
+2018-09-26T15:33:35-04:00	Band name of the day: rivers of pitch
+2018-09-27T07:56:04-04:00	Censorship Project + A Brief History of Book Burning &#8211; Ex Urbe https://www.exurbe.com/censorship-project-a-brief-history-of-book-burning/
+2018-09-27T08:01:53-04:00	Slow movement (culture) - Wikipedia https://en.wikipedia.org/wiki/Slow_movement_(culture)
+2018-09-27T11:22:45-04:00	Same Difference " Real Life http://reallifemag.com/same-difference/
+2018-09-27T11:40:11-04:00	Which Side Are They On? | David A. Banks https://thebaffler.com/latest/which-side-are-they-on-banks
+2018-09-27T11:43:05-04:00	The Socialist YouTuber Using Cities: Skylines To Explain Politics https://kotaku.com/the-socialist-youtuber-using-cities-skylines-to-explai-1829245653
+2018-09-27T11:58:40-04:00	TempleOS: an educational tool for programming experiments - TechRepublic https://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/
+2018-09-27T11:59:09-04:00	Recreational Programming With LoseThos http://www.osnews.com/story/23796/Recreational_Programming_With_LoseThos
+2018-09-27T11:59:51-04:00	GitHub - minexew/Shrine: A TempleOS distro for heretics https://github.com/minexew/Shrine
+2018-09-27T12:02:46-04:00	Readme Driven Development http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+2018-09-27T12:04:46-04:00	Band name of the day: xtreme witchcraft
+2018-09-27T12:05:52-04:00	Instagram’s in love with bare-faced brutalism " and so am I | Steve Rose | Opinion | The Guardian https://www.theguardian.com/commentisfree/2018/sep/25/instagram-love-brutalist-stark-architecture
+2018-09-27T12:06:23-04:00	Toward a Critical Technical Practice  https://web.archive.org/web/20051221192206/http://polaris.gseis.ucla.edu/pagre/critical.html
+2018-09-27T12:07:00-04:00	Regarding Theory as Technology - Cyborgology https://thesocietypages.org/cyborgology/2018/09/17/regarding-theory-as-technology/
+2018-09-27T12:08:13-04:00	Band name of the day: imported blood products
+2018-09-27T12:08:40-04:00	My career as an international blood smuggler | Society | The Guardian https://www.theguardian.com/society/2018/sep/27/my-career-as-an-international-blood-smuggler
+2018-09-27T12:09:57-04:00	How to tell the difference between persuasion and manipulation | Aeon Ideas https://aeon.co/ideas/how-to-tell-the-difference-between-persuasion-and-manipulation
+2018-09-27T12:30:23-04:00	Dave Rubin and the rise of YouTube’s reactionary right - Vox https://www.vox.com/policy-and-politics/2018/9/24/17883330/dave-rubin-ben-shapiro-youtube-reactionary-right-peterson
+2018-09-28T09:46:14-04:00	Meet the Community Keeping Obsolete Supercomputers Alive   - Motherboard https://motherboard.vice.com/en_us/article/qvajn7/meet-the-community-keeping-obsolete-supercomputers-alive
+2018-09-28T11:04:47-04:00	Dril’s book of tweets shows he’s the best chronicler of the internet - The Verge https://www.theverge.com/2018/9/27/17907568/dril-book-official-mr-ten-years-anniversary-collection-review-tweets-twitter
+2018-09-28T13:31:05-04:00	Software disenchantment @ tonsky.me http://tonsky.me/blog/disenchantment/
+2018-09-28T14:34:16-04:00	RE: Software disenchantment - Rakhim.org https://rakhim.org/2018/09/re-software-disenchantment/
+2018-10-01T10:08:44-04:00	Band name of the day: the uncorrelated targets
+2018-10-01T11:28:46-04:00	Colour Clash: The Engineering Miracle of the Sinclair ZX Spectrum - Paleotronic Magazine https://paleotronic.com/2018/09/29/loading-ready-run-sinclair-edition-the-zx-spectrum/
+2018-10-01T11:42:24-04:00	Scale Modeling History: After the Postwar Boom in Tiny Designs https://tedium.co/2018/09/27/scale-model-hobby-history/
+2018-10-01T15:06:25-04:00	A Short History of Chaosnet https://twobithistory.org/2018/09/30/chaosnet.html
+2018-10-01T15:16:39-04:00	start [Chaosnet wiki] https://aosnet.ch/
+2018-10-01T15:19:16-04:00	Building the Universal Archive of Source Code | October 2018 | Communications of the ACM https://cacm.acm.org/magazines/2018/10/231366-building-the-universal-archive-of-source-code/fulltext
+2018-10-02T07:42:34-04:00	Letting neural networks be weird &bull; Imaginary worlds dreamed by BigGAN http://aiweirdness.com/post/178619746932/imaginary-worlds-dreamed-by-biggan
+2018-10-02T09:12:05-04:00	BadCode.rocks https://badcode.rocks/
+2018-10-02T10:35:01-04:00	How the English Failed to Stamp Out the Scots Language - Atlas Obscura https://www.atlasobscura.com/articles/scots-language
+2018-10-02T10:46:32-04:00	Band name of the day: moth drinking tears of a sleeping bird
+2018-10-02T10:57:35-04:00	Psychologists Shouldn't Cite That Famous Hungry Judge Study http://nautil.us/blog/impossibly-hungry-judges
+2018-10-02T11:15:02-04:00	on terminal control http://xn--rpa.cc/essays/term
+2018-10-02T12:28:24-04:00	Bad idea of the day: surreal and disturbing powerpoint presentations as public performance art
+2018-10-02T12:50:01-04:00	This recipe for 3-ingredient carnitas makes taco night easy https://thetakeout.com/recipe-3-ingredient-carnitas-1828956318
+2018-10-02T13:39:39-04:00	Can an AI Write a Novel? - The Atlantic  https://www.theatlantic.com/technology/archive/2018/10/automated-on-the-road/571345/
+2018-10-02T13:48:13-04:00	Inform: Past, Present, Future http://www.emshort.com/ifmu/inform.html
+2018-10-02T14:50:09-04:00	Bad idea of the day: inform7 repl as command shell
+2018-10-02T14:55:21-04:00	Band name of the day: aggressively punctuated
+2018-10-02T17:51:39-04:00	Botnik feat. The Strokes - I Don't Want To Be There - YouTube https://www.youtube.com/watch?v=07dUOrktTQ4
+2018-10-03T11:18:30-04:00	Band name of the day: spiritual insulation from the Outer Monstrosities
+2018-10-03T13:00:58-04:00	Band name of the day: iconic meat factory
+2018-10-03T13:07:03-04:00	Bad idea of the day: a machine that uses oscillators to manufacture high-quality sand
+2018-10-03T13:35:31-04:00	No Cash Needed At This Cafe. Students Pay The Tab With Their Personal Data : The Salt : NPR https://www.npr.org/sections/thesalt/2018/09/29/643386327/no-cash-needed-at-this-cafe-students-pay-the-tab-with-their-personal-data
+2018-10-03T13:49:56-04:00	In the grim dark future of 2019, the president forwards all his tweets through the Wireless Emergency Alert System. While some have moved to small communes surrounded by mountains, increasingly journalists have been puncturing their eardrums with sharp objects.
+2018-10-03T14:02:48-04:00	Google 20th Anniversary: How Information Changed Forever https://tedium.co/2018/10/02/google-20th-anniversary-culture-importance/
+2018-10-03T14:13:37-04:00	Inspired by 'They Live,' these glasses block screens / Boing Boing https://boingboing.net/2018/10/03/inspired-by-they-live-the.html
+2018-10-03T14:19:48-04:00	You guys think the halloween store across the street will have metal teeth?
+2018-10-03T14:54:51-04:00	Crispin&#8217;s Model  |  Tor.com https://www.tor.com/2017/10/04/crispins-model/
+2018-10-03T15:19:55-04:00	GitHub - aparrish/seaduck: A bare-bones simulation-driven narrative framework https://github.com/aparrish/seaduck
+2018-10-03T15:44:39-04:00	Band name of the day: penumbras of emanation
+2018-10-04T08:49:33-04:00	If imports from China suddenly dropped substantially (say, due to tariffs), would enough manufacturing business go back to S. Korea & Japan to affect Japan's almost-30-year economic stagnation?
+2018-10-04T08:51:05-04:00	Band name of the day: kill ziggy
+2018-10-04T09:18:42-04:00	The interesting ideas in Datasette https://simonwillison.net/2018/Oct/4/datasette-ideas/
+2018-10-04T09:33:58-04:00	Bad idea of the day: a wikipedia project for creating and improving articles that are uniquely relevant to countries that qualified for internet.org
+2018-10-04T09:37:55-04:00	On free will: Daniel Dennett and Gregg Caruso go head to head | Aeon Essays https://aeon.co/essays/on-free-will-daniel-dennett-and-gregg-caruso-go-head-to-head
+2018-10-04T09:49:36-04:00	Band name of the day: unmasked attacks
+2018-10-04T10:10:53-04:00	The Movie Assassin &#8211; Popula https://popula.com/2018/09/30/sarahs-magnum-opus/
+2018-10-04T11:16:31-04:00	Band name of the day: the perfection of the hideous
+2018-10-04T11:34:52-04:00	Band name of the day: the bloom of outer darkness
+2018-10-04T12:18:50-04:00	Pet peeve: on my work computer, 80% of my lobste.rs comments double-post because of some kind of missing deduplication logic. Then, I have to periodically go through all my threads to delete the duplicates. Sometimes one copy of the post will have 2 upvotes & the other 3.
+2018-10-04T13:05:02-04:00	Bad idea of the day: A book called Acknowledgements that's just a book-length acknowledgements section thanking people for contributing to the book, House-That-Jack-Built-style
+2018-10-04T14:49:12-04:00	Sans Forgetica http://sansforgetica.rmit/
+2018-10-04T14:56:27-04:00	Band name of the day: everlasting faint
+2018-10-05T07:42:08-04:00	Kinda okay generated text https://blog.ftql.pw/posts/random-text/
+2018-10-05T09:55:31-04:00	James Stanley - Someone used my IPFS gateway for phishing https://incoherency.co.uk/blog/stories/hardbin-phishing.html
+2018-10-05T09:55:52-04:00	The Automation Charade https://logicmag.io/05-the-automation-charade/
+2018-10-05T10:56:00-04:00	Imagine if Mondo 2000 got the Fangoria treatment: instead of occasional issues, four times a year you get a fuckin' BOOK and it's super fancy so people are willing to pay 5/issue & more at newsstand.
+2018-10-05T11:37:00-04:00	Band name of the day: except at occasional intervals
+2018-10-05T11:43:21-04:00	QOTD: 'For Lovecraft, if all horror can be explained by natural law, then the obvious inference is that natural law is horrific.'
+2018-10-05T13:02:07-04:00	The Importance of Simple Ideas - Cyborgology https://thesocietypages.org/cyborgology/2018/09/03/the-importance-of-simple-ideas/
+2018-10-05T13:09:10-04:00	The Gilded Age of (Unpaid) Internet&nbsp;Writing  https://longreads.com/2018/10/02/webzines-90s-online-media/
+2018-10-05T14:08:50-04:00	Periodic reminder that Apple is a predatory rent-seeking company that hasn't done anything innovative since 1980: https://motherboard.vice.com/en_us/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair
+2018-10-05T14:14:45-04:00	So, the GCHQ has released a statement backing up Amazon & Apple's denials. What do you bet the implant is 5eyes tech and not chinese at all? https://www.reuters.com/article/us-china-cyber-britain/uk-cyber-security-agency-backs-apple-amazon-china-hack-denials-idUSKCN1MF1DN
+2018-10-05T15:08:50-04:00	Juggalos figured out how to beat facial recognition | The Outline https://theoutline.com/post/5172/juggalo-juggalette-facepaint-makeup-hack-beat-facial-recognition-technology
+2018-10-05T15:44:53-04:00	Things I won't miss about twitter #72956298: keyword bots that reply to any international-relations-related links with advertisements for Alex Jones
+2018-10-05T17:26:59-04:00	If Vento Aureo doesn't make at least a handful of references to Don't Look Now, I'll be shocked, SHOCKED I tell you
+2018-10-06T13:23:15-04:00	Sam Raimi - How Does Horror Comedy Work? (video essay) - YouTube https://www.youtube.com/watch?v=QwcjToDEsUY
+2018-10-07T18:31:28-04:00	Discovery Writing and the so-called Forster Quote | rjheeks https://rjheeks.wordpress.com/2011/04/13/discovery-writing-and-the-so-called-forster-quote/
+2018-10-07T19:51:19-04:00	How the Wachowskis Construct Revolution - YouTube https://www.youtube.com/watch?v=6_nRImrK5h0
+2018-10-08T07:21:00-04:00	Elites like Amazon’s Jeff Bezos think they’re being philanthropic. But they could do so much more. - Recode https://www.recode.net/2018/10/3/17930990/anand-giridharadas-winners-take-all-book-changing-world-kara-swisher-decode-podcast-jeff-bezos
+2018-10-08T07:38:58-04:00	Engine Problems vs Crime Scene Problems: https://www.jwz.org/blog/2018/10/engine-problems-versus-crime-scene-problems/
+2018-10-08T07:40:03-04:00	How Does an Intel Processor Boot? | Binary Debt https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/
+2018-10-08T07:42:58-04:00	Twin Peaks: Fire Walk With Me Is David Lynch's Battlecry https://www.esquire.com/entertainment/movies/a23614696/fire-walk-with-me-david-lynch-review/
+2018-10-08T07:44:08-04:00	So, mixing corpse ash into concrete probably isn't practical but is it any more practical than eating it?
+2018-10-08T07:45:07-04:00	Band name of the day: a festival of rats
+2018-10-08T07:45:27-04:00	Bram Stoker's Dracula Is More Than Gothic Horror. It's a Love Letter to Moviemaking. https://www.esquire.com/entertainment/movies/a23570109/bram-stokers-dracula-review-francis-ford-coppolla/
+2018-10-08T08:41:00-04:00	Band name of the day: deeper dimensions of the profane
+2018-10-08T08:47:21-04:00	Orion Magazine | Four Questions for the Author: Timothy Morton, Being Ecological https://orionmagazine.org/2018/09/four-questions-for-the-author-timothy-morton-being-ecological/
+2018-10-08T08:51:26-04:00	Halloween III Silver Shamrock Commercial - YouTube https://www.youtube.com/watch?v=W7-uC0LDllM
+2018-10-08T09:34:29-04:00	The Political Cost of the Chinese Hardware Hack - The Atlantic  https://www.theatlantic.com/technology/archive/2018/10/political-cost-chinese-hardware-hack/572383/
+2018-10-08T09:55:50-04:00	Waging peace is much more than ending war | Aeon Essays https://aeon.co/essays/waging-peace-is-much-more-than-ending-war
+2018-10-08T09:59:03-04:00	How Eric Hobsbawm helped shape the global Marxist imagination | Aeon Essays https://aeon.co/essays/how-eric-hobsbawm-helped-shape-the-global-marxist-imagination
+2018-10-08T10:03:02-04:00	Band name of the day: stage meat
+2018-10-08T10:36:03-04:00	Cody Wilson was Defense Distributed"so who is the organization’s new leader? | Ars Technica https://arstechnica.com/tech-policy/2018/10/how-and-why-a-london-poet-who-never-shot-a-gun-came-to-lead-defense-distributed/
+2018-10-08T10:37:57-04:00	Debunking "OSINT Analysis of the TOR Foundation" and a few words about Tor's directory authorities https://dustri.org/b/debunking-osint-analysis-of-the-tor-foundation-and-a-few-words-about-tors-directory-authorities.html
+2018-10-08T10:49:37-04:00	My journey into fractals " Gregory Ivanov " Medium https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2
+2018-10-08T10:51:53-04:00	The Internet’s keepers? “Some call us hoarders"I like to say we’re archivists” | Ars Technica https://arstechnica.com/gaming/2018/10/the-internets-keepers-some-call-us-hoarders-i-like-to-say-were-archivists/
+2018-10-08T11:03:34-04:00	Band name of the day: terrestrial radio ducks
+2018-10-08T11:06:29-04:00	Recipe for periodic royalty boosts if you're a hack: 1) create a song about a particular time of year -- preferably a particular date that is not a holiday; 2) create a song about a very specific combination of very common feelings
+2018-10-08T11:30:27-04:00	Starting January 28, 2005  http://danbricklin.com/log/2005_01_28.htm#guiltlessness
