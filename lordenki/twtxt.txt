@@ -3827,3 +3827,69 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-08T11:03:34-04:00	Band name of the day: terrestrial radio ducks
 2018-10-08T11:06:29-04:00	Recipe for periodic royalty boosts if you're a hack: 1) create a song about a particular time of year -- preferably a particular date that is not a holiday; 2) create a song about a very specific combination of very common feelings
 2018-10-08T11:30:27-04:00	Starting January 28, 2005  http://danbricklin.com/log/2005_01_28.htm#guiltlessness
+2018-10-08T12:02:22-04:00	Bad idea of the day: a robot that spills or dribbles paint onto canvas until the image is recognized as an object, then names the painting after that object.
+2018-10-08T12:05:21-04:00	Band name of the day: fifteen foot sinus
+2018-10-08T14:37:04-04:00	Band name of the day: tracks from the coast of hell
+2018-10-09T10:05:16-04:00	You'd think that somebody writing for NME would know that 'Daddy's Car' isn't the first AI-written song. (Even if the earliest example they can think of is from Songsmith & they don't recognize that Bach was doing generative music.)
+2018-10-09T10:07:25-04:00	Programming as interaction: A new perspective for programming language research - Tomas Petricek http://tomasp.net/blog/2018/programming-interaction/
+2018-10-09T10:10:06-04:00	Do people sell Superman t-shirts with the integral symbol in the place of the S?
+2018-10-09T11:32:10-04:00	Apparently hot take: automation tools don't obviate abstract discussions about how best to think about decisions (like 'should translations be precise or should they be accurate' or 'what is the good') but make them more important.
+2018-10-09T14:54:07-04:00	Hey what's the likelyhood that the world we live in now is a punishment from the Basilisk?
+2018-10-09T15:00:49-04:00	Band name of the day: the pyrotechnics of a new autumn
+2018-10-09T15:55:13-04:00	GitHub - mit-pdos/biscuit: Biscuit research OS https://github.com/mit-pdos/biscuit
+2018-10-09T15:56:15-04:00	Cheezball Rising: Opening a dialogue / fuzzy notepad https://eev.ee/blog/2018/10/09/cheezball-rising-opening-a-dialogue/
+2018-10-09T17:41:15-04:00	Bad idea of the day: a bot that posts random joke punchlines but not the actual joke
+2018-10-10T08:36:45-04:00	Band name of the day: body genres
+2018-10-10T08:38:15-04:00	Band name of the day: lush rot
+2018-10-10T09:14:56-04:00	Sorry, but we can’t fantasize our way out of this mess https://amp.fastcompany.com/90247038/sorry-but-we-cant-fantasize-our-way-out-of-this-mess
+2018-10-10T09:48:48-04:00	Andrew W.K.: Investigating The Mystery Of Steev Mike - Stereogum https://www.stereogum.com/2015589/andrew-wk-steev-mike/franchises/sounding-board/
+2018-10-10T10:58:48-04:00	Mary Shelley's Obsession with the Cemetery | JSTOR Daily https://daily.jstor.org/mary-shelleys-obsession-with-the-cemetery/
+2018-10-10T11:33:16-04:00	You Get What You Give: Why the New Radicals Broke Up https://tedium.co/2018/10/09/new-radicals-gregg-alexander-history/
+2018-10-11T06:29:45-04:00	GitHub - jimkang/random-internet-archive: Gets a random Internet Archive resource, in URL form with some metadata. https://github.com/jimkang/random-internet-archive
+2018-10-11T07:30:32-04:00	Protobuffers Are Wrong :: Reasonably Polymorphic http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html
+2018-10-11T08:44:11-04:00	Announcing a Competition for Ethics in Computer Science, with up to $3.5 Million in Prizes - The Mozilla Blog https://blog.mozilla.org/blog/2018/10/10/announcing-a-competition-for-ethics-in-computer-science-with-up-to-3-5-million-in-prizes/
+2018-10-11T09:27:39-04:00	Band name of the day: we are the asteroid
+2018-10-11T09:28:49-04:00	Supporting Fast Payments for All " and Economic Freedom | MetaFilter https://www.metafilter.com/176954/supporting-fast-payments-for-all-and-economic-freedom
+2018-10-11T10:06:15-04:00	Band name of the day: crepuscular forces
+2018-10-11T11:03:31-04:00	What's a CPU to do when it has nothing to do? [LWN.net] https://lwn.net/SubscriberLink/767630/594421f913c3d00a/
+2018-10-11T12:15:34-04:00	Band name of the day: how to deter bears
+2018-10-11T12:19:39-04:00	Bad idea of the day: a d20 where every face is labeled 1
+2018-10-11T13:37:30-04:00	Seminars on Long-Term Thinking are hit-or-miss (like TED talks) but the latest with Julia Galef is pretty good.
+2018-10-11T14:15:43-04:00	Computers Reading Computers' Writing http://zachwhalen.net/pg/pres/elo18/
+2018-10-11T14:51:59-04:00	Emic Automata &amp; Thematic Automata | maetl https://maetl.net/notes/storyboard/generative-writing-with-cellular-automata
+2018-10-11T14:52:29-04:00	A Python Script that Writes 800-page Children&#8217;s Books &#8211; Zach Whalen http://www.zachwhalen.net/posts/a-python-script-that-writes-800-page-childrens-books/
+2018-10-11T14:55:05-04:00	Preliminary Poetics of Procedural Generation in Games by @ikarth http://www.digra.org/wp-content/uploads/digital-library/DIGRA_2018_paper_166.pdf
+2018-10-11T15:14:40-04:00	Dotted Canonical S-expressions - DCSexps · GitHub https://gist.github.com/rain-1/a253e47b939fc0769524d8716541c96e
+2018-10-11T16:11:25-04:00	prim9 - YouTube https://www.youtube.com/watch?v=B7XoW2qiFUA
+2018-10-11T16:18:34-04:00	Postmodernism is not identity politics - YouTube https://www.youtube.com/watch?v=26fIBA7O5Ag
+2018-10-11T16:35:09-04:00	Halloween III is the best Halloween movie. fite me
+2018-10-11T17:02:25-04:00	"Generating Music From Emotion (and other experiments)" by Hannah Davis - YouTube https://www.youtube.com/watch?v=dpiN2DZxU_4
+2018-10-11T17:22:09-04:00	"Towards Language Support for Distributed Systems" by Heather Miller - YouTube https://www.youtube.com/watch?v=IeBbiQZYmuY
+2018-10-12T07:15:20-04:00	Supermicro boards were so bug ridden, why would hackers ever need implants? | Ars Technica https://arstechnica.com/information-technology/2018/10/supermicro-boards-were-so-bug-ridden-why-would-hackers-ever-need-implants/
+2018-10-12T07:28:06-04:00	Intro to Generative Art - DEV Community '‍''‍' https://dev.to/aspittel/intro-to-generative-art-2hi7
+2018-10-12T07:31:00-04:00	How Does a Film Become Lost? https://tedium.co/2018/10/11/lost-and-found-film-history/
+2018-10-12T08:15:39-04:00	A house is a machine for living in, & a haunted house (after Jackson) is a machine for dreaming in. Hill House is architectural LSD: it reflects psychic energy inward, causing people to haunt themselves.
+2018-10-12T09:13:55-04:00	Bad idea of the day: A video game adaptation of Lethem's Gun With Occasional Music in the style of the Monkey Island series, with a mechanic involving mixing custom blends of forgetol/regretol/etc & replacing people's stashes with them.
+2018-10-12T10:03:43-04:00	Band name of the day: baltic sea anomaly
+2018-10-12T10:09:07-04:00	Hot take: weasel words are not a form of obfuscation but a signal about confidence level. Misrepresenting your level of confidence in a proposition is tantamount to lying.
+2018-10-12T10:31:24-04:00	Scientific Research Into Pair Programming https://tuple.app/pair-programming-guide/scientific-research-into-pair-programming
+2018-10-12T10:39:06-04:00	Bad idea of the day: turn music into text by substituting note frequency with word frequency
+2018-10-12T10:45:47-04:00	The Other Secret Twist: On the Political Philosophy of The Good Place - Los Angeles Review of Books https://lareviewofbooks.org/article/secret-twist-political-philosophy-good-place/
+2018-10-12T11:40:17-04:00	Yossi Appleboum Disagrees with How Bloomberg is Positioning His Research Against Supermicro https://www.servethehome.com/yossi-appleboum-disagrees-bloomberg-is-positioning-his-research-against-supermicro/
+2018-10-12T11:53:47-04:00	Band name of the day: radical doubt
+2018-10-12T12:27:30-04:00	"Running With Scissors: Live Coding With Data" by Stuart Halloway - YouTube https://www.youtube.com/watch?v=Qx0-pViyIDU
+2018-10-12T12:41:29-04:00	Reality TV: Anatomy of a Genre | Video Essay - YouTube https://www.youtube.com/watch?v=LS90rgLsb24
+2018-10-12T14:01:26-04:00	Edward Snowden Reconsidered | by Tamsin Shaw | NYR Daily | The New York Review of Books https://www.nybooks.com/daily/2018/09/13/edward-snowden-reconsidered/
+2018-10-12T14:37:47-04:00	Steve Jobs' strange obsession with Billie Jean during the leadup to the Mac release makes a lot more sense when you remember that at the time he too was denying the paternity of his child.
+2018-10-12T15:03:09-04:00	Has anybody else noticed that xkcd 2029 is actually just the plot of Twister?
+2018-10-12T18:38:17-04:00	If we added up all the time spent in airport security in the past seven years, how many average human lifespans would it be?
+2018-10-12T21:17:21-04:00	"Rosie Pattern Language: Improving on 50-Year Old Regular Expression Technology" by Jamie Jennings - YouTube https://www.youtube.com/watch?v=MkTiYDrb0zg
+2018-10-13T09:38:39-04:00	Digi on every show: "This would only make sense if <describes exactly what already happens in the show> but it doesn't so it sucks"
+2018-10-15T07:31:43-04:00	The firebreaks &mdash; KarlSchroeder.com http://www.kschroeder.com/weblog/archive/2011/10/27/the-firebreaks
+2018-10-15T07:43:43-04:00	Band name of the day: worthless bridge syndrome
+2018-10-15T08:11:02-04:00	Thread by @morganknutson: "Now that Google+ has been shuttered, I should air my dirty laundry on how awful the project and exec team was. I'm still pissed about the ba […]" https://threadreaderapp.com/thread/1049523067506966529.html
+2018-10-15T08:23:07-04:00	Meet Bill Wurtz, the Internet Musical Genius You’ve Never Heard Of - MEL Magazine https://melmagazine.com/en-us/story/meet-bill-wurtz-the-internet-musical-genius-youve-never-heard-of?curator=MusicREDEF
+2018-10-15T08:35:12-04:00	On mana: why we bestow certain objects with unearthly powers | Aeon Essays https://aeon.co/essays/on-mana-why-we-bestow-certain-objects-with-unearthly-powers
+2018-10-15T09:43:15-04:00	Hot take: ambient computing is actually a cool & good idea, as long as no for-profit entities are involved in it. It only becomes horrible when you add business.
+2018-10-15T09:53:05-04:00	Hotter take: 'ambient computing', 'internet of things', and 'ubiquitous computing' all pale in comparison to my favorite goofy term for this tech: 'everyware'
+2018-10-15T10:10:13-04:00	The Real in Weird Realism: Notes on &#8216;The Haunting of Hill House&#8217; &#8211; xenogothic https://xenogothic.com/2018/10/14/the-real-in-weird-realism-notes-on-the-haunting-of-hill-house/
