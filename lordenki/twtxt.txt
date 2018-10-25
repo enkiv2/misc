@@ -3893,3 +3893,135 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-15T09:43:15-04:00	Hot take: ambient computing is actually a cool & good idea, as long as no for-profit entities are involved in it. It only becomes horrible when you add business.
 2018-10-15T09:53:05-04:00	Hotter take: 'ambient computing', 'internet of things', and 'ubiquitous computing' all pale in comparison to my favorite goofy term for this tech: 'everyware'
 2018-10-15T10:10:13-04:00	The Real in Weird Realism: Notes on &#8216;The Haunting of Hill House&#8217; &#8211; xenogothic https://xenogothic.com/2018/10/14/the-real-in-weird-realism-notes-on-the-haunting-of-hill-house/
+2018-10-15T12:04:28-04:00	Bad idea of the day: watching FEWER horror movies in october because you need a break from the rest of the year
+2018-10-15T13:13:09-04:00	Supply-Chain Security - Schneier on Security https://www.schneier.com/blog/archives/2018/05/supply-chain_se.html
+2018-10-15T13:45:57-04:00	Band name of the day: secret infections
+2018-10-15T13:46:35-04:00	Band name of the day: vampire burial
+2018-10-15T14:06:05-04:00	Rethinking AI through the politics of 1968 | openDemocracy https://www.opendemocracy.net/digitaliberties/dan-mcquillan/rethinking-ai-through-politics-of-1968
+2018-10-15T14:51:29-04:00	How Lisp Became God's Own Programming Language https://twobithistory.org/2018/10/14/lisp.html
+2018-10-15T17:01:11-04:00	"Mapping Imaginary Cities" by Mouse Reeve - YouTube https://www.youtube.com/watch?v=Ic_5gRVTQ_k
+2018-10-15T19:13:31-04:00	Maybe I should start doing writing exercises. You know, write a pastiche of an M.R. James story, and then one in Gibson's style, a Stephenson version, a Lovecraft, etc. Fiction is pretty hard.
+2018-10-15T19:17:41-04:00	Bruce Sterling: Speculative architecture (September 26, 2018) - YouTube https://www.youtube.com/watch?v=-p4DV80xrm8
+2018-10-16T09:49:16-04:00	Can algorithms create true art, or do they only imitate? | Aeon Essays https://aeon.co/essays/can-algorithms-create-true-art-or-do-they-only-imitate
+2018-10-16T12:13:43-04:00	Detecting the use of "curl | bash" server side | Application Security https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
+2018-10-16T13:05:38-04:00	Neal Stephenson demonstrated that people will read (and love) infodumps so long as they're funny or fun to read. In other words: infodumps in fiction are fine so long as the author is also an essayist.
+2018-10-16T16:41:50-04:00	"Musical Steganography: Hiding Things in Music" by Scott Fradkin - YouTube https://www.youtube.com/watch?v=gLXqZVHrFa4
+2018-10-16T16:58:58-04:00	"A Box of Chaos: The Generative Artist's Toolkit" by Benjamin Kovach - YouTube https://www.youtube.com/watch?v=kZNTozzsNqk
+2018-10-16T17:02:55-04:00	Band name of the day: angry fruit salad
+2018-10-16T17:33:29-04:00	"Machine learning failures - for art!" by Janelle Shane - YouTube https://www.youtube.com/watch?v=yneJIxOdMX4
+2018-10-16T17:36:09-04:00	Band name of the day: strawberry cream disease
+2018-10-16T17:49:06-04:00	Bad idea of the day: An algorithm that creates textual descriptions of images watches TV, creating a description from each frame, which is then used to generate a new image & the video is resynthesized
+2018-10-17T07:33:42-04:00	Hot take: structural problems don't excuse individual accountability, but instead merely limit the ways in which that individual will can be effectively exercised to group action. No position is so rare that a group cannot form around it.
+2018-10-17T08:05:23-04:00	Ultimate Writer: an Open Digital Typewriter https://alternativebit.fr/posts/ultimate-writer/
+2018-10-17T08:42:39-04:00	What duelling can teach us about taking offence | Aeon Essays https://aeon.co/essays/what-duelling-can-teach-us-about-taking-offence
+2018-10-17T09:53:35-04:00	Bad idea of the day: Multi-cursor and annotation support for vim
+2018-10-17T10:13:52-04:00	Band name of the day: the unassigned lands
+2018-10-17T10:34:52-04:00	Vectorized Emulation: Hardware accelerated taint tracking at 2 trillion instructions per second | Gamozo Labs Blog https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html
+2018-10-17T11:21:08-04:00	What's the last Rutger Hauer movie that was good?
+2018-10-17T11:33:47-04:00	Do You Struggle to Keep Eye Contact? Here's What's Happening in Your Brain https://bigthink.com/philip-perry/researchers-discover-why-its-hard-to-maintain-eye-contact-while-talking-with-someone
+2018-10-17T12:29:00-04:00	The Magic Leap Con https://gizmodo.com/the-magic-leap-con-1829716266
+2018-10-17T12:34:40-04:00	Mailbag: AI Research on Dialogue and Story Generation | Emily Short's Interactive Storytelling https://emshort.blog/2018/10/16/mailbag-ai-research-on-dialogue-and-story-generation/
+2018-10-17T12:36:16-04:00	Bad idea of the day: Use mechanical turk to do a novel-length exquisite corpse, one sentence at a time.
+2018-10-17T12:43:52-04:00	No Moods, Ads or Cutesy Fucking Icons &raquo; A/Political (and a deferral on Doomsday) https://www.rifters.com/crawl/?p=8415
+2018-10-17T12:51:45-04:00	No Moods, Ads or Cutesy Fucking Icons &raquo; The Split-brain Universe https://www.rifters.com/crawl/?p=8255
+2018-10-17T12:57:37-04:00	Band name of the day: the death chamber
+2018-10-17T13:11:49-04:00	Band name of the day: coffin factory
+2018-10-17T13:19:50-04:00	Email icon https://www.topic.com/mold-eats-world
+2018-10-17T13:53:44-04:00	Google Groups https://groups.google.com/forum/m/#\!topic/comp.unix.wizards/QX_dxElrVNs
+2018-10-17T13:55:35-04:00	MiniBSD laptop computer | Hackaday.io https://hackaday.io/project/643-minibsd-laptop-computer
+2018-10-18T09:59:00-04:00	[Easy Chair] | The Wizard of Q, by Walter Kirn | Harper's Magazine https://harpers.org/archive/2018/06/the-wizard-of-q/
+2018-10-18T11:04:13-04:00	Bad idea of the day: serious & well-researched answers to stupid questions, as a podcast
+2018-10-18T11:35:55-04:00	Band name of the day: necrocracy
+2018-10-18T11:51:34-04:00	The Quietus | Opinion | The Quietus Essay | Rude Citizenship: Jamaican Musical Challenges to Copyright(ed) Culture http://thequietus.com/articles/25494-music-copyright-jamaica-dub
+2018-10-18T12:02:21-04:00	Do you (mis)remember modern rock and roll radio? http://www.its-her-factory.com/2018/10/do-you-misremember-modern-rock-and-roll-radio/
+2018-10-18T12:23:56-04:00	Cops Are Set Up to Be Dangerously Bad Shots - MEL Magazine https://melmagazine.com/en-us/story/cops-are-set-up-to-be-dangerously-bad-shots
+2018-10-18T12:36:43-04:00	Rockstar developers speak out about “100-hour weeks” comment | Ars Technica https://arstechnica.com/gaming/2018/10/red-dead-redemption-2-devs-say-quoted-100-hour-weeks-arent-the-norm/
+2018-10-18T12:39:42-04:00	Why Caffeine Pills Are Better Than Coffee https://lifehacker.com/in-defense-of-caffeine-pills-1828501954
+2018-10-18T12:49:46-04:00	Fromage Fort Is an Amazing Spread Made From Cheese Plate Scraps https://skillet.lifehacker.com/fromage-fort-is-an-amazing-spread-made-from-cheese-plat-1821052207
+2018-10-18T12:58:30-04:00	Netflix&#8217;s The Haunting of Hill House Finds the Beating Heart of Shirley Jackson&#8217;s Tale  |  Tor.com https://www.tor.com/2018/10/16/netflixs-the-haunting-of-hill-house-finds-the-beating-heart-of-shirley-jacksons-tale/
+2018-10-19T08:25:20-04:00	Calculus Made Easy http://calculusmadeeasy.org/
+2018-10-19T08:39:08-04:00	Bad idea of the day: an extension that replaces 'OK' on every button with 'Dolt', like God & the original Macintosh UI team intended
+2018-10-19T09:12:39-04:00	This Old Lisp http://thisoldlisp.com/talks/els-2018/
+2018-10-19T09:15:41-04:00	It's a crime that Stephen King has a band & it's not called Richard Bachman Turner Overdrive
+2018-10-19T09:24:28-04:00	CEOs should have been the fall guys; why are they still heroes? | Aeon Ideas https://aeon.co/ideas/ceos-should-have-been-the-fall-guys-why-are-they-still-heroes
+2018-10-19T09:25:59-04:00	Staple History: Maybe Royalty Wasn’t Involved https://tedium.co/2018/10/18/stapler-history-office-supplies/
+2018-10-19T09:54:06-04:00	Falsehoods Programmers Believe about Garbage Collection &mdash; Paul Bone http://paul.bone.id.au/2018/10/19/gc-falsehoods/
+2018-10-19T10:14:19-04:00	Band name of the day: the haunting of flesh show
+2018-10-19T10:14:48-04:00	Band name of the day: passion owl
+2018-10-19T10:15:03-04:00	Band name of the day: honey & darkness
+2018-10-19T10:15:32-04:00	Letting neural networks be weird &bull; Neural Horror Picture Show http://aiweirdness.com/post/179211399427/neural-horror-picture-show
+2018-10-19T10:44:02-04:00	What It Takes to Build an Anarchist Desert Town - Atlas Obscura https://www.atlasobscura.com/articles/slab-city-library-photos
+2018-10-19T10:46:18-04:00	DisneyQuest is dead, and Disney’s VR experiments are gone with it - Polygon https://www.polygon.com/features/2018/10/18/17888722/disneyquest-disney-vr-closed
+2018-10-19T10:47:08-04:00	Bad idea of the day: twitch plays exquisite corpse
+2018-10-19T10:47:35-04:00	Bad idea of the day: twitch plays cards against humanity
+2018-10-19T10:47:50-04:00	Bad idea of the day: twitch plays strip poker
+2018-10-19T10:49:20-04:00	Band name of the day: gatorvision
+2018-10-19T10:49:50-04:00	Band name of the day: meat vision & jacked
+2018-10-19T10:51:03-04:00	twitch plays the glass bead game
+2018-10-19T10:51:34-04:00	twitch plays gnomic
+2018-10-19T10:56:54-04:00	The only thing scarier than the first 90% is the last 90%
+2018-10-19T11:06:16-04:00	Robin "Sourdough" Sloan is using a machine-learning autocomplete system to write his next novel / Boing Boing https://boingboing.net/2018/10/19/t9-for-auteurs.html
+2018-10-19T11:06:39-04:00	Band name of the day: fish bulletin
+2018-10-19T11:08:32-04:00	Enjoying High-Res Graphics on a Text-Only TRS-80 Model 4 from 1983 | Byte Cellar http://www.bytecellar.com/2018/10/17/enjoying-high-res-graphics-on-a-text-only-trs-80-model-4-from-1983/
+2018-10-19T11:11:00-04:00	THE MEDIA BUSINESS: Encountering The Digital Age -- An occasional look at computers in everday life.; Potboiler Springs From Computer's Loins - The New Yor... https://www.nytimes.com/1993/07/02/us/media-business-encountering-digital-age-occasional-look-computers-everday-life.html
+2018-10-19T11:19:40-04:00	Is there a good spotify playlist of novelty covers? (By which I mean: covers of songs that diverge substantially in style from the original, not covers of novelty songs)
+2018-10-19T11:24:36-04:00	AI and the Trolley Problem  |  Tor.com https://www.tor.com/2018/10/17/ai-and-the-trolley-problem-pat-cadigan/
+2018-10-19T15:23:24-04:00	"Shaping our children's education in computing" by Simon Peyton Jones - YouTube https://www.youtube.com/watch?v=y-xgWLYQc4g
+2018-10-19T15:36:48-04:00	"You are a Program Synthesizer" by James Koppel - YouTube https://www.youtube.com/watch?v=ldkF-4WNZqA
+2018-10-19T15:56:59-04:00	Hot take: if you can 'vote with your wallet' that means you live in an aristocratic oligarchy, because some people inherit large numbers of extra votes & other people start out with negative votes.
+2018-10-19T16:03:01-04:00	"The Glitching Hour" by Amy Wibowo - YouTube https://www.youtube.com/watch?v=2HoMsbxY9zA
+2018-10-19T23:10:49-04:00	Bad idea of the day: The Same Oblique Strategy Card Every Day. ('repetition is a form of change', obv.)
+2018-10-20T10:12:31-04:00	Tarot Based Narrative Generation - Anne Sullivan [PROCJAM 2018] - YouTube https://www.youtube.com/watch?v=e1D-r5TF36A
+2018-10-20T10:25:52-04:00	Meaning Alchemy - Jason Grinblat [PROCJAM 2018] - YouTube https://www.youtube.com/watch?v=WvVx0l1gepM
+2018-10-20T11:11:11-04:00	Is there already a term for going into a piece of media with the expectation that it won't be a waste of time / there's something to be gained by paying attention & thinking? (Like 'good-faith viewership'?)
+2018-10-20T12:04:52-04:00	"Puzzles, Problems, and Programs" by Chris Martens - YouTube https://www.youtube.com/watch?v=TT0r6-B5YHA
+2018-10-22T07:30:39-04:00	The Japanese Cult Producing 20+ Years Of Anime - YouTube https://www.youtube.com/watch?v=Q6tS14HFsmA
+2018-10-22T08:07:06-04:00	Band name of the day: hope fading nightly
+2018-10-22T08:07:33-04:00	Band name of the day: a long strange way home
+2018-10-22T08:09:38-04:00	Cyberpunk: The Future That Was - Chapter One | Eruditorum Press on Patreon https://www.patreon.com/posts/cyberpunk-future-22210879
+2018-10-22T10:43:19-04:00	Scammers Are Uploading Tutorials on How to Fool Facebook with a False ID - Motherboard https://motherboard.vice.com/en_us/article/53d5gk/scammers-are-uploading-tutorials-on-how-to-fool-facebook-with-a-false-id
+2018-10-22T10:58:27-04:00	If the Rich Really Want To &#8216;Do Good,&#8217; They Should Become Class Traitors Like&nbsp;FDR  https://longreads.com/2018/10/18/review-of-winners-take-all/
+2018-10-22T11:46:04-04:00	How to Troll a Troll https://lifehacker.com/how-to-troll-a-troll-1819880278
+2018-10-22T13:31:29-04:00	Hardware Interrupts | Writing an OS in Rust https://os.phil-opp.com/hardware-interrupts/
+2018-10-22T13:34:39-04:00	B. F. Skinner: The Most Important Theorist of the 21st Century http://hackeducation.com/2018/10/18/skinner
+2018-10-22T13:44:57-04:00	Marketpiece Theater https://thebaffler.com/salvos/marketpiece-theater
+2018-10-22T13:50:35-04:00	Erlang by Example http://erlangbyexample.org/
+2018-10-22T14:47:06-04:00	Past Masters of the Postmodern | Articles | Inference: International Review of Science https://inference-review.com/article/past-masters-of-the-postmodern
+2018-10-22T14:58:56-04:00	Language is a technology & we ought to start acting like it
+2018-10-22T16:32:08-04:00	I updated my list of story pitches: http://enki2.tumblr.com/stories
+2018-10-22T17:39:15-04:00	Bad idea of the day: a minikanren in prolog
+2018-10-23T08:20:02-04:00	Meet the Endoterrestrials - The Atlantic https://www.theatlantic.com/science/archive/2018/10/meet-endoterrestrials/571939/
+2018-10-23T08:31:18-04:00	Protocol | An ASCII Header Generator for Network Protocols http://www.luismg.com/protocol/
+2018-10-23T09:08:05-04:00	Why You Should Read Fiction http://nautil.us/issue/65/in-plain-sight/why-doesnt-ancient-fiction-talk-about-feelings-rp
+2018-10-23T09:49:09-04:00	Dialectics of Darkness | Articles | Inference: International Review of Science https://inference-review.com/article/dialectics-of-darkness
+2018-10-23T11:26:38-04:00	Bad idea of the day: plan 9 from whitespace, a full implementation of plan9 in an extended version of the whitespace programming language, which ships with a printed copy of the source code (a blank notebook)
+2018-10-23T11:32:38-04:00	LegoOS: a disseminated, distributed OS for hardware resource disaggregation | the morning paper https://blog.acolyer.org/2018/10/22/legoos-a-disseminated-distributed-os-for-hardware-resource-disaggregation/
+2018-10-23T11:38:42-04:00	INTERFACE LOVE. &#8211; Researching UI in Games, Cinema and anything else thats interesting. https://ilikeinterfaces.com/
+2018-10-23T11:43:19-04:00	Cognitive Enhancers: Mechanisms And Tradeoffs | Slate Star Codex http://slatestarcodex.com/2018/10/22/cognitive-enhancers-mechanisms-and-tradeoffs/
+2018-10-23T11:57:14-04:00	God Help Us, Let&#8217;s Try To Understand Friston On Free Energy | Slate Star Codex http://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/
+2018-10-23T16:20:48-04:00	I wrote a thing about Hill House: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/hill-house-vs-hill-house-two-different-kinds-of-hauntings-8b535d8e667c?source=friends_link&sk=fe06a7f590cd8391e0205918c5299b34
+2018-10-24T06:57:52-04:00	Every slack channel ever: the topic says 'Don't use @here or @channel'; nevertheless, ~100% of notifications are from @here or @channel
+2018-10-24T08:22:45-04:00	Some snark: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-short-glossary-of-tech-industry-terms-4b5f9fef8db3?source=friends_link&sk=f5251057ed9dd53ec78960456e0ef08f
+2018-10-24T08:51:23-04:00	Police Training Simulator History: A Parallel Path With Gaming https://tedium.co/2018/10/23/police-training-simulator-history/
+2018-10-24T09:29:48-04:00	Bad idea of the day: A vibrator implanted in the pelvis that is controlled by reports of earthquake severity
+2018-10-24T09:40:46-04:00	Bad idea of the day: aromatherapy vapes
+2018-10-24T09:45:56-04:00	The Myth of Whiteness in Classical Sculpture | The New Yorker https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture
+2018-10-24T10:07:06-04:00	Endowment effect - Wikipedia https://en.wikipedia.org/wiki/Endowment_effect
+2018-10-24T10:17:51-04:00	Band name of the day: necroleachate
+2018-10-24T10:19:00-04:00	Here Lies E. Coli - Atlas Obscura https://www.atlasobscura.com/articles/cemetery-soil-human-remains
+2018-10-24T10:35:54-04:00	iPhones are hard to use https://blog.fawny.org/2018/10/22/hardtouse/
+2018-10-24T12:24:58-04:00	Bad idea of the day: deep fried peanut butter and mayonaise sandwiches
+2018-10-24T12:34:46-04:00	Error 406 - Not Acceptable https://www.board-db.org/
+2018-10-24T12:40:43-04:00	Nudging the Lexicon | Sophie Haigney https://thebaffler.com/latest/nudging-the-lexicon-haigney
+2018-10-24T12:58:10-04:00	Distance Fields https://prideout.net/blog/distance_fields/
+2018-10-24T13:01:27-04:00	The Hounds of Tindalos - Wikisource, the free online library https://en.wikisource.org/wiki/The_Hounds_of_Tindalos
+2018-10-24T13:04:01-04:00	&#8220;The Daemon Lover&#8221; by Shirley Jackson | Literary Fictions https://literaryfictions.com/fiction-1/the-daemon-lover-by-shirley-jackson/
+2018-10-24T13:50:19-04:00	The Final Days of 'Netrunner' - Waypoint https://waypoint.vice.com/en_us/article/zm9989/the-final-days-of-netrunner
+2018-10-24T14:30:00-04:00	Anime Has A S3xual Harassment Problem - YouTube https://www.youtube.com/watch?v=i0G1jvz0khQ
+2018-10-24T16:29:16-04:00	Bad idea of the day: a NOT operation on types, such that a type can be define as the failure to qualify as some other combination of types or some other boolean type expression
+2018-10-24T18:51:39-04:00	The protagonist of Bunny-Girl-senpai is *almost* the Kyon-style deadpan snarker (not distinct enough to really be a variant yet, like in Denpa Onna) but I can't tell if it's an attempt at reconstruction like in Seiren...
+2018-10-24T19:02:45-04:00	SisterWriter is so weirdly lazy at times. Like, just rotating a cut 90 degrees and doing a static panning shot... Though, the characters are constantly off model and rarely animated or properly posed, so that might be for the best...
+2018-10-25T08:51:56-04:00	303 See Other https://www.nature.com/articles/d41586-018-07118-1
+2018-10-25T09:00:47-04:00	Two Hundred Fifty Things an Architect Should Know &mdash; R / D https://www.readingdesign.org/250-things
+2018-10-25T10:05:24-04:00	CLP(FD): Prolog Integer Arithmetic https://www.metalevel.at/prolog/clpfd
+2018-10-25T10:27:17-04:00	Thinking in States https://www.metalevel.at/tist/
