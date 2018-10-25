@@ -16,6 +16,7 @@ for pred in grammar.keys():
     pred2="t_"+pred
     for rule in grammar[pred]:
         print(pred2+" --> \""+re.sub("#([A-Za-z0-9_]*)#", "\", t_\\1, \"", rule)+"\".")
-print("tracery :- phrase(t_origin, X), format(\"~s\\n\", [X]).")
+print("tracery_print(Goal) :- phrase(Goal, X), format(\"~s\\n\", [X]).")
+print("tracery :- tracery_print(t_origin).")
 print("tracery_all :- findall(_, tracery, _).")
 
