@@ -4025,3 +4025,4 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-25T09:00:47-04:00	Two Hundred Fifty Things an Architect Should Know &mdash; R / D https://www.readingdesign.org/250-things
 2018-10-25T10:05:24-04:00	CLP(FD): Prolog Integer Arithmetic https://www.metalevel.at/prolog/clpfd
 2018-10-25T10:27:17-04:00	Thinking in States https://www.metalevel.at/tist/
+2018-10-25T11:31:09-04:00	Prolog DCG Primer https://www.metalevel.at/prolog/dcg
