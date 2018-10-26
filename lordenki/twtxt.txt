@@ -4026,3 +4026,20 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-25T10:05:24-04:00	CLP(FD): Prolog Integer Arithmetic https://www.metalevel.at/prolog/clpfd
 2018-10-25T10:27:17-04:00	Thinking in States https://www.metalevel.at/tist/
 2018-10-25T11:31:09-04:00	Prolog DCG Primer https://www.metalevel.at/prolog/dcg
+2018-10-25T13:11:35-04:00	The Original Master of Ghost Stories | The New Yorker https://www.newyorker.com/books/page-turner/the-original-master-of-ghost-stories
+2018-10-25T13:19:25-04:00	The Quietus | Opinion | Black Sky Thinking | Music For Algorithms: In Search Of Eno’s Ambient Vision In A Spotify Era http://thequietus.com/articles/25532-brian-eno-ambient-music
+2018-10-25T13:55:57-04:00	Amy Winehouse’s 2019 tour: why dead celebrity holograms keep happening - Vox https://www.vox.com/the-goods/2018/10/23/18010274/amy-winehouse-hologram-tour-controversy-technology
+2018-10-25T14:00:40-04:00	You Called for Me: Masculine Pain and Isolation in Akira &#8211; VRV Blog https://vrvblog.co/felker-martin/2555/akira-boys/
+2018-10-25T15:15:19-04:00	Bad idea of the day: a self-adhesive battery-powered white noise generator & speaker, which can be affixed to the microphone on your laptop
+2018-10-25T16:41:27-04:00	ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers - YouTube https://www.youtube.com/watch?v=ZsHMHukIlJY
+2018-10-25T17:06:45-04:00	"A Little Taste of Dependent Types" by David Christiansen - YouTube https://www.youtube.com/watch?v=VxINoKFm-S4
+2018-10-26T07:01:35-04:00	Made from the Red Soil: Fantasies of Misery in Neon Genesis Evangelion &#8211; VRV Blog https://vrvblog.co/felker-martin/3178/made-from-the-red-soil-fantasies-of-misery-in-neon-genesis-evangelion/
+2018-10-26T08:28:09-04:00	post-N235 Prolog prologue (Working draft) https://www.complang.tuwien.ac.at/ulrich/iso-prolog/prologue
+2018-10-26T08:32:54-04:00	The Giant Robot Series That&#8217;s a Civics Lesson in Disguise &#8211; VRV Blog https://vrvblog.co/spacetwinks/2463/patlabor-civics/
+2018-10-26T09:04:17-04:00	GNU Kind Communications Guidelines https://www.gnu.org/philosophy/kind-communication.html
+2018-10-26T09:06:39-04:00	Acting like a psychopath is great for male CEOs, not so much for women | Ars Technica https://arstechnica.com/science/2018/10/acting-like-a-psychopath-is-great-for-male-ceos-not-so-much-for-women/
+2018-10-26T09:12:42-04:00	Bad idea of the day: a database of maps of conceptual spaces that are drawn like maps of physical spaces (ex., xkcd's map of the internet & Knuppe's map of the fields of mathematics)
+2018-10-26T09:15:14-04:00	An invitation to category theory - Chalkdust http://chalkdustmagazine.com/features/an-invitation-to-category-theory/
+2018-10-26T09:17:25-04:00	It really pisses me off when people use 'infinite' to mean 'really big'. If something's actually infinite, adding more to it produces the same number (like in Hilbert's hotel)
+2018-10-26T10:13:20-04:00	The Monster Mash History: More Than a Graveyard Smash https://tedium.co/2018/10/25/monster-mash-history/
+2018-10-26T11:22:53-04:00	Abstract Heresies: Not Lisp again.... https://funcall.blogspot.com/2009/03/not-lisp-again.html
