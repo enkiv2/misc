@@ -4064,3 +4064,4 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-29T09:05:12-04:00	GitHub - ChrisKnott/Algojammer: An experimental code editor for writing algorithms https://github.com/ChrisKnott/Algojammer
 2018-10-29T10:20:31-04:00	GitHub - ojahnn/NaNoLiPo2018: This is the repository for 2018's collaborative NaNoLiPo project. https://github.com/ojahnn/NaNoLiPo2018
 2018-10-29T10:29:52-04:00	Search https://qz.com/quartzy/1439493/dungeons-dragons-created-the-blueprint-nerd-culture-still-follows-today/
+2018-10-29T11:52:35-04:00	GitHub - opencog/link-grammar: The CMU Link Grammar natural language parser https://github.com/opencog/link-grammar
