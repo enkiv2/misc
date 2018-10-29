@@ -4043,3 +4043,24 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-26T09:17:25-04:00	It really pisses me off when people use 'infinite' to mean 'really big'. If something's actually infinite, adding more to it produces the same number (like in Hilbert's hotel)
 2018-10-26T10:13:20-04:00	The Monster Mash History: More Than a Graveyard Smash https://tedium.co/2018/10/25/monster-mash-history/
 2018-10-26T11:22:53-04:00	Abstract Heresies: Not Lisp again.... https://funcall.blogspot.com/2009/03/not-lisp-again.html
+2018-10-26T12:04:54-04:00	The Others: Why Women Are Shut Out of&nbsp;Horror  https://longreads.com/2018/10/25/the-others-why-women-are-shut-out-of-horror/
+2018-10-26T14:29:14-04:00	Band name of the day: crew expendable
+2018-10-26T14:32:47-04:00	Top 5 Anti-Capitalist Horror Movies -- Halloween 2018 - YouTube https://www.youtube.com/watch?v=ByESrVvuWkc
+2018-10-26T14:45:16-04:00	Witchcraft, Gender, &amp; Marxism | Philosophy Tube - YouTube https://www.youtube.com/watch?v=tmk47kh7fiE
+2018-10-26T17:12:59-04:00	Discussing Isekai, Part 1: Overlord, Isekai Maou, and Isekai Smartphone as Communicative Images - YouTube https://www.youtube.com/watch?v=WMtHFGK0hm4
+2018-10-26T17:38:09-04:00	Dan Bentley on The Connection Machine [PWL NYC] - YouTube https://www.youtube.com/watch?v=zD-UYbm8Ksg
+2018-10-27T13:30:47-04:00	""It's Just Matrix Multiplication": Notation for Weaving" by Lea Albaugh - YouTube https://www.youtube.com/watch?v=oMOSiag3dxg
+2018-10-28T09:30:22-04:00	Is Panos Cosmatos a pen name? The guy who directed Beyond the Black Rainbow being literally named 'space bread' is a bit too perfect.
+2018-10-28T09:55:00-04:00	Lexical Scanning in Go - Rob Pike - YouTube https://www.youtube.com/watch?v=HxaD_trXwRE
+2018-10-28T10:01:38-04:00	Because of the use of 'rune' to refer to unicode codepoints in go, a fulthark transliteration program might have somewhat confusing source...
+2018-10-28T11:38:42-04:00	On Weaponised Design - Radical Networks - YouTube https://www.youtube.com/watch?v=fG_z8jyREgk
+2018-10-28T12:05:55-04:00	Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? - YouTube https://www.youtube.com/watch?v=ajGX7odA87k
+2018-10-28T17:09:06-04:00	"The Hard Parts of Open Source" by Evan Czaplicki - YouTube https://www.youtube.com/watch?v=o_4EX4dPppA
+2018-10-28T17:37:04-04:00	"Mill vs. Spectre: Performance and Security" by Ivan Godard - YouTube https://www.youtube.com/watch?v=8E4qs2irmpc
+2018-10-28T19:06:34-04:00	If Halloween 3 had been Halloween 2 (i.e., if Michael Meyers was a one-off & there was never the expectation set that he'd come back) we could have had a great yearly horror anthology series for the past 40 years.
+2018-10-29T08:47:53-04:00	Better metaphors for community management than 'social engineering': 'social gardening', 'social pickling', 'social brewing', 'social stewing', 'social mixtaping'
+2018-10-29T08:52:46-04:00	turtle.audio http://turtle.audio/
+2018-10-29T08:56:42-04:00	Linus Torvalds Shows His New Polite Side While Pointing Out Bad Kernel Code - Phoronix https://phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-New-Politeness
+2018-10-29T09:05:12-04:00	GitHub - ChrisKnott/Algojammer: An experimental code editor for writing algorithms https://github.com/ChrisKnott/Algojammer
+2018-10-29T10:20:31-04:00	GitHub - ojahnn/NaNoLiPo2018: This is the repository for 2018's collaborative NaNoLiPo project. https://github.com/ojahnn/NaNoLiPo2018
+2018-10-29T10:29:52-04:00	Search https://qz.com/quartzy/1439493/dungeons-dragons-created-the-blueprint-nerd-culture-still-follows-today/
