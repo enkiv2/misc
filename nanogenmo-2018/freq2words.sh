@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 wl=pg-freq.txt
-wl=tvwl.txt
+#wl=tvwl.txt
 awk '{
 	if(/[0-9]/) {
 		print int($1+0.5-20)

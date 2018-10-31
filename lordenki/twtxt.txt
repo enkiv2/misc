@@ -4065,3 +4065,47 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-10-29T10:20:31-04:00	GitHub - ojahnn/NaNoLiPo2018: This is the repository for 2018's collaborative NaNoLiPo project. https://github.com/ojahnn/NaNoLiPo2018
 2018-10-29T10:29:52-04:00	Search https://qz.com/quartzy/1439493/dungeons-dragons-created-the-blueprint-nerd-culture-still-follows-today/
 2018-10-29T11:52:35-04:00	GitHub - opencog/link-grammar: The CMU Link Grammar natural language parser https://github.com/opencog/link-grammar
+2018-10-29T12:55:23-04:00	Popcorn Culture: Census Bloodbath http://jiffypopculture.blogspot.com/p/census-bloodbath.html
+2018-10-29T14:11:20-04:00	Hot take: the existence of entrepreneurship is an argument against rational economic actors, because most new businesses fail & the primary factor in that failure is luck.
+2018-10-29T14:41:55-04:00	Band name of the day: Porcine encephalon
+2018-10-29T14:42:37-04:00	Band name of the day: acceptable meat creaminess
+2018-10-29T16:38:59-04:00	Isn't it great that outlook just prevents people from emailing jar files to each other? Like, it's not as though people occasionally need to send each other internal proprietary jars that aren't conveniently hosted.
+2018-10-29T18:10:27-04:00	Information Society "Beautiful World" Halloween visual Mix - YouTube https://www.youtube.com/watch?v=4PdVW75kdJQ
+2018-10-29T18:13:04-04:00	Hellraiser, Bataille and Limit Experiences - YouTube https://www.youtube.com/watch?v=3ge0P8z_q1M
+2018-10-30T07:16:00-04:00	Shockwaves ep #119 has a great Song Exploder-style breakdown of the Ghostbusters theme song. Highly recommended.
+2018-10-30T07:58:44-04:00	Band name of the day: telepathic impactive impingement
+2018-10-30T08:08:38-04:00	Shades of 'monkey mind': http://yokai.com/satori/
+2018-10-30T08:23:04-04:00	How to get rich quick, apparently: rephrase the obvious as though it is the revolutionary for the benefit of the stupid, and pepper it with the wrong to drum up 'controversy'. (Worked for Peterson)
+2018-10-30T09:17:44-04:00	Instant Archetypes: A New Tarot For The New Normal by Superflux &mdash;Kickstarter https://www.kickstarter.com/projects/2093788053/instant-archetypes-a-new-tarot-for-the-new-normal
+2018-10-30T09:43:36-04:00	A Look at the Design of Lua | November 2018 | Communications of the ACM https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext
+2018-10-30T10:13:10-04:00	Band name of the day: deformed malediction
+2018-10-30T10:14:07-04:00	The Draw of the Gothic https://www.theparisreview.org/blog/2018/10/29/the-draw-of-the-gothic/
+2018-10-30T10:37:56-04:00	Bad idea of the day: write poems, one a day, each on the back side of a tile, cementing it into place after you write it. your bathroom wall becomes a hidden book. tell no one.
+2018-10-30T10:54:45-04:00	Five Star Songs https://5-star-songs.tumblr.com/post/179554319224/take-me-to-the-river-talking-heads-warning
+2018-10-30T11:15:22-04:00	Band name of the day: nameless food
+2018-10-30T11:35:10-04:00	I sort of can't believe this, considering Maven's bloat, but there appears to be no build-in command for taking a package name specified on the command line, searching maven-central for it, & installing the latest version from the command line...
+2018-10-30T13:26:39-04:00	Hot take: any command that a user might want to use regularly should be short, memorable, and built-in; any command that a user might really NEED to use should be documented & included in the examples in built-in documentation.
+2018-10-30T13:29:09-04:00	Hot take: in the absence of full information, provide reasonable defaults that are easily overridden. Making users repeat normally-identical pieces of information several times just because they CAN differ in a corner case is bad design.
+2018-10-30T16:51:33-04:00	Hot take: moral hazard is an information problem with its roots in systematic overconfidence & optimism bias. Either important domains of risk are ignored or the effectiveness of mitigations is overestimated.
+2018-10-30T19:13:24-04:00	A possible future: SSSS.Gridman's popularity causes a bunch of mecha-inspired toku adaptations to be greenlit & 'tokusatsu remake' becomes the new 'isekai light novel adaptation' for about 5 years.
+2018-10-31T07:19:45-04:00	The Shining has apparently forever turned Midnight with the Stars and You into a 'horror song'. I'm sure some flapper ghosts are very unhappy with that categorization. They can't do anything about it, though: ghosts are weak.
+2018-10-31T07:48:01-04:00	Band name of the day: skeleton jazz wizard
+2018-10-31T09:21:47-04:00	Band name of the day: darker when wet
+2018-10-31T09:38:12-04:00	Botnik presents Goosebumps: Welcome to Sand Hands! https://botnik.org/goosebumps/
+2018-10-31T10:27:19-04:00	Acting like an extravert has benefits, but not for introverts | Aeon Ideas https://aeon.co/ideas/acting-like-an-extravert-has-benefits-but-not-for-introverts
+2018-10-31T10:30:15-04:00	"Fun Size" Candy Bar History: Lawsuits Were Involved https://tedium.co/2018/10/30/fun-size-candy-history/
+2018-10-31T10:30:46-04:00	Band name of the day: end user digest
+2018-10-31T10:31:12-04:00	The holy trinity: Save Ferris, Kill Ziggy, and End User
+2018-10-31T11:14:20-04:00	There be monsters: from cabinets of curiosity to demons within | Aeon Essays https://aeon.co/essays/there-be-monsters-from-cabinets-of-curiosity-to-demons-within
+2018-10-31T11:19:13-04:00	These Are the Bad Times &#8211; Hmm Daily https://hmmdaily.com/2018/10/30/these-are-the-bad-times/
+2018-10-31T11:55:28-04:00	Periodic reminder: nothing has prepared us for The Strange Times
+2018-10-31T12:12:48-04:00	View of Bring on The Real Computer Revolution http://ojs.stanford.edu/ojs/index.php/intersect/article/view/703/617
+2018-10-31T12:19:01-04:00	Trithemius Redivivus | Steganographia-English http://trithemius.com/steganographia-english/
+2018-10-31T13:08:15-04:00	So, watching Halloween (1978) is free on shudder today, in case you want to. Not really sure why they only told current subscribers...
+2018-10-31T13:09:09-04:00	Circles Sines and Signals - Introduction https://jackschaedler.github.io/circles-sines-signals/
+2018-10-31T13:17:42-04:00	'Do you prefer horror movies or comedy movies' is a good way of phrasing 'with what degree of intensity are you comfortable having your mental constructs challenged'. 'Hausu is my favorite movie' is a valid & illuminating response.
+2018-10-31T13:21:21-04:00	In one sense, 'the computer revolution is over' because the period of exponential growth behind the tech ended 10 years ago. In another sense, it hasn't begun: we have sheltered ourselves from the social and intellectual ramifications of computing. Documents are still simulations of paper, & capitalism still exists. So it's like that period where printing presses existed but everybody used a faux-calligraphic font.
+2018-10-31T13:34:07-04:00	After World War I, Horror Movies Were Invaded By an Army of Reanimated&nbsp;Corpses  https://longreads.com/2018/10/31/after-world-war-i-horror-movies-were-invaded-by-an-army-of-reanimated-corpses/
+2018-10-31T13:57:45-04:00	Nasu announces a new entry in the Fate franchise, Fate/F For, starring a genderswapped Orson Welles who pummels enemies with a film camera on the end of a pole arm.
+2018-10-31T14:21:38-04:00	Ministry: "Everyday Is Halloween" - YouTube https://www.youtube.com/watch?v=w0r2xpGT4fQ
+2018-10-31T17:04:17-04:00	In the grim dark future of 2019, all stores are halloween stores because every day is halloween.
