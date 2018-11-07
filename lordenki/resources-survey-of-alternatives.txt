@@ -26,6 +26,19 @@ https://github.com/minexew/Shrine
 http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
 http://www.osnews.com/story/23796/Recreational_Programming_With_LoseThos
 https://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/
+Menuet
+http://www.informit.com/articles/article.aspx?p=768380&seqNum=5
+http://www.osnews.com/story/1385/Comparing-MenuetOS-SkyOS-and-AtheOS/
+http://www.osnews.com/story/93/Interview_With_Ville_Turjanmaa_the_Creator_of_MenuetOS
+https://www.goodgearguide.com.au/article/315421/we_talk_developers_behind_menuetos_an_operating_system_written_entirely_assembly_language/?
+http://www.menuetos.net/docs.htm
+http://www.drdobbs.com/the-menuet-operating-system/184404880
+https://www.computerworld.com.au/article/574760/menuetos-modern-operating-system-written-entirely-assembly-hits-1-0/
+https://github.com/marcosptf/menuetos
+http://www.kolibrios.org/en/
+https://www.dedoimedo.com/computers/kolibrios.html
+http://wiki.kolibrios.org/wiki/Main_Page
+http://www.pccat.ex.ac.uk/2011/PCCAT2011-Proceedings.pdf
 Swyft / Canon Cat
 http://www.digibarn.com/collections/systems/swyft/index.html
 https://archive.org/details/canoncat
