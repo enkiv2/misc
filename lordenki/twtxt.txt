@@ -4131,3 +4131,65 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-11-01T12:11:50-04:00	No Moods, Ads or Cutesy Fucking Icons &raquo; The Adorable Optimism of the IPCC. https://www.rifters.com/crawl/?p=8433
 2018-11-01T12:34:47-04:00	Sort By Controversial | Slate Star Codex http://slatestarcodex.com/2018/10/30/sort-by-controversial/
 2018-11-01T12:45:56-04:00	Science Is Full of Mavericks Like My Grandfather. But Was His Physics Theory Right? - The Atlantic https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/
+2018-11-02T10:10:37-04:00	Probably Overthinking It: The Inspection Paradox is Everywhere http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html
+2018-11-02T11:32:56-04:00	OBNC https://miasap.se/obnc/
+2018-11-02T12:27:09-04:00	Bad idea of the day: a social network where post *literally* fade because the contrast is computed with the inverse of time. A spinoff where bugs slowly eat away at posts.
+2018-11-02T13:18:33-04:00	Science Fiction Is Not Social Reality - Motherboard https://motherboard.vice.com/en_us/article/43pxjd/science-fiction-is-not-social-reality
+2018-11-02T15:31:31-04:00	Mouse Shortcuts in Acme http://acme.cat-v.org/mouse
+2018-11-02T15:32:12-04:00	The Acme Readme http://acme.cat-v.org/readme
+2018-11-02T15:57:35-04:00	Proposed data privacy law could send company execs to prison for 20 years | Ars Technica https://arstechnica.com/tech-policy/2018/11/proposed-data-privacy-law-could-send-company-execs-to-prison-for-20-years/
+2018-11-02T20:59:59-04:00	How to Do Cyberpunk Right - The Yuri You Need - YouTube https://www.youtube.com/watch?v=dfSuUicLdcg
+2018-11-03T12:33:28-04:00	Four Languages from Forty Years Ago - Scott Wlaschin - YouTube https://www.youtube.com/watch?v=0fpDlAEQio4
+2018-11-03T13:04:54-04:00	Breaking the x86 Instruction Set - YouTube https://www.youtube.com/watch?v=KrksBdWcZgQ
+2018-11-03T13:22:13-04:00	Gopherfest 2017: Upspin (Rob Pike) - YouTube https://www.youtube.com/watch?v=ENLWEfi0Tkg
+2018-11-03T16:27:57-04:00	Band name of the day: theicide
+2018-11-03T16:28:23-04:00	Band name of the day: condensation nucleus
+2018-11-05T07:27:39-05:00	Band name of the day: the active measures
+2018-11-05T07:50:16-05:00	The presumption that current popularity is a predictor of value -- or even of future popularity -- prevents us from doing interesting things.
+2018-11-05T08:01:30-05:00	The 'Loss of Confidence Project' Offers Scientists a Place to Confess https://undark.org/article/loss-of-confidence-project-replication-crisis/
+2018-11-05T08:28:51-05:00	Cesar Sayoc and others on Twitter are behaving like bots. https://slate.com/technology/2018/11/cesar-sayoc-twitter-humans-behaving-bots.html
+2018-11-05T08:33:54-05:00	Metadata: Judoing the Dunning-Kruger effect: the "surprisingly-popular option" strategy for crowdsourcing  https://muratbuffalo.blogspot.com/2018/11/judoing-dunning-kruger-effect.html
+2018-11-05T09:04:36-05:00	Today is Guy Fawkes Day. Celebrate by setting something on fire.
+2018-11-05T10:07:46-05:00	Band name of the day: active denial system
+2018-11-05T10:16:48-05:00	The Quietus | Features | Anniversary | The Future's So Bright I Gotta Wear Shades: 30 Years Of They Live http://thequietus.com/articles/25613-john-carpenter-they-live-review-anniversary
+2018-11-05T10:17:33-05:00	Soft Machine-Why Are We Sleeping? - YouTube https://www.youtube.com/watch?v=jwc_gosvQ_A
+2018-11-05T10:31:19-05:00	PRINCIPLES OF ANARCHITECTURE &#8211; ALIENIST MANIFESTO https://alienistmanifesto.wordpress.com/2018/04/20/principles-of-architecture/
+2018-11-05T10:38:11-05:00	Bad idea of the day: run deOldify on manga pages, consider the new color schemes canon, move to a surreal universe of floating pastels
+2018-11-05T11:43:17-05:00	Vietnam&#8217;s Low-tech Food System Takes Advantage of&nbsp;Decay | LOW&larr;TECH MAGAZINE https://solar.lowtechmagazine.com/2017/02/vietnams-low-tech-fermentation-food-system-takes-advantage-of-decay.html
+2018-11-05T15:13:45-05:00	Are.na / Blog " Women in Hypertext: On Judy Malloy and Cathy Marshall&#x2019;s Forward Anywhere https://www.are.na/blog/case%20study/2018/06/12/women-in-hypertext.html
+2018-11-05T16:04:09-05:00	Apparently there are a LOT of bands named 'blackmail'. I'm sure all of them think they're very clever and original.
+2018-11-05T16:10:15-05:00	GitHub - schierlm/oberon-risc-emu-enhanced: Emulator for the Oberon RISC machine, with enhanced features (not supported by the original design by N. Wirth) https://github.com/schierlm/oberon-risc-emu-enhanced
+2018-11-05T16:13:05-05:00	Quip https://quip.com/BgVMALdtvWqJ
+2018-11-05T16:13:37-05:00	GitHub - paul90/wiki-client-dat-variant: A dat based variant of the Federated Wiki client https://github.com/paul90/wiki-client-dat-variant
+2018-11-05T16:20:47-05:00	Why every election gets its own crisis - YouTube https://www.youtube.com/watch?v=Ln61AksUCjY
+2018-11-06T06:55:04-05:00	Nick Land&#8217;s Philosophy of Capital is Anti-Capitalist (2) &#8211; DI Research Zone 22 https://disubunit22.wordpress.com/2018/11/05/nick-lands-philosophy-of-capital-is-anti-capitalist-2/
+2018-11-06T07:00:04-05:00	Nick Land&#8217;s Philosophy of Capital is Anti-Capitalist &#8211; DI Research Zone 22 https://disubunit22.wordpress.com/2018/08/23/nick-lands-philosophy-of-capital-is-anti-capitalist/
+2018-11-06T07:58:17-05:00	Band name of the day: my odious handiwork
+2018-11-06T09:02:25-05:00	What Is The Morning Writing Effect? - Gwern.net https://www.gwern.net/Morning-writing
+2018-11-06T09:13:20-05:00	Dystopias Now &bull; Commune https://communemag.com/dystopias-now/
+2018-11-06T09:42:04-05:00	Cory Doctorow: What the Internet Is For &#8211; Locus Online https://locusmag.com/2018/11/cory-doctorow-what-the-internet-is-for/
+2018-11-06T09:46:20-05:00	On the path to improvement, follow the jester, not the sage | Aeon Classics https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage
+2018-11-06T10:02:21-05:00	Programming Quotes http://quotes.cat-v.org/programming/
+2018-11-06T17:01:00-05:00	Mindstorms https://mindstorms.media.mit.edu/
+2018-11-06T17:06:06-05:00	Band name of the day: art crimes unit
+2018-11-06T17:07:10-05:00	David Bowie on Death, Violence and Chaos in "Outside" - YouTube https://www.youtube.com/watch?v=-R9W2fUddiE
+2018-11-07T07:50:53-05:00	Band name of the day: a motley assortment of screaming machines
+2018-11-07T07:54:43-05:00	Band name of the day: fossil ape
+2018-11-07T09:18:05-05:00	Scheme Macros V: Conditionals | Veit's Blog https://blog.veitheller.de/Scheme_Macros_V:_Conditionals.html
+2018-11-07T09:20:10-05:00	Larry "Wild Man" Fischer: An Outsider Icon https://tedium.co/2018/11/06/larry-wild-man-fischer-history/
+2018-11-07T09:22:02-05:00	Bad idea of the day: A gritty reboot of Rowan & Martin's Laugh-In starring Rowan Atkinson and Dmitri Martin
+2018-11-07T09:23:14-05:00	If-statements in Smalltalk - Beware of the Train https://pozorvlak.livejournal.com/94558.html
+2018-11-07T09:26:02-05:00	The Universe of Discourse : Design patterns of 1972 https://blog.plover.com/2006/09/11/
+2018-11-07T09:47:33-05:00	Sci-Fi Writer Greg Egan and Anonymous Math Whiz Advance Permutation Problem | Quanta Magazine https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/
+2018-11-07T09:58:56-05:00	An OCR cliche: Into his/her anus | Fill His Head First with a Thousand Questions https://wraabe.wordpress.com/2009/03/07/an-ocr-cliche-into-hisher-anus/
+2018-11-07T10:13:59-05:00	Schrödinger’s Capital: How Marxists erased Marx&#8217;s prediction of capitalist collapse | The Real Movement https://therealmovement.wordpress.com/2016/03/31/schrodingers-capital-how-marxists-erased-marxs-prediction-of-capitalist-collapse/
+2018-11-07T10:21:14-05:00	Deny and become: the radical ethos of negative capability | Aeon Essays https://aeon.co/essays/deny-and-become-the-radical-ethos-of-negative-capability
+2018-11-07T11:31:31-05:00	Bad idea of the day: drawing a unicursal hexagram in the center of the Magic Roundabout in Hartfordshire
+2018-11-07T11:38:37-05:00	Band name of the day: prestige cannibalism
+2018-11-07T12:08:29-05:00	The Programming Language Oberon https://miasap.se/obnc/oberon-report.html
+2018-11-07T12:17:42-05:00	Nix Language Primer | binary.phile http://www.binaryphile.com/nix/2018/07/22/nix-language-primer.html
+2018-11-07T12:19:34-05:00	http://doc.cat-v.org/plan_9/1st_edition/designing_plan_9
+2018-11-07T12:28:54-05:00	Apparently, the Bell Labs 'squeak' UI language is unrelated to the Smalltalk dialect of the same name, despite both being message-passing systems with strong GUI support http://doc.cat-v.org/bell_labs/squeak/squeak.pdf
+2018-11-07T12:39:48-05:00	I'm in this weird situation with the new book where, of the systems I'm planning to cover, the one I'm most familiar with is menuet. Imagine being in a position where, for any set of things, the most familiar item is menuet.
+2018-11-07T13:30:52-05:00	The Haunting of Hill House: The Ghosts No One Is Talking About " Wisecrack Quick Take - YouTube https://www.youtube.com/watch?v=FBa59EL-axk
+2018-11-07T15:49:55-05:00	I'm going to be periodically posting research resources for the new book here, as I find them: http://www.lord-enki.net/resources-survey-of-alternatives.html
