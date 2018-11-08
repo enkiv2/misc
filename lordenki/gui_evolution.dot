@@ -1,0 +1,164 @@
+digraph gui_family_tree {
+	rankdir=LR;
+	style=rounded;
+	subgraph "cluster_1940-1949" {
+		label="1940-1949";
+		"Memex";
+		sortv=4
+	}
+	subgraph "cluster_1950-1959" {
+		label="1950-1959";
+		sortv=5
+	}
+	subgraph "cluster_1950-1959" { "Sketch Pad" [fontcolor=green];}
+	subgraph "cluster_1960-1969" {
+		label="1960-1969";
+		sortv=6
+	}
+	subgraph "cluster_1960-1969" {
+		"Xanadu" [fontcolor=purple];
+		"NLS (oN-Line System)" [fontcolor=blue];
+		"Problem Oriented Language" [fontcolor=sienna];
+		"LISP" [fontcolor=red];
+		"UNIX" [fontcolor=magenta];
+		"Memex" -> "NLS (oN-Line System)";
+		"Memex" -> "Xanadu";
+		"Memex" -> "Memex Revisited";
+		"Sketch Pad" -> "NLS (oN-Line System)" [color=green; label="Interactive computing"];
+		"Sketch Pad" -> "Xanadu" [color=green; label="Interactive computing, vector graphics"];
+		"NLS (oN-Line System)" -> "Xanadu" [color=blue];
+		"Xanadu" -> "NLS (oN-Line System)" [color=purple];
+		"MULTICS" -> "UNIX";
+		"Simula";
+		"MUMPS";
+		"Xanadu" -> "HES" [color=purple; label="Jump links"];
+		"HES" -> "FRESS";
+		"PLATO" -> "FRESS";
+	}
+	subgraph "cluster_1970-1979" {
+		label="1970-1979";
+		sortv=7
+	}
+	subgraph "cluster_1970-1979" {
+		"PLATO" -> "Lotus Notes";
+		"FRESS" -> "ZOG" [label="Jump links"];
+		"ZOG" -> "PROMIS"[label="Jump links, card interface"];
+		"Xerox Alto" [fontcolor=orange];
+		"Simula" -> "Oberon";
+		"Simula" -> "Xerox Alto";
+		"LISP" -> "Xerox Alto" [color=red; label="Minimalist language, homoiconicity"];
+		"Problem Oriented Language" -> "FORTH" [color=sienna; label="Minimalist language, stack orientation"];
+		"NLS (oN-Line System)" -> "Oberon" [color=blue; label="Mouse"];
+		"NLS (oN-Line System)" -> "Xerox Alto" [color=blue; label="Mouse, groupware"];
+		"VisiCalc";
+		"FRESS" -> "EDS" [label="Jump links"];
+	}
+	subgraph "cluster_1980-1989" {
+		label="1980-1989";
+		sortv=8
+	}
+	subgraph "cluster_1980-1989" {
+		"ZOG" -> "KMS" [label="Jump links, card interface"];
+		"ZOG" -> "ENQUIRE" [label="Jump links, card interface"];
+		"ZOG" -> "StorySpace" [label="Jump links, card interface"];
+		"LISP" -> "Symbolics LISP machine" [color=red; label="LISP"];
+		"Symbolics LISP machine" -> "SDS";
+		"Xanadu" -> "GNU Info" [color=purple; label="Jump links"];
+		"GNU Info" -> "SDS" [label="Jump links, online documentation"];
+		"FRESS" -> "OWL Guide" [label="Jump links"];
+		"LISP" -> "NoteCards" [label="LISP"];
+		"ZOG" -> "NoteCards" [label="Jump links, card interface"];
+		"FRESS" -> "InterMedia" [label="Jump links"];
+		"Corvus Concept";
+		"VisiCalc" -> "Cambridge Z88" [label="Formulae on tabular data"];
+		subgraph "cluster_xu" {
+			label="Autodesk / XOC";
+			"Xanadu" -> "Udanax Green" [color=purple; label="Transpointing windows, permanent addresses"];
+			"Xanadu" -> "Udanax Gold" [color=purple; label="Transpointing windows, permanent addresses"];
+		}
+		subgraph "cluster_apple" {
+			label="Apple";
+			"Macintosh Classic" [fontcolor=yellow];
+			"Xerox Alto" -> "Apple Lisa" [color=orange; label="WIMP"];
+			"Apple Lisa" -> "Macintosh Classic" [label="WIMP"];
+			"Macintosh Classic" -> "HyperCard" [color=yellow; label="Resource orientation"];
+			"ZOG" -> "HyperCard" [label="Jump links, card interface"];
+		}
+		"UNIX" -> "NeXT" [color=magenta; label="POSIX API and userland tools"];
+		"Macintosh Classic" -> "NeXT" [color=yellow; label="WIMP, resource model"];
+		"Macintosh Classic" -> "GeOS" [color=yellow; label="WIMP"];
+		subgraph "cluster_plan9" {
+			label="Plan9";
+			"UNIX" -> "Plan9" [color=magenta; label="POSIX API and userland tools"];
+			"Oberon" -> "Plan9" [label="Mouse chording, hybrid text-graphics system"];
+			"Xerox Alto" -> "Plan9" [label="WIMP"];
+			"Plan9" -> "Help" [label="Mouse chording, hybrid text-graphics system"];
+			"Plan9" -> "Rio" [label="Mouse chording, hybrid text-graphics system, special files"];
+		} 
+		"Literate Programming" -> "Swyft" [label="Document-orientation"];
+		"Swyft" -> "Canon Cat" [label="Document-orientation, LEAP key navigation"];
+		"FORTH" -> "Canon Cat" [label="FORTH language support"];
+		"Macintosh Classic" -> "Commodore Amiga" [label="WIMP"];
+		"Macintosh Classic" -> "GEM" [label="WIMP"];
+		subgraph "cluster_forths" {
+			label="FORTH derivatives";
+			"FORTH" -> "MachineForth" [label="Stack orientation, word parsing, standard forth words"];
+			"FORTH" -> "PostScript" [label="Stack orientation, word parsing, standard forth words"];
+			"PostScript" -> "Display PostScript" [label="Stack orientation, word parsing, standard PostScript words"];
+		}
+		"FORTH" -> "Psion" [label="FORTH language support"];
+		"UNIX" -> "NeWS" [color=magenta; label="Underlying UNIX system"];
+		"Xerox Alto" -> "NeWS" [color=orange; label="WIMP"];
+		"Xerox Alto" -> "HyperNeWS" [color=orange; label="Object orientation, message passing, actor model"];
+		"Display PostScript" -> "NeWS" [label="Implementation language"];
+		"NeWS" -> "HyperNeWS" [label="Implementation environment"];
+		"HyperCard" -> "HyperNeWS" [label="Jump links, card interface"];
+	}
+	subgraph "cluster_1990-1999" {
+		label="1990-1999";
+		sortv=9
+	}
+	subgraph "cluster_1990-1999" {
+		"Psion" -> "Palm" [label="Mobile, pen computing"];
+		"Psion" -> "Newton" [label="Mobile, pen computing"];
+		"GeOS" -> "Palm";
+		"Macintosh Classic" -> "Palm" [color=yellow; label="Resource model"];
+		"Macintosh Classic" -> "Newton" [color=yellow; label="Resource model"];
+		"LISP" -> "Newton" [color=red; label="Scheme derivative on platform"]
+		"VisiCalc" -> "ZigZag" [label="Tabular data, formulae"];
+		"Macintosh Classic" -> "Macintosh OS X" [color=yellow; label="WIMP, single-button mouse"];
+		"Macintosh Classic" -> "Menuet" [color=yellow; label="WIMP"];
+		"Macintosh Classic" -> "Be" [color=yellow; label="WIMP"];
+		"UNIX" -> "Be" [color=magenta; label="POSIX API and userland tools"];
+		"Xerox Alto" -> "Morphic" [color=orange; label="Smalltalk, message-passing, actor model"];
+		"Plan9" -> "Inferno";
+		"NeXT" -> "Macintosh OS X" [label="Underlying environment"];
+		"Plan9" -> "WISH" [label="The name TK, the concept of a REPL for controlling widgets, some command names"];
+		"MachineForth" -> "ColorForth" [label="Stack orientation, FORTH words"];
+		"Literate Programming" -> "Inform" [label="Document orientation"];
+		"ENQUIRE" -> "World Wide Web" [color=purple; label="Jump links"];
+		"World Wide Web" -> "Wiki" [label="Implementation environment"];
+		"HyperCard" -> "Wiki" [label="World-editability"];
+		"WISH" -> "Rebol" [label="REPL for controlling widgets, tool-command structure"];
+	}
+	subgraph "cluster_2000-2009" {
+		label="2000-2009";
+		sortv=10
+	}
+	subgraph "cluster_2000-2009" {
+		"Palm" -> "Android" [label="Resource model, touch computing"];
+		"UNIX" -> "Android" [label="Kernel & userland"];
+		"Palm" -> "IOS" [label="Resource model, touch computing"];
+		"LISP" -> "Interim" [color=red; label="Scheme for implementation language"];
+		"Problem Oriented Language" -> "TempleOS" [color=sienna; label="Extreme minimalism"];
+		"Literate Programming" -> "JuPyter" [label="Document orientation"];
+		"Be" -> "Haiku" [label="APIs, user tools"];
+		"Canon Cat" -> "The Humane Environment / Archy" [label="LEAP"];
+		"Oberon" -> "Interim" [label="Minimal mouse-enabled text interface"];
+		"Oberon" -> "TempleOS" [label="Minimal mouse-enabled text interface"];
+		"UNIX" -> "TempleOS" [label="Independent composable tools"];
+		"Hypercard" -> "TempleOS" [label="Jump links for online help"];
+		"Rebol" -> "Red" [label="Rebol language primitives & syntax"];
+		"Xanadu" -> "XanaduSpace" [color=purple; label="Transpointing windows, permanent store"];
+	}
+} 

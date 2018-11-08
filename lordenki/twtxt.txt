@@ -4194,3 +4194,8 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-11-07T13:30:52-05:00	The Haunting of Hill House: The Ghosts No One Is Talking About " Wisecrack Quick Take - YouTube https://www.youtube.com/watch?v=FBa59EL-axk
 2018-11-07T15:49:55-05:00	I'm going to be periodically posting research resources for the new book here, as I find them: http://www.lord-enki.net/resources-survey-of-alternatives.html
 2018-11-07T16:12:29-05:00	Resources for A Survey Of Alternatives http://www.lord-enki.net/resources-survey-of-alternatives.html
+2018-11-08T06:51:57-05:00	Bad idea of the day: a smartphone with a full-sized model m keyboard and a full-sized bell handset but a regular smartphone sized screen
+2018-11-08T06:52:27-05:00	Bad idea of the day: a smartphone with a full-sized model m keyboard and a full-sized bell handset but a regular smartphone sized screen *that is also e-ink*
+2018-11-08T08:03:24-05:00	Hot take: social constructs are notoriously difficult to build universal theories about, because belief is fickle and eldrich. Talking or thinking about social constructs is liable to make them change
+2018-11-08T12:44:11-05:00	My attempt at mapping the flow of influence in UI development thus far: http://www.lord-enki.net/gui_evolution2.png
+2018-11-08T16:09:46-05:00	Yes, technically everything with nested directories is UNIX-inspired. No, that's not interesting.
