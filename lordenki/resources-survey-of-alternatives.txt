@@ -8,6 +8,7 @@ https://funcall.blogspot.com/2009/03/not-lisp-again.html
 https://blog.veitheller.de/Scheme_Macros_V:_Conditionals.html
 http://www.sicpdistilled.com/
 http://dump.mntmn.com/interim-paper/
+http://danmidwood.com/content/2014/11/21/animated-paredit.html
 Dataspace / Those Memex Dreams Again
 http://natecull.org/wordpress/2017/06/26/dataspace-0/
 http://natecull.org/wordpress/2017/07/05/dataspace-1/
@@ -22,11 +23,34 @@ http://natecull.org/wordpress/2017/07/13/dataspace-9-a-tower-of-nulls-and-awkwar
 http://natecull.org/wordpress/2018/08/16/dataspace-10-an-array-representation/
 Smalltalk / Self / Alto / Morphic
 http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html
+http://history-computer.com/Library/Kay72.pdf
+http://www.digibarn.com/friends/butler-lampson/index.html
+http://www.digibarn.com/collections/books/xerox-parc-1970-80/alto-article/index.html
 https://pozorvlak.livejournal.com/94558.html
+http://wiki.squeak.org/squeak/uploads/400/Smalltalk-76.pdf
+http://xeroxalto.computerhistory.org/Filene/Smalltalk-76/.document.press!1.pdf
 https://www.youtube.com/watch?v=BauuOoB6EIU
 https://www.youtube.com/watch?v=Ox5P7QyL774
 https://www.youtube.com/watch?v=3ka4KY7TMTU
 http://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
+http://www.righto.com/2016/10/simulating-xerox-alto-with-contralto.html
+http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html
+https://github.com/livingcomputermuseum/ContrAlto
+http://toastytech.com/guis/salto.html
+http://toastytech.com/guis/salto2.html
+https://github.com/brainsqueezer/salto_simulator
+https://github.com/marciot/retroweb-salto-simulator-js
+http://retroweb.maclab.org/?emulator=salto-alto
+http://retroweb.maclab.org/?emulator=xerox-star
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/25-Alto.pdf
+http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/alto/Alto_Hardware_Manual_Aug76.pdf
+http://bitsavers.org/pdf/xerox/alto/Alto_Users_Handbook_Sep79.pdf
+http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/alto/GypsyEvaluation_Sep76.pdf
+http://www.computerhistory.org/atchm/xerox-alto-source-code/
+http://bitsavers.org/pdf/xerox/alto/
+http://www.digibarn.com/collections/devices/alto-keyset/index.html
+http://www.digibarn.com/collections/devices/alto-mouse/index.html
+http://www.digibarn.com/collections/software/alto/index.html
 https://www.youtube.com/watch?v=IwL3yXdupv0
 https://www.youtube.com/watch?v=A9n2J24Jg2Y
 https://www.cs.ucsb.edu/~urs/oocsb/self/release/Self-4.0/Tutorial/index.html
@@ -38,6 +62,8 @@ http://wiki.c2.com/?MorphicInterface
 http://wiki.squeak.org/squeak/1870
 http://wiki.squeak.org/squeak/6514
 Oberon
+http://www.projectoberon.com/
+http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
 https://github.com/schierlm/oberon-risc-emu-enhanced
 https://miasap.se/obnc/
 https://miasap.se/obnc/oberon-report.html
@@ -84,6 +110,9 @@ http://www.kolibrios.org/en/
 https://www.dedoimedo.com/computers/kolibrios.html
 http://wiki.kolibrios.org/wiki/Main_Page
 http://www.pccat.ex.ac.uk/2011/PCCAT2011-Proceedings.pdf
+Genode / SculptOS
+https://genode.org/download/sculpt
+https://genode.org/documentation/articles/sculpt-vc
 Swyft / Canon Cat / The Humane Environment (THE) / ZUI / Archy
 http://www.digibarn.com/collections/systems/swyft/index.html
 https://archive.org/details/SwyftCardPatent
@@ -130,6 +159,7 @@ Amiga
 http://zero.eik.bme.hu/~balaton/qemu/amiga/
 http://blog.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/
 Be / Haiku
+https://www.haiku-os.org/docs/HIG/index.xml
 https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/
 Multics
 http://swenson.org/multics_wiki/index.php?title=Getting_Started#Using_the_Multics_QuickStart
@@ -182,6 +212,16 @@ https://www.youtube.com/watch?v=fZi4gUjaGAM
 https://www.youtube.com/watch?v=72nfrhXroo8
 https://www.youtube.com/watch?v=LabqeJEOQyI
 http://www.cs.umd.edu/hcil/hyperties/
+PERQ / ZOG / KMS / Sapphire / Expeditee
+http://www.digibarn.com/collections/systems/perqt2/index.html
+https://figshare.com/articles/Experience_with_the_ZOG_human-computer_interface_system/6605399
+http://www.dtic.mil/dtic/tr/fulltext/u2/a156769.pdf
+https://www.mirrorservice.org/sites/www.bitsavers.org/pdf/perq/RD_Davis/Davis-PERQ_Workstations_Nov03.pdf
+http://www.chilton-computing.org.uk/acd/sus/perq_history/overview.htm
+https://www.youtube.com/watch?v=OHELJqtxLmM
+https://www.cs.cmu.edu/~bam/papers/SapphireUI-IEEECGA.pdf
+https://books.google.com/books?id=xcmoCAAAQBAJ&pg=PA64&lpg=PA64&dq=sapphire+window+manager&source=bl&ots=50tzrFiQ5a&sig=-sbIxpX70y7IySSJZKD4WR98GCA&hl=en&sa=X&ved=2ahUKEwj_0cXakcjeAhWwneAKHY9kCNIQ6AEwAXoECAAQAQ#v=onepage&q=sapphire%20window%20manager&f=false
+https://expeditee.org/doku.php
 DynamicLand
 https://dynamicland.org/
 https://rsnous.com/posts/notes-from-dynamicland-geokit/
@@ -251,3 +291,4 @@ History
 https://arstechnica.com/features/2005/05/gui/
 https://en.m.wikipedia.org/wiki/History_of_the_graphical_user_interface
 http://www.digibarn.com/stories/desktop-history/bushytree.html
+http://www.blinkenlights.com/pc.shtml
