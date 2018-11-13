@@ -4,13 +4,13 @@ sbot publish --type post --text "$(
 	awk '
 	BEGIN {
 		FS="\t"
-		print "Links digest\n"
+		print "The Redundant Daily Redundant: a daily digest of 23 links you (should) have already seen\n"
 	} { 
 		title=$3
 		if (title=="")
 			title=$1 
 		print "* [" title "](" $1 ")"; 
 	} END { 
-		print "\n[Links archive](http://www.lord-enki.net/links.html)"
+		print "\n[archive](http://www.lord-enki.net/links.html)"
 	}')"
 

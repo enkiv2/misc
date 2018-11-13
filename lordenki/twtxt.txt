@@ -4437,3 +4437,73 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-11-13T07:17:31-05:00	GitHub - rebol/rebol: Source code for the Rebol interpreter https://github.com/rebol/rebol
 2018-11-13T07:27:45-05:00	Red Programming Language https://red.github.io/
 2018-11-13T07:32:57-05:00	Where Tcl and Tk Went Wrong | DedaSys Journal https://journal.dedasys.com/2010/03/30/where-tcl-and-tk-went-wrong/
+2018-11-13T07:38:06-05:00	The Problem With APLs • Hillel Wayne https://www.hillelwayne.com/post/the-problem-with-apls/
+2018-11-13T07:42:08-05:00	The role of history in a society afflicted by short-termism | Aeon Essays https://aeon.co/essays/the-role-of-history-in-a-society-afflicted-by-short-termism
+2018-11-13T07:43:18-05:00	APL deserves its renaissance too http://wordsandbuttons.online/apl_deserves_its_renaissance_too.html
+2018-11-13T07:48:27-05:00	A History of APL in 50 Functions http://www.jsoftware.com/papers/50/
+2018-11-13T07:53:38-05:00	Preface - APL and J https://crypto.stanford.edu/~blynn/c/apl.html
+2018-11-13T07:58:49-05:00	Dyalog17: Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau - YouTube https://www.youtube.com/watch?v=9xCJ3BCIudI
+2018-11-13T08:04:00-05:00	Document Moved https://sway.com/b1pRwmzuGjqB30On
+2018-11-13T08:09:10-05:00	Mindstorms https://mindstorms.media.mit.edu/
+2018-11-13T08:14:20-05:00	The Future Will be Technical https://coolguy.website/writing/the-future-will-be-technical/background().html
+2018-11-13T08:19:30-05:00	Literate Programming http://www.literateprogramming.com/
+2018-11-13T08:24:39-05:00	Observations on Modern Computing (The Last 10 Years Were a Misstep)  " ~ajroach42.com " I'm Andrew. I write about the past and future of tech, music, media, culture, art, and activism. ... http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-misstep/
+2018-11-13T08:28:41-05:00	Five Geek Social Fallacies http://www.plausiblydeniable.com/opinion/gsf.html
+2018-11-13T08:29:50-05:00	Moved Temporarily http://allendowney.blogspot.co.nz/2018/02/learning-to-program-is-getting-harder.html
+2018-11-13T08:35:00-05:00	Visual Programming Languages - Snapshots http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/
+2018-11-13T08:40:09-05:00	Apparatus: A hybrid graphics editor and programming environment for creating interactive diagrams http://aprt.us/
+2018-11-13T08:45:19-05:00	View of Bring on The Real Computer Revolution http://ojs.stanford.edu/ojs/index.php/intersect/article/view/703/617
+2018-11-13T08:50:28-05:00	Circles Sines and Signals - Introduction https://jackschaedler.github.io/circles-sines-signals/
+2018-11-13T08:55:05-05:00	The Big Reset " Talin " Medium https://medium.com/@dreamertalin/the-big-reset-bbd0387ef065
+2018-11-13T08:55:40-05:00	Striking user interfaces http://cognitivemedium.com/striking_ui/striking_ui.html
+2018-11-13T09:00:15-05:00	'Toward a Unified Metaphysics of Fucking the Flag', Johnson & Stein. Journal of @dril Studies, volume 11, issue 388. pp 69-2501
+2018-11-13T09:00:50-05:00	Viewer-Friendly Interface - TV Tropes https://tvtropes.org/pmwiki/pmwiki.php/Main/ViewerFriendlyInterface
+2018-11-13T09:06:00-05:00	Extreme Graphical Representation - TV Tropes https://tvtropes.org/pmwiki/pmwiki.php/Main/ExtremeGraphicalRepresentation
+2018-11-13T09:11:09-05:00	Toward an exploratory medium for mathematics http://cognitivemedium.com/emm/emm.html
+2018-11-13T09:16:25-05:00	Man-Computer Symbiosis https://groups.csail.mit.edu/medg/people/psz/Licklider.html
+2018-11-13T09:17:16-05:00	Alexander R. Galloway " Brometheanism | boundary 2 http://www.boundary2.org/2017/06/alexander-r-galloway-brometheanism/
+2018-11-13T09:20:45-05:00	Band name of the day: becoming vapor
+2018-11-13T09:20:55-05:00	Band name of the day: the becoming vapor
+2018-11-13T09:21:29-05:00	Hypercapitalist East-Asia: how accelerationists make future-fuel | atractivoquenobello https://www.aqnb.com/2016/05/31/hypercapitalist-east-asia-how-accelerationists-make-future-fuel/
+2018-11-13T09:21:35-05:00	A few words on Doug Engelbart http://worrydream.com/Engelbart/
+2018-11-13T09:29:04-05:00	What It&#8217;s Like to Be a Bot " Real Life https://reallifemag.com/what-its-like-to-be-a-bot/
+2018-11-13T09:35:28-05:00	Barbara Ehrenreich&#x27;s Radical Critique of Wellness Culture | The New Republic https://newrepublic.com/article/148296/barbara-ehrenreich-radical-crtique-wellness-culture
+2018-11-13T09:36:56-05:00	Alan Kay Thesis: The Reactive Engine http://www.chilton-computing.org.uk/inf/pdfs/kay.htm
+2018-11-13T09:42:07-05:00	Loper OS &raquo; Seven Laws of Sane Personal Computing http://www.loper-os.org/?p=284
+2018-11-13T09:47:17-05:00	Homogeneous Operating Systems Are Better https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.html
+2018-11-13T09:52:27-05:00	Unix is not an acceptable Unix | Affording Play https://mkremins.github.io/blog/unix-not-acceptable-unix/
+2018-11-13T09:57:37-05:00	Thought as a Technology http://cognitivemedium.com/tat/
+2018-11-13T09:57:47-05:00	A fantastic argument in favor of the possibility of a 'new soviet man' is the consistent set of persistent behavioral and ideological changes that affect most people who spend too much time on any high-traffic imageboard.
+2018-11-13T10:00:02-05:00	Three Nightmares of the Inductive Mind &mdash; Glass Bead http://www.glass-bead.org/research-platform/three-nightmares-inductive-mind/?lang=enview
+2018-11-13T10:02:48-05:00	On Weaponised Design - Radical Networks - YouTube https://www.youtube.com/watch?v=fG_z8jyREgk
+2018-11-13T10:05:55-05:00	The Haunting of 657 Boulevard in Westfield, New Jersey https://www.thecut.com/2018/11/the-haunting-of-657-boulevard-in-westfield-new-jersey.html
+2018-11-13T10:07:59-05:00	Four Languages from Forty Years Ago - Scott Wlaschin - YouTube https://www.youtube.com/watch?v=0fpDlAEQio4
+2018-11-13T10:13:11-05:00	Bret Victor - Media for Thinking the Unthinkable - YouTube https://www.youtube.com/watch?v=oUaOucZRlmE
+2018-11-13T10:18:22-05:00	Bret Victor   The Future of Programming - YouTube https://www.youtube.com/watch?v=8pTEmbeENF4
+2018-11-13T10:28:38-05:00	A Vision of New Age with Alan Kay 1988 (VPRI 0224) - YouTube https://www.youtube.com/watch?v=Ao9X1GsUPys
+2018-11-13T10:33:49-05:00	Seminar with Alan Kay on Object Oriented Programming (VPRI 0246) - YouTube https://www.youtube.com/watch?v=QjJaFG63Hlo
+2018-11-13T10:38:59-05:00	Douglas Adams   Hyperland - YouTube https://www.youtube.com/watch?v=1iAJPoc23-M
+2018-11-13T10:44:10-05:00	Bret Victor - Inventing on Principle on Vimeo https://vimeo.com/36579366
+2018-11-13T10:49:19-05:00	Crossing-based interface - Wikipedia https://en.wikipedia.org/wiki/Crossing-based_interface
+2018-11-13T10:54:28-05:00	How To Become A Centaur https://jods.mitpress.mit.edu/pub/issue3-case
+2018-11-13T10:59:39-05:00	What's On My Mind http://www.xanadu.com.au/ted/zigzag/xybrap.html
+2018-11-13T11:04:49-05:00	squeakland : resources : books : reading list  http://www.squeakland.org/resources/books/readingList.jsp
+2018-11-13T11:09:59-05:00	Formally Specifying UIs • Hillel Wayne https://www.hillelwayne.com/post/formally-specifying-uis/
+2018-11-13T11:20:09-05:00	Postmodernism Did Not Take Place: On Jordan Peterson’s 12 Rules for Life - Viewpoint Magazine https://www.viewpointmag.com/2018/01/23/postmodernism-not-take-place-jordan-petersons-12-rules-life/
+2018-11-13T11:25:22-05:00	A History of the GUI | Ars Technica https://arstechnica.com/features/2005/05/gui/
+2018-11-13T11:25:44-05:00	A Manifesto &#8211; Evergreen Review https://evergreenreview.com/read/a-manifesto/
+2018-11-13T11:30:46-05:00	History of the graphical user interface - Wikipedia https://en.m.wikipedia.org/wiki/History_of_the_graphical_user_interface
+2018-11-13T11:35:20-05:00	Toward a Constructive Technology Criticism - Columbia Journalism Review https://www.cjr.org/tow_center_reports/constructive_technology_criticism.php/
+2018-11-13T11:41:04-05:00	Personal Computer Milestones http://www.blinkenlights.com/pc.shtml
+2018-11-13T11:44:47-05:00	Systems, Not Programs https://shalabh.com/programmable-systems/systems-not-programs.html
+2018-11-13T11:48:29-05:00	The Critical Engineering Manifesto https://criticalengineering.org/
+2018-11-13T11:52:21-05:00	302 Found https://points.datasociety.net/the-case-for-precise-outrage-407884d2d3b5
+2018-11-13T12:05:51-05:00	Every computer program is also a persuasive essay & a work of interactive performance art, and if you don't consider it through those lenses when writing it you run the risk of persuading people of something you don't agree with.
+2018-11-13T12:10:01-05:00	What's Wrong With 'X Is Dead' - The Atlantic  https://www.theatlantic.com/technology/archive/2010/08/whats-wrong-with-x-is-dead/61663/
+2018-11-13T12:17:14-05:00	The Power of Talk:&nbsp;Who Gets Heard and Why https://hbr.org/1995/09/the-power-of-talk-who-gets-heard-and-why
+2018-11-13T12:20:38-05:00	Band name of the day: subversive panda toys
+2018-11-13T12:23:14-05:00	​Miranda July and Paul Ford Cyberstalked Me - Motherboard https://motherboard.vice.com/en_us/article/aekk3b/miranda-july-and-paul-ford-cyberstalked-me
+2018-11-13T13:33:59-05:00	Faked Out " Real Life https://reallifemag.com/faked-out/
+2018-11-13T13:45:50-05:00	Search https://qz.com/1388555/everyone-hates-postmodernism-but-that-doesnt-make-it-false/
+2018-11-13T13:46:37-05:00	Why are we blaming postmodernism for Trump? | The Outline https://theoutline.com/post/2190/why-are-we-blaming-postmodernism-for-trump
+2018-11-13T13:49:54-05:00	Togelius: Empiricism and the limits of gradient descent http://togelius.blogspot.com/2018/05/empiricism-and-limits-of-gradient.html

@@ -271,6 +271,7 @@ https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.h
 https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
 General
+https://shalabh.com/programmable-systems/systems-not-programs.html
 https://www.youtube.com/watch?v=fG_z8jyREgk
 https://www.youtube.com/watch?v=0fpDlAEQio4
 https://www.youtube.com/watch?v=oUaOucZRlmE

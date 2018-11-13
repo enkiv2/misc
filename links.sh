@@ -23,7 +23,7 @@ function fmtlinks() {
 	echo "<body>"
 	echo "<table>"
 	echo "<tr><th>Link</th><th>Date</th></tr>"
-	tac ~/.linkit| awk 'BEGIN{FS="\t"} {title=$1; if($3) title=$3; print "<tr><td><a href=\"" $1 "\">" title "</a></td><td>" $2 "</td></tr>"}'
+	tac ~/.linkit| awk 'BEGIN{FS="\t"} {title=$1; if($3 != "" && $3 != "\n" && $3 != "\r") title=$3; print "<tr><td><a href=\"" $1 "\">" title "</a></td><td>" $2 "</td></tr>"}'
 	echo "</table>"
 	echo "<center><a href=\"https://github.com/enkiv2/misc/blob/master/links.sh\">Generated with links.sh</a></center>"
 	echo "</body>"
