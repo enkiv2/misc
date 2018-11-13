@@ -25,7 +25,7 @@ Smalltalk / Self / Alto / Morphic
 http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html
 http://history-computer.com/Library/Kay72.pdf
 http://www.digibarn.com/friends/butler-lampson/index.html
-http://www.digibarn.com/collections/books/xerox-parc-1970-80/alto-article/index.html
+https://guidebookgallery.org/articles/microelectronicsandthepersonalcomputer
 https://pozorvlak.livejournal.com/94558.html
 http://wiki.squeak.org/squeak/uploads/400/Smalltalk-76.pdf
 http://xeroxalto.computerhistory.org/Filene/Smalltalk-76/.document.press!1.pdf

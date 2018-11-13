@@ -4248,3 +4248,192 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-11-12T10:45:44-05:00	Property is theft -- intellectual property doubly so
 2018-11-12T11:08:58-05:00	Apparently Maggie Mae Fish & Nyx Fears are friends & that makes me happy
 2018-11-12T11:18:29-05:00	Preindustrial workers worked fewer hours than today's http://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html
+2018-11-12T12:44:15-05:00	Retrocomputing - MIT CADR Lisp Machines http://www.unlambda.com/lisp/cadr.page
+2018-11-12T12:49:30-05:00	Unlambda.com : Symbolics  http://www.unlambda.com/index.php?n=Main.Symbolics
+2018-11-12T12:54:46-05:00	Symbolics Lisp Machine Museum https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html
+2018-11-12T12:59:57-05:00	Untitled Document: 1. "Introduction" http://www.unlambda.com/lmman/lmman_1.html
+2018-11-12T13:05:13-05:00	A Short History of Chaosnet https://twobithistory.org/2018/09/30/chaosnet.html
+2018-11-12T13:10:30-05:00	Abstract Heresies: Not Lisp again.... https://funcall.blogspot.com/2009/03/not-lisp-again.html
+2018-11-12T13:15:44-05:00	Scheme Macros V: Conditionals | Veit's Blog https://blog.veitheller.de/Scheme_Macros_V:_Conditionals.html
+2018-11-12T13:20:54-05:00	Welcome to SICP Distilled http://www.sicpdistilled.com/
+2018-11-12T13:31:09-05:00	The Animated Guide to Paredit http://danmidwood.com/content/2014/11/21/animated-paredit.html
+2018-11-12T13:32:45-05:00	Jazz Deconstructed: John Coltrane's "Giant Steps" - YouTube https://www.youtube.com/watch?v=62tIvfP9A2w
+2018-11-12T13:36:21-05:00	Dataspace 0: Those Memex Dreams Again | Natepod http://natecull.org/wordpress/2017/06/26/dataspace-0/
+2018-11-12T13:36:37-05:00	Band name of the day: the cardboard belts
+2018-11-12T13:41:33-05:00	Dataspace 1: In Search of a Data Model | Natepod http://natecull.org/wordpress/2017/07/05/dataspace-1/
+2018-11-12T13:46:44-05:00	Dataspace 2: Revenge of the Data Model | Natepod http://natecull.org/wordpress/2017/07/06/dataspace-2/
+2018-11-12T13:57:02-05:00	Dataspace 4: The Term-inator | Natepod http://natecull.org/wordpress/2017/07/06/dataspace-4/
+2018-11-12T14:02:14-05:00	Dataspace 5: Introducing /all | Natepod http://natecull.org/wordpress/2017/07/09/dataspace-5/
+2018-11-12T14:07:26-05:00	Dataspace 6: Terms as Types | Natepod http://natecull.org/wordpress/2017/07/10/dataspace-6-terms-as-types/
+2018-11-12T14:12:38-05:00	Dataspace 7: A Low-Level Encoding | Natepod http://natecull.org/wordpress/2017/07/10/dataspace-7-a-low-level-encoding/
+2018-11-12T14:17:50-05:00	Dataspace 8: Example: Movie data | Natepod http://natecull.org/wordpress/2017/07/11/dataspace-8-example-movie-data/
+2018-11-12T14:23:01-05:00	Dataspace 9: A Tower of Nulls, And Awkward Sets | Natepod http://natecull.org/wordpress/2017/07/13/dataspace-9-a-tower-of-nulls-and-awkward-sets/
+2018-11-12T14:28:13-05:00	Dataspace 10: An Array Representation | Natepod http://natecull.org/wordpress/2018/08/16/dataspace-10-an-array-representation/
+2018-11-12T14:28:17-05:00	We still live in the long shadow cast by the idea of Man-the-Hunter | Aeon Essays https://aeon.co/essays/we-still-live-in-the-long-shadow-cast-by-the-idea-of-man-the-hunter
+2018-11-12T14:37:32-05:00	How To Be a Systems Thinker | Edge.org https://www.edge.org/conversation/mary_catherine_bateson-how-to-be-a-systems-thinker
+2018-11-12T14:43:39-05:00	DigiBarn Computer Museum: Why Alto? Butler Lampson's Historic 1972 Memo http://www.digibarn.com/friends/butler-lampson/index.html
+2018-11-12T14:48:48-05:00	DigiBarn Books: A Decade of Research @ Xerox PARC: Scientific American Article on Xerox Alto, 1977 http://www.digibarn.com/collections/books/xerox-parc-1970-80/alto-article/index.html
+2018-11-12T14:54:00-05:00	If-statements in Smalltalk - Beware of the Train https://pozorvlak.livejournal.com/94558.html
+2018-11-12T15:09:55-05:00	Video Ethnography of "ICARUS " on the Xerox Alto - YouTube https://www.youtube.com/watch?v=BauuOoB6EIU
+2018-11-12T15:15:30-05:00	Self: The Movie; - YouTube https://www.youtube.com/watch?v=Ox5P7QyL774
+2018-11-12T15:20:44-05:00	Self and Self: Whys and Wherefores - YouTube https://www.youtube.com/watch?v=3ka4KY7TMTU
+2018-11-12T15:26:01-05:00	The Xerox Alto, Smalltalk, and rewriting a running GUI http://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
+2018-11-12T15:31:20-05:00	Simulating a Xerox Alto with the ContrAlto simulator: games and Smalltalk http://www.righto.com/2016/10/simulating-xerox-alto-with-contralto.html
+2018-11-12T15:36:40-05:00	"Hello world" in the BCPL language on the Xerox Alto simulator http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html
+2018-11-12T15:42:00-05:00	GitHub - livingcomputermuseum/ContrAlto: This repository contains the source code for Living Computers: Museum+Labs's Xerox Alto emulator, ContrAlto. https://github.com/livingcomputermuseum/ContrAlto
+2018-11-12T15:47:18-05:00	SALTO - The Xerox Alto Simulator http://toastytech.com/guis/salto.html
+2018-11-12T15:52:31-05:00	SALTO - The Xerox Alto Simulator http://toastytech.com/guis/salto2.html
+2018-11-12T15:57:48-05:00	GitHub - brainsqueezer/salto_simulator: SALTO - Xerox Alto I/II Simulator https://github.com/brainsqueezer/salto_simulator
+2018-11-12T16:03:06-05:00	GitHub - marciot/retroweb-salto-simulator-js: Modifications to the SALTO Simulator to allow for compilation to JavaScript via Emscripten https://github.com/marciot/retroweb-salto-simulator-js
+2018-11-12T16:08:19-05:00	RetroWeb Vintage Computer Museum http://retroweb.maclab.org/?emulator=salto-alto
+2018-11-12T16:13:30-05:00	RetroWeb Vintage Computer Museum http://retroweb.maclab.org/?emulator=xerox-star
+2018-11-12T16:40:17-05:00	Xerox Alto Source Code | @CHM Blog | Computer History Museum http://www.computerhistory.org/atchm/xerox-alto-source-code/
+2018-11-12T16:45:29-05:00	Index of /pdf/xerox/alto http://bitsavers.org/pdf/xerox/alto/
+2018-11-12T16:50:39-05:00	DigiBarn Devices: Keyset from Xerox Alto II XM http://www.digibarn.com/collections/devices/alto-keyset/index.html
+2018-11-12T16:55:50-05:00	DigiBarn Devices: Mouse from Xerox Alto (with keyset) http://www.digibarn.com/collections/devices/alto-mouse/index.html
+2018-11-12T17:01:01-05:00	DigiBarn Software: Xerox Alto Operating System and Alto Applications http://www.digibarn.com/collections/software/alto/index.html
+2018-11-12T17:06:13-05:00	Dynabook: The Complete Story - YouTube https://www.youtube.com/watch?v=IwL3yXdupv0
+2018-11-12T17:11:26-05:00	Chuck Thacker, "Personal Distributed Computing"The Alto and Ethernet Hardware" - YouTube https://www.youtube.com/watch?v=A9n2J24Jg2Y
+2018-11-12T17:16:37-05:00	Self Tutorial  https://www.cs.ucsb.edu/~urs/oocsb/self/release/Self-4.0/Tutorial/index.html
+2018-11-12T17:21:48-05:00	What are Morphs? http://wiki.squeak.org/squeak/1003
+2018-11-12T17:26:58-05:00	Morphic FAQ http://wiki.squeak.org/squeak/766
+2018-11-12T17:32:14-05:00	Morphic architecture http://wiki.squeak.org/squeak/1285
+2018-11-12T17:47:43-05:00	Morphic for beginners http://wiki.squeak.org/squeak/1870
+2018-11-12T17:52:56-05:00	Morphic documentation http://wiki.squeak.org/squeak/6514
+2018-11-12T17:57:01-05:00	The Evolution Of Open &#8211; blarg? http://exple.tive.org/blarg/2018/11/09/the-evolution-of-open/
+2018-11-12T17:58:08-05:00	Home http://www.projectoberon.com/
+2018-11-12T18:08:32-05:00	GitHub - schierlm/oberon-risc-emu-enhanced: Emulator for the Oberon RISC machine, with enhanced features (not supported by the original design by N. Wirth) https://github.com/schierlm/oberon-risc-emu-enhanced
+2018-11-12T18:13:52-05:00	OBNC https://miasap.se/obnc/
+2018-11-12T18:19:04-05:00	The Programming Language Oberon https://miasap.se/obnc/oberon-report.html
+2018-11-12T18:29:24-05:00	Thoughtful Programming and Forth http://www.ultratechnology.com/forth.htm
+2018-11-12T18:34:36-05:00	Transcript of presentation on the History of Forth and aha http://www.ultratechnology.com/ahatalk.htm
+2018-11-12T18:39:47-05:00	1x Forth by Charles Moore 4/13/99 http://www.ultratechnology.com/1xforth.htm
+2018-11-12T18:44:57-05:00	eForth and Zen http://www.ultratechnology.com/efzen.htm
+2018-11-12T18:50:07-05:00	Low Fat Computing http://www.ultratechnology.com/lowfat.htm
+2018-11-12T18:55:17-05:00	The Forth Methodology of Charles Moore by Jeff Fox 12/09/01 http://www.ultratechnology.com/method.htm
+2018-11-12T19:00:27-05:00	Essential Forth http://www.ultratechnology.com/essence.htm
+2018-11-12T19:05:37-05:00	Levels of code in Forth programing http://www.ultratechnology.com/levels.htm
+2018-11-12T19:10:49-05:00	Thoughtful Programming and Forth Philosophy, Essay by Michael Misamore http://www.ultratechnology.com/forththoughts.htm
+2018-11-12T19:16:01-05:00	Thinking Forth http://thinking-forth.sourceforge.net/
+2018-11-12T19:26:23-05:00	P21Forth 1.02 User's Manual http://www.ultratechnology.com/p21intro.html
+2018-11-12T19:31:35-05:00	OK Operating System Ver F1.01 http://www.ultratechnology.com/ok101.html
+2018-11-12T19:36:46-05:00	Chuck Moore's colorForth, OKAD and S40 Forth Multicomputer chip https://colorforth.github.io/
+2018-11-12T19:41:55-05:00	Color Forth http://www.ultratechnology.com/color4th.html
+2018-11-12T19:52:07-05:00	Chuck Moore's Wonderful colorForth Programming Language and Operating System https://colorforth.github.io/cf.htm
+2018-11-12T19:57:20-05:00	ENTH Flux aha Color Forth http://www.ultratechnology.com/enthflux.htm
+2018-11-12T20:02:32-05:00	Dispelling the User Illusion, Charles Moore 5/22/99 http://www.ultratechnology.com/cm52299.htm
+2018-11-12T20:07:41-05:00	Chuck Moore's Fire Side Chat 1996 http://www.ultratechnology.com/fsc96.html
+2018-11-12T20:12:52-05:00	Chuck Moore's Fireside Chat 1998 http://www.ultratechnology.com/fsc98.htm
+2018-11-12T20:18:02-05:00	Chuck Moore's Fireside Chat 1999 http://www.ultratechnology.com/fsc99.htm
+2018-11-12T20:23:13-05:00	Chuck Moore's Fireside Chat 2000 http://www.ultratechnology.com/fsc2000.htm
+2018-11-12T20:28:25-05:00	GitHub - minexew/Shrine: A TempleOS distro for heretics https://github.com/minexew/Shrine
+2018-11-12T20:33:35-05:00	A Constructive Look At TempleOS http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
+2018-11-12T20:38:46-05:00	Recreational Programming With LoseThos http://www.osnews.com/story/23796/Recreational_Programming_With_LoseThos
+2018-11-12T20:43:58-05:00	TempleOS: an educational tool for programming experiments - TechRepublic https://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/
+2018-11-12T20:49:09-05:00	MenuetOS | A Roundup of Free Operating Systems | InformIT http://www.informit.com/articles/article.aspx?p=768380&seqNum=5
+2018-11-12T20:54:20-05:00	Comparing MenuetOS, SkyOS and AtheOS http://www.osnews.com/story/1385/Comparing-MenuetOS-SkyOS-and-AtheOS/
+2018-11-12T20:59:31-05:00	Interview With Ville Turjanmaa, the Creator of MenuetOS http://www.osnews.com/story/93/Interview_With_Ville_Turjanmaa_the_Creator_of_MenuetOS
+2018-11-12T21:04:43-05:00	We talk to the developers behind MenuetOS: an operating system written entirely in assembly language - Good Gear Guide Australia https://www.goodgearguide.com.au/article/315421/we_talk_developers_behind_menuetos_an_operating_system_written_entirely_assembly_language/?
+2018-11-12T21:09:55-05:00	MenuetOS http://www.menuetos.net/docs.htm
+2018-11-12T21:20:16-05:00	MenuetOS, an operating system written entirely in assembly, hits 1.0 - Computerworld https://www.computerworld.com.au/article/574760/menuetos-modern-operating-system-written-entirely-assembly-hits-1-0/
+2018-11-12T21:25:27-05:00	GitHub - marcosptf/menuetos: fan respository - not official - os linux made with assembly language https://github.com/marcosptf/menuetos
+2018-11-12T21:30:39-05:00	KolibriOS official site http://www.kolibrios.org/en/
+2018-11-12T21:35:52-05:00	KolibriOS - The art of small https://www.dedoimedo.com/computers/kolibrios.html
+2018-11-12T21:52:05-05:00	Genode - Sculpt OS https://genode.org/download/sculpt
+2018-11-12T21:57:18-05:00	Genode - Sculpt with Visual Composition (VC) https://genode.org/documentation/articles/sculpt-vc
+2018-11-12T22:02:28-05:00	DigiBarn Systems: Swyft information appliance http://www.digibarn.com/collections/systems/swyft/index.html
+2018-11-12T22:07:39-05:00	SwyftCard Patent : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SwyftCardPatent
+2018-11-12T22:12:51-05:00	SwyftCard Reference : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SwyftCardReference
+2018-11-12T22:18:03-05:00	SwyftCard Manual : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SwyftCardManual
+2018-11-12T22:23:13-05:00	SwyftCard Notes : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SwyftCardNotes
+2018-11-12T22:28:26-05:00	SwyftCard Reproduction : Mike Willegal : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SwyftCardReproduction/page/n7
+2018-11-12T22:33:38-05:00	Swyft And The Cat : Jef Raskin : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SwyftAndTheCat
+2018-11-12T22:38:49-05:00	Cat Work Processor : David T. Craig : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatWorkProcessor
+2018-11-12T22:44:01-05:00	Canon Cat Emulation : Jef Raskin : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/canoncat
+2018-11-12T22:49:12-05:00	Canon Cat Quick Reference Card : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatQuickReferenceCard
+2018-11-12T22:54:24-05:00	Canon Cat On-Line Tutorial : Information Appliance Inc. : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatOnLineTutorial
+2018-11-12T22:59:38-05:00	Canon Cat On-Line Help : Information Appliance Inc. : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatOnLineHelp/page/n1
+2018-11-12T23:04:49-05:00	Cat Reference Guide : David Alzofon, David Caulkins, Jef Raskin, Dr.Jalnes Winter : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatReferenceGuide
+2018-11-12T23:10:01-05:00	Cat Forth Inside : Dwight Elvey : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatForthInside
+2018-11-12T23:15:12-05:00	Canon Cat Workshop Manual : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatWorkshopManual
+2018-11-12T23:20:23-05:00	Technical Documentation For The Canon Cat Editor : David Alzofon, Lori Chavez, Jim Winter, David Caulkins, Terry Holmes, Minoru Taoyama, Jonathan Sand, John Bumgarner, Scott Kim. : Free Download, Borro... https://archive.org/details/TechnicalDocumentationForTheCanonCatEditorSep88
+2018-11-12T23:25:34-05:00	Canon Cat Hardware Schematics : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CatHardwareSchematics
+2018-11-12T23:30:46-05:00	Canon Cat Leap Technology : Information Appliance Inc. : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CanonCatLeapTechnology
+2018-11-12T23:36:00-05:00	tForth Manual : David Alzofon, Lori Chavez, Jim Winter, David Caulkins, Terry Holmes, Minoru Taoyama, Jonathan Sand, John Bumgarner, Scott Kim. : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/tForthManual
+2018-11-12T23:41:11-05:00	Canon Cat Source Code : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/CAT240SC
+2018-11-12T23:46:22-05:00	HUMANE ENVIRONMENT MANUAL V44 : Jef Raskin : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/Manual44
+2018-11-12T23:51:33-05:00	The Humane Environment Specification 84 B : Jef Raskin : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/Specification84B
+2018-11-12T23:56:44-05:00	Archy Source Code Version 115 : Jef Raskin : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/Archy115
+2018-11-13T00:01:56-05:00	Folklore.org: Rosing's Rascals http://www.folklore.org/StoryView.py?project=Macintosh&story=Rosings_Rascals.txt&sortOrder=Sort+by+Date&topic=Lisa
+2018-11-13T00:07:19-05:00	Folklore.org: Do It http://www.folklore.org/StoryView.py?project=Macintosh&story=Do_It.txt&sortOrder=Sort+by+Date&topic=Lisa
+2018-11-13T00:12:44-05:00	Folklore.org: MacPaint Evolution http://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Evolution.txt&sortOrder=Sort+by+Date&topic=Lisa
+2018-11-13T00:17:55-05:00	Folklore.org: Busy Being Born http://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt&sortOrder=Sort+by+Date&topic=Lisa
+2018-11-13T00:23:08-05:00	GUIdebook &gt; Articles &gt; &ldquo;Inventing the Lisa User Interface&rdquo; https://guidebookgallery.org/articles/inventingthelisauserinterface
+2018-11-13T00:28:18-05:00	Folklore.org: The Grand Unified Model (1) - Resources http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model.txt&sortOrder=Sort+by+Date&topic=Software+Design
+2018-11-13T00:33:32-05:00	Folklore.org: The Grand Unified Model (2) - The Finder http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model_The_Finder.txt&sortOrder=Sort+by+Date&topic=Software+Design
+2018-11-13T00:38:42-05:00	Folklore.org: Desk Ornaments http://www.folklore.org/StoryView.py?project=Macintosh&story=Desk_Ornaments.txt&sortOrder=Sort+by+Date&topic=Software+Design
+2018-11-13T00:43:57-05:00	Translating HyperTalk to JavaScript http://lexnet.bravepages.com/HTMLJS.htm
+2018-11-13T00:49:14-05:00	PERIPHERALS; It's, Well, HyperCard - The New York Times https://www.nytimes.com/1987/08/18/science/peripherals-it-s-well-hypercard.html
+2018-11-13T00:54:31-05:00	My old HyperCard stack (Phil Gyford&#8217;s website) https://www.gyford.com/phil/writing/2017/08/16/hypercard-tea/
+2018-11-13T00:59:44-05:00	Wiki Wiki Hypercard &#8211; Adam Croom's Wikity http://acroom.wikity.cc/wiki-wiki-hypercard/
+2018-11-13T01:04:56-05:00	Loper OS &raquo; Why Hypercard Had to Die http://www.loper-os.org/?p=568
+2018-11-13T01:10:08-05:00	Internet Archive: Error https://archive.org/details/HypercardBootVolume
+2018-11-13T01:15:19-05:00	GitHub - downpoured/vipercard: An open source rewrite of 1987's HyperCard https://github.com/downpoured/vipercard
+2018-11-13T01:20:32-05:00	GitHub - uliwitness/Stacksmith: An intuitive software erector kit targeted at people new to programming, but with enough potential to stay useful once they've learned, inspired by HyperCard. https://github.com/uliwitness/stacksmith/
+2018-11-13T01:25:43-05:00	Amiga like OSes on QEMU http://zero.eik.bme.hu/~balaton/qemu/amiga/
+2018-11-13T01:30:59-05:00	Exploring the Amiga - Part 1 - The Digital Cat http://blog.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/
+2018-11-13T01:36:10-05:00	Haiku Human Interface Guidelines https://www.haiku-os.org/docs/HIG/index.xml
+2018-11-13T01:41:27-05:00	Scripting the GUI with 'hey' | Haiku Project https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/
+2018-11-13T01:46:43-05:00	Getting Started - Multics Wiki http://swenson.org/multics_wiki/index.php?title=Getting_Started#Using_the_Multics_QuickStart
+2018-11-13T01:51:59-05:00	BAN.AI Public Access Multics https://ban.ai/multics/
+2018-11-13T01:57:16-05:00	http://doc.cat-v.org/plan_9/1st_edition/designing_plan_9
+2018-11-13T02:17:49-05:00	The Text Editor sam http://doc.cat-v.org/plan_9/4th_edition/papers/sam/
+2018-11-13T02:23:03-05:00	Acme: A User Interface for Programmers http://doc.cat-v.org/plan_9/4th_edition/papers/acme/
+2018-11-13T02:28:14-05:00	The Acme Readme http://acme.cat-v.org/readme
+2018-11-13T02:43:38-05:00	The Organization of Networks in Plan 9 http://doc.cat-v.org/plan_9/4th_edition/papers/net/
+2018-11-13T02:48:56-05:00	The Limbo Programming Language http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
+2018-11-13T02:54:09-05:00	A Descent into Limbo http://doc.cat-v.org/inferno/4th_edition/limbo_language/descent
+2018-11-13T02:59:21-05:00	The Inferno Operating System http://doc.cat-v.org/inferno/4th_edition/inferno_OS
+2018-11-13T03:04:34-05:00	The Styx Architecture for Distributed Systems http://doc.cat-v.org/inferno/4th_edition/styx
+2018-11-13T03:09:45-05:00	Program Development under Inferno http://doc.cat-v.org/inferno/4th_edition/development
+2018-11-13T03:20:02-05:00	The Inferno Shell http://doc.cat-v.org/inferno/4th_edition/inferno_shell
+2018-11-13T03:25:20-05:00	Acid Manual http://doc.cat-v.org/plan_9/4th_edition/papers/acid
+2018-11-13T03:30:34-05:00	Native Kernel Debugging with Acid http://doc.cat-v.org/inferno/4th_edition/kernel_debugging/
+2018-11-13T03:35:52-05:00	Acid: A Debugger Built From A Language http://doc.cat-v.org/plan_9/4th_edition/papers/acidpaper
+2018-11-13T03:41:11-05:00	inferno programmer's notebook http://ipn.caerwyn.com/
+2018-11-13T03:46:24-05:00	inferno@interstice.com and inferno@artnet.com.br list archives http://doc.cat-v.org/inferno/historical_documents/mailing_lists/interstice/
+2018-11-13T03:51:42-05:00	Index of /files http://akaros.cs.berkeley.edu/files/
+2018-11-13T03:56:56-05:00	GitHub - brho/plan9: UC Berkeley release of Plan 9 under the GPLv2 https://github.com/brho/plan9
+2018-11-13T04:07:16-05:00	Harvey OS https://harvey-os.org/
+2018-11-13T04:12:34-05:00	Jehanne http://jehanne.io/pages/overview.html
+2018-11-13T04:17:48-05:00	GitHub - jvburnes/node9: A portable hybrid distributed OS based on Inferno, LuaJIT and Libuv https://github.com/jvburnes/node9
+2018-11-13T04:28:09-05:00	Inferno Downloads http://www.vitanuova.com/inferno/downloads.html
+2018-11-13T04:33:28-05:00	noVNC http://tryinferno.reverso.be/
+2018-11-13T04:44:43-05:00	How to make your own Xanadu demo · GitHub https://gist.github.com/ldodds/a7f901c7f0118e83a645
+2018-11-13T04:50:04-05:00	Xanadu Basics 1a - VISIBLE CONNECTION - YouTube https://www.youtube.com/watch?v=hMKy52Intac
+2018-11-13T04:55:19-05:00	Xanadu Basics 1b-- INDIRECT DOCUMENT DELIVERY - YouTube https://www.youtube.com/watch?v=1gPM3GqjMR4
+2018-11-13T05:00:30-05:00	Xanadu Basics 1c - Parallel Media. Parallel Subjects - YouTube https://www.youtube.com/watch?v=hGKbRcvIZT8
+2018-11-13T05:05:42-05:00	Xanadu Basics 2 - Five working Xanadu Systems (four usable) - YouTube https://www.youtube.com/watch?v=9_o8q4Sp-w0
+2018-11-13T05:10:54-05:00	Xanadu Basics 3 - Browser Law - YouTube https://www.youtube.com/watch?v=kV_vYkSmkxk
+2018-11-13T05:16:03-05:00	HyperLook (aka HyperNeWS (aka GoodNeWS)) http://www.art.net/~hopkins/Don/hyperlook/
+2018-11-13T05:21:16-05:00	301 Moved Permanently http://www.donhopkins.com/drupal/node/102
+2018-11-13T05:26:28-05:00	PSIBER Space Deck Demo - YouTube https://www.youtube.com/watch?v=iuC_DDgQmsM
+2018-11-13T05:31:46-05:00	HCIL Demo - HyperTIES Browsing - YouTube https://www.youtube.com/watch?v=fZi4gUjaGAM
+2018-11-13T05:36:58-05:00	The Web That Wasn't - YouTube https://www.youtube.com/watch?v=72nfrhXroo8
+2018-11-13T05:42:26-05:00	Web 2.0 Expo NY: Clay Shirky (shirky.com) It's Not Information Overload. It's Filter Failure. - YouTube https://www.youtube.com/watch?v=LabqeJEOQyI
+2018-11-13T05:47:51-05:00	Hypertext Research: The Development of HyperTIES http://www.cs.umd.edu/hcil/hyperties/
+2018-11-13T05:53:10-05:00	DigiBarn: PERQ T2 and all about PERQs http://www.digibarn.com/collections/systems/perqt2/index.html
+2018-11-13T06:03:34-05:00	403 Forbidden http://www.dtic.mil/dtic/tr/fulltext/u2/a156769.pdf
+2018-11-13T06:19:27-05:00	Sapphire   1984 - YouTube https://www.youtube.com/watch?v=OHELJqtxLmM
+2018-11-13T06:30:14-05:00	Methodology of Win... https://books.google.com/books?id=xcmoCAAAQBAJ&pg=PA64&lpg=PA64&dq=sapphire+window+manager&source=bl&ots=50tzrFiQ5a&sig=-sbIxpX70y7IySSJZKD4WR98GCA&hl=en&sa=X&ved=2ahUKEwj_0cXakcjeAhWwneAKHY9kCNIQ6AEwAXoECAAQAQ#v=onepage&q=sapphire%20window%20manager&f=false
+2018-11-13T06:35:39-05:00	start [expeditee.org] https://expeditee.org/doku.php
+2018-11-13T06:40:54-05:00	Dynamicland https://dynamicland.org/
+2018-11-13T06:44:16-05:00	COLA (software architecture) - Wikipedia https://en.wikipedia.org/wiki/COLA_(software_architecture)
+2018-11-13T06:46:12-05:00	Notes from Dynamicland: Geokit https://rsnous.com/posts/notes-from-dynamicland-geokit/
+2018-11-13T06:51:31-05:00	Inform: Past, Present, Future http://www.emshort.com/ifmu/inform.html
+2018-11-13T06:55:54-05:00	I've got a 1993 printing of the 1985 edition of SICP and it feels really nice to hold -- solid and compact and un-awkward.
+2018-11-13T06:56:47-05:00	REBOL Language http://www.rebol.com/
+2018-11-13T07:07:12-05:00	webreview.com - Why Rebol Matters https://web.archive.org/web/19991012205739/http://webreview.com:80/pub/1999/08/27/feature/index2.html
+2018-11-13T07:17:31-05:00	GitHub - rebol/rebol: Source code for the Rebol interpreter https://github.com/rebol/rebol
+2018-11-13T07:27:45-05:00	Red Programming Language https://red.github.io/
+2018-11-13T07:32:57-05:00	Where Tcl and Tk Went Wrong | DedaSys Journal https://journal.dedasys.com/2010/03/30/where-tcl-and-tk-went-wrong/
