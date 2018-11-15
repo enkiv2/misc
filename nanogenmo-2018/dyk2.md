@@ -1,15368 +1,41403 @@
 # Did you know...
 
-...that   the   Tower
-                  of  the  Sun
-             (pictured),   created
-by  Japanese
-                  a   r   t   i   s   t
-                  Tar≈ç   Okamoto
-        f   o   r
-             t h e
-        1970   Expo,   has
-        three faces,
-             representing   the
-past,   the   present
-a  n  d
-                  t h e
-             f  u  t  u  r  e  ?
-
-
-             ...  that  Kentucky
-             Senator  Archibald  Dixon
-w a s
-        primarily   responsible
-        for the
-             r   e   p   e   a   l
-of   the   slavery
-restrictions of
-             the Missouri
-Compromise in Nebraska
-             Territory  and
-                  K  a  n  s  a  s
-             T e r r i t o r y ?
-
-
-...  that  the
-             Overman   Committee,   led
-        by  Senator  Lee
-                  S l a t e r
-        Overman, investigated
-allegations  that
-groups such as
-             the   United
-S t a t e s
-             Brewers  Association
-        were  promoting  "un-American
-             a  c  t  i  v  i  t  i  e  s  "  ?
-
-
-                  ...that  modern  historians
-                  still   debate
-                  on  whether
-                  or  not
-the Ming Dynasty
-                  (1368‚Äì1644)  of  China
-        had  sovereignty  over
-T   i   b   e   t   ?
-
-
-
-
-.   .   .
-that   Mike   and
-Janet   Huckabee   became
-             the   first   governor
-             and   spouse
-                  to run
-             on the same
-             ballot   for
-        state office in
-                  the 2002
-Arkansas gubernatorial
-                  e   l   e   c   t   i   o   n   ?
-
-
-        ...that   Ho   people,
-             in Jharkhand, India,
-             h a v e
-             a literacy rate
-                  o   f
-        3   9   .   2   %   ,
-        l   o   w   e   r
-        than  the  state
-average  which
-is amongst the
-lowest literacy
-             r a t e s
-             i  n
-        I   n   d   i   a   ?
-
-
-        ...that   the   Emancipation
-        Memorial   (pictured),
-             a  monument  in
-W a s h i n g t o n ,
-D C
-                  d  e  p  i  c  t  i  n  g
-             A b r a h a m
-Lincoln in
-                  his   role   of
-        the   "Great
-             Emancipator", was
-paid   for   by
-        f  o  r  m  e  r
-                  s   l   a   v   e   s   ?
-
-
-                  ...that Georgiana Harcourt,
-             a
-        19th  century
-English  correspondent  and
-translator,   was   the
-        daughter  of
-Edward   Venables-Vernon-Harcourt,
-             t  h  e
-                  Archbishop   of
-Y  o  r  k  ?
-
-
-                  ...   that
-        H   o   p   k   i   n   s   v   i   l   l   e   ,
-        K  e  n  t  u  c  k  y  '  s
-                  t  r  i  b  u  t  e
-        to   Confederate
-        v   e   t   e   r   a   n   s
-                  was   a   public
-                  d   r   i   n   k   i   n   g
-f  o  u  n  t  a  i  n  ?
-
-
-        ...   that
-                  t h e
-                  n  e  m  a  t  o  d  e
-        C a p i l l a r i a
-plica is a
-        p a r a s i t e
-             found   in   the
-             urinary  bladder  of
-                  dogs, cats
-                  and  various
-             m   a   m   m   a   l   s   ?
-
-
-             ...that  biologists
-        Emile   Zuckerkandl
-                  a  n  d
-                  Linus   Pauling
-would intentionally avoid
-        p  e  e  r
-        r  e  v  i  e  w
-when   publishing
-                  t   h   e   i   r
-m o s t
-        provocative  works
-o  n
-                  m o l e c u l a r
-e v o l u t i o n ?
-
-
-             ...that   Paul   Worley,
-                  a Grammy Award-winning
-country  music
-        record  producer
-                  and  guitarist,
-             got   his   start
-        i n
-        t  h  e
-1970s   playing
-             g u i t a r
-             for   Janie
-        Fricke   and   Eddy
-        R  a  v  e  n  ?
-
-
-...  that
-        The   Coffee
-             Pot historic roadhouse
-        ( p i c t u r e d )
-                  i   n
-             Roanoke,   Virginia,
-USA,   features   a
-             15-foot (4.6¬†m) stucco
-        coffee   pot   atop
-                  i  t  s
-                  r   o   o   f   ?
-
-
-        ...that ITV
-                  N   e   t   w   o   r   k
-                  C  e  n  t  r  e
-did  not  want
-        to broadcast
-                  t   h   e
-             first   series
-                  of   Cold   Feet
-at   9   p.m.
-                  b  e  c  a  u  s  e
-             t   h   a   t
-        was  a
-timeslot  traditionally  reserved
-             for  programmes  that
-        viewers could do
-             t h e i r
-                  i   r   o   n   i   n   g
-             t o ?
-
-
-        . . .
-             t   h   a   t
-        Singapore's  Police  Coast
-        Guard  is
-                  a   coast
-             g   u   a   r   d
-        a  n  d
-w  a  t  e  r
-        police   service
-             t  h  a  t
-                  i   s
-             a   l   s   o
-responsible  for  maintenance
-of   order
-             o   n
-             most   of   Singapore's
-             o   f   f   -   s   h   o   r   e
-                  i s l a n d s ?
-
-
-        ...that the Normal
-School for Colored
-Girls   was
-        incorporated  into  the
-             U n i v e r s i t y
-        of the District
-                  o   f
-        C o l u m b i a ?
-
-
-...that  Ed  Trice,
-        creator   of   the
-                  chess variant known
-                  as   Gothic   Chess,
-h e l p e d
-        J   o   n   a   t   h   a   n
-                  Schaeffer solve
-             the game
-o f
-             checkers,   the
-                  m  o  s  t
-complex  game  ever
-s o l v e d ?
-
-
-             . . . t h a t
-        Tillamook Cheddar
-        (pictured), a
-                  J a c k
-        Russell   Terrier   from
-             Brooklyn,   New   York,
-is  the  world's
-most successful and
-        w   i   d   e   l   y
-s h o w n
-             a   n   i   m   a   l
-                  a  r  t  i  s  t  ?
-
-
-...that  the
-                  merged  Rainbow/PUSH
-             is   an
-             outgrowth  of  Jesse
-Jackson's   1984   Presidential
-                  c   a   m   p   a   i   g   n
-                  and  a  factional
-                  split in
-                  Operation   Breadbasket,
-an   affiliate   of
-             t   h   e
-Southern Christian Leadership
-C o n f e r e n c e ?
-
-
-...that over
-             25%   of   Brazil's
-                  electricity  is
-generated by
-                  a   hydroelectric   plant
-        at  Itaipu  on
-                  the Paran√°
-                  R i v e r ?
-
-
-             . . . t h a t
-        everything   biologists
-know   about
-t h e
-             Small-eyed whiting (Sillago
-microps)  came
-from  studies
-c   o   n   d   u   c   t   e   d
-        o n
-t   w   o
-        s   p   e   c   i   m   e   n   s
-                  f  o  u  n  d
-                  at   a
-             m a r k e t
-        i n
-Taipei in
-                  1 9 8 5 ?
-
-
-        ...  that  the
-        Footprints  of
-        Eve  are  the
-             oldest  known
-                  footprints of an
-a  n  a  t  o  m  i  c  a  l  l  y
-m o d e r n
-h  u  m  a  n  ?
-
-
-             .   .   .   t   h   a   t
-             the Russian Futurists
-        1   9   1   2
-                  manifesto,   A
-S   l   a   p
-        in the
-                  Face of
-        Public   Taste,
-        argued  that  past
-             artists such as
-                  Pushkin, Dostoevsky
-                  and   Tolstoy
-             should be
-"heaved overboard from
-the  steamship
-        o   f
-        m   o   d   e   r   n   i   t   y   "   ?
-
-
-...that in 1996
-                  Andy Campbell, a
-ranger serving as
-             Tunnel   Mill   Scout
-R e s e r v a t i o n ' s
-                  caretaker,  was
-             shot  to  death
-                  by a wandering
-drunk   who   trespassed
-        o n t o
-        the  property,
-the first
-                  such  incident
-        in the
-h  i  s  t  o  r  y
-             o  f
-             S c o u t i n g ?
-
-
-...that  Henry
-             Lomb   became
-        a   co-founder   of
-             the  Bausch
-                  &
-             Lomb   Company   when
-        he loaned $60
-                  to   his
-                  friend John
-J a c o b
-             B a u s c h ?
-
-
-        .  .  .  t  h  a  t
-        i   n
-                  1   9   9   4   ,
-        Horace Dove-Edwin
-        became   the
-        f   i   r   s   t
-             m e d a l i s t
-        in athletics
-                  f  o  r
-S   i   e   r   r   a
-                  L   e   o   n   e   ,
-        but   lost   it
-d  u  e
-        to   a   positive
-                  d   o   p   i   n   g
-        t   e   s   t   ?
-
-
-        ...that Walt Neubrand
-             is   one
-             of  three
-men  responsible
-        f o r
-             the safety of
-                  the  National
-             Hockey  League's
-Stanley  Cup
-during its
-             travels   around   the
-w  o  r  l  d  ?
-
-
-             ...  that
-             M a n g a l o r e a n s
-                  hold a Guinness
-                  w   o   r   l   d
-record  for  non-stop
-             singing  for  40
-                  h   o   u   r   s   ?
-
-
-...that  former  Michigan
-             Wolverines   football
-                  p  l  a  y  e  r
-Keith   Bostic
-             was elected
-             by his teammates
-as the
-toughest   guy   on
-the  National
-                  Football   League
-                  Houston   Oilers
-             d  e  f  e  n  s  e  ?
-
-
-                  ...that Shruti
-                  H a a s a n ,
-the   daughter
-of  Indian
-        a   c   t   o   r   s
-        Kamal Haasan and
-             S   a   r   i   k   a   ,
-                  i  s
-a   singer   turned
-m  o  d  e  l
-who is now
-                  a l s o
-        venturing  into
-                  a  c  t  i  n  g  ?
-
-
-...   that   Lactarius
-                  blennius   has
-             b   e   e   n
-d   e   s   c   r   i   b   e   d
-                  by   various   mycologists
-a   s
-e  d  i  b  l  e  ,
-        inedible  and
-e  v  e  n
-        p o i s o n o u s ?
-
-
-                  .  .  .  t  h  a  t
-J o h n
-             " W i l l y "
-        Williams   ,
-t h e
-        Australian  World  War
-II  air  ace
-                  who   later
-             t  o  o  k
-part  in  the
-                  "The Great
-                  E   s   c   a   p   e   "   ,
-b   e   c   a   m   e
-             a POW
-merely three
-                  days after being
-             promoted  to  command
-             N  o  .  4  5  0
-        S  q  u  a  d  r  o  n
-             R   A   A   F   ?
-
-
-. . . t h a t
-             Edward  Filene,  the
-                  American entrepreneur who
-        built   Filene's   department
-                  store  and  Filene's
-                  Basement, also
-founded the
-        8 7 - m i l l i o n
-        member  US  credit
-             union system
-             i n
-             1  9  0  7  ?
-
-
-        ...that  the
-                  l   a   r   g   e
-        hanging  nest  of
-                  the  Yellow-throated
-S   c   r   u   b   w   r   e   n
-        (pictured) is used
-        by   the
-                  G  o  l  d  e  n  -  t  i  p  p  e  d
-             Bat as
-             a
-daytime roost
-                  in  the  forests
-        o  f
-             E a s t e r n
-A u s t r a l i a ?
-
-
-        ...that the
-        D a n i s h
-                  firm   Marcussen   &
-                  S√∏n have
-             b u i l t
-        over 1000 organs
-             since   their   foundation
-i  n
-1   8   0   6   ?
-
-
-.  .  .  t  h  a  t
-        Egyptian  actor
-        O   m   a   r
-             S h a r i f ' s
-f   i   r   s   t
-                  f   i   l   m
-role was in
-the   1954   film
-        Sira` Fi
-        a   l   -   W   a   d   i   ?
-
-
-...  that  the
-                  town of
-             K   e   n   t   ,
-N  e  w
-                  Y   o   r   k   ,
-d e a l t
-                  with  an
-             excess Canada
-g   o   o   s   e
-population  around  Lake
-                  C   a   r   m   e   l
-b   y
-rounding   them   up
-             while  they
-                  w e r e
-m o l t i n g
-a n d
-        d  i  s  t  r  i  b  u  t  i  n  g
-                  the meat
-t  o
-t h e
-        p  o  o  r  ?
-
-
-        ...that  Polly  Horvath's
-             award-winning 2001
-        children's  novel  Everything
-             on  a  Waffle
-        tells   the
-        story   of   Primrose
-        S   q   u   a   r   p   ,
-             a n
-             11-year   old
-        girl  whose
-                  p   a   r   e   n   t   s
-        are lost
-                  i   n
-        a
-        t  y  p  h  o  o  n  ?
-
-
-...that Royal
-                  Governor of Chile
-        Jos√©  de
-             Garro   planned
-             t o
-             defeat  the  Mapuches
-b   y
-t  a  k  i  n  g
-             t  h  e  i  r
-             c h i e f s
-             h   o   s   t   a   g   e
-                  in   a
-             r u s e ,
-        but  the  plan
-             was rejected
-        b   y
-                  K i n g
-        Charles  II  of
-             Spain as
-             t o o
-d   e   c   e   i   t   f   u   l   ?
-
-
-        ...  that
-             t  h  e
-             one-make Procar
-                  C h a m p i o n s h i p
-(pictured)   was   created
-             in   1979   to
-             h e l p
-             B   M   W
-                  produce   the
-             400   M1
-             sports   cars   necessary
-to compete in
-        the   World   Championship
-                  f  o  r
-             M a k e s ?
-
-
-        ...that   only
-             t  h  r  e  e
-                  of   the
-l   a   r   g   e   s   t
-islands  of
-t   h   e
-                  United  States¬†‚Äì  the
-             Big Island of
-             Hawaii,  Kodiak  Island,
-        and Puerto
-Rico¬†‚Äì are greater
-                  t   h   a   n
-             3,000 square miles
-             (   8   ,   0   0   0
-             k  m  ¬  ≤  )
-        i   n
-             s   i   z   e   ?
-
-
-             ...that   two   new
-                  amphibious   warfare   ships
-                  of   Australia   to
-b e
-a d d e d
-                  to the
-nation's   fleet   starting
-in   2012
-w i l l
-             each  be  able
-to  carry
-             a n
-             entire infantry battalion
-             and  up
-to 16
-h e l i c o p t e r s ?
-
-
-...   that   Jane
-Addams,  Mother
-             Jones  and  Abe
-Fortas have
-        all made
-n  o  t  a  b  l  e
-contributions  to
-             t  h  e
-             h i s t o r y
-        o f
-        children's rights in
-        the   United
-        S  t  a  t  e  s  ?
-
-
-        .   .   .
-        that  among  gifts
-                  which   Toirdelbach
-        Ua Briain,
-later  High
-K  i  n  g
-             o f
-                  Ireland, received from
-        h  i  s
-        p a t r o n
-             Diarmait mac
-             Ma√≠l na mB√≥
-w   a   s
-the  sword
-                  of Brian Boru
-                  (   p   i   c   t   u   r   e   d   )   ?
-
-
-        ...that   coach   Harry
-                  K  i  p  k  e
-h a d
-        to   travel   to
-        t  h  e
-        h  o  m  e
-             of  All-American  Maynard
-             Morrison   in
-1930  to  seek
-        his  father's
-        permission  to
-                  switch  Morrison
-                  from   a   fullback
-        t o
-a
-c   e   n   t   e   r   ?
-
-
-             ...that Garter
-             K i n g
-o   f
-             Arms   William   Segar
-(pictured)  was
-             i m p r i s o n e d
-             for  confirming  a
-        c   o   a   t
-                  of arms
-                  to   someone
-                  who   was   not
-a
-             g   e   n   t   l   e   m   a   n   ?
-
-
-                  ...  that
-        the   exploration
-                  p   r   o   b   l   e   m
-i   n
-robotics  is  that
-                  of  maximizing
-             knowledge over
-a  n
-        a   r   e   a
-             b y
-             the  use  of
-a
-        r o b o t ?
-
-
-        ...that   over   50
-parents  contacted  Gonzaga
-             University's athletic
-                  department on the
-first  day
-             t   h   a   t
-                  a Sports
-Illustrated issue
-        featuring   a
-                  s t o r y
-                  on Gonzaga
-basketball   player
-             A   d   a   m
-        Morrison   and   his
-             life   with
-Type   1   diabetes
-        was   available   at
-r  e  t  a  i  l
-o   u   t   l   e   t   s   ?
-
-
-.   .   .
-                  that  during  the
-Agra famine of
-1837‚Äì38  in  the
-North-Western   Provinces
-                  o   f
-        India, approximately
-             800,000   people
-                  died   of
-                  starvation and an
-                  even larger number
-             of   livestock
-                  p e r i s h e d ?
-
-
-                  ...that  the  Vlaamse
-Druivenveldrit Overijse, a
-cyclo-cross  race  held
-             in Overijse,
-Belgium,  was  won
-             1   1
-c   o   n   s   e   c   u   t   i   v   e
-             times in
-the  1980s  by
-        f  o  r  m  e  r
-f  o  u  r  -  t  i  m  e
-world champion Roland
-L   i   b   o   t   o   n   ?
-
-
-                  ...that  Central
-                  F i r e
-                  Station,  the  oldest
-        existing   fire
-        station in
-        Singapore, had
-                  only  four
-                  portable   water
-             pumps   when
-i t
-             was completed in
-        1  9  0  8  ?
-
-
-             ...that Agatha, mother
-                  of   Saint   Margaret
-                  o  f
-                  S  c  o  t  l  a  n  d  ,
-                  c o u l d
-        h  a  v  e
-been   either   a
-                  d   a   u   g   h   t   e   r
-             of   Yaroslav
-                  t h e
-             W  i  s  e
-        o f
-                  Kiev   or   a
-daughter   of   the
-             B  u  l  g  a  r  i  a  n
-                  T   s   a   r   ?
-
-
-        ...that  Charles
-        Sargeant Jagger
-sculpted  three  World
-War I memorials,
-             all   in
-                  L   o   n   d   o   n   ?
-
-
-... that Major
-        League Baseball manager
-                  J  o  h  n
-McGraw had 2,583
-w i n s
-as  the  New
-                  Y   o   r   k
-                  G i a n t s '
-             m a n a g e r ?
-
-
-.  .  .
-             that A Driver
-        f  o  r
-V  e  r  a  ,
-        Ukraine's   submission
-             f   o   r
-             t  h  e
-        77th  Academy  Award
-                  for Best Foreign
-        Language Film,
-was  rejected
-        b e c a u s e
-too   much
-                  of  the
-                  p r o d u c t i o n
-        was  based
-i n
-             R u s s i a ?
-
-
-             .   .   .   t   h   a   t
-during   the
-             time  of
-        S c a n d i n a v i s m ,
-        H  a  n  s
-             C h r i s t i a n
-        Andersen  wrote
-        a   poem
-called  Jeg  er
-en   Skandinav   which
-             t  o  g  e  t  h  e  r
-                  with   the   later
-             added   melody   could
-             have  become  the
-             National  Anthem  of
-                  a   unified   Scandinavian
-        n a t i o n ?
-
-
-             .   .   .   t   h   a   t
-                  E  m  i  r
-                  Rodr√≠guez   Monegal   had
-                  a  cameo  in
-             Jorge Luis Borges's
-        1  9  4  9
-                  short  story
-                  T h e
-O t h e r
-D  e  a  t  h  ?
-
-
-...that   Juan   N.
-             M√©ndez  (pictured)
-took up
-the   post
-                  of   interim   President
-             o f
-                  M   e   x   i   c   o
-                  for  three  months
-to   allow
-t  h  e  n  -  P  r  e  s  i  d  e  n  t
-Porfirio  D√≠az  to
-             personally   lead
-        his  forces  against
-        a  partisan
-u p r i s i n g ?
-
-
-                  . . . t h a t
-        t   h   e
-                  St.   Eugene
-        M   i   n   e
-i n
-             Moyie,   British   Columbia
-                  produced  ten  million
-                  dollars  worth  of
-        ore   between   1895
-             and 1905 and
-w   a   s
-                  c   o   n   s   i   d   e   r   e   d
-t  o
-        be  the  most
-        important  silver‚Äìlead  mine
-i   n
-             C  a  n  a  d  a  ?
-
-
-                  ...that  the  fish
-        Echiodon rendahli has
-             a
-        p o r t i o n
-        of its intestine
-             protruding  from  its
-belly, so that
-             w  h  i  l  e
-        living inside sponges
-             it  can
-                  defecate   outside
-             its   shelter   without
-being  exposed  to
-             o u t s i d e
-             d a n g e r s ?
-
-
-        .   .   .   t   h   a   t
-        in   1881   the
-             Sharps  Island  Light
-        was   pushed
-5¬†miles  (8¬†km)
-             down  the  Chesapeake
-                  Bay  by
-             an  ice
-floe  ‚Äî  with
-i  t  s
-        keepers  inside  ‚Äî
-a n d
-that   its
-        r  e  p  l  a  c  e  m  e  n  t
-        (pictured) has been
-        leaning   since
-             1 9 7 7 ?
-
-
-...  that  seal
-                  (pictured) is the
-                  most  important  part
-of the
-                  I  n  u  i  t
-        d  i  e  t  ?
-
-
-...   that   in
-February   1428,   President
-                  o f
-        C a t a l o n i a
-                  F  e  l  i  p
-de   Malla   wrote
-             a  letter  to
-King   Alfonso
-V
-        describing an earthquake
-                  that had struck
-        B  a  r  c  e  l  o  n  a  ?
-
-
-             ...that the
-        K   o   r   e   a   n
-             dialect  spoken  by
-ethnic Koreans
-in   Japan   has
-                  changed so much
-             that some
-                  of   its   speakers
-             don't  think  it
-             can   be
-                  properly   referred
-        to  as  "Korean"
-        a   n   y   m   o   r   e   ?
-
-
-        .  .  .  t  h  a  t
-Rani  Abbakka,
-                  who  fought  the
-        Portuguese in the
-                  16th century
-                  is   regarded   as
-the 'first
-        woman   freedom
-        f i g h t e r
-        o f
-             I   n   d   i   a   '   ?
-
-
-.  .  .  t  h  a  t
-        J   o   h   a   n   n   e
-                  S√∏rensen became the
-                  first   Bah√°'√≠   in
-                  D   e   n   m   a   r   k
-        i n
-                  1 9 2 5 ,
-        and the
-                  only  Bah√°'√≠  in
-        h e r
-        country  till
-1  9  4  7  ?
-
-
-                  ...that Italian Jesuit
-        p  r  i  e  s  t
-             Sabatino de
-                  Ursis  moved  to
-                  China in
-        1   6   0   7
-to assist
-             M a t t e o
-                  Ricci in his
-                  astronomical research, and
-                  attempted  to  reform
-        t   h   e
-C  h  i  n  e  s  e
-c   a   l   e   n   d   a   r   ?
-
-
-                  .  .  .  t  h  a  t
-             the Anarchist Exclusion
-        Acts  forbade
-                  anyone holding anarchist
-             v   i   e   w   s
-to  enter
-        t  h  e
-U   n   i   t   e   d
-S t a t e s ?
-
-
-             .  .  .  t  h  a  t
-                  the  great-granddaughter  of
-        Mahatma   Gandhi,   Leela
-        G a n d h i ,
-is  a  senior
-        l e c t u r e r
-                  at   La
-Trobe  University  in
-the  English
-                  p  r  o  g  r  a  m  ?
-
-
-             ...   that   screenwriter
-        Daniel Knauf's polio-afflicted
-        father was
-t  h  e
-                  inspiration   for   his
-t  e  l  e  v  i  s  i  o  n
-s   e   r   i   e   s
-                  C  a  r  n  i  v  √  †  l  e  ?
-
-
-                  .   .   .   t   h   a   t
-the   Viceroyalty   of
-the  R√≠o
-             de la Plata,
-e   n   c   o   m   p   a   s   s   i   n   g
-                  A r g e n t i n a ,
-        Bolivia,  Paraguay,
-        and  Uruguay,
-             was  the
-        last viceroyalty created
-             b  y
-        S  p  a  i  n  ?
-
-
-             ...  that
-        Edith  Atkins
-w   h   o
-broke  numerous
-        British  cycling  records
-        d i e d
-             aged   79
-                  p  u  s  h  i  n  g
-her bike
-             across  a  zebra
-                  c   r   o   s   s   i   n   g   ?
-
-
-. . . t h a t
-             Anne Hyde
-                  Choate was
-             the  second
-             president of the
-Girl Scouts of
-        the USA
-        a   n   d
-             a  l  s  o
-        an  international
-             Scouting leader in
-        W  A  G  G  G  S
-        for   fifty
-        y   e   a   r   s   ?
-
-
-                  .  .  .  t  h  a  t
-the  Siam  Tulip
-is not a
-        t   u   l   i   p   ,
-                  b u t
-is  related
-                  t  o
-g i n g e r ?
-
-
-             ...that  in  Universal
-             City   Studios,   Inc.
-                  v.  Nintendo
-                  C o . ,
-             Ltd.,   the
-                  judge  ruled
-that   the
-                  video   game   Donkey
-             Kong   could
-        be  considered
-                  a   parody   of
-K i n g
-K o n g ?
-
-
-                  ...that  the  motorcycle
-             racing couple of
-                  Jagat   and
-             Anita   Nanjappa   once
-             completed   a   rally
-             in which
-                  Anita   sat
-        on   the   bike's
-                  petrol   tank
-             t   o
-reduce  the  weight
-                  on  the  flat
-        r  e  a  r
-        t  y  r  e  ?
-
-
-             .   .   .
-                  that,  in
-        o r d e r
-        to  prevent  storage
-of nuclear
-        waste in Utah's
-                  Skull  Valley,
-        t  h  e
-             main   county   road
-             t h r o u g h
-        t h e
-        valley became
-                  S t a t e
-        Route   196   in
-             1  9  9  8  ?
-
-
-...that New York
-City-born  mathematician  Judith
-        Roitman  serves  as
-        the   guiding
-                  teacher of
-                  the   Kansas   Zen
-C e n t e r ?
-
-
-...that the American
-                  Meat  Institute  and
-             t h e
-Federal Meat
-Inspection Act
-             celebrate   their
-                  h  u  n  d  r  e  d  t  h
-             a   n   n   i   v   e   r   s   a   r   y
-t   h   i   s
-y  e  a  r  ?
-
-
-.   .   .
-                  that quarterback Scott
-                  M c B r i e n
-                  transferred from
-W  e  s  t
-                  V   i   r   g   i   n   i   a
-to  the  Maryland
-and led Maryland
-                  to  a
-41‚Äì7  win  over
-        his   former
-             a   l   m   a
-        m   a   t   e   r
-             in   the   2004
-             G   a   t   o   r
-B o w l ?
-
-
-        ...that   the   sundial
-in the
-                  Wilan√≥w Palace
-             ( p i c t u r e d )
-in  Warsaw,
-                  designed  by
-        astronomer  Johannes  Hevelius,
-has   the
-                  figure  of
-        C  h  r  o  n  o  s  ?
-
-
-             ...that  St.
-                  Mary's Basilica
-is   the
-        oldest church in
-                  Bangalore and the
-        o n l y
-basilica in the
-                  Indian state
-o f
-K a r n a t a k a ?
-
-
-        .  .  .  t  h  a  t
-             a t
-        the time of
-h i s
-             martyrdom   in   202,
-                  Saint  Charalampus  was
-                  113 years
-             o   l   d   ?
-
-
-             ...that  Singaporean
-                  artist  Chua  Ek
-        Kay‚Äôs  ink  paintings
-             blended traditional
-C   h   i   n   e   s   e
-p  a  i  n  t  i  n  g
-                  f   o   r   m   s
-and Western art
-theories  and
-             t   e   c   h   n   i   q   u   e   s   ?
-
-
-        ...   that   the
-                  10th  Festival
-                  o  f
-P  a  c  i  f  i  c
-             Arts,   concluded   2
-        August   2008
-             in   American
-Samoa,   brought   together
-                  a b o u t
-        2,000  artists
-        f  r  o  m
-                  2 7
-                  countries across
-             O  c  e  a  n  i  a  ?
-
-
-                  ...that  Prince  Arisugawa
-        Taruhito's   engagement
-                  to  Princess
-                  Kazu-no-Miya   Chikako
-o   f
-Japan  was  cancelled
-by   the
-                  Tokugawa bakufu so
-t  h  a  t
-             the  princess  could
-        marry  Shogun  Tokugawa
-        Iemochi, for
-        p   o   l   i   t   i   c   a   l
-                  r   e   a   s   o   n   s   ?
-
-
-...that   the
-        B   a   l   ƒ   ±   k
-                  s i s t e r s
-             from  Turkey
-        are  the
-             o n l y
-                  i  d  e  n  t  i  c  a  l
-                  t  w  i  n  s
-        s  i  n  g  i  n  g
-        o p e r a ?
-
-
-                  ...   that   the
-        1  9  5  3
-film Striporama
-features the only
-                  color footage of
-             pin-up   model   Bettie
-             P   a   g   e
-             i   n
-a   speaking
-r   o   l   e   ?
-
-
-             ...that  Jerry
-        M a t h e r s
-        a s
-        The   Beaver,
-                  w   a   s
-one   of
-                  t h e
-                  few  stars  of
-                  the  classic
-T  V
-series   Leave
-             It to Beaver
-        w h o
-                  appeared   in   the
-p i l o t
-                  It's  a
-             Small World,
-             which  never  aired
-                  as   an   episode
-             within  the
-s e r i e s ?
-
-
-. . . t h a t
-the   representatives
-a  t
-the  Vilnius
-             Conference in
-                  1917 elected a
-                  2  0  -  m  e  m  b  e  r
-                  C o u n c i l
-                  o  f
-                  Lithuania to negotiate
-             with   the
-             Germans  for
-                  the  independence  of
-                  L   i   t   h   u   a   n   i   a   ?
-
-
-             .   .   .
-                  that  Childress,
-                  a   small   city
-             in   the   Texas
-        Panhandle,   is
-             named   for
-             G e o r g e
-Campbell Childress,
-             the  author  of
-the   Texas
-                  D e c l a r a t i o n
-o  f
-I n d e p e n d e n c e ?
-
-
-                  ...that   Napoleon
-                  once commissioned
-                  Louis-Marcelin  de
-             Fontanes   to   write
-             an  √©loge
-                  o   n
-             G   e   o   r   g   e
-                  W   a   s   h   i   n   g   t   o   n   ?
-
-
-             ...that   the   New
-S o u t h
-                  Wales Court of
-             A   r   b   i   t   r   a   t   i   o   n
-                  i   s
-        claimed  to
-             be   the
-f   i   r   s   t
-        c   o   u   r   t
-        devoted to
-             r   e   s   o   l   v   i   n   g
-        l  a  b  o  u  r
-        disputes in
-        t h e
-        w  o  r  l  d  ?
-
-
-             ... that art
-                  historian  Albert
-Boime  theorized  that
-                  Vincent   van
-        G  o  g  h  '  s
-             The  Starry
-N   i   g   h   t
-             ( p i c t u r e d )
-             w   a   s
-             b a s e d
-             on positions
-        o   f
-                  celestial  objects  at
-4¬†a.m. on June
-             1 9 ,
-        1   8   8   9   ?
-
-
-        ...   that
-E  d  w  a  r  d
-        L   a   m   s   o   n
-Henry paid
-             such  close
-             attention  to
-        detail that
-        his nostalgic
-                  p a i n t i n g s
-of  agrarian  America
-        (example   pictured)   were
-        c   o   n   s   i   d   e   r   e   d
-authentic historical
-                  r e c o n s t r u c t i o n s ?
-
-
-                  .  .  .  t  h  a  t
-Australian  Bob
-Marshall   won   the
-             World  Amateur  Billiards
-Championship   four   times
-             and the
-Australian   championship   21
-                  t   i   m   e   s
-             in   a
-             c  a  r  e  e  r
-                  spanning   50
-                  y  e  a  r  s  ?
-
-
-                  .  .  .
-that   J√∏rgen
-        Aall,  one  of
-        the   founding   fathers
-                  o  f
-                  the   Norwegian
-                  C  o  n  s  t  i  t  u  t  i  o  n
-        i   n
-        1  8  1  4  ,
-w e n t
-             o   u   t
-        of  business  as
-a
-        s   h   i   p   -   o   w   n   e   r
-                  o n l y
-four   years
-             l   a   t   e   r   ?
-
-
-        ...that   Henry
-                  o   f
-Masovia, 14th-century
-bishop  of  P≈Çock,
-             might   have   been
-             poisoned   by
-             his   wife,   sister
-             of  Grand
-        Duke   of
-L i t h u a n i a ,
-             Vytautas  the
-                  G   r   e   a   t   ?
-
-
-.  .  .  t  h  a  t
-        a slogan of
-             the Front
-                  h o m o s e x u e l
-             d'action   r√©volutionnaire
-             i   s
-"  P  r  o  l  √  ©  t  a  i  r  e  s
-                  de  tous  les
-             pays,  caressez-vous"  (Workers
-             o   f
-             the   world,   caress
-                  y o u r s e l v e s ! ) ?
-
-
-. . . t h a t
-        the  name
-                  of the
-                  Indo-European thunder
-        god   has
-                  been   reconstructed
-             by  etymologists
-             a  s
-                  *  P  e  r  k  w  u  n  o  s  ?
-
-
-
-
-        ...that the
-                  obedience  to  orders
-             and  dogged  resistance
-                  of  the
-        Russian infantry
-             a   t
-the  Battle  of
-        G   o   l   y   m   i   n
-             in   1806   greatly
-        i m p r e s s e d
-        Napoleon and
-        h   i   s
-                  a  r  m  y  ?
-
-
-...that the San
-                  M  a  t  e  o
-        w o o l l y
-             s   u   n   f   l   o   w   e   r
-                  is  an
-             endangered  species  that
-        m a k e s
-                  its   home
-                  on serpentine outcrops
-             t  h  a  t
-             are  chemically  inhospitable
-for  most  plant
-s   p   e   c   i   e   s   ?
-
-
-        ...  that  30-year
-             Seattle   City   Council
-             m e m b e r
-                  D   a   v   i   d
-        L e v i n e
-        served   as
-             Seattle's   acting   mayor
-        o   n
-o v e r
-2 5 0
-                  o c c a s i o n s ?
-
-
-             ...that   when   the
-             John   Bull   ran
-        u  n  d  e  r
-        its  own
-             power  in  1981
-it   became
-        t  h  e
-oldest  operable  steam
-             locomotive in
-             t   h   e
-w o r l d ?
-
-
-        .  .  .  t  h  a  t
-        P r i n c e s s
-        L   o   u   i   s   e   ,
-Duchess of Argyll
-                  (pictured) was the
-        f i r s t
-             British princess
-                  to  marry  a
-                  commoner  in  over
-        five   hundred
-        y  e  a  r  s  ?
-
-
-. . . t h a t
-        B B C
-             television series Watchdog
-        helped   uncover   the
-H  o  o  v  e  r
-                  C  o  m  p  a  n  y
-             "free  flights"
-             s c a m ?
-
-
-
-
-... that the
-Norwegian  torpedo  boat
-HNoMS Kjell
-                  (pictured)  was
-known   as
-             "   T   e   r   r   o   r
-of the smugglers"
-             w  h  e  n
-        s  h  e
-        intercepted  rum  runners
-                  d u r i n g
-        N  o  r  w  a  y  '  s
-                  p r o h i b i t i o n ?
-
-
-        ...   that   the
-                  annual   Chembuduppu   festival
-             at   St.
-        G e o r g e
-                  Orthodox   Church,   Chandanapally
-        i   s
-held  in
-             commemoration  of
-                  non-Christians   bringing
-rice   to   feed
-                  hundreds  of
-                  v  o  l  u  n  t  a  r  y
-labourers   during   its
-        c   o   n   s   t   r   u   c   t   i   o   n   ?
-
-
-             . . .
-             that WLVV,
-             the   oldest   radio
-             station  in
-                  M o b i l e ,
-        A l a b a m a ,
-        was  once  known
-as   WMML   (for
-"M-M-Mel")   as
-a   play   on
-                  then-owner Mel
-Tillis'   famous
-s   t   u   t   t   e   r   ?
-
-
-             .   .   .   t   h   a   t
-in   Toolson
-             v.   New
-York Yankees,
-                  t  h  e
-                  U  .  S  .
-S   u   p   r   e   m   e
-Court  first
-             considered  a  player's
-             c   h   a   l   l   e   n   g   e
-                  to   Major   League
-             Baseball's   reserve
-                  c l a u s e ?
-
-
-                  ...the oldest stud
-             farm in India,
-Kunigal stud
-farm, was
-used   by   Tipu
-                  S  u  l  t  a  n
-f  o  r
-             breeding  horses
-             f  o  r
-                  cavalry regiments
-        t  o
-                  fight  the
-             B  r  i  t  i  s  h  ?
-
-
-             ...  that  Bill
-        Laxton was
-                  the   winning
-                  p i t c h e r
-             i n
-        t h e
-             first  game  ever
-won   by   the
-                  Seattle  Mariners,
-        a   come-from-behind,   7‚Äì6
-        win over the
-             C   a   l   i   f   o   r   n   i   a
-             A n g e l s ?
-
-
-        ...that  James  Garner
-                  sent  two  of
-                  his associates into
-             a
-room  filled
-             with toxic chlorine
-             g a s ?
-
-
-             . . .
-        that  Oregon's
-W  a  r  r  i  o  r
-        R  o  c  k
-             L i g h t
-             (   p   i   c   t   u   r   e   d   )
-operated  uneventfully  for
-        80   years   until
-             i t
-             was  struck
-             b  y
-             a
-                  b a r g e
-             i  n
-1  9  6  9  ?
-
-
-             . . . t h a t
-        Bartolom√©   Calvo   became
-P   r   e   s   i   d   e   n   t
-of the
-                  Granadine  Confederation
-             a  f  t  e  r
-        his  predecessor's  term
-        e  n  d  e  d
-                  and  no  new
-        p r e s i d e n t
-                  h a d
-        b e e n
-e   l   e   c   t   e   d   ?
-
-
-             ...  that
-a n y o n e
-                  who   has
-                  loaned  or  borrowed
-             money  has  participated
-             in the hypothetical
-        loanable   funds   market
-             t h a t
-             b   r   i   n   g   s
-s   a   v   e   r   s
-                  a   n   d
-b o r r o w e r s
-t  o  g  e  t  h  e  r  ?
-
-
-             . . .
-        that  Frank
-Lloyd  Wright's
-        textile   block   work,
-S   t   o   r   e   r
-H  o  u  s  e  ,
-             was   restored   in
-        t  h  e
-1980s by Joel
-             S i l v e r ,
-producer   of
-the   films   Die
-                  Hard  and
-        T h e
-             M a t r i x ?
-
-
-.  .  .  t  h  a  t
-E  l  l  i
-                  Perkins,  having
-r e f u s e d
-psychiatric care for
-                  h e r
-                  s c h i z o p h r e n i c
-             son because of
-             Scientology beliefs, was
-        m  u  r  d  e  r  e  d
-             b  y
-                  h i m ?
-
-
-             .  .  .
-             that  Philip
-Zec enraged both
-                  H i t l e r
-                  a  n  d
-Churchill  with  his
-             w  a  r  t  i  m  e
-cartoons  and
-n   e   a   r   l   y
-             h   a   d
-             the  Daily  Mirror
-s h u t
-        d o w n ?
-
-
-        .   .   .   t   h   a   t
-                  Yugoslavian  boxing  champion
-M  a  r  i  j  a  n
-        Bene≈°   played   the
-             v   i   o   l   i   n
-                  in  his
-        y   o   u   t   h   ,
-             and  published  a
-book  of  poems
-after the
-             e  n  d
-             o f
-        h i s
-c  a  r  e  e  r  ?
-
-
-        ...   that   Cyril
-                  Pullin   designed
-             the first successful
-        British  helicopter  and
-        his   son
-                  was  the  pilot
-for its first
-flight  in  June
-             1   9   3   8   ?
-
-
-        ...that   Grand
-D u k e
-             Sergei  Mikhailovich
-o   f
-                  R   u   s   s   i   a
-        (   p   i   c   t   u   r   e   d   )
-                  shared  his
-             mistress with one
-                  o f
-his   cousins   for
-             a l m o s t
-        t w o
-             d  e  c  a  d  e  s  ?
-
-
-...   that   Sinop
-        Fortress Prison
-        in   Turkey,
-                  abandoned  in
-                  1997,  hosts  hundreds
-                  of  thousands
-tourists yearly
-        thanks to
-             its   featuring   in
-                  popular  literature,  music
-        a  n  d
-f  i  l  m  ?
-
-
-.  .  .  t  h  a  t
-        in   the
-        DC Comics universe,
-                  P   o   w   e   r
-                  G   i   r   l
-        is   a   cousin
-        o f
-        S   u   p   e   r   m   a   n   ?
-
-
-
-
-                  ... that Jan
-Willems  was  present
-        a t
-R o a t a n
-             in  1683  for
-                  one of
-             the   largest   "Brethren
-                  of   the
-                  C   o   a   s   t   "
-                  p i r a t e
-                  g a t h e r i n g s ?
-
-
-.  .  .
-                  t  h  a  t
-        aviator Jack De
-Garis faked his
-             o  w  n
-suicide  by
-drowning   before   being
-             t h e
-        s u b j e c t
-                  of   an
-             Australia-wide search
-i n
-             1 9 2 5 ?
-
-
-             ...that White House
-             Commonwealth War Graves
-        Commission  Cemetery
-        (pictured)  in
-                  t  h  e
-        Ypres  Salient
-                  c   o   n   t   a   i   n   s
-                  1 1 6 3
-                  World  War  I
-                  b   u   r   i   a   l   s   ,
-        including   Private   Robert
-             Morrow who won
-a   Victoria   Cross,
-and  four  men
-e  x  e  c  u  t  e  d
-                  for cowardice and
-             d e s e r t i o n ?
-
-
-...that the
-             L  i  v  e  r  p  o  o  l
-Scottish,  a  unit
-                  of   the   British
-        Territorial   Army,   was
-raised   in   1900
-        from Scotsmen living
-        in  Liverpool,
-             E   n   g   l   a   n   d   ?
-
-
-        ...   that   there
-             a r e
-currently  over
-             1 , 0 0 0
-                  more international chess
-        t   o   u   r   n   a   m   e   n   t   s
-             p e r
-             y  e  a  r
-        than  there  were
-                  i   n
-1   9   5   1   ?
-
-
-        . . . t h a t
-             V i n c e n t
-        van Gogh's Sunflowers
-             paintings  were  intended
-t   o
-                  decorate  the  bedroom
-                  of   his
-                  friend and fellow
-                  painter   Paul
-        G   a   u   g   u   i   n   ?
-
-
-        . . .
-t h a t
-             a  year  after
-c  o  n  d  u  c  t  i  n  g
-        rival   nuclear
-        tests,  India  and
-             Pakistan   issued   the
-             1  9  9  9
-             Lahore  Declaration,  committing
-to develop safeguards
-to   prevent
-        n u c l e a r
-             c o n f l i c t ?
-
-
-             ...   that   Ichitaro
-             K  a  n  i  e
-             g  r  e  w
-                  Japan's   first   tomatoes
-        in 1899, founding
-             t  h  e
-             ¬   •   1   5   7
-billion   Kagome
-                  t o m a t o
-        e   m   p   i   r   e   ?
-
-
-                  ...  that  American
-             colonialists James
-                  Franklin and
-        Ann   Smith
-        F  r  a  n  k  l  i  n
-                  established  Rhode
-             Island's  first
-                  p   r   i   n   t   i   n   g
-             p  r  e  s  s  ?
-
-
-                  .   .   .
-        that painter
-        Karp Zolotaryov
-                  created   a   handmade
-        Z   o   d   i   a   c
-             calendar   for
-teaching  then-seven-year-old
-P   e   t   e   r
-             I  of
-             R u s s i a ?
-
-
-        ... that
-                  t   h   e
-             Terminal  Annex  Post
-             Office was
-                  LA's central mail
-                  processing  facility
-for 50 years
-and became a
-             filming location
-when   it
-             c l o s e d ?
-
-
-             ...  that
-             James  John
-             Skinner  was  the
-             o  n  l  y
-White member
-        of the
-Zambian cabinet
-             w h e n
-                  that  nation  gained
-                  i  n  d  e  p  e  n  d  e  n  c  e
-                  i  n
-                  1   9   6   4   ?
-
-
-        ...that in
-                  G r e e k
-m  y  t  h  o  l  o  g  y
-                  Gorgythion was one
-             of the fifty
-        sons   of   King
-                  Priam   of
-             T r o y ?
-
-
-.   .   .
-                  that   the   St.
-        John's Lodge
-in Portsmouth,
-N  e  w
-H a m p s h i r e
-is one of
-             the oldest
-        continuously operating Masonic
-             Lodges   in
-        t  h  e
-        A  m  e  r  i  c  a  s  ?
-
-
-.  .  .  t  h  a  t
-             the   1956   My
-             Fair Lady by
-                  Shelly  Manne  &
-             His Friends
-             was   the   first
-                  a  l  b  u  m
-ever made consisting
-        entirely   of   jazz
-        versions of tunes
-        from a single
-                  B  r  o  a  d  w  a  y
-m u s i c a l ?
-
-
-                  .  .  .  t  h  a  t
-        French  adventurer
-                  M  a  r  i  e  -  C  h  a  r  l  e  s
-David de
-M a y r √ © n a
-                  was  supposed  to
-n e g o t i a t e
-        t  r  e  a  t  i  e  s
-with  the  local
-             people  in  an
-        1888  expedition
-        t  o
-p r e s e n t - d a y
-        Vietnam, but instead
-             formed   a
-                  n e w
-K   i   n   g   d   o   m
-                  of  Sedang  with
-             h i m s e l f
-                  a   s
-             t   h   e
-                  k   i   n   g   ?
-
-
-                  ...that  the
-             p   o   l   i   t   i   c   a   l
-                  party  at  European
-l   e   v   e   l   ,
-             an   organization   in
-             the   European
-                  U n i o n
-eligible to
-             receive   EU
-             funding, is
-r   e   c   o   g   n   i   z   e   d
-             in the Maastricht
-                  T r e a t y
-                  and   the   draft
-                  E  u  r  o  p  e  a  n
-             C  o  n  s  t  i  t  u  t  i  o  n  ?
-
-
-        ...that people
-                  with  patent
-f   o   r   a   m   e   n
-                  ovale, an atrial
-septal  defect,  are
-             more  likely
-             to   suffer   from
-m  i  g  r  a  i  n  e
-                  h   e   a   d   a   c   h   e   s   ?
-
-
-             ...that Sir
-             Collingwood  Schreiber  played
-                  a   key   role
-                  in  the  construction
-        o f
-             the   Canadian   Pacific
-             Railway,   and   now
-has a
-                  township named
-             a  f  t  e  r
-h   i   m   ?
-
-
-             .   .   .   t   h   a   t
-the  Vietnam  Women's
-                  M  e  m  o  r  i  a  l
-        in  Washington,
-                  D.C.  was  designed
-                  b  y
-             Glenna   Goodacre,
-        who also
-        designed   the   Sacagawea
-                  d   o   l   l   a   r   ?
-
-
-        ...that   Hamilton
-             Disston purchased
-                  four   million   acres
-        of land‚Äîlarger
-             than  the  state
-             of   Connecticut‚Äîfor
-        just  $1
-                  million   in   1881
-             i   n
-             a  failed
-                  attempt  to
-        drain  the
-                  E  v  e  r  g  l  a  d  e  s  ?
-
-
-...that  Mormon  settlers
-o n
-                  t  h  e
-             1879 San
-                  Juan  Expedition  to
-             establish  a
-                  colony in what
-             i   s
-                  now   southeastern   Utah
-        spent  several  months
-                  w i d e n i n g
-                  a
-"  H  o  l  e  -  i  n  -  t  h  e  -  R  o  c  k  "
-for  the
-             p   a   s   s   a   g   e
-o   f
-w   a   g   o   n   s   ?
-
-
-                  ... that
-Matthew   Robinson,   older
-             b r o t h e r
-             of Baseball Hall
-                  of Famer Jackie
-             Robinson, was a
-                  world-class  sprinter  and
-             won   a
-        s i l v e r
-medal in
-                  t h e
-1936 Summer
-                  Olympics  in
-        B e r l i n ?
-
-
-             .   .   .
-        that  the
-        Unlearned   Parliament
-        was   so   called
-        because  lawyers  were
-forbidden to
-attend  as  Henry
-             I   V
-felt   they   were
-        "  t  r  o  u  b  l  e  s  o  m  e  "  ?
-
-
-...that the city
-        of  West
-Sacramento,   California   is
-                  converting the
-                  former   State   Route
-275   freeway   into
-        a   surface
-                  road   by
-        replacing interchanges with
-                  a t - g r a d e
-             i   n   t   e   r   s   e   c   t   i   o   n   s   ?
-
-
-        ...   that   Palestinian
-nationalist   poet   Ibrahim
-Touqan  wrote  the
-                  p  o  e  m
-Mawtini,   which
-             has  been  the
-                  national  anthem  of
-             Iraq since
-        2   0   0   3   ?
-
-
-                  .   .   .   t   h   a   t
-                  the word
-                  jazz was
-                  originally a California
-             baseball slang
-        term and was
-                  first  applied
-t   o
-             a   style   of
-             m  u  s  i  c
-             i  n
-C   h   i   c   a   g   o   ?
-
-
-.  .  .  t  h  a  t
-                  the  Pianta  Grande
-        d i
-        Roma  by  Giambattista
-                  N o l l i
-of  1748
-w a s
-still  being  used
-i   n
-        urban  planning  in
-                  Rome down to
-t h e
-             1 9 7 0 s ?
-
-
-                  ...that   the   philosophical
-        question of temporal
-             finitism has
-never  been
-        f u l l y
-s  e  t  t  l  e  d  ?
-
-
-             ... that
-                  Ensign O'Toole, a
-                  1962‚Äì1963   NBC   military
-                  c   o   m   e   d   y
-             s   e   r   i   e   s
-        starring  Dean  Jones,
-             was filmed
-                  aboard   the
-             USS  Frank
-E.  Evans,  which
-was  thereafter
-                  destroyed  following  a
-        c   o   l   l   i   s   i   o   n   ?
-
-
-                  ...that   the   origins
-             of  Castle
-        Lake (pictured) in
-             California date
-to  the
-Pleistocene Era
-                  ( m o r e
-than   10,000
-years ago)
-        when a
-glacier  carved  a
-basin   in
-             the   location   of
-        the   current
-             l  a  k  e  ?
-
-
-...that during
-        the construction of
-             Centennial  Tower
-( p i c t u r e d )
-in  Singapore,
-             the tower rose
-             20  storeys  in
-                  j   u   s   t
-        t h r e e
-m  o  n  t  h  s  ?
-
-
-        .   .   .
-that   Israel   and
-        China were
-                  c   u   l   t   i   v   a   t   i   n   g
-             military  cooperation  well
-                  before   the
-e   s   t   a   b   l   i   s   h   m   e   n   t
-             of   diplomatic   relations
-        i   n
-        1  9  9  2  ?
-
-
-        .  .  .
-        t   h   a   t
-        after a
-                  collision  with
-the   Scottish   clipper
-                  Loch  Earn,
-             the French steamship
-                  V  i  l  l  e
-             du Havre
-                  sank  in  only
-             12  minutes,  with
-                  the   loss
-of 226
-                  l i v e s ?
-
-
-             .  .  .  t  h  a  t
-                  the   explorer   Peter
-        S e m e n o v
-             of   Tian
-S   h   a   n
-        presided over
-t h e
-Russian  Geographical  Society
-f   o   r
-                  more than
-4  0
-             y   e   a   r   s   ?
-
-
-                  ...that  the
-freshwater   weed   Azolla
-                  may   have
-grown   in
-                  t   h   e
-             Arctic Ocean with
-        e  n  o  u  g  h
-vigour to
-             plunge  the  world
-i   n   t   o
-        an  ice
-        a   g   e   ?
-
-
-             ...that   Bharatiya
-J a n a t a
-                  Party  leader  Rajnath
-S i n g h
-             h  a  s
-             been   active   in
-             the  party
-        s i n c e
-a  g  e
-             1 3 ?
-
-
-             .   .   .   t   h   a   t
-t h e
-Roanoke Building sits
-             o   n
-        t  h  e
-        site of a
-             f o r m e r
-                  b   u   i   l   d   i   n   g
-             b y
-             t  h  e
-             same name
-                  t  h  a  t
-                  was once an
-        o f f i c i a l
-climate   site
-f  o  r
-        t   h   e
-        N   a   t   i   o   n   a   l
-        W   e   a   t   h   e   r
-             S e r v i c e ?
-
-
-             ...that   five   of
-             the   nine
-             Metal Highway Bridges
-        of Fulton County,
-        Illinois   (pictured)   have
-        b  e  e  n
-             destroyed  since
-                  t   h   e   i   r
-             inclusion on
-                  t  h  e
-        National  Register  of
-Historic  Places  in
-             1  9  8  0  ?
-
-
-                  .   .   .   t   h   a   t
-             damask, a
-             fabric  with
-                  a  rich  pattern
-        f  o  r  m  e  d
-        by   weaving,   got
-                  its   name   from
-             ornamental   silk
-                  f a b r i c s
-        from  Damascus,
-             S   y   r   i   a   ?
-
-
-                  ...   that
-although  designed  for
-             u  s  e
-             on  light  rail
-lines, the
-Valmet RM 2
-trams were
-             only   ever
-        used  on  traditional
-                  t   r   a   m
-        s  y  s  t  e  m  s  ?
-
-
-             ...that the little
-        b o r g o
-        of   Settignano,
-near Florence, Italy,
-        w   a   s
-                  the birthplace
-        of  four
-        s   c   u   l   p   t   o   r   s
-of the
-             F l o r e n t i n e
-        Renaissance‚Äî   Desiderio   da
-        Settignano, Bernardo
-             Rossellino,   Antonio   Rossellino
-a   n   d
-B   a   r   t   o   l   o   m   e   o
-        A   m   m   a   n   a   t   i   ?
-
-
-        ...that the author
-        of  the  best-selling
-b  o  o  k
-        Misha: A
-M√©moire of the
-                  Holocaust   Years,
-                  w h o
-claimed  to  be
-             a Holocaust survivor,
-a  d  m  i  t  t  e  d
-             her  memoir  was
-             a
-        h   o   a   x   ?
-
-
-                  .   .   .   t   h   a   t
-                  t   h   e
-                  s   c   u   l   p   t   u   r   e
-                  Reverence which depicts
-             two whale
-                  tails,   is   not
-o  n
-        permanent  display  near
-             the   ocean   yet
-        on a
-grassy  knoll  in
-             an   open   green
-             f  i  e  l  d  ?
-
-
-                  ...that  Germerius  is
-                  said   to
-        h   a   v   e
-been   given   as
-                  much   land
-                  as   the   shadow
-                  o  f
-             his cloak
-             could  cover
-             (about a
-s   i   x
-                  miles  radius)
-b  y
-                  C l o v i s
-I in
-             exchange for
-             h   i   s
-p  r  a  y  e  r  s  ?
-
-
-        ...   that   the
-                  world's largest
-             L N G
-        carrier Q-Max
-                  Mozah   was   named
-        b y
-a n d
-after  Mozah  Nasser
-                  a   l   -   M   i   s   n   a   d   ,
-        Sheikha   of
-Q  a  t  a  r  ?
-
-
-                  ...that men
-                  a  r  e
-        a b l e
-                  t o
-             be   insured
-             a  g  a  i  n  s  t
-             a l i e n
-                  i m p r e g n a t i o n ?
-
-
-        .   .   .   t   h   a   t
-             Canadian   water   slide
-                  m a n u f a c t u r e r
-ProSlide's first
-water roller coaster
-                  that  uses
-        linear  induction  motors
-             to propel
-i t s
-riders uphill opened
-a  t
-        WhiteWater   World   in
-                  A u s t r a l i a
-             i  n
-        2   0   0   6   ?
-
-
-             .  .  .
-that  Peter  Lorillard
-                  may  have  been
-             the  first
-             American   publicly   referred
-to  as  a
-                  "  m  i  l  l  i  o  n  a  i  r  e  "  ?
-
-
-        ...that  the  exuberant
-             "Smiling   Faces"
-                  f   i   g   u   r   i   n   e   s
-        f  r  o  m
-                  the Remojadas
-        archaeological site (pictured)
-a r e
-             likely   related   to
-             t h e
-l  o  c  a  l
-        cult of
-t  h  e
-        d  e  a  d  ?
-
-
-             .  .  .
-t h a t
-        N i n i
-Stoltenberg, the
-l i t t l e
-             sister  of  the
-Norwegian  Prime
-        M  i  n  i  s  t  e  r  ,
-             has  spoken
-        o   p   e   n   l   y
-             about her
-        past heroin addiction
-and has
-b   e   c   o   m   e
-an   advocate   for
-                  drug policy
-             reform in
-             N  o  r  w  a  y  ?
-
-
-                  ...that Moritz
-        Daniel   Oppenheim,   a
-        G e r m a n
-        J e w i s h
-        painter, is
-        considered   "the
-first   Jewish   painter"
-        b e c a u s e
-h   i   s
-        work  was  informed
-        by   his   cultural
-                  a n d
-        religious  roots  at
-a  time
-             when  many  of
-        his   contemporaries   chose
-                  t   o
-             c  o  n  v  e  r  t  ?
-
-
-             ...  that
-                  New   York
-        State  Route  30
-        is   the   longest
-o  f
-             o   n   l   y
-f i v e
-             state   highways   in
-                  Hamilton County,
-                  N   e   w
-                  Y  o  r  k  ?
-
-
-.  .  .
-        t  h  a  t
-Keiz≈ç  Tsukamoto
-             set a Guinness
-                  World   Record   by
-             c  r  e  a  t  i  n  g
-the cover
-             art for
-m  o  r  e
-                  than 1,900
-             issues  of
-        W   e   e   k   l   y
-        M   a   n   g   a
-                  Times   starting   in
-                  1   9   7   0   ?
-
-
-        ...  that
-t   h   e
-German   company   Jako
-        threatened   to   sue
-the   Football
-        Association  of  Ireland
-             when   referee
-                  A  n  t  h  o  n  y
-                  Buttimer refused
-                  to allow Sligo
-             Rovers   to   wear
-        their  kit  in
-             a League
-             of   Ireland
-m a t c h ?
-
-
-...that   the   term
-                  apicophilicity  was
-        first proposed in
-1963  for  the
-s   t   r   u   c   t   u   r   a   l
-analysis  of
-             p   e   n   t   a   c   o   o   r   d   i   n   a   t   e
-             phosphorus  fluorides  by
-        1 9 F
-                  N  M  R  ?
-
-
-.   .   .   t   h   a   t
-        b e t w e e n
-        her   marriage
-to Marcus Garvey
-        a   n   d
-her   relationship   with
-             President  of  Liberia
-                  William  Tubman,
-        Pan-Africanist activist Amy
-Ashwood   Garvey   ran
-        a   club
-             on   London's   Carnaby
-                  S   t   r   e   e   t   ?
-
-
-        ...that although he
-             is   famous   for
-        inventing  the
-                  C r a m p t o n
-        l   o   c   o   m   o   t   i   v   e   ,
-                  Thomas Crampton
-was  also  responsible
-             f  o  r
-        the world's
-             first   international   submarine
-        t e l e g r a p h
-c  a  b  l  e  ?
-
-
-                  ...   that
-                  a riot reportedly
-        instigated  by
-writer   Andr√©
-B  r  e  t  o  n
-        broke   out   during
-             t h e
-                  1923   premiere   of
-             T r i s t a n
-             T z a r a ' s
-L  e
-             C≈ìur   √†
-        gaz,  a  play
-        w  r  i  t  t  e  n
-                  as a
-                  nonsensical   dialog   between
-human   body
-             p a r t s ?
-
-
-                  ...that   following
-        t h e
-                  anti-Chinese Seattle riot
-             of  1886
-             Congress  paid
-             $276,619.15  to  the
-             Chinese  government  in
-                  compensation,   but   the
-             v   i   c   t   i   m   s
-r   e   c   e   i   v   e   d
-        n  o  t  h  i  n  g  ?
-
-
-                  ... that the
-             T r a n s i t i o n
-             T   o   w   n   s
-        movement  inspired  Totnes,
-        England to
-        introduce  their
-own   town-wide   currency
-redeemable only
-                  i n
-        l o c a l
-s h o p s ?
-
-
-...that Liu
-             Heita  was  a
-             Xia   general   during
-             China's  transition  period
-        f   r   o   m
-             t h e
-                  S  u  i
-Dynasty   to
-                  the  Tang  Dynasty
-                  in  the
-                  7  t  h
-                  c   e   n   t   u   r   y   ?
-
-
-                  ...  that  in
-             1   9   2   3   ,
-Charles Scott
-Haley   conducted
-C   a   l   i   f   o   r   n   i   a   '   s
-             f i r s t
-        statewide   comprehensive
-                  study   of
-                  tertiary fluvial
-             placers,  dredge  fields,
-             a  n  d
-d   r   y
-p   l   a   c   e   r   s   ?
-
-
-                  .  .  .  t  h  a  t  ,
-             during   13th   and
-        14th century
-        Europe,   a   town
-c l o c k k e e p e r
-        would  often
-b e
-employed   and   paid
-                  h i g h
-                  sums of money
-to monitor and
-             regulate   the   town
-c l o c k ?
-
-
-... that Italy's
-        newly appointed
-Minister   for
-        Equal   Opportunity,   Mara
-        C   a   r   f   a   g   n   a   ,
-        u s e d
-        to be a
-showgirl   and   a
-        g   l   a   m   o   u   r
-                  m o d e l ?
-
-
-.  .  .
-             t   h   a   t
-                  A u s t r a l i a n
-             o   p   h   t   h   a   l   m   o   l   o   g   i   s   t
-                  Sir   Norman   McAlister
-             Gregg   discovered
-        t  h  e
-             link   between   rubella
-                  a n d
-congenital   disorders   in
-newborn  infants  after
-             o   v   e   r   h   e   a   r   i   n   g
-                  several  of  his
-        p  a  t  i  e  n  t  s
-        d  i  s  c  u  s  s  i  n  g
-             t  h  e  i  r
-             i   l   l   n   e   s   s
-        d   u   r   i   n   g
-p r e g n a n c y ?
-
-
-        ...that  Children
-and Youth Sports
-             S c h o o l s ,
-             which originated in
-                  the   Soviet
-Union,   continue
-in Russia, and
-                  form the basis
-of  the
-             modern  system  in
-the  People's  Republic
-             o f
-        C h i n a ?
-
-
-                  ...that Clyde
-        F  a  s  t  l  i  n  k  ,
-             a  planned
-             ¬£42m  dedicated  bus
-        service,   is   an
-                  interim  measure  for
-Glasgow's   proposed
-l i g h t
-        r  a  i  l
-        s  y  s  t  e  m  ?
-
-
-
-
-
-
-                  .   .   .
-        t  h  a  t
-C h a r l e s
-        Frederick  Holder
-                  invented   the
-        s p o r t
-o  f
-b   i   g   -   g   a   m   e
-        fishing   and   was
-a l s o
-        a founder
-             of   Pasadena's
-        Tournament of
-        R  o  s  e  s  ?
-
-
-        . . .
-                  that   the   Green
-                  R   o   s   e   l   l   a
-(   p   i   c   t   u   r   e   d   )
-             o f
-             Tasmania   was   mistakenly
-             believed  by
-        Johann  Friedrich
-        Gmelin   to
-        have  originated  from
-New Caledonia
-             and   named
-        a   c   c   o   r   d   i   n   g   l   y   ?
-
-
-                  ...that,   during
-                  the Basque
-             w i t c h
-             t  r  i  a  l  s  ,
-1 , 3 8 4 ¬ † c h i l d r e n
-             voluntarily  reported  themselves
-        a   n   d
-             denounced their
-        " a c c o m p l i c e s " ?
-
-
-             ...that under
-                  t h e
-        terms   of
-             the Bunbury Agreement,
-                  t h e
-        English   county   of
-                  Cheshire   would   have
-             remained   neutral   during
-                  t h e
-             English Civil
-                  W   a   r   ?
-
-
-...that   the   unimportance
-        a   n   d
-             c   o   n   s   e   q   u   e   n   t
-             emptiness of
-             Kalikata   afforded
-        t h e
-        British room to
-             settle  there  and
-e   s   t   a   b   l   i   s   h
-        C  a  l  c  u  t  t  a  ?
-
-
-        ...that   research
-into attitude polarization
-                  suggests   that
-w h e n
-people   read
-research  that
-                  b  o  t  h
-        supports  and
-        contradicts   their   current
-        v   i   e   w   s   ,
-             they come to
-             hold their
-o   r   i   g   i   n   a   l
-        attitudes   more
-s  t  r  o  n  g  l  y
-t h a n
-             b   e   f   o   r   e   ?
-
-
-. . . t h a t
-a
-        portion  of  the
-                  money  used  to
-p  u  r  c  h  a  s  e
-l  a  n  d
-        for  the  publicly
-owned Noble Woods
-        Park in Hillsboro,
-Oregon, came
-        from   private
-             p l e d g e s ?
-
-
-             .   .   .
-        that the
-        L a g u n a
-             d   e
-                  Santa   Rosa   in
-                  Sonoma  County,
-             California,  has  several
-e  n  d  e  m  i  c
-                  endangered species
-        and  is
-             t   h   e
-             second-largest   freshwater
-             w  e  t  l  a  n  d
-        i  n
-                  N o r t h e r n
-                  C a l i f o r n i a ?
-
-
-             ...that  Vice-Admiral
-                  Sir Charles Paget
-             was  also  an
-M  P
-             f  o  r
-                  Carnarvon   despite
-        his   active   navy
-                  c   a   r   e   e   r   ?
-
-
-...that Iceland
-        leads  the
-world in
-             renewable energy and
-             is   the
-             first  country
-to supply
-        a l l
-                  electricity   from
-                  r e n e w a b l e
-        s  o  u  r  c  e  s  ?
-
-
-. . .
-             that  the  People's
-             R e p u b l i c
-             of   China
-made its
-Olympic   debut
-             a  t
-the 1952 Summer
-             Games,   but
-             t h e
-        team arrived
-             in   Helsinki   too
-        late to
-                  compete   except   for
-o   n   e
-        r  a  c  e
-             b   y
-                  a
-        s  i  n  g  l  e
-        s   w   i   m   m   e   r   ?
-
-
-...  that  a
-        scrapped   demolition   proposal
-        for the
-Baytown  Tunnel  in
-                  Baytown,  Texas  would
-        have   utilized   former
-pieces   of
-             i t s
-             structure   in
-        the creation of
-             an artificial reef
-             in  the
-G u l f
-             o   f
-             M e x i c o ?
-
-
-        .  .  .  t  h  a  t
-Tom   Campbell   was
-             a  popular  radio
-        personality on
-K Y A
-                  San   Francisco   who
-             used   to
-                  l   o   a   n
-                  his  personal  phonograph,
-record collection
-        and   even
-his  personal
-                  automobile  to  his
-             l   i   s   t   e   n   e   r   s   ?
-
-
-
-
-             . . . t h a t
-        the  Viagens  Interplanetarias
-                  series   of   science
-                  fiction stories by
-        L  .
-        S   p   r   a   g   u   e
-de Camp was
-influenced  by  Edgar
-                  Rice Burroughs'
-        M a r t i a n
-                  n  o  v  e  l  s  ?
-
-
-                  . . . t h a t
-silent movie actress
-        F l o r e n c e
-        Turner was originally
-        known  to  audiences
-        only as the
-        V  i  t  a  g  r  a  p  h
-G i r l ?
-
-
-                  . . .
-             t   h   a   t
-             A   p   p   o   l   l   o
-r   e   c   e   i   v   e   d
-             the  Dickin  Medal
-        o n
-                  b  e  h  a  l  f
-                  of   all
-        search and rescue
-d   o   g   s
-                  w h o
-             participated  in  rescue
-                  o   p   e   r   a   t   i   o   n   s
-after   the   September
-        1  1
-             a t t a c k s ?
-
-
-                  ...   that   Aythorpe
-        Roding   Windmill
-        (   p   i   c   t   u   r   e   d   )
-i  s
-                  the largest surviving
-             post  mill  in
-        E s s e x ,
-                  E n g l a n d ?
-
-
-        .   .   .   t   h   a   t
-Luis Palau,
-             an  evangelical
-minister based in
-                  Portland,  Oregon,  has
-             collaborated with government
-                  leaders   in
-                  Portland   and   neighboring
-        cities,  and
-        5  0  0
-Christian  pastors,  to
-        r  a  l  l  y
-        volunteers to address
-             h  o  m  e  l  e  s  s  n  e  s  s  ?
-
-
-                  .  .  .
-             t h a t
-                  Burnt Hair
-        Records was
-        p   a   r   t
-                  o   f
-        Michigan's   space   rock
-music   scene
-                  i   n
-t  h  e
-1   9   9   0   s   ?
-
-
-...that the Irish
-                  T  h  o  r  o  u  g  h  b  r  e  d
-Noor   was   the
-        f i r s t
-        racehorse   ever
-to   defeat   two
-                  U.S.   Triple   Crown
-             c   h   a   m   p   i   o   n   s   ?
-
-
-        ...that  Dutch  Catechism,
-a bestseller with
-                  translations sold globally,
-was   issued   by
-                  bishops of the
-N e t h e r l a n d s
-        to   make   the
-             message   of
-                  J e s u s
-             "sound   as   new
-as  it
-             i   s   "   ?
-
-
-.   .   .   t   h   a   t
-             New   York   Mets
-                  pitcher  Chuck  Estrada
-picked   up   the
-             win  in
-Tom  Seaver's
-m  a  j  o  r
-l e a g u e
-d e b u t ?
-
-
-...   that
-in a
-             toll  dispute
-        between   residents   of
-             B a n d a r
-                  M  a  h  k  o  t  a
-                  C h e r a s
-                  and  the  Cheras-Kajang
-             Highway concessionaire,
-                  a   barrier   blocking
-        a  shunpike
-        was  repeatedly  torn
-             d   o   w   n
-a   n   d
-             r   e   b   u   i   l   t   ?
-
-
-        ...that   the   2008
-                  Hillsong   United
-                  album   The   I
-             H   e   a   r   t
-Revolution:  With
-                  Hearts  as
-             One was
-        released   as
-a   USB
-                  f   l   a   s   h
-             d   r   i   v   e
-                  containing   the
-        M   P   3
-                  files of
-             the   songs,
-             e   m   b   e   d   d   e   d
-into   a
-        r u b b e r
-        w r i s t b a n d ?
-
-
-...that  activist  Michael
-                  M a n s e l l
-             convinced Libyan
-             l e a d e r
-                  Muammar al-Gaddafi
-                  to   recognise   an
-        Aboriginal  Australian  passport
-                  to draw world
-        a   t   t   e   n   t   i   o   n
-        t   o
-        t   h   e
-        issue of
-             Aboriginal land
-r i g h t s ?
-
-
-                  ...that  Mikhail  Gerasimov
-        used exhumed skulls
-        to   reconstruct   faces
-        o   f
-m  o  r  e
-                  t  h  a  n
-                  200 people, including
-             Friedrich  Schiller,  Ivan
-        t   h   e
-T   e   r   r   i   b   l   e   ,
-a n d
-                  T   a   m   e   r   l   a   n   e   ?
-
-
-             ...that,  according
-                  to  Herodotus,
-R h o d o p i s
-             w  a  s
-        a  fellow-slave  with
-                  t  h  e
-                  p   o   e   t
-A  e  s  o  p  ?
-
-
-                  ...that the
-                  D  e  l  h  i  -  L  a  h  o  r  e
-Bus, a
-symbol of
-                  Indo-Pakistani   friendship,
-        continued   running
-d u r i n g
-                  the   1999   Kargil
-                  W a r ?
-
-
-...that Kevin Reiman,
-             a
-             MLS  footballer  for
-                  Real  Salt
-                  L a k e ,
-        h   e   l   p   e   d
-        M   a   r   y   l   a   n   d
-        U   .
-        win  an
-N   C   A   A
-             title,   then   transferred
-        after their
-addition   of
-                  R  o  b  b  i  e
-                  R   o   g   e   r   s   ?
-
-
-             ...   that
-             t  h  e
-        police   shooting
-        of   Rahul   Raj
-             ,
-                  a
-                  BEST   bus
-        hijacker   in   Mumbai,
-India,  sparked
-             nationwide protests and
-             d   i   s   c   u   s   s   i   o   n   s   ?
-
-
-                  ...that the 1956
-        M   y
-             Fair Lady
-             by  Shelly
-        M a n n e
-                  &  His  Friends
-        was the first
-a  l  b  u  m
-        ever   made   consisting
-e   n   t   i   r   e   l   y
-             o  f
-        j a z z
-                  versions of
-tunes   from   a
-        s i n g l e
-        B   r   o   a   d   w   a   y
-                  m   u   s   i   c   a   l   ?
-
-
-...that   David
-             T   w   e   e   d
-             is  an
-        Australian   share
-        m  a  r  k  e  t
-             trader who has
-attempted to purchase
-                  s h a r e s
-        from  small
-        investors  for
-             less  than
-                  the market
-                  p  r  i  c  e  ?
-
-
-                  . . . t h a t
-        b  e  f  o  r  e
-                  t   h   e
-        Toronto  Maple
-L  e  a  f  s
-o f
-t  h  e
-             National   Hockey   League
-                  adopted its current
-n a m e ,
-        they   had
-already   won
-                  two Stanley Cups
-             by defeating
-t h e
-        Vancouver  Millionaires  in
-1 9 1 8
-and in
-                  1 9 2 2 ?
-
-
-                  ...  that  Temple
-             Beth Israel in
-        Eugene, Oregon was
-                  a  t  t  a  c  k  e  d
-by   neo-Nazi   members
-of  the
-V  o  l  k  s  f  r  o  n  t
-             in  1994
-             a   n   d
-        2  0  0  2  ?
-
-
-             .  .  .  t  h  a  t
-                  all  five  species
-        o f
-        the  catfish
-             g   e   n   u   s
-                  E   p   a   c   t   i   o   n   o   t   u   s
-        are   endemic
-        to limited geographic
-                  a  r  e  a  s
-                  in   Brazil   and
-        A  r  g  e  n  t  i  n  a  ?
-
-
-             .   .   .   t   h   a   t
-             a  Romantic
-        poem by
-                  Alexandru   Hrisoverghi   is
-             credited   with
-                  having  inspired
-                  historic preservation in
-             M o l d a v i a ?
-
-
-        ...that maize
-        w  a  s
-                  the  staple
-of  Aztec
-                  c u i s i n e ,
-                  a n d
-        that  maguey
-                  w o r m s ,
-spirulina   and   corn
-                  smut were popular
-        A  z  t  e  c
-             f   o   o   d   s   ?
-
-
-        .  .  .  t  h  a  t
-after two
-thousand   years
-or more
-                  of   continuous
-        habitation  the
-        S c o t t i s h
-                  i  s  l  a  n  d
-             o f
-Mingulay  (pictured:  old
-s c h o o l
-        house)   was   abandoned
-                  by   its
-             r e s i d e n t s
-i   n
-1   9   1   2   ?
-
-
-             ...that  retired
-                  District of New
-             Jersey  judge  William
-G.   Bassler   is
-        currently teaching at
-                  t   h   r   e   e
-                  New York City
-        a r e a
-             l   a   w
-s  c  h  o  o  l  s  ?
-
-
-...that   the
-Mayurakshi   river
-        in India wreaks
-havoc   with   its
-                  floods even after
-the  construction
-        o   f
-a
-             d   a   m   ?
-
-
-             .   .   .   t   h   a   t
-S  u  s  a  n
-                  H a d d e n ,
-             an  Internet
-                  affairs  advisor
-        t   o
-Al   Gore,
-w   a   s
-                  k   i   l   l   e   d
-        b  y
-                  b   a   n   d   i   t   s
-        while visiting Angkor
-                  W   a   t   ?
-
-
-        ...that Madeline La
-Framboise,   a
-             f u r
-             t  r  a  d  e  r
-             of mixed
-        F  r  e  n  c  h
-             and   Native   American
-        d e s c e n t ,
-                  was  Michigan's  first
-                  successful  businesswoman,  and
-                  i  s
-buried   beneath   the
-        altar of St.
-             Anne's   church   on
-             M a c k i n a c
-I s l a n d ?
-
-
-                  . . . t h a t
-                  according   to
-        the  Christmas  Price
-             Index it will
-cost your true
-        love US$78,100
-        to   buy   you
-        all  those
-g  i  f  t  s
-t  h  i  s
-        y e a r ?
-
-
-                  ...that Tan
-                  Teck Guan Building
-             (  p  i  c  t  u  r  e  d  )
-was   the
-        site of
-                  Singapore's  first  medical
-        school,  and
-has  been
-                  c o n s e r v e d
-        a   s
-                  a national
-m  o  n  u  m  e  n  t  ?
-
-
-
-
-                  .   .   .   t   h   a   t
-        the May 1945
-                  Battle of
-        Kurylowka was one
-        of  the  biggest
-                  clashes fought between
-             the NKVD
-             and Polish anti-communist
-r e s i s t a n c e ?
-
-
-                  ...   that   Miguel
-                  Ram√≥n  Izquierdo
-                  was  the
-             last Francoist
-mayor  of  Valencia,
-S p a i n
-and  secured
-                  the  transfer
-        of  the
-        Turia River gardens
-from the
-S p a n i s h
-crown to
-        l o c a l
-a d m i n i s t r a t i o n ?
-
-
-.   .   .   t   h   a   t
-the Kiev
-                  t   r   a   m
-        was the
-f   i   r   s   t
-             electric  tramway
-        i  n
-the Russian Empire,
-                  and  the
-                  s e c o n d
-             one  in
-        E  u  r  o  p  e  ,
-                  a   f   t   e   r
-             t  h  e
-                  B e r l i n
-        S t r a √ ü e n b a h n ?
-
-
-                  . . .
-                  that   the
-        non-payment   of
-                  debts  is  the
-archetype   for   the
-        seventeen other Hindu
-        t   i   t   l   e   s
-        of law, including
-                  the   sexual   crimes
-             a g a i n s t
-             w   o   m   e   n   ?
-
-
-        ...that the 1951
-        P   o   l   i   s   h   -   S   o   v   i   e   t
-                  territorial  exchange
-             was   one
-of the biggest
-        border corrections in
-E  u  r  o  p  e
-a f t e r
-                  1  9  4  5  ?
-
-
-                  .   .   .   t   h   a   t
-        1 2 %
-                  o   f
-                  t h e
-                  world's gold
-             supply,  78%
-             of the world's
-                  p   l   a   t   i   n   u   m   ,
-             and over
-                  15.8  million  carats
-        of  diamonds
-        come   from   Mining
-             in South
-             A f r i c a ?
-
-
-             ...that,   according
-             t   o
-        the Lanercost Chronicle,
-             Richard   de   Inverkeithing,
-bishop   of   Dunkeld,
-        w a s
-                  poisoned  by
-King Alexander III
-             o  f
-             Scotland  so  that
-                  t h e
-                  king   could   take
-        t   h   e
-bishop's   movable
-             p o s s e s s i o n s ?
-
-
-        .   .   .   t   h   a   t
-                  the   Basilica
-                  of  Bego√±a  in
-Bilbao,  Spain  has
-2 4
-bells, each imported
-f r o m
-             S w i t z e r l a n d ?
-
-
-             .   .   .   t   h   a   t
-                  Jatin  Das,
-                  an  Indian
-        freedom   fighter,
-d  i  e  d
-        after sixty
-t   h   r   e   e
-        days of hunger
-s t r i k e
-        demanding  rights
-                  f  o  r
-             prisoners   and   undertrials
-i   n
-                  Lahore  jail  in
-1 9 2 9 ?
-
-
-...   that   the
-Calabasas, California
-                  f  a  c  i  l  i  t  i  e  s
-        f   o   r
-             the  private  elementary
-             school New
-Village   Academy
-is funded
-b   y
-        actor Will
-        S  m  i  t  h  ?
-
-
-             ...  that
-H  e  r  m  a  n  n
-Neubacher was the
-        leader  of
-                  the   Austrian
-             branch of
-             the  German  Nazi
-                  P  a  r  t  y  ?
-
-
-                  ...that   the
-             o  l  d  e  s  t
-                  continuously-operated  tavern  in
-             Philadelphia   is   McGillin's
-        O  l  d  e
-                  A l e
-             H   o   u   s   e   ,
-                  which  opened  in
-        1   8   6   0   ?
-
-
-...that   Cliff
-        Mapes,   a   Major
-             League outfielder
-        w   h   o
-p l a y e d
-             only  three
-        full   seasons,
-             was the starting
-        right  fielder  for
-the  New
-        York Yankees'
-        first  of
-             five   consecutive
-                  world   championships,   in
-             1   9   4   9   ?   "
-
-
-                  ...that   openly   gay
-        novelist Gordon Merrick's
-book  The
-                  Lord   Won't
-                  Mind  spent  16
-             weeks   on
-                  the  New
-                  York Times best-seller
-        l  i  s  t
-i n
-                  1970, at a
-                  t   i   m   e
-                  w h e n
-        most authors would
-             not write about
-        h   o   m   o   s   e   x   u   a   l
-        themes   for
-             a
-m  a  s  s
-        a u d i e n c e ?
-
-
-.   .   .
-        that some Bah√°'√≠
-prayers have been
-translated   into
-        more than
-             f   i   v   e
-        h   u   n   d   r   e   d
-                  l  a  n  g  u  a  g  e  s  ?
-
-
-             .   .   .   t   h   a   t
-             t   h   e
-                  US   Navy's
-        Haskell   class   attack
-                  transports   Meriwether
-(pictured),  Tazewell,
-        N   a   t   r   o   n   a   ,
-             O  k  a  l  o  o  s  a  ,
-                  Oneida   and
-             Rawlins   all   participated
-                  i n
-             only  one
-             battle   -
-        the invasion of
-                  Okinawa  in
-             1945  -  before
-being collectively struck
-        from  the
-        Naval Register on
-                  the  same  day
-        i   n
-O  c  t  o  b  e  r
-             1   9   5   8   ?
-
-
-...   that   hwajeon
-             ( p i c t u r e d )
-        is   a   sweet
-Korean pancake or
-             r  i  c  e
-             cake  made  of
-        edible  flower
-p e t a l s ,
-glutinous rice
-             f  l  o  u  r  ,
-a n d
-             s u g a r ?
-
-
-...that  according  to
-        Themba  Mabaso
-(pictured),   the
-                  State   Herald   of
-             South  Africa,
-             t h e
-             flag  of
-the  republic  is
-        like   a   written
-        d  o  c  u  m  e  n  t  ?
-
-
-...  that  Reuben
-             N o b l e - L a z a r u s
-                  b  e  c  a  m  e
-             the   youngest   footballer
-        in the Football
-                  L  e  a  g  u  e
-w h e n
-h e
-             came on as
-        a substitute in
-Barnsley's 3‚Äì0 defeat
-                  to   Ipswich
-             Town   in
-             2 0 0 8 ?
-
-
-                  ... that
-             stained glass from
-Judson   Studios   is
-                  found not
-        o n l y
-             in churches,
-             but  also
-i n
-             Frank  Lloyd  Wright
-houses,  the
-        U   .   S   .
-Capitol   and   the
-                  T r o p i c a n a
-                  C  a  s  i  n  o  ?
-
-
-             . . . t h a t
-             the   Main
-             Building   of   Peace
-             C  o  l  l  e  g  e
-was   first
-             u s e d
-             as a
-        C  o  n  f  e  d  e  r  a  t  e
-military   hospital
-             and   regional   headquarters
-             f   o   r
-        t  h  e
-             F r e e d m e n ' s
-        B  u  r  e  a  u  ?
-
-
-             ...   that
-                  the   Syrian   poet
-                  Nizar  Qabbany  wanted
-a  burial  in
-             Damascus because
-        it was the
-             p l a c e
-             that  gave  him
-                  "the  alphabet  of
-J a s m i n e " ?
-
-
-             .   .   .   t   h   a   t
-             Rastrelli's   Monument
-to  Peter
-        the Great
-                  (pictured) in Saint
-                  Petersburg  includes
-             a
-             message by
-        e  m  p  e  r  o  r
-P   a   u   l
-                  I
-             that is
-a
-subtle mockery of
-             Catherine the
-             Great's   inscription
-        on   the
-B   r   o   n   z   e
-H   o   r   s   e   m   a   n   ?
-
-
-             ...that   Joseph
-             B o w m a n
-             was  the
-only  American
-             o   f   f   i   c   e   r
-             killed   during
-             G e o r g e
-             Rogers   Clark's
-c   a   m   p   a   i   g   n
-                  to   capture
-             the Illinois
-Country  in
-             the  American
-        R e v o l u t i o n a r y
-        W  a  r  ?
-
-
-             . . . t h a t
-                  the Malaysian Industrial
-Development Authority not
-        only   promotes
-        Malaysia   to   foreign
-        investors, but
-        also   handles   tasks
-        s  u  c  h
-        as the extension
-        of  business
-v   i   s   i   t
-                  v i s a s ?
-
-
-             ... that
-             R   a   l   e   i   g   h
-                  S  p  r  i  n  g  s
-        Mall  in  Memphis,
-             Tennessee  lost  three
-                  of its
-             f  o  u  r
-        anchor  stores  (JCPenney,
-D   i   l   l   a   r   d   '   s
-        a  n  d
-        Goldsmith's)  all  in
-             t h e
-        s a m e
-             y e a r ?
-
-
-                  ...that George
-                  J.   Adams   led
-                  a   n
-i l l - f a t e d
-                  effort   to   establish
-a
-U  .  S  .
-c o l o n y
-        i   n
-             P a l e s t i n e ?
-
-
-             .   .   .   t   h   a   t
-        w  h  e  n
-Abraham   Lincoln's
-             b r o t h e r - i n - l a w ,
-                  C o n f e d e r a t e
-        Brig  Gen.  Benjamin
-H a r d i n
-             Helm was killed
-a   t
-the  Battle  of
-             Chickamauga, Lincoln's
-                  White  House
-                  went into
-m  o  u  r  n  i  n  g  ?
-
-
-             ...that  Ambler's  Texaco
-                  Gas Station
-                  (pictured) in Dwight,
-                  Illinois  was  the
-        l  o  n  g  e  s  t
-                  o p e r a t i n g
-f   i   l   l   i   n   g
-                  station   along   U.S.
-             R  o  u  t  e
-                  6 6 ?
-
-
-...that Major Alan
-                  Shapley,   survivor
-        of  the
-                  s i n k i n g
-                  o   f
-        the   USS   Arizona
-        during  the
-                  attack on
-                  Pearl  Harbor,  had
-        b   e   e   n
-                  relieved  of  duty
-o n
-        t   h   e
-                  Arizona the
-                  p r e v i o u s
-                  d a y ,
-but  had  stayed
-                  a  b  o  a  r  d
-overnight   before
-             reporting  to  his
-        next duty
-s   t   a   t   i   o   n   ?
-
-
-             .   .   .
-that  George
-                  J   .
-        Seabury   with   Robert
-                  Wood   Johnson   I
-        developed  a  medicated
-             adhesive  plaster  (pictured)
-        with   a
-             r  u  b  b  e  r
-base   as   a
-        precursor  to
-t  h  e
-             Johnson   &   Johnson
-             B a n d - A i d ?
-
-
-             ...that  Russian
-√©migr√© Jerzy
-             Bulanow  captained
-             t  h  e
-        Poland national
-        football team through
-             the   1920s   and
-        e  a  r  l  y
-             1  9  3  0  s  ?
-
-
-                  ...that   the
-                  South Australian
-        w   i   n   e
-        industry  produces  more
-than  half
-                  of all Australian
-                  wines,   including
-                  the  premium  Penfolds
-G r a n g e
-                  a   n   d
-many   of
-        the  mass  produced
-b  o  x
-                  w i n e s ?
-
-
-...that   the
-                  catchphrase  "Kowabunga!"
-             was  popularized  by
-the NBC
-                  p  r  o  g  r  a  m
-        H  o  w  d  y
-             D  o  o  d  y  ?
-
-
-        ...   that
-                  Rabbi  Asher
-Lopatin  supported  a
-Chicago   ban
-                  o n
-                  foie  gras
-o  n
-the   grounds
-t  h  a  t
-             the Torah
-                  p  r  o  h  i  b  i  t  s
-cruelty  to
-             animals,  noting
-t h a t
-                  "chopped  liver
-             i   s
-                  good, but
-             foie   gras
-                  i  s
-        b  a  d  "  ?
-
-
-                  .   .   .
-        t h a t
-        the   20   deaths
-                  i  n
-                  the   Donora
-                  S  m  o  g
-                  of   1948,   called
-             one of the
-worst  air
-        p  o  l  l  u  t  i  o  n
-disasters  in
-             American  history,
-have   been   credited
-with   leading   to
-        passage of
-        the U.S.
-                  C   l   e   a   n
-        Air  Act  in
-             1 9 7 0 ?
-
-
-             ...that  Le  Quang
-T   u   n   g   ,
-             t  h  e
-Catholic   head
-of  South
-                  Vietnam's special
-        forces   had   his
-        CIA   funding   threatened
-b e c a u s e
-he   concentrated
-        on   repressing
-Buddhists and
-             raiding   temples
-        instead  of
-f i g h t i n g
-c o m m u n i s t s ?
-
-
-...that   after   making
-        the   first
-                  ascent  of  the
-        remote  Mount  Lucania,
-        R o b e r t
-Bates   was   forced
-             to   survive
-                  on   squirrels   and
-             mushrooms   during
-             his   156-mile
-(251 km) trek
-             out  of
-t  h  e
-             w   i   l   d   e   r   n   e   s   s   ?
-
-
-             . . . t h a t
-                  buildings in
-        Kuala   Lumpur
-        h   a   v   e
-Mughal, Tudor, Neo-Gothic
-or Spanish architectural
-styles modified
-             to  use
-                  local   resources
-        a  n  d
-        for the climate
-        o   f
-             M  a  l  a  y  s  i  a  ?
-
-
-             ...that   the
-        1984  Rajneeshee
-        bioterror attack was
-             the  first  bioterrorism
-        attack in the
-                  United   States,
-a   n   d
-             one   of   only
-             t  w  o
-        confirmed  terrorist
-             uses   of   biological
-             w e a p o n s
-to   harm
-                  h u m a n s ?
-
-
-                  ...that   one   ship
-had to
-                  d   e   a   l
-        w  i  t  h
-             H u r r i c a n e
-T   a   n   y   a
-twice   in
-                  two different areas
-             of   the
-                  North  Atlantic
-        Ocean five
-             days  apart  in
-             1  9  9  5  ?
-
-
-        ...that all
-        four   deaths
-             in  the  thirty
-                  a n n u a l
-        C   h   i   c   a   g   o
-             Marathons have occurred
-                  in  the  last
-t e n
-y  e  a  r  s  ?
-
-
-.  .  .  t  h  a  t
-             W   i   l   l   i   a   m
-Glanville   calculated   the
-             size  of  explosives
-                  r   e   q   u   i   r   e   d
-for  Operation  Chastise
-        and  was
-portrayed by Colin
-Tapley   in   the
-1955  film  The
-             D  a  m
-             B u s t e r s ?
-
-
-                  ...   that
-        1998's   Hurricane   Karl
-             was   one
-        of four simultaneous
-             hurricanes   in   the
-        Atlantic Ocean at
-o n e
-             time, the first
-        such   occurrence
-s   i   n   c   e
-             1   8   9   3   ?
-
-
-             . . . t h a t
-B  u  d  d  h  i  s  t
-                  monk   Ekai
-Kawaguchi   was   the
-                  first Japanese
-             citizen   to   travel
-        t  o
-N e p a l ?
-
-
-                  ...that  although  the
-                  m  o  d  e  r  n
-             trumpet  is  a
-r  e  c  e  n  t
-        i   n   v   e   n   t   i   o   n   ,
-             primitive  trumpets
-o f
-        one  form  or
-                  another   have
-                  been in existence
-                  f   o   r
-m   i   l   l   e   n   n   i   a   ?
-
-
-        . . .
-        that Aberdour Castle
-( p i c t u r e d ) ,
-with  parts  dating
-from  around
-             1200,  is  one
-        of   the
-             two oldest
-                  datable   standing
-        castles   in
-S  c  o  t  l  a  n  d  ?
-
-
-             . . .
-                  t   h   a   t
-s  e  v  e  r  a  l
-years after Henry
-Wadsworth Longfellow published
-                  "The   Village
-        B   l   a   c   k   s   m   i   t   h   "   ,
-a  chestnut  tree
-m e n t i o n e d
-             in  the  poem
-was made into
-                  a   chair
-             f   o   r
-             t   h   e
-p  o  e  t  ?
-
-
-.  .  .  t  h  a  t
-        Jacopo de'
-             Barbari painted the
-                  first trompe l'oeil
-        s  t  i  l  l  -  l  i  f  e
-(pictured) since
-antiquity, which
-is  now  in
-                  the  Alte  Pinakothek,
-        M  u  n  i  c  h  ?
-
-
-                  . . .
-                  that  eleven
-U.S. presidents stayed
-                  a t
-the  Portland  Hotel,
-                  a Queen Anne-style,
-             C  h  √  ¢  t  e  a  u  e  s  q  u  e
-        hotel   which   opened
-in  Portland,
-Oregon  in
-                  1   8   9   0   ?
-
-
-                  ...   that
-large sandstone
-        boulders   rest   atop
-        t r e e s
-        i   n
-             Yellowwood State
-Forest (example
-p i c t u r e d )
-             and no
-                  one knows
-        h  o  w
-they   got
-                  t h e r e ?
-
-
-        .  .  .
-        that  nephrotoxic
-        d j e n k o l i c
-                  acid, found
-                  i   n
-the raw djenkol
-        b   e   a   n   ,
-can   form
-        needle-like   crystals
-                  in  the
-        urine   of   people
-                  who eat
-                  t h e
-                  b   e   a   n   ?
-
-
-. . . t h a t
-        the  first
-        p e r f o r m a n c e
-                  o  f
-        Glinka's  opera
-A
-             Life   for
-the Tsar
-        (1836)  was  conducted
-                  by  Catterino
-        Cavos, who composed
-an opera on
-        t  h  e
-                  same  subject  20
-             years before
-        G l i n k a ?
-
-
-             ...that  American  Zoetrope
-w a s
-             o r i g i n a l l y
-                  h o u s e d
-        i  n
-                  a
-w  a  r  e  h  o  u  s  e
-        in San Francisco
-             i  n
-             1 9 6 9 ?
-
-
-                  . . . t h a t
-        in   1876,
-        Edward Bouchet
-                  became the
-             first  black
-             American   to
-        earn  a
-                  P h . D .
-             from  an
-                  A m e r i c a n
-                  u n i v e r s i t y ?
-
-
-        .  .  .  t  h  a  t
-             in   the   history
-                  o   f
-             transportation in Los
-        Angeles, the first
-                  C  a  l  i  f  o  r  n  i  a
-             freeway  "traffic  jam"
-             o  c  c  u  r  r  e  d
-                  on  January  1,
-1  9  4  0  ?
-
-
-                  ...  that
-        The   New
-             York  Times
-        said   the
-                  1944  Laurel  and
-                  H a r d y
-             film The
-        B   i   g
-        N  o  i  s  e
-             "has   as
-much   humor   in
-        i  t
-        as  a
-six-foot  hole
-             in the
-g r o u n d " ?
-
-
-             ... that the
-                  120-cell  4-dimensional  puzzle
-             (pictured) is
-                  one   of   several
-        n-dimensional   sequential
-move  puzzles
-that have been
-             implemented   as
-virtual puzzles but
-        have   never
-             b e e n
-        s o l v e d ?
-
-
-                  ...that   Wilshire
-        Boulevard Temple, with
-i  t  s
-landmark  Byzantine
-d o m e
-(pictured),   is
-the  oldest  Jewish
-        synagogue   in   Los
-A  n  g  e  l  e  s  ?
-
-
-...   that
-in  2008,  the
-        I U C N
-        revised   the   conservation
-status   of
-             the  Central
-                  American  Squirrel  Monkey
-(pictured)  from  endangered
-        to the lesser
-r  i  s  k
-        status  of
-                  v   u   l   n   e   r   a   b   l   e   ?
-
-
-        ...that   a
-             forehead lift is
-a   procedure   used
-             i  n
-        plastic  surgery
-                  to   remove
-             the  deep  "worry"
-                  l   i   n   e   s
-that run
-        a c r o s s
-        t  h  e
-        f  o  r  e  h  e  a  d  ?
-
-
-
-
-                  .   .   .   t   h   a   t
-             The  Berghoff  restaurant
-        i  n
-             C  h  i  c  a  g  o
-closed  on
-             F   e   b   r   u   a   r   y
-                  2 8 ,
-2 0 0 6
-a  f  t  e  r
-                  107  years  of
-        operation   by   three
-                  generations  of  the
-B  e  r  g  h  o  f  f
-f  a  m  i  l  y  ?
-
-
-             ...  that
-the  Bandra  Fair
-                  in   Mumbai,
-        India was established
-to  commemorate  finding
-a  statue  of
-Mary   in   the
-        A  r  a  b  i  a  n
-             S e a ?
-
-
-        ...that   Filipe   Nhussi,
-        t  h  e
-        c u r r e n t
-                  defence  minister  of
-                  M o z a m b i q u e ,
-        was   president
-        of  the
-        t  o  p  -  d  i  v  i  s  i  o  n
-football   club   Clube
-             Ferrovi√°rio  de
-                  N  a  m  p  u  l  a  ?
-
-
-                  ...that   the   SIA
-                  B u i l d i n g ,
-             a
-                  skyscraper in
-                  Singapore,  is  the
-f  l  a  g  s  h  i  p
-b u i l d i n g
-        o  f
-        S i n g a p o r e
-             A  i  r  l  i  n  e  s  ?
-
-
-             .  .  .  t  h  a  t
-                  early  plans
-        for Washington, D.C.
-                  had   the   White
-House   facing
-a
-        convergence   of   radial
-avenues centered on
-             the  present-day  North
-Lawn, with gardens
-                  d   e   s   c   e   n   d   i   n   g
-to  Tiber  Creek
-        in the
-present-day  South
-             L a w n ?
-
-
-...that the GTP
-                  category of the
-             IMSA  GT  Championship
-                  (car pictured) was
-                  credited  with
-                  i n n o v a t i o n s
-                  including antilock brakes,
-                  traction   control   and
-                  a c t i v e
-             s   u   s   p   e   n   s   i   o   n   ?
-
-
-                  ...that Funny Car
-d  r  a  g
-             racing  pioneer  Jack
-             C   h   r   i   s   m   a   n
-        s e t
-a   class
-record at
-1   8   8
-m p h ,
-             only to
-             h a v e
-                  t h e
-                  engine  blow  up
-t  w  o
-                  weeks   later   and
-                  the  car
-b u r n
-        to   the
-             g   r   o   u   n   d   ?
-
-
-...that Josef
-             Smrkovsk√Ω  boasted
-                  he   had   kept
-                  American  units
-                  a w a y
-             from Prague
-i n
-             1945, allowing
-             the   liberation
-        of   the
-             c i t y
-                  by the
-             Red   Army,   and
-then   in   1968
-                  he and Dubƒçek
-                  became  the  most
-                  p o p u l a r
-politicians  of
-             the Prague
-             S   p   r   i   n   g   ?
-
-
-             ...that the
-             a f f a i r
-        between   Teresa
-Bagioli  Sickles  and
-Philip Barton
-                  K   e   y
-             was  the  motive
-             for  the  murder
-committed  by  Teresa's
-                  h u s b a n d ,
-                  who became
-        t   h   e
-        first   person   to
-             successfully use
-                  the   insanity   defense
-                  in  U.S.
-l  e  g  a  l
-                  h i s t o r y ?
-
-
-        ...that   the
-        only person
-                  killed  in  the
-                  Buffalo  Grove
-massacre   was
-        buried  by  the
-group that would
-                  be   killed   during
-        t  h  e
-f   o   l   l   o   w   i   n   g
-        day's St. Vrain
-m  a  s  s  a  c  r  e  ?
-
-
-             .   .   .   t   h   a   t
-             Henri   Poincar√©   first
-stated the Poincar√©
-duality   in
-terms   of
-        B  e  t  t  i
-             n  u  m  b  e  r  s  ?
-
-
-        ...that   wine   made
-        from  the  Italian
-             g  r  a  p  e
-             R  e  f  o  s  c  o
-d  a  l
-             Peduncolo Rosso
-             was  praised
-by   Pliny   the
-E   l   d   e   r
-and   a   favorite
-             of   Caesar   Augustus'
-        w  i  f  e
-L i v i a ?
-
-
-. . . t h a t
-                  Karl   Zinsmeister,
-             a   U.S.
-journalist and
-        the   new   top
-                  domestic policy advisor
-        t o
-                  U.S.  President  George
-             W. Bush, wrote
-                  a
-        b o o k - l e n g t h
-             Marvel  comic
-                  b o o k
-             on  the
-        I   r   a   q
-             W   a   r   ?
-
-
-                  ...  that  Humphrey
-        L   i   t   t   l   e   t   o   n
-informed   on   a
-priest wanted in
-             connection   with
-             t   h   e
-Gunpowder Plot after
-        seeing him
-             give  mass  at
-        H   i   n   d   l   i   p
-             H a l l ?
-
-
-...that  Richard
-                  Ingoldesby,  Governor
-        o f
-New  Jersey,  caused
-             the defeat
-        of  a  bill
-             to  raise  200
-             m  e  n
-for   an   invasion
-o f
-Canada in
-order  to  remove
-        the   Quakers
-        from   all   public
-                  offices   in
-                  N e w
-             J  e  r  s  e  y  ?
-
-
-        ...   that
-j  a  z  z
-        p  i  a  n  i  s  t
-             G   e   o   f   f
-        Eales  played  the
-        French  horn  with
-             t  h  e
-             National  Youth  Orchestra
-        o   f
-        W   a   l   e   s
-                  a  n  d
-             piano   with   the
-        B B C
-        B i g
-             B   a   n   d   ?
-
-
-                  ...  that
-             t h e
-             B   a   n   k
-of Issue in
-        Poland,   created
-                  by  the  Nazis
-        t  o
-                  s  u  p  p  o  r  t
-             the   Nazi
-                  e   c   o   n   o   m   y   ,
-        was   penetrated
-                  by  the
-        P  o  l  i  s  h
-                  resistance   which   used
-        it  as  a
-             source of
-f a l s i f i e d
-                  d   o   c   u   m   e   n   t   s   ?
-
-
-
-
-                  ...that  Indian  chess
-                  player   Umakant   Sharma
-             was banned from
-p l a y i n g
-             c o m p e t i t i v e
-chess for
-                  10  years
-after   being
-                  caught cheating
-             with   a
-B l u e t o o t h
-device sewn into
-        h  i  s
-                  c a p ?
-
-
-...that  Bodega
-B a y
-             in  California
-                  was   the
-s   e   t   t   i   n   g
-                  for   Alfred   Hitchcock's
-                  1963 film The
-             B   i   r   d   s   ?
-
-
-             ...   that
-                  the 2002 Battle
-        of  Nablus  continued
-for   two
-             hours   after
-                  t   h   e
-P a l e s t i n i a n
-fighters announced their
-                  w   i   l   l   i   n   g   n   e   s   s
-t o
-s u r r e n d e r ?
-
-
-        ...   that
-        A   d   b   o   t   ,
-one   of   the
-f i r s t
-                  internet   advertising
-                  companies,  was  forced
-        t o
-close   only
-        seven   months   after
-        opening due
-                  to the fraudulent
-        source   of
-                  i t s
-        s   t   a   r   t   -   u   p
-        f   u   n   d   i   n   g   ?
-
-
-        ...that   the   1966
-                  New York City
-                  transit  strike  at
-                  the start of
-                  t   h   e
-        mayoralty   of
-                  John   Lindsay   was
-                  led  by  the
-             defiant  Irish-born  Transport
-             Workers  Union
-             of   America
-                  f   o   u   n   d   e   r
-             Mike   Quill,
-                  who was
-                  briefly   jailed
-for  leading  the
-             illegal strike,
-             a n d
-                  d   i   e   d
-        b e f o r e
-the   month
-             w   a   s
-o   u   t   ?
-
-
-        ...   that   the
-1  .  3  -  m  i  l  e
-        (2.1¬†km) avenue
-        of trees
-             leading   to
-Marchmont   House   in
-             S  c  o  t  l  a  n  d
-                  was   begun
-                  24 years
-             before   the
-h   o   u   s   e
-        itself  was
-                  built,   with
-             the  planting
-             o f
-                  10,000 Dutch
-        e   l   m   s   ?
-
-
-        ...that   Henryk
-             Zieli≈Ñski (pictured),
-                  a  modern  Polish
-        h i s t o r i a n
-w   h   o
-        studied   in
-        the  underground  university
-i   n
-                  h  i  s
-             y  o  u  t  h  ,
-        died in
-                  m   y   s   t   e   r   i   o   u   s
-                  c  i  r  c  u  m  s  t  a  n  c  e  s  ?
-
-
-...that restaurant
-Beyti in
-        Istanbul,  famous
-                  for  its
-             B e y t i
-kebap, once catered
-             U.S.   president   Richard
-Nixon's Air Force
-        O   n   e   ?
-
-
-                  ...that   the   English
-                  nurse   Lucy   Osburn
-        w a s
-                  c h o s e n
-        b   y
-                  Florence  Nightingale  to
-                  train   Australia's   first
-        n   u   r   s   e   s   ?
-
-
-             .   .   .
-             that  Huta  Stepanska,
-             o  n  e
-                  o   f
-             the largest Polish
-        defense  centers
-        d u r i n g
-        t   h   e
-        Massacres   of
-                  Poles  in  Volhynia,
-        was  abandoned  due
-                  to lack
-o   f
-             a  m  m  u  n  i  t  i  o  n  ?
-
-
-                  . . . t h a t
-             Cliff   Friend
-co-wrote   "The
-        Merry-Go-Round Broke Down",
-        the   theme
-             tune  of  the
-L o o n e y
-Tunes  cartoon
-s e r i e s ?
-
-
-        ...that the so-called
-                  Loughall   Martyrs   were
-                  a
-             g r o u p
-        of   eight   men
-        f   r   o   m
-             the   Provisional   IRA's
-East Tyrone Brigade
-                  who   were
-        a m b u s h e d
-and   killed   on
-        May 8,
-1  9  8  7
-             by  the
-        B r i t i s h
-             S   A   S
-                  s p e c i a l
-                  f   o   r   c   e   s   ?
-
-
-                  .  .  .  t  h  a  t
-                  t  h  e
-                  d e c o r a t i o n
-of the 9th-century
-Asturian La Cava
-        Bible is
-        limited  to  four
-             crosses,  elaborate
-        initials,  and  frames
-        surrounding   explicits   and
-                  t  i  t  l  e  s  ?
-
-
-...that  flora
-and fauna of
-                  the   Indian
-                  state   of
-K  a  r  n  a  t  a  k  a
-        include  a
-             s p e c i e s
-             o   f
-        a n t
-                  newly   discovered
-on the campus
-                  of   the
-                  Indian  Institute  of
-             S   c   i   e   n   c   e   ?
-
-
-                  .   .   .
-             t  h  a  t
-the  young  Bing
-Crosby  once
-tried out to
-sing   at
-             Seattle's elegant
-        B u t l e r
-        Hotel,   but
-        w a s
-                  told he needed
-                  m   o   r   e
-                  e   x   p   e   r   i   e   n   c   e   ?
-
-
-        ...that   Bronze
-        A g e
-                  golden hats, including
-t   h   o   s   e
-             of  Berlin
-             (pictured),  Schifferstadt
-        and  Ezelsdorf,  are
-             tall  gold  head-dresses
-from  circa  1,000
-             t o
-        800  BC
-        t h a t
-        a l s o
-             served  as
-                  c   a   l   e   n   d   a   r   s   ?
-
-
-. . . t h a t
-             Hendrick   ter
-Brugghen was
-                  t  h  e
-        a  r  t  i  s  t
-        primarily  responsible  for
-             i n t r o d u c i n g
-        the style of
-Caravaggio   into   Dutch
-                  p   a   i   n   t   i   n   g   ?
-
-
-...that quarterback
-        B i l l
-             K  e  n  n  e  y
-i   s
-                  the only player
-                  named Mr.
-             Irrelevant (an
-" a w a r d "
-t  r  a  d  i  t  i  o  n  a  l  l  y
-                  given  to  the
-        l   a   s   t
-             selection of the
-                  NFL  Draft)  to
-             appear in
-                  the   Pro
-             B   o   w   l   ?
-
-
-                  ...that  labor  leader
-Victor Kamber created
-             playing   cards   with
-                  public   figures   in
-        1968 and
-the  "Rappin'  Ronnie"
-             music video depicting
-                  a   rapping   Ronald
-             R e a g a n
-i  n
-             1   9   8   4   ?
-
-
-        ...  that
-Fortified Area Silesia
-                  were  Polish
-fortifications   constructed   along
-                  t   h   e
-interbellum border of
-P   o   l   a   n   d
-             and  Germany
-in   the   area
-of  Upper
-             S i l e s i a ?
-
-
-             ...that the
-rehabilitation of the
-                  Union  Trust
-Building   (pictured)   by
-                  architect  Ralph
-A   n   d   e   r   s   o   n
-             set the pattern
-                  for  reviving
-                  Seattle's rundown "Skid
-                  Road"   neighborhood,
-             P i o n e e r
-S   q   u   a   r   e   ?
-
-
-             ...that  in  1944
-                  a  railway
-                  f e r r y
-                  o n
-t h e
-             N   o   r   w   e   g   i   a   n
-railway   Rjukanbanen   (pictured)
-        was sunk
-                  t  o
-430  meters  depth
-             to   prevent   Nazi
-        G   e   r   m   a   n   y
-        f r o m
-             d  e  v  e  l  o  p  i  n  g
-        n  u  c  l  e  a  r
-w e a p o n s ?
-
-
-                  ...that Shruti Haasan,
-             the daughter
-of   Indian   actors
-                  Kamal  Haasan  and
-Sarika,   is
-        a   singer
-        t  u  r  n  e  d
-        m o d e l
-             w  h  o
-             i s
-                  now also venturing
-        i  n  t  o
-             a   c   t   i   n   g   ?
-
-
-             .   .   .   t   h   a   t
-             during the
-                  1990   New   York
-        G  i  a  n  t  s
-season, the
-NFL  American  football
-             team  set  a
-l e a g u e
-             record for fewest
-turnovers in
-             a
-        s   e   a   s   o   n   ?
-
-
-.  .  .
-             that Peter, the
-        L  o  r  d  '  s
-                  c  a  t
-is the
-        o   n   l   y
-a n i m a l
-        to be
-g i v e n
-an obituary in
-        Wisden   Cricketers'
-                  A   l   m   a   n   a   c   k   ?
-
-
-...  that,  during
-        the  1994
-Major  League
-             Baseball strike,
-umpire   Larry
-             Y  o  u  n  g
-        refereed   a   match
-at   WrestleMania
-             X   I   ?
-
-
-             . . .
-                  that  Lucy  of
-             Bolingbroke  paid  King
-                  Henry   I
-                  of England 500¬†marks
-             a  f  t  e  r
-                  t  h  e
-death  of
-             her   third
-h   u   s   b   a   n   d   ,
-        R  a  n  u  l  f
-                  l e
-             Meschin,  for
-the  right
-                  not to
-             r e m a r r y ?
-
-
-             ...  that
-        mathematician  Nathan
-                  Mendelsohn was on
-the  first  Putnam
-             Competition-winning  team  in
-             1938,   but
-                  also won second
-prize in
-        an International
-        Brotherhood   of   Magicians
-        contest, behind Johnny
-        C   a   r   s   o   n   ?
-
-
-                  . . . t h a t
-             Adam   R.
-        J o h n s o n ' s
-                  Newburgh Raid, using
-        two  stovepipes,  charred
-wood,   a
-b r o k e n
-        wagon,  and  only
-        27   men,   resulted
-i  n
-        the  first
-capture   of   a
-             northern town in
-        the  American
-             C  i  v  i  l
-                  W  a  r  ?
-
-
-... that
-s  c  a  p  u  l  a  r
-        f r a c t u r e
-             c a n
-             be caused by
-forceful   muscle
-             contractions due to
-                  a   seizure   or
-                  e  l  e  c  t  r  i  c  a  l
-                  s  h  o  c  k  ?
-
-
-...that  Aaron
-        C   l   a   r   k
-                  (pictured) was
-                  the   only
-                  Whig   Party
-                  candidate  ever
-             elected mayor of
-        New York
-        C i t y ?
-
-
-        . . . t h a t
-                  Robin   Starveling,   a
-             c  h  a  r  a  c  t  e  r
-                  in  Shakespeare's  A
-                  M i d s u m m e r
-             N i g h t ' s
-        D   r   e   a   m   ,
-                  m   a   y
-                  be  a  satire
-             o f
-                  o   n   e
-             of   Queen   Elizabeth's
-                  s   u   i   t   o   r   s   ?
-
-
-...that   the
-        Baths of Zeuxippus,
-b  u  i  l  t
-        sometime  around  the
-1st   century
-        C   E
-                  i  n
-             Constantinople, housed
-o   v   e   r
-                  80   statues
-of  important
-        h i s t o r i c a l
-             figures   like   Aristotle,
-        H o m e r ,
-        P  l  a  t  o
-        a n d
-J u l i u s
-             C a e s a r ?
-
-
-                  ...that   the
-                  geography of
-                  Tasmania  results  in
-             a
-                  climate so similar
-                  to that
-                  of  pre-industrial  England
-        that   it   was
-o   n   c   e
-r   e   f   e   r   r   e   d
-t o
-             as   a
-        S   o   u   t   h   e   r   n
-E  n  g  l  a  n  d  ?
-
-
-                  ...that  the
-             d  o  g
-called the
-        Miniature   Fox   Terrier
-                  ( o r
-                  Mini Foxie)
-originated in
-        A   u   s   t   r   a   l   i   a   ?
-
-
-...  that
-             one   of
-             the   factors
-                  threatening  the
-             Canarian   Houbara   is
-                  disturbance  by  truffle
-        c   o   l   l   e   c   t   o   r   s   ?
-
-
-...that in 1961,
-             retired  bus  driver
-        Kempton  Bunton
-                  s t o l e
-Francisco  Goya's
-                  painting  Portrait  of
-             the Duke of
-W  e  l  l  i  n  g  t  o  n
-                  as   a
-protest,  and
-             demanded ¬£140,000
-                  to  be
-             donated  to
-             charity  to
-a   l   l   o   w
-the poor
-                  t  o
-             pay   for   television
-             l   i   c   e   n   s   e   s   ?
-
-
-                  ...that   NASA
-                  terraforming  expert
-        C h r i s t o p h e r
-McKay   has   explored
-        the Gobi Desert,
-        Siberia  and
-                  Antarctica  to
-s  t  u  d  y
-             extremophilic   life
-        f   o   r   m   s   ?
-
-
-....that   the
-                  repertoire  of  the
-        Australian  passerine,
-the   Red-capped   Robin
-        i   n   c   l   u   d   e   s
-        "  t  i  n  k  l  e  "
-        a  n  d
-                  "   b   l   u   r   t   "
-c a l l s ?
-
-
-             ...that  the
-             hull of
-the  kettuvallams,
-             Kerala houseboats, (pictured)
-are  built
-o f
-                  w o o d e n
-boards  tied
-        together   by   coir
-r   o   p   e   ?
-
-
-             ...that  Saint-Bris
-             is  the  only
-                  appellation  out  of
-        150  in  the
-        French   wine   region
-                  of   Burgundy   where
-        t  h  e
-             wines may
-contain the grape
-variety Sauvignon
-b l a n c ?
-
-
-
-
-        ...that   the   Organ
-        Pipe Cactus (pictured)
-        takes  150  years
-        t   o
-             reach maturity
-                  a n d
-c a n
-             reach a
-        height of eight
-        m  e  t  e  r  s  ?
-
-
-                  ...that cross
-             stitches   are   part
-of   the
-        embroidery traditions
-        of the Balkans,
-        Middle   East,   Afghanistan,
-Colonial America
-a   n   d
-        V i c t o r i a n
-                  E n g l a n d ?
-
-
-...   that,   due
-to  his
-support  of
-                  Kentucky's  efforts
-                  t o
-        s   e   c   e   d   e
-f  r  o  m
-             t h e
-        U n i o n ,
-Henry  Cornelius
-        Burnett   is
-                  o n e
-                  of  only
-                  five   members   in
-             history  to
-        b  e
-             expelled from the
-        U  n  i  t  e  d
-S t a t e s
-C  o  n  g  r  e  s  s  ?
-
-
-                  . . . t h a t
-                  the  Cathedral
-                  o   f
-             S t .
-Peter  and  St.
-        P   a   u   l
-                  (pictured)  in
-             Nantes,   France   took
-                  457  years  to
-        c o m p l e t e ?
-
-
-             . . . t h a t
-        the Area
-                  Boys   are
-        a gang of
-             N i g e r i a n
-        street children
-a  n  d
-             teenagers  who  roam
-        t  h  e
-        streets of
-             Lagos extorting
-             m o n e y
-             f  r  o  m
-             p   a   s   s   e   r   s   -   b   y   ?
-
-
-                  ... that
-             BOHICA  is
-             an  acronym
-that  means  "Bend
-             O v e r ,
-Here   It
-             C   o   m   e   s
-                  A   g   a   i   n   "   ?
-
-
-...that Rear Admiral
-        Sir Richard Trowbridge
-w   a   s
-the   twenty-fifth
-Governor  of
-             W   e   s   t   e   r   n
-Australia and the
-             f  i  r  s  t
-        o  f  f  i  c  e  r
-                  of  the
-             R  o  y  a  l
-             N  a  v  y
-                  to rise from
-                  b  o  y
-        seaman to captain
-of the Queen's
-y  a  c  h  t
-                  H M Y
-                  B r i t a n n i a ?
-
-
-        .   .   .   t   h   a   t
-                  t  h  e
-p o s t m i n i m a l i s t
-             artist,   Gabriel
-             Orozco, once sliced
-                  a
-        C  i  t  r  o  √  ´  n
-DS   into
-                  three   pieces   length-wise,
-                  removed the central
-        piece  and  then
-             re-attached  the  two
-             s  i  d  e  s
-        l   e   a   d   i   n   g
-        to   an
-                  a   r   r   o   w   -   l   i   k   e
-a   u   t   o   m   o   b   i   l   e   ?
-
-
-             ...that  Collected
-                  C   a   s   e   s
-                  o  f
-             Injustice Rectified by
-Song  Chinese  investigator
-             Song   Ci   documents
-                  some of the
-earliest   work   in
-f   o   r   e   n   s   i   c
-             e  n  t  o  m  o  l  o  g  y  ?
-
-
-             . . .
-        that you can
-             travel  to
-        some   parts
-o   f
-Botswana  for  less
-        than US$50
-                  a
-        n   i   g   h   t   ?
-
-
-             .   .   .   t   h   a   t
-        people with
-p  a  t  e  n  t
-        foramen ovale,
-a n
-atrial   septal
-        defect, are more
-likely   to
-             suffer  from  migraine
-             h  e  a  d  a  c  h  e  s  ?
-
-
-                  ...that Muhammad had
-                  engaged  as  a
-        diplomat  for
-                  a   time   during
-his call to
-             I s l a m ?
-
-
-             ...that Ilsa Konrads,
-             f o r m e r
-        editor  of
-             B  e  l  l  e  ,
-        was  an
-Australian  Olympic  swimmer
-who   set
-                  1   2
-             w o r l d
-             r  e  c  o  r  d  s  ?
-
-
-             ...that  a  banjee
-(pictured)   is
-        a
-             young   Latino   or
-B  l  a  c  k
-man who has
-        s e x
-             w i t h
-                  men  and
-             dresses in
-                  thuggish urban
-                  f  a  s  h  i  o  n  ?
-
-
-        . . . t h a t
-                  American  Sylvia  Seegrist
-        was  sentenced
-t  o
-three consecutive life
-sentences for
-                  killing three
-people in
-        1   9   8   5
-             in  a  Pennsylvania
-             shopping  mall,
-             even   though
-                  s   h   e
-                  had  a  history
-        o  f
-        p a r a n o i d
-             s  c  h  i  z  o  p  h  r  e  n  i  a  ?
-
-
-...  that
-        the Budweiser Clydesdales
-             (pictured)  were  first
-introduced  to  the
-                  p   u   b   l   i   c
-             o   n
-        A  p  r  i  l
-        7,  1933,  to
-        c e l e b r a t e
-                  the  repeal  of
-             P r o h i b i t i o n ?
-
-
-        ...   that
-Sir Walter Balfour
-        B a r t t e l o t ,
-                  w   h   o
-                  w  a  s
-killed   in   action
-in   World   War
-        I   ,
-                  l o s t
-h   i   s
-        f  a  t  h  e  r  ,
-             Sir   Walter
-        George Barttelot in
-             t   h   e
-Boer War,
-             w h i l e
-        h  i  s
-             son,  Sir  Walter
-                  de  Stopham
-                  Barttelot   was
-        KIA in World
-             W  a  r
-I  I  ?
-
-
-             .   .   .
-                  that Jeff
-                  Moronko   is
-one of two
-                  M   a   j   o   r
-             League   Baseball   players
-t o
-h   a   v   e
-attended Texas
-        Wesleyan University, the
-other  being  Hall
-o f
-F  a  m  e  r
-             T  r  i  s
-             S  p  e  a  k  e  r  ?
-
-
-             ...that   in
-graph theory, a
-             p s e u d o f o r e s t
-can  contain  trees
-                  a  n  d
-pseudotrees,   but
-             c a n n o t
-contain any
-butterflies,   diamonds,   handcuffs,
-        o  r
-                  b i c y c l e s ?
-
-
-             ...that  the
-             Roman   Catholic
-        Church   objected   to
-t   h   e
-English   translations
-in   the
-             T   y   n   d   a   l   e
-                  B  i  b  l  e  ,
-        b   e   l   i   e   v   i   n   g
-t  h  e  m
-                  to be
-p  u  r  p  o  s  e  f  u  l
-             mistranslations  to
-        promote  anticlericalism  and
-        h e r e t i c a l
-        v  i  e  w  s  ?
-
-
-...that  blackface
-        minstrel  dancer
-             John Diamond (pictured)
-won  numerous  "Ethiopian"
-d  a  n  c  e
-                  competitions until
-                  he   was
-        defeated   by   a
-        r e a l
-                  black   man   known
-                  a  s
-                  M a s t e r
-        J  u  b  a  ?
-
-
-
-
-             ...that   autonomic   ganglions
-                  a  r  e
-cell  bodies
-                  within the
-        autonomic   nervous
-             s  y  s  t  e  m  ?
-
-
-             .  .  .
-             t   h   a   t
-                  Zaki   Tun   Azmi
-             became   the   Chief
-                  Justice  of  Malaysia
-                  after serving
-                  just  over
-                  o  n  e
-        y  e  a  r
-i   n
-the   superior
-        courts   of
-        M   a   l   a   y   s   i   a   ?
-
-
-. . . t h a t
-t  h  e
-             M   a   y   f   l   o   w   e   r
-Hotel   in
-             Washington,   D.C.
-                  has hosted an
-Inaugural ball for
-        every  U.S.  President
-s i n c e
-C a l v i n
-        C   o   o   l   i   d   g   e   ?
-
-
-...that  Doe  Lang,
-who  performed
-             o n
-             B r o a d w a y
-        and appeared in
-TV  soaps,
-        also  authored  best-selling
-                  s e l f - h e l p
-             books   and
-is the president
-                  o  f
-        an   image
-                  c  o  n  s  u  l  t  i  n  g
-f   i   r   m   ?
-
-
-             ...that  Michelle  Ford
-        was the first
-                  w o m a n
-                  t   o
-                  win  individual
-             s   w   i   m   m   i   n   g
-medals   at   the
-Olympics in
-        t  w  o
-                  d i s t i n c t
-                  s   p   e   c   i   a   l   i   z   e   d
-                  s t r o k e s ?
-
-
-...that  aggressive
-                  N K - c e l l
-                  leukemia,   a   type
-                  of leukemia with
-             a   systemic
-             proliferation  of  natural
-killer  cells,  is
-more   prevalent
-        in   Asians   than
-        other  ethnic
-                  g  r  o  u  p  s  ?
-
-
-                  . . . t h a t
-             the   Grand
-                  Chartophylax  was  considered
-             the  right
-        arm   of
-             the   Patriarch
-                  o  f
-        C o n s t a n t i n o p l e ?
-
-
-...   that   the
-                  State   Street
-             B   r   i   d   g   e
-in Harrisburg, Pennsylvania,
-is  flanked  by
-        two   145-foot
-        ( 4 4 ¬ † m )
-p   y   l   o   n   s
-representing   the
-                  U.S.  Army
-             a n d
-                  N   a   v   y   ?
-
-
-                  . . .
-                  t h a t
-             after  accusing  Mauritian
-                  j  u  d  g  e  s
-        of  involvement  in
-        slavery,  Sir
-John Jeremie was
-             h  o  n  o  u  r  e  d
-        i  n
-        1836   by
-        t   h   e
-        A   n   t   i   -   S   l   a   v   e   r   y
-                  S  o  c  i  e  t  y  ?
-
-
-             ...that  The  Big
-             Blowdown,   a
-c   r   i   m   e
-        novel  by  American
-             a  u  t  h  o  r
-George   Pelecanos
-             (   p   i   c   t   u   r   e   d   )   ,
-w a s
-the  recipient  of
-t h e
-             International Crime Novel
-                  of   the
-                  Y  e  a  r
-award  in  France,
-             G   e   r   m   a   n   y
-        a n d
-                  J  a  p  a  n  ?
-
-
-...that  William
-                  E. McAnulty, Jr.,
-             t  h  e
-        f i r s t
-                  African  American
-             t  o
-                  sit on the
-                  Kentucky   Supreme
-             Court,   injured
-        himself  playing
-        basketball  on  Election
-                  D a y
-             in 1983
-                  w   i   t   h
-        future  NBA  star
-                  A   l   l   a   n
-                  H   o   u   s   t   o   n   ?
-
-
-.  .  .  t  h  a  t
-J .
-                  Dringwell  Rymbai  had
-to  discontinue  his
-e   d   u   c   a   t   i   o   n
-                  due to poverty,
-             but   became   the
-        head   master
-        of  a
-school   and
-e v e n t u a l l y
-t   h   e
-        C   h   i   e   f
-                  Minister of
-M  e  g  h  a  l  a  y  a  ?
-
-
-... that
-             the   14th-century
-life-size stone
-                  effigies  of  a
-                  knight and
-his  wife  in
-             St  Margaret's  Church,
-Ifield (pictured), England,
-have been
-             said  to
-                  have  an
-"inimitable   sideways
-        s  w  a  y  "  ?
-
-
-...that   L.
-        B .
-             H  e  n  r  y
-        o   f
-             P  i  n  e  v  i  l  l  e  ,
-                  overcame a missing
-                  forearm  at  birth
-        to  become
-             a plumber-businessman and
-             then  a  statewide
-f  i  g  u  r  e
-             in  Louisiana  parish
-        g o v e r n m e n t ?
-
-
-                  ...that   the   Russian
-        Communist Varvara Yakovleva
-        w  a  s
-        a
-        m  e  m  b  e  r
-                  of the
-                  board   of   the
-        Secret  Police
-                  a n d
-led  food  inspections
-                  that  requisitioned
-                  food  as  a
-        p  u  n  i  t  i  v  e
-                  m  e  a  s  u  r  e  ?
-
-
-
-
-...that Muristan,
-                  a complex in
-t  h  e
-        C h r i s t i a n
-Quarter  of
-                  the  Old  City
-             of   Jerusalem,
-             w   a   s
-             t  h  e
-location   of
-                  the  first
-             hospital   of   the
-             Knights of St.
-                  J  o  h  n  ?
-
-
-.   .   .   t   h   a   t
-                  Nazi Germany
-                  planned to
-                  starve tens of
-             millions  of  Jews,
-             P  o  l  e  s
-        and  Soviet
-                  citizens  in
-o   r   d   e   r
-        to  simultaneously
-eliminate  "surplus  population"
-                  a n d
-             feed   German
-                  c   i   t   i   z   e   n   s
-a  n  d
-        t h e i r
-             a  r  m  y  ?
-
-
-             .   .   .
-that   Dick
-             T   r   i   c   k   l   e   ,
-                  billed as
-             t   h   e
-winningest short track
-             driver in
-             history,  won  his
-first race outside
-of   his   home
-        region at
-                  t  h  e
-                  1966   National
-Short Track
-                  Championships at
-             R   o   c   k   f   o   r   d
-S p e e d w a y ?
-
-
-.  .  .  t  h  a  t
-E  n  g  l  i  s  h
-             s e a m a n
-John   Vincent   lost
-part of his
-             upper  lip  when
-it froze to
-        a   metal   cup
-             during  the
-             voyage  of
-             t  h  e
-        J a m e s
-             C   a   i   r   d   ?
-
-
-             ?
-
-
-        ...that  according
-to Breton folklore,
-        not  completing
-        t h e
-        600 km-long Tro
-B r e i z h
-d u r i n g
-             one's  lifetime
-                  would  condemn
-                  their  soul
-             t o
-r e p e a t i n g
-an   equivalent
-                  l  e  n  g  t  h
-        tour   every   seven
-years  from  within
-                  t h e i r
-c   o   f   f   i   n   ?
-
-
-                  ...that   Luis   Palau,
-             a  n
-                  evangelical  minister  based
-             i   n
-        Portland,  Oregon,  has
-c   o   l   l   a   b   o   r   a   t   e   d
-w   i   t   h
-g   o   v   e   r   n   m   e   n   t
-             leaders in Portland
-and  neighboring  cities,
-                  a   n   d
-                  500 Christian
-                  p  a  s  t  o  r  s  ,
-                  to rally
-             volunteers  to  address
-        h  o  m  e  l  e  s  s  n  e  s  s  ?
-
-
-        ... that William
-             T .
-        Perkins,   Jr.,
-             a United
-                  States Marine who
-        c   o   v   e   r   e   d
-                  an  exploding
-             hand  grenade
-        with  his  body,
-             is   the   only
-        c  o  m  b  a  t
-             p  h  o  t  o  g  r  a  p  h  e  r
-        to  be  awarded
-                  the Medal
-             o f
-H   o   n   o   r   ?
-
-
-...that   the   Knightly
-        Order  of  Vit√©z,
-                  formed   by
-             M   i   k   l   √   ≥   s
-H  o  r  t  h  y  ,
-                  the  Regent  of
-Hungary,   for   distinguished
-             World War I
-        veterans,  was
-             o r i g i n a l l y
-                  established  by
-                  Imre  Th√∂k√∂ly,  Prince
-        o f
-             Transylvania,   during   an
-a  n  t  i  -  H  a  b  s  b  u  r  g
-        uprising in the
-l   a   t   e
-1 7 t h
-        c e n t u r y ?
-
-
-. . .
-                  that although Carl
-                  E m i l
-Krarup   was   originally
-a  civil  engineer,
-        h   e
-             was responsible
-        for   the   first
-             ever  continuously  loaded
-                  s u b m a r i n e
-                  t   e   l   e   c   o   m   m   u   n   i   c   a   t   i   o   n
-                  c a b l e ?
-
-
-             ...that   Basil   W.
-             D  u  k  e
-                  became the chief
-             c   o   n   s   u   l
-        and lobbyist for
-             t  h  e
-        L & N
-        Railroad  after
-             the   American   Civil
-                  War,  even
-             though  he
-             led many
-                  efforts  in
-             destroying their
-        property during the
-        w a r ?
-
-
-                  ...   that   Roujin
-Z  is
-a
-             1991  Japanese
-anime  film  about
-             a computerized hospital
-b  e  d
-        with   its   own
-             built-in   atomic
-p   o   w   e   r
-                  r  e  a  c  t  o  r  ?
-
-
-             ...that   the
-        T l a x c a l t e c
-                  forces led by
-        X   i   c   o   t   e   n   c   a   t   l
-             I   I
-             "The Younger"
-                  h  a  d
-        nearly  defeated  the
-army   of   Hern√°n
-                  Cort√©s  when  he
-was ordered
-                  to ally with
-             t   h   e   m
-        i   n   s   t   e   a   d   ?
-
-
-             ...that  Irish
-             playwright George Farquhar
-        (pictured) originally
-                  planned  on
-        an  acting
-             c   a   r   e   e   r   ,
-                  b  u  t
-g   a   v   e
-it   up   after
-                  accidentally wounding a
-        fellow   actor   severely
-        o  n
-stage   with   a
-s w o r d ?
-
-
-             ...that   the   Central
-             F e l l s ,
-             a   group   of
-        hills   in   the
-             E  n  g  l  i  s  h
-                  L  a  k  e
-                  D i s t r i c t
-                  (Eagle   Crag
-             pictured),  are  generally
-                  l  o  w  e  r
-                  than  the
-s u r r o u n d i n g
-                  h   i   l   l   s   ?
-
-
-...that   Stevens
-                  Arch  (pictured)
-        is one of
-             the many geological
-features   formed
-        f   r   o   m
-                  Navajo Sandstone along
-             Coyote   Gulch
-                  in   southern
-             U   t   a   h   ,
-                  U   S   A   ?
-
-
-                  ...that  in  1850,
-        the Harvard Musical
-        Association,   a   charitable
-organization  in
-                  Boston,  raised  over
-        $ 1 0 0 , 0 0 0
-for the
-c  o  n  s  t  r  u  c  t  i  o  n
-o  f
-the  Boston  Music
-H a l l
-             (   p   i   c   t   u   r   e   d   )
-                  in under sixty
-        d  a  y  s  ?
-
-
-        ...that  the  Loch
-        Lomond  Golf  Club
-             (   p   i   c   t   u   r   e   d   )
-                  o   c   c   u   p   i   e   s
-             l   a   n   d
-             p r e v i o u s l y
-                  held  by  Clan
-                  Colquhoun  and  uses
-the  clan's  seat
-of Rossdhu
-M a n s i o n
-as  its
-             c  l  u  b  h  o  u  s  e  ?
-
-
-        ...that  Russian
-√©migr√©  Jerzy  Bulanow
-        c   a   p   t   a   i   n   e   d
-             the  Poland  national
-        f   o   o   t   b   a   l   l
-t  e  a  m
-             through   the
-        1920s  and
-e  a  r  l  y
-        1  9  3  0  s  ?
-
-
-...that   despite   multiple
-             transfers  of
-ownership,   after
-1   2   3
-        y   e   a   r   s
-t   r   a   i   n   s
-             still   haul   paper
-             p r o d u c t s
-                  o v e r
-             the   White   River
-                  R a i l r o a d ' s
-        l  i  n  e  ?
-
-
-.   .   .   t   h   a   t
-             the   role   of
-Kanephoros was
-                  the most prominent
-             p   u   b   l   i   c
-                  o f f i c e
-        a  girl
-             or   woman
-c  o  u  l  d
-                  h   o   l   d
-        in   ancient
-                  A   t   h   e   n   s   ?
-
-
-        ...that  Mi≈õ  Uszatek,
-                  a  children's
-        cartoon about
-        a bear
-             and  his
-        friends, is
-                  o  n  e
-             of  the  best-selling
-        e   x   p   o   r   t
-                  products   of   Polish
-                  T  V  ?
-
-
-        ... that
-             t  h  e
-        y   o   u   n   g
-             L o r d
-Byron (1813
-p  o  r  t  r  a  i  t
-                  pictured)  shared
-        his  mother's  violent
-             temper  and,
-                  d u r i n g
-o   n   e
-                  fit  of  anger,
-                  bit into
-                  a
-        s  a  u  c  e  r  ?
-
-
-        ...that Flora Sandes,
-                  w   h   o
-served with the
-Serbian Army, was
-                  t  h  e
-                  only  British  woman
-        to   officially   enrol
-                  a   s
-                  a
-                  soldier  in  World
-                  W a r
-        I ?
-
-
-             ...that   Akira   Machida,
-             a   former
-             Chief Justice
-        of   Japan,   voted
-        to overturn
-a
-                  ruling   from   the
-Tokyo High
-        Court   that
-             allowed the Tokyo
-             Metropolitan  Government  could
-not bar a
-civil servant
-        from   her   managerial
-                  exam  due
-        to   her   South
-        K   o   r   e   a   n
-        n   a   t   i   o   n   a   l   ?
-
-
-                  ...that   William   Glanville
-calculated the
-                  size   of
-explosives  required  for
-                  O   p   e   r   a   t   i   o   n
-             Chastise   and   was
-portrayed by
-             C  o  l  i  n
-T a p l e y
-             in   the   1955
-film The
-             D a m
-             B u s t e r s ?
-
-
-        ...that Royal
-        B r u n e i
-Catering,  a  wholly-owned
-             subsidiary   of   Royal
-             Brunei   Airlines,
-was named
-as   Best
-R  e  g  i  o  n  a  l
-Caterer   1995/1996
-             b   y
-        S  i  n  g  a  p  o  r  e
-             A   i   r   l   i   n   e   s   ?
-
-
-                  .   .   .   t   h   a   t
-in  Greek
-             mythology   Gorgythion   was
-one  of
-the   fifty
-sons of
-                  K   i   n   g
-Priam of
-T r o y ?
-
-
-                  ...that   the
-P o l i s h
-        4th Rifle
-             Division  was  the
-only   Polish
-                  military unit
-                  that  fought
-in  the  Russian
-Civil War and
-        r   e   t   u   r   n   e   d
-to   Poland
-u  n  d  e  f  e  a  t  e  d  ?
-
-
-...that  the
-             Warrior  arcade  game
-        i  s
-c   o   n   s   i   d   e   r   e   d
-        to  be
-             t   h   e
-f  i  r  s  t
-                  v e r s u s
-fighting  game  and
-                  w  a  s
-             r   e   l   e   a   s   e   d
-                  over   a
-                  decade  before  the
-             g  e  n  r  e
-                  b   e   c   a   m   e
-p o p u l a r ?
-
-
-             ...that   La
-        Casa  Pacifica,  President
-             Richard Nixon's
-             private   retreat
-        i   n
-        S  a  n
-             Clemente, California, became
-                  known as the
-        "Western White
-             H  o  u  s  e  "  ?
-
-
-
-
-        ...that   French
-        Sinologist   Paul   Pelliot
-w   a   s
-                  caught   up   in
-             the   Boxer
-Rebellion and
-        trapped in
-                  t   h   e
-        siege of
-P   e   k   i   n   g   ?
-
-
-                  . . . t h a t
-             the   2003
-        book  Seven
-        M  y  t  h  s
-             of the
-        S  p  a  n  i  s  h
-Conquest   by
-             ethnohistorian  Matthew
-R   e   s   t   a   l   l
-d e b u n k s
-        s e v e n
-             popularly  held
-             b  e  l  i  e  f  s
-                  a b o u t
-                  how  Spanish
-                  c   o   n   q   u   i   s   t   a   d   o   r   s
-                  conquered the
-                  A   z   t   e   c   s   ?
-
-
-                  .  .  .  t  h  a  t
-                  the  Winchester
-        M  o  d  e  l
-             1895  is  one
-             of  the  few
-l e v e r - a c t i o n
-                  r   i   f   l   e   s
-        e   q   u   i   p   p   e   d
-                  with  a
-charger  guide,  allowing
-it  to
-be reloaded
-        by  charger
-        c  l  i  p  s  ?
-
-
-.   .   .   t   h   a   t
-        P  a  u  l  a
-        C  o  o  p  e  r  ,
-        sentenced to
-d   e   a   t   h
-                  a   t
-             age  15,
-        h a d
-             her  sentence
-commuted   in
-1   9   8   9
-             after  an  international
-                  uproar   ensued
-                  and Pope
-             J  o  h  n
-        Paul   II
-                  a   p   p   e   a   l   e   d
-t  o
-        the   Governor
-of  Indiana
-                  f   o   r
-             l   e   n   i   e   n   c   y   ?
-
-
-             .  .  .  t  h  a  t
-O  n  e
-        is   a
-Japanese  adult
-r   e   n   a   i
-        game  (or
-v i s u a l
-novel),   developed   by
-             T a c t i c s ?
-
-
-             ... that the
-W h i t e - f a c e d
-                  Heron's (pictured) techniques
-to  find
-                  food  include  standing
-        s t i l l
-             and   waiting
-                  for prey,
-             walking slowly in
-        w   a   t   e   r   ,
-        w i n g
-                  flicking,  foot
-        r   a   k   i   n   g
-             or  chasing
-        prey  with
-o p e n
-w  i  n  g  s  ?
-
-
-...that George
-W.  Woodbey  was
-                  t   h   e
-        sole   African
-American  delegate
-             t  o
-                  the  Socialist  Party
-             of  America  conventions
-                  in  1904
-                  a n d
-                  1   9   0   8   ?
-
-
-             ...the  oldest  stud
-f   a   r   m
-             i  n
-        India,   Kunigal
-             s  t  u  d
-        farm,   was
-             used   by
-        Tipu  Sultan  for
-                  breeding   horses
-                  for   cavalry
-                  regiments   to
-        fight   the
-             B   r   i   t   i   s   h   ?
-
-
-                  ...that Gundoin was
-                  the first Duke
-of Alsace, a
-duchy which
-        existed   as   part
-o  f
-                  the  Frankish
-        Empire from the
-                  6   3   0   s   ?
-
-
-.  .  .  e  v  e  n
-though the
-H o u s i n g
-        A c t
-        of   1949   called
-             for   building   more
-                  h   o   u   s   i   n   g   ,
-                  s o m e
-             p   r   o   j   e   c   t   s
-        s   a   w
-                  m   o   r   e
-             h  o  u  s  i  n  g
-                  u   n   i   t   s
-                  destroyed  than
-             b  u  i  l  t  ?
-
-
-...that  China  supported
-        the Zimbabwe African
-National Union's
-f i g h t
-             against  British  rule
-        i  n
-the   country
-        and recognized it
-        right from
-                  independence day on
-             April 18,
-             1  9  8  0  ?
-
-
-             ...that Julius Reubke
-                  composed   his
-Sonata  on  the
-                  9  4  t  h
-        Psalm  for
-             o  r  g  a  n
-             a   year
-b e f o r e
-dying   aged
-        2   4   ?
-
-
-
-
-                  ...that  at
-                  1   5
-                  years  and
-1 5 6
-             d  a  y  s  ,
-Albert Geldard became
-                  the youngest player
-t o
-appear in The
-                  Football League
-i   n
-        1 9 2 9 ?
-
-
-        .  .  .
-             that  the
-                  largest  surface
-        action  during
-        World War
-             I in the
-                  A  d  r  i  a  t  i  c
-             Sea was
-        t   h   e
-             Battle   of   the
-        Strait  of
-Otranto   ([[:|ships
-        p   i   c   t   u   r   e   d   ]   ]   )   ?
-
-
-                  .  .  .
-that  the
-                  e l o n g a t e d
-             t   a   i   l   s
-        p  o  s  s  e  s  s  e  d
-        b  y
-the   males   of
-        s   o   m   e
-             s  p  e  c  i  e  s
-                  of  paradise-flycatchers
-(pictured)  are
-        t  h  o  u  g  h  t
-to  be  the
-products  of  sexual
-s   e   l   e   c   t   i   o   n   ?
-
-
-...that writers in
-the literary
-genre  known
-             as   fantastique
-                  i   n   c   l   u   d   e
-S   t   e   p   h   e   n
-             King and
-        Honor√© de
-        B a l z a c ?
-
-
-...that   Claudia
-             A   l   e   x   a   n   d   e   r
-        w a s
-        t h e
-                  last   project
-manager   of   NASA's
-                  Galileo   mission   to
-                  J u p i t e r ?
-
-
-        ...that   the
-        5th   New   York
-             Volunteer   Infantry   suffered
-        330   casualties,   including
-        1  2  0
-                  d  e  a  d  ,
-                  in eight minutes
-             a t
-the  Second
-        B a t t l e
-                  o   f
-                  B u l l
-                  R  u  n  ,
-                  the  largest  number
-        of   fatalities   received
-             b   y
-any federal infantry
-        unit   in
-                  the entire
-                  A   m   e   r   i   c   a   n
-                  C i v i l
-W  a  r  ?
-
-
-             ...that  the  Santa
-                  Fe Pacific
-Railroad   was
-                  a   subsidiary   of
-             the   Atchison,   Topeka
-                  and   Santa   Fe
-        Railway  that
-                  operated in Arizona,
-                  N   e   w
-             M  e  x  i  c  o
-             a  n  d
-        California  from
-        J   u   l   y
-                  1,  1897
-        till  July  1,
-                  1   9   0   2   ?
-
-
-...that   Ava   Helen
-        Pauling,  an  American
-human  rights
-                  activist and
-             wife of
-        N  o  b  e  l
-                  laureate   Linus   Pauling,
-        was   a
-             three-time national vice
-                  president   of   the
-Women's International League
-                  for  Peace
-        a n d
-        F r e e d o m ?
-
-
-        ...that  William
-                  P   e   n   n
-                  P  a  t  r  i  c  k  ,
-                  founder   of   companies
-                  Holiday Magic
-             and   Leadership   Dynamics,
-        r  a  n
-against  Ronald  Reagan
-             for  the
-             Republican  nomination
-                  for   Governor
-             o   f
-                  C  a  l  i  f  o  r  n  i  a  ?
-
-
-...   that
-                  t h e
-Commercial   &
-             F   i   n   a   n   c   i   a   l
-Chronicle  was  modeled
-                  a  f  t  e  r
-The   Economist
-                  to  be
-t h e
-        first  weekly
-n   a   t   i   o   n   a   l
-business newspaper in
-t h e
-                  U   n   i   t   e   d
-             S   t   a   t   e   s   ?
-
-
-                  ...  that  the
-             p  o  s  t
-        office in
-        Coxs Creek, Kentucky,
-had to
-                  be  moved  because
-                  it  created  many
-accidents   along   U.S.
-3 1 E ?
-
-
-        ...   that
-             after   Roche
-M a c G e o g h e g a n ,
-        Bishop   of   Kildare,
-died   in   1644,
-        his library
-was   divided
-                  between  his
-                  diocese  and
-        the  Dominican
-                  O   r   d   e   r   ?
-
-
-        ...that the
-             naval  victory
-        of   Travancore   State
-        over Dutch
-        E  a  s  t
-        India Company in
-the   Battle   of
-             Colachel   in   1741
-             is   considered
-the  first  example
-             of an
-        A  s  i  a  n
-             p o w e r
-defeating a
-        E   u   r   o   p   e   a   n
-n  a  v  y  ?
-
-
-             ...that In re
-                  Debs  was
-        a
-                  1 8 9 5
-                  S u p r e m e
-             Court case that
-             resulted  in
-        a  unanimous
-                  r  u  l  i  n  g
-a f f i r m i n g
-        the right
-o  f
-             the United
-                  States  government  to
-             issue   an   injunction
-             t   o
-             halt strikes affecting
-             i n t e r s t a t e
-        commerce  and
-U  .  S  .
-                  M   a   i   l   ?
-
-
-
-
-             ...   that   Nakamura
-             Yoshikoto,  director  of
-t   h   e
-        South Manchurian Railway,
-             sponsored   his   childhood
-        friend, the
-                  famed  author  Natsume
-                  Soseki   on   a
-             p u b l i c i t y
-j   a   u   n   t
-        t   o
-M a n c h u r i a ?
-
-
-. . . t h a t
-             a
-swinging   column
-                  at  Haghartsin
-                  Monastery in
-                  Armenia  was
-used to hide
-        r i c h e s ?
-
-
-.   .   .
-                  that   the   stationmaster
-                  of  the
-             Kinokawa   train   station
-             in   Kinokawa,   Japan
-                  is  a  cat
-        n  a  m  e  d
-T   a   m   a
-(   p   i   c   t   u   r   e   d   )   ?
-
-
-                  ...that  the  winnings
-                  from the
-1975 Yellow
-                  S   a   m
-        betting   coup
-                  were paid
-o   u   t
-in the form
-of   over   a
-        h   u   n   d   r   e   d
-                  sacks of
-                  I  R  ¬  £  1  ¬  †  n  o  t  e  s  ?
-
-
-             ...that  the
-             T a n g
-        D   y   n   a   s   t   y
-                  c   h   a   n   c   e   l   l   o   r
-             Zhang  Jiuling
-                  o f f e r e d
-                  a   five-volume
-        h  i  s  t  o  r  i  c  a  l
-                  work  that  he
-                  authored   as
-                  a birthday
-        gift  to  Emperor
-        Xuanzong   of   Tang,
-instead  of
-                  mirrors,  which  the
-             o t h e r
-             officials were
-g i v i n g ?
-
-
-        ...  that
-                  Jean-Claude   Latombe's
-                  motion   planning   algorithm
-        Probabilistic   Roadmap
-             Method   not   only
-             a   p   p   l   i   e   s
-                  t  o
-        robotic   motion   planning,
-        but can
-also  be  used
-i n
-        protein   trajectories
-                  s   i   m   u   l   a   t   i   o   n   s   ?
-
-
-...that   tariffs
-        imposed  by  the
-A u s t r i a n
-             Empire on
-                  t h e
-             export  of
-             P  i  e  d  m  o  n  t  e  s  e
-        wines   to   Austrian
-controlled  areas  of
-             I   t   a   l   y
-                  was   one   of
-                  t   h   e
-             underlying   sparks   of
-             t   h   e
-                  r e v o l u t i o n s
-                  o  f
-             1   8   4   8   ‚   Ä   ì   1   8   4   9   ?
-
-
-        ...that   the
-        S   p   a   n   i   s   h
-        shepherd  Diego
-             M   a   r   √   ≠   n
-                  Aguilera attempted
-                  flight in a
-             m  a  n  n  e  d
-        g  l  i  d  e  r
-on  May
-             15,   1793
-             a  f  t  e  r
-             jumping  from
-                  a castle at
-Coru√±a   del
-C  o  n  d  e  ?
-
-
-        ...   that   the
-        A c h e n s e e b a h n
-(pictured)   in
-Austria   is   the
-             oldest  steam-operated
-                  rack  railway
-             i  n
-        E u r o p e ?
-
-
-...that   at
-             a cost
-                  of $7.9
-                  billion, Meghna
-                  Bridge  in  Bangladesh
-        is   the   single
-largest   project   with
-                  Japanese   assistance   in
-                  t   h   e
-                  w   o   r   l   d   ?
-
-
-...  that  Terling
-Windmill   in   Essex,
-                  England was featured
-                  in  the  film
-                  Oh, Mr.
-                  P   o   r   t   e   r   !   ?
-
-
-             ...that actress
-        F  r  a  n  c  e  s
-Gifford   played
-t   h   e
-             l  e  a  d
-             r  o  l  e
-        of   Nyoka
-                  i n
-                  t h e
-        1 9 4 1
-        movie  serial  Jungle
-             G  i  r  l  ?
-
-
-                  ...that  173
-        of the
-        1 9 8
-Kwaio  arrested  during
-t h e
-                  M a l a i t a
-             massacre were hospitalized
-                  f   o   r
-        dysentery while awaiting
-trial  in
-             T  u  l  a  g  i  ,
-                  t  h  e
-                  S  o  l  o  m  o  n
-                  I   s   l   a   n   d   s   ?
-
-
-                  ...that  Daniel  Goldin
-                  spearheaded   the
-        c o n t r o v e r s i a l
-                  "faster,  better,
-        c   h   e   a   p   e   r   "
-                  approach at
-        N   A   S   A   ?
-
-
-        ...that  the
-Irish  politician  the
-        O  '  G  o  r  m  a  n
-             M a h o n
-        c   o   m   m   a   n   d   e   d
-                  a Chilean fleet,
-f o u g h t
-thirteen duels,
-a   n   d
-             w  o  n
-        a   by-election
-             a g e d
-8   7   ?
-
-
-. . . t h a t
-        the only black
-             c  o  l  l  e  g  e
-                  to field
-             a NCAA lacrosse
-        t  e  a  m
-                  w  a  s
-                  t   h   e
-        M   o   r   g   a   n
-             State University
-        L  a  c  r  o  s  s  e
-B e a r s ?
-
-
-...that the 1991
-             H   a   m   l   e   t
-c   h   i   c   k   e   n
-             plant  fire
-        r e s u l t e d
-             in 25
-                  deaths  and
-prison sentences
-             f  o  r
-                  t h e
-                  o  w  n  e  r  s  ?
-
-
-             ...   that   Temple
-        B e t h
-                  Israel  of  Niagara
-        F   a   l   l   s   ,
-New York was
-             subject  to  repeated
-             attacks leading
-             to a federal
-                  i  n  v  e  s  t  i  g  a  t  i  o  n  ?
-
-
-        ...that French actuary
-M a u r i c e
-                  Princet   is
-known   as
-"   t   h   e
-                  m  a  t  h  e  m  a  t  i  c  i  a  n
-        of   cubism"   for
-t   h   e
-                  role he played
-             in   birth
-of  the  art
-        m  o  v  e  m  e  n  t  ?
-
-
-             ...that   U-256   was
-             one of seven
-                  German   World
-                  War II submarines
-             converted into
-        anti-aircraft  submarines,  and
-                  t  h  e
-                  last  German  submarine
-                  to   leave   Brest,
-             F   r   a   n   c   e   ?
-
-
-        .   .   .   t   h   a   t
-T   i   k   i   g   a   q
-                  Inuit children attending
-        p   u   b   l   i   c
-        school in
-        P  o  i  n  t
-Hope,   Alaska
-             can   take   a
-                  t h r e e - w e e k
-        w h a l i n g
-             c  l  a  s  s
-             to   learn
-                  specific whaling traditions
-                  a   n   d
-s   k   i   l   l   s   ?
-
-
-                  ...that  Marine  Unmanned
-             Aerial   Vehicle
-             Squadron  2  (VMU-2),
-                  a  United  States
-             Marine  Corps  UAV
-             squadron   formed
-i  n
-J u n e
-        1 9 8 4 ,
-was   the   first
-        Remotely  Piloted
-             V   e   h   i   c   l   e
-                  unit in the
-                  U.S. Armed Forces?
-        (  p  i  c  t  u  r  e  d  :
-u   n   i   t
-                  i n s i g n i a )
-
-
-                  ...that   klezmer   musician
-                  Josef   Gusikov   became
-        world-famous   playing
-        his   invention   ‚Äî
-a
-                  x  y  l  o  p  h  o  n  e
-        made   out
-        of  wood
-             a   n   d
-                  s  t  r  a  w  ?
-
-
-             . . .
-        t  h  a  t
-                  Norwegian  politician
-Jacob   Aall
-                  described Hans Eleonardus
-M√∏ller,   Sr.
-a s
-        "   o   n   e
-of   Norway's
-        m o s t
-                  a   c   t   i   v   e
-        and   skillful
-        m  e  r  c  h  a  n  t  s  "  ?
-
-
-             ...  that  the
-        suppression  of
-        a   protest
-in Nagpur
-        and   Jabalpur   caused
-             t   h   e
-             Flag   Satyagraha   to
-erupt  in  1923,
-             bringing   thousands
-             o  f
-nationalists  from  across
-India to the
-                  r e b e l l i o n ?
-
-
-             .  .  .  t  h  a  t
-             the  railcar  that
-             ran on
-the  Shimoga-Talaguppa
-railway  in  India
-                  h   a   d
-             t  o
-        be  reversed
-        on  a  turntable,
-             so that it
-                  could  start
-             i   t   s
-                  r   e   t   u   r   n
-j  o  u  r  n  e  y  ?
-
-
-             ...   that
-                  f   o   o   t   b   a   l   l   e   r
-                  P  e  t  e  r
-S  t  r  i  n  g  f  e  l  l  o  w
-suffered a
-                  d r a m a t i c
-                  decline   in   form,
-             w   h   i   c   h
-                  ultimately  ended
-his professional career,
-a f t e r
-b e i n g
-i n v o l v e d
-in   a   car
-                  crash  in
-             which a team-mate
-d i e d ?
-
-
-             ...   that
-             Robert Harrison,
-                  p u b l i s h e r
-             of   the   gossip
-        magazine  Confidential  (cover
-pictured),  was
-        o  n  c  e
-arrested  for  allegedly
-             taking  pornographic
-                  photos at a
-g  o  l  f
-             c o u r s e ?
-
-
-        . . . t h a t
-        t   h   e
-                  military  operation
-             a g a i n s t
-the   dervish
-                  forces of
-             Mohammed  Abdullah
-Hassan, commonly known
-a s
-the  "Mad
-                  M u l l a h " ,
-        were  described  by
-a British
-                  politician  as
-             "  t  h  e
-             cheapest  war  in
-        h i s t o r y " ?
-
-
-                  .  .  .  t  h  a  t
-        the ticket lottery
-site   for   the
-December   2007   Ahmet
-        Erteg√ºn Tribute
-             C o n c e r t
-                  featuring   Led   Zeppelin,
-             crashed due to
-over  a  billion
-             page  views
-o  f
-fans seeking to
-                  p  u  r  c  h  a  s  e
-        the 20,000
-                  tickets on
-             s   a   l   e   ?
-
-
-        .   .   .   t   h   a   t
-        o f
-                  t h e
-             t  h  r  e  e
-             breeding  roosts
-                  in  England
-for   the
-             r  a  r  e
-Barbastelle bat,
-t  h  e
-                  only   indoor   roost
-             i  s
-f   o   u   n   d
-                  in  Norfolk's
-             historic Paston Great
-             B  a  r  n  ?
-
-
-        ... that
-                  Budweiser  Bier
-             B√ºrgerbr√§u,  introduced  in
-             1802,  is
-                  o  f  f  e  r  e  d
-             by  the
-Czech  brewery  in
-             E   u   r   o   p   e
-        as   "Budweiser
-Bier",   while
-                  in  North  America,
-                  is   called   "B.
-B   .
-B   √   º   r   g   e   r   b   r   √   §   u   "   ?
-
-
-             .   .   .   t   h   a   t
-             t  h  e
-                  Zentrale  Stelle  (Central
-        O  f  f  i  c  e  )
-                  was established in
-             1958  by
-             t h e
-                  W   e   s   t
-             G  e  r  m  a  n
-             g o v e r n m e n t
-        t o
-             investigate   war
-        crimes committed
-             o   u   t   s   i   d   e
-        Germany   by   Nazi
-        f o r c e s ?
-
-
-...that the
-c o n g r e s s
-                  hall  on
-the   site   of
-             the   former   Nazi
-        party   rally
-        grounds in
-N  u  r  e  m  b  e  r  g
-has  been  converted
-                  i  n  t  o
-a
-m  u  s  e  u  m  ?
-
-
-        .  .  .  t  h  a  t
-        the  1869  collapse
-                  of  the
-        2,500-foot-long  Hennepin  Island
-t   u   n   n   e   l
-(pictured) resulted in
-             cementing over the
-only major
-        waterfall  on  the
-M  i  s  s  i  s  s  i  p  p  i
-             R   i   v   e   r   ?
-
-
-... that the
-        M  o  n  t  i  g  n  y
-                  mitrailleuse   (pictured),   an
-                  1860s mobile volley
-                  gun, was
-very heavy at
-                  2,000 pounds
-             (  9  1  0  ¬  †  k  g  )  ?
-
-
-        .   .   .   t   h   a   t
-                  Lingyan Temple in
-             S  h  a  n  d  o  n  g  ,
-China features a
-n i n e - s t o r e y
-                  Song  Dynasty
-        pagoda,   named   the
-        P  i  z  h  i
-Pagoda   (pictured)   from
-the Sanskrit word
-                  p   r   a   t   y   e   k   a   ?
-
-
-        ...that Church
-             Hill Tunnel
-i   n
-        R  i  c  h  m  o  n  d  ,
-Virginia  contains
-             a  steam  locomotive
-                  and  ten  flat
-             cars   trapped
-i  n
-             a   collapse   in
-                  October   1925
-which   were
-                  n  e  v  e  r
-        r e c o v e r e d ?
-
-
-.  .  .
-                  that Charles
-        deGravelles  and
-             his wife,
-V i r g i n i a ,
-        o f
-             Lafayette,   Louisiana,   were
-             in   1968   the
-only   married
-couple  in  history
-                  to  serve  together
-o  n
-        the  Republican
-        N   a   t   i   o   n   a   l
-        C  o  m  m  i  t  t  e  e  ?
-
-
-        ...that   Innocence,   a
-             2  0  0  5
-        documentary   film
-                  a   b   o   u   t
-             a   school   in
-        rural  northern
-             T   h   a   i   l   a   n   d   ,
-             influenced the
-             T h a i
-             government to reverse
-             c  u  t  s
-                  it had made
-             in the education
-                  b u d g e t ?
-
-
-        ...that Dorothy was
-             t   h   e
-                  longest-running  musical
-stage  production
-                  ever  until  the
-                  20th  century,  with
-        an initial
-        run of 931
-p  e  r  f  o  r  m  a  n  c  e  s  ?
-
-
-
-
-                  ... that non-heterosexual
-             i  s
-a   n
-        umbrella   term,
-             describing people who
-        do not or
-             no  longer
-             identify   as
-        h   e   t   e   r   o   s   e   x   u   a   l   ?
-
-
-                  .   .   .   t   h   a   t
-                  St.   Cyril's
-                  M  o  n  a  s  t  e  r  y
-                  i n
-             Kiev, Ukraine was
-        c   l   o   s   e   d
-        by  the
-             Tsarist Government and
-             its   living   quarters
-        were converted
-into   a
-hospital  and
-        l   a   t   e   r
-             a n
-                  insane asylum,
-which   lasted   until
-the  mid-late  20th
-        c e n t u r y ?
-
-
-        ...that  British
-                  international  rally
-                  driver  Tony  Ambrose
-             was given
-a  n
-MG sports
-                  c  a  r
-b y
-        his  father  for
-        winning   a
-        scholarship to
-             J  e  s  u  s
-C   o   l   l   e   g   e   ,
-                  O  x  f  o  r  d  ?
-
-
-                  ...   that
-the   1881   children's
-                  novel   Toby
-             Tyler;   or,
-             Ten  Weeks
-                  with   a   Circus
-b y
-                  James Otis
-        was   made
-        into   a   1960
-        D i s n e y
-f  i  l  m  ?
-
-
-        ...that alongside the
-        m   a   n   y
-honours,   awards
-and  medals  bestowed
-        upon   him
-             d u r i n g
-        his   lifetime
-Winston   Churchill   (pictured)
-was offered a
-             dukedom,   which
-             h  e
-d e c l i n e d ?
-
-
-        ...that  in
-                  1   8   5   5
-the   Howard   Association
-             o   f
-             Norfolk,   Virginia
-             received  contributions  during
-the   yellow   fever
-             epidemic   from   the
-                  Gulf Coast,
-             a n d
-        150  years
-             l  a  t  e  r
-             s  e  n  t
-$   5   0   ,   0   0   0
-                  o   f
-                  leftover  funds
-        t o
-             Louisiana for Hurricane
-        K  a  t  r  i  n  a
-        r  e  l  i  e  f  ?
-
-
-        ...that  Monk  Estill,
-        who was captured
-b  y
-t h e
-W  y  a  n  d  o  t
-             prior to the
-        Battle   of
-Little Mountain
-a n d
-             escaped during the
-battle, was
-the  first
-             slave   to   be
-        freed in
-        t h e
-K  e  n  t  u  c  k  y  ?
-
-
-        . . .
-             that   Rabbi
-        Tobias  Geffen  convinced
-             t   h   e
-m   a   k   e   r   s
-             of   Coca-Cola   to
-                  change  its
-                  s  e  c  r  e  t
-formula  in  1935
-                  s   o
-he   could
-        c   e   r   t   i   f   y
-that the
-                  b   e   v   e   r   a   g   e
-             w  a  s
-             k   o   s   h   e   r   ?
-
-
-... that
-R   u   n   ,
-        Buddy,  Run,
-             a
-1966 CBS sitcom,
-             featured   Jack
-             Sheldon fleeing from
-             t  h  e
-mob after he
-overhears  a
-g   a   n   g   s   t   e   r
-                  during   a   steam
-             b  a  t  h
-                  p   l   o   t   t   i   n   g
-        a
-m  u  r  d  e  r  ?
-
-
-        . . .
-that  ACLU
-             director   Aryeh
-                  Neier,   a
-        refugee   from
-                  N   a   z   i
-                  Germany,  supported  the
-Neo-Nazi   National
-        S   o   c   i   a   l   i   s   t
-             P   a   r   t   y
-                  of   America   in
-                  its   efforts
-        to   march   in
-Skokie,  Illinois,
-an   area
-        with  many
-H  o  l  o  c  a  u  s  t
-             s   u   r   v   i   v   o   r   s   ?
-
-
-        ... that after
-                  being auctioned at
-C  h  r  i  s  t  i  e  '  s
-for over ¬£100,000,
-             the  16th-century
-                  Sapieha  beaker  was
-                  presented   as   a
-g   i   f   t
-             to  Lithuania  by
-the  Ortiz
-b r o t h e r s ?
-
-
-             ...that   the   name
-        of   Mohrland,   Utah
-             w   a   s
-formed   as   an
-                  acronym   from
-        the surnames
-o f
-the   principal   investors
-        in   its
-             coal mining
-c o m p a n y ?
-
-
-        .   .   .   t   h   a   t
-        nine   of   the
-t  w  e  n  t  y  -  t  h  r  e  e
-        Cardinal  electors
-             i n
-        the   1492   papal
-             conclave‚Äîwhich   elected
-             Rodrigo  Borja  as
-             Pope   Alexander   VI
-        ‚ Ä î w e r e
-nephews  of
-the popes
-        that elevated
-                  t h e m ?
-
-
-             ...  that
-                  D  i  v  e  r  s  e
-Harmony is the
-             first  gay-straight  alliance
-chorus   in
-        t   h   e
-             U  n  i  t  e  d
-             S   t   a   t   e   s   ?
-
-
-                  ...that the 6th
-                  Canadian   Infantry
-                  Division   was   raised
-        in  1942  and
-             disbanded  in  1945
-        w  i  t  h  o  u  t
-             having  taken  part
-in   any
-             World  War  II
-                  f   i   g   h   t   i   n   g   ?
-
-
-        .   .   .   t   h   a   t
-                  each kind of
-             n u t
-in   mixed
-                  nuts   must
-c   o   m   p   o   s   e
-        between  2%
-                  a n d
-80%  of  the
-                  t o t a l
-             weight to
-                  pass   inspection   by
-the  U.S.  Food
-        a  n  d
-                  D  r  u  g
-A d m i n i s t r a t i o n ?
-
-
-             .   .   .
-        t  h  a  t
-t   h   e
-                  Statesman  Journal
-is  the  second
-        o   l   d   e   s   t
-n  e  w  s  p  a  p  e  r
-             i  n
-                  O   r   e   g   o   n   ?
-
-
-        ...  that
-                  Norwegian historian
-T   o   r   e
-Pryser has criticised
-                  t h e
-        perceived  importance  of
-Norwegian  resistance
-             members   during   World
-        W  a  r
-             I   I   ?
-
-
-                  .   .   .   t   h   a   t
-a n t i - G e r m a n
-        a  n  d
-anti-Chinese   sentiments   have
-        motivated two
-                  of  the
-        s   e   v   e   r   a   l
-                  riots in the
-history   of
-             C  a  l  g  a  r  y  ?
-
-
-             ...that  besides
-        a  mobile  library,
-                  t h e
-             Mobile Public Library
-             also  operates
-                  a
-             s   y   s   t   e   m
-        of  libraries  with
-eight  branches  and
-                  a local history
-        and genealogy
-                  division  with  permanent
-        addresses   in
-                  A   l   a   b   a   m   a   ?
-
-
-                  .   .   .   t   h   a   t
-        The Observatory,
-a
-        Singaporean space rock
-        band  released  their
-                  first album
-packaged as
-             a   diary,   complete
-             w   i   t   h
-t   o   r   n
-        pages  and
-p a p e r c l i p p e d
-        p h o t o s ?
-
-
-             ...that  Ghazi
-                  Mullah  proclaimed  that
-        o  n  l  y
-        the   elimination
-                  of   Russians
-        from   the   Caucasus
-             w   o   u   l   d
-                  p   l   e   a   s   e
-             A   l   l   a   h   ?
-
-
-...that   One
-                  is  a  Japanese
-                  adult   renai
-        game  (or
-v   i   s   u   a   l
-             n   o   v   e   l   )   ,
-        d  e  v  e  l  o  p  e  d
-                  b  y
-                  T   a   c   t   i   c   s   ?
-
-
-... that
-             bridge   scour
-                  i   s
-                  the   most   common
-cause  of
-             h   i   g   h   w   a   y
-                  bridge failure
-             (   e   x   a   m   p   l   e
-                  p   i   c   t   u   r   e   d   )
-                  in  the  United
-S t a t e s ?
-
-
-                  ...  that  the
-Clarence   Islands
-w   e   r   e
-        discovered   and
-        c h a r t e d
-        as   a   group
-             of   three   Arctic
-        islands by James
-             Clark Ross,
-t h e n
-re-charted  with
-                  f  i  c  t  i  o  n  a  l
-                  a d d i t i o n s
-             t   o   t   a   l   i   n   g
-nine  islands
-        b y
-                  h  i  s
-uncle,   John
-Ross, who never
-             s  a  w
-                  t h e m ?
-
-
-                  ...that  if
-             U.S.-based  PacifiCorp
-        decommissions   the
-        C  o  n  d  i  t
-                  Hydroelectric   Project
-                  in   2008,
-             Condit  Dam
-        will be the
-l   a   r   g   e   s   t
-        d a m
-             ever removed
-                  f   o   r
-e n v i r o n m e n t a l
-             r   e   a   s   o   n   s   ?
-
-
-             ...that the
-        Raven   banner,   a
-standard used by
-v   a   r   i   o   u   s
-        Viking leaders
-        including   Sigurd
-        the  Stout
-and Harald III
-        of Norway,
-was  a
-             t  o  t  e  m
-believed   to   have
-             the  power
-        to  grant
-                  victory  to
-        i   t   s
-             h o l d e r ?
-
-
-        ...that   Victor
-        Gauntlett  supplied
-                  his   personal   pre-production
-             A s t o n
-        Martin   Vantage
-for use
-                  in the filming
-o  f
-        the  James  Bond
-             f i l m
-" T h e
-L   i   v   i   n   g
-        D a y l i g h t s " ?
-
-
-             ...that   William   Frederick
-        Yeames'  painting,  And
-        W   h   e   n
-                  Did You
-             Last See Your
-        Father?,  has
-             been reproduced as
-                  a
-                  waxwork at
-        Madame Tussauds,
-        L  o  n  d  o  n  ?
-
-
-                  ...that   the
-work of
-the  Galician
-                  poet  Juan
-             Rodr√≠guez de la
-        C  √  °  m  a  r  a
-             p  r  e  s  e  n  t  s
-             arguments  for
-the  superiority
-                  of   women
-        t o
-             m   e   n   ?
-
-
-                  . . . t h a t
-             New   Zealand
-             h   i   s   t   o   r   i   a   n
-             John Dunmore
-             p   u   b   l   i   s   h   e   d
-        a   cookbook   composed
-from   18th-century   ship's
-             logs, including recipes
-        f  o  r
-                  stewed rat
-        a  n  d
-a  l  b  a  t  r  o  s  s  ?
-
-
-        ...   that   British
-        justice Thomas Reeve
-w a s
-             knighted   at   the
-                  same   time
-        h  e
-             was   made   Lord
-             C h i e f
-        Justice   of   the
-                  C o m m o n
-P  l  e  a  s  ?
-
-
-             ... that Nubian
-                  queen Amanitore (relief
-p  i  c  t  u  r  e  d  )
-ruled over
-                  s  o
-much   building
-                  w   o   r   k
-that   her   reign
-             i  s
-        considered   the
-m  o  s  t
-                  prosperous time in
-        M e r o i t i c
-             h   i   s   t   o   r   y   ?
-
-
-        ...  that  the
-                  Buis   (pictured)   was
-             first  adapted  for
-                  use as
-a fishing vessel
-             in  the
-        Netherlands,  after  the
-invention   of
-        gibbing   made   it
-        possible   to
-        preserve herring
-                  a  t
-             s   e   a   ?
-
-
-.   .   .   t   h   a   t
-                  Vikram Seth's
-                  A
-             Suitable Boy is
-        the   longest   single-volume
-novel   ever   published
-        i n
-                  E   n   g   l   i   s   h   ?
-
-
-                  ...that   the
-             Biographicon aspires to
-b  e
-an  online  directory
-        of  biographies
-f  o  r
-             "   a   l   l
-                  the  people  of
-                  t  h  e
-                  w o r l d " ?
-
-
-...that  fishes  from
-the   genus   Alepes
-are   characterised
-                  by   a
-c  u  r  v  e
-in   their
-                  l  a  t  e  r  a  l
-             l  i  n  e  ?
-
-
-             ...that Russian
-             courtier Ivan
-        B   e   t   s   k   o   y
-                  (pictured)   was
-                  r u m o u r e d
-t   o
-h a v e
-        been  not
-        only Catherine the
-             Great's confidant
-but also her
-                  f  a  t  h  e  r  ?
-
-
-             .   .   .   t   h   a   t
-             a protoplanetary nebula
-                  is   a   short-lived
-        phase of
-        s   t   e   l   l   a   r
-                  e   v   o   l   u   t   i   o   n   ?
-
-
-                  ...that  the  megalithic
-                  Niedertiefenbach  tomb  in
-                  H   e   s   s   e   ,
-             G  e  r  m  a  n  y
-                  h a s
-at least ten
-                  d  i  s  c  e  r  n  i  b  l  e
-        l a y e r s
-o f
-burials  from  the
-New Stone
-        A  g  e  ?
-
-
-. . . t h a t
-                  the   current   constitution
-o  f
-                  Nicaragua, the ninth
-                  in   the   country's
-        history,  was
-        the  final  step
-in   the
-             institutionalization  of
-             the   Sandinista
-                  r  e  g  i  m  e  ?
-
-
-                  ...that  David  Lewis
-                  and   his   son
-             Stephen Lewis
-        served simultaneously
-                  as  the
-l   e   a   d   e   r   s
-             o  f
-             the Canadian and
-                  O  n  t  a  r  i  o
-             N e w
-             D e m o c r a t i c
-                  P   a   r   t   y   ?
-
-
-                  .  .  .
-        that  Northern
-             Irish  housewife  Sarah
-        Conlon's   campaign   to
-clear   the
-             n   a   m   e   s
-        of  her
-             wrongfully-convicted   husband   and
-son   led   to
-             an   apology   from
-then British Prime
-             M i n i s t e r
-                  T  o  n  y
-        B l a i r ?
-
-
-.   .   .   t   h   a   t
-                  t  h  e
-             o  l  d  e  s  t
-             written   constitution   of
-             a  Greek  city
-                  was  discovered  in
-        an   inscription
-             a   t
-Dreros in
-                  C  r  e  t  e  ?
-
-
-.   .   .
-        t  h  a  t
-t  h  e
-             first  head
-        coach  of
-             t h e
-        NBA club
-             now   known   as
-        the   Atlanta   Hawks
-        was Roger
-             Potter,  whose  tenure
-        only   lasted   seven
-        games  into  the
-        team's   inaugural
-                  season  in
-                  1 9 4 9 ?
-
-
-                  ... that
-British   fencer   Mary
-                  G   l   e   n   -   H   a   i   g
-        was   the
-        first female member
-                  of   the
-        I   n   t   e   r   n   a   t   i   o   n   a   l
-        O l y m p i c
-             C  o  m  m  i  t  t  e  e  ?
-
-
-...that Church
-of  Scotland
-             clergyman William Couper
-             p   r   o   t   e   s   t   e   d
-                  against   the   introduction
-                  o f
-e   p   i   s   c   o   p   a   c   y
-             in  1606,
-             b  u  t
-             b e c a m e
-Bishop  of  Galloway
-             four  years
-        l   a   t   e   r   ?
-
-
-        .  .  .  t  h  a  t
-Asif Hossain
-             Khan, a Commonwealth
-             G a m e s
-gold  medal  winner
-             a t
-        the   age
-o   f
-        just  15,  was
-b   r   u   t   a   l   l   y
-                  beaten  and  seriously
-        injured  by
-the   police
-                  of   his
-                  o   w   n
-c o u n t r y ?
-
-
-             ... that
-a l t h o u g h
-             the  Siddhesvara
-        Temple (pictured) in
-Karnataka,   India,
-             is  currently  a
-                  temple of Shiva,
-        historians   are
-                  u  n  s  u  r  e
-             of   its
-             o r i g i n a l
-             f   a   i   t   h   ?
-
-
-                  .   .   .   t   h   a   t
-             T  a  r  g  e  t
-        for Tonight
-w   a   s
-a
-                  1941 documentary filmed,
-        acted,  and
-             written by
-the   Royal
-                  A i r
-             F   o   r   c   e   ?
-
-
-             ...  that  French
-                  p   h   o   t   o   g   r   a   p   h   e   r
-Robert Demachy took
-hundreds of
-                  p   h   o   t   o   g   r   a   p   h   s
-        a  n  d
-        wrote more
-t   h   a   n
-        a  thousand  articles
-o  n
-             photography,  but
-             s u d d e n l y
-                  gave up the
-                  subject  without
-             a   n   y
-e   x   p   l   a   n   a   t   i   o   n   ?
-
-
-        ...that  after
-             Norman  Rockwell's
-             Four   Freedoms
-             were published in
-                  the   Saturday
-E v e n i n g
-             P   o   s   t   ,
-                  25 million
-people  bought
-                  posters of
-                  t h e m ?
-
-
-                  . . .
-                  that petitions
-        called  for
-        t h e
-             firing of Ohio
-             S   t   a   t   e
-athletic   director   Dick
-                  L   a   r   k   i   n   s
-             when   he
-hired little-known football
-                  coach  Woody  Hayes
-             in   1951
-             instead   of   Paul
-             B  r  o  w  n  ?
-
-
-                  ...that Patrick Ivuti's
-photo   finish   victory
-             in   the   2007
-Chicago  Marathon,
-        o n e
-             of the
-             five   major
-             m  a  r  a  t  h  o  n  s  ,
-        was   his
-             f   i   r   s   t
-                  m  a  r  a  t  h  o  n
-        v  i  c  t  o  r  y  ?
-
-
-        ...that Maria Kazimiera,
-             t h e
-        17th-century   Queen
-                  of Poland, became
-             f a m o u s
-for   the
-love letters she
-        and  her  husband,
-K i n g
-                  J  a  n
-        I   I   I
-             Sobieski,  wrote
-                  t   o
-e  a  c  h
-        o t h e r ?
-
-
-                  ...that   the   first
-                  Slavonic  translations
-             of   the
-Bible  were  prepared
-             by  Saints
-             C y r i l
-                  and  Methodius
-i   n
-        the 9th
-        c  e  n  t  u  r  y  ?
-
-
-...  that
-             C y c l o n e
-Rosie was
-             t h e
-f  i  r  s  t
-             ever  tropical
-c   y   c   l   o   n   e
-                  to   be
-                  monitored  by  the
-Tropical  Cyclone
-Warning  Center  in
-        J a k a r t a ?
-
-
-...   that
-10,000 people were
-                  e m p l o y e d
-in  the  1830s
-             simply to
-             b  u  i  l  d
-canals  by
-        t  h  e
-Indiana   Mammoth   Internal
-                  I   m   p   r   o   v   e   m   e   n   t
-A   c   t   ?
-
-
-        ...that   the
-             p   r   e   f   a   c   e
-                  of   a
-        book   written   by
-Saint   Goeznovius   is
-                  an   important
-        document  in
-             e  s  t  a  b  l  i  s  h  i  n  g
-a  historical
-        b  a  s  i  s
-        for   the   mythical
-        B  r  i  t  i  s  h
-             king,   King
-        A   r   t   h   u   r   ?
-
-
-                  ...that  the  Texas
-                  S   t   a   t   e
-                  University labor
-        historian  Gregg  Andrews
-                  is  also  a
-                  folk musician
-performing  under
-                  the  name  "Doctor
-                  G " ?
-
-
-        ... that Beninese
-physician Basile
-        Adjou Moumouni won
-        his  country's
-1968  presidential  election
-                  with 80¬†percent of
-        t  h  e
-             vote  only  to
-        have   the
-             results annulled by
-                  incumbent   Alphonse
-        A  m  a  d  o  u
-             A l l e y ?
-
-
-... that in
-the  Bombay  Presidency,
-                  t  h  e
-famine  of
-             1  8  9  9  ‚  Ä  ì  1  9  0  0
-had   the   highest
-                  mortality‚Äîat 37.9
-                  deaths  per
-        1000‚Äîamong all
-             famines  and  scarcities
-             b e t w e e n
-1876  and
-1 9 1 9 ?
-
-
-...  that  hwajeon
-        (pictured)   is
-                  a  sweet
-             K o r e a n
-pancake or
-             rice cake
-        m a d e
-             of   edible   flower
-                  petals, glutinous rice
-             f   l   o   u   r   ,
-                  a  n  d
-             s u g a r ?
-
-
-             .  .  .
-             that  stencils
-known   as   Emp√®gue
-             (pictured)  were
-placed   by
-        youths  on  houses
-                  in   Beauvoisin,
-        France   in
-                  A   u   g   u   s   t
-        2  0  0  0  ?
-
-
-             ...that with the
-        T  r  u  s  t  y
-             system of prison
-             l   a   b   o   r
-        a   t
-Mississippi State
-                  P e n i t e n t i a r y ,
-t   h   e
-1,900-inmate prison
-        was staffed
-             a  n  d
-        its  16,000
-a c r e s
-             o   f
-             crops  farmed  with
-             only   150   paid
-                  e  m  p  l  o  y  e  e  s  ?
-
-
-                  ... that the
-H   a   r   r   i   s
-        T h e a t e r
-                  (pictured)  is
-                  t   h   e
-             first new
-             performing  arts
-             venue   built
-             i  n
-                  downtown   Chicago,   Illinois
-                  s   i   n   c   e
-1 9 2 9 ?
-
-
-             .   .   .   t   h   a   t
-             it took
-        38   years
-        t  o
-                  build   the   Indiana
-        World   War
-Memorial   (pictured),   which
-        deteriorated   during   its
-        b u i l d i n g ?
-
-
-        .  .  .
-             t h a t
-                  each  country
-                  who  participated
-i  n
-             M G P
-        Nordic 2008
-entered two songs,
-                  rather  than  one,
-        t   o
-m a k e
-             t   h   e
-                  c   o   n   t   e   s   t
-                  b  i  g  g  e  r  ?
-
-
-        ...that   British   barrister
-             S i r
-             Tony   Hetherington   was
-                  the  first  head
-             of the Crown
-                  Prosecution   Service   after
-it   was
-        f  o  u  n  d  e  d
-                  i n
-1   9   8   6   ?
-
-
-                  ...   that   while
-             Captain  Horatio
-                  N   e   l   s   o   n
-        was   initially
-                  e n t h u s i a s t i c
-             about his
-                  new command HMS
-             Albemarle, his more
-experienced uncle, Maurice
-S   u   c   k   l   i   n   g   ,
-                  e  x  p  r  e  s  s  e  d
-d  o  u  b  t  s  ?
-
-
-             .  .  .
-             that   Israeli
-        actress   Hanna   Maron
-                  l   o   s   t
-        her   leg   after
-                  a   grenade
-             was   thrown   at
-             her airplane, but
-        resumed   her   acting
-             career a year
-             l a t e r ?
-
-
-
-
-        ...that  a
-Mercedes   roadster
-w  a  s
-        colloquially  named
-             a f t e r
-a   wealthy   German
-        call  girl,
-             R o s e m a r i e
-             N  i  t  r  i  b  i  t  t  ,
-        who was
-                  m  u  r  d  e  r  e  d
-        in Frankfurt in
-        1  9  5  7  ?
-
-
-                  ...that  Chinese
-                  p  r  e  m  i  e  r
-Zhou  Enlai  barely
-e v a d e d
-             an   assassination
-                  a  t  t  e  m  p  t
-o   n
-                  him  in  1955,
-which  killed
-1  6
-             p  e  o  p  l  e  ?
-
-
-...   that   King's
-Mill on
-             the  River
-        Trent was used
-t o
-             grind  flints  for
-                  the   pottery
-                  i  n  d  u  s  t  r  y  ?
-
-
-                  ... that
-                  Spanish   American
-                  cardiologist  Valentin  Fuster
-        is  the
-             only   cardiologist   to
-receive  all
-four major
-                  research   awards
-             f r o m
-        the  world's
-                  f   o   u   r
-                  major cardiovascular
-o  r  g  a  n  i  z  a  t  i  o  n  s  ?
-
-
-. . . t h a t
-        Chicago politician
-        Giuseppe   Esposito   was
-                  shot  and
-        killed  in
-f   r   o   n   t
-of  his
-family during
-             the  1928  Republican
-             P i n e a p p l e
-        P   r   i   m   a   r   y   ?
-
-
-...   that
-Canadian   supermodel   Yasmeen
-        Ghauri was the
-                  daughter   of   an
-             Islamic cleric who
-                  opposed his
-        d   a   u   g   h   t   e   r   '   s
-             c a r e e r ?
-
-
-
-
-
-
-        ...that  in  late
-1   9   9   2   ,
-the German Federal
-        Ministry  of
-                  the   Interio   banned
-                  the   neo-Nazi   groups
-                  German   Alternative   (DA),
-        Nationalist Front (NF),
-                  German  Comradeship  Alliance
-        (   D   K   B   )   ,
-        and the National
-Offensive  (NO)
-                  a   l   l
-within a
-             m   o   n   t   h   ?
-
-
-        .  .  .
-                  t  h  a  t
-√âmile Boga Doudou
-        was   killed
-                  on  September
-                  1  9  ,
-        2002   in   Abidjan
-                  i   n
-the worst outbreak
-             of   violence   in
-                  C  o  t  e
-             d'Ivoire since a
-        m   i   l   i   t   a   r   y
-c  o  u  p
-d   '   e   t   a   t
-i  n
-        1   9   9   9   ?
-
-
-                  .   .   .
-             that the bombardment
-o   f
-             B r u s s e l s
-             b y
-                  French   troops   (ruins
-             pictured) in
-1695 was later
-             d  e  s  c  r  i  b  e  d
-                  b  y
-        Napoleon Bonaparte
-                  as   being   "as
-        b  a  r  b  a  r  o  u  s
-a s
-                  it was
-             u   s   e   l   e   s   s   ?   "
-
-
-             ...that   American   luger
-        Tony  Benshoof
-        s e t
-                  the  fastest  recorded
-        luge speed at
-             the  bobsleigh,  luge,
-             a  n  d
-             skeleton track used
-                  f  o  r
-             the  2002  Winter
-Olympics   when   he
-                  reached   86.6   mph
-             (139.5 km/h) in
-                  O  c  t  o  b  e  r
-                  2   0   0   1   ?
-
-
-                  ...that, in his
-                  book  Mauve  Gloves
-&   Madmen,
-C  l  u  t  t  e  r
-             &  Vine,  Tom
-                  Wolfe   famously
-             called   Jimmy   Carter
-                  a
-             "Missionary  lectern¬≠pounding
-Amenten-finger   C-major
-c  h  o  r  d
-                  Sister-Martha-at-the-Yamaha  keyboard  loblolly
-             p i n e y ¬ ≠ w o o d s
-                  B  a  p  t  i  s  t  "  ?
-
-
-        ... that De
-             Doctrina Christiana, identified
-        a  s
-John   Milton's   attempt
-to define his
-own particular Christian
-             theology,  was  suppressed
-                  by  the
-        g o v e r n m e n t
-        of the day
-        a n d
-not published
-u  n  t  i  l
-             150  years  after
-h   i   s
-                  d   e   a   t   h   ?
-
-
-        .  .  .
-        that  Hall
-of   Fame   basketball
-             c  o  a  c  h
-                  C l a r e n c e
-"Big  House"
-                  G  a  i  n  e  s
-                  originally  planned
-to   become   a
-        dentist before
-        t  a  k  i  n  g
-                  on  a
-t e m p o r a r y
-        coaching  job
-             that lasted
-                  4   7
-        y  e  a  r  s  ?
-
-
-             ...that   the   Thunderbirds,
-the  U.S.  Air
-        Force's   Demonstration   Squadron,
-selected   Brigadier   General
-Ricardo Aponte
-(   p   i   c   t   u   r   e   d   )
-                  as   their   Spanish
-                  language   narrator
-             for   the   Latin
-America  Tour
-                  o  f
-             1  9  9  2  ?
-
-
-.  .  .
-that India
-        has   developed
-             close bilateral relations
-                  with  Burma
-             w i t h
-             the  aim  of
-                  countering China's growing
-influence   and   to
-             e   l   e   v   a   t   e
-                  itself as
-        a
-             r   e   g   i   o   n   a   l
-             p o w e r ?
-
-
-.  .  .  t  h  a  t
-        after  the  defeat
-                  of  Nazi  Germany,
-the   Free
-             Republic   of   Schwarzenberg
-             e  x  i  s  t  e  d
-             f o r
-                  s  o  m  e
-                  time in an
-a  r  e  a
-             that  Allied
-             forces   neglected   to
-                  o  c  c  u  p  y  ?
-
-
-
-
-        .   .   .
-that  one
-             n  o  v  e  l  t  y
-of  Hans  Gieng's
-                  1543 statue on
-             t  h  e
-             F  o  u  n  t  a  i  n
-                  of Justice (pictured)
-             i n
-             Berne  was
-             the   portrayal   of
-        Lady Justice as
-b  l  i  n  d  f  o  l  d  e  d  ?
-
-
-                  .  .  .
-             that  Tookoolito
-(pictured) and
-                  her companion were
-        advertised as
-        "Esquimaux Indians...
-             from the
-        arctic regions" and
-e x h i b i t e d
-                  a t
-             Barnum's  American  Museum
-i n
-1 8 6 2 ?
-
-
-...that Italy
-             mafioso  Antonino  Calderone
-             ( p i c t u r e d )
-was the
-                  first  pentito  to
-                  p r o v i d e
-                  details on Mafia
-operations in
-C  a  t  a  n  i  a  ?
-
-
-...that   the   Vefa
-Kilise   Mosque
-(pictured)  in
-        Istanbul  is  one
-             of  the
-                  first  examples
-of byzantine
-churches of Constantinople
-                  which   were
-        converted   into
-m o s q u e s
-             by the
-             O t t o m a n s ?
-
-
-.   .   .
-             that   the
-1989   New   Jersey
-             School   Report   Card
-was  the  first
-                  r  e  p  o  r  t
-        to  make  statistics
-s u c h
-                  a s
-standardized  test  scores,
-        s   t   u   d   e   n   t   -   t   e   a   c   h   e   r
-             ratio,   and   cost
-        o   f
-        public schools
-                  available   to   all
-                  taxpayers   in
-             the   United
-             S t a t e s ?
-
-
-                  ...that  the  Top
-             1  4
-        competition in
-                  French  rugby  union
-will  test  a
-             change to the
-sport's   bonus
-                  point   system   in
-                  t   h   e
-upcoming   2007-08
-        s e a s o n ?
-
-
-
-
-.   .   .
-that  primitive
-w e e v i l s
-             of   the
-             Aglycyderini,  Metrioxenini
-                  and   Oxycorynini   tribes
-are  believed
-        t  o
-have   evolved   in
-             the   Late   Cretaceous
-             or  perhaps
-        Paleocene period, some
-                  1 0 0 - 6 0 ¬ † m i l l i o n
-        y   e   a   r   s
-        a  g  o  ?
-
-
-                  ...   that
-Serenity High School,
-                  the   oldest
-public substance-abuse recovery
-h   i   g   h
-             s  c  h  o  o  l
-                  in Texas,
-                  has  served
-        s t u d e n t s
-             f  r  o  m
-        o  v  e  r
-25 area
-             high  schools  since
-opening   in
-             1   9   9   9   ?
-
-
-             ...   that   oil
-a n d
-                  natural  gas
-        extraction   and
-                  e  x  p  l  o  r  a  t  i  o  n
-w i l l
-c e a s e
-by 2017 in
-                  Hay-Zama   Lakes,
-        a n
-        i n l a n d
-                  wetland   in
-             A  l  b  e  r  t  a  ,
-             Canada, and the
-        p   r   o   v   i   n   c   e   '   s
-             only  site
-             for   the   re-introduction
-        o f
-                  W o o d
-             B i s o n ?
-
-
-             ...that former
-        Ghana  MP  Eric
-             Amoateng  was  arrested
-        i   n
-                  the   United   States
-        and  has  pled
-guilty   to
-        d  r  u  g
-t  r  a  f  f  i  c  k  i  n  g  -  r  e  l  a  t  e  d
-             c h a r g e s ?
-
-
-        ...  that  Vittorio
-Sella‚Äôs  images
-                  of  mountains  (example,
-             S  i  n  i  o  l  c  h  u  ,
-             pictured)   were   described
-             b y
-             fellow   photographer
-                  Ansel  Adams
-        as  inspiring
-        "a definitely religious
-        a w e " ?
-
-
-                  ...that  The  Log
-        f  r  o  m
-             the Sea
-of  Cortez
-        documents a
-             t  r  i  p
-        taken  by
-                  J  o  h  n
-Steinbeck and
-Ed Ricketts around
-the Gulf of
-                  California, but
-             neither   is   mentioned
-             by   name   in
-        t   h   e
-b  o  o  k  ?
-
-
-             ...that  the  conventional
-             n a m e
-o  f
-        t  h  e
-        D  a  r  i  u  s
-                  Painter,   an   Apulian
-red-figure vase painter,
-                  is derived from
-             his   name   vase,
-                  which carries
-                  t h e
-        depiction of
-        Darius   the   Great
-o   f
-P  e  r  s  i  a  ?
-
-
-             ...that  Rev
-                  W   i   l   l   i   a   m
-        C  o  t  t  o  n  ,
-             v i c a r
-             o f
-F   r   o   d   s   h   a   m   ,
-Cheshire, introduced
-        the  skills  of
-                  beekeeping  to
-N e w
-             Zealand in the
-        1 8 4 0 s ?
-
-
-        ...that  the
-             Augustinian  monk  Dionigi
-             di   Borgo
-        S  a  n
-                  S   e   p   o   l   c   r   o
-                  arranged  for  the
-crowning   of
-        Francesco Petrarch as
-             t  h  e
-f i r s t
-        p o e t
-                  laureate   since
-                  a n t i q u i t y ?
-
-
-        . . . t h a t
-                  A   n   d   r   √   ©
-             Maginot, for whom
-        t   h   e
-             M  a  g  i  n  o  t
-             Line was named,
-                  was awarded
-t  h  e
-M√©daille militaire for
-valor during World
-                  W a r
-        I ?
-
-
-. . . t h a t
-the  first  ever
-        Representative  Assembly
-             in  19th  century
-British   India   was
-                  f  o  r  m  e  d
-        in  the  Kingdom
-                  o   f
-                  M y s o r e ?
-
-
-
-
-.  .  .  t  h  a  t
-Swiss   dissident   Ami
-P  e  r  r  i  n
-        w   a   s
-             the   leader   of
-             t  h  e
-                  Libertine faction
-which rebelled
-                  a g a i n s t
-                  J   o   h   n
-             Calvin's   theocratic
-rule of Geneva
-        i   n
-1   5   5   1   ?
-
-
-                  ... that the
-        Michigan Tech
-        Huskies,  from
-        M   i   c   h   i   g   a   n   '   s
-             Upper   Peninsula,
-             have   won   three
-        NCAA   Division   I
-        c   h   a   m   p   i   o   n   s   h   i   p   s
-                  in  ice
-             hockey,  with  players
-        s u c h
-        as  Tony
-                  E s p o s i t o ?
-
-
-             ...  that  Brazilian
-             n   u   r   s   i   n   g
-                  assistant   Edson
-I   s   i   d   o   r   a
-Guimaraes   is
-                  t   h   o   u   g   h   t
-        to   have
-                  k i l l e d
-        p   a   t   i   e   n   t   s
-        i n
-             a  hospital
-                  in  S√£o  Paulo
-             b   e   c   a   u   s   e
-a
-f  u  n  e  r  a  l
-                  home was paying
-             h   i   m
-                  $60  a  time
-                  for  the  relatives'
-                  c o n t a c t
-        d  e  t  a  i  l  s  ?
-
-
-             ...that  British  banker,
-                  Conservative   MP,   and
-        conservationist Sir John
-             Lindsay  Eric  Smith
-             founded the
-             L a n d m a r k
-        T   r   u   s   t
-                  i  n
-                  1 9 6 5 ?
-
-
-                  . . . t h a t
-             t h e
-             Shell Service
-Station   (picturedImage:Shell
-        S e r v i c e
-S  t  a  t  i  o  n  -  W  S
-NC.JPG)  in
-             W   i   n   s   t   o   n   -   S   a   l   e   m   ,
-             N o r t h
-Carolina  was  chosen
-             for the
-        National  Register  of
-                  Historic  Places  as
-        a n
-example  of  folly
-                  architecture,  and
-        over $50,000 has
-        been   spent   restoring
-             it to
-i t s
-                  o   r   i   g   i   n   a   l
-        c  o  n  d  i  t  i  o  n  ?
-
-
-        ... that
-             S  c  o  t  t
-             Smith is
-             t   h   e
-                  f i r s t
-person   since   1966
-        t o
-b  e
-                  e l e c t e d
-                  Mayor   of   Mesa,
-             Arizona without having
-             f   i   r   s   t
-             served  on  its
-        C i t y
-        C o u n c i l ?
-
-
-...that a
-                  Drascombe   (Drascombe
-                  Dabber   pictured)   is
-             a
-                  c   l   a   s   s
-             of  small
-             sailing boats
-        designed   by
-        J  o  h  n
-             W   a   t   k   i   n   s   o   n   ?
-
-
-                  . . . t h a t
-        the   first   time
-             t   h   a   t
-racing   promoter   Bob
-        Barkhimer  went
-                  to  a
-midget  car
-             race, he
-                  wondered   what   racing
-                  h  a  d
-             to do
-             with   "circus   midgets"
-        (  l  i  t  t  l  e
-        p e o p l e ) ?
-
-
-             ...  Part  6
-             o  f
-        the  Tribunals,
-        Courts   and
-             E n f o r c e m e n t
-Act  2007
-        was rushed
-through,  which  enabled
-        the   Russian   government
-             to   allow
-        M  a  t  i  s  s  e  '  s
-                  painting  of  The
-        Dance  into
-t   h   e
-U  K  ?
-
-
-                  ...that L√©once Perret
-        was   a   prominent
-                  movie   director
-                  and  actor,
-                  involved  in  more
-than 400 films
-        from  1909
-t   o
-        1  9  3  5  ?
-
-
-             ...  that
-the  Ashtamudi  Lake
-             is   the   second
-             l a r g e s t
-                  and deepest
-             wetland   ecosystem   in
-        K e r a l a ,
-             I   n   d   i   a   ?
-
-
-...that Turkish-German professional
-b   o   x   e   r
-                  H√ºlya ≈ûahin, the
-                  u  n  d  e  f  e  a  t  e  d
-junior  flyweight
-        world   champion,   is
-             the   only   female
-                  member of her
-             c l u b
-U   n   i   v   e   r   s   u   m   ?
-
-
-.  .  .  t  h  a  t
-                  New Zealand photographer
-             L a u r e n c e
-                  Aberhart  uses  an
-             obsolete   camera   and
-        photographic paper
-                  that   no   longer
-e  x  i  s  t  s  ?
-
-
-             ...that  the  legend
-o  f
-        the  smuggler  Cruel
-             Coppinger was
-                  embellished by Reverend
-             R   o   b   e   r   t
-                  Stephen  Hawker
-        when  he
-                  p   u   b   l   i   s   h   e   d
-it  in
-             1   8   6   6   ?
-
-
-                  .  .  .
-                  t   h   a   t
-        t  h  e
-                  airship Patrie
-                  (pictured) broke free
-                  from   its   moorings
-             at  Souhesmes,
-                  France, blew across
-England,   Wales   and
-Northern Ireland, and
-        w a s
-        eventually   lost
-             in the
-        A t l a n t i c
-                  O   c   e   a   n   ?
-
-
-...that the
-        Alexander Suvorov
-             cruise   ship
-stayed afloat despite
-        its  crash  into
-                  a girder
-                  of   Ulyanovsk   railway
-bridge that
-                  lead   to
-                  1  7  7
-                  d  e  a  t  h  s  ,
-        a   n   d
-is  still  in
-             working order
-t   o   d   a   y   ?
-
-
-                  ¬  †
-
-
-... that in
-        a d d i t i o n
-                  to  his  academic
-             work,  Norwegian  history
-                  professor √òystein
-        S√∏rensen  is  considered
-                  an   expert
-             on  the  Donald
-             D u c k
-                  u   n   i   v   e   r   s   e   ?
-
-
-             ...that when
-             the Menier company
-             built  the  first
-mass production
-        plant   for
-c  h  o  c  o  l  a  t  e
-                  in 1830, it
-was the
-                  l a r g e s t
-chocolate   manufacturing   company
-        i  n
-t   h   e
-             w   o   r   l   d   ?
-
-
-        .   .   .   t   h   a   t
-Communist Romania's
-             f  i  r  s  t
-             Finance  Minister,  Vasile
-Luca,  arrested
-             in  1952  for
-        having  opposed
-             the  devaluation
-                  of   the   Romanian
-l   e   u   ,
-             was   rehabilitated   five
-y  e  a  r  s
-        after his
-d  e  a  t  h
-                  i  n
-             p  r  i  s  o  n  ?
-
-
-                  ...that  Enrico  Fermi
-        w  a  s
-awarded  the
-        Hughes Medal
-                  i n
-             1  9  4  2  ?
-
-
-             ...that   in   Tennard
-                  v. Dretke,
-             the U.S. Supreme
-                  Court ruled it
-             a
-             cruel and unusual
-                  punishment to
-             ignore the
-             defendant's mental retardation
-                  in  sentencing  the
-                  d  e  a  t  h
-                  p   e   n   a   l   t   y   ?
-
-
-        .  .  .  t  h  a  t
-        Mongolian   barbecue   is
-        neither  Mongolian
-        nor   barbecue   but
-        is   a   restaurant
-style  of  stir-frying
-b  a  s  e  d
-             on teppanyaki
-        that  originated  in
-T   a   i   w   a   n   ?
-
-
-             ...that the
-P e o p l e ' s
-        Park  Complex  was
-the   first
-        shopping  mall
-        i n
-                  S i n g a p o r e
-t o
-incorporate   a   large
-                  internal   atrium,
-             based   on   the
-Metabolist Movement
-             o f
-        t  h  e
-             1   9   6   0   s   ?
-
-
-             .  .  .
-        t h a t
-a
-                  2 0 0 7
-treaty significantly
-                  m   o   d   i   f   i   e   d
-Indo-Bhutanese   relations
-by  reducing
-I  n  d  i  a  '  s
-                  g u i d i n g
-                  r   o   l   e
-             o   v   e   r
-                  Bhutan's   foreign
-             p   o   l   i   c   y   ?
-
-
-             . . .
-                  that Steven
-             H o e f f l i n
-             grafted skin
-             to   Michael
-             J a c k s o n ‚ Ä ô s
-                  s  c  a  l  p
-after   the
-        singer   was
-                  b u r n t
-                  d u r i n g
-        t  h  e
-        filming   of   a
-                  Pepsi   commercial
-i   n
-                  1   9   8   4   ?
-
-
-...that Six Flags
-             Magic   Mountain   amusement
-                  p  a  r  k
-             in California
-        was initially
-                  b u i l t
-        and  run
-                  in   the
-        1970s by the
-        N  e  w  h  a  l  l
-             L   a   n   d
-             and   Farming
-             C   o   m   p   a   n   y   ?
-
-
-             .  .  .  t  h  a  t
-t h e
-                  authorship   of   the
-        Declaration of Arbroath
-             h  a  s
-                  been   attributed   by
-some   to   Bernard
-                  t h e
-             Abbot   of
-             A r b r o a t h ?
-
-
-
-
-                  . . . t h a t
-                  the influence of
-        wine  critic  Robert
-F i n i g a n
-                  d e c l i n e d
-             when he panned
-the  1982  Bordeaux
-                  vintage, which
-                  Robert   Parker
-                  described  as  one
-of  greatest
-                  o f
-t   h   e
-c   e   n   t   u   r   y   ?
-
-
-             ... that
-        the   analysis   of
-             t   h   e
-             F  S  H  -  r  e  c  e  p  t  o  r
-        (pictured)  benefited  from
-        the   work   by
-        G  i  l  m  a  n
-                  and  Rodbell  for
-                  which they
-w   o   n
-        t  h  e
-             1  9  9  4
-             Nobel Prize in
-M   e   d   i   c   i   n   e
-        a n d
-             P   h   y   s   i   o   l   o   g   y   ?
-
-
-                  . . . t h a t
-                  t  e  m  p  e  r  a  t  u  r  e
-        extremes   in   Minnesota
-        have varied from
-                  ‚àí60¬†¬∞F  (‚àí51¬†¬∞C)
-             to  114¬†¬∞F
-                  (  4  6  ¬  †  ¬  ∞  C  )  ?
-
-
-        ...that,  owing
-to Henry
-B   a   b   s   o   n   '   s
-             selective   breeding
-        work, thousands
-of  Arabian  horses
-        today have "Babson-influenced"
-b  l  o  o  d  l  i  n  e  s  ?
-
-
-                  ...  that
-        the Catskill Escarpment
-                  is  the
-             only  clearly  defined
-b   o   u   n   d   a   r   y
-        o  f
-                  t   h   e
-C   a   t   s   k   i   l   l
-             M   o   u   n   t   a   i   n   s   ?
-
-
-             ...  that,
-                  according to
-        the  modern  historian
-        Bo  Yang,  the
-             large  body
-                  of petitions
-             w   r   i   t   t   e   n
-                  by  Tang  Dynasty
-        c  h  a  n  c  e  l  l  o  r
-                  Lu  Zhi  was
-             important to understanding
-                  m   i   d   -   T   a   n   g
-                  l   i   f   e   ?
-
-
-             ... that Laila
-Goody   has   been
-called "Norway's most
-        awarded   young
-             a  c  t  r  e  s  s  "  ?
-
-
-        ...that  its
-             central location
-                  as a
-             t  r  a  n  s  p  o  r  t  a  t  i  o  n
-hub   for
-        t h e
-             United  States  led
-        to the branding
-                  of  Omaha,
-             Nebraska as the
-                  "   G   a   t   e   w   a   y
-             C   i   t   y
-of the
-             W   e   s   t   "   ?
-
-
-...that the Spanish
-shepherd  Diego
-Mar√≠n  Aguilera  attempted
-        f l i g h t
-i n
-a manned
-             g  l  i  d  e  r
-                  on  May  15,
-        1793 after
-j   u   m   p   i   n   g
-                  from a castle
-                  at   Coru√±a
-        d  e  l
-C  o  n  d  e  ?
-
-
-...that the
-                  B   a   t   t   l   e
-of   Nisibis   in
-217   AD,   the
-last battle
-        fought  between  the
-             R o m a n
-Empire  and
-        t  h  e
-P   a   r   t   h   i   a   n   s   ,
-        lasted for three
-days   and
-ended  in  a
-             d r a w ?
-
-
-                  ...that   the   Zionist
-l e a d e r
-L  e  o
-Motzkin   organized
-             the Jewish
-                  d   e   l   e   g   a   t   i   o   n
-             to  the  Paris
-        Peace Conference,
-1  9  1  9
-        a   n   d
-             led agitations
-                  against  the
-N   a   z   i
-                  P  a  r  t  y  ?
-
-
-                  ...   that
-        at   one
-time,   Toronto's   Sunnyside
-        B a t h i n g
-             Pavilion was
-                  the  largest  outdoor
-                  swimming pool in
-t   h   e
-        w   o   r   l   d   ?
-
-
-...that   Yury   Dmitrievich
-             was   responsible   for
-             t   h   e
-destruction of the
-             T  a  t  a  r
-                  trade  emporium  at
-        Zhukotin   on   the
-        K  a  m  a
-                  R i v e r ?
-
-
-                  .  .  .  t  h  a  t
-             t  h  e
-                  e  r  a
-        of  the
-                  oil  gusher
-             (   p   i   c   t   u   r   e   d   )
-came  to  an
-        e  n  d
-        with  the  development
-        of   the   first
-             b l o w o u t
-             preventer   in
-                  1  9  2  4  ?
-
-
-.   .   .   t   h   a   t
-historic   memorabilia   from
-the  Polish  National
-        Museum in Rapperswil,
-             Switzerland   were   shipped
-in   1927
-        to the newly
-             independent  Poland,
-                  only  to  be
-l a r g e l y
-d  e  s  t  r  o  y  e  d
-                  d   u   r   i   n   g
-             World   War
-        I  I  ?
-
-
-        .   .   .
-             that   an
-        electronic  opera
-                  R  a  a  b
-                  b   y
-                  t  h  e
-             Czech composer
-             Jaroslav Krƒçek was
-             b  a  n  n  e  d
-        b  y
-the  communist  regime
-i  n
-             1 9 7 2 ?
-
-
-                  .   .   .   t   h   a   t
-        Rear-Admiral   Henry
-Blagrove, who
-        d   i   e   d
-             in   the
-                  destruction  of  HMS
-Royal Oak in
-             October  1939,  was
-        the first Royal
-        Navy   flag   officer
-killed  in  the
-             Second  World
-             W  a  r  ?
-
-
-
-
-        ...  that  it
-             was largely the
-                  zeal  of
-B i s h o p
-                  Russell   McVinney   of
-Providence  that
-        reestablished the American
-             College   of   the
-Immaculate   Conception
-             i n
-             Belgium  in
-             1   9   5   2   ?
-
-
-             ...that   Jane   Austen's
-             ( p i c t u r e d )
-        novels  increased
-        d   r   a   m   a   t   i   c   a   l   l   y
-                  in   popularity   after
-                  the   publication   of
-             her   nephew's   A
-        M e m o i r
-        of Jane Austen
-        i  n
-        1   8   7   0   ?
-
-
-.   .   .
-        that  anti-homeless
-                  laws may take
-                  on  the  form
-             of  restricting  public
-        sleeping   (pictured),   prohibiting
-                  b   e   g   g   i   n   g   ,
-        or relocating
-        t  h  e
-             h  o  m  e  l  e  s  s  ?
-
-
-        ...that  in
-             one   of   the
-first   tests
-of Hajile,
-                  an   experimental   British
-             World War II
-             retrorocket   system,
-a   gigantic
-b  l  o  c  k
-        of  concrete
-                  was dropped
-        through   the   roof
-             of   the   workshop
-                  f   r   o   m
-             2   0   0   0   ¬   †   f   t   ?
-
-
-...that Rolf
-Dudley-Williams helped set
-        u p
-        the company
-        w  h  i  c  h
-             m  a  n  u  f  a  c  t  u  r  e  d
-the  world's
-                  first  working
-             j  e  t
-             e  n  g  i  n  e  ?
-
-
-             ...that   the
-             Ramban  Synagogue,  founded
-             b y
-             Nahmanides in 1267,
-             is the oldest
-active synagogue
-in the Old
-        City   of
-J  e  r  u  s  a  l  e  m  ?
-
-
-             ...   that
-                  when Test
-                  cricket  twins
-Mark  and
-Steve   Waugh   played
-t  o  g  e  t  h  e  r
-                  in  their
-        first ever match,
-they  both
-s c o r e d
-             d   u   c   k   s   ?
-
-
-             .   .   .   t   h   a   t
-             the Main Building
-                  o f
-             Peace College
-                  w  a  s
-                  first  used  as
-a Confederate
-        military  hospital  and
-                  r   e   g   i   o   n   a   l
-                  h   e   a   d   q   u   a   r   t   e   r   s
-                  for  the  Freedmen's
-B   u   r   e   a   u   ?
-
-
-                  ...   that   the
-                  constant  k
-                  filter   was   invented
-        b   y
-                  G e o r g e
-        Campbell   but   named
-b  y
-Otto Zobel,
-        t  h  e
-             inventor  of
-        the m-derived
-filter ‚Äì
-             b o t h
-        u  s  e  d
-             in  composite  image
-f  i  l  t  e  r  s  ?
-
-
-        . . . t h a t
-                  according   to   Statistics
-Canada,   60¬†percent   of
-             Canadians   are
-        W   h   i   t   e   ?
-
-
-
-
-.  .  .  t  h  a  t
-                  Kasztanka,  Polish
-        M  a  r  s  h  a  l
-        J√≥zef   Pi≈Çsudski's
-             f  a  v  o  r  i  t  e
-combat   mare,   (pictured)
-was stuffed
-upon   her   death
-                  in 1927
-                  and after
-World   War
-             II  was
-             destroyed allegedly on
-the   orders   of
-                  Pi≈Çsudski's   enemy,   Marshal
-                  M   i   c   h   a   ≈   Ç
-R o l a - ≈ ª y m i e r s k i ?
-
-
-             ...that   male
-        Shortnose  sturgeon  (pictured)
-                  b   r   e   e   d
-                  annually   and
-                  live   to   age
-                  30,   while   females
-             b   r   e   e   d
-triennially  and
-                  l  i  v  e
-        t  o
-                  a   g   e
-6  7  ?
-
-
-             ...that  the
-             A   c   a   d   e   m   y
-                  o   f
-        M u s i c
-                  in  Warsaw
-                  (  p  i  c  t  u  r  e  d  )  ,
-                  the oldest and
-        largest   music   school
-             in  Poland,  is
-named   after   the
-        most  famous
-             of  its  students,
-                  F   r   y   d   e   r   y   k
-C  h  o  p  i  n  ?
-
-
-        ...  that
-        the  6th-century  Archangel
-             ivory   (pictured),
-                  depicting  the
-             archangel   Michael   holding
-                  a
-sceptre and imperial
-                  orb,  is
-t  h  e
-                  l a r g e s t
-surviving   Byzantine   ivory
-             c   a   r   v   i   n   g   ?
-
-
-.   .   .   t   h   a   t
-                  t  h  e
-             C  a  n  a  d  i  a  n
-        T   o   m   b
-             of  the
-                  U n k n o w n
-                  S   o   l   d   i   e   r
-                  contains  the
-             r   e   m   a   i   n   s
-        of  a
-        Canadian  soldier
-w h o
-             died  in  France
-d u r i n g
-W o r l d
-                  W  a  r
-I   ?
-
-
-.  .  .
-             t  h  a  t
-although  the
-C   h   a   p   e   l
-                  R o y a l ,
-                  Brighton  was
-built  to  encourage
-the  Prince
-                  Regent   to
-                  attend   church
-        while   in
-             Brighton,  he
-        stopped worshipping there
-        a   f   t   e   r
-                  being   offended
-                  b   y
-             a   controversial
-s e r m o n ?
-
-
-        ...   that
-        by   the
-t  i  m  e
-        he  graduated
-                  f  r  o  m
-                  medical  school,
-Patrick   David   Wall
-                  h   a   d
-        already   published
-        three  papers  in
-                  prominent  scientific
-        j o u r n a l s ?
-
-
-                  ...that  the
-        Gate   Church   of
-             t h e
-                  T r i n i t y
-                  (  p  i  c  t  u  r  e  d  )  ,
-             originally  constructed
-as  an  ascetic
-             K   i   e   v   a   n
-Rus'   style
-                  church,  is  now
-             lavishly   decorated   with
-Ukrainian  Baroque  style
-        o  r  n  a  m  e  n  t  s  ?
-
-
-                  ...that   Jack   Fingleton,
-             a journalist who
-was press secretary
-                  to  former  Prime
-             M   i   n   i   s   t   e   r
-             of Australia
-                  Billy   Hughes,
-             represented   Australia
-             i n
-        T e s t
-                  c   r   i   c   k   e   t   ?
-
-
-
-
-        ...   that
-                  Jheryl  Busby,  once
-President and
-        CEO   of
-             M   o   t   o   w   n
-                  Records,   was
-             a   major   shareholder
-of  the
-             f  i  r  s  t
-A  f  r  i  c  a  n  -  A  m  e  r  i  c  a  n  -  o  w  n  e  d
-                  national  bank  in
-                  the U.S. along
-w  i  t  h
-             Janet   Jackson   and
-                  M   a   g   i   c
-             J   o   h   n   s   o   n   ?
-
-
-                  ...that   Sonjo,
-a   Bantu   language
-of northern
-Tanzania,   has   been
-             spoken  for
-        c e n t u r i e s
-in  an
-        isolated enclave in
-             M a a s a i
-        t   e   r   r   i   t   o   r   y   ?
-
-
-             .  .  .  t  h  a  t
-             i  n
-        Hindu mythology, after
-             Lakshmindara, son
-of Chand
-             Sadagar,   died
-o f
-snakebite on his
-             wedding night, his
-b   r   i   d   e
-             Behula accompanied
-             his  corpse  on
-a
-r  a  f  t
-                  f   l   o   a   t   i   n   g
-        i n
-        a
-                  r  i  v  e  r  ?
-
-
-                  ...that the
-                  C r e e p i n g
-        Groundsel  (pictured),  a
-                  c   l   i   m   b   i   n   g
-                  succulent   perennial   native
-o  f
-                  South   Africa,   is
-        a  problem
-                  weed in New
-                  Z e a l a n d ,
-             but cultivated in
-        p   a   r   k   s
-                  in  Spain  and
-                  G   e   r   m   a   n   y   ?
-
-
-                  ...   that
-e   v   e   r
-             since the
-                  G   r   i   f   f   i   n
-             v. California case
-                  in   the   U.S.
-        Supreme   Court,   judges
-                  and prosecutors
-        a  r  e
-             forbidden from mentioning
-                  t h a t
-                  a   defendant   has
-                  refused   to
-                  t  e  s  t  i  f  y  ?
-
-
-...that  the  1931
-             murders  of  five
-        J a p a n e s e
-        people in Hong
-Kong during anti-Japanese
-                  r i o t s
-        w  e  r  e
-cited   as   a
-             casus  belli
-             for   the   Shanghai
-             W   a   r
-                  o f
-                  1  9  3  2  ?
-
-
-        ...that   the
-                  Roman  abacus  incorporated
-             m   i   x   e   d   -   b   a   s   e
-             a r i t h m e t i c ?
-
-
-             ... that Michael
-P.C.   Carns,   who
-w  a  s
-the Vice
-C  h  i  e  f
-             of Staff of
-             t h e
-        United   States   Air
-                  Force  from
-        1 9 9 1 ‚ Ä ì 9 4 ,
-             received  numerous  military
-a w a r d s
-                  and  decorations  such
-                  as  the
-S  i  l  v  e  r
-        S t a r ?
-
-
-        ... that the
-                  Tang  Dynasty
-        c h a n c e l l o r
-             Zhang   Gao,   prior
-                  to  his
-c i v i l
-        service career,
-would attend feasts
-h e l d
-                  by officials
-        just for the
-             purpose of
-             g  e  t  t  i  n  g
-d  r  u  n  k  ?
-
-
-        ... that
-        John   Dorewood   was
-                  Speaker  of  the
-                  House   of   Commons
-        for the
-        f i r s t
-             parliaments  of  both
-             Henry IV
-        a  n  d
-        Henry  V
-o   f
-        E   n   g   l   a   n   d   ?
-
-
-                  ...   that
-             the   flora   of
-S   c   o   t   l   a   n   d
-                  includes   the
-        world's  tallest
-             hedge, a
-                  y e w
-             w   h   i   c   h
-             may be
-Europe's   oldest
-        tree, and
-                  D u g h a l l
-Mor  ("big  dark
-stranger")  ‚Äì  Britain's
-             t   a   l   l   e   s   t
-        t r e e ?
-
-
-. . . t h a t
-        t h e
-                  Dutch  National  Labor
-S e c r e t a r i a t
-        o  n  c  e
-                  lost  many
-        m e m b e r s
-because   each   union
-received one vote
-             but  had
-                  t   o
-p   a   y
-                  dues for each
-member,   severely
-        disadvantaging   larger
-u n i o n s ?
-
-
-             ...  that
-part  of  the
-                  1 9 7 5
-        comedy   film   Linda
-Lovelace for
-        President was shot
-             on  the  campus
-o  f
-                  t   h   e
-                  U  n  i  v  e  r  s  i  t  y
-        o f
-                  K  a  n  s  a  s  ?
-
-
-             ...that the
-O   l   d
-                  Ford Motor Factory,
-                  Ford's  first  assembly
-        plant in
-                  Southeast Asia and
-             built   in   1941,
-                  was   the   site
-                  of  the  historic
-surrender of the
-                  British  to
-                  the  Japanese
-        in World War
-I   I   ,
-             l a t e r
-             described  by
-                  Winston   Churchill
-             as the
-                  "largest  capitulation
-i   n
-        B r i t i s h
-             h i s t o r y " ?
-
-
-             ...that  √âtienne-Gaspard
-        Robert terrified
-             audiences   with   his
-             p  i  o  n  e  e  r  i  n  g
-phantasmagoria  shows
-        and  greatly
-                  i n f l u e n c e d
-             o t h e r s
-with  his
-                  b   a   l   l   o   o   n   i   n   g
-                  f   e   a   t   s   ?
-
-
-...that   the   first
-             time in World
-             W   a   r
-                  I  I
-submersible  tanks
-                  w   e   r   e
-used was
-                  on  June
-                  2 2 ,
-                  1 9 4 1 ,
-by German
-                  tanks  of
-        t h e
-                  1  8  t  h
-             P   a   n   z   e   r   -   D   i   v   i   s   i   o   n   ?
-
-
-                  .  .  .  t  h  a  t
-             t   h   e
-                  S w i s s
-Vetterli  rifles,  a
-             series of Winchester-derived
-        repeating  rifles,  were
-Europe's most
-        a   d   v   a   n   c   e   d
-             service   rifles
-a   t
-             t h e
-        time   of
-             t   h   e   i   r
-                  i   n   t   r   o   d   u   c   t   i   o   n
-                  i   n
-1  8  6  9  ?
-
-
-... that the
-H n o j n √ ≠ k
-ch√¢teau (pictured),
-now  in  the
-Czech  Republic,
-        was   owned
-             by  the  Beess
-             family   from   1736
-u  n  t  i  l
-             1 9 4 5 ?
-
-
-                  ...  that
-                  gemstones  and
-             heroin  are
-                  traded  from  Burma
-             to   China
-             for motorcycles
-and   household   goods
-        a  c  r  o  s  s
-                  t   h   e
-             Shweli River,
-             which   forms   part
-             of  the
-        b  o  u  n  d  a  r  y
-between   the   two
-                  c  o  u  n  t  r  i  e  s  ?
-
-
-        ...that in
-        the Shanghai ghetto,
-a
-part  of
-the city
-        occupied  by  Imperial
-                  Japan,  about  20,000
-             German   and   Austrian
-Jews  escaped
-t h e
-             H o l o c a u s t ?
-
-
-        .   .   .
-        t  h  a  t
-Nathan  Daboll  wrote
-the  mathematics  textbook
-        most  commonly
-             u s e d
-i   n
-             American  schools
-        during  the  first
-                  half  of
-        t   h   e
-                  1   9   t   h
-                  c e n t u r y ?
-
-
-             ... that the
-             Cathedral  Church  of
-        t  h  e
-        Prince of
-Peace,   the
-        episcopal  see
-o f
-        the  bishop
-of the
-        Christ   Catholic   Church
-                  founded   by   Karl
-             Pruter,   is
-        said to
-                  b e
-                  t   h   e
-                  smallest   cathedral
-        i   n
-t   h   e
-             w  o  r  l  d  ?
-
-
-.   .   .   t   h   a   t
-                  Georgia Tech professor
-                  M  a  r  k
-Guzdial   was   the
-                  inventor  of
-Swiki,   one
-        of   the   earliest
-w   i   k   i
-             e  n  g  i  n  e  s  ?
-
-
-                  ...that University
-                  Park at MIT
-                  includes  the
-building in
-        which Fig
-                  N e w t o n s
-w   e   r   e
-o r i g i n a l l y
-m a d e ?
-
-
-        .  .  .
-                  that   after   John
-Huston   filmed   a
-scene from Moby
-D   i   c   k
-        i n
-f r o n t
-o   f
-the   Seamen's
-        Bethel in
-        N  e  w
-             Bedford,   Massachusetts,
-the   increase   in
-tourism   spurred
-t  h  e
-creation   of
-t h e
-        New  Bedford
-        H   i   s   t   o   r   i   c
-                  D   i   s   t   r   i   c   t   ?
-
-
-             .  .  .
-             t  h  a  t
-                  the  Golf
-                  C   l   u   b
-                  Managers' Association
-represents over
-        6 5 %
-        of  all  golf
-             c   o   u   r   s   e   s
-        in   the   United
-             K i n g d o m ?
-
-
-             .   .   .
-        that a
-                  b  u  i  l  d  i  n  g
-f  i  r  e
-        destroyed the first
-             d e s i g n s
-for the South
-             Australian  National
-W   a   r
-M  e  m  o  r  i  a  l  ?
-
-
-                  ...that   a   slogan
-             of   the
-                  F   r   o   n   t
-        h  o  m  o  s  e  x  u  e  l
-d ' a c t i o n
-             r√©volutionnaire   is   "Prol√©taires
-        de tous les
-             pays,   caressez-vous"
-        (Workers of the
-        world,  caress
-             y   o   u   r   s   e   l   v   e   s   !   )   ?
-
-
-...  that  during
-t h e
-Crusader   era   in
-                  Palestine,  the
-                  village   of   Kafr
-        L a m
-             (fortress pictured)
-             w  a  s
-sold   to
-the Hospitallers by
-        the   lord
-o f
-        C a e s a r e a
-                  f o r
-             1   6   ,   0   0   0
-             b  e  s  a  n  t  s  ?
-
-
-             .  .  .  t  h  a  t
-                  the   escape
-             of two teenage
-             brothers   from
-                  P   o   l   a   n   d
-t  o
-Sweden under
-        a truck was
-depicted   in   the
-        1989   movie   300
-miles   to
-        h e a v e n ?
-
-
-.  .  .  t  h  a  t
-R   a   y   m   o   n   d
-             Monvoisin  was  a
-French   painter
-and Legion
-             of  Honor  recipient
-invited   by
-             the Chilean
-             government   to
-             establish   an
-                  Academy  of  Painting
-in  Santiago,
-             and  who
-                  also  dabbled
-                  i  n
-                  m   i   n   i   n   g
-        a   n   d
-                  r   a   n   c   h   i   n   g   ?
-
-
-             ...that   Chuck   Muncie
-        was  a  star
-                  running  back
-        f  o  r
-        T   h   e
-                  U   n   i   v   e   r   s   i   t   y
-                  of  California  during
-        t  h  e
-             1   9   7   0   s   ,
-where  he
-        b  r  o  k  e
-             six school
-                  rushing  records  that
-stand to
-                  t  h  i  s
-d  a  y  ?
-
-
-        ...that   artist   John
-LeKay   exhibited
-                  c r y s t a l
-                  skulls   (pictured)
-             m  a  d  e
-             from  paradichlorobenzene,
-which is
-        usually employed
-a   s
-                  a
-                  t  o  i  l  e  t
-             d e o d o r i s e r ?
-
-
-        .   .   .
-             that  in
-        the   only   inning
-             he   pitched   in
-                  Major  League
-             Baseball,   Cal   Cooper
-        g  a  v  e
-up  five  hits,
-             a
-w  a  l  k
-             a n d
-five runs
-f   o   r
-        a lifetime ERA
-        o   f
-4   5   .   0   ?
-
-
-. . . t h a t
-                  Richard Tregaskis,
-        American   war   correspondent
-                  a   n   d
-                  author  best
-k   n   o   w   n
-f  o  r
-             his   first-hand
-                  account  Guadalcanal  Diary,
-w a s
-almost   killed
-                  in   Italy
-in 1943 when
-s  h  r  a  p  n  e  l
-                  cut  though
-                  h   i   s
-             h   e   l   m   e   t
-        a   n   d
-             penetrated   his
-s   k   u   l   l   ?
-
-
-        m
-
-
-                  ...that timber from
-             the   leadwood   tree
-        b   u   r   n   s
-             v  e  r  y
-        slowly   and   is
-             often   used
-                  for nightlong
-        f  i  r  e  s
-        intended to
-                  keep animals at
-        b a y ?
-
-
-.  .  .  t  h  a  t
-             M a r g h e r i t a
-             Gonzaga d'Este ran
-             her own balletto
-delle donne in
-        the late 16th
-                  century, comprised
-                  e n t i r e l y
-        of women
-        w   h   o
-             f r e q u e n t l y
-                  c   r   o   s   s   -   d   r   e   s   s   e   d   ?
-
-
-...that  Theodor  von
-             Holst  was  the
-             first  illustrator  of
-        M a r y
-                  Shelley's  novel
-        F  r  a  n  k  e  n  s  t  e  i  n
-        (  p  i  c  t  u  r  e  d  )  ?
-
-
-                  ...   that   many
-types  of  car
-             bomb  use  a
-t   i   l   t
-                  fuse,   a   tube-like
-             device   not   dissimilar
-             to  a
-                  m  e  d  i  c  a  l
-             pill  bottle,  to
-             trigger  the
-             e x p l o s i o n ?
-
-
-        ...   that
-a f t e r
-        t  h  e
-        First  National
-        B a n k
-        of  Brewster,  New
-        York, closed in
-                  1  9  6  4
-                  the   Town
-o   f
-             Southeast made the
-        b   u   i   l   d   i   n   g
-             its new
-                  t  o  w  n
-h   a   l   l   ?
-
-
-             ...that the
-        Stalingrad Madonna was
-f  l  o  w  n
-                  out   on   the
-        last   transport   plane
-        to  leave  the
-t r a p p e d
-Sixth  Army
-        during  the  Battle
-        o  f
-        S   t   a   l   i   n   g   r   a   d   ?
-
-
-...   that
-the House
-        character Detective
-Michael Tritter
-             has been
-        compared to
-        Inspector   Javert   in
-                  L  e  s
-                  M  i  s  √  ©  r  a  b  l  e  s  ?
-
-
-.  .  .  t  h  a  t
-                  a  r  c  h  i  t  e  c  t
-                  A n d r e y a n
-        Z a k h a r o v
-                  rebuilt the Admiralty
-        i  n
-S a i n t
-                  P   e   t   e   r   s   b   u   r   g   ,
-w i t h
-s y m m e t r i c a l
-             wings   to
-             its central
-                  tower,   making   it
-        a   symbol   of
-             t h e
-        c  i  t  y  ?
-
-
-                  . . . t h a t
-                  J  o  h  n
-        Drainie   was
-                  a
-        C   a   n   a   d   i   a   n
-             actor and
-        television   presenter,
-             who was called
-             "the  greatest  radio
-actor  in  the
-             world"   by
-             O  r  s  o  n
-W  e  l  l  e  s  ?
-
-
-             . . . t h a t
-temperance   leader   William
-             E .
-                  "Pussyfoot" Johnson lost
-             his  right  eye
-after  he
-        was   captured
-             b   y
-             a   mob   of
-        medical   students
-        and  paraded  through
-        the  streets  of
-                  L  o  n  d  o  n  ?
-
-
-             .   .   .   t   h   a   t
-                  the   General
-             U   n   i   o   n
-        of  Syrian  Women
-             r e l e a s e d
-a   ground-breaking   report
-                  on domestic violence
-             against  women  in
-             A  p  r  i  l
-        2   0   0   6   ?
-
-
-                  ...that the
-        s   o   n   g
-             "Wildwood   Flower"
-                  evolved   from   a
-             1 9 t h - c e n t u r y
-parlor   song
-        called   "I'll   Twine
-                  'Mid the Ringlets,"
-                  and   that   the
-song was most
-                  f  a  m  o  u  s  l  y
-performed   by   the
-C   a   r   t   e   r
-             F   a   m   i   l   y   ?
-
-
-.   .   .   t   h   a   t
-L o t h a r
-Neethling   of   the
-                  South  African  Police
-             confiscated  and
-        denied  crash  investigators
-                  a  c  c  e  s  s
-        t  o
-        t  h  e
-             aircraft  flight  recorders
-                  f   r   o   m
-                  t   h   e
-             w   r   e   c   k   a   g   e
-                  o   f
-             the   air   disaster
-                  which  killed
-                  President  Samora
-Machel   of   Mozambique
-             i n
-                  1   9   8   6   ?
-
-
-             .   .   .
-        that  Elizabethan
-soldier   and   MP
-        Sir   Edward
-                  H   o   b   y
-(pictured)  of  Queenborough
-             C a s t l e
-        published  Protestant
-        theological   works,
-        one under the
-             p  s  e  u  d  o  n  y  m
-                  "Nick-Groome  of  the
-                  H   o   b   i   e   -   S   t   a   b   l   e
-        R e g i n o b u r g i " ?
-
-
-
-
-        .  .  .  t  h  a  t
-             Eliza Tibbets planted
-        t h e
-                  f i r s t
-                  two   navel
-             orange  trees
-        i n
-        C  a  l  i  f  o  r  n  i  a  ?
-
-
-...   that   many
-        localities  on  the
-             coast  of  Great
-             Britain  developed
-             t  h  e  i  r
-                  own   type   of
-fishing boat adapted
-                  t o
-                  l o c a l
-fishing  and
-sea  conditions,
-a n d
-the nobbies
-             a   r   e
-             e   x   a   m   p   l   e   s
-             o  f
-t   h   i   s   ?
-
-
-                  .  .  .  t  h  a  t
-             the   USS¬†Hunter   Liggett¬†(APA-14)
-                  ran  hazardous  support
-                  m   i   s   s   i   o   n   s
-        t   o
-the American
-        garrison on
-the  bitterly
-        contested  island
-             of Guadalcanal
-                  for   over   14
-m  o  n  t  h  s  ?
-
-
-...  that
-        a t
-t   h   e
-        age of
-74,   Robert
-             Sterling  Yard
-             (   p   i   c   t   u   r   e   d   )
-became a
-f  o  u  n  d  i  n  g
-member  and  the
-             first  president  of
-             T   h   e
-W i l d e r n e s s
-             S  o  c  i  e  t  y  ?
-
-
-             . . .
-                  that  Artus
-        d   e
-        L  i  o  n  n  e  ,
-who   went
-to   China   for
-        m  i  s  s  i  o  n  a  r  y
-                  w  o  r  k
-             i   n
-             1  6  8  9  ,
-        p  l  a  y  e  d
-                  a  role
-        against   Jesuits   in
-t h e
-                  Chinese   Rites
-c  o  n  t  r  o  v  e  r  s  y  ?
-
-
-
-
-                  .  .  .
-                  that   in
-                  addition   to   insects,
-             the  diet
-        o  f
-                  t  h  e
-                  Common Brown Lemur
-                  (pictured) includes soil
-                  and  red
-        c  l  a  y  ?
-
-
-. . .
-        t   h   a   t
-McDonald's Cycle Center
-             in   Chicago,   Illinois
-        provides   lockers,
-showers, a snack
-                  b a r ,
-             b i k e
-             r   e   p   a   i   r   ,
-a  n  d
-bike rental to
-                  b   i   c   y   c   l   e
-             c   o   m   m   u   t   e   r   s   ?
-
-
-                  ...that   complaints   about
-             the  presence  of
-        l  i  b  e  r  a  l
-C  a  t  h  o  l  i  c
-             t   h   e   o   l   o   g   i   a   n   s
-             such  as  Joseph
-        R  a  t  z  i  n  g  e  r
-        a t
-             the  Second  Vatican
-        Council   led
-             to the creation
-                  of   the   conservative
-        study  group  Coetus
-I n t e r n a t i o n a l i s
-        P   a   t   r   u   m   ?
-
-
-...that May crowning
-                  i s
-        a traditional
-        Roman Catholic
-                  ritual in
-                  w   h   i   c   h
-the   image
-of   the
-        B  l  e  s  s  e  d
-        V   i   r   g   i   n
-Mary  is
-             c  e  r  e  m  o  n  i  a  l  l  y
-        crowned   to   signify
-her  as
-Q  u  e  e  n
-                  of  Heaven  and
-M   o   t   h   e   r
-                  o f
-        G o d ?
-
-
-        .   .   .   t   h   a   t
-Magat Dam was
-             a   t
-one   time
-                  Southeast  Asia's  largest
-             m   u   l   t   i   p   u   r   p   o   s   e
-             d a m ?
-
-
-...that the buke
-             s  h  o  h  a  t  t  o  ,
-a
-        Japanese  code  of
-conduct  for
-             feudal  lords,
-                  served  as
-             the  foundation
-             o  f
-                  the   bakuhan   system
-             o   f
-                  g  o  v  e  r  n  m  e  n  t  ?
-
-
-                  .   .   .   t   h   a   t
-Adam  Franz  Lennig
-                  organized the first
-Katholikentag in Mainz
-i   n
-                  1   8   4   8   ?
-
-
-...that  at
-        the   Battle
-                  o   f
-        B a i a
-             (drawing pictured), Hungarian
-                  King   Matthias
-             Corvinus  was
-                  struck   by   arrows
-                  t  h  r  e  e
-times and
-             a   l   m   o   s   t
-                  d i e d ?
-
-
-             ...that prolific
-             d e s i g n e r
-        A d r i a n
-c r e a t e d
-                  costumes   for
-             o v e r
-                  200  films
-during his
-                  c  a  r  e  e  r
-        a  t
-M  G  M  ?
-
-
-...that Glenn
-        Vaad was elected
-                  t  o
-             seats   on   his
-                  local  town
-             board,   school
-             board,   sanitation   board,
-        a n d
-                  county   commission   before
-             w  i  n  n  i  n  g
-election   to
-t   h   e
-                  Colorado House of
-Representatives  in
-                  2   0   0   6   ?
-
-
-                  . . .
-                  that  the
-                  US  Navy's  Casco-class
-        monitors,  long  delayed
-                  due to the
-             exacting  standards
-             of  Chief
-                  E   n   g   i   n   e   e   r
-             Alban C. Stimers,
-                  p   r   o   v   e   d
-             b  a  r  e  l  y
-                  able to
-                  f   l   o   a   t
-        o  n
-                  debut   and
-        were  quickly  withdrawn
-        f   r   o   m
-        s   e   r   v   i   c   e   ?
-
-
-        ...that   Kettle   Falls,
-             k  n  o  w  n
-        t   o
-                  n a t i v e
-                  peoples   as   Shonitkwu
-                  ("roaring  or
-                  noisy   waters"),
-        l  i  e  s
-silenced   beneath
-             the   waters
-o f
-                  L  a  k  e
-        Roosevelt trapped behind
-                  t  h  e
-             G r a n d
-        C o u l e e
-        D   a   m   ?
-
-
-             .  .  .
-                  that before earning
-a
-                  B.A.  at  New
-        School for Social
-Research,   science
-                  writer   Mary
-Batten   worked   as
-        a
-        library  clerk
-at   the
-N e w
-York  Public
-        L i b r a r y ?
-
-
-        ...   that
-                  many   slogans   and
-        several mottoes currently
-                  used in
-             heraldry  originated
-             as  war  cries
-                  or   battle
-             c   r   i   e   s   ?
-
-
-        . . . t h a t
-                  L  e  i  f
-                  J  .
-S  v  e  r  d  r  u  p
-was   an   immigrant
-             from  Norway  to
-        the  United
-S   t   a   t   e   s
-                  who  became
-        a   civil   engineer
-                  a  n  d
-                  l e d
-             the project to
-             build  the
-                  1  7
-             mile-long Chesapeake Bay
-                  Bridge-Tunnel,  named
-one of
-        the Seven Wonders
-                  of   the
-Modern   World
-                  after completion
-i   n
-        1   9   6   4   ?
-
-
-        ...  that  Syed
-        Wajid Ali Shah
-        was  the
-        l  o  n  g  e  s  t
-                  s e r v i n g
-        President of the
-Pakistan   Olympic   Association
-             with a tenure
-                  of 26
-        y   e   a   r   s   ?
-
-
-.   .   .   t   h   a   t
-             K   i   k   u   c   h   i
-        lines,   formed   in
-        d i f f r a c t i o n
-patterns  by  diffusely
-        scattered electrons, are
-        useful  tools
-             i   n
-        electron   microscopy
-                  of   crystalline   and
-n   a   n   o   c   r   y   s   t   a   l   l   i   n   e
-             m a t e r i a l s ?
-
-
-.  .  .  t  h  a  t
-        J o h n
-        T   .
-             Ford   was
-                  the  only
-A  m  e  r  i  c  a  n
-             theatre  manager
-                  to   pay   Gilbert
-        and   Sullivan   royalties
-             f o r
-H.M.S. Pinafore
-                  d   u   r   i   n   g
-        its initial U.S.
-                  r u n ?
-
-
-             ...that   Giles   Clarke,
-             c h a i r m a n
-                  of   the
-        England   and
-        Wales  Cricket  Board,
-studied Arabic at
-             t   h   e
-                  University   of
-D  a  m  a  s  c  u  s  ?
-
-
-             .   .   .   t   h   a   t
-        the more than
-                  two  centuries
-        old Gun
-                  a  n  d
-Shell  Factory
-             at  Cossipore,
-             a  neighbourhood  in
-        north Kolkata, is
-             t   h   e
-        oldest   surviving   factory
-        in the
-             I   n   d   i   a   n
-                  s   u   b   c   o   n   t   i   n   e   n   t   ?
-
-
-             ... that the
-        song  "Shake
-        a
-        Fist"  was  almost
-             i   n   c   l   u   d   e   d
-                  on   the
-British  electropop  band
-        Hot Chip's
-        second  album,  The
-                  Warning, instead
-             of   their
-t   h   i   r   d   ?
-
-
-        ... that
-a s
-        Champagne ages
-                  on  its  lees
-        (pictured),  the  breakdown
-                  of   yeast
-             cells imparts
-        unique flavors of
-             a   c   a   c   i   a   ,
-        b   i   s   c   u   i   t   s
-                  and   nuttiness
-             as   well   as
-a   creamy   mouth
-        f   e   e   l   ?
-
-
-...that Tomorrow's Pioneers,
-a  television  program
-             for   children
-        produced   by   Hamas,
-        features  a
-                  mascot similar
-             t   o
-M   i   c   k   e   y
-        M o u s e ?
-
-
-        ...that the bronze
-             o   f
-             Mary (pictured) atop
-        M  a  r  y
-                  Star   of
-        t   h   e
-        S e a ,
-                  k n o w n
-        a  s
-        t   h   e
-                  "Fishermen's   Church,"
-i  s
-        lit at night
-        s o
-             she  can  be
-seen from the
-Port  of  Los
-A  n  g  e  l  e  s
-        h a r b o r ?
-
-
-...that  Brazilian
-s   i   n   g   e   r
-Maria Beth√¢nia
-released   her   first
-             recording the
-                  same year
-as   her
-             b r o t h e r
-        Caetano Veloso, even
-though he was
-        four   years
-        o  l  d  e  r  ?
-
-
-.   .   .   t   h   a   t
-             the Shuguang
-                  spacecraft was
-        designed   by   the
-P e o p l e ' s
-Republic of
-        C   h   i   n   a
-                  with  the
-goal  of  achieving
-        a  manned
-space   flight
-i   n
-1   9   7   3   ?
-
-
-        .  .  .
-t  h  a  t
-             T  o  m
-                  Gish's   newspaper
-             The   Mountain   Eagle
-             w   a   s
-                  the  first  newspaper
-                  i   n
-             eastern Kentucky
-             t o
-challenge  the
-damage caused to
-the   environment
-resulting from strip
-        m   i   n   i   n   g   ?
-
-
-                  ...   that
-in On
-        t   h   e
-             S  p  h  e  r  e
-                  and  Cylinder,
-                  A r c h i m e d e s
-             expressed  the
-                  v  o  l  u  m  e
-contained   in   a
-                  s   p   h   e   r   e
-in   terms   of
-that  of
-             a
-             c  y  l  i  n  d  e  r  ?
-
-
-             ...that  the
-Lincoln Snacks Company,
-a  manufacturer  of
-        caramelized   popcorn,
-             was founded, in
-part, by
-             a   subsidiary
-             of  Sandoz  Laboratories,
-        the   company
-        t h a t
-        i  n  v  e  n  t  e  d
-L   S   D   ?
-
-
-                  ...that   the   skink
-             Chalcides colosii was
-once   considered
-                  a subspecies
-of another
-        s  p  e  c  i  e  s  ,
-Chalcides   ocellatus
-        (  n  a  m  e  d
-                  for   its
-ocelli),   despite   the
-fact   that   C.
-        c  o  l  o  s  i  i
-h   a   s
-             n   o
-        o c e l l i ?
-
-
-             ...that   although
-Were Ilu
-             served as
-        a n
-        o r g a n i z i n g
-                  point for the
-             E   t   h   i   o   p   i   a   n
-             army at the
-             b  e  g  i  n  n  i  n  g
-        of   the
-                  First Italo-Abyssinian War,
-        as  late  as
-1962  this
-             s   e   t   t   l   e   m   e   n   t
-        was  connected
-        t  o
-        n e a r b y
-        towns  by  only
-t r a i l s ?
-
-
-                  ...that  some  plants
-                  h   a   v   e
-tentacles,   but   octopuses
-             have none? (they
-        have arms
-        i  n  s  t  e  a  d  )
-
-
-                  . . .
-that   white
-        kimchi,   Shiitake
-mushrooms,   and
-        rice  cakes
-made  with  mung
-b e a n s
-                  are   elements
-of  Korean
-        temple   cuisine
-(   p   i   c   t   u   r   e   d   )   ?
-
-
-                  ...that Sammy Ellis
-        won   22   games
-and  made  the
-        All-Star  team  for
-             the Cincinnati
-                  Reds in
-        1965  despite
-                  allowing the
-             most  Earned
-        Runs in
-        t h e
-                  l e a g u e ?
-
-
-.   .   .
-             that a
-        local  writers'  group
-w  o  n
-                  a
-                  preservation award
-for   renovating   the
-        Philipse Manor train
-             s  t  a  t  i  o  n
-(  p  i  c  t  u  r  e  d  )
-             i   n
-        Sleepy  Hollow,  New
-             Y  o  r  k  ?
-
-
-.   .   .   t   h   a   t
-             R  o  g  e  r
-        II's   Palatine   Chapel
-             in Palermo
-        combines   the   Byzantine
-d o m e
-        a   n   d
-        mosaics   with
-        Arabic   arches   and
-        i n s c r i p t i o n s ?
-
-
-        ...  that  the
-        U  .  S  .
-                  state of
-             New   York   offers
-             a
-                  s c h o o l
-             tax   rebate   program
-        t  h  a  t
-                  s  a  v  e  s
-        h   o   m   e   o   w   n   e   r   s
-        money   by   reducing
-t h e
-                  assessed   value
-of   a
-        home when
-             calculating   the
-p r o p e r t y
-             t  a  x  ?
-
-
-                  ...that despite
-w i n n i n g
-                  the  1989
-                  World  Indoor
-             Championships, West
-                  German   400
-             m  e  t  r  e  s
-sprinter Helga Arendt
-f a i l e d
-             t o
-r e a c h
-             the  final
-                  r o u n d
-at  the  European
-        Championships one
-        y e a r
-             l a t e r ?
-
-
-. . . t h a t
-        P a n d i t
-                  Vishnu Digambar Paluskar
-             (pictured)  composed  Mahatma
-             G  a  n  d  h  i  '  s
-                  favourite  devotional  song,
-"Raghupati Raghav Raja
-Ram",  which  was
-                  s  u  n  g
-        d   a   i   l   y
-             during  the
-             salt march
-t  o
-D  a  n  d  i  ?
-
-
-        ...that   The
-Sun  Sessions
-        album  included  all
-             of   the   Elvis
-        Presley tracks recorded
-                  b  y
-             S  a  m
-                  P  h  i  l  l  i  p  s  ?
-
-
-                  ...that the Funicular
-             dos   Guindais   was
-             o  r  i  g  i  n  a  l  l  y
-                  built  to
-carry cargo
-             -   including
-                  port  wine  -
-from the
-                  Ribeira  quayside
-                  to  the
-        c e n t r e
-        of  Porto,  and
-        is   now   a
-             tourist   attraction
-        and  one
-                  of   the
-w  o  r  l  d  '  s
-                  steepest counter-balanced
-c a b l e
-r  a  i  l  w  a  y  s  ?
-
-
-                  ...that Howard Zahniser
-        w o r k e d
-f   r   o   m
-        1956  to
-1  9  6  4
-        authoring   and
-promoting the Wilderness
-                  A c t ,
-b  u  t
-                  died  just  a
-        few   months   before
-President Lyndon
-        B. Johnson
-             s i g n e d
-                  i  t
-             i n t o
-             l a w ?
-
-
-             ...that   according   to
-        a  Dakota
-Indian  legend,  the
-        Great   Spirit
-             divided   Barn
-             Bluff   between
-             t w o
-             r  i  v  a  l
-             villages of Minnesota,
-             with the remaining
-portion moving
-to  Winona  and
-             b   e   c   a   m   e
-        S u g a r
-                  L  o  a  f  ?
-
-
-        ...that  Indian  company
-        Reliance   Power   attracted
-                  U  S  $  2  7  .  5
-             billion  of
-                  b  i  d  s
-                  on  the
-             first day
-of its initial
-             public   offering
-             (IPO),  equivalent
-        to 10.5
-t i m e s
-                  t   h   e
-        stock  on  offer,
-                  thereby   creating
-                  I n d i a ' s
-             I   P   O
-                  r  e  c  o  r  d  ?
-
-
-             .   .   .   t   h   a   t
-        the   father   and
-        two  brothers
-        o  f
-        Pakistani cricketer Wasim
-                  Raja  also
-        p l a y e d
-                  f i r s t - c l a s s
-             c   r   i   c   k   e   t   ?
-
-
-        .   .   .
-                  that  all  four
-        stars  of  Starved,
-        a   n
-             FX   sitcom   about
-        eating  disorders,
-        struggled   with
-e  a  t  i  n  g
-             disorders  themselves,
-a   fact   unknown
-                  to  producers  until
-        a f t e r
-c a s t i n g ?
-
-
-        .   .   .   t   h   a   t
-                  the   Suevi
-                  of  Gallaecia
-        were converted
-                  from a form
-                  o  f
-             Germanic   paganism   to
-        A r i a n
-                  C   h   r   i   s   t   i   a   n   i   t   y
-b  y
-                  a
-                  C e l t i c
-missionary,   Ajax,   sent
-b y
-             t  h  e
-        V i s i g o t h s ?
-
-
-                  ...that the practices
-                  of   the   Followers
-        of   Christ   church
-        in Oregon,
-                  United   States,
-                  w   h   i   c   h
-i   n   c   l   u   d   e
-             faith healing
-             a n d
-        f  o  r  b  i  d
-             m  e  d  i  c  a  l
-        t   r   e   a   t   m   e   n   t   ,
-        p r o m p t e d
-             a   1999
-                  s  t  a  t  e
-             l   a   w
-        m  a  k  i  n  g
-                  p a r e n t s
-liable  if
-their children are
-h   a   r   m   e   d
-        by a lack
-        o f
-t   r   e   a   t   m   e   n   t   ?
-
-
-        ...   that   the
-7  0  5  t  h
-             Tank  Destroyer  Battalion
-             of  the  U.S.
-                  A  r  m  y
-                  r  e  c  e  i  v  e  d
-             a   Presidential   Unit
-             C  i  t  a  t  i  o  n
-             for its
-             role in the
-             S   i   e   g   e
-             o  f
-B   a   s   t   o   g   n   e   ?
-
-
-                  ...that Job
-        Charnock  landed  at
-        Jorabagan,   Sutanuti   ghat
-in  1690,
-which is believed
-             b  y
-        many   to
-                  be  the
-        s  t  a  r  t  i  n  g
-point of
-             the  metropolitan  growth
-o  f
-                  K o l k a t a ?
-
-
-             ... that
-             Timothy  Creasey,  a
-                  B   r   i   t   i   s   h
-        Army   officer,
-was commander of
-             the   Sultan
-of   Oman's   Forces
-                  for   three   years
-             before  serving  in
-                  N o r t h e r n
-I   r   e   l   a   n   d   ?
-
-
-             ...that  although  Pope
-G   r   e   g   o   r   y
-             XVI condemned
-             railroads as "the
-             road to
-             hell,"   Vatican
-City  includes
-             the   world's   shortest
-        n a t i o n a l
-r a i l w a y
-        s y s t e m ?
-
-
-             .  .  .
-                  that  the
-S   u   n   s   e   t
-        T   o   w   e   r
-        (  p  i  c  t  u  r  e  d  )
-i   n
-                  West  Hollywood,  California
-             w   a   s
-                  h o m e
-        to gangster
-                  B u g s y
-Siegel, who was
-        a  s  k  e  d
-        to   leave
-a  f  t  e  r
-             being   charged   with
-        running a bookmaking
-             o  p  e  r  a  t  i  o  n
-             t h e r e ?
-
-
-        ...that  since  the
-floods  of  2004-2005,
-                  the riparian
-             areas of Hendrick
-        Island have
-             b  e  e  n
-        choked  by  debris
-                  f   r   o   m
-        upstream in
-                  the   Delaware
-                  R  i  v  e  r  ?
-
-
-... that in
-             t  h  e
-        Canary Islands, palm
-             syrup   is   made
-                  from   sap   collected
-                  l a b o r i o u s l y
-from  the  crown
-             of a date
-p a l m ?
-
-
-        ...that   Linus
-Pauling  and
-        Emile   Zuckerkandl
-             proposed  using
-                  protein sequences
-        t  o
-                  e   s   t   i   m   a   t   e
-             the  time  since
-genetic  divergence,  early
-             in  the
-history  of  molecular
-e v o l u t i o n
-        r  e  s  e  a  r  c  h  ?
-
-
-                  ...that the
-             sources of
-        William   Shakespeare's   Hamlet
-             l  i  e
-        i n
-                  legends   which   may
-        trace  to
-             a n
-             I   n   d   o   -   E   u   r   o   p   e   a   n
-             o   r   i   g   i   n   ?
-
-
-.   .   .   t   h   a   t
-             t h e
-        Ember√°   in   Panama
-use the
-        hard,   durable
-trunks  of  Dictyocaryum
-palms   to
-             c   o   n   s   t   r   u   c   t
-c  o  f  f  i  n  s  ?
-
-
-.   .   .   t   h   a   t
-             the Iran-Pakistan
-b  a  r  r  i  e  r
-        is   currently
-b   e   i   n   g
-        constructed   by   Iran
-             along  its  border
-             with   Pakistan   to
-        stop illegal migration
-        a   n   d
-        t  h  w  a  r  t
-             t   e   r   r   o   r
-                  a  t  t  a  c  k  s  ?
-
-
-                  ... that
-             a  r  t
-             historian  George  Zarnecki
-                  worked   with
-a   Soviet   spy
-                  for almost 30¬†years
-             a t
-             the  Courtauld  Institute
-                  o   f
-                  A   r   t   ?
-
-
-             .   .   .
-        that President George
-W .
-                  Bush  appointed  three
-             C   a   b   i   n   e   t
-        members   who
-        had been born
-outside   of
-        t  h  e
-U n i t e d
-             S   t   a   t   e   s   ,
-                  the   most   of
-any   U.S.
-                  p  r  e  s  i  d  e  n  t  ?
-
-
-             ...  that
-             O  r  e  g  o  n  '  s
-                  Devils Punch Bowl
-        State  Natural
-             A   r   e   a
-             has  a  naturally
-                  eroded bowl
-        carved   in   the
-             rock by
-swirling ocean
-        w   a   v   e   s   ?
-
-
-...that Mixmath is
-a  Canadian
-                  b   o   a   r   d
-                  g a m e
-similar  to  Scrabble,
-i n
-which   numbered
-                  t  i  l  e  s
-                  are   played
-to form
-        e   q   u   a   t   i   o   n   s
-                  instead   of
-             letters   forming
-             w  o  r  d  s  ?
-
-
-...that   Robert
-                  A  d  l  e  y
-b e c a m e
-                  on December 10,
-                  2 0 0 7 ,
-                  t h e
-             n   e   w   e   s   t
-        Republican  member
-        o f
-             t h e
-                  L o u i s i a n a
-        S  t  a  t  e
-             Senate,   just   fifty-six
-days   after
-                  he was easily
-                  r   e   e   l   e   c   t   e   d
-             a s
-a Democrat
-i n
-             the October 20
-j u n g l e
-                  p r i m a r y ?
-
-
-        ...that   the   Black
-                  slug  is  the
-             only  species  of
-             slug  that  when
-                  d   i   s   t   u   r   b   e   d
-contracts  into  a
-             hemispherical  shape  and
-                  s t a r t s
-        rocking   from   side
-             to side to
-c  o  n  f  u  s  e
-p r e d a t o r s ?
-
-
-             ...that the Galatasaray
-             S.K.  has  origins
-                  from the
-             Ottoman  Empire
-             e   r   a   ?
-
-
-                  .  .  .  t  h  a  t
-the once-standing Palmer
-             M  a  n  s  i  o  n
-                  i  n
-Chicago,   Illinois,   had
-                  a  self-supported  spiral
-             s t a i r c a s e
-which  rose
-             80  feet
-into a
-t   o   w   e   r   ?
-
-
-                  . . .
-that a failure
-             to   correct   an
-aircraft flaw revealed
-                  b  y
-                  the "Windsor
-             Incident"   with   American
-        Airlines   Flight
-                  96  (pictured)  caused
-                  t   h   e
-             crash of
-             T  u  r  k  i  s  h
-                  Airlines  Flight
-                  981   two   years
-        l  a  t  e  r  ?
-
-
-             ...   that
-             during World
-War I, President
-        Woodrow   Wilson   reportedly
-        s  t  o  p  p  e  d
-             d   i   s   c   u   s   s   i   n   g
-i   m   p   o   r   t   a   n   t
-matters  at  Cabinet
-                  meetings because
-        of   the
-indiscretions   of
-             I  n  t  e  r  i  o  r
-Secretary   Franklin
-                  K n i g h t
-                  L   a   n   e   ?
-
-
-             ...that  Pokey
-                  Allen, former
-             head  coach
-             of  the  Portland
-State   Vikings   football
-                  t   e   a   m   ,
-        appeared in television
-        commercials  threatening  to
-                  have   himself   shot
-        out   of
-                  a  cannon  into
-        the  backyards  of
-        anyone not
-                  b  u  y  i  n  g
-                  s   e   a   s   o   n
-t i c k e t s ?
-
-
-        ...that the
-        Great Synagogue
-        in Danzig
-        ( p i c t u r e d ) ,
-        one   of   the
-                  most impressive
-        synagogues   of   its
-                  t   i   m   e   ,
-                  was demolished by
-             the  city  council
-                  of  the  Free
-        City  of  Danzig
-        e  v  e  n
-                  before  the  German
-                  invasion of Poland
-             b  e  g  a  n  ?
-
-
-...that  2006
-        World   Series
-             of  Poker  champion
-        Jamie Gold has
-                  worked as
-an agent for
-actors such
-as  James
-Gandolfini,   Jimmy
-F a l l o n ,
-                  Lucy Liu,
-and   Felicity
-H  u  f  f  m  a  n  ?
-
-
-             ...   that   purity
-        of   the
-                  S   a   s   t   h   a   m   k   o   t   t   a
-                  Lake   water   for
-d  r  i  n  k  i  n  g
-u s e
-             is attributed
-        to  presence  of
-a
-             large  number
-        of  larvae
-             c  a  l  l  e  d
-             cavaborus, which consume
-             m   u   c   h
-                  of   the   lake's
-b  a  c  t  e  r  i  a  ?
-
-
-                  ...that the Battle
-of Tarawa at
-             T   a   r   a   w   a
-Atoll  was
-the first time
-             in  World  War
-        II  that  the
-                  American forces
-                  faced   serious   opposition
-in  an
-             a   m   p   h   i   b   i   o   u   s
-l a n d i n g ?
-
-
-             .   .   .   t   h   a   t
-             Frank  Beaurepaire,
-                  a  Lord
-Mayor of Melbourne,
-member  of
-        t h e
-             Victorian Legislative Assembly
-                  and  multi-millionaire  tyre
-        businessman was
-                  a   six-time
-                  Olympic   medallist   in
-        swimming who
-                  s  e  t
-                  15  world  records
-in   his
-             s  w  i  m  m  i  n  g
-                  c   a   r   e   e   r   ?
-
-
-                  ...   that
-                  The  Golden
-Fleece,   written
-             in  1628  by
-S i r
-                  William Vaughan while
-             at   his
-             c  o  l  o  n  y
-             N e w
-Cambriol,   was
-        a  fanciful  attempt
-             to  galvanise  his
-colonists into hard
-w  o  r  k  ?
-
-
-                  .  .  .  t  h  a  t
-Hurricane Greg
-             c  a  u  s  e  d
-                  one  of  Mexico's
-                  highest   rainfall
-                  totals from a
-P   a   c   i   f   i   c
-             h u r r i c a n e ?
-
-
-
-
-                  ...that in
-t h e
-                  1783  Peace
-o  f
-Paris, the Dutch
-                  Republic granted to
-        G r e a t
-        B r i t a i n
-        u  n  o  b  s  t  r  u  c  t  e  d
-                  n   a   v   i   g   a   t   i   o   n
-rights   in   the
-        e  a  s  t  e  r  n
-             s   e   a   s   ?
-
-
-                  ...   that
-                  despite   the
-        c  o  m  p  a  n  y  '  s
-        claims, SummerSlam
-1992   has   the
-             l  a  r  g  e  s  t
-verified   attendance
-        o  f
-                  any  World  Wrestling
-        E  n  t  e  r  t  a  i  n  m  e  n  t
-        e   v   e   n   t   ?
-
-
-... that Edward
-V a u x ,
-             4   t   h
-                  Baron   Vaux   of
-                  H a r r o w d e n
-        did  not
-m   a   r   r   y
-E   l   i   z   a   b   e   t   h   ,
-d   a   u   g   h   t   e   r
-                  of Thomas
-             Howard,  until
-27 years
-        a f t e r
-        p  l  a  n  s
-for  their
-        marriage   were   abandoned
-                  in the
-                  wake  of
-the Gunpowder
-P l o t ?
-
-
-             .  .  .  t  h  a  t
-             the   saliva   of
-a
-                  C   o   m   m   o   n
-                  Garter  Snake
-                  (Thamnophis sirtalis) may
-b  e
-        toxic   to
-                  a   m   p   h   i   b   i   a   n   s
-and  other  small
-a  n  i  m  a  l  s  ?
-
-
-             ...  that
-C   a   p   t   a   i   n
-Odd Isaachsen
-        W i l l o c h ,
-             a   n
-uncle  of
-        later Norwegian
-        P   r   i   m   e
-                  Minister   K√•re
-        Willoch,   was
-             lost   with
-        h i s
-s  h  i  p
-in  1940
-        d   u   r   i   n   g
-t h e
-B  a  t  t  l  e  s
-o   f
-        N   a   r   v   i   k   ?
-
-
-             ...that   Lionel   Monckton,
-the   most   popular
-        musical theatre composer
-of the Edwardian
-                  period, after dropping
-i   n   t   o
-             obscurity  by  the
-end of
-             the 20th
-c  e  n  t  u  r  y  ,
-        r e c e n t l y
-        has had
-                  two  albums  of
-his   music
-        r   e   l   e   a   s   e   d   ?
-
-
-...that Washington
-Senators outfielder Elmer
-Gedeon,   who
-pulled   a   crew
-                  member from a
-             burning wreck,
-        died  while  piloting
-                  a B-26
-        b   o   m   b   e   r
-                  o  v  e  r
-                  F  r  a  n  c  e  ?
-
-
-                  .  .  .
-        that so many
-people   became
-        c   u   s   t   o   m
-                  harvesters  in  China
-                  i   n
-                  t  h  e
-        late   20th   century
-that it was
-             n   o
-             longer  possible
-for them
-             to   generate   a
-p  r  o  f  i  t  ?
-
-
-             .  .  .  t  h  a  t
-Y o g e s h
-                  K.   Gandhi
-and his
-                  Gandhi   Memorial
-             I  n  t  e  r  n  a  t  i  o  n  a  l
-                  Foundation were
-             i   n   v   e   s   t   i   g   a   t   e   d
-             b y
-        t h e
-             United States
-                  Senate and Department
-o   f
-             Justice  for
-        contributions   to   the
-                  D   e   m   o   c   r   a   t   i   c
-        N a t i o n a l
-        C   o   m   m   i   t   t   e   e   ?
-
-
-             ...that  "quickfire",
-        a  form
-                  of   arson   employed
-in   Scandinavian
-                  blood  feuds,  was
-                  punishable   by
-        d e a t h
-             o n l y
-        if   the
-             perpetrator   was
-                  caught  in  the
-        act  and
-killed at
-        t   h   e
-                  scene of the
-        c r i m e ?
-
-
-        ...that   the   Canadian
-Tomb  of  the
-U n k n o w n
-                  Soldier contains
-t   h   e
-        r   e   m   a   i   n   s
-                  of a
-        Canadian soldier who
-                  d   i   e   d
-        in France
-             during   World   War
-             I  ?
-
-
-        .  .  .  t  h  a  t
-             the  Lion's
-        M a n e
-                  Jellyfish is
-the  biggest
-jellyfish in
-             t  h  e
-                  w   o   r   l   d   ?
-
-
-...that television pioneer
-        T  h  o  m  a  s
-                  T   .
-        Goldsmith, Jr. became
-                  the inventor of
-             the video game
-w  h  e  n
-        h  e
-                  t o o k
-o   u   t
-a
-video  game  patent
-i   n
-             1  9  4  8  ?
-
-
-        .   .   .   t   h   a   t
-                  r   e   v   o   l   u   t   i   o   n
-                  in   the   Kingdom
-of Poland, part
-             of  the
-        Russian   Revolution,
-included a
-             three-year-long   school
-                  s  t  r  i  k  e
-which resulted
-i n
-        l  e  s  s  e  n  i  n  g
-        of russification of
-the Polish educational
-        s   y   s   t   e   m   ?
-
-
-...that   the
-Arthur Middleton class
-             a  t  t  a  c  k
-transport   USS
-                  G   e   o   r   g   e
-        C   l   y   m   e   r
-saw  service  in
-                  four  major
-wars and earned
-        a
-                  total  of  fifteen
-             b  a  t  t  l  e
-s t a r s ?
-
-
-             .  .  .  t  h  a  t
-S a i l
-             R  o  c  k
-        (  p  i  c  t  u  r  e  d  )
-is  a  federally
-                  protected natural
-        monument,   located
-             among  village
-             health   resorts   on
-                  the eastern shore
-of   the   Black
-             S   e   a
-             in Krasnodar Krai,
-R  u  s  s  i  a  ?
-
-
-        .   .   .
-that approximately 90
-        percent   of   the
-        buildings were
-             destroyed  at  Maumere,
-        the  hardest
-             hit  town  of
-t   h   e
-                  1992 Indonesia
-                  e  a  r  t  h  q  u  a  k  e  ?
-
-
-        ...  that
-             Carl   Fredriksens   Transport,
-                  an  operation  that
-s a v e d
-             1 , 0 0 0
-                  Norwegians during
-        the   Nazi
-             occupation of Norway,
-        was  code-named  after
-             King  Haakon  VII's
-                  o  r  i  g  i  n  a  l
-        n a m e ?
-
-
-             ...that the
-Buddha   statue   of
-                  Long   Son   Pagoda
-i n
-N  h  a
-        T   r   a   n   g   ,
-V   i   e   t   n   a   m
-        i s
-             a major
-             vantage   point
-        over the
-             c  i  t  y  ?
-
-
-                  ... that the
-        Cambridgeshire Cats
-                  American football team
-w e r e
-             briefly known
-             as the "Cambridge
-             C r u n c h e r s "
-                  f  o  l  l  o  w  i  n  g
-        a  sponsorship
-                  deal  with
-        a  Seattle-based  apple
-                  e x p o r t
-c o m p a n y ?
-
-
-        ...that  during
-                  h i s
-                  administration,  Kentucky  governor
-William   J.
-        Fields forbade
-             d   r   i   n   k   i   n   g
-        alcohol   and   dancing
-in the
-        G   o   v   e   r   n   o   r   '   s
-                  M a n s i o n ?
-
-
-...   that
-P  i  s  a  n  o  s  a  u  r  u  s  ,
-from   228
-        to   216.5   million
-years   ago,
-             i s
-the   oldest
-             k  n  o  w  n
-                  o   r   n   i   t   h   i   s   c   h   i   a   n
-        d  i  n  o  s  a  u  r  ?
-
-
-.  .  .
-t  h  a  t
-                  Bugle   Rock   in
-                  Bangalore, India, is
-                  a peninsular gneiss
-        f   o   r   m   a   t   i   o   n
-                  from which warning
-        bugle  calls
-                  w e r e
-                  made  to
-        alert   citizens
-        o   f
-i   n   t   r   u   d   e   r   s   ?
-
-
-... that the
-                  Ghost  Slug  (pictured),
-                  recently  discovered
-        i n
-        Wales,  blindly
-             h u n t s
-        earthworms  using
-             i   t   s
-b   l   a   d   e   -   s   h   a   p   e   d
-        t   e   e   t   h   ?
-
-
-             ...that  "Vrede"
-        w  a  s
-the first
-             Eurovision   entry   to
-                  feature DJ
-        s   c   r   a   t   c   h   i   n   g   ?
-
-
-             ...that   Iyabo
-                  Obasanjo-Bello,   a   Nigerian
-             Senator   from
-the People's Democratic
-Party, is the
-                  daughter  of  former
-                  President Olusegun
-                  O b a s a n j o ?
-
-
-                  .  .  .  t  h  a  t
-                  L  i  b  y  a  '  s
-Sirte  Basin‚Äîwhich  in
-some places lies
-        more   than
-47  metres  below
-             sea   level‚Äîcontains
-        roughly  80%
-of the
-c   o   u   n   t   r   y   '   s
-        k   n   o   w   n
-c r u d e
-o i l
-        r   e   s   e   r   v   e   s   ?
-
-
-             ... that
-        J.  K.
-                  G  i  l  l
-        started  a
-bookstore in Portland,
-                  Oregon, in 1870
-t  h  a  t
-                  g  r  e  w
-        to  a
-             chain of
-                  63 stores before
-                  t h e
-        c  o  m  p  a  n  y
-        folded in
-                  1 9 9 9 ?
-
-
-.  .  .
-        that in the
-        30   Rock
-        episode "Fireworks",
-             series writers
-             Kay Cannon and
-D   a   v   e
-        Finkel  briefly
-appeared  as  a
-        m a r r i e d
-             c   o   u   p   l   e   ?
-
-
-        . . . t h a t
-             of   the
-        64 women
-        in   the
-             39th Canadian Parliament,
-        o n l y
-             one,  former  New
-             Democratic  Party
-leader   Alexa
-        McDonough,  represents
-                  a  riding  in
-A   t   l   a   n   t   i   c
-                  C   a   n   a   d   a   ?
-
-
-...that Trivikrama Mahadeva
-             has  organized  the
-f u n e r a l s
-        of   over
-             4  2  ,  0  0  0
-             p   e   o   p   l   e   ?
-
-
-        ... that the
-             roller ship
-                  was  a
-             steamship, raised
-a   b   o   v   e
-             the   water
-             l  i  k  e
-             a  hydrofoil  and
-moving   on   several
-        l  a  r  g  e
-w h e e l s ?
-
-
-        .  .  .  t  h  a  t
-             b  l  a  c  k  f  a  c  e
-        m i n s t r e l
-             dancer John Diamond
-             (pictured)  won
-numerous "Ethiopian"
-        dance  competitions
-        u   n   t   i   l
-        he   was
-                  defeated  by  a
-             r e a l
-                  b  l  a  c  k
-             m  a  n
-known  as  Master
-        J   u   b   a   ?
-
-
-        .   .   .   t   h   a   t
-        t   h   e
-f i s h
-                  Echiodon  rendahli  has
-                  a
-        portion   of
-                  i  t  s
-        intestine protruding
-             from   its
-belly,  so  that
-w   h   i   l   e
-             l   i   v   i   n   g
-             inside sponges
-             it can defecate
-                  outside   its   shelter
-        without being exposed
-to  outside
-                  d  a  n  g  e  r  s  ?
-
-
-                  ...that   the   Beyonc√©
-                  song "Suga
-             Mama" features
-                  a
-                  sample of the
-                  song   "Searching   for
-             Soul"  by
-        funk   band   Jake
-                  Wade and
-                  the   Soul
-                  S e a r c h e r s ?
-
-
-        .   .   .   t   h   a   t
-        t  h  e
-American merchant
-        W  i  l  l  i  a  m
-        Conner   (pictured)
-             helped  maintain  the
-        Delaware's   loyalty
-             during  the  War
-of   1812   and
-        identified   the
-body   of
-                  Tecumseh following the
-                  Battle of the
-        T   h   a   m   e   s   ?
-
-
-        ... that
-Samuel Pepys's former
-c   l   e   r   k
-        Paul Lorrain more
-        than quadrupled his
-             p   r   i   s   o   n
-        income  by  publishing
-        dubious Confessions
-                  of the
-             c o n d e m n e d
-at Newgate
-             P r i s o n ?
-
-
-             ...that Indianapolis' Garfield
-P  a  r  k
-Conservatory was the
-                  first  glass
-        a  n  d
-                  welded-aluminum   conservatory   in
-             t   h   e
-U n i t e d
-             S   t   a   t   e   s   ?
-
-
-.  .  .  t  h  a  t
-t   h   e
-                  Memorial Tunnel
-             along the
-             W e s t
-Virginia   Turnpike
-        was  the  first
-t   u   n   n   e   l
-in the
-             U.S.  to
-                  have  closed-circuit
-                  t e l e v i s i o n
-             m o n i t o r i n g ?
-
-
-             .   .   .
-                  that   the
-Portland Armory
-(pictured)  in  Portland,
-             O  r  e  g  o  n
-        w   a   s
-                  t   h   e
-             first building
-                  on  the
-National  Register
-                  of   Historic
-             Places  to  achieve
-a  Platinum  Leadership
-        in  Energy
-                  and  Environmental
-                  D  e  s  i  g  n
-        c  e  r  t  i  f  i  c  a  t  i  o  n  ?
-
-
-...that   Hawayo   Takata,
-                  a   Nisei
-             fluent in the
-                  language  and  culture
-                  of  both
-J   a   p   a   n
-and the United
-                  S  t  a  t  e  s  ,
-introduced   Reiki   to
-             t   h   e
-W  e  s  t  e  r  n
-        W  o  r  l  d  ?
-
-
-        . . .
-t h a t
-                  S√ºreyya Opera
-             House  in  Istanbul,
-b  u  i  l  t
-i  n
-             1927   as   a
-        musical  theater  but
-             used  all  the
-        t i m e
-as a cinema,
-gained  its  intended
-        status only
-             in 2007 after
-             r   e   d   e   v   e   l   o   p   m   e   n   t   ?
-
-
-...that "De Vogels
-Van  Holland"
-w a s
-the first song
-             ever  performed
-        at  the  Eurovision
-                  S  o  n  g
-C  o  n  t  e  s  t  ?
-
-
-... that Malinda
-C   r   a   m   e   r   ,
-        a  founder
-        of   the   Church
-                  o   f
-Divine   Science
-        and  an
-early   influence
-             i n
-        the New
-        T h o u g h t
-movement,  died
-        i  n
-t   h   e
-        great 1906 San
-F  r  a  n  c  i  s  c  o
-e   a   r   t   h   q   u   a   k   e   ?
-
-
-. . . t h a t
-        N   i   c   h   o   l   a   s
-        I I
-                  of   Russia,
-        his wife
-and children have
-                  a l l
-        been   recognized   as
-        s  a  i  n  t  s
-        of  the
-        R  u  s  s  i  a  n
-             O r t h o d o x
-        C h u r c h ?
-
-
-        .  .  .
-that   in
-             2008,  the
-        G   e   r   m   a   n
-Federation of Internal
-        M e d i c i n e
-        a w a r d e d
-i  t  s
-                  highest  honor  to
-        H a n s
-        J o a c h i m
-             S  e  w  e  r  i  n  g  ‚  Ä  é  ,
-             a former
-        N a z i ?
-
-
-        .   .   .
-             that   a
-                  s t a t u e
-        of   French
-g   e   n   e   r   a   l
-        G  u  s  t  a  v  e
-                  Borgnis-Desbordes  in
-                  Bamako,  Mali
-             was torn
-             down shortly
-                  after   Mali's
-i   n   d   e   p   e   n   d   e   n   c   e
-i   n
-             1  9  6  0  ?
-
-
-        ...   that   the
-        f a i l e d
-        marriage  of
-             John Milton
-inspired   his   divorce
-                  tracts: Doctrine
-             and   Discipline   of
-        D  i  v  o  r  c  e  ,
-                  Judgement of
-                  M   a   r   t   i   n
-                  Bucer,  Tetrachordon,
-        a   n   d
-        C  o  l  a  s  t  e  r  i  o  n  ?
-
-
-        . . .
-             t   h   a   t
-the  1774
-        Schiehallion   experiment
-t o
-             calculate the
-                  density   of
-t  h  e
-        E   a   r   t   h
-also   made
-        the   first
-        use  of  contour
-lines  to  represent
-h   e   i   g   h   t   ?
-
-
-        ...that in
-             1  9  9  5  ‚  Ä  î  1  9  9  7
-                  a
-        Center   for
-             D i s e a s e
-        Control  program
-                  identified over a
-                  h   u   n   d   r   e   d
-        patients   likely   suffering
-from life
-                  t   h   r   e   a   t   e   n   i   n   g
-        infections   new   in
-        t  h  e
-history  of  emerging
-        i   n   f   e   c   t   i   o   u   s
-d  i  s  e  a  s  e  s  ?
-
-
-...  that
-             the   village
-             of Strezimirovci has
-been   bisected   by
-        the Serbian‚ÄìBulgarian border
-             s  i  n  c  e
-1   9   1   9   ?
-
-
-. . . t h a t
-             A  u  s  t  r  a  l  i  a  n
-                  amateur astronomer
-                  Gregg Thompson has
-        been   acknowledged
-        by  supernova
-                  hunters  for  publishing
-c o m p a r i s o n
-                  charts  of
-             the brightest
-                  g  a  l  a  x  i  e  s  ?
-
-
-                  ...that   an   advertising
-        spot immediately
-        f  o  l  l  o  w  i  n  g
-                  Xinwen Lianbo,
-             a  daily  news
-                  p  r  o  g  r  a  m  m  e
-        shown   by   most
-        terrestrial   television
-        stations  in  mainland
-China,  can
-sell  for
-an   estimated
-U  S  $  1  0  0  ,  0  0  0  ?
-
-
-             ...that   root
-                  nodules  on  the
-        p   l   a   n   t
-                  Myrica  cerifera
-                  fix  nitrogen
-             faster   than   some
-        l e g u m e s ?
-
-
-        ...that Nicholas Bethell,
-             4  t  h
-                  Baron   Bethell   resigned
-                  a   s
-a Government whip
-        t  o
-                  sue Auberon Waugh
-                  who  claimed  that
-             his translation of
-        Solzhenitsyn's   Cancer
-W   a   r   d
-w a s
-        unauthorised,   and   helped
-lead   to   Solzhenitsyn's
-             a r r e s t ?
-
-
-.   .   .   t   h   a   t
-        oil  tanker  MV
-Transpacific is
-                  currently under
-        c o n t r a c t
-to   transport   fuel
-        f  o  r
-             t   h   e
-        U.S.  Defense
-             Department for
-             US$18,848   a
-                  d  a  y  ?
-
-
-                  ...that the
-             Thornapple River has
-                  5  dams,  including
-        o  n  e
-in  Ada
-             b o u g h t
-             from   Consumers   Power
-             for  a  dollar
-by a
-r  i  v  e  r
-property owners
-                  a   s   s   o   c   i   a   t   i   o   n   ?
-
-
-             ...that the Stalingrad
-             M  a  d  o  n  n  a
-                  w a s
-        flown out
-                  on  the
-             l  a  s  t
-                  transport plane
-                  to leave
-        the  trapped
-             Sixth   Army   during
-        the  Battle  of
-        S t a l i n g r a d ?
-
-
-. . . t h a t
-                  seven countries have
-             more   than
-o  n  e
-                  c   a   p   i   t   a   l
-             c i t y ?
-
-
-                  .  .  .  t  h  a  t
-                  r  h  y  m  e  d
-p  r  o  s  e
-                  h  a  s
-        been popular in
-                  various cultures,
-                  ranging from medieval
-             Arabic maqamat
-        t o
-                  m  o  d  e  r  n
-        r   a   p   ?
-
-
-...that   despite   a
-        N a z i
-                  ban   on   all
-        s   p   o   r   t   s   ,
-soccer   matches
-with  hooliganism  still
-        occurred   in
-             P  o  l  a  n  d  ?
-
-
-                  ...that  in
-             1995 The Virgin
-             Islands   Daily
-        News,   with   a
-                  s t a f f
-of only 18
-        full-time reporters and
-                  editors,  beat  out
-             t h e
-        Philadelphia  Inquirer  and
-the   Charlotte
-                  Observer to
-             win  the
-Pulitzer Prize
-             for Public
-S   e   r   v   i   c   e   ?
-
-
-        .  .  .  t  h  a  t
-        Nathaniel  Butter
-                  published  the  first
-                  E  n  g  l  i  s  h
-n   e   w   s   p   a   p   e   r   ?
-
-
-...that   Viktor
-             Pynzenyk, Ukraine's
-        Minister   of   Finance,
-is also a
-p  r  o  f  e  s  s  o  r
-        o  f
-        economics at
-             L v i v
-        U  n  i  v  e  r  s  i  t  y  ?
-
-
-                  ...that  even
-though   Denis
-P  o  t  v  i  n
-        retired in 1988,
-fans of the
-             New   York
-             R   a   n   g   e   r   s
-        still   practice
-        a tradition aimed
-             a t
-        i   n   s   u   l   t   i   n   g
-                  h i m ?
-
-
-        ...that   the   Pungoteague
-        River Light was
-the shortest-lived
-             s  c  r  e  w  p  i  l  e
-             l   i   g   h   t   h   o   u   s   e
-                  on the
-        C h e s a p e a k e
-Bay, and
-        may have
-        been the shortest-lived
-             lighthouse in the
-                  U  n  i  t  e  d
-S   t   a   t   e   s   ?
-
-
-        ... that during
-             t h e
-             Song   Dynasty,   the
-                  p  e  o  p  l  e
-        of   Sichuan
-        w   o   r   s   h   i   p   p   e   d
-                  Tang   Dynasty
-                  g   e   n   e   r   a   l
-                  W   e   i
-                  G  a  o
-as  a  local
-d   e   i   t   y   ?
-
-
-                  ...that  Aleksander  Krzy≈ºanowski
-                  ,   commander
-of   Polish
-                  r e s i s t a n c e
-                  in   the
-Vilnius  region,  was
-        arrested   by
-             the  Soviets
-        a   f   t   e   r
-             h  i  s
-        unit   helped   them
-        liberate   Vilnius   from
-        t   h   e
-        G   e   r   m   a   n   s   ?
-
-
-                  . . .
-             that   an   intense
-r  i  v  a  l  r  y
-        b e t w e e n
-             c  o  m  p  o  s  e  r  s
-Francisco   Asenjo   Barbieri
-             and   Emilio   Arrieta
-helped rekindle the
-        popularity of Spanish
-        o  p  e  r  a
-during   the   mid
-1  9  t  h
-                  c  e  n  t  u  r  y  ?
-
-
-                  ...   that
-the acquisition of
-                  the  Corus  Group
-             in  October
-2 0 0 6
-             has   made
-Tata Steel
-        India's  second  largest
-             c  o  m  p  a  n  y
-                  i n
-t h e
-        p  r  i  v  a  t  e
-             s e c t o r ?
-
-
-                  ...  that  McDynamo
-        won  the  Grade
-        1  Breeders'
-C u p
-Grand  National  Steeplechase
-        in   five
-        c o n s e c u t i v e
-        years,  with
-        the   fifth
-win   coming
-        as a 10-year-old,
-             t   h   e
-             oldest   horse
-r u n n i n g
-        t h a t
-        d  a  y  ?
-
-
-        ...that   Phil   Fondacaro,
-an  actor
-        with   dwarfism,
-                  p o r t r a y e d
-                  the  only  Ewok
-             to   die   on-screen
-                  in  Star  Wars
-        Episode VI: Return
-        o   f
-t   h   e
-J e d i ?
-
-
-        ...that   color   television
-             public broadcasting
-                  in   New   Zealand
-             began  in
-             1  9  7  5  ?
-
-
-             .   .   .   t   h   a   t
-                  Leonard Bernstein created
-                  controversy with
-                  h i s
-             remarks  about
-                  G l e n n
-                  Gould   during   a
-                  New   York
-        Philharmonic concert
-o   n
-        A   p   r   i   l
-                  6  ,
-        1 9 6 2 ?
-
-
-        ...  that
-        t h e
-             Virginia  Capital  Trail
-             connects three
-        h   i   s   t   o   r   i   c
-             capitals  of
-        Virginia (Williamsburg, Jamestown
-        a   n   d
-             R  i  c  h  m  o  n  d  )
-             with  a
-5 4 - m i l e
-                  (87¬†km)  long  paved
-                  b i c y c l e
-and   pedestrian
-        t r a i l ?
-
-
-        ...that   J√≥zef
-             Mianowski,   a
-                  19th   century
-Polish academic and
-             personal  physician  of
-        Grand Duchess
-Maria  Nikolaievna,  falsified
-        university records to
-give   alibis   to
-        P   o   l   i   s   h
-        insurgents in
-             1  8  6  0  s  ?
-
-
-             ...that   only
-             t h e
-                  s   h   o   r   t   e   r
-             of the
-             two  Berks  and
-H a n t s
-        Railway lines actually
-        entered Hants, the
-l  o  n  g  e  r
-b   e   i   n   g
-        entirely in
-                  the   county   of
-B   e   r   k   s   ?
-
-
-             ... that
-             Ren√©   Victor
-Auberjonois, one of
-                  the leading Swiss
-             painters of
-        the   20th
-             c   e   n   t   u   r   y   ,
-was  poorly  received
-in  the  Romandie,
-        w  h  e  r  e
-        h e
-        lived  most
-        of his
-        l   i   f   e   ?
-
-
-                  .   .   .   t   h   a   t
-             the  Underfall
-             Y   a   r   d
-        t a k e s
-             i   t   s
-        name  from
-             a   unique
-system  of
-        s  l  u  i  c  e  s
-d   e   s   i   g   n   e   d
-by  Isambard  Kingdom
-Brunel  to  remove
-silt   from   Bristol
-                  H   a   r   b   o   u   r   ?
-
-
-                  .  .  .  t  h  a  t
-             the   invention   of
-t h e
-        e  l  e  c  t  r  o  n  i  c
-        digital computer was
-        p u t
-into  the
-public  domain
-             in 1973
-        b   y
-                  the   decision   of
-             one  of
-        the   longest   federal
-c   o   u   r   t
-        cases   in   the
-             history   of
-             t  h  e
-U   n   i   t   e   d
-             S t a t e s ?
-
-
-             ...   that   Ingrid
-        Semmingsen   was
-                  the first female
-        p r o f e s s o r
-        of history in
-        N   o   r   w   a   y   ?
-
-
-...that  Kasongo  Ilunga,
-        incumbent  Minister
-        of   Foreign   Trade
-             for   the   Democratic
-             Republic   of
-                  the Congo,
-i   s
-        widely believed
-        to  be  a
-n   o   n   -   e   x   i   s   t   e   n   t
-p   e   r   s   o   n   ?
-
-
-             . . . t h a t
-                  a   bull   terrier
-        named  Stubby
-a   t   t   a   i   n   e   d
-                  the rank
-of  sergeant  during
-        World   War
-             I  ?
-
-
-                  .  .  .
-                  that  the  Mt.
-             Blanco  Fossil
-Museum  had  to
-             auction   off   the
-w  o  r  l  d  '  s
-        largest   mastodon   skull
-                  t  o
-             p a y
-             a  defamation
-        judgement  after
-             t  h  e
-c u r a t o r
-made   disparaging   Internet
-comments about
-        f  o  r  m  e  r
-        p  a  r  t  n  e  r  s  ?
-
-
-                  .  .  .  t  h  a  t
-        t  h  e
-        T  r  i  b  a  l
-                  c  l  a  s  s
-d e s t r o y e r
-             HMS   Tartar
-        received  the  nickname
-             'Lucky   Tartar'   due
-        to her numerous
-        escapes from
-d   a   n   g   e   r   o   u   s
-situations   in   World
-W a r
-                  I  I  ?
-
-
-        ...that  Minnie  Evans
-        r e c e i v e d
-i   n   s   p   i   r   a   t   i   o   n
-                  for her
-                  colored  pencil  drawings
-from   her
-d  r  e  a  m  s  ?
-
-
-...that Valentyn
-             Rechmedin, a Ukrainian
-journalist and
-        writer,   received
-             the Order of
-                  the Red
-        Star   after   World
-             W   a   r
-        I I ?
-
-
-                  . . .
-that  at
-        W a s h i n g t o n
-State University
-                  f r o m
-                  1948 to 1950,
-Bob Gambold
-                  was the quarterback
-of the
-                  school's   football
-             t e a m
-        a   n   d
-the   starting   forward
-for   its
-        basketball  team
-during   all   three
-        of  those
-             y  e  a  r  s  ?
-
-
-...that  the
-        m   a   i   n
-             force of the
-                  ≈ Å √ ≥ d ≈ ∫
-                  Army   was   destroyed
-in   the
-        Battle  of
-             the Border
-                  during   the   Polish
-             Defensive   War
-o f
-        1 9 3 9 ,
-b   u   t
-             a   n
-                  Operational  Group
-h   e   l   d
-                  out for
-                  a  month
-                  defending   the   Modlin
-        f o r t r e s s ?
-
-
-                  .  .  .  t  h  a  t
-        t  h  e
-             Kent Music Report
-was   a   weekly
-             table of
-                  Australian   music
-singles and
-        albums  which
-             was   the   primary
-record   chart
-        i   n
-                  that  market
-                  f  r  o  m
-             1974 to
-             1   9   8   8   ?
-
-
-                  .   .   .   t   h   a   t
-        the M√ºller-Thurgau hybrid
-g r a p e
-is a
-                  19th-century   cross
-        b   e   t   w   e   e   n
-        the  Riesling  and
-             C   h   a   s   s   e   l   a   s   ?
-
-
-             ...that the
-                  S a m n i t e
-gladiator  type
-             likely  went
-out of
-        fashion in
-Ancient  Rome  when
-the   people
-                  o f
-                  S   a   m   n   i   u   m   ,
-        whom  it  was
-intended  to  mock,
-             became assimilated
-        into the
-R   o   m   a   n
-                  E m p i r e ?
-
-
-                  ...   that   SS
-             Catalina, after
-reportedly carrying
-more   passengers
-             than any
-                  other  ship
-                  anywhere,  has  been
-s t u c k
-half-submerged in Ensenada,
-             Mexico   for   more
-than   ten
-        y e a r s ?
-
-
-             ...   that
-             the  members
-        of the
-             C  a  n  a  d  i  a  n
-             a  l  t  e  r  n  a  t  i  v  e
-dance   band   Ubiquitous
-                  Synergy  Seeker  met
-        while   stocking
-the  beer
-fridge at a
-                  g  o  l  f
-c  o  u  r  s  e  ?
-
-
-. . .
-that   the
-                  Horse Grenadier
-             Guards were
-             a unit
-                  o  f
-             the  British  Household
-             Cavalry until 1788,
-        originally   serving
-as  mounted
-             infantry  to
-        reinforce  the  Horse
-G  u  a  r  d  s
-        R  e  g  i  m  e  n  t  ?
-
-
-                  .   .   .   t   h   a   t
-        a boycott of
-        Juanes' song "La
-        C a m i s a
-                  N   e   g   r   a   "
-             w a s
-        organized  after
-                  it  was
-        u s e d
-             b   y
-        n  e  o  -  f  a  s  c  i  s  t  s  ?
-
-
-        ...that Crveni
-                  Krst,  a
-        neigborhood of
-        Belgrade,  Serbia,
-             was  built  around
-        the  alleged
-        burial  site
-                  of  Saint
-                  S a v a ?
-
-
-                  ...that  Central  Fire
-                  Station,   the   oldest
-        e x i s t i n g
-             f i r e
-        s t a t i o n
-             in   Singapore,
-had only four
-                  p   o   r   t   a   b   l   e
-             w a t e r
-             pumps  when
-                  it   was   completed
-             i n
-1   9   0   8   ?
-
-
-             ...that   the   first
-             railroad   steam   locomotive
-b   u   i   l   t
-             by Rogers Locomotive
-        and Machine Works
-             w   a   s
-also  the
-        first   locomotive
-t   o
-             o   p   e   r   a   t   e
-                  i n
-        the  U.S.  state
-        o   f
-O h i o ?
-
-
-             ...  that  after
-the   standardisation   of
-                  the German
-        S  h  e  p  h  e  r  d
-        Dog, other
-                  herding   dogs   in
-             G   e   r   m   a   n   y
-became known
-             as   Old
-        German  Shepherd  Dogs
-w h i c h
-                  is  now
-             the name given
-        to   a   rare
-                  m   o   d   e   r   n
-b  r  e  e  d
-        (  p  i  c  t  u  r  e  d  )  ?
-
-
-             .   .   .   t   h   a   t
-             i   n
-             1 9 4 5 ,
-             Congregationalist minister Geoffrey
-             Nuttall  became
-             only  the  second
-             n  o  n  c  o  n  f  o  r  m  i  s  t
-        t  h  e  o  l  o  g  i  a  n
-                  t  o
-        b  e  c  o  m  e
-a   Doctor
-             of   Divinity
-        a  t
-        O   x   f   o   r   d   ?
-
-
-             .   .   .   t   h   a   t
-        Stonewall Jackson,
-camped  with  his
-m  e  n
-        at Carter Hall,
-        allowed   his   physician
-             t   o
-        p  e  r  f  o  r  m
-                  a
-             cataract operation
-                  o  n
-        the owner,
-             o   n
-t h e
-             portico  of  the
-             m a n s i o n ?
-
-
-...that   the
-                  g   e   o   l   o   g   y
-                  of  the  Grand
-             C   a   n   y   o   n
-             area   includes
-                  more  than
-                  40   identified   rock
-                  l a y e r s ?
-
-
-...that  the
-             unfinished   Ca'   Rezzonico
-        p  a  l  a  z  z  o
-                  a   p   p   e   a   r   s
-        in   an   early
-        1 8 t h - c e n t u r y
-                  p  a  i  n  t  i  n  g
-                  of   Venice's
-G  r  a  n  d
-        Canal by
-                  C  a  n  a  l  e  t  t  o  ?
-
-
-                  ... that
-             I   v   o   r   i   a   n
-             politician  Jean  Konan
-                  B a n n y
-                  i  n  v  e  n  t  e  d
-             a  non-alcoholic
-                  d  r  i  n  k
-        he  described
-                  a   s
-        "a  wine  [made]
-                  f r o m
-             p   i   n   e   a   p   p   l   e   s   "   ?
-
-
-...that   former
-        Red  Army
-             Faction terrorist Stefan
-                  Wisniewski escaped
-                  f  r  o  m
-a
-             r  e  f  o  r  m
-             s c h o o l
-seven  times  in
-             o n e
-        y  e  a  r
-in   his
-                  y  o  u  t  h  ?
-
-
-                  ...that  Banaag  at
-        Sikat,   a   novel
-             b  y
-        L   o   p   e
-K   .
-        S  a  n  t  o  s  ,
-                  was once considered
-        the  ‚ÄúBible
-        of  Filipino
-        l a b o r e r s ‚ Ä ù ?
-
-
-             ...   that   screenwriter
-             Melissa  Rosenberg  originally
-aspired   to
-be   a
-                  dancer,   and   ended
-             up writing the
-        2  0  0  6
-             dance film
-        S   t   e   p
-                  U   p   ?
-
-
-             ...that  the
-                  c a p t a i n
-o  f
-        the steamboat Natchez
-                  w   o   u   l   d
-             i  n  c  r  e  a  s  e
-        h i s
-             boat's speed
-by  putting
-bacon and hog
-        fat  in
-             i   t   s
-                  e   n   g   i   n   e   s   ,
-                  a  n  d
-                  giving his men
-        w  h  i  s  k  e  y  ?
-
-
-. . . t h a t
-             The  Masked
-                  Rider   mascot
-                  of Texas
-                  T   e   c   h
-                  U   n   i   v   e   r   s   i   t   y
-wears a black
-                  and  red
-        outfit and
-             rides his
-black   horse   around
-to enthuse fans
-o   f
-        the  Texas  Tech
-             R   e   d
-        R a i d e r s ?
-
-
-             ...that   William
-                  Campbell   was
-the   first   acknowledged
-             discoverer of
-                  gold  in
-                  the Australian
-s   t   a   t   e
-             of   Victoria   in
-             1850, but
-             kept his discovery
-             secret   for
-        fear  a
-        g  o  l  d
-rush   would   disrupt
-                  h  i  s
-             p   a   s   t   o   r   a   l
-                  i n t e r e s t s ?
-
-
-        ... that
-A   l   e   x   a   n   d   e   r
-                  Ross   was
-                  E n g i n e e r - i n - C h i e f
-o f
-             t   h   e
-                  B  r  e  y  d  o  n
-V  i  a  d  u  c  t  ?
-
-
-        ...that the
-                  police officer who
-             illegally  shot  Nathaniel
-             Levi  Gaines  in
-                  1  9  9  6
-             became  the  third
-                  officer from
-the   New   York
-                  City  Police  Department
-to be
-sentenced for committing
-             a   crime
-while on
-        a   c   t   i   v   e
-             d  u  t  y  ?
-
-
-...   that
-Leon  "Pee  Wee"
-Whittaker,  an
-             African  American
-        trombonist from the
-        M   i   s   s   i   s   s   i   p   p   i
-        River delta country,
-p l a y e d
-a  t
-        least   five
-i   n   s   t   r   u   m   e   n   t   s
-        i   n
-        a   74-year
-                  m u s i c a l
-c a r e e r ?
-
-
-                  ...  that
-        the   First
-                  C   o   n   g   r   e   s   s
-        of Vienna was
-        h   e   l   d
-t h r e e
-h  u  n  d  r  e  d
-        y   e   a   r   s
-        b e f o r e
-             the   more
-             famous 1815
-                  C  o  n  g  r  e  s  s  ?
-
-
-        ...that   Jyotirindranath
-T   a   g   o   r   e
-p l a y e d
-                  a
-                  major  role
-        in the flowering
-o f
-the  talents  in
-                  h   i   s
-                  younger  brother,  the
-             first Asian Nobel
-        Prize  winner
-             R   a   b   i   n   d   r   a   n   a   t   h
-T   a   g   o   r   e   ?
-
-
-        ...   that
-                  Mukti  Bahini
-guerrillas  were
-        absorbed into
-t   h   e
-ranks  of  regular
-military  officers  and
-             personnel   upon   the
-        formation   of   Bangladesh's
-             a r m e d
-        f  o  r  c  e  s  ?
-
-
-...that   Audrey
-Stubbart worked until
-        age 105, becoming
-        t h e
-             oldest verified full-time
-        employee  ever
-        in   the
-             U n i t e d
-        S  t  a  t  e  s  ?
-
-
-        ...that Lorenzo M.
-             T  a  √  ±  a  d  a
-             was  the
-        l o n g e s t - s e r v i n g
-                  s e n a t o r
-                  i  n
-                  P  h  i  l  i  p  p  i  n  e
-h i s t o r y ?
-
-
-...that Sherefudin's White
-        Mosque,  where  the
-m  i  h  r  a  b  ,
-             m i n b a r
-        and minarets have
-        a   folk
-                  a  r  t
-c   h   a   r   a   c   t   e   r
-        s u b t l y
-        enhanced  by  the
-        avant-garde   geometries   of
-t  h  e  i  r
-        setting, won
-             the  1983
-A   g   a
-             K h a n
-                  A w a r d
-f   o   r
-                  A   r   c   h   i   t   e   c   t   u   r   e   ?
-
-
-                  ...   that
-                  Richard Marson,
-        f  o  r  m  e  r
-                  chief editor
-             o  f
-             the   BBC's   Blue
-                  Peter  also  worked
-freelance   for   such
-                  companies  as  Disney,
-        P l a n e t
-                  24 and
-        L  W  T  ?
-
-
-.   .   .
-t  h  a  t
-an   estimated   73
-                  p   e   r   c   e   n   t
-                  o   f
-             what and
-        h o w
-        much  all  children
-        eat is determined
-                  by   nutritional
-                  g   a   t   e   k   e   e   p   e   r   s   ?
-
-
-             ... that
-American illustrator,
-        painter  and  printmaker
-                  Ella Sophonisba
-                  Hergesheimer   was
-             the great-great granddaughter
-             of   Philadelphia
-artist Charles Willson
-                  P  e  a  l  e  ?
-
-
-        .   .   .
-t h a t
-                  Hedda and
-             I   n   g   r   i   d
-B e r n t s e n
-                  b e c a m e
-        the  first
-                  siblings in
-        Norway to compete
-in different events
-                  at the
-                  s   a   m   e
-        O   l   y   m   p   i   c
-                  G  a  m  e  s  ?
-
-
-             .   .   .   t   h   a   t
-t   h   e
-101  female
-        M  e  m  b  e  r  s
-        o f
-P a r l i a m e n t
-                  e l e c t e d
-                  in   the   United
-             Kingdom  in
-        Labour's landslide general
-                  election   victory   in
-                  1997   were   popularly
-known  as  Blair
-B  a  b  e  s  ?
-
-
-        ...that  Vietnamese  politician
-        and  dissident  Hoang
-M  i  n  h
-                  Chinh  was  jailed
-             twice after
-        criticizing the
-        C   o   m   m   u   n   i   s   t
-             P a r t y ?
-
-
-             ...that the
-             P   o   √   ®   m   e
-sur le
-d√©sastre   de   Lisbonne,
-        b  a  s  e  d
-o  n
-                  t   h   e
-             1755   Lisbon   earthquake
-             e x h i b i t s
-Voltaire's   rejection
-             of  optimism
-             a  n  d
-        P   r   o   v   i   d   e   n   c   e   ,
-        and  is
-        considered   an   introduction
-        t   o
-his  famous  work
-C a n d i d e ?
-
-
-                  .  .  .  t  h  a  t
-the  crown
-        i n
-        t   h   e
-                  coat of arms
-of Amsterdam is
-             t  h  e
-        I m p e r i a l
-             Crown of
-             A u s t r i a ?
-
-
-             .  .  .  t  h  a  t
-S  t  a  m  f  o  r  d
-                  House   in
-                  Singapore,   at   first
-             a   n
-        office  building,  was
-for   a   time
-        in   the   early
-                  20th century an
-             annex  of
-        Raffles Hotel due
-        t  o
-a shortage of
-             h   o   t   e   l
-r   o   o   m   s   ?
-
-
-... that
-                  N  o  r  w  e  g  i  a  n
-                  sociologist  Ingrid
-E   i   d   e
-                  w a s
-                  also a
-U n i t e d
-        N  a  t  i  o  n  s
-                  official   and   a
-politician for
-        the   Norwegian   Labour
-                  P  a  r  t  y  ?
-
-
-                  ...that  the
-        d  i  s  a  p  p  e  a  r  a  n  c  e
-             o f
-        jellyfish   from
-                  K   ƒ   Å   n   e   '   o   h   e
-Bay   has   generated
-             concerns about
-        m   a   i   n   t   e   n   a   n   c   e
-             of the
-                  local  yellowtail
-        s   c   a   d
-p   o   p   u   l   a   t   i   o   n   ?
-
-
-                  ...that   the   Yerazi‚Äîan
-                  A   z   e   r   i
-clan  that
-        originated   in
-        modern-day  Armenia  but
-left before the
-        Nagorno-Karabakh War‚Äîhave dominated
-                  politics   in   Azerbaijan
-s i n c e
-        S  o  v  i  e  t
-             t  i  m  e  s  ?
-
-
-                  ...that  Motilal
-             Sheel,   a   Bengali
-                  merchant in Calcutta
-             ( n o w
-        Kolkata)   in
-British India
-i n
-             t  h  e
-e a r l y
-                  19th   century,
-                  donated the
-                  land  on
-which  the
-        C a l c u t t a
-             M  e  d  i  c  a  l
-        C  o  l  l  e  g  e
-        was  built
-                  i   n
-1   8   3   5   ?
-
-
-
-
-                  ...  that
-                  t   h   e
-        Luxembourgian  football
-                  club   FV   Stadt
-        D √ º d e l i n g e n
-w o n
-        the  German  Gauliga
-Mittelrhein  in  1942
-                  and  went
-                  on  to  the
-German  championship  finals,
-                  l   o   s   i   n   g
-        0  ‚  Ä  ì  2
-        to   FC   Schalke
-        0 4 ?
-
-
-             .  .  .  t  h  a  t
-             Jun√≠pero   Serra   and
-Juan Mar√≠a
-                  de Salvatierra
-        have  both  been
-c   a   l   l   e   d
-        "the apostle
-                  o f
-C  a  l  i  f  o  r  n  i  a  ,  "
-for   their   work
-e   s   t   a   b   l   i   s   h   i   n   g
-                  Spanish   missions   in
-             Alta and
-        Baja California,
-                  r e s p e c t i v e l y ?
-                  r   i   g   h   t   |   1   0   0   p   x
-
-
-...   that   Romanian
-                  poet,  dissident,
-             a  n  d
-                  journalist   Dorin
-        T  u  d  o  r  a  n
-was only
-                  a   l   l   o   w   e   d
-to  leave  Romania
-                  for the United
-States after a
-                  42-day-long   hunger
-                  s  t  r  i  k  e
-        i   n
-1 9 8 5 ?
-
-
-                  ...that   the   direct-to-video
-             release  Simply  Mad
-About  the  Mouse:
-        A  Musical
-             C e l e b r a t i o n
-                  of  Imagination
-        featured   singers   like
-        Billy Joel, LL
-             C   o   o   l
-             J ,
-a n d
-        Harry Connick,
-             Jr. performing classic
-             D  i  s  n  e  y
-s o n g s ?
-
-
-                  ...that Manson
-                  Family  member
-P a u l
-        W  a  t  k  i  n  s
-             g a v e
-testimony to
-             the   Los   Angeles
-District   Attorney   which
-        helped explain Helter
-                  S  k  e  l  t  e  r  ?
-
-
-        ...  that  the
-450  aircraft  that
-             c o n d u c t e d
-                  the opening
-        a   e   r   i   a   l
-        bombardment  during
-t h e
-             B   a   t   t   l   e
-                  o f
-A a c h e n
-        failed to
-             h i t
-                  a
-             single  German
-             p   i   l   l   b   o   x   ?
-
-
-.  .  .
-             that  a
-calf   is   said
-to   haunt   the
-                  Kramgasse (pictured), a
-                  main  street
-i n
-        the  Old  City
-        o  f
-             Berne, Switzerland,
-        w  h  e  r  e
-             i t
-                  had been flayed
-        a l i v e ?
-
-
-        ...that   the
-                  blood  vessel  present
-        during   fetal   development
-             that carries oxygenated
-        blood  from  the
-                  p  l  a  c  e  n  t  a
-                  to the growing
-                  f   e   t   u   s
-                  is called
-             t h e
-             u m b i l i c a l
-        v e i n ?
-
-
-        . . .
-             that George M.
-        Keller  added
-U S $ 1
-             per share at
-        the   last   minute
-                  to   his   company's
-        bid  for
-G u l f
-                  O   i   l   ,
-        providing  the  margin
-        needed   to   win
-        a 1984 bidding
-                  w  a  r
-        t  o
-                  buy  Gulf
-        in  a
-             d  e  a  l
-             valued   at
-U  S  $  1  3  .  3  ¬  †  b  i  l  l  i  o  n  ?
-
-
-.   .   .   t   h   a   t
-             Nikita Balieff, a
-        vaudeville performer, writer,
-impresario, and director,
-        named   his
-                  theater "Chauve-Souris" (bat)
-after   a
-bat   flew
-        up out of
-                  the basement
-             door   and
-                  l a n d e d
-        o n
-        h  i  s
-h   a   t   ?
-
-
-        ...that   Frank   Parr,
-a  n
-                  E  n  g  l  i  s  h
-        chess   player,   won
-             the Hastings Premier
-                  during   his   first
-and only
-                  appearance  at  the
-             tournament in
-        1 9 3 9 / 1 9 4 0 ?
-
-
-...that  Cape  Leeuwin,
-t h e
-        most  south-westerly  point
-o f
-             the  Australian
-        continent, is named
-             after  the  Dutch
-        g a l l e o n
-             L e e u w i n ?
-
-
-             . . . t h a t
-homoclines   are
-                  tilted  rock  structures
-t  h  a  t
-             c  a  n
-             f   o   r   m
-                  r  i  d  g  e  s  ?
-
-
-                  ...that   bioethical
-        q  u  e  s  t  i  o  n  s
-                  r  e  s  u  l  t
-t  h  e
-             research  of  medical
-        r e s e a r c h
-                  s c i e n t i s t s
-             (   p   i   c   t   u   r   e   d   )
-                  w   o   r   k   i   n   g
-             with animals
-and animal
-                  p r o d u c t s ,
-        s u c h
-                  a s
-s  t  e  m
-             c   e   l   l   s   ?
-
-
-             ...that  the  only
-        active   volcano   in
-             S  o  u  t  h
-Asia is on
-                  B  a  r  r  e  n
-             Island, one of
-             I   n   d   i   a   '   s
-             A   n   d   a   m   a   n
-             I s l a n d s ?
-
-
-                  .   .   .
-                  t   h   a   t   ,
-        at  248.1  metres
-                  (   8   1   4   ¬   †   f   t   )   ,
-        M   i   d   t   o   w   n
-        T  o  w  e  r
-        (   p   i   c   t   u   r   e   d   )
-i  s
-                  the  tallest  building
-in  Tokyo,
-                  J  a  p  a  n  ?
-
-
-.   .   .
-        that George Zames
-             pioneered   the   H-infinity
-             methods   which   have
-             revolutionized   the
-field of
-             r  o  b  u  s  t
-             c   o   n   t   r   o   l   ?
-
-
-        ...   that
-             after  serving  as
-                  a
-        Union Army general
-        d u r i n g
-        the American
-                  C   i   v   i   l
-War,  George  Henry
-Chapman  served
-        a   s
-             a   judge
-                  in   the
-             Indiana   Criminal   Court,
-and  later  a
-             s   t   a   t   e
-        l e g i s l a t o r
-        in  the
-        I   n   d   i   a   n   a
-        S  e  n  a  t  e  ?
-
-
-                  ...that boats
-             crammed   with   people
-             f  r  o  m
-        both India and
-             Bangladesh, flying the
-                  f  l  a  g  s
-of   their
-r   e   s   p   e   c   t   i   v   e
-                  c o u n t r i e s ,
-                  converge   on   the
-             Ichamati  River,
-        the  international  border,
-to   immerse   the
-        idols  after  Durga
-        P   u   j   a   ?
-
-
-             ...that the practices
-        of the Followers
-                  of Christ
-             church  in  Oregon,
-United States, which
-             include   faith
-             healing and
-        forbid  medical  treatment,
-             p r o m p t e d
-             a
-             1999 state
-law  making  parents
-        l i a b l e
-             if  their  children
-a  r  e
-             harmed by a
-l  a  c  k
-             o   f
-t  r  e  a  t  m  e  n  t  ?
-
-
-...that   Houhora   Mountain
-was the first
-part  of
-             N  e  w
-                  Zealand  that  the
-e   a   r   l   y
-             explorer  Kupe
-                  saw,  but  he
-             thought it was
-a  whale,
-             a   c   c   o   r   d   i   n   g
-                  to   MƒÅori
-        l   e   g   e   n   d   ?
-
-
-                  .   .   .   t   h   a   t
-during  his  research
-                  into   women's
-             olfactory   selection   of
-             p  o  t  e  n  t  i  a  l
-        mates, Swiss biologist
-                  Claus  Wedekind  conducted
-                  what  has  become
-             known   as
-        the  "Sweaty
-T  -  s  h  i  r  t
-S  t  u  d  y  "  ?
-
-
-             ... that the
-o n l y
-             trio of brothers
-        to  appear
-             in  a  Major
-League  Lacrosse  game
-                  as   members   of
-                  t h e
-             s a m e
-             team are
-                  M  i  c  h  a  e  l  ,
-                  G r e g o r y ,
-                  and Stephen Peyser
-of   the   New
-J   e   r   s   e   y
-P   r   i   d   e   ?
-
-
-        .   .   .   t   h   a   t
-             the   Washington
-        I   r   v   i   n   g
-        s   i   d   e   w   h   e   e   l   e   r   ,
-t  h  e
-biggest   passenger-carrying   riverboat
-                  ever built, sank
-             after colliding
-                  with   an
-oil barge
-        i n
-             1   9   2   6   ?
-
-
-        ...  that  South
-                  Liberty  Street
-        in  Poughkeepsie,  New
-York,  was  renamed
-                  G  a  r  f  i  e  l  d
-                  P l a c e
-        after  the  assassination
-             of U.S.
-             P  r  e  s  i  d  e  n  t
-             J  a  m  e  s
-A  .
-        G a r f i e l d ?
-
-
-        ...  that  Jane
-Meutas   (pictured)   was
-                  drawn by Holbein
-             a   n   d
-             e   n   g   r   a   v   e   d
-                  b  y
-B   a   r   t   o   l   o   z   z   i   ?
-
-
-        ... that
-                  Admiral Shigeyoshi
-             Miwa commanded
-                  Imperial   Japanese
-             N   a   v   y
-        submarine   forces
-             during the attack
-        o   n
-P  e  a  r  l
-                  H a r b o r ?
-
-
-             ...that  the
-sting of the
-             r   a   i   n   f   o   r   e   s   t
-             s  h  r  u  b
-        Dendrocnide moroides can
-c a u s e
-severe   and   prolonged
-        pain   and   has
-                  been  reported
-             to   kill   dogs,
-h  o  r  s  e  s
-             a  n  d
-h u m a n s ?
-
-
-...that  Aretas
-III  commissioned  the
-m i n t i n g
-             of the first
-             silver  Nabataean
-             c o i n s ?
-
-
-             . . . t h a t
-             f o r m e r
-                  Congolese   general   Laurent
-        N   k   u   n   d   a
-        w   a   s
-        a  psychology  student
-             before helping Laurent-D√©sir√©
-             Kabila  to
-                  overthrow  Mobutu
-        S   e   s   e
-                  S  e  k  o  ?
-
-
-. . . t h a t
-                  Hurricane  Sergio  in
-             2006  was
-                  t  h  e
-             strongest Pacific hurricane
-        i   n
-             t h e
-             m o n t h
-                  o f
-        November on
-r   e   c   o   r   d   ?
-
-
-             . . .
-t  h  a  t
-             five of
-the   video
-                  games   nominated
-for  the
-             Annie   Award
-                  for   Best
-Animated   Video   Game
-                  are   adaptations
-             o f
-                  a  n  i  m  a  t  e  d
-                  f  i  l  m  s  ?
-
-
-        ...  that
-                  a  siruv  is
-        a   contempt
-             of  court
-                  o   r   d   e   r
-        issued   by   a
-             Jewish  rabbinical
-court  that  can
-        exclude people who
-             do not
-                  observe   the   court's
-        o  r  d  e  r  s
-        from   participation   in
-             r  e  l  i  g  i  o  u  s
-             s e r v i c e s ?
-
-
-                  ...that   B.   V.
-             Karanth trained
-alongside  Dr.  Rajkumar
-under   Gubbi
-             Veeranna,  one
-             of  the
-             pioneers   of   Kannada
-        t   h   e   a   t   e   r   ?
-
-
-
-
-        ...  that
-        t h e
-C   h   u   r   c   h
-o   f
-             S   t   .
-                  Catherine  (pictured)  in
-             S t .
-        Petersburg  was
-        t   a   k   e   n
-             over  by  the
-        Soviets,  closed,
-        ransacked   and   twice
-                  burned out,
-        before   being   returned
-to   the
-        Catholic   Church   in
-1 9 9 2 ?
-
-
-                  ...that   the   wimple
-                  p   i   r   a   n   h   a
-        i   s
-                  a  specialized  predator
-                  whose   diet   consists
-                  primarily of fish
-             s  c  a  l  e  s  ?
-
-
-
-
-                  ...that the Lincoln
-        M o t i o n
-Picture Company was
-                  t  h  e
-earliest film studio
-                  of "race
-             m  o  v  i  e  s  "  ?
-
-
-        .   .   .   t   h   a   t
-        sand festivals are
-             held all over
-the world and
-             n o t
-        o n l y
-o  n
-s  a  n  d  y
-             b  e  a  c  h  e  s  ?
-
-
-
-
-             .  .  .  t  h  a  t
-             t   h   e
-        A z o v
-             Cossack  Host
-             was the only
-        Cossack Unit
-                  in  the  Russian
-             Empire  that
-        h a d
-        a
-n a v a l
-             r o l e ?
-
-
-        ...that   on
-December   17,
-             1973  Pan
-        Am Flight 110
-        w  a  s
-             a  t  t  a  c  k  e  d
-             by six
-        Abu Nidal
-                  gunmen   at   Leonardo
-d  a
-             Vinci  Airport
-i  n
-                  R  o  m  e  ?
-
-
-                  . . .
-        that   golf
-                  in Scotland
-        (example  pictured)
-                  flourished despite "the
-f  u  t
-                  b   a   l
-        a  n  d  e
-t  h  e
-        golf"  (football  and
-             g o l f )
-being   "vtterly   criyt
-                  d  o  n  e  "
-             (  u  t  t  e  r  l  y
-                  condemned)   by   a
-                  1457 Act of
-                  the   Parliament   of
-        S  c  o  t  l  a  n  d  ?
-
-
-             ...  that
-the French
-                  government database
-             Joconde has
-             over   220,000   online
-i  m  a  g  e  s
-                  o   f
-        objects from nearly
-        300 French
-        m u s e u m s ?
-
-
-                  . . .
-                  t   h   a   t
-             W  i  l  l  i  a  m
-Blake sought
-in  his
-i  l  l  u  s  t  r  a  t  i  o  n  s
-             of Milton's Nativity
-        O d e
-             (example   pictured)
-                  to   depict   the
-                  r  e  b  i  r  t  h
-o   f
-J  o  h  n
-        Milton's   poetry
-i   n   t   o
-        t h e
-        c r e a t i v e
-             i  m  a  g  i  n  a  t  i  o  n
-o  f
-        C  h  r  i  s  t  ?
-
-
-...that   Shuri
-             C   a   s   t   l   e   ,
-             designated  a  national
-        treasures   of
-        Japan   and   used
-                  a s
-a   military
-        headquarters  during
-        World   War
-                  II,   was   shelled
-             by  U.S.  Navy
-                  s  h  i  p  s
-                  (including   the   USS
-        Missouri)  for
-             t   h   r   e   e
-        days, and is
-        today a UNESCO
-             W o r l d
-             H   e   r   i   t   a   g   e
-        S i t e ?
-
-
-        ...that engineering students
-             from  seventeen  American
-        universities  have
-             taken  part
-        i n
-             Challenge X
-(entrant  pictured),  a
-        government-sponsored competition designed
-             to guide
-        s t u d e n t s
-                  through  the
-                  a u t o m o t i v e
-                  d e s i g n
-        p r o c e s s ?
-
-
-             .  .  .
-that  composer  Jonathan
-                  Battishill once
-             performed several airs
-        f r o m
-             S  a  m  u  e  l
-        Arnold's  oratorio
-             The  Prodigal
-Son   without
-             the  sheet  music,
-        and   after   not
-        hearing   the
-                  w   o   r   k
-f   o   r
-m o r e
-             t h a n
-        2   0
-             y e a r s ?
-
-
-             ...   that
-t h e
-f   i   r   s   t
-military aerodrome
-                  in Britain was
-             at  Larkhill,
-        a n d
-t h e
-                  first  squadron
-        t o
-                  u   s   e
-                  a e r o p l a n e s
-             was   formed
-t  h  e  r  e  ?
-
-
-        . . . t h a t
-British   lawyer   Sir
-Robert   Megarry   was
-        tried  at  the
-                  O   l   d
-             B a i l e y
-             i n
-             1954   for
-        submitting  false  income
-tax   returns,   but
-                  later   went   on
-             to   become
-        a   High   Court
-                  j  u  d  g  e  ,
-        V i c e - C h a n c e l l o r
-                  of   the
-Chancery   Division   and
-                  t   h   e   n
-        Vice-Chancellor of
-                  t h e
-                  S  u  p  r  e  m  e
-             C   o   u   r   t   ?
-
-
-...  that  a
-        large   earthquake
-                  m o n i t o r i n g
-        n  e  t  w  o  r  k
-             was   established
-        i  n
-China's Yunnan
-Province   25   years
-             after the 1970
-        Tonghai   earthquake
-( l o c a t i o n
-                  p i c t u r e d ) ?
-
-
-                  . . . t h a t
-f   i   n   g   e   r   b   o   a   r   d   s   ,
-             are reduced
-        scale   model
-             figures   of
-        skateboards, that are
-             featured in
-        videos   and
-             used  as
-        3-D visual aids
-             for skateboarders to
-             u   n   d   e   r   s   t   a   n   d
-                  potential tricks and
-             m  a  n  e  u  v  e  r  s  ?
-
-
-             ...   that
-        Leon "Pee
-             Wee" Whittaker, an
-             African   American   trombonist
-        f  r  o  m
-        the Mississippi River
-        delta country,
-                  p   l   a   y   e   d
-                  at least five
-             instruments   in
-             a
-        7 4 - y e a r
-             m   u   s   i   c   a   l
-c a r e e r ?
-
-
-.   .   .   t   h   a   t
-C o l o n e l
-             W  i  l  l  i  a  m
-Nolde   was   the
-l  a  s  t
-             o  f  f  i  c  i  a  l
-American  casualty  of
-        t h e
-                  V i e t n a m
-             W  a  r  ?
-
-
-
-
-             ...that  Ben  Chapman,
-             the  actor
-        who portrayed
-                  t  h  e
-                  G   i   l   l   -   m   a   n
-i  n
-C   r   e   a   t   u   r   e
-                  from the Black
-                  Lagoon, was a
-             veteran   of   the
-                  K  o  r  e  a  n
-W   a   r   ?
-
-
-             ...that the
-                  p  s  y  c  h  i  a  t  r  i  c
-h  o  s  p  i  t  a  l
-             of   Denmark's   Capital
-R   e   g   i   o   n
-treats  about
-             35,000   patients
-             with  mental  disorders
-        e   v   e   r   y
-        year,  which  is
-                  about  40%
-             of the
-n   a   t   i   o   n   '   s
-t  o  t  a  l  ?
-
-
-                  ... that
-        Chadian  president  Fran√ßois
-             Tombalbaye   was
-        the first
-                  international leader
-                  t   o
-             o  f  f  i  c  i  a  l  l  y
-        recognize the
-                  Bokassa government
-        after   the   1965‚Äì1966
-                  Central African Republic
-        c   o   u   p
-d  ‚  Ä  ô  √  ©  t  a  t  ?
-
-
-        ...that 3‚Äì5.5
-             m   i   l   l   i   o   n
-        O S T - A r b e i t e r s ,
-s l a v e
-l a b o r e r s
-        from  Eastern  Europe,
-             w   o   r   k   e   d
-             i  n
-N  a  z  i
-             Germany   during
-W  W  I  I  ?
-
-
-. . .
-             t   h   a   t
-makers   of   Chantilly
-             lace   were
-                  guillotined   during
-        t h e
-French  Revolution
-        because   they   were
-        s e e n
-        as prot√©g√©s
-o   f
-t  h  e
-             r   o   y   a   l   s   ?
-
-
-             ...that  the
-                  phage   group
-was   an
-        informal   network   of
-b  i  o  l  o  g  i  s  t  s
-c   e   n   t   e   r   e   d
-a  r  o  u  n  d
-Max   Delbr√ºck
-                  t   h   a   t
-             contributed heavily
-        to the
-        origins of molecular
-        b i o l o g y ?
-
-
-             ... that Henry
-             C l a y
-        Fry   was   the
-        first   to
-i  m  i  t  a  t  e
-                  cut  glass  from
-        p  r  e  s  s  e  d
-             b  l  a  n  k  s  ?
-
-
-... that Bill
-        Stoneman, who
-             pitched  two
-             no-hitters  for  the
-                  M o n t r e a l
-             E x p o s
-        and   later
-             ran  the
-                  Major League Baseball
-club  as
-             the   general
-m   a   n   a   g   e   r   ,
-f  i  r  s  t
-             joined the franchise
-        i  n
-the 1968
-e x p a n s i o n
-             d r a f t ?
-
-
-                  . . .
-                  that   Sir   John
-                  Hussey,   Chief
-                  Butler  of  England
-under  King  Henry
-VIII, was
-             e x e c u t e d
-             f   o   r
-t  r  e  a  s  o  n  ?
-
-
-             .   .   .   t   h   a   t
-                  t  h  e
-Sussex  Railroad  was
-        the last
-        i   n   d   e   p   e   n   d   e   n   t   l   y
-                  operated  New  Jersey
-        r a i l r o a d
-             t  o
-                  b   e
-        incorporated   into   the
-        Delaware, Lackawanna and
-W  e  s  t  e  r  n
-        R   a   i   l   r   o   a   d
-        s  y  s  t  e  m  ?
-
-
-.  .  .  t  h  a  t
-        t  h  e
-                  Cathedral   of   Magdeburg
-             was  the
-highest church
-             in  East  Germany
-        and houses the
-             grave   of   Otto
-I, Holy Roman
-             E  m  p  e  r  o  r  ?
-
-
-                  ...that  collard  greens
-             are   used
-             in  the
-             Portuguese-Brazilian   soup   caldo
-verde  ("green
-        b   r   o   t   h   "   )   ?
-
-
-        ...  that
-             o  f
-over 1,000
-                  stone   Buddha
-        statues that
-                  o   n   c   e
-        e x i s t e d
-at  the  Korean
-        Buddhist  temple
-        Unjusa,  only
-             91  remain
-             i n t a c t ?
-
-
-                  .   .   .
-        that a
-shrew's  fiddle  was
-                  used to
-             p   u   n   i   s   h
-                  w   o   m   e   n
-             who  were  caught
-             fighting   or
-                  arguing in Germany
-and   Switzerland,
-and   slaves   in
-the   United
-                  S  t  a  t  e  s  ?
-
-
-. . .
-             t h a t
-             t   h   e
-        f i r s t
-organized   postal
-             system   in
-India  was  established
-        between   the
-             B  r  i  t  i  s  h
-        East India Company
-factories at Madras
-             and  Calcutta  during
-                  t h e
-t e n u r e
-o  f
-E  d  w  a  r  d
-        H   a   r   r   i   s   o   n   ?
-
-
-...that   Bantcho
-             Bantchevsky   committed   suicide
-                  during  a
-                  n   a   t   i   o   n   a   l   l   y   -   b   r   o   a   d   c   a   s   t
-                  performance from the
-M  e  t  r  o  p  o  l  i  t  a  n
-O   p   e   r   a   ?
-
-
-             ...that the men's
-        adventure genre of
-                  p  u  l  p
-             magazine   often
-                  f e a t u r e d
-        damsels  in
-             distress  menaced
-             b y
-N  a  z  i  s  ?
-
-
-                  .   .   .
-             t   h   a   t
-                  t h e
-             distribution  company
-        Bunzl   once   held
-a   virtual
-                  m   o   n   o   p   o   l   y
-on   the   manufacture
-        of cigarette filters
-        i n
-t  h  e
-                  U  .  K  .  ?
-
-
-                  ...that  the
-        t   o   w   n
-of Rogersville,
-                  Tennessee  was
-             f o u n d e d
-             i   n
-                  1789 by Irish-born
-p i o n e e r
-        J  o  s  e  p  h
-        R  o  g  e  r  s
-             a   n   d
-        his   father-in-law   Thomas
-                  A  m  i  s  ?
-
-
-                  ...that   there   have
-                  been at
-                  least  fifteen
-deaths at the
-                  Welsh cave
-P o r t h
-             y   r
-                  O   g   o   f
-in the
-             last twenty years,
-        all  but
-one  in  the
-s   e   v   e   n   -   m   e   t   r   e   -   d   e   e   p
-R e s u r g e n c e
-P   o   o   l   ?
-
-
-        ...that French
-                  mycologist   and
-                  naturalist  Lucien  Qu√©let
-             claimed in
-        his   book,
-             M   y   c   o   l   o   g   i   c
-Flora of
-France,   that
-t h e
-             human   race   as
-        a   whole   was
-        becoming more
-and   more
-             p   r   i   m   i   t   i   v   e   ?
-
-
-             .  .  .  t  h  a  t
-             w i t h i n
-             a  tomb  in
-        t  h  e
-town of
-             Bergamo, Italy
-t h e r e
-                  is a statue
-                  dedicated to the
-             life of
-        Enrico Rastelli, the
-        world's   greatest
-        j   u   g   g   l   e   r   ?
-
-
-...that  Cyclone
-E   l   i   t   a
-             in January 2004
-c r o s s e d
-             M a d a g a s c a r
-             t   h   r   e   e
-                  t   i   m   e   s   ,
-an   unusual
-event but not
-u  n  p  r  e  c  e  d  e  n  t  e  d  ?
-
-
-.   .   .   t   h   a   t   ,
-                  b e s i d e s
-                  s   m   u   g   g   l   i   n   g
-        a  n  d
-             d   i   s   t   r   i   b   u   t   i   n   g
-        Colombian cocaine and
-M  e  x  i  c  a  n
-        a n d
-Southeast   Asian
-                  heroin, Sinaloa Cartel
-             p r o d u c e s
-        i   t   s
-                  o   w   n
-        o p i u m
-                  a   n   d
-m a r i j u a n a ?
-
-
-...  that
-             t  h  e
-             Angel   Island
-             C   h   u   c   k   w   a   l   l   a   ,
-        an  Iguanidae
-        s   p   e   c   i   e   s   ,
-                  was   considered
-             s  u  c  h
-             an   important
-                  f o o d
-             item to the
-                  S   e   r   i
-             people that
-                  they  translocated
-        the  species  to
-        islands within the
-                  Sea   of
-                  C o r t √ © s ?
-
-
-        ...that   Sgurr
-        na  Ciste
-D  u  i  b  h  e  ,
-                  a Munro
-                  i n
-                  Scotland,   is   one
-             of  the  "Five
-Sisters   of
-                  K i n t a i l " ?
-
-
-                  . . .
-        that   Frank   Ford,
-                  an  organic
-        foods farmer in
-             Deaf  Smith  County,
-                  Texas,  was  the
-             chief   advertising
-        s  p  o  k  e  s  m  a  n
-for the
-             health   foods
-        industry   during
-        its  founding
-        decades of
-             t h e
-        1960s  and
-                  t   h   e
-                  1  9  7  0  s  ?
-
-
-...that   American
-                  w r i t e r
-                  E   l   b   e   r   t
-                  H   u   b   b   a   r   d
-                  traveled   about
-        McLean   County,   Illinois
-to  collect
-past due
-f  e  e  s
-                  from  his  father's
-             c l i e n t e l e
-        to complete the
-                  Hubbard   House
-                  (   p   i   c   t   u   r   e   d   )
-             i   n
-1   8   7   2   ?
-
-
-. . .
-t  h  a  t
-after Roche
-MacGeoghegan, Bishop
-        of Kildare,
-                  died   in   1644,
-h   i   s
-             library   was   divided
-        between his
-             d  i  o  c  e  s  e
-             and the
-D   o   m   i   n   i   c   a   n
-O  r  d  e  r  ?
-
-
-.   .   .
-that   the   Narragansett
-        Turkey is
-                  a
-        b r e e d
-        o  f
-        domestic   turkey   unique
-             t   o
-                  North   America
-             and named
-        after Narragansett Bay
-                  in Rhode
-             I   s   l   a   n   d   ?
-
-
-...that  the
-             Y  u  l  u  p  a
-Creek  watershed  has
-                  been designated as
-        critical   habitat
-        for   two   California
-                  e   n   d   a   n   g   e   r   e   d
-        s  p  e  c  i  e  s  ?
-
-
-             . . . t h a t
-k i m c h i
-b  o  k  k  e  u  m  b  a  p
-i  s
-                  a
-Korean   fried   rice
-             made   with
-k   i   m   c   h   i
-        and   any
-        a  v  a  i  l  a  b  l  e
-             i  n  g  r  e  d  i  e  n  t  s  ?
-
-
-        ...that   when
-                  the John
-                  Bull  ran  under
-                  i  t  s
-                  own  power  in
-                  1981   it   became
-             the   oldest
-operable steam locomotive
-in the
-w  o  r  l  d  ?
-
-
-             ...  that  Henriade,
-                  an   epic
-poem  by  French
-Enlightenment writer Voltaire,
-             w  a  s
-written in honour
-                  of   the   life
-                  of Henry
-             I V ?
-
-
-...   that   in
-                  order to
-        f   o   r   c   e
-        certain   officials
-                  t   o
-                  l   e   a   v   e
-office,  Arizona  Territorial
-        Governor  Lewis  Wolfley‚Äé
-        had their salary
-p  a  y  m  e  n  t  s
-w   i   t   h   h   e   l   d   ?
-
-
-        ...   that
-                  Philip  II  of
-Macedon  used  the
-S o c i a l
-             W   a   r
-                  (357-355  BC)
-             as   an   opportunity
-             to  further
-             the  interests
-of  his
-             M   a   c   e   d   o   n   i   a   n
-             Empire  in  the
-                  A  e  g  e  a  n
-             r   e   g   i   o   n   ?
-
-
-        ...that the
-building housing
-the Indian
-             Institute  of  Advanced
-             S   t   u   d   y
-a t
-                  Shimla, Himachal
-Pradesh was originally
-        built as a
-             h   o   m   e
-for  Lord  Dufferin,
-                  V i c e r o y
-             o  f
-        I n d i a ?
-
-
-.   .   .
-        that  the
-                  mossy   leaf-tail   gecko
-                  (pictured) of
-Madagascar possesses
-        dermal  flaps  which
-             d i s g u i s e
-        i  t  s
-             o  u  t  l  i  n  e  ?
-
-
-
-
-        ...  that  Archibald
-                  R u s s e l l
-w a s
-             Bristol Aeroplane Company's
-        C  h  i  e  f
-        D e s i g n e r
-             for  25
-y   e   a   r   s
-             o f
-        his   44-year
-        c a r e e r ?
-
-
-...that the Sound
-             Effects Choir
-        c  a  n
-i m i t a t e
-        the sounds
-                  o  f
-a   car
-             u  s  i  n  g
-             o   n   l   y
-                  the mouth or
-        o t h e r
-             b  o  d  y
-        p  a  r  t  s  ?
-
-
-                  ...that the
-                  most  important  source
-        f  o  r
-e  a  r  l  y
-                  I  r  i  s  h
-                  history,  the  Chronicle
-        of Ireland,
-             i s
-        not  an  actual
-        single chronicle
-             but  a  hypothesized
-        collection   of   ecclesiastical
-                  a   n   n   a   l   s
-                  reconstructed  from
-l a t e r ,
-derivative  works,  because
-                  no original
-        c o p i e s
-s   u   r   v   i   v   e   d   ?
-
-
-        . . . t h a t
-        t h e
-             l e a d e r s
-        o  f
-        the failed coup
-             i   n
-             P  o  l  a  n  d
-in  1919  were
-arrested by
-t   h   e   i   r
-        i   n   t   e   n   d   e   d
-t  r  o  o  p  s  ?
-
-
-...that  the  Indian
-             cricketer   Bapu
-N   a   d   k   a   r   n   i
-                  g o t
-the  nickname  Bapu‚Äîliterally,
-f  a  t  h  e  r  ,
-        and  Mahatma
-             Gandhi's  sobriquet‚Äîfor
-the curious
-        reason  that
-                  he  used
-             t   o
-        wear loincloths
-                  (langotis) instead
-of  modern
-        u   n   d   e   r   w   e   a   r   ?
-
-
-             ...that  Archbishop  Gennady
-                  o  f
-             Novgorod  commissioned  the
-             first  complete
-                  S l a v i c
-        translation   of
-                  t h e
-             B   i   b   l   e   ?
-
-
-                  ...that  Stieg
-                  Larsson's   posthumously
-p u b l i s h e d
-S   w   e   d   i   s   h
-        crime novel
-The Girl with
-                  t  h  e
-D  r  a  g  o  n
-                  Tattoo,   was   a
-                  best-seller critically compared
-w   i   t   h
-W  a  r
-        a n d
-P   e   a   c   e   ?
-
-
-                  ...  that  Bagheera
-                  k   i   p   l   i   n   g   i   ,
-                  n   a   m   e   d
-             after the black
-             panther   Bagheera
-                  f r o m
-        Rudyard  Kipling's
-Jungle   Book,
-        i s
-        t  h  e
-             only spider species
-known  to  subsist
-        o n
-             a
-m o s t l y
-v   e   g   e   t   a   r   i   a   n
-d  i  e  t  ?
-
-
-             . . .
-             that   consuming
-the  elfin  saddle
-        m  u  s  h  r  o  o  m
-             would   result
-                  in the
-                  harmful formation
-                  of  monomethylhydrazine,  a
-        component of
-        r   o   c   k   e   t
-             f   u   e   l   ,
-             in   your
-b  o  d  y  ?
-
-
-                  ...that   Fritz   the
-        Cat   was
-the   first
-             X-rated   animated
-                  f  e  a  t  u  r  e  ?
-
-
-        ...that the
-                  G  r  e  a  t
-             F  r  e  n  c  h
-             W  i  n  e
-                  Blight,  caused
-                  by  the
-d   e   a   d   l   y
-        p  h  y  l  l  o  x  e  r  a
-        ( c a r t o o n
-             pictured), destroyed
-o v e r
-                  40%   of   France's
-        v  i  n  e  y  a  r  d  s
-             in  the  mid-19th
-c  e  n  t  u  r  y  ?
-
-
-                  ...that the
-                  Allied  Bombing
-        o   f
-        Bucharest   in   World
-        War II damaged
-                  t   h   e
-        University of Bucharest
-             and  uprooted
-                  trees   at   the
-Botanical   Garden   of
-                  B u c h a r e s t ?
-
-
-        .  .  .  t  h  a  t
-        when  the  YMCA
-                  o f
-Berwick  was
-                  incorporated in
-             Pennsylvania  in
-                  1   8   8   3   ,
-             the  majority  of
-the organization's trustees
-        were current
-        executives  of  Jackson
-        a  n  d
-             W   o   o   d   i   n
-M  a  n  u  f  a  c  t  u  r  i  n  g
-C o m p a n y ?
-
-
-                  ...   that   the
-SS-physician  Alfred  Trzebinski,
-who was involved
-                  in the
-homicide of 20
-        children at the
-        f   o   r   m   e   r
-        school  Bullenhuser  Damm,
-        was  executed
-by hanging
-i  n
-                  1  9  4  6  ?
-
-
-        .   .   .
-that   a   tower
-of 2,000 wooden
-                  Schlitz  beer
-p   a   l   l   e   t   s   ,
-d   e   s   c   r   i   b   e   d
-as  "a
-                  rotting  vestige
-        of one man's
-egotism"   that   festers
-        "like a
-s  o  r  e
-        on   the
-        community's  body",
-                  is   a
-Los Angeles Historic-Cultural
-M   o   n   u   m   e   n   t   ?
-
-
-.   .   .
-                  that  the  first
-             conversion   of   a
-                  New  Caledonian  to
-             t  h  e
-             Bah√°'√≠   Faith
-        took   place
-        i   n
-1  9  6  1  ?
-
-
-             .   .   .   t   h   a   t
-t h e
-Golden  Charter  of
-             Bern ‚Äî
-                  t  h  e
-        b  u  l  l
-             t h a t
-m a d e
-             Berne, Switzerland, an
-                  Imperial  Free
-C   i   t   y
-i  n
-             1218 ‚Äî is
-             n   o   w
-                  considered   to   have
-             b e e n
-forged  decades  later
-        by  the  Bernese
-                  themselves  to
-                  c   o   n   f   i   r   m
-the rights
-                  they   had
-        s  e  i  z  e  d  ?
-
-
-        ...that Graham Creek
-in   California
-             was  a  seasonal
-        hunting and
-                  gathering ground for
-                  prehistoric  Pomo
-                  a   n   d
-        W   a   p   p   o
-             p e o p l e ?
-
-
-...that  Evagrius
-        Scholasticus,  John
-of   Ephesus,
-        Gregory   of
-        Tours   and
-        Paul   the   Deacon
-all   accused   Byzantine
-             E m p e r o r
-J  u  s  t  i  n
-II and his
-                  empress consort
-                  A e l i a
-             S   o   p   h   i   a
-o f
-                  g   r   e   e   d   ?
-
-
-... that former
-                  B  e  n  i  n  e  s  e
-                  army  Chief  of
-             Staff   Alphonse   Alley
-             w a s
-                  k n o w n
-                  as "the wine,
-                  w   o   m   e   n
-        a n d
-                  s   o   n   g
-             o f f i c e r " ?
-
-
-        ...that  the  American
-Buffalo gold
-                  bullion   coin
-             (pictured) will be
-        the  first  .9999
-f i n e
-             2  4  -  k  a  r  a  t
-                  gold coin released
-b   y
-                  the United States
-M   i   n   t   ?
-
-
-        . . . t h a t
-        Chillenden  Windmill  (pictured)
-             w   a   s
-                  the   last   post
-m  i  l  l
-             built in
-                  Kent,   replacing   a
-             m  i  l  l
-that had
-        blown   down
-             i n
-                  1   8   6   8   ,
-        and  that  it
-             was   itself
-        blown down
-        i   n
-2   0   0   3   ?
-
-
-        .  .  .  t  h  a  t
-the  Church  of
-S  t
-                  James   the
-             Great,   Haydock,
-                  Merseyside  was  built
-             with   timber
-                  framing because
-             i  t  s
-flexibility   would   provide
-                  g   r   e   a   t   e   r
-             p r o t e c t i o n
-                  against possible
-        m i n i n g
-             s  u  b  s  i  d  e  n  c  e  ?
+         .   .   .   t   h   a   t
+
+
+              antiepileptic  drugs
+
+
+              have  been
+
+
+    shown to prevent
+
+
+    early post-traumatic
+
+
+              s   e   i   z   u   r   e   s
+
+
+    but   not   post-traumatic
+
+
+    e  p  i  l  e  p  s  y  ?
+
+
+    o  r
+
+
+                   ...that  Operation
+
+
+    Predator,   a   U.S.
+
+
+                   Immigration  and
+
+
+    Customs Enforcement
+
+
+         that aims
+
+
+    at  ending
+
+
+                   child sex
+
+
+    tourism,   which   may
+
+
+         victimize   as
+
+
+              m  a  n  y
+
+
+         a s
+
+
+                   two   million
+
+
+                   c h i l d r e n
+
+
+    a n n u a l l y ?
+
+
+                   a  n  d
+
+
+                   ...that presidential candidate
+
+
+                   B a r a c k
+
+
+              O   b   a   m   a   '   s
+
+
+                   chief  of  staff,
+
+
+              Pete  Rouse,  came
+
+
+    to   be   known
+
+
+         as "the
+
+
+                   101st  Senator"
+
+
+              d u e
+
+
+              t   o
+
+
+              his   savvy
+
+
+    on Capitol
+
+
+    H   i   l   l   ?
+
+
+
+
+                   .  .  .
+
+
+                   t h a t
+
+
+         a   1974   provincial
+
+
+                   Order-in-Council   has   prohibited
+
+
+                   hunting   on   the
+
+
+              G r a n d
+
+
+    Codroy Estuary,
+
+
+              t   h   e
+
+
+                   "most  important  wetland"
+
+
+         on  the
+
+
+         island  of
+
+
+    N  e  w  f  o  u  n  d  l  a  n  d  ?
+
+
+                   o   r
+
+
+    ...that German lawyer
+
+
+              H   o   r   s   t
+
+
+    Mahler had for
+
+
+         h  i  s
+
+
+         o  w  n
+
+
+                   lawyer the
+
+
+              f   u   t   u   r   e
+
+
+              Chancellor of Germany
+
+
+         G  e  r  h  a  r  d
+
+
+         S   c   h   r   √   ∂   d   e   r   ?
+
+
+                   a n d
+
+
+                   ...  that  the
+
+
+                   ground living warblers
+
+
+                   i   n
+
+
+         t h e
+
+
+    genus  Tesia  appear
+
+
+              t o
+
+
+                   almost   lack   a
+
+
+    tail  and
+
+
+         have   very   long
+
+
+                   l e g s ?
+
+
+
+
+    . . . t h a t
+
+
+                   Garry   Lake
+
+
+         and the
+
+
+    Christian cross are
+
+
+         both  translated  as
+
+
+              H   a   n   n   i   n   g   a   j   u   q
+
+
+                   in  the
+
+
+                   l  o  c  a  l
+
+
+    I   n   u   k   t   i   t   u   t
+
+
+              l a n g u a g e ?
+
+
+                   o  r
+
+
+         . . . t h a t
+
+
+                   the Polish rock
+
+
+    band  Czerwone  Gitary
+
+
+              reached the
+
+
+              heights   of   its
+
+
+              p  o  p  u  l  a  r  i  t  y
+
+
+                   in  the  1960s,
+
+
+                   and   was
+
+
+    known   as
+
+
+                   t   h   e
+
+
+         P o l i s h
+
+
+                   B  e  a  t  l  e  s  ?
+
+
+                   a   n   d
+
+
+                   . . .
+
+
+              that the LSR
+
+
+                   Preserve  in  Grand
+
+
+                   Teton NP was
+
+
+                   a
+
+
+                   former dude
+
+
+    ranch   and   Rockefeller
+
+
+         family   retreat,   and
+
+
+                   t h e
+
+
+         first   LEED
+
+
+                   certified property
+
+
+                   i  n
+
+
+         W  y  o  m  i  n  g  ?
+
+
+
+
+         ...that   until
+
+
+                   r   e   c   e   n   t   l   y
+
+
+              many   Chilean   wines
+
+
+                   labeled Merlot
+
+
+         and  Sauvignon
+
+
+                   blanc were
+
+
+    really   made   from
+
+
+    Carm√©n√®re   and
+
+
+         S a u v i g n o n
+
+
+                   v   e   r   t   ?
+
+
+                   o  r
+
+
+    ...   that   "Milk
+
+
+         a n d
+
+
+    Alcohol"   ranked
+
+
+              on Britain's top-10
+
+
+                   hit  singles
+
+
+              chart   in   1979
+
+
+              a   n   d
+
+
+    was   the
+
+
+              biggest hit
+
+
+              for  the  band
+
+
+              D r .
+
+
+    F e e l g o o d ?
+
+
+    a n d
+
+
+
+
+         ...  that
+
+
+         George   Gordon
+
+
+              B  y  r  o  n
+
+
+                   d   r   e   w
+
+
+                   u p
+
+
+                   a  will  leaving
+
+
+    Nicol√≤  Giraud,  his
+
+
+                   young   companion   while
+
+
+    in Greece, ¬£7,000,
+
+
+         b u t
+
+
+    later   changed   his
+
+
+                   m  i  n  d  ?
+
+
+              o  r
+
+
+         ...that   the   Romanian
+
+
+                   organization Corpul
+
+
+         Muncitoresc Legionar was
+
+
+                   created by
+
+
+    the   Iron
+
+
+              G u a r d
+
+
+              in order
+
+
+         to   rally   the
+
+
+              working   class   around
+
+
+    f  a  s  c  i  s  m  ?
+
+
+                   a   n   d
+
+
+                   ...  that  in
+
+
+         the  1980s,  over
+
+
+              35,000  Vietnamese  people
+
+
+         w   o   r   k   e   d
+
+
+                   i   n
+
+
+         B u l g a r i a ?
+
+
+
+
+    ... that
+
+
+                   when   Frank
+
+
+    Fitzsimmons   was   named
+
+
+                   acting  president
+
+
+                   o f
+
+
+    the Teamsters
+
+
+              in  1967,  a
+
+
+                   union  insider
+
+
+         s  a  i  d  ,
+
+
+    "   H   e   '   s
+
+
+         just a peanut
+
+
+    b u t t e r
+
+
+                   s   a   n   d   w   i   c   h   ;
+
+
+    he'll  melt
+
+
+                   in  no
+
+
+         t  i  m  e  "  ?
+
+
+    o   r
+
+
+         ...that  Wesselenyi  conspiracy
+
+
+                   i   n
+
+
+              Hungary  aimed  at
+
+
+         removing Austrian influence
+
+
+         had  the  reversed
+
+
+    e   f   f   e   c   t   ?
+
+
+                   a   n   d
+
+
+              ...  that
+
+
+                   Cheshire   landowner   Rowland
+
+
+                   E g e r t o n - W a r b u r t o n
+
+
+              a r r a n g e d
+
+
+                   f   o   r
+
+
+    his  house,
+
+
+    A  r  l  e  y
+
+
+    Hall, to
+
+
+              b  e
+
+
+    d e s i g n e d
+
+
+         i n
+
+
+         T  u  d  o  r
+
+
+              style  while
+
+
+                   t  h  e
+
+
+                   chapel was
+
+
+         designed   in   Gothic
+
+
+         s  t  y  l  e  ?
+
+
+
+
+              .   .   .
+
+
+         that the
+
+
+    2001  film
+
+
+                   Sia,   le   r√™ve
+
+
+                   du   python   was
+
+
+    inspired   by
+
+
+         a   7th-century
+
+
+              myth  of  the
+
+
+                   Wagadu  people  of
+
+
+                   W e s t e r n
+
+
+              A  f  r  i  c  a  ?
+
+
+              o   r
+
+
+                   a n d
+
+
+              ...   that   the
+
+
+    Appomattox Park ([[:|pictured]])
+
+
+                   has  a  Court-house,
+
+
+    Tavern,   Jail,
+
+
+         Store and Prizery,
+
+
+                   the   Bocock-Isbell,   McLean,
+
+
+              Peers   and
+
+
+                   Wright  houses,
+
+
+    the Sweeney
+
+
+         and   Sweeney-Conner
+
+
+                   cabins, the Jones
+
+
+                   a  n  d
+
+
+         Woodson   law   offices,
+
+
+    ruins  and
+
+
+    c  e  m  e  t  e  r  i  e  s  ?
+
+
+
+
+                   ...   that   the
+
+
+    m  i  d  -  1  9  t  h
+
+
+         century  stone  arch
+
+
+    B  r  i  d  g  e
+
+
+         No.   3
+
+
+              over  Plunketts
+
+
+              C  r  e  e  k
+
+
+         in Pennsylvania,
+
+
+                   USA,   is
+
+
+    listed   on
+
+
+              t h e
+
+
+    Historic   American
+
+
+              E n g i n e e r i n g
+
+
+              R  e  c  o  r  d
+
+
+              e  v  e  n
+
+
+    though it was
+
+
+              d   e   s   t   r   o   y   e   d
+
+
+         in  a
+
+
+    1   9   9   6
+
+
+    f  l  o  o  d  ?
+
+
+         o  r
+
+
+                   ...that the proposed
+
+
+                   Doncaster  railway  line,
+
+
+                   Melbourne,  first  planned
+
+
+         in  1890,  would
+
+
+                   cost  around  ten
+
+
+    times   as   much
+
+
+         t   o
+
+
+    b   u   i   l   d
+
+
+                   n o w
+
+
+    as  the
+
+
+    A$41   million
+
+
+                   e   s   t   i   m   a   t   e   d
+
+
+    in  1972
+
+
+    when the
+
+
+    r o u t e
+
+
+                   w   a   s
+
+
+              d  e  c  i  d  e  d  ?
+
+
+                   a n d
+
+
+    ...   that   New
+
+
+              York  State
+
+
+    Route   146B   was
+
+
+              decommissioned   after   as
+
+
+              little  as  17¬†years
+
+
+         after  its  initial
+
+
+         d  e  s  i  g  n  a  t  i  o  n  ?
+
+
+
+
+              ...that   Michael
+
+
+    Groce indirectly
+
+
+              s t a r t e d
+
+
+              t   h   e
+
+
+         B r i x t o n
+
+
+    r   i   o   t
+
+
+         o f
+
+
+                   1   9   8   5   ?
+
+
+    o   r
+
+
+         ... that Casey
+
+
+    N i c h o l a w
+
+
+                   received  three
+
+
+                   Tony Award nominations
+
+
+              for his first
+
+
+                   two  shows
+
+
+         on   Broadway
+
+
+              a s
+
+
+              a
+
+
+    choreographer   and
+
+
+         d  i  r  e  c  t  o  r  :
+
+
+              The Drowsy
+
+
+    Chaperone   (2006)
+
+
+              and   Monty   Python's
+
+
+              S   p   a   m   a   l   o   t
+
+
+                   ( 2 0 0 5 ) ?
+
+
+                   a   n   d
+
+
+         .   .   .   t   h   a   t
+
+
+         Swedish classical
+
+
+         s  a  x  o  p  h  o  n  i  s  t
+
+
+                   Anders Lundeg√•rd is
+
+
+                   known for his
+
+
+    cello-like tone
+
+
+         and intense
+
+
+              p  e  r  f  o  r  m  a  n  c  e
+
+
+         s   t   y   l   e   ?
+
+
+
+
+    ...that Hersey Kyota
+
+
+              h   a   s
+
+
+         r  e  p  r  e  s  e  n  t  e  d
+
+
+         P  a  l  a  u
+
+
+    at  the  United
+
+
+         Nations Millennium Summit,
+
+
+    even  though  he
+
+
+    i   s
+
+
+                   not Palau's ambassador
+
+
+         t  o
+
+
+    t h e
+
+
+    U  .  N  .  ?
+
+
+              o   r
+
+
+                   .   .   .
+
+
+                   that Susanna Clarke's
+
+
+              n o v e l
+
+
+                   J   o   n   a   t   h   a   n
+
+
+         Strange  &  Mr
+
+
+                   Norrell  has
+
+
+                   185  footnotes,
+
+
+              which contain a
+
+
+    meticulous false history
+
+
+         o   f
+
+
+                   English magic and
+
+
+         an  entire  fictional
+
+
+         corpus  of  magical
+
+
+         s  c  h  o  l  a  r  s  h  i  p  ?
+
+
+    a n d
+
+
+                   {\displaystyle \textstyle
+
+
+                   m  }
+
+
+
+
+                   .  .  .  t  h  a  t
+
+
+              Erasmus   Darwin's
+
+
+              s e x u a l i z e d
+
+
+                   poem  The
+
+
+              Loves   of   the
+
+
+    Plants  (illustration  pictured)
+
+
+                   was a defense
+
+
+              of Carl
+
+
+                   Linnaeus's  botanical  classification
+
+
+                   s   c   h   e   m   e   ?
+
+
+              o   r
+
+
+    ...that  in  group
+
+
+    theory  words
+
+
+         are   any
+
+
+              written   product   of
+
+
+                   group elements and
+
+
+              t  h  e  i  r
+
+
+    i  n  v  e  r  s  e  s  ?
+
+
+              a n d
+
+
+              ...   that   Odo
+
+
+    J   .
+
+
+         Struger   is   known
+
+
+    as  the  "father
+
+
+    of the
+
+
+         programmable  logic  controller,"
+
+
+    an  electronic
+
+
+    device used
+
+
+    i n
+
+
+              nearly every automated
+
+
+    factory worldwide
+
+
+              t   o   d   a   y   ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+              L  o  c  u  s  t
+
+
+    G   r   o   v   e   ,
+
+
+                   Samuel   F.
+
+
+         B  .
+
+
+              M o r s e ' s
+
+
+         h o m e
+
+
+              n e a r
+
+
+                   P  o  u  g  h  k  e  e  p  s  i  e  ,
+
+
+              was  the
+
+
+         first  Hudson  Valley
+
+
+    e  s  t  a  t  e
+
+
+    to   be
+
+
+              designated a
+
+
+                   U.S. National Historic
+
+
+              L  a  n  d  m  a  r  k  ?
+
+
+         o  r
+
+
+    . . .
+
+
+         that   Dave   Matthews
+
+
+         B   a   n   d
+
+
+              r   e   c   e   i   v   e   d
+
+
+         two Grammy Awards,
+
+
+         one in 1997
+
+
+              for  the
+
+
+         song "So
+
+
+         M   u   c   h
+
+
+              to   Say"
+
+
+                   and  another  in
+
+
+              2  0  0  4
+
+
+                   for   the
+
+
+                   s o n g
+
+
+    "   G   r   a   v   e   d   i   g   g   e   r   "   ?
+
+
+         a n d
+
+
+              ...that Saint
+
+
+         T  e  r  e  n  c  e
+
+
+         was   proclaimed   the
+
+
+         patron  saint  of
+
+
+         Pesaro for
+
+
+    appearing  in  times
+
+
+         o  f
+
+
+                   c  r  i  s  i  s  ,
+
+
+         l   i   f   t   i   n   g
+
+
+         a
+
+
+                   siege of the
+
+
+              Italian  town
+
+
+    by French
+
+
+    troops   in
+
+
+    1   7   3   9   ?
+
+
+
+
+                   . . .
+
+
+              that   Marra   Farm
+
+
+         is   one
+
+
+              o   f
+
+
+    o   n   l   y
+
+
+    t   w   o
+
+
+         historic agricultural parcels
+
+
+         i n s i d e
+
+
+    Seattle,   Washington,
+
+
+              c i t y
+
+
+              l   i   m   i   t   s
+
+
+         that  retains
+
+
+         a  n
+
+
+         agricultural use
+
+
+                   t o d a y ?
+
+
+                   o r
+
+
+              ...that  prospector
+
+
+         Reuben D'Aigle missed
+
+
+    finding a
+
+
+              huge gold
+
+
+         deposit  by  only
+
+
+                   a  few  feet,
+
+
+         and   his   boot
+
+
+                   p   r   i   n   t
+
+
+         was   found   pressed
+
+
+                   into   the
+
+
+                   vein  when
+
+
+                   t h e
+
+
+              P  o  r  c  u  p  i  n  e
+
+
+         Gold Rush started
+
+
+    i n
+
+
+                   1 9 0 9 ?
+
+
+                   a  n  d
+
+
+              . . . t h a t
+
+
+              camelot  is  a
+
+
+                   woven  fabric  that
+
+
+         might have
+
+
+         originally  incorporated
+
+
+                   camel   or   goat
+
+
+                   h  a  i  r  ?
+
+
+
+
+         ...that   cricketer   Ian
+
+
+                   Meckiff  was
+
+
+              chaired   off   the
+
+
+                   ground  by  angry
+
+
+    s p e c t a t o r s
+
+
+         as a hero
+
+
+    after  he
+
+
+              was sanctioned
+
+
+    for illegal
+
+
+                   b  o  w  l  i  n  g  ?
+
+
+                   o  r
+
+
+    ...that Building
+
+
+         470   at
+
+
+    F o r t
+
+
+              Detrick   in
+
+
+    Frederick, Maryland
+
+
+                   housed fermentor tanks
+
+
+                   for   producing   Bacillus
+
+
+    a   n   t   h   r   a   c   i   s
+
+
+         during  the
+
+
+              C o l d
+
+
+    W   a   r   ?
+
+
+              a n d
+
+
+                   ...   that   the
+
+
+              Symmachi‚ÄìNicomachi diptych, intended
+
+
+                   to  celebrate  traditional
+
+
+              Roman paganism,
+
+
+              was  incorporated
+
+
+                   into   a
+
+
+                   Christian  reliquary
+
+
+              for almost
+
+
+              5 0 0
+
+
+    y   e   a   r   s   ?
+
+
+
+
+    ...that mathematician ƒêuro
+
+
+              K  u  r  e  p  a
+
+
+                   lectured   at   almost
+
+
+                   e  v  e  r  y
+
+
+    university  in
+
+
+         Y  u  g  o  s  l  a  v  i  a  ?
+
+
+                   o  r
+
+
+    .   .   .   t   h   a   t
+
+
+                   t  h  e
+
+
+         World   War
+
+
+              II-era   Crescent
+
+
+              City   class
+
+
+              attack  transports
+
+
+                   USS   Crescent
+
+
+              City  and  USS
+
+
+    C   a   l   v   e   r   t
+
+
+         each   received   ten
+
+
+                   battle stars and
+
+
+    a  Navy  Unit
+
+
+              C o m m e n d a t i o n ?
+
+
+         a   n   d
+
+
+    ...that  Italian
+
+
+         painter  Perugino
+
+
+                   h  a  d
+
+
+                   p r o b a b l y
+
+
+    finished  his  altarpiece
+
+
+         The  Virgin
+
+
+                   a   p   p   e   a   r   i   n   g
+
+
+    to   St.
+
+
+    B e r n a r d
+
+
+              by  the
+
+
+                   t  i  m  e
+
+
+              Raphael   became   his
+
+
+              a  p  p  r  e  n  t  i  c  e  ?
+
+
+
+
+                   ...that  Kazys
+
+
+         G   r   i   n   i   u   s
+
+
+                   (pictured),   the   third
+
+
+    L  i  t  h  u  a  n  i  a  n
+
+
+    President, was
+
+
+              d   e   p   o   s   e   d
+
+
+    i  n
+
+
+              a   military   coup
+
+
+                   o  n
+
+
+         h   i   s
+
+
+    6 0 t h
+
+
+         b  i  r  t  h  d  a  y  ?
+
+
+              o r
+
+
+                   .  .  .
+
+
+                   t  h  a  t
+
+
+         Daba Modibo Ke√Øta,
+
+
+              2 0 0 8
+
+
+              Olympian for Mali,
+
+
+    w  a  s
+
+
+         the  first
+
+
+         Sub-Saharan   African   to
+
+
+              be  a  Taekwondo
+
+
+                   W   o   r   l   d
+
+
+         C  h  a  m  p  i  o  n  ?
+
+
+    a   n   d
+
+
+         ...that  Quentin  L.
+
+
+                   C   o   o   k
+
+
+              is   the   latest
+
+
+    m  e  m  b  e  r
+
+
+              of   the   Quorum
+
+
+              of  the  Twelve
+
+
+    A   p   o   s   t   l   e   s   ?
+
+
+
+
+    ...  that  √âtienne-Th√©odore
+
+
+    P√¢quet  defeated
+
+
+              a man
+
+
+                   twice   his
+
+
+                   age  to  become
+
+
+                   one   of   the
+
+
+    youngest ever
+
+
+    members   of   the
+
+
+              L   e   g   i   s   l   a   t   i   v   e
+
+
+    A   s   s   e   m   b   l   y
+
+
+              o   f
+
+
+                   Q  u  e  b  e  c  ?
+
+
+              o  r
+
+
+                   ...   that
+
+
+                   a   shattered   goblet
+
+
+                   of  Communion
+
+
+                   wine   reportedly
+
+
+    helped Saint
+
+
+              Donatus  of  Arezzo
+
+
+              convert 79 pagans
+
+
+              t   o
+
+
+                   C  h  r  i  s  t  i  a  n  i  t  y  ?
+
+
+         a   n   d
+
+
+         ...that Alexandru
+
+
+         Ghika,   the
+
+
+    founder   of
+
+
+              the   Romanian   school
+
+
+                   of  functional
+
+
+                   analysis,   was
+
+
+                   the   great-great-grandson
+
+
+         of   Grigore
+
+
+         IV   Ghica,   Prince
+
+
+              o  f
+
+
+         W a l l a c h i a ?
+
+
+
+
+              ... that Evald
+
+
+    Rygh, a
+
+
+                   former Norwegian
+
+
+              M i n i s t e r
+
+
+         o f
+
+
+              F i n a n c e
+
+
+              and  Customs,
+
+
+              helped  establish
+
+
+              t   h   e
+
+
+                   Holmenkollen   ski
+
+
+                   j u m p ?
+
+
+                   o r
+
+
+         ...that the
+
+
+              o   l   d   e   s   t
+
+
+    r e m a i n i n g
+
+
+                   s t r u c t u r e
+
+
+              s h o w i n g
+
+
+              t   h   e
+
+
+                   establishment of Buddhism
+
+
+         in   Australia
+
+
+              are  two  bodhi
+
+
+         trees planted
+
+
+    b  y
+
+
+              Sinhalese immigrants on
+
+
+    Thursday Island in
+
+
+              t  h  e
+
+
+              1   8   9   0   s   ?
+
+
+    a n d
+
+
+
+
+    ... that On
+
+
+         the   Green
+
+
+         Carpet  was
+
+
+    t  h  e
+
+
+                   first  North
+
+
+              Korean  film  to
+
+
+         be   invited   to
+
+
+    the  Berlin  International
+
+
+              Film  Festival,
+
+
+    where it was
+
+
+                   s  c  r  e  e  n  e  d
+
+
+                   i n
+
+
+              2   0   0   4   ?
+
+
+    o r
+
+
+         ...that the
+
+
+         engravings of
+
+
+         French  Renaissance
+
+
+                   a  r  t  i  s  t
+
+
+         J  e  a  n
+
+
+         Duvet exhibit horror
+
+
+    vacui,   or   a
+
+
+                   f e a r
+
+
+    of  leaving
+
+
+         s   p   a   c   e
+
+
+         u n f i l l e d ?
+
+
+         a   n   d
+
+
+                   ...that  England  cricket
+
+
+              captain  Tony
+
+
+         G   r   e   i   g
+
+
+         said  that
+
+
+    England would make
+
+
+         the West Indies
+
+
+              "grovel"   on
+
+
+                   t   h   e   i   r
+
+
+              tour to
+
+
+         England in
+
+
+              1976, but went
+
+
+    on  to
+
+
+              lose   6
+
+
+                   of  the
+
+
+                   8
+
+
+              m a t c h e s ?
+
+
+
+
+         ...that  Timothy
+
+
+                   C a m p b e l l
+
+
+                   was assigned
+
+
+         the role of
+
+
+         promoting   an
+
+
+         anti-wrinkle device
+
+
+              from  Amstrad's
+
+
+         Health   &
+
+
+                   Beauty   division   after
+
+
+              w  i  n  n  i  n  g
+
+
+                   t   h   e
+
+
+              f i r s t
+
+
+         series   of   The
+
+
+    A   p   p   r   e   n   t   i   c   e
+
+
+    U   K   ?
+
+
+    o  r
+
+
+              ...   that
+
+
+              the first
+
+
+    T  e  x  i  a  n
+
+
+              t  o
+
+
+              be  seriously  wounded
+
+
+    during  the  Texas
+
+
+         Revolution was Samuel
+
+
+              McCulloch,  a  freed
+
+
+    slave  who  was
+
+
+         shot during
+
+
+         the Battle
+
+
+    of Goliad (location
+
+
+    p  i  c  t  u  r  e  d  )  ?
+
+
+                   a n d
+
+
+         .   .   .
+
+
+                   t   h   a   t
+
+
+                   the English
+
+
+                   names for
+
+
+                   t h e
+
+
+    towns   of
+
+
+              B r e c o n
+
+
+                   (   p   i   c   t   u   r   e   d   )
+
+
+         and   Cardigan
+
+
+         derive from
+
+
+              the names of
+
+
+                   Welsh   mediaeval   kingdoms,
+
+
+              b u t
+
+
+                   the   Welsh
+
+
+    names   for
+
+
+                   t  h  o  s  e
+
+
+         same   places
+
+
+         refer to
+
+
+         l  o  c  a  l
+
+
+              r  i  v  e  r  s  ?
+
+
+
+
+         .   .   .
+
+
+         that   the
+
+
+              S u n s e t
+
+
+         T o w e r
+
+
+         (pictured)   in
+
+
+              W  e  s  t
+
+
+                   Hollywood,   California   was
+
+
+         h o m e
+
+
+         to gangster Bugsy
+
+
+              Siegel,  who  was
+
+
+    a   s   k   e   d
+
+
+    to leave after
+
+
+         being  charged
+
+
+                   with running a
+
+
+         b  o  o  k  m  a  k  i  n  g
+
+
+    o p e r a t i o n
+
+
+         t h e r e ?
+
+
+                   o r
+
+
+                   ...  that
+
+
+                   Hesaraghatta Lake is
+
+
+                   a   freshwater
+
+
+              lake  created
+
+
+         from  the
+
+
+    Arkavathy   River   in
+
+
+         1   8   9   4
+
+
+    to  produce  drinking
+
+
+    water  for
+
+
+                   B   a   n   g   a   l   o   r   e   ?
+
+
+                   a n d
+
+
+         ... that
+
+
+         G  R  U
+
+
+                   colonel  Vladimir
+
+
+                   Kvachkov won second
+
+
+         place in by-elections
+
+
+              to  the  State
+
+
+         Duma, while
+
+
+         imprisoned due to
+
+
+         h  i  s
+
+
+         s u s p e c t e d
+
+
+    attempted   murder   of
+
+
+         R  u  s  s  i  a  n
+
+
+    politician Anatoly
+
+
+         C h u b a i s ?
+
+
+
+
+    ... that
+
+
+                   t   h   e
+
+
+              freshwater   snail   Viviparus
+
+
+    g e o r g i a n u s
+
+
+              (pictured), the
+
+
+                   " b a n d e d
+
+
+    m y s t e r y
+
+
+                   s n a i l " ,
+
+
+    is   native
+
+
+                   t o
+
+
+         t   h   e
+
+
+    s o u t h e a s t e r n
+
+
+         U.S. but
+
+
+    i  s
+
+
+         a n
+
+
+         introduced species in
+
+
+                   the  northern
+
+
+              U   .   S   .
+
+
+              a n d
+
+
+    C   a   n   a   d   a   ?
+
+
+                   o  r
+
+
+              ... that
+
+
+    t h e
+
+
+                   T  r  e  g  e  n  n  a
+
+
+              C   a   s   t   l   e
+
+
+         H  o  t  e  l
+
+
+              in St Ives,
+
+
+    Cornwall  was
+
+
+              t   h   e
+
+
+              Great   Western
+
+
+                   R   a   i   l   w   a   y   '   s
+
+
+         first holiday destination
+
+
+    h o t e l ?
+
+
+                   a n d
+
+
+              . . . t h a t
+
+
+                   the  800,000-member  Global
+
+
+                   Pastors Network continues
+
+
+                   the  legacy
+
+
+              o f
+
+
+         B i l l
+
+
+                   B  r  i  g  h  t
+
+
+                   by  attempting
+
+
+    t o ,
+
+
+    i n
+
+
+    t   h   e   i   r
+
+
+                   own   words,
+
+
+              "win 1 billion
+
+
+    p  e  o  p  l  e
+
+
+              t  o
+
+
+                   C h r i s t " ?
+
+
+
+
+                   .  .  .  t  h  a  t
+
+
+    Johnson Creek, one
+
+
+         o  f
+
+
+                   the few
+
+
+                   free-flowing streams
+
+
+              i   n
+
+
+                   the  Portland,  Oregon
+
+
+    a   r   e   a   ,
+
+
+    overflowed its
+
+
+              banks  37
+
+
+         times   between   1971
+
+
+    a n d
+
+
+              2  0  0  6  ?
+
+
+                   o   r
+
+
+              ...  that  cancer
+
+
+    s  p  e  c  i  a  l  i  s  t
+
+
+         Julian  Aleksandrowicz,  a
+
+
+              Polish   Jew,   joined
+
+
+    Polish resistance Armia
+
+
+         K  r  a  j  o  w  a
+
+
+         after being aided
+
+
+              in  the
+
+
+    K   r   a   k   √   ≥   w
+
+
+    ghetto   by
+
+
+                   o n e
+
+
+                   of   the   Polish
+
+
+                   R i g h t e o u s ?
+
+
+              a n d
+
+
+                   ... that
+
+
+         the  Tang  Dynasty
+
+
+              eunuch   Li   Fuguo,
+
+
+         w   h   o   s   e
+
+
+    a  s  s  a  s  s  i  n
+
+
+         h a d
+
+
+    cut off
+
+
+                   his  head  and
+
+
+                   one of
+
+
+    his  arms,
+
+
+                   was  buried  with
+
+
+              a  wooden
+
+
+                   head  and  a
+
+
+         w o o d e n
+
+
+                   a   r   m   ?
+
+
+
+
+    . . . t h a t
+
+
+              the   Emin   Minaret
+
+
+                   (pictured)   in   Turfan,
+
+
+                   Xinjiang, built
+
+
+    in   the
+
+
+    1  8  t  h
+
+
+    century  during
+
+
+              the  reign  of
+
+
+              Qing  Emperor  Qianlong,
+
+
+              is   the   tallest
+
+
+                   minaret in
+
+
+         C   h   i   n   a   ?
+
+
+              o   r
+
+
+         ...that  outlaws
+
+
+                   John   Dillinger,
+
+
+                   Machine  Gun  Kelly,
+
+
+    and Baby
+
+
+         F a c e
+
+
+         Nelson   were
+
+
+         tried in
+
+
+    t  h  e
+
+
+              historic Landmark Center
+
+
+    i n
+
+
+              S  t  .
+
+
+                   P   a   u   l   ?
+
+
+              a  n  d
+
+
+         ...  that
+
+
+              horror  novelist  Anne
+
+
+                   R   i   c   e
+
+
+         has  cited  the
+
+
+              1936  film
+
+
+         D  r  a  c  u  l  a  '  s
+
+
+              Daughter   as   an
+
+
+                   inspiration  for  her
+
+
+         o w n
+
+
+    h o m o e r o t i c
+
+
+         v   a   m   p   i   r   e
+
+
+                   f i c t i o n ?
+
+
+
+
+                   ...that   according   to
+
+
+    Noongar  culture,
+
+
+                   the Wagyl
+
+
+                   i  s
+
+
+    a
+
+
+    s n a k e - l i k e
+
+
+                   Dreamtime  creature  responsible
+
+
+    f o r
+
+
+              the creation of
+
+
+                   the   Swan
+
+
+              and  Canning
+
+
+         Rivers and
+
+
+              other  waterways
+
+
+         around  present-day
+
+
+    Perth and the
+
+
+              s   o   u   t   h   w   e   s   t
+
+
+    o   f
+
+
+         W   e   s   t   e   r   n
+
+
+                   A  u  s  t  r  a  l  i  a  ?
+
+
+    o  r
+
+
+    ...   that
+
+
+         Jack  Montgomery,  a
+
+
+                   L   o   u   i   s   i   a   n   a
+
+
+         s   t   a   t   e
+
+
+                   s e n a t o r
+
+
+              from  1968
+
+
+         to  1972,
+
+
+         w   a   s
+
+
+         p r e c e d e d
+
+
+              and  succeeded
+
+
+    i   n
+
+
+                   t h e
+
+
+              post   by
+
+
+    Harold Montgomery, and
+
+
+              t  h  e  y
+
+
+              w   e   r   e
+
+
+    u   n   r   e   l   a   t   e   d   ?
+
+
+         a n d
+
+
+    ...  that
+
+
+    a  s  s  a  s  s  i  n  a  t  e  d
+
+
+    Israeli   mobster   Yaakov
+
+
+         Alperon was
+
+
+         tied  to
+
+
+    a   protection   racket
+
+
+              in which restaurant
+
+
+              owners paid
+
+
+              by   allowing
+
+
+         the gangsters
+
+
+    t   o
+
+
+    collect empty returnable
+
+
+         bottles   from   their
+
+
+                   b   u   s   i   n   e   s   s   e   s   ?
+
+
+
+
+         . . .
+
+
+         that   the   French
+
+
+              P  r  o  t  e  s  t  a  n  t
+
+
+              C  h  u  r  c  h
+
+
+    i   n
+
+
+         B r i g h t o n
+
+
+    (  p  i  c  t  u  r  e  d  )  ,
+
+
+                   one  of
+
+
+              only  two  in
+
+
+              England,  is
+
+
+                   expected   to   close
+
+
+              t   h   i   s
+
+
+    y  e  a  r  ?
+
+
+                   o r
+
+
+    ... that
+
+
+    i   n
+
+
+         1917, baseball
+
+
+         m a n a g e r s
+
+
+         J   o   h   n
+
+
+                   McGraw and Christy
+
+
+                   M  a  t  h  e  w  s  o  n
+
+
+    were arrested after
+
+
+              a
+
+
+              g   a   m   e
+
+
+                   f   o   r
+
+
+         playing   on
+
+
+    S  u  n  d  a  y  ?
+
+
+    a   n   d
+
+
+                   ...that   a
+
+
+              Phase  I  Environmental
+
+
+              Site  Assessment
+
+
+              is a tool
+
+
+                   largely   developed
+
+
+                   i  n
+
+
+                   the   USA   for
+
+
+              a n a l y s i s
+
+
+         of   real
+
+
+    estate   toxic   liability,
+
+
+                   b u t
+
+
+                   its use has
+
+
+              s  p  r  e  a  d
+
+
+         t o
+
+
+         much  of  the
+
+
+              d   e   v   e   l   o   p   e   d
+
+
+                   w   o   r   l   d   ?
+
+
+
+
+         ...that   after
+
+
+         Egyptian  land
+
+
+              r   e   f   o   r   m
+
+
+    individual land ownership
+
+
+         in  Egypt
+
+
+         was   limited   to
+
+
+              a   maximum   of
+
+
+                   2  0  0
+
+
+              f   e   d   d   a   n   s   ?
+
+
+              o  r
+
+
+              .   .   .   t   h   a   t
+
+
+    the   bobsleigh,   luge,
+
+
+         and   skeleton   track
+
+
+         (pictured)  in  Lake
+
+
+         Placid,  New
+
+
+         York  was
+
+
+    the  first
+
+
+              track   to   host
+
+
+         the  bobsleigh
+
+
+              and   luge   world
+
+
+         championships outside
+
+
+    o   f
+
+
+    Europe,   doing
+
+
+                   so   in   1949
+
+
+         and  1983,
+
+
+         r   e   s   p   e   c   t   i   v   e   l   y   ?
+
+
+              a   n   d
+
+
+                   . . .
+
+
+         that  Pope
+
+
+              Pius VI was
+
+
+              not   elected
+
+
+              t i l l
+
+
+    t  h  e
+
+
+              2   6   5   t   h
+
+
+         ballot   at
+
+
+                   t  h  e
+
+
+    papal  conclave
+
+
+         o   f
+
+
+    1  7  7  4  ‚  Ä  ì  1  7  7  5  ?
+
+
+
+
+              .  .  .  t  h  a  t
+
+
+              t   h   e
+
+
+                   Baharistan-i-Ghaibi  is  the
+
+
+         only   extensive
+
+
+    historical document
+
+
+         a   c   c   o   u   n   t   i   n   g
+
+
+    the   wars,
+
+
+                   events   and
+
+
+              life  in  Bengal
+
+
+         during   the
+
+
+              reign of Mughal
+
+
+              e   m   p   e   r   o   r
+
+
+         J a h a n g i r ?
+
+
+    o  r
+
+
+                   ...  that  Tropical
+
+
+         D   e   p   r   e   s   s   i   o   n
+
+
+    One-C  of  the
+
+
+              2005 Pacific hurricane
+
+
+                   season caused
+
+
+    m  i  n  o  r
+
+
+              f l o o d i n g
+
+
+                   on  the
+
+
+              I   s   l   a   n   d
+
+
+    o   f
+
+
+    H a w a i i ?
+
+
+                   a n d
+
+
+              ...   that
+
+
+              the  Old  Warner
+
+
+                   Brothers Studio,
+
+
+                   w   h   e   r   e
+
+
+                   the first "talkie"
+
+
+    w a s
+
+
+         filmed  in
+
+
+    1927,  has  recently
+
+
+              b e e n
+
+
+                   the  location  for
+
+
+    J u d g e
+
+
+              Judy and Hannah
+
+
+    M o n t a n a ?
+
+
+
+
+    ...that  the  spring
+
+
+              of  the  Hell-Bourg
+
+
+                   v i l l a g e
+
+
+                   spa on R√©union
+
+
+    started  to
+
+
+         fail  around  1920,
+
+
+              b u t
+
+
+              a   n
+
+
+              a  t  t  e  m  p  t
+
+
+         t  o
+
+
+         reopen it with
+
+
+         dynamite caused the
+
+
+         partial  destruction
+
+
+              of the spa,
+
+
+              while  the  spring
+
+
+                   was later buried
+
+
+              by a
+
+
+              l a n d s l i d e ?
+
+
+    o   r
+
+
+         .   .   .   t   h   a   t
+
+
+              model  Rebecca  Twigley
+
+
+                   became  a
+
+
+    household name in
+
+
+         Australia after
+
+
+                   wearing a
+
+
+    revealing   dress   to
+
+
+              an   event
+
+
+         i n
+
+
+                   2  0  0  4  ?
+
+
+              a   n   d
+
+
+              . . . t h a t
+
+
+                   mellah   is
+
+
+                   a   walled
+
+
+    Jewish   quarter   of
+
+
+                   a city in
+
+
+    Morocco, an
+
+
+         a n a l o g u e
+
+
+         of the
+
+
+    E   u   r   o   p   e   a   n
+
+
+    g  h  e  t  t  o  ?
+
+
+
+
+         ...that mutations
+
+
+         i n
+
+
+              t h e
+
+
+              CNDP1  gene
+
+
+              may  cause  carnosinemia,
+
+
+                   a
+
+
+                   rare  metabolic  disorder
+
+
+                   w   i   t   h
+
+
+    d  i  v  e  r  s  e
+
+
+              neurological   problems,
+
+
+         s u c h
+
+
+                   as hypotonia,
+
+
+         tremors and seizures,
+
+
+                   neuronal   degeneration
+
+
+         a   n   d
+
+
+                   m   e   n   t   a   l
+
+
+              r   e   t   a   r   d   a   t   i   o   n   ?
+
+
+         o r
+
+
+         ... that the
+
+
+              early  Chola  naval
+
+
+    ships   from
+
+
+              the  1st
+
+
+         c  e  n  t  u  r  y
+
+
+                   h   a   d
+
+
+              a rudimentary
+
+
+              f l a m e
+
+
+         thrower  and
+
+
+    a   catapult-type
+
+
+    w e a p o n ?
+
+
+              a   n   d
+
+
+              . . . t h a t
+
+
+    a  p  p  a  r  e  l
+
+
+              incorporating   homemade   granny
+
+
+                   squares   (pictured)   was
+
+
+    a  1970s  fashion
+
+
+                   f   a   d   ?
+
+
+
+
+    ...  that  Page
+
+
+              C  o  r  t  e  z  ,
+
+
+                   a
+
+
+              R  e  p  u  b  l  i  c  a  n
+
+
+                   member of the
+
+
+              Louisiana House
+
+
+         of Representatives,
+
+
+    g a i n e d
+
+
+         v i t a l
+
+
+                   name recognition
+
+
+         in part from
+
+
+              t   e   l   e   v   i   s   i   o   n
+
+
+              ads   promoting
+
+
+              h  i  s
+
+
+                   f u r n i t u r e
+
+
+              s t o r e ?
+
+
+                   o  r
+
+
+    .   .   .
+
+
+              t  h  a  t
+
+
+                   all  four
+
+
+         remaining   species   of
+
+
+              island   raccoons
+
+
+              (examples  pictured),
+
+
+         found  only  on
+
+
+                   small Central American
+
+
+                   and  Caribbean
+
+
+              islands, are considered
+
+
+         e n d a n g e r e d ?
+
+
+              a n d
+
+
+              .  .  .  t  h  a  t
+
+
+         numerous  wells  and
+
+
+                   s   p   r   i   n   g   s
+
+
+                   were  dedicated  to
+
+
+                   S   a   i   n   t
+
+
+                   Quirinus  of
+
+
+         Neuss,   who   was
+
+
+              invoked  against
+
+
+         the   bubonic   plague,
+
+
+              s   m   a   l   l   p   o   x   ,
+
+
+              gout, and a
+
+
+    s  i  e  g  e
+
+
+    of  the
+
+
+    city   of   Neuss
+
+
+         during the
+
+
+    B u r g u n d i a n
+
+
+         W   a   r   s   ?
+
+
+
+
+              ...   that
+
+
+              t   h   e
+
+
+         Young  Romance  comic
+
+
+                   b  o  o  k
+
+
+         series,   first   published
+
+
+    in   1947,
+
+
+                   is  regarded  as
+
+
+    the  first
+
+
+         r  o  m  a  n  c  e
+
+
+    c  o  m  i  c  ?
+
+
+                   o  r
+
+
+              ...that  the
+
+
+         Punjabi  magnate  Sir
+
+
+                   Malik  Umar
+
+
+                   Hayat   Khan   (pictured)
+
+
+                   w  a  s
+
+
+              an   honorary
+
+
+              aide-de-camp to
+
+
+                   King   George   V,
+
+
+              K   i   n   g
+
+
+    Edward VIII and
+
+
+    King George
+
+
+                   V I ?
+
+
+              a n d
+
+
+              .   .   .   t   h   a   t
+
+
+              r y e
+
+
+              and oats
+
+
+              used to
+
+
+              be  crop-mimicking
+
+
+                   weeds   before   they
+
+
+         b   e   c   a   m   e
+
+
+                   d  o  m  e  s  t  i  c  a  t  e  d  ?
+
+
+
+
+    .   .   .   t   h   a   t
+
+
+              the Vermejo
+
+
+              Park  Ranch  in
+
+
+         N   e   w
+
+
+              Mexico  is
+
+
+    the   largest   privately
+
+
+         owned,   contiguous   tract
+
+
+              of land in
+
+
+                   t  h  e
+
+
+              United States,
+
+
+         m   a   k   i   n   g
+
+
+                   its owner Ted
+
+
+              Turner the
+
+
+                   b i g g e s t
+
+
+         private  land  owner
+
+
+                   i n
+
+
+         t h e
+
+
+                   c  o  u  n  t  r  y  ?
+
+
+         o  r
+
+
+         .  .  .
+
+
+    t h a t
+
+
+                   g o a l k e e p e r
+
+
+         B  o  b
+
+
+                   R   o   b   e   r   t   s
+
+
+                   w a s
+
+
+              the   first
+
+
+                   West  Bromwich
+
+
+    Albion   player   to
+
+
+    win  an  international
+
+
+         c   a   p   ?
+
+
+              a n d
+
+
+         ...   that   the
+
+
+         people   of
+
+
+              the  planet  Krikkit
+
+
+         are   the   main
+
+
+              antagonists   in
+
+
+              the   Douglas
+
+
+                   A   d   a   m   s
+
+
+         n o v e l ,
+
+
+              Life,  the  Universe
+
+
+                   a   n   d
+
+
+              E   v   e   r   y   t   h   i   n   g   ?
+
+
+
+
+                   . . .
+
+
+         t   h   a   t
+
+
+    820 Naval
+
+
+         A i r
+
+
+              S  q  u  a  d  r  o  n
+
+
+    (aircraft   pictured)
+
+
+    w   a   s
+
+
+              involved in attacks
+
+
+                   on the German
+
+
+                   battleships  Bismarck  and
+
+
+         Tirpitz  during
+
+
+    t  h  e
+
+
+              S   e   c   o   n   d
+
+
+              W   o   r   l   d
+
+
+         W a r ?
+
+
+                   o r
+
+
+                   ...that New Zealand
+
+
+         cricketer   and
+
+
+                   T   e   s   t
+
+
+              match  captain  Merv
+
+
+    Wallace  has  been
+
+
+         c   a   l   l   e   d
+
+
+         " t h e
+
+
+         most   under-rated
+
+
+    cricketer  to  have
+
+
+                   worn   the
+
+
+    s  i  l  v  e  r
+
+
+    f   e   r   n   "   ?
+
+
+                   a  n  d
+
+
+    .   .   .   t   h   a   t
+
+
+    Thomas   Tilling,
+
+
+         whose   company
+
+
+                   grew   into
+
+
+              a
+
+
+         m  a  j  o  r
+
+
+                   bus operator in
+
+
+    Britain   of
+
+
+              the   first   half
+
+
+    of the 20th
+
+
+    century, entered the
+
+
+    t   r   a   n   s   p   o   r   t
+
+
+    b   u   s   i   n   e   s   s
+
+
+    w   i   t   h
+
+
+    a horse
+
+
+         and  carriage  in
+
+
+         1   8   4   6   ?
+
+
+
+
+              ...that  when  severely
+
+
+         disturbed,   catfish
+
+
+         o   f
+
+
+              the   genus
+
+
+                   Acrochordonichthys  may
+
+
+         release a
+
+
+    m  i  l  k  y  -  w  h  i  t  e
+
+
+              m  u  c  u  s  -  l  i  k  e
+
+
+    s u b s t a n c e
+
+
+         that can
+
+
+                   kill   other
+
+
+                   f   i   s   h   ?
+
+
+         o  r
+
+
+                   ...that the
+
+
+                   f  l  y  i  n  g
+
+
+         d  r  a  g  o  n
+
+
+                   is   a   lizard
+
+
+              that  has
+
+
+    s  k  i  n
+
+
+                   m   e   m   b   r   a   n   e   s
+
+
+                   w h i c h
+
+
+                   it uses
+
+
+                   to  glide
+
+
+    distances  over  7
+
+
+                   m   ?
+
+
+                   a  n  d
+
+
+                   ...that  1988's
+
+
+    Hurricane Gilbert was
+
+
+              t   h   e
+
+
+              f   i   r   s   t
+
+
+         t  o
+
+
+         make  landfall
+
+
+              on   Jamaica   since
+
+
+    1  9  5  5  ?
+
+
+
+
+              ...  that  after
+
+
+              they both
+
+
+              appeared   in   the
+
+
+    1951   film
+
+
+         Sailor   Beware,
+
+
+                   R i c h a r d
+
+
+         Clayton  became  a
+
+
+              talent  agent
+
+
+                   a n d
+
+
+         represented  James
+
+
+              D  e  a  n  ?
+
+
+                   o   r
+
+
+                   ...that   Introitus   et
+
+
+              E   x   i   t   u   s   ,
+
+
+    a   financial   record
+
+
+         of  the
+
+
+                   A  p  o  s  t  o  l  i  c
+
+
+         C  a  m  e  r  a
+
+
+                   f r o m
+
+
+              1279 to 1524,
+
+
+              has   been
+
+
+              used   to   authenticate
+
+
+    t   h   e
+
+
+                   provenance of artworks
+
+
+         a n d
+
+
+    study   past
+
+
+         E u r o p e a n
+
+
+              exchange  and  interest
+
+
+         r a t e s ?
+
+
+         a   n   d
+
+
+         ...that   the
+
+
+         Battle of
+
+
+                   Zhuolu,   fought   in
+
+
+    t   h   e
+
+
+                   26th  century  BC
+
+
+         and  the
+
+
+                   second  recorded  battle
+
+
+    i n
+
+
+                   Chinese   history,   is
+
+
+                   o f t e n
+
+
+    considered  a  pivotal
+
+
+    m   o   m   e   n   t
+
+
+    in   the
+
+
+                   e  s  t  a  b  l  i  s  h  m  e  n  t
+
+
+              o   f
+
+
+         the Han
+
+
+                   C   h   i   n   e   s   e
+
+
+                   c i v i l i z a t i o n ?
+
+
+
+
+                   ...  that
+
+
+              the Stonerose
+
+
+              fossil site
+
+
+         contains the
+
+
+              earliest known records
+
+
+              of Rosaceae,
+
+
+         t h e
+
+
+              r   o   s   e
+
+
+              f   a   m   i   l   y   ?
+
+
+              o   r
+
+
+         ...that Oblate
+
+
+              missionary   Nicolas
+
+
+         C  o  c  c  o  l  a
+
+
+         (pictured) spent 63
+
+
+                   y e a r s
+
+
+              in   British   Columbia
+
+
+                   working  among  the
+
+
+    Shuswap,  Kootenai,
+
+
+                   D   a   k   e   l   h   ,
+
+
+    Sekani, Gitxsan,
+
+
+              Hagwilget,   Babine
+
+
+         a n d
+
+
+         Lheidli  T'enneh  First
+
+
+    N  a  t  i  o  n  s  ?
+
+
+         a n d
+
+
+                   .   .   .   t   h   a   t
+
+
+         Kajetan   So≈Çtyk,   18th
+
+
+              c   e   n   t   u   r   y
+
+
+                   Bishop  of
+
+
+              Cracow, an important
+
+
+    politician   in
+
+
+              t h e
+
+
+                   P   o   l   i   s   h   -   L   i   t   h   u   a   n   i   a   n
+
+
+                   Commonwealth,   was
+
+
+    eventually declared insane
+
+
+              by   his
+
+
+              political   opponents
+
+
+    and removed
+
+
+              f   r   o   m
+
+
+         p o w e r ?
+
+
+
+
+              .  .  .
+
+
+    that ships
+
+
+                   built by the
+
+
+    Grangemouth  Dockyard  Company
+
+
+         during World
+
+
+    War   II   included
+
+
+              the  SS
+
+
+         Empire Arthur and
+
+
+         the   SS
+
+
+    E m p i r e
+
+
+                   C   l   a   n   s   m   a   n   ?
+
+
+                   o   r
+
+
+              ...  that  Frank
+
+
+                   Ford,   an
+
+
+    organic   foods   farmer
+
+
+         i   n
+
+
+    D  e  a  f
+
+
+                   Smith County, Texas,
+
+
+         was  the  chief
+
+
+         a  d  v  e  r  t  i  s  i  n  g
+
+
+    spokesman   for   the
+
+
+         health  foods  industry
+
+
+         during   its   founding
+
+
+    d  e  c  a  d  e  s
+
+
+                   o f
+
+
+                   t   h   e
+
+
+    1960s  and
+
+
+                   t h e
+
+
+              1   9   7   0   s   ?
+
+
+              a   n   d
+
+
+              ...that   enharmonic   scales
+
+
+    are   the
+
+
+                   third genus
+
+
+              of musical
+
+
+                   s   c   a   l   e   s   ?
+
+
+
+
+         . . .
+
+
+              that Lactarius
+
+
+              b   l   e   n   n   i   u   s
+
+
+                   h   a   s
+
+
+                   been  described
+
+
+                   b   y
+
+
+              various mycologists as
+
+
+              edible,  inedible
+
+
+         a n d
+
+
+    e  v  e  n
+
+
+              p   o   i   s   o   n   o   u   s   ?
+
+
+    o  r
+
+
+    . . . t h a t
+
+
+         Lake   Ceauru   in
+
+
+         southwestern   Romania
+
+
+         does not
+
+
+         exist,  despite  appearing
+
+
+              on  maps
+
+
+              t   o   d   a   y   ?
+
+
+                   a   n   d
+
+
+    ...that   the
+
+
+         v  i  l  l  a  g  e
+
+
+                   of  Denshaw
+
+
+                   in Greater Manchester
+
+
+              achieved international notoriety
+
+
+         when  spoof  information
+
+
+              added to its
+
+
+                   Wikipedia  entry  was
+
+
+         reported in national
+
+
+                   a  n  d
+
+
+    i   n   t   e   r   n   a   t   i   o   n   a   l
+
+
+    m  e  d  i  a  ?
+
+
+
+
+                   ...that   after
+
+
+                   his   father
+
+
+              told  him  to
+
+
+    " G e t
+
+
+              out  and
+
+
+                   make a living
+
+
+    a   n   d
+
+
+    don't ask
+
+
+    me   for   a
+
+
+                   dollar!", James Rand,
+
+
+         J   r   .
+
+
+                   founded   American
+
+
+    Kardex, which purchased
+
+
+    his  father's  company
+
+
+              five years
+
+
+    l   a   t   e   r   ?
+
+
+                   o  r
+
+
+         . . . t h a t
+
+
+         a
+
+
+    summit, a spur,
+
+
+    a  wooden
+
+
+    building and
+
+
+         a   n
+
+
+         a  v  e  n  u  e
+
+
+                   are  named  after
+
+
+         M  i  c  h  e  l
+
+
+              Croz, a
+
+
+    mountain  guide
+
+
+              who   died   on
+
+
+         t   h   e
+
+
+    first   ascent   of
+
+
+                   t   h   e
+
+
+    M   a   t   t   e   r   h   o   r   n
+
+
+    ( p i c t u r e d ) ?
+
+
+    a   n   d
+
+
+    ...that ship tracks
+
+
+                   (pictured) are
+
+
+                   clouds that form
+
+
+              around  the
+
+
+    exhaust released
+
+
+                   b  y
+
+
+    ships and appear
+
+
+         as  long
+
+
+              strings   over   the
+
+
+              o c e a n ?
+
+
+
+
+                   o  r
+
+
+                   ...that  the  city
+
+
+                   o  f
+
+
+         San  Francisco  contributed
+
+
+    a   large   proportion
+
+
+                   of the funds
+
+
+              for  constructing
+
+
+                   the   extension
+
+
+                   of  Junipero
+
+
+              Serra   Boulevard   beyond
+
+
+                   the   city
+
+
+                   l  i  m  i  t  s  ?
+
+
+                   a  n  d
+
+
+                   ...that   partly
+
+
+              because  of
+
+
+    issues  highlighed  by
+
+
+              t  h  e
+
+
+                   L   o   n   d   o   n
+
+
+                   matchgirls  strike  of
+
+
+                   1888, the Salvation
+
+
+         Army  opened
+
+
+    up   its
+
+
+         o   w   n
+
+
+    m  a  t  c  h
+
+
+    factory  in
+
+
+                   Bow, London
+
+
+              in   1891,   which
+
+
+                   used  harmless
+
+
+    red phosphorus
+
+
+                   a   n   d
+
+
+              p  a  i  d
+
+
+    b  e  t  t  e  r
+
+
+                   w  a  g  e  s  ?
+
+
+
+
+         .   .   .   t   h   a   t
+
+
+         soccer  player
+
+
+                   Paul  Reaney
+
+
+         w   a   s
+
+
+    briefly   a
+
+
+    car  mechanic
+
+
+              before  signing
+
+
+         w  i  t  h
+
+
+              L   e   e   d   s
+
+
+                   U  n  i  t  e  d  ?
+
+
+    o  r
+
+
+              ...  that
+
+
+                   the  Classic  Period
+
+
+         Maya archaeological
+
+
+                   s i t e
+
+
+    of   Quirigu√°   in
+
+
+              G  u  a  t  e  m  a  l  a
+
+
+    h  a  s
+
+
+                   w  h  a  t
+
+
+                   i   s
+
+
+                   p o s s i b l y
+
+
+              the   largest
+
+
+                   free-standing  worked  monolith
+
+
+         ([[:|pictured]])  in
+
+
+         the New
+
+
+                   W  o  r  l  d  ?
+
+
+                   a  n  d
+
+
+              ... that
+
+
+    t   h   e
+
+
+         Laguna   de   Santa
+
+
+         Rosa  in
+
+
+    Sonoma County, California,
+
+
+              has   several   endemic
+
+
+                   e  n  d  a  n  g  e  r  e  d
+
+
+    s p e c i e s
+
+
+                   and  is  the
+
+
+         second-largest freshwater wetland
+
+
+         in  Northern
+
+
+                   C   a   l   i   f   o   r   n   i   a   ?
+
+
+
+
+         ...that   the
+
+
+    Carlsberg  papyrus  is
+
+
+    the  most
+
+
+    c   o   m   p   l   e   t   e
+
+
+                   of  the
+
+
+         ancient Egyptian
+
+
+              medical  papyri,  containing
+
+
+              substantial  amounts
+
+
+              of artifacts
+
+
+                   o  f
+
+
+    the original
+
+
+                   p a p y r u s ?
+
+
+              o   r
+
+
+    ...that Jatindramohan Tagore,
+
+
+    a   theatre   enthusiast,
+
+
+    music  and  art-lover,
+
+
+    and  philanthropist,  was
+
+
+              t  h  e
+
+
+              first   Indian
+
+
+    t o
+
+
+                   be   be
+
+
+         a
+
+
+         member  of
+
+
+         the  Royal
+
+
+              Photographic   Society
+
+
+         i n
+
+
+                   1   8   9   8   ?
+
+
+                   a n d
+
+
+    ...that   Simon
+
+
+    G   i   r   t   y   '   s
+
+
+    son   Mike
+
+
+                   called   Potawatomi
+
+
+    chiefs Waubonsee
+
+
+              a   n   d
+
+
+    Shabbona  cowards  when
+
+
+              they  opposed
+
+
+         S  a  u  k
+
+
+         Chief   Black
+
+
+         H   a   w   k
+
+
+                   in the
+
+
+                   1832   Black
+
+
+              H  a  w  k
+
+
+    W a r ?
+
+
+
+
+    ...  that
+
+
+              although  Fairfield  Grammar
+
+
+    School, Bristol, expelled
+
+
+                   Cary   Grant
+
+
+                   f  o  r
+
+
+         going into
+
+
+    t h e
+
+
+              girls'   lavatories,   the
+
+
+                   city  later
+
+
+         erected  a
+
+
+         l i f e - s i z e
+
+
+    bronze  statue  of
+
+
+    h   i   m   ?
+
+
+    o   r
+
+
+              .  .  .  t  h  a  t
+
+
+         German explorers mounted
+
+
+         many   expeditions   in
+
+
+    the  early  20th
+
+
+                   century   to   the
+
+
+              Ramu river in
+
+
+         G  e  r  m  a  n
+
+
+              New   Guinea   in
+
+
+                   the  hope
+
+
+    o f
+
+
+              finding  gold
+
+
+    and also
+
+
+              g  u  t  t  a  -  p  e  r  c  h  a
+
+
+    t  r  e  e  s  ?
+
+
+                   a  n  d
+
+
+    ... that Walter
+
+
+    Emden designed London
+
+
+    theatres and music
+
+
+              halls  in
+
+
+    t h e
+
+
+         late  19th
+
+
+                   c  e  n  t  u  r  y  ,
+
+
+    i n c l u d i n g
+
+
+                   t  h  e
+
+
+    Palace Theatre, the
+
+
+    D  u  k  e
+
+
+              of York's, the
+
+
+         Garrick and the
+
+
+                   R  o  y  a  l
+
+
+              C  o  u  r  t  ?
+
+
+
+
+                   ...that Alexander
+
+
+         Solzhenitsyn composed
+
+
+              h  i  s
+
+
+         12,000-line-long poem
+
+
+    P r u s s i a n
+
+
+    Nights while imprisoned
+
+
+                   in  a
+
+
+              GULAG camp,
+
+
+         writing down each
+
+
+         day a few
+
+
+                   lines  on  a
+
+
+                   bar  of
+
+
+              s   o   a   p   ?
+
+
+         o  r
+
+
+              ...that  Alice
+
+
+    Spencer   Geddes   Lloyd,
+
+
+         w   h   o
+
+
+         f  o  u  n  d  e  d
+
+
+    A l i c e
+
+
+              L  l  o  y  d
+
+
+    College in
+
+
+                   Kentucky,  appeared  on
+
+
+         the   TV
+
+
+         show This is
+
+
+    Your   Life   in
+
+
+    1955 to raise
+
+
+              money  for
+
+
+              t   h   e
+
+
+    c   o   l   l   e   g   e   ?
+
+
+         a   n   d
+
+
+                   ...that   it
+
+
+         w a s
+
+
+              N a p o l e o n
+
+
+    Bonaparte   who   recalled
+
+
+                   Captain Bruix
+
+
+         (pictured),   after
+
+
+    h e
+
+
+              was sacked
+
+
+         for being
+
+
+              a
+
+
+    noble, to continue
+
+
+              his  distinguished  naval
+
+
+    c  a  r  e  e  r  ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+    Associated  Press  correspondent
+
+
+                   E d w a r d
+
+
+                   K e n n e d y
+
+
+         violated   a
+
+
+         news   embargo   to
+
+
+                   break the story
+
+
+                   of  the
+
+
+              surrender of
+
+
+              the  Germans
+
+
+                   in  World
+
+
+                   W   a   r
+
+
+                   I I ?
+
+
+              o   r
+
+
+    ...that the
+
+
+                   Visiting Forces Agreement
+
+
+                   allows   U.S.
+
+
+                   soldiers  accused  in
+
+
+         Filipino  crimes  to
+
+
+              s  t  a  y
+
+
+    under   U.S.
+
+
+    c  u  s  t  o  d  y
+
+
+    until the
+
+
+                   t   r   i   a   l
+
+
+    i   s
+
+
+         o v e r ?
+
+
+              a   n   d
+
+
+         ...that although
+
+
+              presidents of Russia,
+
+
+                   Ukraine and
+
+
+    Kazakhstan   have   been
+
+
+         requested to give
+
+
+              technical  advice
+
+
+                   a   b   o   u   t
+
+
+         software   patches   in
+
+
+                   o  p  e  n  -  s  o  u  r  c  e
+
+
+    c  o  m  p  u  t  e  r
+
+
+    operating systems,
+
+
+              o  n  l  y
+
+
+              the Ukrainian
+
+
+              president  did
+
+
+         s   o   ?
+
+
+
+
+                   o   r
+
+
+                   ...that John
+
+
+              Paterson (pictured)
+
+
+    was   the
+
+
+              last   Archbishop
+
+
+    o   f
+
+
+              G   l   a   s   g   o   w
+
+
+              o  f
+
+
+                   t  h  e
+
+
+         C h u r c h
+
+
+              o   f
+
+
+                   S   c   o   t   l   a   n   d   ?
+
+
+    a n d
+
+
+                   ... that Barashn√ªm
+
+
+    i  s
+
+
+    a
+
+
+         Zoroastrian  purification
+
+
+              r   i   t   u   a   l
+
+
+         in   which   a
+
+
+    "defiled"  person
+
+
+    i  s
+
+
+         confined to a
+
+
+                   corner of the
+
+
+              house  called  Arm√™sht-gah
+
+
+    f   o   r
+
+
+              a   period   of
+
+
+              n i n e
+
+
+              n i g h t s ?
+
+
+
+
+              ...that  those  crossing
+
+
+                   t h e
+
+
+              F a l l a s b u r g
+
+
+                   Bridge  (pictured),
+
+
+                   a
+
+
+    B r o w n
+
+
+    t   r   u   s   s
+
+
+              c   o   v   e   r   e   d
+
+
+              bridge   in
+
+
+    Vergennes Township,
+
+
+              Michigan  at  a
+
+
+                   speed  faster
+
+
+    than a walk
+
+
+    m  a  y
+
+
+         be subject to
+
+
+              a
+
+
+              $   5
+
+
+    f  i  n  e  ?
+
+
+    o  r
+
+
+              ...that   sixteen
+
+
+         s  h  i  p  s
+
+
+                   of  the  US
+
+
+                   Navy's Gilliam
+
+
+                   class  -
+
+
+                   including  Banner,
+
+
+    Carteret,  Dawson  (pictured),
+
+
+                   G  a  s  c  o  n  a  d  e
+
+
+    and  Geneva  -
+
+
+    were expended as
+
+
+    a  t  o  m  i  c
+
+
+                   bomb   targets
+
+
+                   after   barely   two
+
+
+         y e a r s
+
+
+                   o  f
+
+
+                   s  e  r  v  i  c  e  ?
+
+
+         a   n   d
+
+
+    ...that   Madison
+
+
+    Limestone, a
+
+
+              layer  of  mostly
+
+
+                   carbonate  rocks  formed
+
+
+                   in   the   Mississippian
+
+
+                   period,  serves  as
+
+
+    an aquifer
+
+
+                   and   an   oil
+
+
+         reservoir  in  the
+
+
+              Rocky   Mountains   and
+
+
+              G   r   e   a   t
+
+
+                   P l a i n s
+
+
+         a   r   e   a   s   ?
+
+
+
+
+    ...that before
+
+
+              Hannibal  crossed
+
+
+                   the  Rh√¥ne  River
+
+
+                   with  his
+
+
+                   Carthaginian forces to
+
+
+              battle the
+
+
+                   G  a  u  l  s  ,
+
+
+              he sent
+
+
+                   a   detachment
+
+
+                   under  Hanno,  son
+
+
+    o   f
+
+
+              Bomilcar to cross
+
+
+              a t
+
+
+         a different
+
+
+    p  o  i  n  t
+
+
+              upriver  for  an
+
+
+                   a   m   b   u   s   h   ?
+
+
+         o  r
+
+
+         ...  that  Samuel
+
+
+    B.  Huston
+
+
+              (pictured) switched
+
+
+                   counties  and
+
+
+                   political   parties
+
+
+                   between  two
+
+
+         elections to the
+
+
+                   O r e g o n
+
+
+    S   t   a   t   e
+
+
+         S  e  n  a  t  e  ?
+
+
+                   a   n   d
+
+
+         ...that the
+
+
+    m e m o
+
+
+         c  a  l  l  i  n  g
+
+
+                   for   the   1907
+
+
+         International Anarchist
+
+
+                   Congress in Amsterdam
+
+
+                   went unsigned
+
+
+                   b   y
+
+
+                   French anarchists,
+
+
+         as  many  rejected
+
+
+    the  very  idea
+
+
+    o   f
+
+
+    o r g a n i z e d
+
+
+              c   o   l   l   a   b   o   r   a   t   i   o   n   ?
+
+
+
+
+         ...that   the
+
+
+         G   o   u   l   b   u   r   n
+
+
+                   V  a  l  l  e  y
+
+
+              region of Australia
+
+
+              i   s
+
+
+                   h o m e
+
+
+              t  o
+
+
+         t  h  e
+
+
+              oldest   and
+
+
+    largest   plantings
+
+
+    of  the
+
+
+         little   used   Marsanne
+
+
+         g   r   a   p   e
+
+
+                   v   a   r   i   e   t   y   ?
+
+
+    o  r
+
+
+         . . .
+
+
+              that   a
+
+
+              tour  guide  at
+
+
+              Fond  du
+
+
+              L  a  c  '  s
+
+
+         Octagon   House
+
+
+                   c   l   a   i   m   s
+
+
+              t   h   a   t
+
+
+    v i s i t o r s
+
+
+         hear  the
+
+
+         g h o s t s
+
+
+                   of   an
+
+
+         earlier owner's small
+
+
+              children   laughing
+
+
+              a   n   d
+
+
+         p l a y i n g ?
+
+
+         a n d
+
+
+              ... that the
+
+
+                   American  Iron
+
+
+              a   n   d
+
+
+         Steel  Institute
+
+
+                   formed the
+
+
+    Steelmark  in  1960
+
+
+                   to   promote   American
+
+
+                   steel,   with
+
+
+              t h e
+
+
+    logo   put
+
+
+    on the
+
+
+              h   e   l   m   e   t   s
+
+
+    of the
+
+
+              Pittsburgh  Steelers
+
+
+         in 1962 to
+
+
+         further publicize the
+
+
+         p  r  o  g  r  a  m  ?
+
+
+
+
+              o   r
+
+
+         ... that Hedley
+
+
+              Howarth  helped  lead
+
+
+         New   Zealand
+
+
+    to   its
+
+
+                   first ever
+
+
+                   test  cricket
+
+
+         win on
+
+
+    t  h  e
+
+
+    Indian  subcontinent
+
+
+    w i t h
+
+
+    a
+
+
+         five-wicket bag
+
+
+    against India in
+
+
+         1 9 6 9 ?
+
+
+              a   n   d
+
+
+              ... that, during
+
+
+         the   team's
+
+
+         first   official
+
+
+                   s   e   a   s   o   n   ,
+
+
+                   a
+
+
+                   M   a   r   y   l   a   n   d
+
+
+         Terrapins football
+
+
+              player was accused
+
+
+              of  "unaccreditable  ignorance
+
+
+                   of  football"  after
+
+
+    running   the
+
+
+                   wrong   way
+
+
+                   for 30
+
+
+              yards  (27
+
+
+              m  e  t  r  e  s  )  ?
+
+
+
+
+    .  .  .  t  h  a  t
+
+
+    viable  sperm
+
+
+         has  been
+
+
+                   extracted   from
+
+
+              c  a  d  a  v  e  r  s
+
+
+         up  to
+
+
+    36¬†hours  after  the
+
+
+    d o n o r ' s
+
+
+              d e a t h ?
+
+
+              o   r
+
+
+    a  n  d
+
+
+    . . . t h a t
+
+
+         Baroness   Sophie
+
+
+         Buxhoeveden  wrote  three
+
+
+              b   i   o   g   r   a   p   h   i   e   s
+
+
+              about  the
+
+
+                   Russian   imperial
+
+
+         family  and
+
+
+              about her
+
+
+              own  escape  from
+
+
+              R  u  s  s  i  a
+
+
+         i  n
+
+
+              1 9 1 7 ?
+
+
+
+
+         ...that   Francis
+
+
+                   B  a  r  b  e  r
+
+
+         was  born
+
+
+    a slave
+
+
+              i n
+
+
+                   Jamaica and was
+
+
+         the   manservant
+
+
+                   f   o   r
+
+
+              o v e r
+
+
+         30  years,
+
+
+                   and   finally
+
+
+                   t h e
+
+
+                   h  e  i  r  ,
+
+
+              of   Dr.   Samuel
+
+
+                   J  o  h  n  s  o  n
+
+
+                   o f
+
+
+              d i c t i o n a r y
+
+
+    f   a   m   e   ?
+
+
+    o  r
+
+
+                   ...   that   Thomas
+
+
+    L e a v i t t
+
+
+                   a   n   d
+
+
+                   his brother
+
+
+              Martin   patented   the
+
+
+         first practical
+
+
+              device  in  the
+
+
+                   U n i t e d
+
+
+    States  to  machine
+
+
+              p  o  s  t  m  a  r  k
+
+
+                   l  e  t  t  e  r  s  ?
+
+
+    a  n  d
+
+
+                   ... that
+
+
+                   R u s s i a n
+
+
+              c  e  l  l  i  s  t
+
+
+              Valentin  Berlinsky  played
+
+
+         for   the
+
+
+    B   o   r   o   d   i   n
+
+
+         Quartet for
+
+
+              60   years,   the
+
+
+              l   o   n   g   e   s   t   -   s   e   r   v   i   n   g
+
+
+    member of what
+
+
+              was   described   as
+
+
+              "the   longest   continuously
+
+
+    playing" string
+
+
+         q   u   a   r   t   e   t
+
+
+                   in   the
+
+
+    w   o   r   l   d   ?
+
+
+
+
+         ...that the
+
+
+         author  of  the
+
+
+         best-selling  book  Misha:
+
+
+              A  M√©moire
+
+
+    of the Holocaust
+
+
+              Y e a r s ,
+
+
+              who   claimed   to
+
+
+              b e
+
+
+         a   Holocaust
+
+
+              survivor,  admitted
+
+
+              h  e  r
+
+
+    memoir was a
+
+
+                   h o a x ?
+
+
+              o  r
+
+
+         .  .  .  t  h  a  t
+
+
+    t  h  e
+
+
+         R   y   u   h   o
+
+
+                   was   the   only
+
+
+    m   a   j   o   r
+
+
+    w  a  r  s  h  i  p
+
+
+    damaged   in   the
+
+
+              D o o l i t t l e
+
+
+                   raid,   and   the
+
+
+    last   Japanese   aircraft
+
+
+                   c  a  r  r  i  e  r
+
+
+         to make a
+
+
+              w a r - t i m e
+
+
+              voyage  outside  the
+
+
+              H o m e
+
+
+                   I  s  l  a  n  d  s  ?
+
+
+                   a n d
+
+
+              .   .   .
+
+
+         that   mokomokai,   the
+
+
+         preserved  heads  of
+
+
+                   MƒÅori  people
+
+
+    w  i  t  h
+
+
+              f  a  c  i  a  l
+
+
+              t a t t o o s ,
+
+
+         were  traded  for
+
+
+                   firearms during the
+
+
+                   e   a   r   l   y
+
+
+    19th  century
+
+
+                   i   n
+
+
+                   N   e   w
+
+
+         Z   e   a   l   a   n   d   ?
+
+
+
+
+              ...that   Interstate   80
+
+
+         i n
+
+
+         Nevada crosses the
+
+
+              Forty   Mile
+
+
+         D e s e r t ,
+
+
+         the  most
+
+
+                   dangerous   part
+
+
+    of   the
+
+
+         C   a   l   i   f   o   r   n   i   a
+
+
+         T  r  a  i  l  ?
+
+
+              o r
+
+
+         . . . t h a t
+
+
+    "   M   i   s   s
+
+
+              Lucy Long"
+
+
+         was   possibly
+
+
+              t  h  e
+
+
+                   m o s t
+
+
+         popular  American  song
+
+
+         of the
+
+
+    a  n  t  e  b  e  l  l  u  m
+
+
+         p   e   r   i   o   d   ?
+
+
+              a n d
+
+
+                   .   .   .   t   h   a   t
+
+
+                   the  18th  century
+
+
+    Bow   porcelain   factory
+
+
+    i  n
+
+
+         t   h   e
+
+
+         district of Bow,
+
+
+         L o n d o n
+
+
+                   was a
+
+
+    s   h   o   r   t   -   l   i   v   e   d
+
+
+    rival of the
+
+
+         C   h   e   l   s   e   a
+
+
+    porcelain factory
+
+
+              in   making   the
+
+
+              earliest  soft-paste  porcelain
+
+
+              i  n
+
+
+                   G   r   e   a   t
+
+
+              B r i t a i n ?
+
+
+
+
+         . . .
+
+
+         that   New
+
+
+              York  State  Route
+
+
+    1  9  4
+
+
+              was   the
+
+
+                   only   state   highway
+
+
+                   in  Lewis
+
+
+                   C o u n t y
+
+
+         removed because
+
+
+         of  the
+
+
+    1  9  8  0
+
+
+         s t a t e
+
+
+              m a i n t e n a n c e
+
+
+    s   w   a   p   s   ?
+
+
+    o  r
+
+
+    ...that  when  builders
+
+
+                   t   o   l   d
+
+
+              Lou Henry
+
+
+    Hoover,  who  designed
+
+
+                   her own
+
+
+         h  o  u  s  e  ,
+
+
+              t  h  a  t
+
+
+    s   o   m   e
+
+
+                   o   f
+
+
+                   her   architectural
+
+
+         ideas weren't
+
+
+              d o n e ,
+
+
+              she responded, "Well,
+
+
+                   it's  time  someone
+
+
+              d i d " ?
+
+
+         a   n   d
+
+
+              ...that   during   the
+
+
+              Battle of Jaros≈Çaw
+
+
+         i n
+
+
+                   1   9   3   9
+
+
+              the   Polish   Army
+
+
+                   d  e  f  e  n  d  e  d
+
+
+    the town for
+
+
+         two   days
+
+
+              before retreating in
+
+
+         g o o d
+
+
+    o  r  d  e  r  ?
+
+
+
+
+         ...that  Percy  Hoskins,
+
+
+              w a s
+
+
+         the   only   journalist
+
+
+    working for a
+
+
+    national British newspaper
+
+
+         t  o
+
+
+         defend   suspected   serial
+
+
+                   killer Dr.
+
+
+         John   Adams   when
+
+
+                   he was arrested
+
+
+                   for  murdering  patients
+
+
+              i   n
+
+
+         1   9   5   6   ?
+
+
+    o   r
+
+
+    ...that the
+
+
+              m  o  s  t
+
+
+              recent   of   the
+
+
+    six different
+
+
+    m   e   t   h   o   d   s
+
+
+    o   f
+
+
+    t o t a l
+
+
+                   synthesis   of   the
+
+
+    anti-cancer  drug
+
+
+    p  a  c  l  i  t  a  x  e  l  ,
+
+
+         a  drug
+
+
+         o r i g i n a l l y
+
+
+              derived   from
+
+
+         the   rare
+
+
+    Pacific   Yew,   was
+
+
+              developed  at  the
+
+
+    Tokyo  University  of
+
+
+              Science   in
+
+
+    1   9   9   9   ?
+
+
+         a   n   d
+
+
+         ...that  Russian
+
+
+    playwright  Pavel
+
+
+              Katenin (pictured) was
+
+
+                   deported  from
+
+
+                   St.  Petersburg
+
+
+              in  1822  for
+
+
+              b   o   o   i   n   g
+
+
+         a
+
+
+         favourite   actress
+
+
+                   of  the
+
+
+              city's  governor,  Count
+
+
+         M  i  l  o  r  a  d  o  v  i  c  h  ?
+
+
+    (  I  m  a  g  e  :  K  a  t  e  n  i  n  .  j  p  g  )
+
+
+
+
+    .  .  .  t  h  a  t
+
+
+              the O.
+
+
+                   H .
+
+
+                   Booth   Hose   Company
+
+
+         (   p   i   c   t   u   r   e   d   )
+
+
+              in   Poughkeepsie
+
+
+                   w   a   s
+
+
+                   n a m e d
+
+
+              after the
+
+
+         f  i  r  e
+
+
+         c h i e f
+
+
+              who formed it
+
+
+              after  a
+
+
+                   previous company
+
+
+                   of volunteer firefighters
+
+
+              q  u  i  t
+
+
+         b  e  c  a  u  s  e
+
+
+    they  were  jealous
+
+
+              of   other
+
+
+    c   o   m   p   a   n   i   e   s   '
+
+
+         f   a   c   i   l   i   t   i   e   s   ?
+
+
+              o r
+
+
+                   ...   that
+
+
+         Misty   Copeland
+
+
+    is   the   first
+
+
+              African-American ballerina
+
+
+    t o
+
+
+    appear as
+
+
+              a
+
+
+         soloist with
+
+
+         the   American
+
+
+                   B a l l e t
+
+
+              T  h  e  a  t  r  e  ?
+
+
+         a   n   d
+
+
+              ...that the Rev.
+
+
+         Arthur   Wagner,   the
+
+
+    first   curate   of
+
+
+         t   h   e
+
+
+              C h u r c h
+
+
+                   o   f
+
+
+         St. Paul, Brighton,
+
+
+              E  n  g  l  a  n  d  ,
+
+
+    c   o   m   m   i   s   s   i   o   n   e   d
+
+
+                   stained glass
+
+
+    w   i   n   d   o   w   s
+
+
+         of  his  mother,
+
+
+                   f a t h e r
+
+
+              a n d
+
+
+    a u n t
+
+
+         f   o   r
+
+
+                   t h e
+
+
+                   c   h   u   r   c   h   ?
+
+
+
+
+                   ...  that
+
+
+    in 1881
+
+
+    in   the
+
+
+              village  of
+
+
+              Bakhshali  in  northern
+
+
+    Pakistan,  the  Bakhshali
+
+
+         m   a   n   u   s   c   r   i   p   t   ,
+
+
+                   the  oldest
+
+
+                   surviving   example   of
+
+
+                   Indian   mathematics,   was
+
+
+              d i s c o v e r e d
+
+
+              written  on
+
+
+    b  i  r  c  h
+
+
+         b  a  r  k  ?
+
+
+         o  r
+
+
+    a n d
+
+
+                   ...that  fear
+
+
+                   of being
+
+
+                   buried  alive  was
+
+
+    s   o
+
+
+    w   i   d   e   s   p   r   e   a   d
+
+
+    in 19th century
+
+
+    t   h   a   t
+
+
+                   safety   coffins
+
+
+                   were  invented
+
+
+         t   o
+
+
+                   give  the  prematurely
+
+
+    b u r i e d
+
+
+         a
+
+
+         c h a n c e
+
+
+         f  o  r
+
+
+         e   s   c   a   p   e
+
+
+
+
+                   ...   that
+
+
+              Australian James Blair
+
+
+              introduced laws to
+
+
+                   p r o t e c t
+
+
+                   children  by
+
+
+    e  s  t  a  b  l  i  s  h  i  n  g
+
+
+    a  children's
+
+
+              court,  and  by
+
+
+              preventing   unjust   disinheritance
+
+
+                   i n
+
+
+         p   a   r   e   n   t   s   '
+
+
+              wills,  before
+
+
+         he   became   chief
+
+
+                   j   u   s   t   i   c   e
+
+
+    o f
+
+
+    Q  u  e  e  n  s  l  a  n  d  ?
+
+
+    o  r
+
+
+                   ... that before
+
+
+    s   h   e
+
+
+    was  disassembled
+
+
+              for  scrap
+
+
+              in 1932, USS
+
+
+         Holland, the first
+
+
+                   submarine   commissioned
+
+
+              by the
+
+
+              U.S. Navy, spent
+
+
+    many  years  as
+
+
+         an attraction
+
+
+              i   n
+
+
+              Starlight   amusement   park
+
+
+         i n
+
+
+    New York
+
+
+                   C i t y ?
+
+
+    a n d
+
+
+                   ...   that   Peruvian
+
+
+                   artist   Jorge   Eielson
+
+
+              is  considered  a
+
+
+         precursor   of   conceptual
+
+
+    a  r  t
+
+
+    f  o  r
+
+
+    his   quipus,   reinterpretations
+
+
+         o   f
+
+
+         a  n
+
+
+    a n c i e n t
+
+
+              A  n  d  e  a  n
+
+
+              d  e  v  i  c  e  ?
+
+
+
+
+              ...that   the
+
+
+                   snipers  of
+
+
+                   t  h  e
+
+
+              Kremlin Regiment killed
+
+
+         a total
+
+
+              of   more
+
+
+                   than 1,200
+
+
+    German   soldiers
+
+
+                   a n d
+
+
+         o   f   f   i   c   e   r   s
+
+
+              during  the  Soviet-German
+
+
+    W   a   r   ?
+
+
+    o  r
+
+
+                   . . . t h a t
+
+
+    large-scale Greek settlement
+
+
+                   i   n
+
+
+              w  h  a  t
+
+
+              is  today
+
+
+    Bulgaria dates to
+
+
+         the 7th century
+
+
+    B C ?
+
+
+    a   n   d
+
+
+                   ... that
+
+
+         after organist
+
+
+                   D   u   d   l   e   y
+
+
+                   S   a   v   a   g   e   '   s
+
+
+                   r   a   d   i   o
+
+
+         r  e  q  u  e  s  t
+
+
+    programme   was
+
+
+              cancelled   in   1968,
+
+
+         the   BBC
+
+
+                   f a c e d
+
+
+         a   protest   described
+
+
+         a s
+
+
+                   "perhaps the biggest
+
+
+                   demonstration of
+
+
+                   i  t  s
+
+
+         k   i   n   d   "   ?
+
+
+
+
+              . . .
+
+
+                   t  h  a  t
+
+
+                   painter T.
+
+
+              E .
+
+
+              Breitenbach's  work  Proverbidioms
+
+
+         a   p   p   e   a   r   e   d
+
+
+    o  n
+
+
+              t  h  e
+
+
+                   T V
+
+
+              show  Beverly  Hills,
+
+
+              9   0   2   1   0   ?
+
+
+         o r
+
+
+    .   .   .   t   h   a   t
+
+
+    the  Ythan
+
+
+         Estuary  in  Scotland
+
+
+         contains the most
+
+
+              extensive dunes formation
+
+
+              in  Europe  and
+
+
+         is  also  the
+
+
+              site   of   a
+
+
+         S   t   o   n   e
+
+
+         A   g   e
+
+
+              s  e  t  t  l  e  m  e  n  t  ?
+
+
+                   a   n   d
+
+
+                   ... that college
+
+
+         f o o t b a l l
+
+
+                   p   l   a   y   e   r
+
+
+    B o b
+
+
+         Ward  is  the
+
+
+    only   player   to
+
+
+    have   been
+
+
+    s e l e c t e d
+
+
+    by   the
+
+
+    A  s  s  o  c  i  a  t  e  d
+
+
+         Press  as
+
+
+         a  first-team  All-American
+
+
+              i n
+
+
+                   both   an
+
+
+    offensive and
+
+
+              d e f e n s i v e
+
+
+                   p  o  s  i  t  i  o  n  ?
+
+
+
+
+              ...that Gustave
+
+
+    Courbet's erotic painting
+
+
+    Femme   nue
+
+
+    couch√©e (pictured), recovered
+
+
+    i n
+
+
+              2005   after
+
+
+              d i s a p p e a r i n g
+
+
+         during   World
+
+
+    War   II,
+
+
+              h a d
+
+
+              b  e  e  n
+
+
+    given   to
+
+
+              a  Slovak  doctor
+
+
+                   i  n
+
+
+              return   for   medical
+
+
+         t r e a t m e n t ?
+
+
+                   o r
+
+
+    ...that   Socrates,
+
+
+                   the   last   defender
+
+
+         of   orality
+
+
+    i  n
+
+
+    ancient Greece, denounced
+
+
+                   writing  as
+
+
+                   'inhuman'   because   it
+
+
+    weakened the
+
+
+    mind,  the  memory
+
+
+         and  the  prospects
+
+
+         f   o   r
+
+
+                   finding   truth   through
+
+
+              d   i   a   l   o   g   u   e   ?
+
+
+              a   n   d
+
+
+              ...  that  Open
+
+
+              Access movement, a
+
+
+         social   movement
+
+
+         in  academia  dedicated
+
+
+              t  o
+
+
+    the   principle
+
+
+                   of   open   access‚Äîinformation
+
+
+    s h a r i n g
+
+
+    f   o   r
+
+
+         t   h   e
+
+
+         common good‚Äîtraces
+
+
+              i  t  s
+
+
+              history  to
+
+
+              1960s  or
+
+
+                   e  a  r  l  i  e  r  ?
+
+
+
+
+         . . . t h a t
+
+
+                   t   h   e
+
+
+         SS Blairspey was
+
+
+              hit  by
+
+
+              a  t
+
+
+                   least  three  torpedoes
+
+
+         from two
+
+
+         d  i  f  f  e  r  e  n  t
+
+
+    U-boats,  but  still
+
+
+         managed  to
+
+
+              reach  port  because
+
+
+                   her  cargo
+
+
+                   of   timber   kept
+
+
+              h  e  r
+
+
+                   a   f   l   o   a   t   ?
+
+
+              o   r
+
+
+    .  .  .  t  h  a  t
+
+
+              podest√† was
+
+
+    a   powerful
+
+
+    position  in
+
+
+              m   e   d   i   e   v   a   l
+
+
+                   c  i  t  i  e  s
+
+
+         in northern
+
+
+                   I t a l y ?
+
+
+    a   n   d
+
+
+         ....that  the
+
+
+         origins  of
+
+
+    Pak   Khlong
+
+
+         T   a   l   a   t   ,
+
+
+              t  h  e
+
+
+              primary  flower
+
+
+              market in
+
+
+              Bangkok, Thailand, date
+
+
+              to the
+
+
+    1   7   0   0   s   ?
+
+
+
+
+                   ...that several
+
+
+              cases  of
+
+
+    interactions between
+
+
+         Buddhism  and
+
+
+                   the   Roman   world
+
+
+                   are documented by
+
+
+         Classical   and   early
+
+
+    C  h  r  i  s  t  i  a  n
+
+
+    a   u   t   h   o   r   s   ?
+
+
+                   o  r
+
+
+    ...that Sara Larra√≠n,
+
+
+                   who  finished
+
+
+         in fifth place
+
+
+         in   the   1999
+
+
+                   Chilean presidential election,
+
+
+              was a founder
+
+
+              a   n   d
+
+
+    the  first  director
+
+
+              of Greenpeace
+
+
+         i   n
+
+
+                   C  h  i  l  e  ?
+
+
+    a n d
+
+
+    ... that
+
+
+    M a y o r
+
+
+                   Tom  Weisner
+
+
+              once considered
+
+
+    outlawing untimely holiday
+
+
+              decorations,   when
+
+
+                   c  i  t  i  z  e  n  s
+
+
+    o   f
+
+
+    A  u  r  o  r  a  ,
+
+
+    I  l  l  i  n  o  i  s  ,
+
+
+              complained   of   Christmas
+
+
+    d e c o r a t i o n s
+
+
+         a  b  o  u  n  d  i  n  g
+
+
+    during   the
+
+
+         s u m m e r ?
+
+
+
+
+                   ...that Sarskoye Gorodishche
+
+
+         near  Rostov
+
+
+         has   been
+
+
+              i   n   t   e   r   p   r   e   t   e   d
+
+
+                   either  as
+
+
+         a  Varangian  outpost
+
+
+                   on the
+
+
+                   V  o  l  g  a
+
+
+              trade   route
+
+
+         or  the  capital
+
+
+         of   the   Finnic
+
+
+         M  e  r  y  a  ?
+
+
+    o r
+
+
+    .   .   .   t   h   a   t
+
+
+                   f   o   r   m   e   r
+
+
+         California  representative
+
+
+         Allan O. Hunter
+
+
+                   was  appointed
+
+
+    as the president
+
+
+    and   chairman   of
+
+
+         Fannie   Mae
+
+
+              by  President  Richard
+
+
+    Nixon   in
+
+
+    1 9 7 0 ?
+
+
+              a n d
+
+
+         ...   that   the
+
+
+                   computer  game
+
+
+                   "Attack   of
+
+
+              the Mutant
+
+
+    Artificial Christmas
+
+
+                   Trees" invites
+
+
+              players   to
+
+
+    s  t  o  p
+
+
+              mutant fake
+
+
+              t r e e s
+
+
+    from   sucking
+
+
+                   the  spirit
+
+
+         out  of
+
+
+                   C   h   r   i   s   t   m   a   s   ?
+
+
+
+
+                   ...that paperback rights
+
+
+                   t  o
+
+
+         Gay Talese's
+
+
+         1   9   7   1
+
+
+    non-fiction   novel
+
+
+    about  the  Bonanno
+
+
+         c  r  i  m  e
+
+
+                   family, Honor
+
+
+                   Thy   Father,   sold
+
+
+                   f o r
+
+
+                   more   money
+
+
+    than  the  paperback
+
+
+         rights to Mario
+
+
+              P   u   z   o   '   s
+
+
+         T h e
+
+
+                   G  o  d  f  a  t  h  e  r  ?
+
+
+              o  r
+
+
+                   ... that former
+
+
+              Detroit  Red  Wings
+
+
+         head   coach   Jacques
+
+
+         D   e   m   e   r   s
+
+
+    is   the   only
+
+
+              c   o   a   c   h
+
+
+                   in  the
+
+
+         National   Hockey   League
+
+
+         to have
+
+
+                   w  o  n
+
+
+         the Jack
+
+
+              Adams Award
+
+
+                   t w i c e
+
+
+    with  the  same
+
+
+         t  e  a  m  ?
+
+
+                   a   n   d
+
+
+              .  .  .  t  h  a  t
+
+
+              before  working
+
+
+         as biomechanist to
+
+
+    t  h  e
+
+
+              Indian  cricket
+
+
+    t  e  a  m  ,
+
+
+              Ian   Frazer   helped
+
+
+         Australian  cricketer  Greg
+
+
+    Chappell  develop  a
+
+
+         patented  cricket
+
+
+    t  r  a  i  n  i  n  g
+
+
+    p r o g r a m ?
+
+
+
+
+              . . .
+
+
+                   that   though
+
+
+         the  mushroom
+
+
+              L   a   c   t   a   r   i   u   s
+
+
+                   subdulcis  (pictured)  is
+
+
+              considered  edible,  it
+
+
+    h   a   s
+
+
+                   a taste similar
+
+
+              t   o
+
+
+    i v y ?
+
+
+              o   r
+
+
+    ...that 7th-century
+
+
+              duke   Waldalenus
+
+
+         traded  off  with
+
+
+              t   h   e
+
+
+    Church   his   firstborn
+
+
+                   son   against
+
+
+                   his wife's
+
+
+                   m  i  r  a  c  u  l  o  u  s
+
+
+         f e r t i l i t y ?
+
+
+    a n d
+
+
+    ...that   the
+
+
+              Berlin   Stadtbahn   (pictured)
+
+
+         is built mostly
+
+
+              as   an   elevated
+
+
+                   railway line with
+
+
+                   viaducts  totalling  eight
+
+
+         k  i  l  o  m  e  t  r  e  s
+
+
+                   of  length,  including
+
+
+    7   3   1
+
+
+                   m  a  s  o  n  r  y
+
+
+         v  i  a  d  u  c  t
+
+
+         a r c h e s ?
+
+
+
+
+              ...that the
+
+
+              s   o   u   r   c   e   s
+
+
+         of  William  Shakespeare's
+
+
+                   Hamlet lie in
+
+
+         l  e  g  e  n  d  s
+
+
+                   which  may  trace
+
+
+                   to  an
+
+
+              I   n   d   o   -   E   u   r   o   p   e   a   n
+
+
+         o   r   i   g   i   n   ?
+
+
+    o r
+
+
+         ...that TenneT,
+
+
+              the  Dutch
+
+
+         transmission  system
+
+
+              operator, is
+
+
+                   a
+
+
+    joint   owner
+
+
+    of the
+
+
+    ¬±450¬†kV,  580-km
+
+
+                   N   o   r   N   e   d   ,
+
+
+              the  longest  high-voltage
+
+
+              u n d e r s e a
+
+
+              power  line  in
+
+
+              t   h   e
+
+
+                   w   o   r   l   d   ?
+
+
+                   a  n  d
+
+
+    ...that the
+
+
+    first   three   Ministers
+
+
+         o f
+
+
+              t   h   e
+
+
+                   P r i v y
+
+
+         Treasury of the
+
+
+    O  t  t  o  m  a  n
+
+
+              Empire   were
+
+
+         Armenian,  the
+
+
+         f   i   r   s   t
+
+
+    b  e  i  n  g
+
+
+                   Hagop   Kazazian
+
+
+              P  a  s  h  a  ?
+
+
+
+
+                   ...that New
+
+
+         York  City  authorities
+
+
+              asked  the
+
+
+         Museum of Sex
+
+
+                   n   o   t
+
+
+              to  locate
+
+
+    i  t  s  e  l  f
+
+
+              w i t h i n
+
+
+              500 feet
+
+
+              of a
+
+
+    church   or
+
+
+                   s  c  h  o  o  l  ?
+
+
+              o   r
+
+
+         ...  that  North
+
+
+              University Park in
+
+
+                   L o s
+
+
+                   Angeles  contains  many
+
+
+    well-preserved   Victorian   houses
+
+
+         and   was
+
+
+         t   h   e
+
+
+    b   i   r   t   h   p   l   a   c   e
+
+
+    of  U.S.  Presidential
+
+
+              candidate   Adlai
+
+
+              S t e v e n s o n ?
+
+
+    a  n  d
+
+
+         .  .  .  t  h  a  t
+
+
+    the novel Pioneer,
+
+
+                   Go   Home!   (adapted
+
+
+              into the
+
+
+    Elvis  movie  Follow
+
+
+         t  h  a  t
+
+
+         D  r  e  a  m  )
+
+
+         was   inspired   by
+
+
+         squatters who
+
+
+    settled   on   land
+
+
+    created   when
+
+
+              Florida built
+
+
+              a  bridge
+
+
+         to Pine
+
+
+         I   s   l   a   n   d   ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+                   the  novel
+
+
+              The  Program  draws
+
+
+                   o  n
+
+
+              influences   from
+
+
+    Lifespring, Werner Erhard,
+
+
+                   a  n  d
+
+
+                   Large Group
+
+
+         A  w  a  r  e  n  e  s  s
+
+
+                   T   r   a   i   n   i   n   g   ?
+
+
+         o  r
+
+
+    .   .   .   t   h   a   t
+
+
+    Kevin  O'Brien  (1955‚Äì2008),
+
+
+              an   Independent   Baptist
+
+
+                   minister in
+
+
+         L  u  b  b  o  c  k  ,
+
+
+    Texas,   was   among
+
+
+    the founders of
+
+
+         the fundamentalist
+
+
+              Heartland   Baptist   Bible
+
+
+                   C   o   l   l   e   g   e
+
+
+    in  Oklahoma
+
+
+              C  i  t  y  ?
+
+
+    a  n  d
+
+
+         ... that John
+
+
+                   T  r  u  d  e  a  u
+
+
+    established the Britt
+
+
+                   Festival in
+
+
+                   Oregon   in   1962,
+
+
+                   t   h   e
+
+
+    f i r s t
+
+
+                   of   its
+
+
+         kind in the
+
+
+              P   a   c   i   f   i   c
+
+
+         Northwest   of
+
+
+         the  U.S.,
+
+
+    a n d
+
+
+              n   o   w
+
+
+    a
+
+
+         four-month long
+
+
+                   celebration  of
+
+
+              music   and   musical
+
+
+         t   h   e   a   t   e   r   ?
+
+
+
+
+              ... that Kodaikanal
+
+
+                   Lake  (pictured)  was
+
+
+         developed  in  1863,
+
+
+                   amid   the
+
+
+                   town of the
+
+
+         s a m e
+
+
+         name,   by
+
+
+         the  British  and
+
+
+                   e   a   r   l   y
+
+
+                   missionaries   from   the
+
+
+                   U S A ?
+
+
+                   o r
+
+
+                   .  .  .
+
+
+    that  Pakistani  actress
+
+
+                   Veena   Malik   (pictured)
+
+
+         h a s
+
+
+         emerged  as
+
+
+    o n e
+
+
+    of the
+
+
+    leading  women  on
+
+
+                   Pakistani television with
+
+
+         her   abilities   in
+
+
+              i m p r o v i s a t i o n a l
+
+
+    m   i   m   i   c   r   y   ?
+
+
+              a  n  d
+
+
+              ...that in 2005
+
+
+              the  then
+
+
+    2 8 - y e a r - o l d
+
+
+              M  u  r  a  t
+
+
+              Yusuf became
+
+
+    the   youngest   ever
+
+
+         Mufti of
+
+
+    R  o  m  a  n  i  a  ?
+
+
+
+
+                   ...that  Russian
+
+
+    cellist   Anatoliy   Brandukov
+
+
+              (  p  i  c  t  u  r  e  d  )
+
+
+         entered the
+
+
+    Moscow   Conservatory   aged
+
+
+    e   i   g   h   t   ?
+
+
+         o  r
+
+
+              .  .  .  t  h  a  t
+
+
+                   Camling  is  an
+
+
+         a n c i e n t
+
+
+    Kiranti  language,
+
+
+    w  i  t  h
+
+
+              only 10,000 speakers
+
+
+    in eastern
+
+
+                   Nepal, Bhutan
+
+
+    a   n   d
+
+
+              I  n  d  i  a  ?
+
+
+              a n d
+
+
+              .   .   .   t   h   a   t
+
+
+              George Steiner's 1975
+
+
+              book  on  language
+
+
+                   and translation, After
+
+
+              B  a  b  e  l  ,
+
+
+              was the first
+
+
+                   c o m p r e h e n s i v e
+
+
+         study  of  the
+
+
+                   s   u   b   j   e   c   t   ?
+
+
+
+
+         ...that   Gregory   XV
+
+
+                   w   a   s
+
+
+              acclaimed   as
+
+
+                   t   h   e
+
+
+              new pope in
+
+
+                   the   papal   conclave
+
+
+                   of  1621  even
+
+
+    though   Cardinal   Robert
+
+
+                   Bellarmine had
+
+
+    r e c e i v e d
+
+
+         t h e
+
+
+         m o s t
+
+
+         votes   in
+
+
+         t h e
+
+
+                   b a l l o t ?
+
+
+         o   r
+
+
+              ...that   Sholakia,
+
+
+    a  tiny  town
+
+
+              in Bangladesh,
+
+
+                   d   r   a   w   s
+
+
+         300,000  Muslims  for
+
+
+              E i d
+
+
+    p   r   a   y   e   r   s
+
+
+              every year on
+
+
+              E  i  d
+
+
+              u  l  -  F  i  t  r  ?
+
+
+    a  n  d
+
+
+    .  .  .
+
+
+    t   h   a   t
+
+
+         most of the
+
+
+              water in the
+
+
+    267¬†acre (1.08¬†km¬≤)
+
+
+    Lake  Delton
+
+
+                   emptied out in
+
+
+    t w o
+
+
+                   hours  after  heavy
+
+
+         rains caused
+
+
+                   i  t
+
+
+                   to  overflow  its
+
+
+    b  a  n  k  s  ?
+
+
+
+
+    .   .   .
+
+
+              that  Dr
+
+
+              David  Moor
+
+
+                   admitted in a
+
+
+    press   interview
+
+
+    to  having
+
+
+         h  e  l  p  e  d
+
+
+              up  to
+
+
+              300  ill
+
+
+         p a t i e n t s
+
+
+                   t o
+
+
+         d i e ?
+
+
+              o r
+
+
+         . . . t h a t
+
+
+         the  representatives  at
+
+
+    t  h  e
+
+
+         V i l n i u s
+
+
+                   Conference   in   1917
+
+
+                   elected a 20-member
+
+
+    C   o   u   n   c   i   l
+
+
+    of  Lithuania  to
+
+
+    negotiate  with  the
+
+
+         G e r m a n s
+
+
+              for   the
+
+
+         independence  of
+
+
+    L   i   t   h   u   a   n   i   a   ?
+
+
+              a  n  d
+
+
+                   .   .   .
+
+
+              t h a t
+
+
+                   the  first  known
+
+
+                   s   p   e   c   i   m   e   n
+
+
+              of  the
+
+
+              Soringa   whiting   was
+
+
+    caught   by   accident
+
+
+                   i n
+
+
+    1 9 8 2
+
+
+                   during   a   taxonomic
+
+
+    s   u   r   v   e   y
+
+
+         of ladyfish
+
+
+         i n
+
+
+              t  h  e
+
+
+    I  n  d  i  a  n
+
+
+                   O   c   e   a   n   ?
+
+
+
+
+                   ...that  Shakadvipi
+
+
+                   ( B h o j a k a )
+
+
+         i   s
+
+
+    the  only  division
+
+
+                   of  brahmins  whose
+
+
+                   origins  are  said
+
+
+              t  o
+
+
+    be  outside
+
+
+         I  n  d  i  a  ?
+
+
+                   o   r
+
+
+    . . .
+
+
+              that   Vasili
+
+
+    Blokhin,  chief
+
+
+    executioner of the
+
+
+              Stalinist  NKVD,  led
+
+
+    a   company   of
+
+
+         executioners that
+
+
+                   performed more than
+
+
+    8   2   8   ,   0   0   0
+
+
+              official  executions  during
+
+
+              Joseph   Stalin's   reign,
+
+
+    i n c l u d i n g
+
+
+              t e n s
+
+
+    of   thousands   by
+
+
+              his  own
+
+
+         h  a  n  d  s  ?
+
+
+         a  n  d
+
+
+         ...   that
+
+
+    the Imperial
+
+
+              Japanese  Navy
+
+
+                   destroyer Kamikaze was
+
+
+              o   n   e
+
+
+                   o  f
+
+
+         t  h  e
+
+
+              few   larger   Japanese
+
+
+                   warships to
+
+
+                   s   u   r   v   i   v   e
+
+
+         the  Pacific  War
+
+
+    w i t h o u t
+
+
+                   s i g n i f i c a n t
+
+
+              d  a  m  a  g  e  ?
+
+
+
+
+    ...that  king
+
+
+              Naresuan  ruled
+
+
+         T   h   a   i   l   a   n   d
+
+
+    at   its
+
+
+                   g  r  e  a  t  e  s  t
+
+
+    t e r r i t o r i a l
+
+
+                   e x t e n t ?
+
+
+              o r
+
+
+         ... that
+
+
+    the  Pennsylvania
+
+
+         Mutiny  of  1783
+
+
+                   was  a  primary
+
+
+    r  e  a  s  o  n
+
+
+              for the
+
+
+    creation of
+
+
+              a   separate
+
+
+              federal   district
+
+
+                   to   serve
+
+
+              a   s
+
+
+    t  h  e
+
+
+              c a p i t a l
+
+
+         of  the
+
+
+                   U n i t e d
+
+
+    S  t  a  t  e  s  ?
+
+
+    a   n   d
+
+
+         ...that   Royal   Navy
+
+
+    admiral Alexander Cochrane
+
+
+              was  responsible  for
+
+
+         t h e
+
+
+         bombing  of
+
+
+                   Fort McHenry, which
+
+
+         inspired Francis
+
+
+              Scott  Key
+
+
+         to  write  "The
+
+
+                   S  t  a  r  -  S  p  a  n  g  l  e  d
+
+
+                   Banner,"   the   national
+
+
+         anthem  of  the
+
+
+         U  n  i  t  e  d
+
+
+                   S   t   a   t   e   s   ¬   †   ?
+
+
+
+
+    ...that  The
+
+
+              University   of
+
+
+    T   e   x   a   s
+
+
+              L  o  n  g  h  o  r  n
+
+
+                   Band  performed
+
+
+    for inaugurations of
+
+
+    Presidents Theodore
+
+
+    Roosevelt,  John  F.
+
+
+              K  e  n  n  e  d  y  ,
+
+
+    L y n d o n
+
+
+    B   .
+
+
+    Johnson, Ronald
+
+
+                   R  e  a  g  a  n  ,
+
+
+         George H.
+
+
+                   W.   Bush   and
+
+
+                   G   e   o   r   g   e
+
+
+              W  .
+
+
+                   B   u   s   h   ?
+
+
+              o  r
+
+
+    ... that overseas
+
+
+              revenues   rose
+
+
+    tenfold during the
+
+
+    decade that Richard
+
+
+    Rompala  helped
+
+
+         t o
+
+
+    l  e  a  d
+
+
+    the paint
+
+
+         a n d
+
+
+              coatings   manufacturer
+
+
+         V a l s p a r ?
+
+
+         a n d
+
+
+         ...that   The   Simpsons
+
+
+              and   Philosophy:
+
+
+                   T   h   e
+
+
+                   D'oh! of Homer,
+
+
+    a   book   that
+
+
+                   analyzes the
+
+
+                   The   Simpsons
+
+
+              using  philosophical  concepts,
+
+
+    i  s
+
+
+    t   h   e
+
+
+              main   textbook   in
+
+
+         s  o  m  e
+
+
+              university  philosophy
+
+
+                   c  o  u  r  s  e  s  ?
+
+
+
+
+         ... that George
+
+
+    M  .
+
+
+              Keller  added
+
+
+         U S $ 1
+
+
+                   per   share   at
+
+
+         the last
+
+
+         minute to
+
+
+                   h   i   s
+
+
+                   c o m p a n y ' s
+
+
+         bid for Gulf
+
+
+    Oil,  providing  the
+
+
+              margin   needed
+
+
+              t o
+
+
+         win   a
+
+
+    1 9 8 4
+
+
+    bidding   war   to
+
+
+         b   u   y
+
+
+         Gulf   in   a
+
+
+    deal   valued   at
+
+
+         U S $ 1 3 . 3 ¬ † b i l l i o n ?
+
+
+    o  r
+
+
+    ...that  Chen
+
+
+              C h i - m a i
+
+
+    r   e   c   e   i   v   e   d
+
+
+              the   flag
+
+
+              of  the
+
+
+    World   Games
+
+
+                   and  officially
+
+
+    made   Kaohsiung   the
+
+
+              host city
+
+
+    o  f
+
+
+                   World  Games
+
+
+    2   0   0   9   ?
+
+
+         a   n   d
+
+
+         ...   that
+
+
+    W   i   l   l   i   a   m
+
+
+    Trueheart was the
+
+
+         acting U.S.
+
+
+              a  m  b  a  s  s  a  d  o  r
+
+
+         to Saigon during
+
+
+    the   Vietnam
+
+
+    Conflict, because his
+
+
+         superior,   Frederick   Nolting,
+
+
+         w   a   n   t   e   d
+
+
+              a  break  from
+
+
+                   d u t i e s ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+              t  h  e
+
+
+    Baharistan-i-Ghaibi   is
+
+
+                   t  h  e
+
+
+              only  extensive
+
+
+         historical   document   accounting
+
+
+                   the  wars,  events
+
+
+                   and  life  in
+
+
+         Bengal during the
+
+
+              reign  of  Mughal
+
+
+                   e   m   p   e   r   o   r
+
+
+    J a h a n g i r ?
+
+
+              o  r
+
+
+    ...that  George
+
+
+         Steiner's 1975
+
+
+         b o o k
+
+
+         on   language   and
+
+
+         t r a n s l a t i o n ,
+
+
+                   After Babel, was
+
+
+              the first
+
+
+              c   o   m   p   r   e   h   e   n   s   i   v   e
+
+
+              study   of   the
+
+
+         s   u   b   j   e   c   t   ?
+
+
+              a n d
+
+
+         ...  that
+
+
+    O  d  d
+
+
+              W   i   t   h   ,
+
+
+    member of the
+
+
+              Norwegian  Parliament  for
+
+
+              the  Christian
+
+
+                   Democratic  Party,  was
+
+
+                   the  grandfather
+
+
+         of  2006  Pop
+
+
+              Idol  victor
+
+
+                   Aleksander   Denstad
+
+
+              W   i   t   h   ?
+
+
+
+
+    ...that   Grand
+
+
+              Duchess Maria
+
+
+                   Nikolaevna (pictured)
+
+
+    k   e   p   t
+
+
+                   her  morganatic  marriage
+
+
+    secret  from
+
+
+              h  e  r
+
+
+                   father,  Nicholas  I
+
+
+    of   Russia,   until
+
+
+    his   death
+
+
+    i  n
+
+
+              1   8   5   5   ?
+
+
+    o  r
+
+
+              ...that  the
+
+
+    m   o   u   n   d   s
+
+
+                   of   Indian   Mound
+
+
+    Park on
+
+
+         Dauphin Island,
+
+
+         A   l   a   b   a   m   a
+
+
+              are   composed   of
+
+
+         o y s t e r
+
+
+    shells   discarded
+
+
+         over   centuries   by
+
+
+              m   i   g   r   a   n   t
+
+
+    I n d i a n s ?
+
+
+         a  n  d
+
+
+    ... that
+
+
+                   t  h  e  r  e
+
+
+         is suspicion
+
+
+         that   the
+
+
+         death   in   prison
+
+
+              of Kenneth
+
+
+    Michael  Trentadue
+
+
+                   w  a  s
+
+
+    related   to   the
+
+
+         O k l a h o m a
+
+
+    C   i   t   y
+
+
+              b  o  m  b  i  n  g  ?
+
+
+
+
+         . . . t h a t
+
+
+    N  i  n  a
+
+
+              B   a   n   g
+
+
+         w a s
+
+
+                   one of
+
+
+                   t   h   e
+
+
+              w   o   r   l   d   '   s
+
+
+              f  i  r  s  t
+
+
+              female government
+
+
+    m i n i s t e r s ?
+
+
+              o   r
+
+
+         ...that   motorcyclist   Jo
+
+
+         S   i   f   f   e   r   t
+
+
+              was   killed   in
+
+
+         an  end-of-season
+
+
+                   non-championship F1 race
+
+
+                   on  October  24,
+
+
+              1971   at   Brands
+
+
+                   H   a   t   c   h   ?
+
+
+         a   n   d
+
+
+                   ...that  Chetham's
+
+
+         L  i  b  r  a  r  y
+
+
+              i n
+
+
+         Manchester,  England
+
+
+                   i   s
+
+
+    the  oldest  public
+
+
+    l   i   b   r   a   r   y
+
+
+         i   n
+
+
+    t  h  e
+
+
+    E  n  g  l  i  s  h  -  s  p  e  a  k  i  n  g
+
+
+         w  o  r  l  d  ?
+
+
+
+
+                   ...  that  the
+
+
+         F r i e n d
+
+
+         to  Friend
+
+
+    Masonic   Memorial   depicts
+
+
+         the   historical
+
+
+                   e   v   e   n   t
+
+
+         of an
+
+
+    U   n   i   o   n
+
+
+    o f f i c e r
+
+
+              a   i   d   i   n   g
+
+
+    a
+
+
+    Confederate officer
+
+
+                   at  the  Battle
+
+
+                   of   Gettysburg,
+
+
+    due  to  both
+
+
+         b e i n g
+
+
+    F  r  e  e  m  a  s  o  n  s  ?
+
+
+              o  r
+
+
+    .   .   .   t   h   a   t
+
+
+                   the  Motown
+
+
+         r e c o r d i n g
+
+
+         "Do   You
+
+
+         Love Me" by
+
+
+         The   Contours
+
+
+                   became  a
+
+
+         Billboard  Hot  100
+
+
+                   Top   20   hit
+
+
+                   twice;  once
+
+
+              i  n
+
+
+    1   9   6   2
+
+
+              and again
+
+
+    i  n
+
+
+    1   9   8   7   ?
+
+
+    a   n   d
+
+
+                   ...that Fritz Bleyl
+
+
+                   was one
+
+
+         of  the  four
+
+
+    founders   of
+
+
+                   D  i  e
+
+
+                   B   r   √   º   c   k   e
+
+
+                   art group in
+
+
+              1905, but left
+
+
+              t w o
+
+
+              years later
+
+
+         a  n  d
+
+
+                   never exhibited
+
+
+              a  g  a  i  n  ?
+
+
+
+
+              o   r
+
+
+                   ...that  Halema ªuma ªu  crater
+
+
+    (pictured)   in
+
+
+         Hawaii  Volcanoes
+
+
+                   N a t i o n a l
+
+
+         P a r k
+
+
+    erupted   explosively
+
+
+         on   March
+
+
+              19   2008   for
+
+
+    the   first   time
+
+
+              s i n c e
+
+
+    1   9   2   4   ?
+
+
+         a   n   d
+
+
+                   ...that   British   architect
+
+
+         Jan   Kaplick√Ω
+
+
+    escaped  from  Prague
+
+
+                   t o
+
+
+                   London  in  the
+
+
+         w a k e
+
+
+    of  the
+
+
+         P  r  a  g  u  e
+
+
+                   Spring, carrying only
+
+
+    US$100   and
+
+
+    a few pairs
+
+
+                   o   f
+
+
+                   s  o  c  k  s  ?
+
+
+
+
+    ...that   Dr.
+
+
+    John   Roberton
+
+
+    p  r  o  p  o  s  e  d
+
+
+    "medical   police"
+
+
+         a  n  d
+
+
+              advocated use
+
+
+                   of cantharides whilst
+
+
+    a  n  o  t  h  e  r
+
+
+                   Dr. John
+
+
+         R   o   b   e   r   t   o   n
+
+
+                   was   a   pioneer
+
+
+    o   f
+
+
+    o b s t e t r i c s ?
+
+
+              o  r
+
+
+    ...that  although
+
+
+    Brian  Elliott  was
+
+
+         drafted   second-last   in
+
+
+                   the 2003 NHL
+
+
+         E   n   t   r   y
+
+
+                   Draft,   he   recently
+
+
+              p l a y e d
+
+
+         a  regular-season  game
+
+
+              f o r
+
+
+                   the   Ottawa
+
+
+                   S   e   n   a   t   o   r   s   ?
+
+
+    a   n   d
+
+
+         ...that  the  Kentucky
+
+
+    Irish  American
+
+
+         counted   among
+
+
+         its  subscribers
+
+
+              Franklin D. Roosevelt
+
+
+              and Harry
+
+
+    T   r   u   m   a   n   ?
+
+
+
+
+              ...that   osteomyelitis‚Äìinfection
+
+
+                   o   f
+
+
+         the   bones   or
+
+
+         b o n e
+
+
+              marrow‚Äìis   particularly
+
+
+         c o m m o n
+
+
+              i   n
+
+
+         t h e
+
+
+         tibia,   femur,   humerus
+
+
+         and  vertebral
+
+
+    b  o  d  i  e  s  ?
+
+
+    o   r
+
+
+    ... that
+
+
+              Mike Scioscia,
+
+
+         t  h  e
+
+
+         c  u  r  r  e  n  t
+
+
+              m   a   n   a   g   e   r
+
+
+         of   the   Los
+
+
+    Angeles Angels
+
+
+         of Anaheim baseball
+
+
+              c l u b ,
+
+
+         was   the
+
+
+         f  i  r  s  t
+
+
+              to  lead
+
+
+              t h e
+
+
+    t e a m
+
+
+    to a World
+
+
+    S e r i e s
+
+
+         championship   in
+
+
+                   2 0 0 2 ?
+
+
+         a  n  d
+
+
+    ...that   the
+
+
+              remains  of  Henri
+
+
+         H u e t
+
+
+                   and three
+
+
+                   other   noted   war
+
+
+                   photographers,  shot
+
+
+              down in their
+
+
+              h   e   l   i   c   o   p   t   e   r
+
+
+    over   the   Ho
+
+
+                   Chi  Minh
+
+
+                   trail  in
+
+
+    1 9 7 1 ,
+
+
+         have  never  been
+
+
+              f   o   u   n   d   ?
+
+
+
+
+                   ...that the
+
+
+              Ribbon   of   Saint
+
+
+              George is
+
+
+         worn in Russia
+
+
+    on  Victory  Day
+
+
+                   as an
+
+
+    a   c   t
+
+
+                   o   f
+
+
+                   commemoration of
+
+
+         the   Soviet   victory
+
+
+                   in   the
+
+
+    G  r  e  a  t
+
+
+              P a t r i o t i c
+
+
+              W a r ?
+
+
+    o  r
+
+
+    ... that
+
+
+              i n
+
+
+         a  toll  dispute
+
+
+    b e t w e e n
+
+
+              residents   of   Bandar
+
+
+              Mahkota Cheras and
+
+
+              the  Cheras-Kajang  Highway
+
+
+    concessionaire,  a
+
+
+                   barrier blocking a
+
+
+         shunpike   was
+
+
+    repeatedly  torn
+
+
+              d   o   w   n
+
+
+    a   n   d
+
+
+    r e b u i l t ?
+
+
+                   a   n   d
+
+
+              ...  that  Charles
+
+
+                   S  a  w  y  e  r
+
+
+              R   u   s   s   e   l   l
+
+
+    commanded   the
+
+
+                   2 8 t h
+
+
+                   Regiment  United
+
+
+              States Colored Troops
+
+
+    i   n
+
+
+                   the  American  Civil
+
+
+    War,  which
+
+
+                   suffered nearly
+
+
+    fifty  percent
+
+
+                   c   a   s   u   a   l   t   i   e   s
+
+
+         at  the  Battle
+
+
+    of the
+
+
+    C  r  a  t  e  r  ?
+
+
+
+
+                   . . .
+
+
+              t  h  a  t
+
+
+                   lice from mummified
+
+
+                   g   u   i   n   e   a
+
+
+              pigs   and
+
+
+         mites preserved
+
+
+              in  amber  while
+
+
+         feeding  on
+
+
+    s p i d e r s
+
+
+         have  provided
+
+
+              evidence   for   researchers
+
+
+              in  the
+
+
+         f  i  e  l  d
+
+
+         o  f
+
+
+         p   a   l   e   o   p   a   r   a   s   i   t   o   l   o   g   y   ?
+
+
+         o r
+
+
+                   . . . t h a t
+
+
+    sanitary sewer overflow
+
+
+                   is a
+
+
+    c o m m o n
+
+
+              condition,  mostly  associated
+
+
+                   w  i  t  h
+
+
+         heavy rainfall,
+
+
+              leading to
+
+
+    discharge   of
+
+
+    billions  of
+
+
+    gallons of
+
+
+         raw   sewage   to
+
+
+    the environment
+
+
+         e  a  c  h
+
+
+              y  e  a  r  ?
+
+
+         a  n  d
+
+
+              ...that  the  August√≥w
+
+
+         Canal in
+
+
+              n o r t h - e a s t e r n
+
+
+                   Poland   (pictured)
+
+
+         w  a  s
+
+
+                   b   u   i   l   t
+
+
+                   in   order
+
+
+         to  circumvent
+
+
+         high   customs   duties
+
+
+    i   n   t   r   o   d   u   c   e   d
+
+
+         b   y
+
+
+              Prussia   for   the
+
+
+         transit  of
+
+
+         goods  to
+
+
+    the  Baltic
+
+
+                   S  e  a  ?
+
+
+
+
+                   ...that like
+
+
+              building  a  better
+
+
+         mouse trap, there
+
+
+         i s
+
+
+              still   a
+
+
+              challenge   for
+
+
+    i   n   v   e   n   t   o   r   s
+
+
+         to produce a
+
+
+         k   i   n   d   e   r
+
+
+    a  n  d
+
+
+              m   o   r   e
+
+
+                   gentle scallop
+
+
+                   d r e d g e ?
+
+
+         o r
+
+
+              .  .  .  t  h  a  t
+
+
+         after   the   American
+
+
+         defeat at
+
+
+    the Battle
+
+
+              of  Canyon
+
+
+    C  r  e  e  k
+
+
+              the   soldiers   of
+
+
+         Samuel  D.
+
+
+         Sturgis   were
+
+
+                   forced  to  slaughter
+
+
+    and  eat
+
+
+         their tired
+
+
+         h o r s e s ?
+
+
+                   a   n   d
+
+
+                   ...that Mancs (pictured)
+
+
+                   t   h   e
+
+
+    H u n g a r i a n
+
+
+    r   e   s   c   u   e
+
+
+         dog  is  commemorated
+
+
+         by  a  statue
+
+
+                   (pictured)   in   his
+
+
+              hometown Miskolc?
+
+
+         (Image:Sculpture mancsdog
+
+
+         m i s k o l c . j p g )
+
+
+
+
+              . . . t h a t
+
+
+              the   outside   of
+
+
+         the Great Western
+
+
+    H   o   s   p   i   t   a   l
+
+
+         i s
+
+
+              covered in
+
+
+                   7600¬†m¬≤  (9090¬†sq¬†yd)  of
+
+
+         c  r  e  a  m  -  c  o  l  o  u  r  e  d
+
+
+         precast  concrete
+
+
+                   c  l  a  d  d  i  n  g
+
+
+    panels,   each
+
+
+              weighing around
+
+
+         1 4 ¬ † t o n n e s ?
+
+
+         o   r
+
+
+    ...  that  the
+
+
+              P  i  l  i  y  a  n  d  a  l  a
+
+
+              bombing   of
+
+
+    April   25,   2008
+
+
+                   was  the
+
+
+                   deadliest attack
+
+
+    o   n
+
+
+              a
+
+
+    commuter  bus
+
+
+              i   n
+
+
+    Sri  Lanka  since
+
+
+                   the  January  16
+
+
+              B  u  t  t  a  l  a
+
+
+    a t t a c k ?
+
+
+         a  n  d
+
+
+         ...that New Zealand
+
+
+                   rugby  union
+
+
+    player Mark
+
+
+              Hammett   won   four
+
+
+         S   u   p   e   r
+
+
+              12  titles  with
+
+
+         the Crusaders between
+
+
+    1996  and  2003
+
+
+              before being appointed
+
+
+                   a   s
+
+
+    t h e i r
+
+
+              a  s  s  i  s  t  a  n  t
+
+
+              coach for
+
+
+                   2  0  0  7  ?
+
+
+
+
+              o   r
+
+
+         ...that Clifford
+
+
+    Last,   a   son
+
+
+    of the
+
+
+              a   u   t   h   o   r
+
+
+    of  the  Housewife,
+
+
+    49 diaries,
+
+
+              migrated from
+
+
+         Britain  to  Australia
+
+
+    a  f  t  e  r
+
+
+              t  h  e
+
+
+                   war  and
+
+
+              b  e  c  a  m  e
+
+
+                   a
+
+
+                   noted abstract
+
+
+    s  c  u  l  p  t  o  r  ?
+
+
+         a  n  d
+
+
+                   ...that   cyber   law
+
+
+         a  u  t  h  o  r
+
+
+              a  n  d
+
+
+              professor  Jonathan  Zittrain
+
+
+    co-founded  StopBadware.org  to
+
+
+              distribute  the  task
+
+
+         of collecting
+
+
+    d   a   t   a
+
+
+         a   b   o   u   t
+
+
+              m  a  l  w  a  r  e
+
+
+                   to  Internet  users
+
+
+    a   t
+
+
+         l  a  r  g  e  ?
+
+
+
+
+         . . .
+
+
+    t  h  a  t
+
+
+    the   German   Social
+
+
+                   Democratic   Party
+
+
+                   in Poland
+
+
+                   was formed in
+
+
+    1922  by
+
+
+              the  merger  of
+
+
+         S  i  l  e  s  i  a  n
+
+
+                   branches  of  the
+
+
+    G   e   r   m   a   n
+
+
+              SPD,   USPD   and
+
+
+    t  h  e
+
+
+    A   u   s   t   r   i   a   n
+
+
+                   S   D   A   P   ?
+
+
+              o   r
+
+
+              ...that opponents
+
+
+                   o  f
+
+
+                   C  a  m  e  r  o  o  n  '  s
+
+
+         first president,
+
+
+              A  h  m  a  d  o  u
+
+
+         Ahidjo,  danced  to
+
+
+    show  their  displeasure
+
+
+    (Cameroonian   dancers
+
+
+    p   i   c   t   u   r   e   d   )   ?
+
+
+         a   n   d
+
+
+    . . . t h a t
+
+
+    in 1967,
+
+
+                   a group of
+
+
+         L   a   t   i   n
+
+
+                   American   writers   including
+
+
+         Mexican Carlos
+
+
+                   Fuentes   started
+
+
+                   a   series
+
+
+              of  biographies  depicting
+
+
+         caudillos,  which  became
+
+
+                   the  basis
+
+
+         of  the  Dictator
+
+
+              N  o  v  e  l
+
+
+              g e n r e ?
+
+
+
+
+                   ...that  Dave  Brubeck's
+
+
+              The Real
+
+
+                   Ambassadors  was  largely
+
+
+    based on
+
+
+         the   goodwill   tours
+
+
+    o   f
+
+
+    Louis  Armstrong
+
+
+         a  n  d
+
+
+              other  jazz
+
+
+              musicians on
+
+
+         behalf  of  the
+
+
+    U   .   S   .
+
+
+    State  Department  during
+
+
+         t h e
+
+
+                   C  o  l  d
+
+
+         W  a  r  ?
+
+
+         o  r
+
+
+                   ...that  Thomas  L.
+
+
+    Bromwell   is   a
+
+
+    former  Maryland  State
+
+
+                   Senator  who,
+
+
+                   along  with  his
+
+
+              wife, pleaded guilty
+
+
+         to  public  corruption
+
+
+         c h a r g e s ?
+
+
+              a   n   d
+
+
+    ...that the Ingvar
+
+
+    Runestones commemorate Vikings
+
+
+    who  died
+
+
+              in  the  raid
+
+
+         led   by
+
+
+              Ingvar   the   Far-Travelled
+
+
+    w  h  i  c  h
+
+
+              pillaged  the  coasts
+
+
+              o f
+
+
+              P  e  r  s  i  a  ?
+
+
+
+
+         ...that  "Follow  My
+
+
+                   Heart",  performed  in
+
+
+                   f  i  v  e
+
+
+    different   languages   at
+
+
+    the  Eurovision
+
+
+                   Song Contest
+
+
+              2006,   was   the
+
+
+    fourth consecutive
+
+
+         song   by
+
+
+    P o l a n d
+
+
+    i n
+
+
+    m u l t i p l e
+
+
+         l   a   n   g   u   a   g   e   s   ?
+
+
+              o  r
+
+
+              ...that   Robert   Coleman,
+
+
+         o  w  n  e  r
+
+
+                   of   several   iron
+
+
+    furnaces, was
+
+
+         P   e   n   n   s   y   l   v   a   n   i   a   '   s
+
+
+              f  i  r  s  t
+
+
+                   m i l l i o n a i r e ?
+
+
+                   a n d
+
+
+         .  .  .
+
+
+         t   h   a   t
+
+
+    a   l   l
+
+
+    17  etchings  by
+
+
+         Juste de Juste
+
+
+                   show only naked
+
+
+         men, in
+
+
+    five   cases   forming
+
+
+                   human   pyramids
+
+
+         (  [  [  :  |  e  x  a  m  p  l  e
+
+
+    p   i   c   t   u   r   e   d   ]   ]   )   ?
+
+
+
+
+    ...that the facade
+
+
+         of  the
+
+
+         Central  Sofia
+
+
+         Market Hall (pictured)
+
+
+         in  Sofia,  Bulgaria
+
+
+              features   a
+
+
+    r  e  l  i  e  f
+
+
+              o f
+
+
+                   the  coat
+
+
+         of   arms   of
+
+
+              Sofia   above   the
+
+
+    m   a   i   n
+
+
+    e n t r a n c e ?
+
+
+         o r
+
+
+    .  .  .  t  h  a  t
+
+
+    John   Hill,   former
+
+
+    T   e   x   a   s
+
+
+         A  t  t  o  r  n  e  y
+
+
+         General,  was  prominent
+
+
+         i  n
+
+
+                   shutting   down
+
+
+    the   Chicken
+
+
+                   R a n c h
+
+
+    k n o w n
+
+
+         as   the   Best
+
+
+    Little Whorehouse
+
+
+         i n
+
+
+              T   e   x   a   s   ?
+
+
+              a   n   d
+
+
+                   ...  that  no
+
+
+         prints   or
+
+
+    negatives   survive
+
+
+    of  the  1933
+
+
+              short   film   Hello
+
+
+              Pop!, starring The
+
+
+                   Three Stooges before
+
+
+    they  began  performing
+
+
+         under  that
+
+
+         n   a   m   e   ?
+
+
+
+
+              . . .
+
+
+                   that  The  Mock
+
+
+         Tempest was
+
+
+              a
+
+
+         1 6 7 4
+
+
+         p   a   r   o   d   y
+
+
+                   of Dryden and
+
+
+    Davenant's  adaptation  of
+
+
+    S  h  a  k  e  s  p  e  a  r  e  '  s
+
+
+              T   e   m   p   e   s   t   ?
+
+
+              o   r
+
+
+    ...that  Franciszek
+
+
+         Jarecki,  pilot
+
+
+         of the
+
+
+         P  o  l  i  s  h
+
+
+         Air   Force,
+
+
+              in   1953
+
+
+                   e s c a p e d
+
+
+              to  Denmark
+
+
+    together  with
+
+
+                   a
+
+
+         Soviet plane MiG-15,
+
+
+         which  greatly
+
+
+         helped the
+
+
+                   U.S. Air
+
+
+              Force  fighting
+
+
+    i   n
+
+
+              the Korean
+
+
+              W   a   r   ?
+
+
+                   a n d
+
+
+         ...that during
+
+
+    the Russo-Turkish
+
+
+         W a r ,
+
+
+                   1828-1829 more
+
+
+              Russian soldiers died
+
+
+                   in hospitals from
+
+
+    contagious  diseases  than
+
+
+    f   i   g   h   t   i   n   g
+
+
+         o n
+
+
+    t  h  e
+
+
+         b   a   t   t   l   e   f   i   e   l   d   ?
+
+
+
+
+         ...  that  canine
+
+
+              hydrotherapy (pictured)
+
+
+         was  initially  used
+
+
+         o n l y
+
+
+         t  o
+
+
+    t   r   e   a   t
+
+
+    r a c i n g
+
+
+              g   r   e   y   h   o   u   n   d   s   ?
+
+
+              o  r
+
+
+    ...that Singaporean
+
+
+    artist Chua
+
+
+                   Ek   Kay‚Äôs   ink
+
+
+              paintings  blended
+
+
+              traditional Chinese painting
+
+
+         forms  and
+
+
+         Western  art
+
+
+                   theories  and
+
+
+                   t   e   c   h   n   i   q   u   e   s   ?
+
+
+    a  n  d
+
+
+                   . . . t h a t
+
+
+         t   h   e
+
+
+              Pozna≈Ñ International
+
+
+    Fair  is  the
+
+
+              largest trade
+
+
+              fair in
+
+
+              P o l a n d ?
+
+
+
+
+              .   .   .
+
+
+         that  an  intense
+
+
+              r  i  v  a  l  r  y
+
+
+                   between   composers
+
+
+                   F  r  a  n  c  i  s  c  o
+
+
+              Asenjo   Barbieri   and
+
+
+         Emilio  Arrieta  helped
+
+
+                   rekindle   the   popularity
+
+
+              of Spanish
+
+
+              o  p  e  r  a
+
+
+              during   the   mid
+
+
+    1 9 t h
+
+
+                   c  e  n  t  u  r  y  ?
+
+
+                   o r
+
+
+                   ... that the
+
+
+    a  l  b  u  m
+
+
+              title  Ordinary
+
+
+    Dreamers  is
+
+
+         a b o u t
+
+
+    doing  extraordinary  things
+
+
+         w  i  t  h
+
+
+              a
+
+
+         "dreamer mentality" as
+
+
+                   an ordinary
+
+
+    p   e   r   s   o   n   ?
+
+
+    a   n   d
+
+
+              ...that the first
+
+
+    p   r   i   v   a   t   e
+
+
+                   radio station in
+
+
+                   India   was   Akashvani
+
+
+    w  h  i  c  h
+
+
+                   was  set
+
+
+    up   in   1935
+
+
+         i n
+
+
+         M  y  s  o  r  e  ,
+
+
+         K   a   r   n   a   t   a   k   a   ?
+
+
+
+
+                   ...   that   Charlie
+
+
+                   Bowman was a
+
+
+                   major influence on
+
+
+    the distinctive
+
+
+                   fiddle   sound
+
+
+         t  h  a  t
+
+
+         helped  shape  and
+
+
+    d  e  v  e  l  o  p
+
+
+    early country music
+
+
+         in  the
+
+
+              1920s  and
+
+
+    1  9  3  0  s  ?
+
+
+                   o r
+
+
+         .  .  .  t  h  a  t
+
+
+         the   Castillo
+
+
+                   de  San
+
+
+              P   e   d   r   o
+
+
+         d  e
+
+
+         la   Roca   (pictured),
+
+
+              built   to
+
+
+    defend the
+
+
+                   Cuban  city
+
+
+              of  Santiago  de
+
+
+              Cuba  from
+
+
+    p  i  r  a  t  e
+
+
+         attacks, was captured
+
+
+         and partially destroyed
+
+
+         by   pirates
+
+
+         w  h  i  l  e
+
+
+    it was
+
+
+                   b   e   i   n   g
+
+
+         c   o   n   s   t   r   u   c   t   e   d   ?
+
+
+    a  n  d
+
+
+                   .  .  .  t  h  a  t
+
+
+         Sungai Tujoh
+
+
+         i  s
+
+
+         t  h  e
+
+
+                   westernmost   point
+
+
+              of Brunei and
+
+
+                   is  one
+
+
+              of   the   four
+
+
+         land   crossing   points
+
+
+    into   the
+
+
+    M  a  l  a  y  s  i  a  n
+
+
+              s   t   a   t   e
+
+
+              of   Sarawak   from
+
+
+              B r u n e i ?
+
+
+
+
+         ...that   Deganga,   in
+
+
+                   W e s t
+
+
+    Bengal,   where
+
+
+         ground   water   is
+
+
+                   affected   by   arsenic
+
+
+    contamination,   will   have
+
+
+         t o
+
+
+         wait until
+
+
+              2009   for
+
+
+                   a   supply
+
+
+    o f
+
+
+              p i p e d
+
+
+              a  r  s  e  n  i  c  -  f  r  e  e
+
+
+              w  a  t  e  r  ?
+
+
+                   o   r
+
+
+    ...  that  after
+
+
+    b  e  i  n  g
+
+
+              closed  in  1978,
+
+
+    Sandefjord Airport Station
+
+
+         reopened in
+
+
+         2008  with
+
+
+         a   new
+
+
+         name to
+
+
+         serve  Sandefjord
+
+
+    A   i   r   p   o   r   t   ,
+
+
+    T  o  r  p  ,
+
+
+    N o r w a y ?
+
+
+                   a   n   d
+
+
+         ...   that
+
+
+                   Anatoly Koryagin was
+
+
+                   imprisoned for conducting
+
+
+              psychiatric  interviews
+
+
+         w i t h
+
+
+              S  o  v  i  e  t
+
+
+    d i s s i d e n t s
+
+
+         c   o   n   f   i   n   e   d
+
+
+                   to  mental
+
+
+              institutions   and
+
+
+         s   m   u   g   g   l   i   n   g
+
+
+                   a  paper  about
+
+
+                   his  findings
+
+
+                   to  the
+
+
+                   L a n c e t ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+         the   residents
+
+
+         o   f
+
+
+                   Basanti and
+
+
+                   other   deltaic   islands
+
+
+    in  the  Indian
+
+
+         p  a  r  t
+
+
+    o   f
+
+
+         t h e
+
+
+                   S u n d a r b a n s
+
+
+         thanked   the
+
+
+         French   author   Dominique
+
+
+    Lapierre  for  the
+
+
+              floating   dispensaries   he
+
+
+                   h   a   d
+
+
+         p   r   o   v   i   d   e   d   ?
+
+
+         o   r
+
+
+                   ...that Neil Harvey
+
+
+         o n c e
+
+
+                   helped  the  Australian
+
+
+                   c r i c k e t
+
+
+              team   win   a
+
+
+              Test   by   deliberately
+
+
+    t  h  r  o  w  i  n  g
+
+
+    a  w  a  y
+
+
+    his   wicket
+
+
+              when  Pakistan  attempted
+
+
+    t  o
+
+
+         t  h  w  a  r  t
+
+
+         a victory by
+
+
+         t   i   m   e
+
+
+    w a s t i n g ?
+
+
+                   a n d
+
+
+    ...that  Eastern  Christians
+
+
+              b   e   l   i   e   v   e
+
+
+    that  the
+
+
+                   tomb  on  the
+
+
+              Mount  of  Olives
+
+
+              i   s
+
+
+              t  h  e
+
+
+    Tomb of
+
+
+              M   a   r   y   ?
+
+
+
+
+         ...that a school
+
+
+         b u s
+
+
+              c   r   o   s   s   i   n   g
+
+
+              arm is a
+
+
+    s   a   f   e   t   y
+
+
+    device  intended
+
+
+              t  o
+
+
+                   protect   children   from
+
+
+              being  struck
+
+
+         while crossing in
+
+
+         f r o n t
+
+
+              of  a
+
+
+    s   c   h   o   o   l
+
+
+         b u s ?
+
+
+    o r
+
+
+         . . .
+
+
+    that the
+
+
+              power  station  that
+
+
+         powered the Terminal
+
+
+              Arcade's   interurbans
+
+
+              from   1907   to
+
+
+                   1940   had
+
+
+         a
+
+
+         9 9 9 - y e a r
+
+
+         l  e  a  s  e  ?
+
+
+    a  n  d
+
+
+         . . .
+
+
+                   t  h  a  t
+
+
+                   John   Paul,   Sr.
+
+
+    and his son
+
+
+         became the
+
+
+         first   father-son   duo
+
+
+         to   win   an
+
+
+              IMSA Camel
+
+
+              G   T
+
+
+    race, hours after
+
+
+              the former was
+
+
+                   married  on
+
+
+         the track
+
+
+                   i  n  f  i  e  l  d  ?
+
+
+
+
+                   ...that  three
+
+
+         Australians   were   awarded
+
+
+    the Victoria
+
+
+              Cross  for
+
+
+    t h e i r
+
+
+    role   in
+
+
+    t   h   e
+
+
+                   Battle   of   Mont
+
+
+              St. Quentin
+
+
+         and  that  the
+
+
+              battle  was  regarded
+
+
+    b   y
+
+
+              British Fourth
+
+
+    A r m y ' s
+
+
+    c  o  m  m  a  n  d  e  r  ,
+
+
+              General   Henry   Rawlinson,
+
+
+         as Australia's greatest
+
+
+              m i l i t a r y
+
+
+         a c h i e v e m e n t
+
+
+         o   f
+
+
+                   t   h   e
+
+
+              w a r ?
+
+
+         o   r
+
+
+         .   .   .   t   h   a   t
+
+
+         for   the
+
+
+         past   16   years
+
+
+    Michael Kesterton
+
+
+    has  written
+
+
+              a
+
+
+                   column in
+
+
+    The Globe and
+
+
+                   M  a  i  l
+
+
+              made   up   of
+
+
+                   a  collection  of
+
+
+    odd  news  stories
+
+
+         pulled   from   various
+
+
+                   s o u r c e s ?
+
+
+              a  n  d
+
+
+              ...  that  after
+
+
+                   Nazi Germany's
+
+
+              a   n   n   e   x   a   t   i   o   n
+
+
+              o  f
+
+
+                   Austria in 1938,
+
+
+         t  h  e
+
+
+              parliamentarians   of   the
+
+
+         German   Christian
+
+
+    Social   People's   Party
+
+
+                   in  Czechoslovakia
+
+
+              joined   the
+
+
+         Sudeten  German
+
+
+    P a r t y ?
+
+
+
+
+                   ...that  the  Common
+
+
+         Inkcap (pictured), an
+
+
+    e  d  i  b  l  e
+
+
+         mushroom,   contains
+
+
+                   an   Antabuse-like   substance
+
+
+         which  renders
+
+
+    it poisonous when
+
+
+              c  o  n  s  u  m  e  d
+
+
+    w  i  t  h
+
+
+    a   l   c   o   h   o   l   ?
+
+
+         (   I   m   a   g   e   :   F   a   l   t   e   n   t   i   n   t   l   i   n   g   -   1   .   j   p   g   )
+
+
+         o   r
+
+
+                   ...that in 1933,
+
+
+    Ed   Walsh
+
+
+    ( J r . ) ,
+
+
+         son   of   Hall
+
+
+                   of   Famer
+
+
+         E  d
+
+
+                   Walsh, stopped
+
+
+         J o e
+
+
+              DiMaggio's   minor   league
+
+
+         r e c o r d
+
+
+         6 1
+
+
+    game  hitting
+
+
+              s   t   r   e   a   k   ?
+
+
+         a  n  d
+
+
+                   .  .  .
+
+
+              t   h   a   t
+
+
+                   it  took
+
+
+    Peter Steinfeld
+
+
+    s  i  x
+
+
+                   weeks to write
+
+
+         the   opening   eleven
+
+
+         p  a  g  e  s
+
+
+    of  his
+
+
+         f  i  r  s  t
+
+
+         screenplay,  Drowning
+
+
+    M o n a ?
+
+
+
+
+    .   .   .
+
+
+    that Humphrey
+
+
+                   B a t e
+
+
+                   w a s
+
+
+    t  h  e
+
+
+              first  to
+
+
+    play  old-time  music
+
+
+              on   Nashville   radio,
+
+
+                   and  his
+
+
+         "Possum  Hunters"  records
+
+
+              are  considered  some
+
+
+         of the most
+
+
+                   c o m p l e x
+
+
+              string band
+
+
+         c  o  m  p  o  s  i  t  i  o  n  s
+
+
+              i n
+
+
+    t   h   e
+
+
+         g   e   n   r   e   ?
+
+
+                   o r
+
+
+         ...   that
+
+
+    David   Drake
+
+
+    wrote his
+
+
+              first   novel,
+
+
+    T   h   e
+
+
+                   D   r   a   g   o   n
+
+
+    L  o  r  d  ,
+
+
+         a  f  t  e  r
+
+
+         another author declined
+
+
+              to   develop
+
+
+         t   h   e
+
+
+         p l o t
+
+
+    D   r   a   k   e
+
+
+              h   a   d
+
+
+    w  r  i  t  t  e  n  ?
+
+
+                   a n d
+
+
+                   ... that conviction
+
+
+                   politics   have   been
+
+
+              criticized as
+
+
+                   being a
+
+
+         "   h   a   r   d
+
+
+    i  d  e  o  l  o  g  y  "  ?
+
+
+
+
+              ...that   the
+
+
+         United  States  Navy's
+
+
+                   Naval Ordnance Station
+
+
+         in Louisville,
+
+
+                   Kentucky was chosen
+
+
+    due   to
+
+
+                   being   so
+
+
+         far inland as
+
+
+         t  o
+
+
+              prevent enemy
+
+
+              a i r s t r i k e s ?
+
+
+         o  r
+
+
+              .  .  .  t  h  a  t
+
+
+                   Colombia's   12th   President,
+
+
+              C   a   r   l   o   s
+
+
+    Eugenio Restrepo, was
+
+
+              nicknamed  Monsieur  Veto
+
+
+         f   o   r
+
+
+    h  i  s
+
+
+         common   practice
+
+
+                   of  vetoing  many
+
+
+         bills he considered
+
+
+    w  e  r  e
+
+
+              not in the
+
+
+         best   interest
+
+
+         o   f
+
+
+    h i s
+
+
+         n  a  t  i  o  n  ?
+
+
+    a n d
+
+
+                   ...that the
+
+
+    i n s c r i p t i o n
+
+
+              on   King
+
+
+         Ahiram's  sarcophagus
+
+
+         housed   in
+
+
+              the National Museum
+
+
+              of Beirut is
+
+
+         the   earliest   known
+
+
+              example of alphabetical
+
+
+              w r i t i n g ?
+
+
+
+
+              ... that Durum
+
+
+              w   h   e   a   t
+
+
+              was used
+
+
+    t o
+
+
+              make al-fidawsh,
+
+
+    a  dry  pasta
+
+
+         popular in
+
+
+              M u s l i m
+
+
+                   S   p   a   i   n   ?
+
+
+    o r
+
+
+    ...that before
+
+
+         police  duty  belts,
+
+
+              British  female
+
+
+         p  o  l  i  c  e
+
+
+              officers  had
+
+
+                   t  o
+
+
+         apply  for  permission
+
+
+                   t o
+
+
+         c a r r y
+
+
+    h   a   n   d   c   u   f   f   s   ?
+
+
+         a   n   d
+
+
+                   ...that   more   than
+
+
+                   200 species of
+
+
+    mammals   (male
+
+
+              k o b
+
+
+              pictured)  display
+
+
+                   homosexual  behavior  including
+
+
+                   oral   sex   and
+
+
+              g   e   n   i   t   a   l
+
+
+              s  t  i  m  u  l  a  t  i  o  n  ?
+
+
+
+
+         ...  that  in
+
+
+         F e b r u a r y
+
+
+                   1943,  German
+
+
+         G   e   n   e   r   a   l
+
+
+         H   u   b   e   r   t
+
+
+    L  a  n  z
+
+
+    p  l  o  t  t  e  d
+
+
+              to   arrest   Hitler
+
+
+    during  a  visit
+
+
+         t   o
+
+
+              h  i  s
+
+
+         h   e   a   d   q   u   a   r   t   e   r   s   ?
+
+
+    o   r
+
+
+         ...that St.
+
+
+                   Demetrios  Greek  Orthodox
+
+
+         C h u r c h
+
+
+         (pictured) in
+
+
+    S e a t t l e
+
+
+         was designed
+
+
+                   b  y
+
+
+              Paul Thiry,
+
+
+              o n e
+
+
+                   o  f
+
+
+                   the principal
+
+
+    a   r   c   h   i   t   e   c   t   s
+
+
+                   o f
+
+
+         t   h   e
+
+
+                   C e n t u r y
+
+
+    2   1
+
+
+                   E  x  p  o  s  i  t  i  o  n
+
+
+    (1962   World's
+
+
+              Fair),  shortly  after
+
+
+              part of the
+
+
+                   l   a   n   d
+
+
+                   f   o   r
+
+
+    t   h   e
+
+
+              Exposition  was
+
+
+         purchased   from
+
+
+              t h a t
+
+
+              s  a  m  e
+
+
+                   p  a  r  i  s  h  ?
+
+
+              a   n   d
+
+
+         ...that  the
+
+
+                   O  s  m  o  n  d
+
+
+                   family, known
+
+
+                   f o r
+
+
+         their  musicality,  have
+
+
+                   two siblings
+
+
+              who  were
+
+
+              b o r n
+
+
+    d   e   a   f   ?
+
+
+
+
+         . . . t h a t
+
+
+         t h e
+
+
+                   17th  century  Biaroza
+
+
+              monastery   (pictured)   in
+
+
+         Biaroza, Belarus, has
+
+
+              i n
+
+
+         its time
+
+
+              been  adapted  into
+
+
+    military  barracks  and
+
+
+         a   prison,   and
+
+
+                   currently its ruins
+
+
+    are an important
+
+
+                   baroque relic in
+
+
+                   t  h  e
+
+
+              t  o  w  n  ?
+
+
+                   o  r
+
+
+                   ...that until
+
+
+    1  8  6  1
+
+
+    Newton  Abbot
+
+
+                   r a i l w a y
+
+
+              s t a t i o n
+
+
+              had  three  separate
+
+
+              train sheds
+
+
+              for trains running
+
+
+    on   lines   to
+
+
+                   and  from
+
+
+    E   x   e   t   e   r   ,
+
+
+    P l y m o u t h ,
+
+
+                   a n d
+
+
+         T o r q u a y ?
+
+
+              a n d
+
+
+         ...that   Suriname's
+
+
+    w   o   r   s   t
+
+
+    a i r
+
+
+                   d i s a s t e r
+
+
+    was   Surinam
+
+
+                   A   i   r   w   a   y   s
+
+
+         Flight   764,
+
+
+                   which  crashed
+
+
+         after   the
+
+
+         p   i   l   o   t   s
+
+
+    i  g  n  o  r  e  d
+
+
+    r e p e a t e d
+
+
+                   warnings   that   they
+
+
+                   were flying
+
+
+    t   o   o
+
+
+    l  o  w  ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+              t  h  e
+
+
+         1900 Paris
+
+
+    Exposition's  Mareorama  (pictured)
+
+
+              w  a  s
+
+
+                   a simulated
+
+
+         s   e   a
+
+
+                   voyage  using  two
+
+
+         2,460-foot-long   (750
+
+
+    m  )
+
+
+              p   a   n   o   r   a   m   i   c
+
+
+                   p a i n t i n g s
+
+
+         and  a
+
+
+         giant   motion
+
+
+    p  l  a  t  f  o  r  m  ?
+
+
+              o  r
+
+
+              a n d
+
+
+    .   .   .   t   h   a   t
+
+
+    polar  dinosaurs
+
+
+              could  have  walked
+
+
+    t  o
+
+
+                   A  u  s  t  r  a  l  i  a
+
+
+         because   during   the
+
+
+    e a r l y
+
+
+    C   r   e   t   a   c   e   o   u   s
+
+
+    the  continent
+
+
+                   o   f
+
+
+    Australia   was
+
+
+                   still linked
+
+
+              t  o
+
+
+                   A  n  t  a  r  c  t  i  c  a  ?
+
+
+
+
+              ...that   Jonathan   Swift's
+
+
+              "   A
+
+
+                   Description   of   a
+
+
+                   C   i   t   y
+
+
+         Shower"  is  considered
+
+
+              by  many,  including
+
+
+              S   w   i   f   t
+
+
+         h   i   m   s   e   l   f   ,
+
+
+         t o
+
+
+         be his
+
+
+                   b e s t
+
+
+              p  o  e  m  ?
+
+
+                   o r
+
+
+    .   .   .   t   h   a   t
+
+
+                   Joe   Shishido
+
+
+              transitioned   from   a
+
+
+                   moderately successful melodrama
+
+
+    actor  into  a
+
+
+         p  o  p  u  l  a  r
+
+
+         villain and
+
+
+              then  action
+
+
+    star after he
+
+
+    u  n  d  e  r  w  e  n  t
+
+
+                   p  l  a  s  t  i  c
+
+
+              surgery   to   severely
+
+
+                   enlarge  his
+
+
+              c   h   e   e   k   s   ?
+
+
+                   a   n   d
+
+
+         ...that  Sir  James
+
+
+    Lithgow played
+
+
+         a prominent role
+
+
+         in  restructuring  the
+
+
+         B r i t i s h
+
+
+         shipbuilding  industry  in
+
+
+                   t   h   e
+
+
+              1   9   3   0   s   ?
+
+
+
+
+         ... that
+
+
+         w  i  t  h
+
+
+    Cambodian-Vietnamese relations
+
+
+                   improving  after
+
+
+    the Cambodian-Vietnamese War,
+
+
+                   b   o   t   h
+
+
+                   n   a   t   i   o   n   s
+
+
+    set   a
+
+
+                   t   a   r   g   e   t
+
+
+    t  o
+
+
+    i n c r e a s e
+
+
+              bilateral trade
+
+
+              to   USD
+
+
+                   2.3   billion   by
+
+
+    2  0  1  0  ?
+
+
+         o r
+
+
+              . . . t h a t
+
+
+         t   h   e
+
+
+              Z e n t r a l e
+
+
+                   Stelle  (Central  Office)
+
+
+    was established in
+
+
+         1  9  5  8
+
+
+         by the West
+
+
+                   German   government   to
+
+
+                   i   n   v   e   s   t   i   g   a   t   e
+
+
+         war crimes committed
+
+
+    outside Germany
+
+
+                   b  y
+
+
+    N   a   z   i
+
+
+    f  o  r  c  e  s  ?
+
+
+                   a   n   d
+
+
+    ... that the
+
+
+    Kress Drachenflieger
+
+
+              o   f
+
+
+         1901   was
+
+
+                   t   h   e
+
+
+                   first   heavier-than-air   machine
+
+
+              to use
+
+
+    an  internal
+
+
+    c   o   m   b   u   s   t   i   o   n
+
+
+         e   n   g   i   n   e
+
+
+              in   an   attempt
+
+
+         t  o
+
+
+              f   l   y   ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+    a   Secret   Council
+
+
+                   of  the
+
+
+                   Lithuanian Council of
+
+
+              Lords  dealt
+
+
+         with  all  crucial
+
+
+    state  affairs
+
+
+    in   the
+
+
+         G   r   a   n   d
+
+
+         Duchy   of
+
+
+    L   i   t   h   u   a   n   i   a   ?
+
+
+              o   r
+
+
+         ...that the
+
+
+         M   i   l   l
+
+
+    M  o  u  n  t  a  i  n
+
+
+                   Z   o   o
+
+
+    is   host
+
+
+         to  three  endangered
+
+
+         s   p   e   c   i   e   s   :
+
+
+    the  Red  Panda,
+
+
+         Snow  Leopard
+
+
+              a n d
+
+
+              W  h  i  t  e  -  n  a  p  e  d
+
+
+                   C  r  a  n  e  ?
+
+
+              a   n   d
+
+
+    ...  that
+
+
+              " M i l k
+
+
+         a n d
+
+
+                   Alcohol"   ranked
+
+
+         on Britain's top-10
+
+
+              hit singles
+
+
+    chart  in
+
+
+              1979 and
+
+
+              w  a  s
+
+
+         the  biggest  hit
+
+
+              f  o  r
+
+
+    the   band
+
+
+              D  r  .
+
+
+              F   e   e   l   g   o   o   d   ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+              Portlethen   Moss
+
+
+                   is an
+
+
+              acidic  bog  that
+
+
+         p   l   a   y   e   d
+
+
+         a
+
+
+              role  in
+
+
+              stopping   the
+
+
+                   Roman advance in
+
+
+    Scotland  and
+
+
+                   w h o s e
+
+
+    t  r  a  v  e  r  s  a  l
+
+
+         was  used
+
+
+         i  n
+
+
+         the Bishops'
+
+
+    W a r s ?
+
+
+              o  r
+
+
+                   . . . t h a t
+
+
+         screening and treatment
+
+
+                   with   antibiotics
+
+
+              a r e
+
+
+    recommended  for  asymptomatic
+
+
+         bacteriuria  during
+
+
+                   p   r   e   g   n   a   n   c   y   ?
+
+
+              a  n  d
+
+
+    ...   that
+
+
+         among  Lexington,  Kentucky's
+
+
+                   c  o  n  t  r  i  b  u  t  i  o  n  s
+
+
+         to   the
+
+
+         American  Civil  War
+
+
+         w e r e
+
+
+              residents  U.S.  First
+
+
+              L   a   d   y
+
+
+         M   a   r   y
+
+
+         T   o   d   d
+
+
+         L  i  n  c  o  l  n
+
+
+              and Confederate leaders
+
+
+         John   C.   Breckinridge
+
+
+    and  John  Hunt
+
+
+                   M  o  r  g  a  n  ?
+
+
+
+
+              . . . t h a t
+
+
+              t  h  e
+
+
+                   Helophilus pendulus
+
+
+         (pictured)  is  a
+
+
+              E   u   r   o   p   e   a   n
+
+
+                   hoverfly,   whose   scientific
+
+
+                   name  means
+
+
+         "   d   a   n   g   l   i   n   g
+
+
+    s  w  a  m  p  -  l  o  v  e  r  "  ?
+
+
+         o   r
+
+
+    ...that  the
+
+
+              librettoes  for
+
+
+              T  c  h  a  i  k  o  v  s  k  y  '  s
+
+
+    operas Vakula the
+
+
+              Smith and
+
+
+              Cherevichki   were   adapted
+
+
+              from Gogol's
+
+
+    stories  by  the
+
+
+    p   o   e   t
+
+
+         Y   a   k   o   v
+
+
+    P o l o n s k y ?
+
+
+    a  n  d
+
+
+                   ... that
+
+
+              O   u   r
+
+
+              Man   Higgins,
+
+
+                   a
+
+
+              1962‚Äì1963  ABC
+
+
+                   s  i  t  c  o  m  ,
+
+
+         f   e   a   t   u   r   e   d
+
+
+         Stanley   Holloway
+
+
+         of   My
+
+
+         Fair Lady as
+
+
+                   a n
+
+
+              e  m  p  h  a  t  i  c
+
+
+    English  butler
+
+
+         t   o
+
+
+                   a
+
+
+              suburban  American
+
+
+              f   a   m   i   l   y   ?
+
+
+
+
+              . . .
+
+
+         that the
+
+
+              prosecution   of
+
+
+                   Dr.  Leonard
+
+
+              Arthur for the
+
+
+         murder   of   a
+
+
+         D   o   w   n   '   s
+
+
+              s  y  n  d  r  o  m  e
+
+
+              baby  led
+
+
+         to a change
+
+
+              in  British
+
+
+         l a w
+
+
+         regarding  the
+
+
+    disclosure  of  technical
+
+
+    e v i d e n c e ?
+
+
+                   o   r
+
+
+         ...that   the   Norwegian
+
+
+              h e a v y
+
+
+                   water sabotage
+
+
+              w   a   s
+
+
+         a
+
+
+    key part of
+
+
+                   Allied  efforts  to
+
+
+    prevent   Nazi
+
+
+    G e r m a n y
+
+
+    f  r  o  m
+
+
+    d e v e l o p i n g
+
+
+         n u c l e a r
+
+
+                   w e a p o n s ?
+
+
+              a  n  d
+
+
+              ...that World
+
+
+                   War  II
+
+
+         n  a  v  a  l
+
+
+    a v i a t o r
+
+
+         William  O.  Gallery
+
+
+                   was   one   of
+
+
+                   three brothers who
+
+
+    became US
+
+
+         N  a  v  y
+
+
+    r e a r
+
+
+    a   d   m   i   r   a   l   s   ?
+
+
+
+
+         ...   that
+
+
+    Petubastis III led
+
+
+              a
+
+
+                   r  e  v  o  l  t
+
+
+         in  Egypt  against
+
+
+              Persian   rule   in
+
+
+         circa  522
+
+
+                   B  C  E  ?
+
+
+    o  r
+
+
+              .   .   .   t   h   a   t
+
+
+         Jessie Vasey
+
+
+                   was helping
+
+
+                   Australian   war
+
+
+              widows   before
+
+
+              s   h   e
+
+
+              b   e   c   a   m   e
+
+
+                   one  herself  when
+
+
+                   h   e   r
+
+
+         h  u  s  b  a  n  d  ,
+
+
+         George, died in
+
+
+         a   n
+
+
+         a  i  r
+
+
+                   c  r  a  s  h  ?
+
+
+    a   n   d
+
+
+                   ...that Anton Graf
+
+
+                   von Arco auf
+
+
+         Valley  was  a
+
+
+              German monarchist who
+
+
+                   m   u   r   d   e   r   e   d
+
+
+    B   a   v   a   r   i   a   n
+
+
+         socialist   leader   Kurt
+
+
+         E   i   s   n   e   r
+
+
+         on   a
+
+
+                   sidewalk in Munich
+
+
+              i n
+
+
+              1   9   1   9   ?
+
+
+
+
+         ...that the
+
+
+                   T e n n e s s e e
+
+
+              State   Museum   has
+
+
+                   o n e
+
+
+    of  the  largest
+
+
+                   collections  in
+
+
+    the United
+
+
+         States of weapons,
+
+
+    flags,  and  uniforms
+
+
+                   from   the   civil
+
+
+    w   a   r   ?
+
+
+                   o  r
+
+
+              ...that  Andrey
+
+
+    t h e
+
+
+         Elder,  brother  of
+
+
+                   Ivan III, sponsored
+
+
+    t  h  e
+
+
+              construction  of  the
+
+
+              first stone
+
+
+         edifices in his
+
+
+    c   a   p   i   t   a   l   ,
+
+
+         U g l i c h ?
+
+
+                   a  n  d
+
+
+                   .   .   .   t   h   a   t
+
+
+    I n d i a n
+
+
+                   author and
+
+
+              journalist   Peary   Chand
+
+
+         M   i   t   r   a
+
+
+    p  l  a  y  e  d
+
+
+    a   leading   role
+
+
+         i  n
+
+
+         the  Bengal  renaissance
+
+
+              in the
+
+
+    19th  century
+
+
+         and   became   known
+
+
+              a   s
+
+
+         the   "Dickens   of
+
+
+    Bengal" due to
+
+
+              his   clear   Bengali
+
+
+         p r o s e ?
+
+
+
+
+    ...that   five   months
+
+
+                   b   e   f   o   r   e
+
+
+    his death, William
+
+
+    Edington  was  offered
+
+
+         the   post   of
+
+
+    Archbishop of Canterbury,
+
+
+    but turned it
+
+
+         d o w n ?
+
+
+    o r
+
+
+    ...   that   the
+
+
+    O v e r m a n
+
+
+         C o m m i t t e e ,
+
+
+         led  by
+
+
+              Senator  Lee  Slater
+
+
+         O v e r m a n ,
+
+
+                   i n v e s t i g a t e d
+
+
+         a   l   l   e   g   a   t   i   o   n   s
+
+
+    that groups such
+
+
+              as   the   United
+
+
+         States  Brewers  Association
+
+
+                   w   e   r   e
+
+
+    promoting "un-American
+
+
+                   a c t i v i t i e s " ?
+
+
+    a n d
+
+
+         ...that  actor  Rocky
+
+
+    M   a   r   q   u   e   t   t   e
+
+
+         plays a central
+
+
+         character  in  the
+
+
+                   2004 film
+
+
+                   Shallow Ground that
+
+
+    i  s
+
+
+    naked   for
+
+
+    the   duration
+
+
+              o  f
+
+
+                   t  h  e
+
+
+    f   i   l   m   ?
+
+
+
+
+              .   .   .
+
+
+                   that  the
+
+
+    Rufous   Songlark
+
+
+    ( p i c t u r e d )
+
+
+         is  an
+
+
+    A u s t r a l i a n
+
+
+              songbird that
+
+
+         s   o   m   e   t   i   m   e   s
+
+
+                   ends   up   as
+
+
+         r o a d k i l l ?
+
+
+              o r
+
+
+                   ...  that
+
+
+         T  a  n  g
+
+
+         Dynasty   warlord
+
+
+         Tian  Yue
+
+
+         was, along
+
+
+    with his
+
+
+              m  o  t  h  e  r  ,
+
+
+              w i f e ,
+
+
+                   a  n  d
+
+
+         c   h   i   l   d   r   e   n   ,
+
+
+    k i l l e d
+
+
+    b   y
+
+
+         his   cousin   Tian
+
+
+    X u ,
+
+
+    w  h  o
+
+
+                   then   took   over
+
+
+              the circuit that
+
+
+                   h  e
+
+
+                   g  o  v  e  r  n  e  d  ?
+
+
+              a n d
+
+
+                   . . . t h a t
+
+
+         P a t r i a r c h
+
+
+         A l e x a n d e r
+
+
+              II of Alexandria
+
+
+    died trying to
+
+
+              e   s   c   a   p   e
+
+
+              from   the   Umayyad
+
+
+         government after
+
+
+    having  been
+
+
+              brought  before
+
+
+    it  for
+
+
+         r  e  f  u  s  i  n  g
+
+
+              to   have   a
+
+
+         l   i   o   n
+
+
+         branded on
+
+
+    h   i   s
+
+
+                   h a n d ?
+
+
+
+
+                   ...that   Reuben
+
+
+    Gaylord, the recognized
+
+
+              leader   of
+
+
+                   m   i   s   s   i   o   n   a   r   y
+
+
+                   pioneers in
+
+
+    Omaha  City,
+
+
+                   Nebraska Territory, has
+
+
+              been called the
+
+
+                   "father   of
+
+
+              C   o   n   g   r   e   g   a   t   i   o   n   a   l   i   s   m
+
+
+         i   n
+
+
+                   N  e  b  r  a  s  k  a  ?
+
+
+              o r
+
+
+                   . . . t h a t
+
+
+                   the Helophilus
+
+
+              p e n d u l u s
+
+
+                   (pictured)   is
+
+
+                   a European hoverfly,
+
+
+                   whose   scientific   name
+
+
+                   m   e   a   n   s
+
+
+         "  d  a  n  g  l  i  n  g
+
+
+         s   w   a   m   p   -   l   o   v   e   r   "   ?
+
+
+    a  n  d
+
+
+    ...that  up
+
+
+                   to   70   percent
+
+
+         of the small
+
+
+              intestine  can
+
+
+         b e
+
+
+                   surgically   removed   as
+
+
+         a treatment
+
+
+                   f o r
+
+
+              Crohn's   disease
+
+
+              before  short
+
+
+    bowel syndrome
+
+
+              becomes  a
+
+
+         f a c t o r ?
+
+
+
+
+         ...that   the
+
+
+    T a l b o t
+
+
+              S a m b a
+
+
+                   supermini  car
+
+
+                   was   the   last
+
+
+    Talbot passenger car
+
+
+                   e   v   e   r
+
+
+                   m a d e ?
+
+
+                   o   r
+
+
+         . . . t h a t ,
+
+
+         except in
+
+
+                   1987,  the  United
+
+
+              S t a t e s
+
+
+              presidential candidate who
+
+
+    wins   the   Ames
+
+
+         S t r a w
+
+
+    Poll   has
+
+
+              always gone
+
+
+         on   to   win
+
+
+         the   Republican
+
+
+    Party's Iowa
+
+
+    C  a  u  c  u  s  ?
+
+
+    a n d
+
+
+
+
+                   ...that  before  coaching
+
+
+              gymnastics at the
+
+
+         University of Michigan
+
+
+              f  r  o  m
+
+
+                   1948 to
+
+
+         1  9  8  3  ,
+
+
+    Newt  Loken  was
+
+
+              the   NCAA
+
+
+              a  l  l  -  a  r  o  u  n  d
+
+
+              gymnastics  champion
+
+
+                   i  n
+
+
+    1  9  4  2  ?
+
+
+                   o  r
+
+
+                   . . .
+
+
+         that the Korean
+
+
+              traditional   winter   hat
+
+
+         n a m b a w i
+
+
+              c   a   n
+
+
+                   b e
+
+
+              luxuriously  adorned
+
+
+              with   gold   leaf
+
+
+                   d e c o r a t i o n
+
+
+              f o r
+
+
+         w   o   m   e   n   ?
+
+
+              a  n  d
+
+
+                   ...that the body
+
+
+                   of  Grand
+
+
+         D u k e
+
+
+         Dimitri Konstantinovich
+
+
+                   o  f
+
+
+    R   u   s   s   i   a
+
+
+                   was  rescued
+
+
+         from  a
+
+
+              mass grave
+
+
+    and secretly
+
+
+              buried   in   the
+
+
+         g a r d e n
+
+
+              of   a   house
+
+
+         i  n
+
+
+         S   t   .
+
+
+    P   e   t   e   r   s   b   u   r   g   ?
+
+
+
+
+    ...that   Sammy   Ellis
+
+
+                   won   22
+
+
+                   games and made
+
+
+              the All-Star team
+
+
+    for the
+
+
+              Cincinnati   Reds   in
+
+
+         1965   despite   allowing
+
+
+         t  h  e
+
+
+                   most Earned Runs
+
+
+                   i n
+
+
+         t   h   e
+
+
+              l   e   a   g   u   e   ?
+
+
+    o  r
+
+
+         . . . t h a t
+
+
+              the  Luxtorpeda,  looking
+
+
+              more like
+
+
+    a  cross
+
+
+                   b e t w e e n
+
+
+                   a   rail
+
+
+         bus   and   a
+
+
+         limousine than
+
+
+              a
+
+
+                   train,  was
+
+
+              the fastest
+
+
+         and   most   luxurious
+
+
+              t   r   a   i   n
+
+
+    in interbellum
+
+
+                   P o l a n d ?
+
+
+              a   n   d
+
+
+              ...that   the
+
+
+              geology of London
+
+
+         i   n   c   l   u   d   e   s
+
+
+    abundant   fossilized   animal
+
+
+         r e m a i n s ?
+
+
+
+
+              ...that   the   principles
+
+
+                   o  f
+
+
+    l  e  a  r  n  i  n  g
+
+
+    pioneered  by  Edward
+
+
+                   Thorndike   nearly
+
+
+         a
+
+
+              century ago
+
+
+         a r e
+
+
+              still  widely  used
+
+
+    i  n
+
+
+                   p   r   a   c   t   i   c   a   l
+
+
+         i n s t r u c t i o n ?
+
+
+                   o  r
+
+
+              a n d
+
+
+                   ...that German poet
+
+
+              and   playwright   Klabund
+
+
+              (pictured) was charged
+
+
+                   with   treason   for
+
+
+              calling   for
+
+
+    the abdication
+
+
+    of   William   II
+
+
+         in  an  open
+
+
+                   l  e  t  t  e  r  ?
+
+
+
+
+              ...that   Kung   Fu
+
+
+         J  i  m  m  y
+
+
+              Chow   is
+
+
+         a  cartoon
+
+
+         p   a   r   o   d   y
+
+
+         that  has
+
+
+              the  appearance  of
+
+
+              a
+
+
+         d   u   b   b   e   d
+
+
+                   J   a   p   a   n   e   s   e
+
+
+              a   n   i   m   e   ?
+
+
+              o  r
+
+
+    .   .   .
+
+
+                   that  the  melody
+
+
+              o   f
+
+
+              British   electropop
+
+
+              band   Hot
+
+
+    Chip's   song,
+
+
+                   "One Pure
+
+
+         Thought", was
+
+
+         said to be
+
+
+         r   e   m   i   n   i   s   c   e   n   t
+
+
+         o  f
+
+
+              N e w
+
+
+         O  r  d  e  r  ?
+
+
+                   a   n   d
+
+
+    ...that   Alexander   Solzhenitsyn
+
+
+         composed   his   12,000-line-long
+
+
+    poem   Prussian
+
+
+                   Nights  while  imprisoned
+
+
+                   in a
+
+
+         GULAG camp, writing
+
+
+         down  each
+
+
+    day   a   few
+
+
+                   lines   on   a
+
+
+                   bar  of
+
+
+         s   o   a   p   ?
+
+
+
+
+              .  .  .
+
+
+                   t h a t
+
+
+              Britain's Heather Fell,
+
+
+         t   h   e
+
+
+                   2008   Olympic
+
+
+                   silver   medallist   in
+
+
+    m   o   d   e   r   n
+
+
+         pentathlon, had
+
+
+         to work
+
+
+    t   h   r   e   e
+
+
+    part-time   jobs   in
+
+
+    order to fund
+
+
+              h e r
+
+
+         t r a i n i n g ?
+
+
+                   o   r
+
+
+         ...that  ANDRILL
+
+
+              is  a  scientific
+
+
+              d   r   i   l   l   i   n   g
+
+
+                   p   r   o   j   e   c   t
+
+
+                   in   Antarctica   to
+
+
+    gather   information
+
+
+    a  b  o  u  t
+
+
+    global   warming   over
+
+
+    the   last
+
+
+                   65  million
+
+
+    y  e  a  r  s  ?
+
+
+              a  n  d
+
+
+                   ...that   the   area
+
+
+         k n o w n
+
+
+              a   s
+
+
+                   the  Wisconsin  Heights
+
+
+         B a t t l e f i e l d
+
+
+              has been
+
+
+    inhabited   by   at
+
+
+    least five Native
+
+
+                   A   m   e   r   i   c   a   n
+
+
+         t  r  i  b  e  s  ?
+
+
+
+
+                   ...that  the
+
+
+         Tegg's   Nose
+
+
+                   Country Park in
+
+
+    C h e s h i r e
+
+
+                   has a
+
+
+         collection  of
+
+
+         historical  quarrying
+
+
+    e  q  u  i  p  m  e  n  t
+
+
+              (pictured) dating back
+
+
+              to the 16th
+
+
+    c   e   n   t   u   r   y   ?
+
+
+                   o r
+
+
+    ...that   the
+
+
+              Australian native Dagger
+
+
+              Hakea   is
+
+
+                   an effective
+
+
+                   plant  for  sheltering
+
+
+    small  birds
+
+
+                   s u c h
+
+
+                   a  s
+
+
+                   the  Superb  Fairy-wren,
+
+
+              especially in the
+
+
+    natural  landscaping  style
+
+
+              o   f
+
+
+         g   a   r   d   e   n   i   n   g   ?
+
+
+    a  n  d
+
+
+              ...   that   while
+
+
+                   setting  a
+
+
+                   Guinness  World  Record
+
+
+         for   distance
+
+
+              t   r   a   v   e   l   l   e   d
+
+
+              by a solar
+
+
+         v   e   h   i   c   l   e   ,
+
+
+              the   University
+
+
+         o   f
+
+
+              Waterloo's   Midnight
+
+
+                   Sun  VII  was
+
+
+                   t   w   i   c   e
+
+
+         mistaken for a
+
+
+    U F O ?
+
+
+
+
+         ...that  Hancock
+
+
+              Manor received wounded
+
+
+                   men   from   the
+
+
+              Battle   of
+
+
+              Bunker Hill and
+
+
+              e  n  t  e  r  t  a  i  n  e  d
+
+
+                   both   Lafayette
+
+
+         and  George
+
+
+                   W  a  s  h  i  n  g  t  o  n  ?
+
+
+                   o   r
+
+
+         ...   that   Ron
+
+
+    Rothstein was the
+
+
+         first  head  coach
+
+
+    of   the
+
+
+                   M  i  a  m  i
+
+
+    Heat, an
+
+
+              American  professional  basketball
+
+
+              team based in
+
+
+    M  i  a  m  i  ,
+
+
+    F l o r i d a ?
+
+
+         a   n   d
+
+
+              ...that the Port
+
+
+              of Mainz
+
+
+    w  a  s
+
+
+              a n
+
+
+    important war
+
+
+    harbour  for
+
+
+         the   Roman   fleet
+
+
+                   f  r  o  m
+
+
+         which Roman
+
+
+              ships patrolled the
+
+
+    R  h  i  n  e  ?
+
+
+
+
+    ...that   during
+
+
+    the  1793
+
+
+         S  i  e  g  e
+
+
+                   of   Mainz,   Goethe
+
+
+                   was a military
+
+
+                   o b s e r v e r
+
+
+    and later
+
+
+    wrote   a   book
+
+
+    about   the   bombardment
+
+
+         o f
+
+
+                   t   h   e
+
+
+                   c  i  t  y  ?
+
+
+         o  r
+
+
+              ... that German
+
+
+         m   a   t   h   e   m   a   t   i   c   i   a   n
+
+
+         Friedrich  Heinrich
+
+
+    A l b e r t
+
+
+              W   a   n   g   e   r   i   n
+
+
+         wrote  an  important
+
+
+         two-volume   treatise
+
+
+                   o n
+
+
+              potential theory and
+
+
+                   s   p   h   e   r   i   c   a   l
+
+
+              functions, Theorie
+
+
+              des   Potentials
+
+
+              und   der
+
+
+         Kugelfunktionen,   in   1909
+
+
+              a n d
+
+
+    1 9 2 1 ?
+
+
+         a  n  d
+
+
+    . . . t h a t
+
+
+    J  u  s  t  u  s
+
+
+              of  Beauvais,  a
+
+
+                   c  e  p  h  a  l  o  p  h  o  r  e
+
+
+    s  a  i  n  t  ,
+
+
+              is reported to
+
+
+                   have  picked  up
+
+
+         his  head  and
+
+
+    continued  preaching
+
+
+                   after his
+
+
+         b e h e a d i n g ?
+
+
+
+
+    ...that  the
+
+
+              summer   1944   Lublin‚ÄìBrest
+
+
+         O  f  f  e  n  s  i  v  e
+
+
+                   o  f
+
+
+                   Soviet Army
+
+
+                   succeeded   in
+
+
+    b   r   i   n   g   i   n   g
+
+
+              t   h   e
+
+
+              Soviets to
+
+
+                   t h e
+
+
+    vicinity  of
+
+
+              W a r s a w ,
+
+
+              w  h  e  r  e
+
+
+              t   h   e
+
+
+    W   a   r   s   a   w
+
+
+                   U  p  r  i  s  i  n  g
+
+
+                   b   e   g   a   n   ?
+
+
+         o   r
+
+
+              ...that   the   Accession
+
+
+              Day tilts were
+
+
+         jousts   held   at
+
+
+                   the court of
+
+
+              Q   u   e   e   n
+
+
+    E   l   i   z   a   b   e   t   h
+
+
+    I
+
+
+              i   n
+
+
+         which  her
+
+
+                   courtiers  appeared  in
+
+
+         elaborate  allegorical  disguises
+
+
+              (  p  i  c  t  u  r  e  d  )  ?
+
+
+                   a n d
+
+
+                   ...that many
+
+
+         plants   avoid
+
+
+         s  e  e  d
+
+
+         predation   through
+
+
+              a
+
+
+         process called
+
+
+                   m   a   s   s
+
+
+                   seeding,  whereby
+
+
+         s o
+
+
+              m a n y
+
+
+         seeds are
+
+
+              produced at
+
+
+                   o  n  c  e
+
+
+         t   h   a   t
+
+
+         it  is
+
+
+    i   m   p   o   s   s   i   b   l   e
+
+
+              for   predators
+
+
+              to  eat
+
+
+              all  of
+
+
+         t h e m ?
+
+
+
+
+                   .  .  .  t  h  a  t
+
+
+                   t h e
+
+
+         B   y   r   o   n
+
+
+    Nuclear   Generating
+
+
+         Station  (pictured)  produced
+
+
+                   about   2,300
+
+
+         M W e
+
+
+         in   2005,
+
+
+    enough electricity to
+
+
+              s   u   p   p   l   y
+
+
+         2
+
+
+                   million average
+
+
+    U   .   S   .
+
+
+         h   o   u   s   e   h   o   l   d   s   ?
+
+
+              o  r
+
+
+                   ...that   modern
+
+
+         billiard   chalk
+
+
+                   (pictured), which
+
+
+         is not
+
+
+         actually  chalk
+
+
+    but  a  compound
+
+
+                   o   f
+
+
+         silica and
+
+
+         corundum,  was  invented
+
+
+                   by   player
+
+
+         W i l l i a m
+
+
+    A.  Spinks
+
+
+                   and   a
+
+
+    chemist  friend
+
+
+                   i  n
+
+
+                   1  8  9  7  ?
+
+
+    a  n  d
+
+
+                   ...that  a  poll
+
+
+              conducted in 2006
+
+
+              indicated that 26%
+
+
+                   o f
+
+
+                   Americans   say   the
+
+
+    United States "should
+
+
+         not be
+
+
+                   involved" with
+
+
+         the United
+
+
+    N   a   t   i   o   n   s   ?
+
+
+
+
+              ...that Fort
+
+
+                   Pepperrell, built
+
+
+         f   o   r
+
+
+         t   h   e
+
+
+    U.S. Army
+
+
+    i   n
+
+
+    Canada,   was
+
+
+                   done  in  the
+
+
+              shape   of   a
+
+
+                   cowboy   hat
+
+
+              a   n   d
+
+
+              the  streets
+
+
+    named   in
+
+
+         h  o  n  o  u  r
+
+
+    o  f
+
+
+                   the   Atlantic
+
+
+    C   h   a   r   t   e   r   ?
+
+
+                   o r
+
+
+                   .  .  .  t  h  a  t
+
+
+    Californian politician
+
+
+                   L o u
+
+
+         P   a   p   a   n
+
+
+                   r   e   c   e   i   v   e   d
+
+
+         the   Ellis   Island
+
+
+                   Medal of
+
+
+    Honor   in
+
+
+    1 9 9 6 ?
+
+
+         a n d
+
+
+              ...that the known
+
+
+    writings of Caius,
+
+
+    Presbyter   of
+
+
+    Rome   exist
+
+
+              only in
+
+
+    fragments,  many  of
+
+
+                   which were preserved
+
+
+    i  n
+
+
+                   the   Ecclesiastical
+
+
+                   History   of   Eusebius
+
+
+                   o   f
+
+
+    C a e s a r e a ?
+
+
+
+
+                   o r
+
+
+    ...that   the   Solar
+
+
+    Sentinels, a
+
+
+         NASA spacecraft designed
+
+
+    t  o
+
+
+                   study  the
+
+
+              Sun,   will   have
+
+
+              to survive at
+
+
+                   distances from
+
+
+         t  h  e
+
+
+         Sun  only
+
+
+         one-quarter  of  Earth's
+
+
+         d i s t a n c e ?
+
+
+         a  n  d
+
+
+              ...that the official
+
+
+              title of the
+
+
+                   "Stars  on
+
+
+                   45   Medley",   which
+
+
+    n   a   m   e   s
+
+
+    a  total  of
+
+
+                   11   different
+
+
+    songs, makes
+
+
+                   i t
+
+
+              the   longest-titled
+
+
+         song ever to
+
+
+         m  a  k  e
+
+
+                   the Billboard
+
+
+                   charts in
+
+
+    the United
+
+
+              S  t  a  t  e  s  ?
+
+
+
+
+    ...that   bead   crochet
+
+
+         (  p  i  c  t  u  r  e  d  )
+
+
+    was   a
+
+
+    popular method
+
+
+                   of  creating
+
+
+         women's  fashion  accessories
+
+
+    during  the
+
+
+    1 9 2 0 s ?
+
+
+                   o r
+
+
+              ...that   architect
+
+
+              Frank Lloyd Wright's
+
+
+         b  e  l  i  e  f
+
+
+              t h a t
+
+
+              banks   should   not
+
+
+              " p u t
+
+
+                   on   the
+
+
+    airs  of
+
+
+                   a
+
+
+         temple   of   worship"
+
+
+              is   reflected   in
+
+
+         the design
+
+
+    of  the
+
+
+                   1 9 0 5
+
+
+         F  r  a  n  k
+
+
+                   L .
+
+
+              S m i t h
+
+
+    B  a  n  k  ?
+
+
+         a  n  d
+
+
+                   ...that  Google's
+
+
+         knol   project
+
+
+                   is   widely
+
+
+    seen as
+
+
+                   an   attempt
+
+
+                   to  compete
+
+
+              w  i  t  h
+
+
+              W   i   k   i   p   e   d   i   a   ?
+
+
+
+
+    ... that the
+
+
+                   first  airmail
+
+
+              o   f
+
+
+         the United States
+
+
+              was a personal
+
+
+                   letter  from
+
+
+              George   Washington
+
+
+                   carried   on
+
+
+                   a  n
+
+
+                   aerial  balloon
+
+
+                   flight  from  Philadelphia
+
+
+                   by   Jean
+
+
+         P i e r r e
+
+
+    B l a n c h a r d ?
+
+
+                   o   r
+
+
+    . . . t h a t
+
+
+    Saalumarada   Thimmakka
+
+
+              was awarded
+
+
+    the National Citizen's
+
+
+              a   w   a   r   d
+
+
+              for   planting   and
+
+
+              nurturing   284   banyan
+
+
+              t   r   e   e   s
+
+
+         along  an  Indian
+
+
+    h  i  g  h  w  a  y  ?
+
+
+                   a   n   d
+
+
+                   ...that   Democrat
+
+
+                   B o b
+
+
+              Holden  was  the
+
+
+         first  incumbent  Missouri
+
+
+                   Governor   to   lose
+
+
+                   a
+
+
+    p r i m a r y ?
+
+
+
+
+    ...  that  Leaving
+
+
+              S  p  r  i  n  g  f  i  e  l  d
+
+
+              is a
+
+
+         non-fiction   anthology   of
+
+
+    e   s   s   a   y   s
+
+
+                   analyzing the impact
+
+
+         of   the   television
+
+
+                   program  The  Simpsons
+
+
+                   o  n
+
+
+         s   o   c   i   e   t   y   ?
+
+
+                   o  r
+
+
+         . . .
+
+
+    t h a t
+
+
+              J o h n
+
+
+         Harber Phillips, the
+
+
+              l  e  g  a  l
+
+
+    counsel   who
+
+
+    d   e   f   e   n   d   e   d
+
+
+                   Lindy   Chamberlain,   later
+
+
+                   b   e   c   a   m   e
+
+
+                   the  Chief
+
+
+              Justice  of
+
+
+              the   Supreme   Court
+
+
+                   o f
+
+
+                   V i c t o r i a ,
+
+
+                   A  u  s  t  r  a  l  i  a  ?
+
+
+                   a n d
+
+
+                   ...that   the
+
+
+              Pingo National Landmark,
+
+
+    in the Northwest
+
+
+                   T  e  r  r  i  t  o  r  i  e  s  ,
+
+
+              i  s
+
+
+                   t h e
+
+
+              only   national
+
+
+                   landmark in Canada,
+
+
+    p   r   o   t   e   c   t   i   n   g
+
+
+                   p i n g o s ?
+
+
+
+
+         ...that American Jackson
+
+
+              Haines  is
+
+
+              considered the father
+
+
+         of  modern
+
+
+         f   i   g   u   r   e
+
+
+         s   k   a   t   i   n   g   ?
+
+
+    o   r
+
+
+                   .   .   .   t   h   a   t
+
+
+    t h e
+
+
+              f  o  u  n  d  e  r
+
+
+    of Byzantine
+
+
+    studies  in  Germany
+
+
+    is   Hieronymus
+
+
+              Wolf   who,
+
+
+    approximately 100
+
+
+    years after
+
+
+                   the fall
+
+
+         of   Byzantium,
+
+
+                   began to
+
+
+              edit and
+
+
+                   translate   Byzantine
+
+
+                   l  i  t  e  r  a  t  u  r  e  ?
+
+
+         a   n   d
+
+
+              . . . t h a t
+
+
+    Italian  aerodynamicist
+
+
+         A  n  t  o  n  i  o
+
+
+              Ferri  took  to
+
+
+              the   hills
+
+
+                   in   1943   with
+
+
+    a trunk
+
+
+    l  o  a  d
+
+
+         of scientific
+
+
+                   documents   to
+
+
+         t u r n
+
+
+                   over   to
+
+
+              t h e
+
+
+         A l l i e s ?
+
+
+
+
+    .  .  .  t  h  a  t
+
+
+    Jaja,  one
+
+
+         o  f
+
+
+         the   most
+
+
+              s u c c e s s f u l
+
+
+              merchant-kings   in
+
+
+         19th-century Nigeria, began
+
+
+                   h i s
+
+
+    l   i   f   e
+
+
+              a   s
+
+
+    a slave
+
+
+         i  n
+
+
+                   B o n n y ?
+
+
+              o r
+
+
+    ...that   the
+
+
+    final   episode
+
+
+    of  the  1986
+
+
+         t e l e v i s i o n
+
+
+              series Outlaws
+
+
+         recycled  footage  from
+
+
+                   The Oregon
+
+
+                   T r a i l ,
+
+
+         because actors Rod
+
+
+                   Taylor and
+
+
+              Charles Napier appeared
+
+
+              i  n
+
+
+         b  o  t  h
+
+
+         p r o g r a m s ?
+
+
+    a  n  d
+
+
+              ... that Victorian
+
+
+                   plant   collector   Charles
+
+
+                   M a r i e s
+
+
+    i n t r o d u c e d
+
+
+                   over  500  species
+
+
+              of plants
+
+
+              to   England,
+
+
+              including  Viburnum  plicatum
+
+
+         " M a r i e s i i "
+
+
+         (   p   i   c   t   u   r   e   d   )
+
+
+         w  h  i  c  h
+
+
+              w  a  s
+
+
+                   n a m e d
+
+
+         a  f  t  e  r
+
+
+    h   i   m   ?
+
+
+
+
+    ...  that
+
+
+    the  wide  variety
+
+
+                   o f
+
+
+              p  e  o  p  l  e
+
+
+         w  h  o
+
+
+                   h  a  v  e
+
+
+              b e e n
+
+
+         deported   from
+
+
+    t  h  e
+
+
+    United   States   includes
+
+
+    Jamaican boxer
+
+
+    Trevor Berbick, political
+
+
+                   activist   Emma   Goldman,
+
+
+              and   Indian
+
+
+    g  u  r  u
+
+
+    Bhagwan   Shree
+
+
+                   R a j n e e s h ?
+
+
+    o   r
+
+
+                   .  .  .  t  h  a  t
+
+
+         t h e
+
+
+    poet Dinakara
+
+
+              D e s a i
+
+
+                   is known as
+
+
+         Chutuka   Brahma   (creator
+
+
+    of   chutukas)
+
+
+              because   he   invented
+
+
+    a   four-line   limerick
+
+
+              form of Kannada
+
+
+                   poetry  known
+
+
+         a s
+
+
+              c  h  u  t  u  k  a  ?
+
+
+              a   n   d
+
+
+                   .   .   .   t   h   a   t
+
+
+              the 2006 Japanese
+
+
+                   film  Hula  Girls
+
+
+         is  set
+
+
+                   in the coal
+
+
+                   mining town of
+
+
+                   Iwaki   in
+
+
+                   the 1960s
+
+
+                   w h e n
+
+
+                   a Hawaiian
+
+
+         s  p  a
+
+
+              r  e  s  o  r  t
+
+
+                   was built to
+
+
+              r e s o l v e
+
+
+         the  community's
+
+
+                   f   a   l   t   e   r   i   n   g
+
+
+         f o r t u n e s ?
+
+
+
+
+                   ...that  the  Timucua
+
+
+         I   n   d   i   a   n   s
+
+
+         of the
+
+
+    S  t  .
+
+
+                   Johns   culture
+
+
+    l e f t
+
+
+    m  a  n  y
+
+
+         large  shell  middens,
+
+
+    including one
+
+
+              e  s  t  i  m  a  t  e  d
+
+
+                   t   o
+
+
+    be   75   feet
+
+
+                   high,   even
+
+
+    though  shellfish
+
+
+              were a
+
+
+         minor  part
+
+
+         of their
+
+
+                   d i e t ?
+
+
+                   o r
+
+
+              ...that   Czar
+
+
+              Peter   I   of
+
+
+                   Russia   not   only
+
+
+              stayed as a
+
+
+         blacksmith's  personal  houseguest
+
+
+                   at   what   is
+
+
+    n   o   w
+
+
+              called the Czar
+
+
+         P e t e r
+
+
+    House   in
+
+
+    Z a a n d a m ,
+
+
+    but  also
+
+
+                   p   a   i   d
+
+
+    a
+
+
+         widow  boarding  there
+
+
+                   t   o
+
+
+                   m  o  v  e
+
+
+         out   so
+
+
+                   there  would  be
+
+
+                   room  for
+
+
+    h  i  m  ?
+
+
+              a n d
+
+
+                   ... that
+
+
+                   former   Key   West
+
+
+    mayor Captain
+
+
+              T o n y
+
+
+                   Tarracino  was  a
+
+
+         subject of Cuba
+
+
+    C  r  o  s  s  i  n  g  ,
+
+
+                   a 1980
+
+
+         f  i  l  m
+
+
+         a  b  o  u  t
+
+
+              a plot to
+
+
+         k i l l
+
+
+                   Fidel Castro, and
+
+
+         of  the  1985
+
+
+         J i m m y
+
+
+                   Buffett  song
+
+
+                   "Last  Mango
+
+
+              i   n
+
+
+         P  a  r  i  s  "  ?
+
+
+
+
+                   ... that
+
+
+         Pocahontas Island, where
+
+
+                   e  v  i  d  e  n  c  e
+
+
+         of   prehistoric
+
+
+                   Native American artifacts
+
+
+                   were found,
+
+
+                   would  later
+
+
+              become  the
+
+
+    f   i   r   s   t
+
+
+              free black settlement
+
+
+                   in  the  U.S.
+
+
+    s t a t e
+
+
+         o  f
+
+
+    V  i  r  g  i  n  i  a  ?
+
+
+              o  r
+
+
+         .  .  .  t  h  a  t
+
+
+                   t w e n t y
+
+
+              out of
+
+
+              t   h   e
+
+
+                   thirty  five
+
+
+         merchant   ships   of
+
+
+    c  o  n  v  o  y
+
+
+              SC-7   were   sunk
+
+
+    b   y
+
+
+         G  e  r  m  a  n
+
+
+              U   -   b   o   a   t   s   ?
+
+
+              a  n  d
+
+
+                   ...that   the
+
+
+              G   r   o   u   p
+
+
+    C   Nissan
+
+
+    R90Cs  won
+
+
+                   the All Japan
+
+
+    Sports Prototype Championship
+
+
+              three times,
+
+
+                   t   h   e
+
+
+         1000km Suzuka
+
+
+         twice,   and   the
+
+
+    24 Hours
+
+
+         of   Daytona   once
+
+
+    in  their  four
+
+
+         years  of
+
+
+         c  o  m  p  e  t  i  t  i  o  n  ?
+
+
+
+
+                   .   .   .
+
+
+         that   out
+
+
+    of 300 entries
+
+
+         for the Honor
+
+
+              A  w  a  r  d
+
+
+         from  the  United
+
+
+         States  Department  of
+
+
+    Transportation   and   the
+
+
+                   N a t i o n a l
+
+
+                   Endowment for the
+
+
+         Arts,  Wallace
+
+
+                   R   o   b   e   r   t   s
+
+
+    & Todd
+
+
+    w   a   s
+
+
+         one of eleven
+
+
+                   who  won
+
+
+    t   h   e
+
+
+              a  w  a  r  d  ?
+
+
+              o r
+
+
+                   . . . t h a t
+
+
+              when the
+
+
+                   K  √  §  l  v  e  s  t  e  n
+
+
+         Runestone   was   rediscovered
+
+
+              in   the
+
+
+    walls of a
+
+
+                   c h u r c h ,
+
+
+              it was
+
+
+                   removed  and  again
+
+
+    used  as  building
+
+
+              m  a  t  e  r  i  a  l  ?
+
+
+              a  n  d
+
+
+              . . . t h a t
+
+
+    H  e  r  m
+
+
+              Doscher and
+
+
+         his  son
+
+
+    Jack  were  the
+
+
+                   first pair
+
+
+    of  father  and
+
+
+    son to have
+
+
+    b  o  t  h
+
+
+                   p   l   a   y   e   d
+
+
+    M   a   j   o   r
+
+
+              L e a g u e
+
+
+         B  a  s  e  b  a  l  l  ?
+
+
+
+
+         .  .  .  t  h  a  t
+
+
+    Emmy-nominated  actor  Leon
+
+
+         R   u   s   s   o   m
+
+
+    p   o   r   t   r   a   y   e   d
+
+
+                   two   different
+
+
+         characters  in
+
+
+         t w o
+
+
+              d   i   f   f   e   r   e   n   t
+
+
+    b r a n c h e s
+
+
+                   of   the
+
+
+                   S t a r
+
+
+              T r e k
+
+
+                   f   r   a   n   c   h   i   s   e   ?
+
+
+    o  r
+
+
+              ...that  John
+
+
+         Straffen,   a   triple
+
+
+    child-killer  who  escaped
+
+
+         f  r  o  m
+
+
+    Broadmoor,   served   55
+
+
+         y   e   a   r   s
+
+
+    in  prison  becoming
+
+
+                   t   h   e
+
+
+    l   o   n   g   e   s   t   -   s   e   r   v   i   n   g
+
+
+              prisoner in
+
+
+                   B  r  i  t  i  s  h
+
+
+         h i s t o r y ?
+
+
+                   a  n  d
+
+
+    .  .  .  t  h  a  t
+
+
+    Joseph Legros, who
+
+
+         f i r s t
+
+
+         performed  in  1764,
+
+
+    was the principal
+
+
+              t  e  n  o  r
+
+
+                   at  the  Paris
+
+
+                   O   p   √   ©   r   a
+
+
+                   until   his
+
+
+                   retirement  in
+
+
+    1  7  8  3  ?
+
+
+
+
+              ...  that  William
+
+
+    Ernest   Cooke
+
+
+              w a s
+
+
+                   Western  Australia's  first
+
+
+    g   o   v   e   r   n   m   e   n   t
+
+
+    a s t r o n o m e r ?
+
+
+    o r
+
+
+                   ...   that
+
+
+         during a
+
+
+              storm   in   the
+
+
+              Dolomites,   Mo   Anthoine
+
+
+                   probably  saved  the
+
+
+    life  of  Al
+
+
+    Alvarez,  who  later
+
+
+         wrote  his
+
+
+         b i o g r a p h y ?
+
+
+              a n d
+
+
+              ...that   the   Way
+
+
+    of  Human
+
+
+                   Rights in Nuremberg,
+
+
+              G   e   r   m   a   n   y
+
+
+         h  a  s
+
+
+                   a
+
+
+         sculpture  and  engraving
+
+
+         d   e   d   i   c   a   t   e   d
+
+
+              to   each
+
+
+                   a   r   t   i   c   l   e
+
+
+              of the Universal
+
+
+                   Declaration of Human
+
+
+                   R   i   g   h   t   s   ?
+
+
+
+
+    o   r
+
+
+                   a  n  d
+
+
+         ...that  although
+
+
+         spoken by less
+
+
+    t  h  a  n
+
+
+                   1   8   ,   6   8   6
+
+
+              people,   the
+
+
+                   K   u   l   u   n   g
+
+
+              language has eight
+
+
+         d i a l e c t s
+
+
+         a  n  d
+
+
+         c   o   v   e   r   s
+
+
+    the   "Mahakulung"   ethno-linguistic
+
+
+              a r e a ?
+
+
+
+
+    .   .   .   t   h   a   t
+
+
+              the   Black
+
+
+         Kangaroo   Paw   (Macropidia
+
+
+              fuliginosa;  pictured),  is
+
+
+         a   plant
+
+
+    native to Western
+
+
+                   Australia  and  survives
+
+
+         being   burned
+
+
+                   t  o
+
+
+    t  h  e
+
+
+                   g  r  o  u  n  d  ?
+
+
+              o   r
+
+
+              ...   that
+
+
+              The   Mock   Tempest
+
+
+                   was  a  1674
+
+
+              p   a   r   o   d   y
+
+
+                   of   Dryden
+
+
+         a n d
+
+
+              Davenant's adaptation
+
+
+         o f
+
+
+              S  h  a  k  e  s  p  e  a  r  e  '  s
+
+
+                   T e m p e s t ?
+
+
+         a  n  d
+
+
+         .   .   .
+
+
+         t   h   a   t
+
+
+         the plesiosaur Bathyspondylus
+
+
+         was first
+
+
+    described  in  1982
+
+
+              from   a
+
+
+    s   p   e   c   i   m   e   n
+
+
+    c  o  l  l  e  c  t  e  d
+
+
+    i  n
+
+
+         1 7 7 4 ?
+
+
+
+
+                   ...that   Akira
+
+
+    Endo   received
+
+
+                   the  2006  Japan
+
+
+         P   r   i   z   e
+
+
+    f   o   r
+
+
+         his   discovery
+
+
+                   of  the  popular
+
+
+              statin   drugs,   used
+
+
+              t o
+
+
+              t   r   e   a   t
+
+
+    h i g h
+
+
+              c   h   o   l   e   s   t   e   r   o   l   ?
+
+
+    o  r
+
+
+         ... that
+
+
+                   t h e
+
+
+                   Royal  Navy  repair
+
+
+                   ship HMS Artifex
+
+
+              p   r   e   v   i   o   u   s   l   y
+
+
+         served as
+
+
+                   a  liner
+
+
+    f   o   r
+
+
+                   Cunard  and
+
+
+                   as an
+
+
+              armed   merchant
+
+
+                   c r u i s e r ?
+
+
+         a   n   d
+
+
+              ... that
+
+
+         P  o  l  i  c  e  m  a  n
+
+
+         Bluejay,   a   children's
+
+
+              novel   by   L.
+
+
+              F r a n k
+
+
+              Baum   of
+
+
+                   The Wonderful
+
+
+                   Wizard of
+
+
+              Oz fame,
+
+
+                   w   a   s
+
+
+         f i r s t
+
+
+              published in
+
+
+                   1907 under the
+
+
+         pen  name  "Laura
+
+
+              B a n c r o f t " ?
+
+
+
+
+                   .  .  .  t  h  a  t
+
+
+    t   h   e
+
+
+    2 , 7 0 0 ¬ † f e e t
+
+
+    (820¬†m)  wide  River
+
+
+              W   a   r   r   e   n
+
+
+    Falls  fell  175¬†feet
+
+
+              (53¬†m)   in
+
+
+                   t h e
+
+
+    area  that  is
+
+
+         now downtown
+
+
+                   St. Paul, Minnesota
+
+
+    a  l  m  o  s  t
+
+
+              12,000 years
+
+
+              a g o ?
+
+
+                   o r
+
+
+    ...that   the   John
+
+
+         Coltrane Home
+
+
+         is   where
+
+
+                   the saxophonist composed
+
+
+              many of his
+
+
+    later  works  including
+
+
+              the  masterwork,
+
+
+              A
+
+
+    L  o  v  e
+
+
+         S  u  p  r  e  m  e  ?
+
+
+         a n d
+
+
+              ... that
+
+
+         Bucks   point   lace
+
+
+    i s
+
+
+    a   bobbin
+
+
+         l  a  c  e
+
+
+                   from the
+
+
+              East Midlands in
+
+
+    England with both
+
+
+         floral and
+
+
+    g   e   o   m   e   t   r   i   c
+
+
+    d e s i g n s ?
+
+
+
+
+                   ...that the
+
+
+              Capitol  Center  has
+
+
+              been  the  tallest
+
+
+                   c   o   m   m   e   r   c   i   a   l
+
+
+              building  in
+
+
+              Salem, Oregon,
+
+
+         s   i   n   c   e
+
+
+                   i   t   s
+
+
+              c o m p l e t i o n
+
+
+    i  n
+
+
+    1 9 2 6 ?
+
+
+              o r
+
+
+                   ...   that
+
+
+         Major League Baseballer
+
+
+              Willis   Roberts   signed
+
+
+         a   s
+
+
+    a   free   agent
+
+
+         t o
+
+
+              p l a y
+
+
+         w   i   t   h
+
+
+         t h e
+
+
+              C i n c i n n a t i
+
+
+                   R e d s
+
+
+              o  n
+
+
+    t h e
+
+
+              s a m e
+
+
+         day he was
+
+
+                   released by the
+
+
+    D   e   t   r   o   i   t
+
+
+              T   i   g   e   r   s   ?
+
+
+                   a  n  d
+
+
+                   .   .   .   t   h   a   t
+
+
+    James   Foster   was
+
+
+                   a Scottish-born
+
+
+    Canadian goalie who
+
+
+    helped lead Great
+
+
+         Britain to
+
+
+              its   first
+
+
+                   and only Olympic
+
+
+              g o l d
+
+
+                   m e d a l
+
+
+                   in ice
+
+
+         h   o   c   k   e   y
+
+
+    i  n
+
+
+    1   9   3   6   ?
+
+
+
+
+                   . . .
+
+
+    that  the
+
+
+    P   r   e   s   i   d   e   n   t
+
+
+    o f
+
+
+              Colombia's   administrative
+
+
+              department has an
+
+
+         a   n   n   u   a   l
+
+
+              budget of over
+
+
+                   C O L $ 1 6 ¬ † b i l l i o n ?
+
+
+              o   r
+
+
+         ...that   The   Portage
+
+
+    t o
+
+
+    San Cristobal of
+
+
+    A.H.   is
+
+
+    a
+
+
+                   c o n t r o v e r s i a l
+
+
+                   1981 novella by
+
+
+    G e o r g e
+
+
+                   S   t   e   i   n   e   r
+
+
+                   i n
+
+
+         which   Hitler   is
+
+
+                   f o u n d
+
+
+    alive  in  the
+
+
+                   Amazon  jungle
+
+
+         and claims to
+
+
+              b   e
+
+
+                   t  h  e
+
+
+                   J  e  w  s  '
+
+
+         b   e   n   e   f   a   c   t   o   r   ?
+
+
+         a  n  d
+
+
+
+
+    ... that
+
+
+              the   Seattle's
+
+
+         P   i   k   e
+
+
+         P   l   a   c   e
+
+
+                   M  a  r  k  e  t
+
+
+    (  p  i  c  t  u  r  e  d  )
+
+
+         was  created  partly
+
+
+    in  response
+
+
+    t o
+
+
+    p r i c e
+
+
+                   g o u g i n g ?
+
+
+    o r
+
+
+    ...that  the  smallest
+
+
+         p a p a l
+
+
+         election  since
+
+
+              t h e
+
+
+                   expansion of
+
+
+                   suffrage  to  all
+
+
+                   cardinals   was   undertaken
+
+
+    by   only   six
+
+
+                   c  a  r  d  i  n  a  l
+
+
+    e  l  e  c  t  o  r  s  ?
+
+
+         a  n  d
+
+
+                   ...that the
+
+
+         Indiana   state   constitution
+
+
+                   specifically   states
+
+
+              t  h  a  t
+
+
+                   I  n  d  i  a  n  a  p  o  l  i  s  '
+
+
+                   Military  Park
+
+
+    can never
+
+
+                   b   e
+
+
+              s   o   l   d   ?
+
+
+
+
+         . . .
+
+
+                   t  h  a  t
+
+
+    a principal
+
+
+         work  of  mathematician
+
+
+                   Wilhelm   Cauer
+
+
+         was   twice   destroyed
+
+
+    during   World
+
+
+                   War   II
+
+
+         a   n   d
+
+
+              was   only   published
+
+
+    after  his  death
+
+
+    by his family,
+
+
+                   who reconstructed
+
+
+              it   from   the
+
+
+              t  a  b  l  e
+
+
+    o f
+
+
+                   c   o   n   t   e   n   t   s   ?
+
+
+                   o r
+
+
+                   ...that Franciszek
+
+
+                   Jarecki,  pilot
+
+
+         of the Polish
+
+
+         Air   Force,   in
+
+
+         1953 escaped
+
+
+              to  Denmark
+
+
+                   together   with   a
+
+
+                   Soviet   plane   MiG-15,
+
+
+              which   greatly   helped
+
+
+         t  h  e
+
+
+              U.S. Air Force
+
+
+    fighting  in  the
+
+
+         K   o   r   e   a   n
+
+
+    W  a  r  ?
+
+
+         a  n  d
+
+
+              .  .  .
+
+
+              that Valda
+
+
+    Cooper became the
+
+
+    first  female
+
+
+    m a n a g i n g
+
+
+                   editor of
+
+
+                   a  n  y
+
+
+    daily   newspaper   in
+
+
+              N   e   w
+
+
+         M   e   x   i   c   o   ?
+
+
+
+
+    .  .  .  t  h  a  t
+
+
+                   drunken  trees  result
+
+
+         f  r  o  m
+
+
+                   p e r m a f r o s t
+
+
+    t h a w i n g ?
+
+
+                   o  r
+
+
+                   ...that   the   minesweeper
+
+
+    U S S
+
+
+                   Threat   was
+
+
+    transferred to the
+
+
+              g   o   v   e   r   n   m   e   n   t
+
+
+    of   Mexico
+
+
+                   a f t e r
+
+
+                   being decommissioned
+
+
+                   b y
+
+
+         the   US
+
+
+         N  a  v  y
+
+
+                   and   renamed   the
+
+
+              F   r   a   n   c   i   s   c   o
+
+
+              Z  a  r  c  o  ?
+
+
+    a   n   d
+
+
+         ...that   while   Sanskrit
+
+
+         is the liturgical
+
+
+         language for many
+
+
+                   I n d i a n
+
+
+              religions,   only
+
+
+              one   daily
+
+
+                   newspaper,   the   Sudharma,
+
+
+              u  s  e  s
+
+
+                   i   t   ?
+
+
+
+
+                   ...   that   Orson
+
+
+              Welles took the
+
+
+         r o l e
+
+
+    o  f
+
+
+              Hastler   in
+
+
+    h  i  s
+
+
+                   1  9  6  2
+
+
+    f  i  l  m
+
+
+    The  Trial  after
+
+
+              c o m i c
+
+
+                   a   c   t   o   r
+
+
+    J a c k i e
+
+
+    Gleason  turned
+
+
+         down   the
+
+
+         p   a   r   t   ?
+
+
+         o r
+
+
+              ...that  the  Annenschule
+
+
+              (pictured)   high
+
+
+         s   c   h   o   o   l
+
+
+              in  Saint
+
+
+              Petersburg, Russia
+
+
+                   was   transformed
+
+
+    i   n   t   o
+
+
+    a
+
+
+              Soviet   work   school
+
+
+    after the
+
+
+         Russian   Revolution,   but
+
+
+    now   houses
+
+
+                   a
+
+
+              l y c e u m ?
+
+
+              a   n   d
+
+
+                   ...that Marine corporal
+
+
+              C  h  a  r  l  e  s
+
+
+    W.   Lindberg   was
+
+
+         part of the
+
+
+         first   flag   raising
+
+
+         (pictured)   on
+
+
+                   I w o
+
+
+                   Jima hours
+
+
+              b   e   f   o   r   e
+
+
+                   the   famous
+
+
+                   photo   was   taken
+
+
+         by   Joe
+
+
+                   R o s e n t h a l ?
+
+
+
+
+              ...that  Grand  Duke
+
+
+    Nicholas Mikhailovich of
+
+
+                   Russia   gave
+
+
+         away   his   cat
+
+
+                   to   one   of
+
+
+         the soldiers tasked
+
+
+                   w i t h
+
+
+    h  i  s
+
+
+         e  x  e  c  u  t  i  o  n  ?
+
+
+    o   r
+
+
+                   . . .
+
+
+              t   h   a   t
+
+
+              Kosa  Pan
+
+
+              (pictured) led
+
+
+         one   of
+
+
+              the earliest
+
+
+              Siamese   embassies
+
+
+         to  France  in
+
+
+                   t  h  e
+
+
+    1  6  8  0  s  ?
+
+
+    a n d
+
+
+                   ...that   the
+
+
+    name   of   the
+
+
+    I   n   d   o   -   E   u   r   o   p   e   a   n
+
+
+              t  h  u  n  d  e  r
+
+
+    god   has   been
+
+
+                   reconstructed by etymologists
+
+
+    a s
+
+
+         *   P   e   r   k   w   u   n   o   s   ?
+
+
+
+
+                   .   .   .
+
+
+                   that   Thomas   Allin,
+
+
+                   a n
+
+
+    e a r l y
+
+
+    s  e  t  t  l  e  r
+
+
+    of Kentucky, USA,
+
+
+                   laid   out   the
+
+
+                   c i t i e s
+
+
+              of   Lexington,
+
+
+                   Harrodsburg,   and
+
+
+         H e n d e r s o n ?
+
+
+         o   r
+
+
+    . . . t h a t
+
+
+         Poughkeepsie's   Market
+
+
+         S t r e e t
+
+
+         Row includes
+
+
+              one of
+
+
+              the  oldest
+
+
+              h   o   u   s   e   s
+
+
+    i  n
+
+
+                   t h e
+
+
+    c i t y ?
+
+
+         a   n   d
+
+
+    ...that Jeffrey Goldberg,
+
+
+              a  writer
+
+
+    for The New
+
+
+                   Yorker, was
+
+
+    c o n v i n c e d
+
+
+    to  write
+
+
+         for The Atlantic
+
+
+         M   o   n   t   h   l   y
+
+
+                   when   publisher
+
+
+                   David G.
+
+
+    Bradley   purchased
+
+
+                   ponies   for   Goldberg's
+
+
+                   c   h   i   l   d   r   e   n   ?
+
+
+
+
+                   ...  that
+
+
+              according   to   Hindu
+
+
+    mythology, the "first
+
+
+         king"   Prithu
+
+
+              chased   the   Earth
+
+
+                   i n
+
+
+    the form
+
+
+         o   f
+
+
+              a  cow  (pictured),
+
+
+         who eventually
+
+
+    a  g  r  e  e  d
+
+
+                   to  yield  her
+
+
+         milk  as  all
+
+
+                   t h e
+
+
+              w o r l d ' s
+
+
+              g  r  a  i  n
+
+
+              a n d
+
+
+    v  e  g  e  t  a  t  i  o  n  ?
+
+
+         o  r
+
+
+              .  .  .
+
+
+    t  h  a  t
+
+
+                   P   a   t
+
+
+              Austin   was
+
+
+         the   first
+
+
+    drag  racer
+
+
+         t   o
+
+
+                   w i n
+
+
+              t w o
+
+
+                   eliminators   at
+
+
+                   a   n
+
+
+                   N H R A
+
+
+                   e v e n t ?
+
+
+    a  n  d
+
+
+         ...that Lewis Call
+
+
+              developed an account
+
+
+         of   post-anarchism   based
+
+
+              o   n
+
+
+         t  h  e
+
+
+              work  of
+
+
+                   philosophers  such
+
+
+    as  Friedrich
+
+
+    Nietzsche   and
+
+
+                   c   y   b   e   r   p   u   n   k   s
+
+
+              such   as
+
+
+         W  i  l  l  i  a  m
+
+
+         G i b s o n ?
+
+
+
+
+                   o  r
+
+
+         ...that  Hakuin  Ekaku's
+
+
+         systematization   of
+
+
+              k  ≈  ç  a  n
+
+
+                   p   r   a   c   t   i   c   e
+
+
+         brought about
+
+
+                   a  major  revolution
+
+
+         i  n
+
+
+    Z  e  n
+
+
+         t e a c h i n g ?
+
+
+                   a   n   d
+
+
+    .   .   .   t   h   a   t
+
+
+                   the  writer
+
+
+    M   i   k   h   a   i   l
+
+
+              Mikhalkov,  brother
+
+
+              o   f
+
+
+                   Sergei   Mikhalkov,
+
+
+              w h o
+
+
+              w  r  o  t  e
+
+
+         the  Soviet
+
+
+    anthem,   was   an
+
+
+                   NKVD agent acting
+
+
+         in  Nazi
+
+
+    Germany  and
+
+
+                   later  a
+
+
+         G   U   L   A   G
+
+
+              i  n  m  a  t  e  ?
+
+
+
+
+         .  .  .
+
+
+              that   actor
+
+
+         Roger   Moore   likened
+
+
+         his   starring   role
+
+
+                   in the 1958
+
+
+         children's TV
+
+
+              series   Ivanhoe   to
+
+
+                   t  h  a  t
+
+
+              o   f
+
+
+              "  a
+
+
+    m  e  d  i  e  v  a  l
+
+
+    f   i   r   e   m   a   n   "   ?
+
+
+    o   r
+
+
+    ...that  wide  receiver
+
+
+         Mercury Hayes caught
+
+
+         the game-winning touchdown
+
+
+    i  n
+
+
+    Lloyd Carr's
+
+
+    M   i   c   h   i   g   a   n
+
+
+                   c  o  a  c  h  i  n  g
+
+
+                   d e b u t ?
+
+
+         a   n   d
+
+
+              ...that the
+
+
+              Bangladesh  Nazrul
+
+
+         Sena, founded
+
+
+              upon the philosophy
+
+
+              of  Kazi
+
+
+    Nazrul   Islam,
+
+
+    p i o n e e r e d
+
+
+         the  introduction  of
+
+
+         c   o   m   p   u   t   e   r
+
+
+         science  and
+
+
+                   multimedia education
+
+
+              for  children
+
+
+                   at the kindergarten
+
+
+                   level   in
+
+
+                   B  a  n  g  l  a  d  e  s  h  ?
+
+
+
+
+              .   .   .
+
+
+         that   Hittin   was
+
+
+         a  Palestinian  village
+
+
+                   located   near
+
+
+              the  site  of
+
+
+    the Battle of
+
+
+    H   a   t   t   i   n   ,
+
+
+         w  h  e  r  e
+
+
+    Saladin  (pictured)
+
+
+    defeated   the
+
+
+    Crusaders  in
+
+
+         1   1   8   7   ?
+
+
+         o r
+
+
+                   ...that   Arthur
+
+
+    Sullivan's   Boer   War
+
+
+         T   e
+
+
+    D e u m
+
+
+         w   a   s
+
+
+              written  to  celebrate
+
+
+    t   h   e
+
+
+    e x p e c t e d
+
+
+         B   r   i   t   i   s   h
+
+
+              v i c t o r y
+
+
+              in the Boer
+
+
+              War, but because
+
+
+              t  h  e
+
+
+         war dragged
+
+
+              o   n
+
+
+         for almost
+
+
+              t w o
+
+
+              more  years,
+
+
+         both Sullivan and
+
+
+                   Queen   Victoria
+
+
+         had died
+
+
+         before the piece
+
+
+                   p   r   e   m   i   e   r   e   d   ?
+
+
+                   a  n  d
+
+
+    ...that David O.
+
+
+              Selznick   acquired   the
+
+
+    rights  to  make
+
+
+         1  9  5  7  '  s
+
+
+                   A   Farewell   to
+
+
+         Arms   from   Warner
+
+
+                   B r o s .
+
+
+    b   y
+
+
+         trading the foreign
+
+
+              rights   to   remake
+
+
+              A
+
+
+              Star   Is   Born
+
+
+              that Selznick
+
+
+         owned and Warner
+
+
+              n  e  e  d  e  d  ?
+
+
+
+
+              ...   that
+
+
+              in spite of
+
+
+         its  similar  appearance
+
+
+                   t   o
+
+
+         the  European
+
+
+    Robin,   the
+
+
+                   colourful Rose Robin
+
+
+    (pictured)  of
+
+
+              s  o  u  t  h  e  a  s  t  e  r  n
+
+
+              Australia   is
+
+
+                   more closely related
+
+
+              to the crow
+
+
+    f  a  m  i  l  y  ?
+
+
+                   o   r
+
+
+                   ...that  the
+
+
+              H  o  l  y
+
+
+    T r i n i t y
+
+
+                   C  o  l  u  m  n
+
+
+    i   n
+
+
+    Olomouc  was  inscribed
+
+
+              o n
+
+
+    the  World
+
+
+         Heritage List as
+
+
+         "  o  n  e
+
+
+         of   the   most
+
+
+              exceptional   examples   of
+
+
+         the   apogee   of
+
+
+    Central European Baroque
+
+
+                   a  r  t  i  s  t  i  c
+
+
+         e   x   p   r   e   s   s   i   o   n   "   ?
+
+
+         a   n   d
+
+
+         ...that  the
+
+
+              Aranthalawa Massacre,
+
+
+                   by the
+
+
+              Tamil Tigers,
+
+
+         resulted in the
+
+
+         d  e  a  t  h  s
+
+
+    of 30
+
+
+              y o u n g
+
+
+                   novice  monks,  their
+
+
+                   mentor, and
+
+
+              four   other
+
+
+                   c  i  v  i  l  i  a  n  s  ?
+
+
+
+
+         ...that   according   to
+
+
+    l   e   g   e   n   d   ,
+
+
+                   C h r i s t i a n
+
+
+         m   a   r   t   y   r
+
+
+    Saint   Getulius   and
+
+
+              his associates
+
+
+                   were   clubbed   to
+
+
+              d e a t h
+
+
+    a   f   t   e   r
+
+
+              t h e y
+
+
+    had  been  thrown
+
+
+                   into flames
+
+
+    b  u  t
+
+
+         e m e r g e d
+
+
+         u   n   h   a   r   m   e   d   ?
+
+
+              o   r
+
+
+              ...   that   Russian
+
+
+                   cellist   Valentin   Berlinsky
+
+
+         played  for  the
+
+
+    Borodin  Quartet
+
+
+         for   60   years,
+
+
+                   t  h  e
+
+
+                   longest-serving  member  of
+
+
+                   w   h   a   t
+
+
+    was described as
+
+
+    "the longest continuously
+
+
+                   p  l  a  y  i  n  g  "
+
+
+                   string quartet in
+
+
+    t  h  e
+
+
+    w  o  r  l  d  ?
+
+
+         a   n   d
+
+
+         ...that rattlesnake
+
+
+    venom contains
+
+
+    h e m o t o x i n s ?
+
+
+
+
+              .  .  .  t  h  a  t
+
+
+    the opening sequence
+
+
+              t  o
+
+
+         the   1983   Thai
+
+
+                   film, Gunman was
+
+
+         s   h   o   t
+
+
+    b   y
+
+
+         the director,
+
+
+    Chatrichalerm   Yukol,   while
+
+
+                   r   i   d   i   n   g
+
+
+    o   n
+
+
+              the  back
+
+
+         of  a
+
+
+         m o t o r c y c l e ?
+
+
+              o   r
+
+
+                   . . . t h a t
+
+
+         Spanish   anarchist   Joan
+
+
+                   Peir√≥   served
+
+
+         as  Minister  of
+
+
+                   Industry  in  the
+
+
+    Spanish  government,  and
+
+
+         was later executed
+
+
+    by  the  government
+
+
+              of Francisco
+
+
+         F  r  a  n  c  o  ?
+
+
+    a n d
+
+
+              ...that  the  Vefa
+
+
+         Kilise  Mosque  (pictured)
+
+
+         in  Istanbul
+
+
+              is   one
+
+
+              of   the   first
+
+
+         examples   of   byzantine
+
+
+              c   h   u   r   c   h   e   s
+
+
+         of  Constantinople  which
+
+
+                   w  e  r  e
+
+
+                   converted into
+
+
+         mosques by
+
+
+    t h e
+
+
+    O   t   t   o   m   a   n   s   ?
+
+
+
+
+    . . . t h a t
+
+
+                   Daphne Pearson was
+
+
+    o  n  e
+
+
+    of  only  four
+
+
+                   w o m e n
+
+
+         awarded the
+
+
+    G   e   o   r   g   e
+
+
+         Cross   for   acts
+
+
+              of bravery
+
+
+              during   World   War
+
+
+                   I   I   ?
+
+
+              o r
+
+
+                   . . . t h a t
+
+
+              J a c q u e l i n e
+
+
+         Audry was the
+
+
+                   first  commercially
+
+
+         successful   woman
+
+
+              film director
+
+
+    of  post-war
+
+
+                   F r a n c e ?
+
+
+                   a n d
+
+
+    ...that   hydrological   transport
+
+
+         models  are  computer
+
+
+    simulations   analyzing   the
+
+
+              movement  of  water
+
+
+                   pollution  in  rivers,
+
+
+              and have played
+
+
+              a   role   in
+
+
+         a i d i n g
+
+
+                   e n d a n g e r e d
+
+
+    s  p  e  c  i  e  s  ?
+
+
+
+
+              .   .   .
+
+
+              that   the   Catalan
+
+
+              m u n i c i p a l i t y
+
+
+                   o f
+
+
+         Alcanar  is
+
+
+    officially  stated  as
+
+
+              being   founded   in
+
+
+                   1252, despite having
+
+
+              a
+
+
+         c   h   a   r   t   e   r
+
+
+         s i g n e d
+
+
+              i   n
+
+
+              1   2   3   9   ?
+
+
+         o r
+
+
+              . . . t h a t
+
+
+    the German physicist
+
+
+    Otto  Laporte
+
+
+              d   i   s   c   o   v   e   r   e   d
+
+
+    what   is   known
+
+
+         in   spectroscopy   as
+
+
+    t   h   e
+
+
+              L  a  p  o  r  t  e
+
+
+              r   u   l   e   ?
+
+
+         a  n  d
+
+
+                   ...that according
+
+
+    t  o
+
+
+    Believe  It
+
+
+                   o r
+
+
+                   N  o  t  F  l  o  r  i  a  n
+
+
+    Z  a  B  a  c  h
+
+
+    played  "The  Flight
+
+
+              o f
+
+
+         the Bumblebee" faster
+
+
+              than any known
+
+
+                   v  i  o  l  i  n  i  s  t  ?
+
+
+
+
+                   ...that   while   James
+
+
+    Howard   was
+
+
+    Mayor of
+
+
+                   Bedford   in   1864,
+
+
+                   he  entertained  Giuseppe
+
+
+    Garibaldi, who planted
+
+
+              a  Giant
+
+
+                   S   e   q   u   o   i   a
+
+
+              that  was  later
+
+
+              s   t   r   u   c   k
+
+
+    b y
+
+
+         l i g h t n i n g ?
+
+
+              o r
+
+
+                   .   .   .
+
+
+    t h a t
+
+
+                   the  Royal  Air
+
+
+              F   o   r   c   e
+
+
+              designed the
+
+
+    rotabuggy   as
+
+
+    a
+
+
+    c  o  m  b  i  n  a  t  i  o  n
+
+
+    a u t o g y r o / j e e p ?
+
+
+                   a n d
+
+
+    ...  that  self-taught
+
+
+                   Swedish  American
+
+
+                   artist  Henry
+
+
+    Reuterdahl   (pictured)   was
+
+
+              also  an
+
+
+              e   d   i   t   o   r
+
+
+                   of   Jane's   Fighting
+
+
+    S  h  i  p  s  ?
+
+
+
+
+    . . . t h a t
+
+
+         the  Center
+
+
+              R   e   g   i   o   n
+
+
+              of Argentina
+
+
+    p  r  o  d  u  c  e  s
+
+
+                   9   0   %
+
+
+                   of   the   country's
+
+
+              v   e   g   e   t   a   b   l   e
+
+
+                   o   i   l   ?
+
+
+              o r
+
+
+                   ...that   Mrs
+
+
+                   Sherwood's   evangelical
+
+
+         story   The   History
+
+
+    o f
+
+
+                   Little   Henry   and
+
+
+         h i s
+
+
+                   Bearer   was   in
+
+
+         print   for
+
+
+              70   years   after
+
+
+              its   publication   in
+
+
+              1 8 1 4
+
+
+    and  was  translated
+
+
+    i   n   t   o
+
+
+                   e i g h t
+
+
+              l a n g u a g e s ?
+
+
+              a  n  d
+
+
+         ...that  Emily
+
+
+                   Dolvin   was   the
+
+
+    first   president
+
+
+    of  the
+
+
+              R  o  s  w  e  l  l
+
+
+    H   i   s   t   o   r   i   c   a   l
+
+
+                   S  o  c  i  e  t  y  ?
+
+
+
+
+         o  r
+
+
+    ...that  softball  pitcher
+
+
+                   Vicki   Morrow
+
+
+              was  named
+
+
+    B i g
+
+
+    Ten   Player   of
+
+
+         the Year
+
+
+         in   1987
+
+
+         after   winning   26
+
+
+              games,  including
+
+
+              18  shutouts,
+
+
+              a   n   d
+
+
+    striking  out
+
+
+                   4 4 6
+
+
+    b a t t e r s ?
+
+
+    a   n   d
+
+
+              ...that   the   blind
+
+
+         cave beetle
+
+
+              Anophthalmus   hitleri
+
+
+              is threatened
+
+
+                   by  poaching
+
+
+                   d  u  e
+
+
+                   to its curious
+
+
+    name,  which
+
+
+    is   a   dedication
+
+
+    to   Adolf
+
+
+    H  i  t  l  e  r  ?
+
+
+
+
+         .  .  .  t  h  a  t
+
+
+         of   36
+
+
+    merchant   vessels   that
+
+
+                   s  e  t
+
+
+              o   u   t
+
+
+    in   June
+
+
+              1 9 4 2
+
+
+              as part of
+
+
+         Britain's  disastrous
+
+
+                   Convoy  PQ-17,  27
+
+
+         n e v e r
+
+
+    returned  including  SS
+
+
+              P  a  n
+
+
+              K  r  a  f  t  ?
+
+
+              o   r
+
+
+    ...that former Manitoba
+
+
+                   MLA John
+
+
+                   Moore Robinson established
+
+
+                   t  h  e
+
+
+         soft   fruit   industry
+
+
+              in   British   Columbia's
+
+
+                   Okanagan Valley
+
+
+    i  n
+
+
+              the   late   1800s,
+
+
+                   along with
+
+
+         t  h  e
+
+
+                   region's   first   corporate
+
+
+         w a t e r
+
+
+                   m   a   n   a   g   e   m   e   n   t
+
+
+         system   to   irrigate
+
+
+              i   t   ?
+
+
+              a   n   d
+
+
+    ... that Joseph
+
+
+                   H   u   g   h
+
+
+                   Allen was a
+
+
+    member of the
+
+
+              so-called   reform
+
+
+              "Dirty  30"  of
+
+
+         the  Texas
+
+
+                   House   of   Representatives
+
+
+         who   pushed
+
+
+    for   ethics   legislation
+
+
+    i   n
+
+
+    l  i  g  h  t
+
+
+                   of the Sharpstown
+
+
+    b a n k i n g
+
+
+         s   c   a   n   d   a   l   ?
+
+
+
+
+                   ... that film
+
+
+    d  i  r  e  c  t  o  r
+
+
+              and  griot  Dani
+
+
+         Kouyat√©   (pictured)   is
+
+
+    t h e
+
+
+                   son  of
+
+
+         one of
+
+
+    t h e
+
+
+    f   i   r   s   t
+
+
+                   B   u   r   k   i   n   a   b   √   ©
+
+
+                   a  c  t  o  r  s  ,
+
+
+         S  o  t  i  g  u  i
+
+
+                   K  o  u  y  a  t  √  ©  ?
+
+
+    o r
+
+
+    ...  that  on
+
+
+    Jackie  Robinson  Day
+
+
+    o  f
+
+
+                   2007,   more   than
+
+
+         200  baseball  players
+
+
+                   wore number 42
+
+
+                   i  n
+
+
+              honor of the
+
+
+              60th   anniversary
+
+
+              of Jackie
+
+
+         Robinson's (pictured) major
+
+
+              l  e  a  g  u  e
+
+
+              d   e   b   u   t   ?
+
+
+         a n d
+
+
+              ...that   German   artist
+
+
+                   Johnny  Friedlaender,  after
+
+
+         s  u  r  v  i  v  i  n  g
+
+
+         internment in
+
+
+    Nazi concentration camps,
+
+
+                   t   a   u   g   h   t
+
+
+              Carcan  and
+
+
+    Boulanger   and   continued
+
+
+                   his   own
+
+
+    career to gain
+
+
+         i   n   t   e   r   n   a   t   i   o   n   a   l
+
+
+         r   e   c   o   g   n   i   t   i   o   n   ?
+
+
+
+
+         o r
+
+
+                   ...that  Irfan
+
+
+              Pathan,  the
+
+
+              only   bowler   to
+
+
+                   take a
+
+
+         Test hat-trick in
+
+
+         t  h  e
+
+
+         first over of
+
+
+                   a   match,   grew
+
+
+    up  playing
+
+
+              cricket inside a
+
+
+    Baroda  mosque
+
+
+              w   h   e   r   e
+
+
+                   h i s
+
+
+    father   was   the
+
+
+              m u e z z i n ,
+
+
+                   a   n   d
+
+
+    could   not   afford
+
+
+    equipment   until
+
+
+         his  domestic
+
+
+    team furnished it,
+
+
+         a  t
+
+
+         a  g  e
+
+
+    1   5   ?
+
+
+              a n d
+
+
+                   ...   that
+
+
+                   V  r  a  v  ,
+
+
+         a  village
+
+
+              i  n
+
+
+                   the   northwest
+
+
+              of   Bulgaria,   is
+
+
+              inhabited   by
+
+
+    "   w   e   t
+
+
+    V   l   a   c   h   s   "   ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+                   Sans  Pareil  (pictured),
+
+
+         o   n   e
+
+
+              o f
+
+
+                   f  i  v  e
+
+
+                   locomotives to
+
+
+         c   o   m   p   e   t   e
+
+
+         i  n
+
+
+              the   1829   Rainhill
+
+
+                   Trials, was later
+
+
+         u   s   e   d
+
+
+                   on   the   Bolton
+
+
+              a n d
+
+
+                   L e i g h
+
+
+         R a i l w a y ?
+
+
+    o   r
+
+
+         .   .   .   t   h   a   t
+
+
+              Credonia  Mwerinde  founded
+
+
+              t h e
+
+
+                   d o o m s d a y
+
+
+         cult,  the
+
+
+    M   o   v   e   m   e   n   t
+
+
+    f o r
+
+
+    t   h   e
+
+
+              Restoration of
+
+
+                   the   Ten   Commandments
+
+
+    o  f
+
+
+         God,   with
+
+
+                   J o s e p h
+
+
+         K   i   b   w   e   t   e   e   r   e   ?
+
+
+         a n d
+
+
+                   .   .   .
+
+
+              that Australian politician
+
+
+    Greg  Pearce  was
+
+
+                   a director of
+
+
+    C  l  e  a  n
+
+
+              Up   the
+
+
+              W  o  r  l  d  ?
+
+
+
+
+                   . . .
+
+
+                   that Loyal B.
+
+
+         Stearns  served
+
+
+    in the Oregon
+
+
+    House of
+
+
+    Representatives   after   his
+
+
+                   father served
+
+
+                   there,  but  before
+
+
+              h   i   s
+
+
+              father  served
+
+
+                   in  the
+
+
+         Oregon  State
+
+
+         S  e  n  a  t  e  ?
+
+
+    o r
+
+
+                   .  .  .  t  h  a  t
+
+
+                   the Norwegian politician
+
+
+    K√•re Kristiansen,
+
+
+              a   former   minister
+
+
+    a n d
+
+
+    chairman of
+
+
+         the Christian
+
+
+         P e o p l e ' s
+
+
+         P  a  r  t  y  ,
+
+
+              resigned  from  the
+
+
+    Norwegian Nobel
+
+
+                   C   o   m   m   i   t   t   e   e
+
+
+    in protest
+
+
+    over   the
+
+
+              award  of  the
+
+
+         Nobel   Peace   Prize
+
+
+                   t   o
+
+
+         Y a s s e r
+
+
+                   A  r  a  f  a  t  ?
+
+
+                   a n d
+
+
+              .  .  .  t  h  a  t
+
+
+                   children who turn
+
+
+                   1 6
+
+
+         during  the  validity
+
+
+              of  a
+
+
+    Family Railcard may
+
+
+                   still  travel  at
+
+
+              child   fares   until
+
+
+                   t h e
+
+
+         c  a  r  d
+
+
+                   e   x   p   i   r   e   s   ?
+
+
+
+
+    . . .
+
+
+              t   h   a   t
+
+
+    t   h   e
+
+
+    W o r l d
+
+
+                   War I diaries
+
+
+         T o m m y ' s
+
+
+                   W a r
+
+
+         o  n  l  y
+
+
+         came  to  be
+
+
+                   published  after  an
+
+
+    a   p   p   e   a   r   a   n   c   e
+
+
+              on the TV
+
+
+                   p   r   o   g   r   a   m   m   e
+
+
+              A  n  t  i  q  u  e  s
+
+
+                   R o a d s h o w ?
+
+
+              o r
+
+
+    ... that the
+
+
+                   fishing industry in
+
+
+                   the  United
+
+
+    States   operates   the
+
+
+    l  a  r  g  e  s  t
+
+
+         exclusive economic zone
+
+
+    i  n
+
+
+                   t  h  e
+
+
+              w   o   r   l   d   ?
+
+
+         a n d
+
+
+              ...  that
+
+
+         t  h  e
+
+
+                   career of
+
+
+         Tang   Dynasty   official
+
+
+              Zhao  Jing
+
+
+         w   a   s
+
+
+         launched after
+
+
+    he   was
+
+
+              praised   for
+
+
+         his petition
+
+
+         f   o   r
+
+
+    frugality   in
+
+
+              the  funerals  of
+
+
+              Emperors  Xuanzong
+
+
+         a  n  d
+
+
+                   S  u  z  o  n  g  ?
+
+
+
+
+         ...that  rayon  fibers
+
+
+              used to make
+
+
+                   c  l  o  t  h  e  s
+
+
+    come  from
+
+
+         trees  pulped  using
+
+
+    t  h  e
+
+
+                   s   u   l   f   i   t   e
+
+
+    p r o c e s s ?
+
+
+         o r
+
+
+    ...that   the   Tang
+
+
+              Dynasty chancellor Cui
+
+
+              S   h   i
+
+
+              was  believed
+
+
+                   t o
+
+
+                   rose  to  power
+
+
+    through affairs
+
+
+         with Shangguan Wan'er
+
+
+         and  Princess
+
+
+         T a i p i n g ?
+
+
+    a   n   d
+
+
+         ...that Fort
+
+
+              Pepperrell,   built   for
+
+
+         the   U.S.   Army
+
+
+    i   n
+
+
+    C   a   n   a   d   a   ,
+
+
+              w  a  s
+
+
+    done   in   the
+
+
+         s  h  a  p  e
+
+
+                   of   a
+
+
+         cowboy hat and
+
+
+         t h e
+
+
+              streets  named  in
+
+
+                   h  o  n  o  u  r
+
+
+                   o   f
+
+
+              t  h  e
+
+
+         A  t  l  a  n  t  i  c
+
+
+              C  h  a  r  t  e  r  ?
+
+
+
+
+              .  .  .  t  h  a  t
+
+
+                   U  n  i  v  e  r  s  i  t  y
+
+
+              of Oregon
+
+
+              athletic  director  Leo
+
+
+         Harris  gained
+
+
+                   t  h  e
+
+
+         r i g h t
+
+
+         to use
+
+
+              Donald Duck
+
+
+    a   s
+
+
+              t   h   e
+
+
+                   school's  mascot
+
+
+    through an informal
+
+
+         h  a  n  d  s  h  a  k  e
+
+
+    deal he made
+
+
+                   with   Walt
+
+
+                   D   i   s   n   e   y
+
+
+                   i  n
+
+
+    1 9 4 7 ?
+
+
+                   o  r
+
+
+         ...that  in  2007,
+
+
+         Arlene Holt
+
+
+         Baker  became
+
+
+              t   h   e
+
+
+                   first   African
+
+
+              American  AFL-CIO
+
+
+              o f f i c e r ?
+
+
+    a n d
+
+
+                   ... that Polish
+
+
+         w  r  i  t  e  r
+
+
+         F   r   a   n   c   i   s   z   e   k
+
+
+              Karpi≈Ñski   is   best
+
+
+         r e m e m b e r e d
+
+
+                   through his
+
+
+    hymns   and
+
+
+              c a r o l s ?
+
+
+
+
+    ...that  Professor  J√≥zef
+
+
+         ≈Åukaszewicz took part
+
+
+                   in  a
+
+
+    failed attempt to
+
+
+              assassinate Tsar Alexander
+
+
+         I I I
+
+
+         o  f
+
+
+    R   u   s   s   i   a   ?
+
+
+                   o r
+
+
+                   ...   that
+
+
+              horseshoeing was among
+
+
+              the  courses
+
+
+         t  a  u  g  h  t
+
+
+    a  t
+
+
+              the Masonic
+
+
+    U  n  i  v  e  r  s  i  t  y  ?
+
+
+                   a n d
+
+
+                   ...that   most   land
+
+
+         s   o   u   t   h
+
+
+         of   latitude   40¬∞S
+
+
+    is part of
+
+
+              the  Antarctic  Floristic
+
+
+                   Kingdom, with
+
+
+         p l a n t
+
+
+              species  that  remain
+
+
+    closely   related   despite
+
+
+              t  h  e  i  r
+
+
+         physical   separation,
+
+
+    dating   back
+
+
+         to the
+
+
+                   prehistoric southern
+
+
+         hemisphere  supercontinent
+
+
+              o f
+
+
+                   G  o  n  d  w  a  n  a  ?
+
+
+
+
+    .  .  .  t  h  a  t
+
+
+         O s c a r
+
+
+              the Cat
+
+
+              was   featured   in
+
+
+    the   New   England
+
+
+              Journal of Medicine
+
+
+              for   his
+
+
+    purported ability to
+
+
+              predict the impending
+
+
+                   d  e  a  t  h
+
+
+         of the
+
+
+              t e r m i n a l l y
+
+
+              i   l   l   ?
+
+
+    o   r
+
+
+    ...that Dr.
+
+
+              E  d  w  a  r  d
+
+
+              S m i t h
+
+
+                   s   h   o   w   e   d
+
+
+              t   h   a   t
+
+
+              muscles  did  not
+
+
+                   get   their
+
+
+    e   n   e   r   g   y
+
+
+                   from proteins but
+
+
+    f   r   o   m
+
+
+              fats  and
+
+
+    c   a   r   b   o   h   y   d   r   a   t   e   s   ?
+
+
+                   a   n   d
+
+
+         .   .   .   t   h   a   t
+
+
+         t  h  e
+
+
+                   Cumberland  Valley
+
+
+         Railroad   ran
+
+
+    i  t  s
+
+
+              first   trains
+
+
+              in  1837  on
+
+
+              oak  stringers
+
+
+                   in  place
+
+
+                   of  iron  rails,
+
+
+         and   that   in
+
+
+         1   8   3   9
+
+
+              i t
+
+
+    ran   the
+
+
+                   first sleeping cars
+
+
+                   i n
+
+
+    A m e r i c a ?
+
+
+
+
+         ... that the
+
+
+    t   o   w   n
+
+
+              of  Kalisz  was
+
+
+              almost completely
+
+
+    destroyed  during  WWI
+
+
+    by  German  forces
+
+
+    pursuing   the   Schrecklichkeit
+
+
+              p o l i c y ?
+
+
+    o  r
+
+
+              ...   that   the
+
+
+              V  i  r  g  i  n  i  a
+
+
+    Board   of   Censors
+
+
+                   f o u n d
+
+
+              t h e
+
+
+    1927   race
+
+
+                   film  The  House
+
+
+    Behind the
+
+
+              C   e   d   a   r   s
+
+
+    " s o
+
+
+    objectionable,  in
+
+
+         f  a  c  t  ,
+
+
+    as  to  necessitate
+
+
+         i   t   s
+
+
+              t  o  t  a  l
+
+
+    r  e  j  e  c  t  i  o  n  "  ?
+
+
+         a  n  d
+
+
+    ...that the
+
+
+              first  plate  of
+
+
+         William  Hogarth's
+
+
+    The Four Stages
+
+
+                   of Cruelty
+
+
+                   features  a
+
+
+         b  o  y
+
+
+    s   u   p   p   o   s   e   d
+
+
+              to be
+
+
+              a
+
+
+                   young   George
+
+
+                   I  I  I  ?
+
+
+
+
+                   ...  that
+
+
+    William   C.
+
+
+    G r i m e s ,
+
+
+                   w   h   o
+
+
+         s   e   r   v   e   d
+
+
+         a  s
+
+
+         A   c   t   i   n   g
+
+
+    G  o  v  e  r  n  o  r
+
+
+         o  f
+
+
+              O k l a h o m a
+
+
+    T  e  r  r  i  t  o  r  y
+
+
+                   f  o  r
+
+
+         ten  days,
+
+
+                   helped to establish
+
+
+         K i n g f i s h e r
+
+
+    C   o   l   l   e   g   e   ?
+
+
+         o  r
+
+
+         ...that   the   Royal
+
+
+                   Navy  destroyer
+
+
+                   HMS  Quail  (pictured)
+
+
+         was  mined  in
+
+
+                   November 1943, but
+
+
+                   did not sink
+
+
+    u n t i l
+
+
+              M a y
+
+
+         1 9 4 4 ?
+
+
+              a   n   d
+
+
+    .   .   .   t   h   a   t
+
+
+              t  h  e
+
+
+              writer  and
+
+
+                   spinster   Lady   Louisa
+
+
+    Stuart   (pictured)   wrote
+
+
+              a   ballad
+
+
+              about   cannibal   brothers
+
+
+    and   the
+
+
+         f  a  t  e
+
+
+    o f
+
+
+    a woman
+
+
+         who married
+
+
+                   f   o   r
+
+
+         m o n e y ?
+
+
+
+
+                   ...   that
+
+
+         the  "Red  Tower"
+
+
+    of  the
+
+
+         Hackensack Water
+
+
+                   Company Complex completed
+
+
+    in   1883   in
+
+
+    W   e   e   h   a   w   k   e   n   ,
+
+
+    New   Jersey,
+
+
+                   c o m b i n e d
+
+
+    o  f  f  i  c  e  s
+
+
+              a  n  d
+
+
+                   a  165,000-gallon
+
+
+              water   tank
+
+
+              in   a
+
+
+    s i n g l e
+
+
+              1  7  5  -  f  o  o  t  -  h  i  g  h
+
+
+         s   t   r   u   c   t   u   r   e   ?
+
+
+                   o r
+
+
+         .   .   .   t   h   a   t
+
+
+    Yoshiaki   Yamashita,   a
+
+
+              pioneer of judo
+
+
+    in   the
+
+
+              U n i t e d
+
+
+         States,   was   the
+
+
+    first person to
+
+
+         have  been
+
+
+                   awarded   10-dan
+
+
+              g   r   a   d   i   n   g
+
+
+         i n
+
+
+         K o d o k a n
+
+
+    j   u   d   o   ?
+
+
+              a  n  d
+
+
+    ...that  Josef  Smrkovsk√Ω
+
+
+              b  o  a  s  t  e  d
+
+
+                   he had kept
+
+
+         American  units
+
+
+                   away from
+
+
+         P r a g u e
+
+
+              in  1945,
+
+
+                   allowing  the
+
+
+         liberation   of   the
+
+
+         city  by  the
+
+
+    Red Army,
+
+
+         and   then
+
+
+         in   1968   he
+
+
+         and  Dubƒçek  became
+
+
+                   the most popular
+
+
+    p o l i t i c i a n s
+
+
+                   of the
+
+
+                   P  r  a  g  u  e
+
+
+                   S p r i n g ?
+
+
+
+
+              ...that   the   Capitoline
+
+
+         Games  of
+
+
+              Ancient  Rome  became
+
+
+    so   popular   that
+
+
+              t  h  e
+
+
+                   R  o  m  a  n  s
+
+
+    counted   periods
+
+
+              o   f
+
+
+                   time   by   them,
+
+
+              r a t h e r
+
+
+              t  h  a  n
+
+
+         their previous unit
+
+
+                   o  f
+
+
+                   l u s t r u m ?
+
+
+                   o r
+
+
+              ...that the
+
+
+         H e a r t h s t o n e
+
+
+    H  o  u  s  e
+
+
+    (pictured)   became   the
+
+
+    first residence in
+
+
+              the  world
+
+
+              to   be
+
+
+              lit  by  a
+
+
+              centrally   located   hydroelectric
+
+
+         station   using
+
+
+              t h e
+
+
+    E d i s o n
+
+
+                   s y s t e m ?
+
+
+         a n d
+
+
+                   ...that the Ampulex
+
+
+              wasp  can
+
+
+                   disable a
+
+
+         cockroach's   escape   reflex,
+
+
+                   and use
+
+
+              the roach
+
+
+                   to   feed
+
+
+         i t s
+
+
+              l  a  r  v  a  ?
+
+
+
+
+         . . . t h a t
+
+
+         John   Honeyman   was
+
+
+    a   spy   who
+
+
+    worked for
+
+
+         George   Washington   and
+
+
+    who   provided   intelligence
+
+
+         c r u c i a l
+
+
+         t  o
+
+
+              the  success  of
+
+
+              Washington's   foray
+
+
+    a   g   a   i   n   s   t
+
+
+                   the   Hessian
+
+
+    t   r   o   o   p   s
+
+
+         at  Trenton,  New
+
+
+         Jersey  on
+
+
+              D e c e m b e r
+
+
+                   2  6  ,
+
+
+              1 7 7 6 ?
+
+
+         o   r
+
+
+         ... that
+
+
+                   professional   wrestler   Stan
+
+
+    F  r  a  z  i  e  r
+
+
+         was  also
+
+
+         known for
+
+
+         selling   fake
+
+
+         R   o   l   e   x
+
+
+              w  a  t  c  h  e  s  ?
+
+
+                   a   n   d
+
+
+                   . . . t h a t
+
+
+                   B r i t i s h
+
+
+              barrister  Sir
+
+
+                   Tony   Hetherington   was
+
+
+                   the first
+
+
+                   h  e  a  d
+
+
+              o   f
+
+
+                   t   h   e
+
+
+                   Crown   Prosecution   Service
+
+
+    after  it  was
+
+
+         founded in
+
+
+              1  9  8  6  ?
+
+
+
+
+    ...that  the
+
+
+         Poplar   Tree
+
+
+    Elementary School building
+
+
+    was   damaged   by
+
+
+         boulders from blasting
+
+
+         works during
+
+
+                   its  construction,  and
+
+
+                   it  initially  had
+
+
+         n o
+
+
+              p   l   a   y   g   r   o   u   n   d   ?
+
+
+              o  r
+
+
+              ...that The Unicorn
+
+
+                   a n d
+
+
+         the   Wasp
+
+
+    will be the
+
+
+                   first comedic
+
+
+         episode in the
+
+
+                   science fiction television
+
+
+         series   Doctor   Who
+
+
+    s  i  n  c  e
+
+
+                   the   1966
+
+
+         s   e   r   i   a   l
+
+
+              T   h   e
+
+
+              G  u  n  f  i  g  h  t  e  r  s  ?
+
+
+                   a n d
+
+
+
+
+              ...that   scientists
+
+
+         are   testing
+
+
+                   Einstein's theory of
+
+
+              general  relativity
+
+
+         with   Gravity   Probe
+
+
+              B, an artificial
+
+
+                   s  a  t  e  l  l  i  t  e  ?
+
+
+                   o  r
+
+
+         . . . t h a t
+
+
+                   the residents of
+
+
+                   Basanti   and   other
+
+
+         deltaic islands
+
+
+         in  the
+
+
+         Indian  part
+
+
+    o   f
+
+
+    the Sundarbans
+
+
+    thanked  the
+
+
+    French  author  Dominique
+
+
+                   L   a   p   i   e   r   r   e
+
+
+              for   the
+
+
+         floating dispensaries
+
+
+    h  e
+
+
+                   h  a  d
+
+
+         p r o v i d e d ?
+
+
+              a n d
+
+
+                   .   .   .   t   h   a   t
+
+
+    t h e
+
+
+         U   .   S   .
+
+
+         S  u  p  r  e  m  e
+
+
+              Court  case
+
+
+    Radovich   v.   National
+
+
+    Football League,
+
+
+         which   held   professional
+
+
+    f  o  o  t  b  a  l  l
+
+
+         subject  to
+
+
+    antitrust   law,   began
+
+
+    with   a
+
+
+                   brief  drafted
+
+
+              on  the
+
+
+         back  of
+
+
+              a
+
+
+              n  a  p  k  i  n  ?
+
+
+
+
+         .   .   .   t   h   a   t
+
+
+                   sanitary  sewer
+
+
+    overflow  is  a
+
+
+         common  condition,  mostly
+
+
+    associated   with
+
+
+              h  e  a  v  y
+
+
+              rainfall, leading to
+
+
+    d  i  s  c  h  a  r  g  e
+
+
+    o   f
+
+
+              billions   of   gallons
+
+
+                   of  raw
+
+
+         s e w a g e
+
+
+              to the environment
+
+
+         e   a   c   h
+
+
+         y e a r ?
+
+
+                   o  r
+
+
+              . . . t h a t
+
+
+              P  h  a  m
+
+
+              N   g   o   c
+
+
+         Thao, one
+
+
+              o f
+
+
+                   t h e
+
+
+    key   figures   in
+
+
+                   S   o   u   t   h
+
+
+                   Vietnam's   Strategic   Hamlet
+
+
+                   P   r   o   g   r   a   m   ,
+
+
+         w   a   s
+
+
+                   a   communist
+
+
+    a g e n t
+
+
+    who deliberately
+
+
+                   m   i   s   m   a   n   a   g   e   d
+
+
+    it to
+
+
+         s t i m u l a t e
+
+
+         p o p u l a r
+
+
+                   d i s s e n t ?
+
+
+                   a   n   d
+
+
+                   ...that   Sarat   Chandra
+
+
+         B   o   s   e   ,
+
+
+                   t  h  e
+
+
+                   brother   of   Subhash
+
+
+         Chandra Bose
+
+
+                   attempted  to  obtain
+
+
+    i  n  d  e  p  e  n  d  e  n  c  e
+
+
+         f o r
+
+
+                   a united
+
+
+              B   e   n   g   a   l
+
+
+    w i t h
+
+
+         Muslim  leader  Huseyn
+
+
+                   Shaheed Suhrawardy
+
+
+              i n
+
+
+         1   9   4   7   ?
+
+
+
+
+         ...that   the
+
+
+                   Classic  Veracruz
+
+
+              culture   of
+
+
+              pre-Columbian   Mexico   was
+
+
+         obsessed with human
+
+
+    s  a  c  r  i  f  i  c  e
+
+
+    as part
+
+
+                   of  the
+
+
+                   M   e   s   o   a   m   e   r   i   c   a   n
+
+
+                   b  a  l  l  g  a  m  e  ?
+
+
+                   o  r
+
+
+              ...that Thomas Cole
+
+
+                   painted   The   Oxbow
+
+
+         (pictured)  in  1836
+
+
+         after   taking   a
+
+
+    b  r  e  a  k
+
+
+    from working on
+
+
+    his  famous  series
+
+
+              of  paintings  The
+
+
+         C  o  u  r  s  e
+
+
+              o f
+
+
+                   E  m  p  i  r  e  ?
+
+
+         a   n   d
+
+
+         ...that   a   dichroic
+
+
+                   prism   splits   light
+
+
+    i   n   t   o
+
+
+              t  w  o
+
+
+                   b e a m s
+
+
+                   o f
+
+
+                   d i f f e r e n t
+
+
+              c  o  l  o  r  ,
+
+
+              o  r
+
+
+         w  a  v  e  l  e  n  g  t  h  s  ?
+
+
+
+
+                   ...   that   Union
+
+
+         A  r  m  y
+
+
+                   officer Frank
+
+
+    A. Haskell‚Äôs
+
+
+                   account  of  the
+
+
+    Battle   of   Gettysburg
+
+
+              was   hailed
+
+
+    by historian Bruce
+
+
+              Catton   as
+
+
+    "one   of   the
+
+
+         genuine classics of
+
+
+                   Civil  War
+
+
+    l  i  t  e  r  a  t  u  r  e  "  ?
+
+
+         o  r
+
+
+    .  .  .
+
+
+                   t  h  a  t
+
+
+              Fred   L.
+
+
+         Schiele,  who  managed
+
+
+         Edwin   Edwards'
+
+
+    Concordia  Parish  gubernatorial
+
+
+              c   a   m   p   a   i   g   n
+
+
+         in 1971‚Äì1972,
+
+
+              was  appointed  by
+
+
+    Edwards   in
+
+
+    1973 as
+
+
+              the  parish  sheriff
+
+
+              to succeed
+
+
+    t   h   e
+
+
+              scandal-plagued  Noah
+
+
+         W .
+
+
+                   C   r   o   s   s   ?
+
+
+         a   n   d
+
+
+         .  .  .  t  h  a  t
+
+
+                   Frances  has  tied
+
+
+              A r l e n e
+
+
+         (at  eight
+
+
+    t  i  m  e  s  )
+
+
+         as   the   most-used
+
+
+    name for
+
+
+                   tropical  cyclones
+
+
+    in  the  Atlantic
+
+
+                   O   c   e   a   n   ?
+
+
+
+
+    ... that Walter
+
+
+              E m d e n
+
+
+    designed  London  theatres
+
+
+              a   n   d
+
+
+              music   halls
+
+
+         in the late
+
+
+    19th   century,   including
+
+
+                   the Palace Theatre,
+
+
+              the  Duke  of
+
+
+                   Y o r k ' s ,
+
+
+    the  Garrick  and
+
+
+              the Royal
+
+
+              C o u r t ?
+
+
+    o r
+
+
+              ...   that   Hal
+
+
+              Fryar  received
+
+
+    a   number   of
+
+
+    complaints  from
+
+
+              English teachers because
+
+
+    h   e
+
+
+         appeared  in  a
+
+
+    f   i   l   m
+
+
+         with the grammatically
+
+
+    incorrect  title  The
+
+
+                   O   u   t   l   a   w   s
+
+
+                   I   s
+
+
+         C o m i n g ?
+
+
+                   a  n  d
+
+
+    .  .  .
+
+
+         t h a t
+
+
+              socialite Hazel Crane's
+
+
+                   p   o   s   t   h   u   m   o   u   s
+
+
+         memoirs   revealed
+
+
+    her  secret  criminal
+
+
+                   career,   including   smuggling
+
+
+    e  m  e  r  a  l  d  s
+
+
+                   o   u   t
+
+
+         o f
+
+
+    South   Africa
+
+
+         i   n
+
+
+              her   beehive
+
+
+              h  a  i  r  d  o
+
+
+                   a n d
+
+
+                   h   e   r
+
+
+         b   a   b   y   '   s
+
+
+    n   a   p   p   y   ?
+
+
+
+
+         . . .
+
+
+    t  h  a  t
+
+
+              in   1636,   Phineas
+
+
+                   Hodson,  Chancellor  of
+
+
+              York Minster, lost
+
+
+                   h  i  s
+
+
+         38-year-old   wife   Jane
+
+
+    during   the
+
+
+    birth   of
+
+
+              the   couple's   24th
+
+
+    c h i l d ?
+
+
+         o   r
+
+
+    ...that  the  Swedish
+
+
+         m   i   l   i   t   a   r   y
+
+
+                   medal F√∂r tapperhet
+
+
+    i f√§lt,
+
+
+         a w a r d e d
+
+
+         for  valor
+
+
+              i   n
+
+
+    the field, was
+
+
+    last  received
+
+
+              by   a
+
+
+    Swedish gendarme serving
+
+
+    in Persia
+
+
+                   i   n
+
+
+         1   9   1   5   ?
+
+
+                   a   n   d
+
+
+                   ...that Polish bishop
+
+
+              J√≥zef   Andrzej   Za≈Çuski,
+
+
+         founded  Za≈Çuski
+
+
+         Library, one of
+
+
+    the   largest   18th
+
+
+         century European
+
+
+    l   i   b   r   a   r   i   e   s   ?
+
+
+
+
+                   ... that Edward
+
+
+    D   .
+
+
+                   H a m i l t o n
+
+
+              was  appointed
+
+
+                   as the Secretary
+
+
+              of  the  Oregon
+
+
+    Territory   after   later
+
+
+         U.S.  President  Abraham
+
+
+                   L   i   n   c   o   l   n
+
+
+    declined the
+
+
+              p  o  s  i  t  i  o  n  ?
+
+
+    o r
+
+
+         ... that the
+
+
+         1945  loss  of
+
+
+              German   U-boat   U-864
+
+
+         during  Operation
+
+
+    C a e s a r ,
+
+
+                   a
+
+
+         secret  mission  to
+
+
+                   d e l i v e r
+
+
+    t e c h n o l o g y
+
+
+    to Japan,
+
+
+         is  the  only
+
+
+              known incident
+
+
+    of   one   submerged
+
+
+                   s u b m a r i n e
+
+
+              s  i  n  k  i  n  g
+
+
+    a  n  o  t  h  e  r  ?
+
+
+         a   n   d
+
+
+         ...   that   Harlan
+
+
+                   K r e d i t
+
+
+                   ( p i c t u r e d )
+
+
+              was   the
+
+
+                   first   teacher   from
+
+
+              t h e
+
+
+         U  .  S  .
+
+
+                   s t a t e
+
+
+                   of Washington to
+
+
+                   be   inducted   into
+
+
+                   the  National
+
+
+         T e a c h e r s
+
+
+                   H  a  l  l
+
+
+                   o f
+
+
+    F a m e ?
+
+
+
+
+    ...that  Marcin  Dunin,
+
+
+         p r i m a t e
+
+
+    o   f
+
+
+              P   o   l   a   n   d   ,
+
+
+         was   once
+
+
+              interned   and   arrested
+
+
+              by the Prussian
+
+
+         a u t h o r i t i e s ?
+
+
+         o   r
+
+
+              ...that  Nenets
+
+
+              painter   Konstantin
+
+
+              Pankov   had
+
+
+              never   seen   a
+
+
+    painting  before
+
+
+         he   began   painting
+
+
+         landscapes  of  the
+
+
+    F  a  r
+
+
+    N o r t h ?
+
+
+         a   n   d
+
+
+         ...that  the  dog
+
+
+              c a l l e d
+
+
+    the  Miniature
+
+
+         Fox  Terrier  (or
+
+
+    Mini  Foxie)  originated
+
+
+              i n
+
+
+         A  u  s  t  r  a  l  i  a  ?
+
+
+
+
+    . . .
+
+
+    that as
+
+
+         a
+
+
+                   publicity   stunt,   Indy
+
+
+    5 0 0
+
+
+         d r i v e r
+
+
+              Harry Hartz
+
+
+    d r o v e
+
+
+              a
+
+
+                   car  backwards  across
+
+
+    t  h  e
+
+
+              U n i t e d
+
+
+    S t a t e s ?
+
+
+              o   r
+
+
+         ...   that
+
+
+                   Charles   Sawyer   Russell
+
+
+                   c   o   m   m   a   n   d   e   d
+
+
+    t h e
+
+
+         28th Regiment
+
+
+         United   States
+
+
+              C   o   l   o   r   e   d
+
+
+                   Troops  in
+
+
+                   the   American
+
+
+              Civil   War,
+
+
+                   which   suffered
+
+
+         nearly  fifty
+
+
+                   p  e  r  c  e  n  t
+
+
+              c   a   s   u   a   l   t   i   e   s
+
+
+              at  the
+
+
+                   B   a   t   t   l   e
+
+
+                   of  the
+
+
+                   C r a t e r ?
+
+
+         a n d
+
+
+         ...that   Nathaniel
+
+
+              Butler   introduced   the
+
+
+    first   potato   grown
+
+
+              b y
+
+
+    E  u  r  o  p  e  a  n  s
+
+
+              in   North
+
+
+                   America  to  Jamestown,
+
+
+                   V   i   r   g   i   n   i   a   ?
+
+
+
+
+    ...  that
+
+
+                   Norwegian   resistance   fighter
+
+
+                   G   r   e   g   e   r   s
+
+
+              G   r   a   m
+
+
+    conducted   several
+
+
+         sabotage   missions   together
+
+
+                   with Max
+
+
+         Manus, before being
+
+
+    killed   in
+
+
+         a n
+
+
+         ambuscade   in
+
+
+         1  9  4  4  ?
+
+
+                   o  r
+
+
+              . . . t h a t
+
+
+    b  e  t  w  e  e  n
+
+
+    1955   and
+
+
+         1998,  under
+
+
+         Article 19
+
+
+              of  the
+
+
+         Greek  Citizenship  Code
+
+
+              which entitled the
+
+
+         G   r   e   e   k
+
+
+    government   to
+
+
+                   strip  non-ethnic
+
+
+         Greeks  who
+
+
+              l  e  f  t
+
+
+    the  country
+
+
+         of  their
+
+
+         citizenship,  46,638
+
+
+                   members   of
+
+
+         the officially recognized
+
+
+                   M  u  s  l  i  m
+
+
+         minority   of   Greece
+
+
+              l  o  s  t
+
+
+    t  h  e  i  r
+
+
+    c  i  t  i  z  e  n  s  h  i  p  ?
+
+
+         a   n   d
+
+
+                   .   .   .
+
+
+              that   when   Teddy
+
+
+         Morgan  led
+
+
+    Wales  in  their
+
+
+    n a t i o n a l
+
+
+    anthem before the
+
+
+                   1905   rugby   union
+
+
+                   match,   it
+
+
+              w a s
+
+
+         t  h  e
+
+
+         first time a
+
+
+              national   anthem   had
+
+
+                   b   e   e   n
+
+
+                   s u n g
+
+
+              before a
+
+
+                   s  p  o  r  t  i  n  g
+
+
+                   e  v  e  n  t  ?
+
+
+
+
+              ...that   the   geology
+
+
+                   of   Gloucestershire
+
+
+              (Garden   Cliff
+
+
+         pictured) is
+
+
+    one  of  the
+
+
+         most  diverse
+
+
+              in England,
+
+
+                   with  rocks
+
+
+    from   the
+
+
+         Precambrian  through
+
+
+                   to the Jurassic
+
+
+              r  e  p  r  e  s  e  n  t  e  d  ?
+
+
+    o  r
+
+
+              .   .   .   t   h   a   t
+
+
+              the  spangenhelm  was
+
+
+                   the most popular
+
+
+              war  helmet  in
+
+
+              Europe  and  the
+
+
+              M i d d l e
+
+
+         East during
+
+
+                   the early
+
+
+         M   i   d   d   l   e
+
+
+                   A   g   e   s   ?
+
+
+    a  n  d
+
+
+         ...that  a
+
+
+    g e n e r a l
+
+
+    contractor  makes
+
+
+                   submittals  which  are
+
+
+                   required by
+
+
+              t h e
+
+
+    architect and engineer
+
+
+         for   verification   that
+
+
+         correct products will
+
+
+         be   installed   in
+
+
+         a  construction
+
+
+              p  r  o  j  e  c  t  ?
+
+
+
+
+    . . .
+
+
+                   that   Yitzhak   Tabenkin,
+
+
+    one  of  the
+
+
+                   founders  of  the
+
+
+         socialist Kibbutz
+
+
+                   M   o   v   e   m   e   n   t   ,
+
+
+              j   o   i   n   e   d
+
+
+         the  Movement  for
+
+
+              Greater  Israel
+
+
+         after   the   Six-Day
+
+
+         W a r ?
+
+
+    o   r
+
+
+                   ...that in
+
+
+         2006  Gibraltar
+
+
+                   was granted
+
+
+              a   new   constitution,
+
+
+    giving   it
+
+
+                   a  modern
+
+
+    c  o  n  s  t  i  t  u  t  i  o  n  a  l
+
+
+         relationship   with   the
+
+
+              U  n  i  t  e  d
+
+
+         K   i   n   g   d   o   m   ?
+
+
+         a n d
+
+
+                   ...that   the   plot
+
+
+              o  f
+
+
+              the  Lost  episode
+
+
+    "The   Economist"   was
+
+
+              compared to
+
+
+              the  Book
+
+
+              o  f
+
+
+              Daniel,  the  TV
+
+
+         series   Alias,
+
+
+         and the film
+
+
+    A s s a s s i n s ?
+
+
+
+
+                   . . .
+
+
+    that  the  "most
+
+
+              generous man
+
+
+         in Liverpool" was
+
+
+                   J o h n
+
+
+                   C   r   o   p   p   e   r   ?
+
+
+         o  r
+
+
+         ...that the Subservient
+
+
+              C   h   i   c   k   e   n
+
+
+                   is a viral
+
+
+                   m a r k e t i n g
+
+
+    p   r   o   m   o   t   i   o   n
+
+
+         b  y
+
+
+         B  u  r  g  e  r
+
+
+                   K  i  n  g  ?
+
+
+         a n d
+
+
+    ...that the eminent
+
+
+                   Russian culinary writer
+
+
+         William  Pokhlebkin
+
+
+              was   in   fact
+
+
+         a
+
+
+              notable expert
+
+
+    in the
+
+
+              h i s t o r y
+
+
+              of   diplomacy,
+
+
+              but also the
+
+
+    author  of  A
+
+
+                   H   i   s   t   o   r   y
+
+
+                   of Vodka,
+
+
+    a   n   d
+
+
+    that his
+
+
+                   n a m e
+
+
+         was  thought  to
+
+
+         be   a
+
+
+         p   e   n
+
+
+         n a m e ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+    t   h   e
+
+
+    Rosie  the
+
+
+                   Riveter/World   War   II
+
+
+         H  o  m  e
+
+
+         Front  National
+
+
+         Historical Park (logo
+
+
+              pictured)   is
+
+
+              the first
+
+
+              national  tribute  to
+
+
+              h o m e
+
+
+                   f  r  o  n  t
+
+
+              A   m   e   r   i   c   a   n
+
+
+                   w   o   m   e   n   ?
+
+
+         o  r
+
+
+    .   .   .   t   h   a   t
+
+
+                   t   h   e
+
+
+                   historical  medical  campus
+
+
+                   M a i d e n ' s
+
+
+                   Field   (clinic
+
+
+    p i c t u r e d )
+
+
+              i  n
+
+
+    M o s c o w
+
+
+    started  as  a
+
+
+              c   o   u   r   t
+
+
+                   g a r d e n
+
+
+         for medicinal
+
+
+                   h   e   r   b   s   ?
+
+
+    a n d
+
+
+                   .  .  .  t  h  a  t
+
+
+              Benedict Arnold
+
+
+    learned  about
+
+
+                   the capture
+
+
+              o  f
+
+
+         h   i   s
+
+
+              fellow-conspirator John
+
+
+         A n d r √ ©
+
+
+                   while living on
+
+
+              Sugarloaf Hill,
+
+
+    f  r  o  m
+
+
+              which  he
+
+
+                   t   h   e   n
+
+
+              f   l   e   d   ?
+
+
+
+
+    . . . t h a t
+
+
+                   t   h   e
+
+
+    southern   terminus
+
+
+                   of   the   first
+
+
+                   s  u  b  u  r  b
+
+
+                   to   suburb
+
+
+    c   o   m   m   u   t   e   r
+
+
+    rail  in  the
+
+
+                   United States is
+
+
+    W  i  l  s  o  n  v  i  l  l  e
+
+
+    Station   in
+
+
+              O r e g o n ?
+
+
+                   o r
+
+
+         ...that the
+
+
+    discovery   of
+
+
+              L a z a r u s s u c h u s
+
+
+                   showed   that
+
+
+                   c   h   o   r   i   s   t   o   d   e   r   e   s   ,
+
+
+              a  type  of
+
+
+         aquatic   reptile,
+
+
+              had not
+
+
+         g o n e
+
+
+         extinct   in
+
+
+              t  h  e
+
+
+                   Eocene, but
+
+
+              persisted   for
+
+
+                   millions   of   years
+
+
+                   a  f  t  e  r  ?
+
+
+    a  n  d
+
+
+                   . . . t h a t
+
+
+                   a   promotional
+
+
+         v   i   d   e   o
+
+
+                   by   the   band
+
+
+         The   Bastard   Fairies
+
+
+         was  described  as
+
+
+                   "child abuse" on
+
+
+                   t h e
+
+
+              talk   show
+
+
+              T  h  e
+
+
+              O   '   R   e   i   l   l   y
+
+
+    F a c t o r ?
+
+
+
+
+         ...that  South  African
+
+
+         trade   union
+
+
+              legislation   uses
+
+
+              t   h   e
+
+
+                   term   "conscientious
+
+
+                   o b j e c t o r "
+
+
+         to   refer
+
+
+    t   o
+
+
+              workers   who   do
+
+
+              n o t
+
+
+         want  to
+
+
+                   j   o   i   n
+
+
+    unions on the
+
+
+              basis  of  personal
+
+
+                   b   e   l   i   e   f   s   ?
+
+
+    o   r
+
+
+         ...that the
+
+
+    c  a  t  f  i  s  h  e  s
+
+
+    of   the   genus
+
+
+              B   a   t   a   s   i   o
+
+
+              a  r  e
+
+
+    found  in  fast-flowing
+
+
+    hillstreams throughout
+
+
+              South  and
+
+
+                   mainland Southeast
+
+
+                   A   s   i   a   ?
+
+
+              a n d
+
+
+              ... that the
+
+
+                   Mediterranean  land  snail
+
+
+    species  Papillifera
+
+
+         b  i  d  e  n  s
+
+
+         l   i   v   e   d
+
+
+              i   n
+
+
+                   E n g l a n d
+
+
+    f  o  r
+
+
+         over 100
+
+
+    years before being
+
+
+         d i s c o v e r e d ?
+
+
+
+
+         .   .   .
+
+
+         t  h  a  t
+
+
+                   T  a  n  g
+
+
+         D   y   n   a   s   t   y
+
+
+              general Li
+
+
+    Baozhen, in
+
+
+              search of immortality,
+
+
+    consumed   over   20,000
+
+
+              p i l l s
+
+
+                   made  by  an
+
+
+              a   l   c   h   e   m   i   s   t   ,
+
+
+    w  h  i  c  h
+
+
+              eventually killed
+
+
+                   h i m ?
+
+
+    o r
+
+
+    ... that the
+
+
+    t  i  t  l  e
+
+
+    of   the
+
+
+         1999   film
+
+
+              One Day
+
+
+         in  the
+
+
+              L i f e
+
+
+                   of  Andrei  Arsenevich
+
+
+    is  a  play
+
+
+         on Aleksandr Solzhenitsyn's
+
+
+                   n   o   v   e   l   l   a
+
+
+    One  Day  in
+
+
+                   the  Life
+
+
+    o f
+
+
+                   I v a n
+
+
+    D   e   n   i   s   o   v   i   c   h   ?
+
+
+         a  n  d
+
+
+    ... that Warren
+
+
+    A.   Morton,   a
+
+
+                   Speaker  of  the
+
+
+    Wyoming House,
+
+
+              was   the
+
+
+    f  a  t  h  e  r
+
+
+    of a
+
+
+                   m   e   m   b   e   r
+
+
+    of the Legislative
+
+
+    Assembly of
+
+
+                   A   l   b   e   r   t   a
+
+
+              a   n   d
+
+
+                   t  h  e
+
+
+    son-in-law   of
+
+
+              a U.S. representative
+
+
+              f   r   o   m
+
+
+                   P e n n s y l v a n i a ?
+
+
+
+
+                   . . .
+
+
+              that the French
+
+
+                   government database
+
+
+                   Joconde   has   over
+
+
+              220,000 online images
+
+
+         o f
+
+
+    o   b   j   e   c   t   s
+
+
+              f r o m
+
+
+                   nearly   300   French
+
+
+                   m u s e u m s ?
+
+
+              o r
+
+
+    .   .   .
+
+
+              that the
+
+
+                   10th Festival of
+
+
+                   P   a   c   i   f   i   c
+
+
+         Arts,   concluded   2
+
+
+              A   u   g   u   s   t
+
+
+    2008 in
+
+
+         A   m   e   r   i   c   a   n
+
+
+         Samoa, brought
+
+
+                   t   o   g   e   t   h   e   r
+
+
+              about 2,000 artists
+
+
+                   f   r   o   m
+
+
+              2 7
+
+
+    countries   across
+
+
+    O   c   e   a   n   i   a   ?
+
+
+                   a n d
+
+
+              ...that  American  activist
+
+
+              N e l s o n
+
+
+         C r u i k s h a n k
+
+
+                   is  considered
+
+
+         t   h   e
+
+
+              most   important
+
+
+                   non-legislator  responsible
+
+
+                   for   the   enactment
+
+
+    of  the  U.S.
+
+
+              S   o   c   i   a   l
+
+
+                   Security  Disability
+
+
+              Insurance  in  1956
+
+
+              a   n   d
+
+
+              Medicare   in
+
+
+         1 9 6 5 ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+              t h e
+
+
+              S e l e u c i d
+
+
+    e  r  a
+
+
+         was a
+
+
+                   system of numbering
+
+
+                   years  from  the
+
+
+              return of
+
+
+         S  e  l  e  u  c  u  s
+
+
+         I
+
+
+    Nicator to
+
+
+         Babylon in 312
+
+
+         B   C   ?
+
+
+    o   r
+
+
+         ...that  during  the
+
+
+              American   Civil   War,
+
+
+    Indiana, a
+
+
+                   Northern state, saw
+
+
+         one  township  secede
+
+
+         from the
+
+
+         U  n  i  o  n  ?
+
+
+    a n d
+
+
+                   .   .   .   t   h   a   t
+
+
+              the Australian
+
+
+         legal  case  of
+
+
+              D'Emden v Pedder
+
+
+         followed United States
+
+
+         l e g a l
+
+
+    precedent   in   holding
+
+
+                   that state and
+
+
+              federal governments were
+
+
+              immune   from   each
+
+
+                   o  t  h  e  r  '  s
+
+
+                   l a w s ?
+
+
+
+
+         . . . t h a t
+
+
+         there   are
+
+
+    two radio
+
+
+    stations in
+
+
+                   Brunei   that
+
+
+         broadcast  partially
+
+
+         i  n
+
+
+         Gurkhali  for
+
+
+              the Nepalese
+
+
+    speakers  of
+
+
+    t  h  e
+
+
+              First   Battalion   of
+
+
+              the  Royal
+
+
+         Gurkha Rifles stationed
+
+
+    i  n
+
+
+              B   r   u   n   e   i   ?
+
+
+              o  r
+
+
+                   .  .  .  t  h  a  t
+
+
+                   the Dawesville Channel,
+
+
+         a   2.5
+
+
+    k i l o m e t r e
+
+
+                   long,  200  metre
+
+
+    wide  man-made  channel
+
+
+                   near   Mandurah,
+
+
+    Western  Australia,
+
+
+    was   built
+
+
+              specifically  to
+
+
+                   c  o  u  n  t  e  r
+
+
+              a  l  g  a  l
+
+
+         b   l   o   o   m   s   ?
+
+
+              a   n   d
+
+
+    ...that  research  has
+
+
+    shown  the
+
+
+    8 0 - p l u s
+
+
+         m i l e s
+
+
+    of  trails  in
+
+
+         O  m  a  h  a  ,
+
+
+    Nebraska   increase
+
+
+         homeowners'   perceptions
+
+
+         of  the  value
+
+
+         o f
+
+
+         t h e i r
+
+
+                   h  o  u  s  e  s  ?
+
+
+
+
+         ...that  Maratha  Emperor
+
+
+                   S  h  i  v  a  j  i  '  s
+
+
+                   mentor  Dadoji
+
+
+         Konddeo  also  built
+
+
+    the  "Lal
+
+
+         Mahal"  in
+
+
+                   Pune, the royal
+
+
+                   palace before the
+
+
+         capital   moved   to
+
+
+                   R  a  i  g  a  d  ?
+
+
+    o r
+
+
+    ...that   the
+
+
+         Cryolophosaurus   is   informally
+
+
+              k   n   o   w   n
+
+
+    a s
+
+
+              the  Elvisaurus  because
+
+
+                   the bizarre
+
+
+                   c r e s t
+
+
+                   running  across  its
+
+
+         head  resembles
+
+
+    Elvis Presley's
+
+
+    1  9  5  0  s
+
+
+                   p   o   m   p   a   d   o   u   r
+
+
+              h   a   i   r   c   u   t   ?
+
+
+         a n d
+
+
+    ...that  zuclopenthixol
+
+
+              is   a
+
+
+              m  e  d  i  c  a  t  i  o  n
+
+
+    that can
+
+
+              be given every
+
+
+              two   weeks
+
+
+         to treat people
+
+
+                   suffering   from
+
+
+         schizophrenia who are
+
+
+              u n a b l e
+
+
+         to take
+
+
+         t a b l e t s
+
+
+              d   a   i   l   y   ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+                   a c c o r d i n g
+
+
+         to   the
+
+
+                   Oxford  English  Dictionary
+
+
+    the longest English
+
+
+    word with one
+
+
+                   syllable is
+
+
+                   s   q   u   i   r   r   e   l   l   e   d   ?
+
+
+    o r
+
+
+                   . . . t h a t
+
+
+    a  n
+
+
+    early   trial   of
+
+
+    the   effectiveness
+
+
+                   of the
+
+
+                   Lagonda   flamethrower   as
+
+
+         a deterrent
+
+
+                   to   Luftwaffe   dive
+
+
+         bombing attacks
+
+
+         on   Merchant
+
+
+    N a v y
+
+
+              vessels   was   utterly
+
+
+    u  n  s  u  c  c  e  s  s  f  u  l  ?
+
+
+    a   n   d
+
+
+              ... that
+
+
+              B i l l
+
+
+              May,  an
+
+
+    international  champion
+
+
+    i   n
+
+
+         synchronized  swimming,
+
+
+                   was barred
+
+
+         from   competing
+
+
+    i  n
+
+
+    the  Olympics  because
+
+
+              of  his
+
+
+    g   e   n   d   e   r   ?
+
+
+
+
+    ...that  the  Apocalypse
+
+
+                   of  Zerubbabel
+
+
+         is a seventh-century
+
+
+              H   e   b   r   e   w
+
+
+         apocalypse in
+
+
+         which the angel
+
+
+              M  e  t  a  t  r  o  n
+
+
+                   r   e   v   e   a   l   e   d
+
+
+              to  Zerubbabel
+
+
+         that  the  Messiah
+
+
+              w o u l d
+
+
+         appear in
+
+
+    1 0 5 8 ?
+
+
+                   o r
+
+
+                   ...that   German   nuclear
+
+
+         p  h  y  s  i  c  i  s  t
+
+
+         Heinz   Barwich   had
+
+
+         illegal  contacts
+
+
+              to   the
+
+
+                   Soviet secret
+
+
+         p  o  l  i  c  e
+
+
+         NKVD  during  Nazi
+
+
+                   rule,  and
+
+
+              then spied
+
+
+              o n
+
+
+    the   Soviet   Union
+
+
+              f  o  r
+
+
+              the  West
+
+
+              while   working   in
+
+
+         E   a   s   t
+
+
+              G e r m a n y ?
+
+
+              a  n  d
+
+
+    .   .   .
+
+
+              that units in
+
+
+         LA's  Avenel
+
+
+                   Cooperative Housing
+
+
+              Project, reportedly built
+
+
+    as "a cooperative
+
+
+              l   i   v   i   n   g
+
+
+                   e x p e r i m e n t
+
+
+              for   a
+
+
+         group   of
+
+
+              c   o   m   m   u   n   i   s   t   s   "   ,
+
+
+    w   e   r   e
+
+
+    selling for US$300,000
+
+
+                   i   n
+
+
+    2  0  0  2  ?
+
+
+
+
+         ...that  the
+
+
+    e a r l y
+
+
+                   1980s recession
+
+
+                   was  the
+
+
+              t  h  e
+
+
+              most serious
+
+
+    r   e   c   e   s   s   i   o   n
+
+
+                   i   n
+
+
+    the   United   States
+
+
+                   since the
+
+
+    G  r  e  a  t
+
+
+                   D   e   p   r   e   s   s   i   o   n   ?
+
+
+    o  r
+
+
+    ... that
+
+
+              the   Horse   Grenadier
+
+
+    Guards  were  a
+
+
+                   unit  of  the
+
+
+         B r i t i s h
+
+
+                   Household Cavalry
+
+
+    until   1788,
+
+
+                   o r i g i n a l l y
+
+
+              s e r v i n g
+
+
+         as mounted
+
+
+                   i  n  f  a  n  t  r  y
+
+
+              t  o
+
+
+         reinforce  the  Horse
+
+
+                   G  u  a  r  d  s
+
+
+    R e g i m e n t ?
+
+
+    a  n  d
+
+
+                   .   .   .   t   h   a   t
+
+
+                   CHIJMES, a historic
+
+
+    b   u   i   l   d   i   n   g
+
+
+         c  o  m  p  l  e  x
+
+
+    in  Singapore,  began
+
+
+              l  i  f  e
+
+
+                   as  a
+
+
+              C a t h o l i c
+
+
+                   convent   in   the
+
+
+                   1850s   and
+
+
+              h   a   s
+
+
+         been  gazetted  as
+
+
+              a   national
+
+
+              m o n u m e n t ?
+
+
+
+
+    ...that the
+
+
+         staff   of   the
+
+
+    m   a   y   o   r
+
+
+              of Mirik, West
+
+
+         Bengal  vowed
+
+
+              to  spend
+
+
+    a  month's
+
+
+    salary   in
+
+
+              S   M   S
+
+
+              voting   for   Indian
+
+
+              I d o l
+
+
+                   contestant  Prashant
+
+
+                   Tamang, the first
+
+
+    finalist   of
+
+
+    N   e   p   a   l   e   s   e
+
+
+              d e s c e n t ?
+
+
+         o   r
+
+
+    . . . t h a t
+
+
+              a
+
+
+         novel   human   polyomavirus
+
+
+    is  associated
+
+
+                   with  Merkel
+
+
+    cell  carcinoma,  a
+
+
+                   r  a  r  e
+
+
+                   and highly
+
+
+                   a  g  g  r  e  s  s  i  v  e
+
+
+              f  o  r  m
+
+
+         of   skin
+
+
+    c a n c e r ?
+
+
+    a n d
+
+
+                   ...that  although  Louisiana
+
+
+                   per   Perry   v.
+
+
+         L o u i s i a n a
+
+
+                   f o r b i d s
+
+
+         the  forced  medication
+
+
+    o  f
+
+
+              a
+
+
+              death row inmate
+
+
+         to  make
+
+
+              h  i  m
+
+
+                   c   o   m   p   e   t   e   n   t
+
+
+              f   o   r
+
+
+         execution, some states
+
+
+    a l l o w
+
+
+              i  t  ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+         Ateas,   the   best
+
+
+                   a  t  t  e  s  t  e  d
+
+
+              king  of
+
+
+              the  Scythians,
+
+
+              was killed in
+
+
+    a
+
+
+                   battle with Philip
+
+
+                   II   of   Macedon
+
+
+    a   t
+
+
+              the  age  of
+
+
+         9  0  ?
+
+
+         o  r
+
+
+         ...that the obedience
+
+
+                   to   orders
+
+
+                   a n d
+
+
+                   dogged  resistance
+
+
+         of the
+
+
+                   Russian infantry
+
+
+         at the
+
+
+                   Battle   of
+
+
+              Golymin   in   1806
+
+
+    g  r  e  a  t  l  y
+
+
+                   impressed   Napoleon   and
+
+
+    h i s
+
+
+         a  r  m  y  ?
+
+
+                   a n d
+
+
+                   ...that   the   original
+
+
+    title   of
+
+
+         t  h  e
+
+
+         C h r i s t m a s
+
+
+    carol  "While  Shepherds
+
+
+              Watched   Their   Flocks"
+
+
+         i s
+
+
+                   "Song   of
+
+
+    t  h  e
+
+
+         Angels  at  the
+
+
+                   Nativity   of
+
+
+         our   Blessed
+
+
+    S a v i o u r " ?
+
+
+
+
+         ...   that   a
+
+
+    2  0  0  7
+
+
+              treaty significantly modified
+
+
+                   Indo-Bhutanese  relations
+
+
+    by   reducing
+
+
+    I n d i a ' s
+
+
+    guiding role
+
+
+              o   v   e   r
+
+
+         B   h   u   t   a   n   '   s
+
+
+              f o r e i g n
+
+
+                   p   o   l   i   c   y   ?
+
+
+              o r
+
+
+    ...   that
+
+
+         after   competing
+
+
+    for  many
+
+
+         y  e  a  r  s
+
+
+                   on a
+
+
+                   w   o   r   l   d   -   c   l   a   s   s
+
+
+    level in the
+
+
+              4 0 0
+
+
+              metres   hurdles,   German
+
+
+         athlete   Heike
+
+
+              Mei√üner  tried
+
+
+              competing   in
+
+
+    t h e
+
+
+         8   0   0
+
+
+                   m   e   t   r   e   s   ?
+
+
+    a  n  d
+
+
+         ...  that  the
+
+
+         o u t b a c k
+
+
+    t   o   w   n
+
+
+              o   f
+
+
+         T i l p a ,
+
+
+         New South Wales
+
+
+         c   l   a   i   m   s
+
+
+              to   have   the
+
+
+    only   cemetery   in
+
+
+         A   u   s   t   r   a   l   i   a
+
+
+                   w   i   t   h
+
+
+              n  o
+
+
+                   b   u   r   i   a   l   s   ?
+
+
+
+
+              .  .  .
+
+
+    that  the
+
+
+         t  i  t  l  e
+
+
+              o   f
+
+
+                   T h e
+
+
+              West   Wing
+
+
+         episode "On the
+
+
+              Day Before"
+
+
+                   refers to the
+
+
+              J  e  w  i  s  h
+
+
+              holiday Erev Yom
+
+
+              K  i  p  p  u  r  ?
+
+
+                   o  r
+
+
+    .  .  .
+
+
+                   that  Viking
+
+
+         w a r r i o r
+
+
+                   ≈ † i m o n
+
+
+                   i s
+
+
+              honoured   in
+
+
+              t   h   e
+
+
+              cave  monastery
+
+
+                   o f
+
+
+         K i e v ?
+
+
+         a  n  d
+
+
+              .  .  .  t  h  a  t
+
+
+                   prior to
+
+
+    Interstate   410   and
+
+
+              the  Interstate
+
+
+                   Highway System,
+
+
+    T   e   x   a   s
+
+
+              S  t  a  t  e
+
+
+                   Highway   Loop   13
+
+
+         w a s
+
+
+              the   primary   loop
+
+
+         around San
+
+
+                   A   n   t   o   n   i   o   ?
+
+
+
+
+    ...that   some   dragonflies
+
+
+              avoid overheating on
+
+
+         sunny   days   by
+
+
+                   a   s   s   u   m   i   n   g
+
+
+    a  "handstand"
+
+
+              p   o   s   i   t   i   o   n
+
+
+                   known as
+
+
+         the  obelisk  posture
+
+
+              (  p  i  c  t  u  r  e  d  )  ?
+
+
+    o r
+
+
+              .   .   .
+
+
+    t  h  a  t
+
+
+              A  k  k  a  m  m  a
+
+
+    Cherian,  an  Indian
+
+
+              f  r  e  e  d  o  m
+
+
+         fighter,   was   popularly
+
+
+    known as
+
+
+              the   "Jhansi
+
+
+    Rani   of
+
+
+    T  r  a  v  a  n  c  o  r  e  ?  "
+
+
+         a  n  d
+
+
+         . . . t h a t
+
+
+         in  1935,  David
+
+
+         Townsend   was
+
+
+         the last
+
+
+         England Test cricketer
+
+
+         not  to
+
+
+                   have played
+
+
+    for  one
+
+
+         of the English
+
+
+              f  i  r  s  t  -  c  l  a  s  s
+
+
+                   c   r   i   c   k   e   t
+
+
+    c   o   u   n   t   i   e   s   ?
+
+
+
+
+              ...that  sculptor
+
+
+         T  o  m
+
+
+    O   t   t   e   r   n   e   s   s
+
+
+              delivered  more
+
+
+                   than  four  times
+
+
+                   the amount of
+
+
+                   work   commissioned   for
+
+
+         his  popular
+
+
+              "Life Underground"
+
+
+              s   u   b   w   a   y
+
+
+    i   n   s   t   a   l   l   a   t   i   o   n   ?
+
+
+              o r
+
+
+    ... that Dave
+
+
+              Levine,  the
+
+
+              p   r   e   s   i   d   e   n   t
+
+
+         of   an   e-commerce
+
+
+    company,  was
+
+
+         featured in
+
+
+                   the  inaugural  episode
+
+
+              of Millionaire
+
+
+    M   a   t   c   h   m   a   k   e   r
+
+
+         where  he  described
+
+
+              the   type   of
+
+
+              wife   he
+
+
+         s  o  u  g  h  t  ?
+
+
+                   a  n  d
+
+
+              .  .  .  t  h  a  t
+
+
+         a   t
+
+
+              t h e
+
+
+                   2001 World
+
+
+              C   h   a   m   p   i   o   n   s   h   i   p   s
+
+
+         in   Athletics,   Yipsi
+
+
+              M o r e n o
+
+
+         became  world
+
+
+              champion   in
+
+
+              the  hammer  throw
+
+
+                   at  the
+
+
+                   a   g   e
+
+
+              of  twenty,  improving
+
+
+         from  an  eighteenth
+
+
+         place finish in
+
+
+         1  9  9  9  ?
+
+
+
+
+    .   .   .   t   h   a   t
+
+
+                   Howe   Yoon
+
+
+                   Chong  played  a
+
+
+         key  role  in
+
+
+              establishing  Singapore's
+
+
+         M   a   s   s
+
+
+         R a p i d
+
+
+         Transit   system,   Changi
+
+
+                   A i r p o r t
+
+
+              (pictured)  and  public
+
+
+              h o u s i n g ?
+
+
+                   o   r
+
+
+         ... that
+
+
+              the  orangespotted  trevally
+
+
+              (  p  i  c  t  u  r  e  d  )
+
+
+    is  believed
+
+
+         to   be   able
+
+
+                   to switch
+
+
+    between   silvery   grey
+
+
+         and   orange-yellow
+
+
+    c   o   l   o   r   a   t   i   o   n   s   ?
+
+
+                   a  n  d
+
+
+         ...that the T.G.
+
+
+    Richards  and
+
+
+              Company Store is
+
+
+                   the   oldest
+
+
+              brick building in
+
+
+              W a s h i n g t o n ?
+
+
+
+
+    ... that news
+
+
+              o   f
+
+
+         Rufus  T.  Bush's
+
+
+              victory  in  a
+
+
+                   t   r   a   n   s   a   t   l   a   n   t   i   c
+
+
+                   y a c h t
+
+
+         race  took  up
+
+
+    the  whole
+
+
+    f r o n t
+
+
+              p  a  g  e
+
+
+    o f
+
+
+              the   New
+
+
+    Y   o   r   k
+
+
+         Times  on  March
+
+
+                   2 8 ,
+
+
+              1   8   8   7   ?
+
+
+              o r
+
+
+         ...that Birger Dahlerus
+
+
+    was   a   Swedish
+
+
+                   businessman and
+
+
+                   friend of Hermann
+
+
+    G√∂ring,  who  made
+
+
+    numerous  trips  between
+
+
+                   Germany   and   England
+
+
+                   in 1939 in
+
+
+              an   attempt   to
+
+
+                   avert  the  Second
+
+
+         W o r l d
+
+
+              W  a  r  ?
+
+
+    a n d
+
+
+         ...that in
+
+
+    1908,   the
+
+
+         Kinzie   Street   railroad
+
+
+                   b   r   i   d   g   e
+
+
+         (pictured) in
+
+
+                   C h i c a g o
+
+
+                   w  a  s
+
+
+                   t  h  e
+
+
+                   longest and
+
+
+    heaviest   bascule   bridge
+
+
+         i n
+
+
+              t h e
+
+
+    w o r l d ?
+
+
+
+
+              . . . t h a t
+
+
+              Gavrinis,   an
+
+
+                   island  in
+
+
+                   the   Gulf   of
+
+
+         Morbihan off the
+
+
+              coast   of   Brittany,
+
+
+         F  r  a  n  c  e  ,
+
+
+    has   a   rich
+
+
+                   a  b  u  n  d  a  n  c  e
+
+
+              of  megalithic
+
+
+    a   r   t
+
+
+    from the New
+
+
+                   S   t   o   n   e
+
+
+         A g e ?
+
+
+              o r
+
+
+                   .   .   .   t   h   a   t
+
+
+                   t  h  e
+
+
+         Jurassic limestone
+
+
+                   f  o  r  m  a  t  i  o  n  s
+
+
+                   o f
+
+
+              the   Polish   Jura
+
+
+              Chain (pictured)
+
+
+    upland contain
+
+
+              s  o  m  e
+
+
+                   2 0 0
+
+
+              c   a   v   e   s   ?
+
+
+    a   n   d
+
+
+              ...   that
+
+
+    t h e
+
+
+                   Young Romance
+
+
+    c  o  m  i  c
+
+
+                   book series, first
+
+
+         published   in
+
+
+    1947,   is   regarded
+
+
+         as   the
+
+
+    f i r s t
+
+
+              r   o   m   a   n   c   e
+
+
+    c o m i c ?
+
+
+
+
+         ...  that  the
+
+
+    S  c  h  w  e  i  z  e  r
+
+
+              S   G   P
+
+
+    1-1   glider   was
+
+
+         launched  by  an
+
+
+         e   l   a   s   t   i   c
+
+
+              b u n g e e
+
+
+                   cord,   originally   pulled
+
+
+                   by   children
+
+
+    and later
+
+
+         by  a
+
+
+              Ford   Model   A
+
+
+         c a r ?
+
+
+              o  r
+
+
+         ... that
+
+
+              E  a  s  t
+
+
+              Wallabi  Island  has
+
+
+                   the  highest
+
+
+              number of plant
+
+
+         species   on   any
+
+
+              i   s   l   a   n   d
+
+
+                   of  the
+
+
+                   H  o  u  t  m  a  n
+
+
+                   Abrolhos  archipelago
+
+
+              i n
+
+
+              t   h   e
+
+
+              I n d i a n
+
+
+         O  c  e  a  n  ?
+
+
+              a   n   d
+
+
+    .  .  .
+
+
+         that   the   Eastside
+
+
+              Historic Cemetery
+
+
+                   District  (pictured)
+
+
+         in   Detroit,   Michigan,
+
+
+              contains   the   graves
+
+
+                   of 29
+
+
+              D   e   t   r   o   i   t
+
+
+    mayors, at least
+
+
+         6   governors,   11
+
+
+    senators, and a
+
+
+    d o z e n
+
+
+                   c   a   b   i   n   e   t
+
+
+    m   e   m   b   e   r   s   ?
+
+
+
+
+              .  .  .  t  h  a  t
+
+
+         Lake   Urmia,
+
+
+                   t h e
+
+
+                   l a r g e s t
+
+
+              lake   in
+
+
+              I  r  a  n  ,
+
+
+         i   s
+
+
+              a  salt  lake
+
+
+         too saline to
+
+
+                   s   u   p   p   o   r   t
+
+
+                   f   i   s   h   ?
+
+
+    o r
+
+
+    ...that   sand   festivals
+
+
+                   are   held
+
+
+              all   over   the
+
+
+         w   o   r   l   d
+
+
+                   a  n  d
+
+
+                   n  o  t
+
+
+         only on sandy
+
+
+    b  e  a  c  h  e  s  ?
+
+
+              a  n  d
+
+
+                   ...that   Jakub   Ucha≈Ñski,
+
+
+         a   16th-century   primate
+
+
+    of Poland,
+
+
+         was   suspected
+
+
+              o  f
+
+
+    heresy and
+
+
+                   s   u   m   m   o   n   e   d
+
+
+         t   o
+
+
+              appear   before   the
+
+
+    inquisition in
+
+
+                   R  o  m  e  ?
+
+
+
+
+                   .  .  .  t  h  a  t
+
+
+    American  theater
+
+
+                   c   r   i   t   i   c
+
+
+    a n d
+
+
+    historian  T.  Allston
+
+
+         Brown earned the
+
+
+              title "Colonel" by
+
+
+    riding  on
+
+
+                   the  back  of
+
+
+         a tightrope walker
+
+
+    in   a   circus
+
+
+              p  e  r  f  o  r  m  a  n  c  e  ?
+
+
+    o   r
+
+
+                   ...that   the
+
+
+    G r o d n o
+
+
+    Sejm   of
+
+
+                   1793, the last
+
+
+    S   e   j   m
+
+
+                   o f
+
+
+                   the   Polish-Lithuanian
+
+
+              Commonwealth,   passed
+
+
+                   t h e
+
+
+         S   e   c   o   n   d
+
+
+                   P a r t i t i o n
+
+
+              o  f
+
+
+                   Poland   with
+
+
+         deputies   bribed
+
+
+    or   coerced
+
+
+         by   the
+
+
+              Russian Empire's
+
+
+                   a r m y ?
+
+
+    a  n  d
+
+
+         ...that Adelaide was
+
+
+                   the  first
+
+
+                   city  in
+
+
+    Australia   to   introduce
+
+
+              h   o   r   s   e
+
+
+         t r a m s
+
+
+    a n d
+
+
+                   t h e
+
+
+    last to
+
+
+              d   i   s   c   a   r   d
+
+
+    them  for  more
+
+
+    m   o   d   e   r   n
+
+
+                   p u b l i c
+
+
+              t   r   a   n   s   p   o   r   t   ?
+
+
+
+
+         . . . t h a t
+
+
+    Abner  Kneeland
+
+
+                   became   the
+
+
+              last person
+
+
+              in   the   U.S.
+
+
+         jailed for blasphemy,
+
+
+                   in   Commonwealth
+
+
+              of  Massachusetts
+
+
+    v  .
+
+
+    K n e e l a n d ?
+
+
+                   o   r
+
+
+         ...that  the  S√∂flingen
+
+
+                   Abbey  in  Ulm,
+
+
+              Baden-W√ºrttemberg   is   the
+
+
+         oldest nunnery of
+
+
+                   the Order of
+
+
+    Poor   Ladies   in
+
+
+                   G e r m a n y ?
+
+
+    a  n  d
+
+
+              ...  that
+
+
+              in   1985,
+
+
+    molecular  biologist
+
+
+    Richard A.
+
+
+                   H  o  u  g  h  t  e  n
+
+
+         developed   the
+
+
+                   "tea-bag"   method
+
+
+                   f o r
+
+
+                   p e p t i d e
+
+
+                   s e l e c t i o n ?
+
+
+
+
+         ...that  the  USS
+
+
+    Grebe survived
+
+
+              both  World
+
+
+         War   I   and
+
+
+    the  attack
+
+
+    o   n
+
+
+                   P  e  a  r  l
+
+
+         Harbor,   only
+
+
+    t o
+
+
+    be  destroyed
+
+
+              by  a  hurricane
+
+
+    i   n
+
+
+              1  9  4  3  ?
+
+
+                   o   r
+
+
+              ...that   the
+
+
+    f  i  r  s  t
+
+
+                   all-steel passenger car
+
+
+              in the world
+
+
+    was  built
+
+
+    by American
+
+
+              C  a  r
+
+
+    and  Foundry
+
+
+    Company  in  1904
+
+
+              for   Interborough   Rapid
+
+
+    Transit  in
+
+
+         N   e   w
+
+
+              Y  o  r  k
+
+
+              C   i   t   y   ?
+
+
+    a   n   d
+
+
+                   ...   that   Christian
+
+
+    m u s i c i a n
+
+
+         Francesca Battistelli said
+
+
+              she  knew  she
+
+
+              would   spend
+
+
+              h   e   r
+
+
+                   life  performing
+
+
+              after  seeing  the
+
+
+                   m  u  s  i  c  a  l
+
+
+              The  Secret
+
+
+                   G   a   r   d   e   n
+
+
+              o   n
+
+
+                   Broadway  at
+
+
+         t h e
+
+
+              age  of
+
+
+              s i x ?
+
+
+
+
+                   ... that
+
+
+                   Lou  Piniella,
+
+
+    the   only   Mariners
+
+
+              manager to
+
+
+              lead   a   team
+
+
+                   into  the
+
+
+         p l a y o f f s ,
+
+
+              recorded a
+
+
+                   s  e  a  s  o  n
+
+
+    with  116  wins,
+
+
+         tying   the
+
+
+              major  league
+
+
+    record   of
+
+
+                   w  i  n  s
+
+
+              in a
+
+
+              s   e   a   s   o   n   ?
+
+
+                   o   r
+
+
+              ...that   the   causes
+
+
+                   and  extent  of
+
+
+              O l m e c
+
+
+    influences on Mesoamerican
+
+
+    cultures  are  still
+
+
+         being  debated  long
+
+
+    after  they  were
+
+
+    f  i  r  s  t
+
+
+              raised   at
+
+
+    a  conference
+
+
+              i n
+
+
+              Tuxtla   Guti√©rrez
+
+
+         i n
+
+
+              1  9  4  2  ?
+
+
+                   a  n  d
+
+
+    ...that  Corona
+
+
+         Schr√∂ter,  an  18th
+
+
+    century   German   singer,
+
+
+              composed musical settings
+
+
+    for  several  works
+
+
+              by Friedrich
+
+
+                   Schiller,  as
+
+
+         w   e   l   l
+
+
+         as two
+
+
+    dramas,   hundreds   of
+
+
+                   arias  and  duets,
+
+
+                   and   an   autobiography
+
+
+                   given   to   Johann
+
+
+         W  o  l  f  g  a  n  g
+
+
+         Goethe,   but   that
+
+
+    a  l  l
+
+
+                   of these
+
+
+                   works are now
+
+
+                   l   o   s   t   ?
+
+
+
+
+                   . . .
+
+
+              t   h   a   t
+
+
+                   Senegalese   filmmaker
+
+
+              Ben   Diogaye   Beye's
+
+
+    first  feature  film
+
+
+    was critical
+
+
+    o   f
+
+
+                   p  o  l  y  g  a  m  y  ?
+
+
+         o r
+
+
+              ...that the Polish
+
+
+                   Second  Army  was
+
+
+         the second major
+
+
+    formation of the
+
+
+    P   e   o   p   l   e   s   '
+
+
+              A   r   m   y
+
+
+         o f
+
+
+         P o l a n d
+
+
+         f  i  g  h  t  i  n  g
+
+
+         alongside   the
+
+
+    Soviet Union in
+
+
+    the   Second
+
+
+                   W   o   r   l   d
+
+
+         W   a   r   ?
+
+
+              a   n   d
+
+
+    ...that the
+
+
+    V   i   l   l   a
+
+
+              M  e  d  i  c  e  a
+
+
+              di Pratolino (pictured),
+
+
+                   v i s i t e d
+
+
+    by Michel de
+
+
+         Montaigne  in
+
+
+              1  5  8  1  ,
+
+
+                   w a s
+
+
+    later   owned
+
+
+         b y
+
+
+    the  Demidov  princely
+
+
+                   f   a   m   i   l   y
+
+
+    o f
+
+
+              Russia  and  by
+
+
+              P  r  i  n  c  e
+
+
+              Paul of
+
+
+         Y  u  g  o  s  l  a  v  i  a  ?
+
+
+
+
+                   ...  that
+
+
+              S  c  h  o  o  l  s
+
+
+              Plus, an
+
+
+                   education   policy
+
+
+    p   r   o   p   o   s   e   d
+
+
+                   by   New
+
+
+                   Zealand Prime Minister
+
+
+              Helen Clark, was
+
+
+    b  o  y  c  o  t  t  e  d
+
+
+                   by 15
+
+
+              s   c   h   o   o   l   s   ?
+
+
+              o  r
+
+
+         ...that Sergei Yushenkov
+
+
+    a   n   d
+
+
+                   Y  u  r  i
+
+
+         Shchekochikhin,  key  members
+
+
+              o  f
+
+
+    the Kovalev
+
+
+    Commission  charged
+
+
+    w i t h
+
+
+    investigating the Russian
+
+
+              a   p   a   r   t   m   e   n   t
+
+
+         bombings   both
+
+
+         d   i   e   d
+
+
+                   in apparent
+
+
+              a s s a s s i n a t i o n s ?
+
+
+    a n d
+
+
+              ...that  the  defection
+
+
+         of  Polish  secret
+
+
+                   p  o  l  i  c  e
+
+
+    agent J√≥zef
+
+
+                   ≈öwiat≈Ço  in  1953,
+
+
+                   shook  the  Polish
+
+
+         United   Workers'
+
+
+    Party and led
+
+
+    to   the   liberalization
+
+
+         of Polish
+
+
+                   O   c   t   o   b   e   r   ?
+
+
+
+
+    . . . t h a t
+
+
+              the Nez Perce
+
+
+                   thought   they
+
+
+         themselves   gave   nice
+
+
+    gifts,   but
+
+
+              that the Lewis
+
+
+              and  Clark
+
+
+              E  x  p  e  d  i  t  i  o  n
+
+
+         gave  "cheap"  gifts,
+
+
+                   u   p   o   n
+
+
+                   meeting   in
+
+
+    the   Weippe
+
+
+              Prairie in
+
+
+    1 8 0 5 ?
+
+
+         o  r
+
+
+                   .   .   .
+
+
+              that  at
+
+
+                   least   five   mutations
+
+
+              are  known
+
+
+                   to  cause  diplopodia
+
+
+                   in chickens,
+
+
+              resulting   in   the
+
+
+                   development of
+
+
+    e   x   t   r   a
+
+
+    toes   or   other
+
+
+         s   t   r   u   c   t   u   r   a   l
+
+
+    abnormalities   in
+
+
+              t   h   e
+
+
+              h  i  n  d
+
+
+                   l   i   m   b   s   ?
+
+
+              a   n   d
+
+
+                   .   .   .   t   h   a   t
+
+
+              t   h   e
+
+
+         Palace  Hotel  in
+
+
+              Perth, Western Australia
+
+
+    was described at
+
+
+              its  opening
+
+
+                   as   "one   of
+
+
+                   the  most  beautiful
+
+
+         and  elegant
+
+
+    hotels  in
+
+
+    A u s t r a l a s i a " ?
+
+
+
+
+                   ...  that
+
+
+    Winlock  W.
+
+
+              Steiwer founded
+
+
+    the first
+
+
+         bank   in   Wheeler
+
+
+                   C o u n t y ,
+
+
+              Oregon, after
+
+
+              he   had
+
+
+                   pled guilty during
+
+
+    the  Oregon
+
+
+              land   fraud
+
+
+              s  c  a  n  d  a  l  ?
+
+
+                   o   r
+
+
+                   . . . t h a t
+
+
+         Jeremy   Doner   was
+
+
+              the   first   student
+
+
+    at Harvard University
+
+
+              t o
+
+
+                   w   r   i   t   e
+
+
+              a  screenplay
+
+
+         a  s
+
+
+         a
+
+
+                   c r e a t i v e
+
+
+    t h e s i s ?
+
+
+    a   n   d
+
+
+    .   .   .   t   h   a   t
+
+
+    the  1991  Hamlet
+
+
+              chicken  plant
+
+
+    f i r e
+
+
+         resulted  in
+
+
+    25 deaths and
+
+
+         prison sentences for
+
+
+              t h e
+
+
+                   o   w   n   e   r   s   ?
+
+
+
+
+    ...that   Emery
+
+
+                   Molyneux's  16th-century  terrestrial
+
+
+    and  celestial
+
+
+                   g  l  o  b  e  s
+
+
+         (pictured) were the
+
+
+         first to be
+
+
+    made in England
+
+
+              a  n  d
+
+
+         b  y
+
+
+    a  n
+
+
+    E n g l i s h m a n ?
+
+
+              o r
+
+
+    .  .  .  t  h  a  t
+
+
+    Chalan  Beel,  a
+
+
+                   wetland   in
+
+
+              Bangladesh, is getting
+
+
+              vastly reduced in
+
+
+              size  with
+
+
+         f  a  s  t
+
+
+         silting up caused
+
+
+         b   y
+
+
+    t   h   e
+
+
+              inflow   of   47
+
+
+                   r i v e r s
+
+
+                   a   n   d
+
+
+              w a t e r w a y s ?
+
+
+    a   n   d
+
+
+              ...  that
+
+
+                   A   l   i   c   e
+
+
+              May   starred   as
+
+
+         a  soprano
+
+
+         i   n
+
+
+         comic opera
+
+
+              in   the
+
+
+         1870s   but
+
+
+    toured  as
+
+
+                   a
+
+
+    contralto in the
+
+
+    1  8  8  0  s  ?
+
+
+
+
+                   . . . t h a t
+
+
+         the Vietnam Women's
+
+
+              M e m o r i a l
+
+
+              in Washington, D.C.
+
+
+              was designed
+
+
+              by  Glenna  Goodacre,
+
+
+                   who   also
+
+
+                   designed the
+
+
+                   S a c a g a w e a
+
+
+              d  o  l  l  a  r  ?
+
+
+         o r
+
+
+         ...   that   Artus
+
+
+                   d  e
+
+
+    Lionne, who went
+
+
+    to China for
+
+
+         missionary  work  in
+
+
+         1689,   played
+
+
+              a role against
+
+
+              Jesuits   in
+
+
+    t h e
+
+
+         C h i n e s e
+
+
+    R   i   t   e   s
+
+
+                   c  o  n  t  r  o  v  e  r  s  y  ?
+
+
+              a  n  d
+
+
+         .   .   .   t   h   a   t
+
+
+              Pakistani  artist  Anwar
+
+
+                   Shemza   changed   his
+
+
+         name  so
+
+
+              it  would  match
+
+
+         that  of  his
+
+
+         studio in
+
+
+              L  a  h  o  r  e  ?
+
+
+
+
+         ...that   the
+
+
+                   Society  of
+
+
+         the Friends
+
+
+         of  Peasants  had
+
+
+              s   i   g   n   i   f   i   c   a   n   t
+
+
+              influence on the
+
+
+         Danish   Constitution   of
+
+
+         1 8 4 9 ?
+
+
+              o   r
+
+
+         ...  that  a
+
+
+                   group  of
+
+
+              Irish  publishers
+
+
+              tried to print
+
+
+              pirated   copies
+
+
+                   of  Samuel  Richardson‚Ä≤s
+
+
+                   final   novel,   The
+
+
+    H  i  s  t  o  r  y
+
+
+         o   f
+
+
+              S  i  r
+
+
+         Charles  Grandison,
+
+
+         b  e  f  o  r  e
+
+
+              the  actual  first
+
+
+    e  d  i  t  i  o  n
+
+
+              w   a   s
+
+
+              r   e   l   e   a   s   e   d   ?
+
+
+                   a n d
+
+
+                   ...that the
+
+
+    C   o   a   t
+
+
+         of  arms
+
+
+              of   Asturias
+
+
+              bears the
+
+
+              Victory  Cross,  a
+
+
+              Christian   cross   carried
+
+
+    by  King  Pelagius
+
+
+                   of Asturias of
+
+
+    Spain  at
+
+
+                   the  Battle
+
+
+              o f
+
+
+         C o v a d o n g a ?
+
+
+
+
+         . . . t h a t
+
+
+                   Y i n g
+
+
+         F  o
+
+
+         F u i
+
+
+                   Kun   was   the
+
+
+    f   i   r   s   t
+
+
+    H   a   k   k   a
+
+
+                   c l a n
+
+
+              association in
+
+
+    Singapore,  and
+
+
+              its  clan
+
+
+              h   o   u   s   e
+
+
+         a t
+
+
+         T e l o k
+
+
+         A   y   e   r
+
+
+                   (pictured)  was  gazetted
+
+
+         a   s
+
+
+              a  national
+
+
+              monument in
+
+
+                   1 9 9 8 ?
+
+
+              ( I m a g e )
+
+
+                   o   r
+
+
+    ...  that
+
+
+              P   e   t   e   r
+
+
+    Harboe  Castberg
+
+
+    i   s
+
+
+              credited  with
+
+
+         building Christiania Bank
+
+
+         o   g
+
+
+    Kreditkasse  into  one
+
+
+                   of  the  leading
+
+
+    b  a  n  k  s
+
+
+                   i   n
+
+
+              N o r w a y ?
+
+
+         a  n  d
+
+
+         ...that Alfred J.
+
+
+    Kwak,   a
+
+
+         duck from
+
+
+                   a  Dutch
+
+
+    television   cartoon,   lives
+
+
+                   in  a
+
+
+         c   l   o   g   ?
+
+
+
+
+                   ...  that  in
+
+
+              1967,   Dr.   Adrian
+
+
+                   Kantrowitz   performed   the
+
+
+                   world's second human
+
+
+         heart   transplant,
+
+
+         in a procedure
+
+
+                   o  n
+
+
+         a
+
+
+         1   9   -   d   a   y   -   o   l   d
+
+
+              infant at
+
+
+              M  a  i  m  o  n  i  d  e  s
+
+
+              Medical Center in
+
+
+         Brooklyn, New
+
+
+              Y o r k ?
+
+
+         o r
+
+
+                   .   .   .   t   h   a   t
+
+
+         S   c   o   t   t   i   s   h
+
+
+                   National Party
+
+
+              politician Douglas Henderson
+
+
+              was   instrumental
+
+
+              in   passing
+
+
+                   t   h   e
+
+
+                   c   e   n   s   u   r   e
+
+
+                   motion  that  led
+
+
+         to  the  downfall
+
+
+    of James Callaghan's
+
+
+                   L  a  b  o  u  r
+
+
+         g   o   v   e   r   n   m   e   n   t
+
+
+              in   1979,   but
+
+
+         n  a  r  r  o  w  l  y
+
+
+                   lost  his  own
+
+
+    s  e  a  t
+
+
+                   in  the  ensuing
+
+
+              g  e  n  e  r  a  l
+
+
+         e  l  e  c  t  i  o  n  ?
+
+
+                   a n d
+
+
+
+
+         ...that   the   history
+
+
+         o  f
+
+
+    N   a   i   r   o   b   i
+
+
+                   includes   the   1998
+
+
+              U  .  S  .
+
+
+         e   m   b   a   s   s   y
+
+
+                   bombing that killed
+
+
+              213  and  wounded
+
+
+                   5   ,   0   0   0   ?
+
+
+              o   r
+
+
+    ...that  the
+
+
+              S   e   l   e   u   c   i   d
+
+
+              era  was
+
+
+         a
+
+
+         system   of
+
+
+    numbering   years
+
+
+         from   the   return
+
+
+         o f
+
+
+         Seleucus I Nicator
+
+
+         to  Babylon
+
+
+                   i   n
+
+
+    3   1   2
+
+
+    B  C  ?
+
+
+         a n d
+
+
+              ...that   the   Moro
+
+
+         Rebellion   was
+
+
+    the second
+
+
+              phase  of
+
+
+    t h e
+
+
+         P  h  i  l  i  p  p  i  n  e  -  A  m  e  r  i  c  a  n
+
+
+                   W a r ?
+
+
+
+
+         .  .  .
+
+
+    t   h   a   t
+
+
+              American film
+
+
+    producer  Sandy  Stern's
+
+
+              producing  partner  is
+
+
+    R.E.M.'s  lead  singer
+
+
+              M   i   c   h   a   e   l
+
+
+         S  t  i  p  e  ?
+
+
+         o r
+
+
+         ...that   Ross
+
+
+    D   e   t   w   i   l   e   r   ,
+
+
+         the  sixth  2007
+
+
+                   overall   and
+
+
+         highest   Major   League
+
+
+         B   a   s   e   b   a   l   l
+
+
+              Draftee  in
+
+
+    M   i   s   s   o   u   r   i
+
+
+              State University
+
+
+         history,  was  the
+
+
+    f   i   r   s   t
+
+
+                   of   the
+
+
+                   1453  2007
+
+
+              draftees to play
+
+
+              a
+
+
+                   M   L   B
+
+
+    g   a   m   e   ?
+
+
+    a   n   d
+
+
+              ...   that,
+
+
+    due to his
+
+
+    support of Kentucky's
+
+
+              e  f  f  o  r  t  s
+
+
+         to   secede
+
+
+         from the
+
+
+              Union, Henry
+
+
+                   Cornelius   Burnett
+
+
+                   is  one  of
+
+
+    only five members
+
+
+    i  n
+
+
+              history to
+
+
+                   be  expelled
+
+
+              f   r   o   m
+
+
+              the  United  States
+
+
+                   C  o  n  g  r  e  s  s  ?
+
+
+
+
+    . . .
+
+
+                   that  Rear  Admiral
+
+
+              J  o  h  n
+
+
+         Adams of
+
+
+                   the Royal Navy
+
+
+              was the author
+
+
+         o f
+
+
+              The  Adventure  of
+
+
+    Charlie  the
+
+
+                   Cone, based
+
+
+    o  n
+
+
+                   stories about
+
+
+         a
+
+
+         traffic cone,
+
+
+              that he
+
+
+         m  a  d  e
+
+
+         u   p
+
+
+         for his children
+
+
+                   on   long
+
+
+                   t   r   i   p   s   ?
+
+
+    o  r
+
+
+         ...  that
+
+
+              Fort   Concho,   a
+
+
+              U n i t e d
+
+
+              States Army outpost
+
+
+    i n
+
+
+                   S a n
+
+
+    Angelo, Texas
+
+
+    from  1867  to
+
+
+         1889, was the
+
+
+    h   e   a   d   q   u   a   r   t   e   r   s
+
+
+              for   the
+
+
+              Buffalo  Soldiers
+
+
+                   of the
+
+
+         A m e r i c a n
+
+
+         W   e   s   t   ?
+
+
+              a  n  d
+
+
+    .   .   .
+
+
+    t h a t
+
+
+    Temple  House  of
+
+
+              Israel  in  Staunton,
+
+
+         V   i   r   g   i   n   i   a   ,
+
+
+    was   founded
+
+
+              in  1876
+
+
+              by  Alexander  Hart,
+
+
+              a  former  major
+
+
+         in   the   Confederate
+
+
+                   S  t  a  t  e  s
+
+
+         A r m y ?
+
+
+
+
+    ... that
+
+
+         a digital
+
+
+         t i m e
+
+
+         capsule "A Message
+
+
+              From  Earth"
+
+
+    w   a   s
+
+
+    transmitted to the
+
+
+                   p l a n e t
+
+
+    G  l  i  e  s  e
+
+
+                   5 8 1 c
+
+
+                   and   included
+
+
+    a  message  by
+
+
+                   actress   Gillian   Anderson
+
+
+         c  o  n  s  i  s  t  i  n  g
+
+
+              o  f
+
+
+         images  of
+
+
+    G e o r g e
+
+
+                   W.  Bush
+
+
+              and Barack
+
+
+              O   b   a   m   a   ?
+
+
+                   o r
+
+
+    .  .  .  t  h  a  t
+
+
+    the   Roman   fort
+
+
+              Longovicium   has
+
+
+              one   of
+
+
+              the   best   preserved
+
+
+              ancient aqueducts in
+
+
+    B   r   i   t   a   i   n   ?
+
+
+    a n d
+
+
+              ...that   hoodoos
+
+
+                   are tall skinny
+
+
+    spires of
+
+
+         rock   that   protrude
+
+
+              f  r  o  m
+
+
+                   t h e
+
+
+                   bottom of
+
+
+         arid   basins
+
+
+         a  n  d
+
+
+                   b  a  d  l  a  n  d  s  ?
+
+
+
+
+         .  .  .  t  h  a  t
+
+
+              in  Slavic
+
+
+              vampire   folklore,   vampires
+
+
+                   could take
+
+
+    the  form
+
+
+         o   f
+
+
+              b u t t e r f l i e s ?
+
+
+         o   r
+
+
+         .  .  .  t  h  a  t
+
+
+                   Fr.  Thiruchelvam
+
+
+                   N   i   h   a   l
+
+
+              Jim  Brown
+
+
+         b   a   r   e   l   y
+
+
+    escaped   the   August
+
+
+                   2 0 0 6
+
+
+              St. Phillip Neri
+
+
+              c h u r c h
+
+
+         bombing  only  to
+
+
+                   disappear   a   week
+
+
+    l   a   t   e   r   ?
+
+
+         a   n   d
+
+
+                   ... that
+
+
+                   Edward  Lamson  Henry
+
+
+         paid   such   close
+
+
+                   attention   to
+
+
+                   detail that his
+
+
+              n   o   s   t   a   l   g   i   c
+
+
+              paintings  of  agrarian
+
+
+                   America (example
+
+
+         pictured) were
+
+
+    considered  authentic  historical
+
+
+                   r   e   c   o   n   s   t   r   u   c   t   i   o   n   s   ?
+
+
+
+
+    ...that  the
+
+
+         wine  industry
+
+
+    i  n
+
+
+              N   e   b   r   a   s   k   a
+
+
+              r   e   m   a   i   n   e   d
+
+
+    dormant for decades
+
+
+         a  f  t  e  r
+
+
+                   the local commercial
+
+
+              grape industry was
+
+
+    d  e  s  t  r  o  y  e  d
+
+
+    by the
+
+
+         Armistice Day
+
+
+                   B  l  i  z  z  a  r  d
+
+
+                   i n
+
+
+                   1940, with
+
+
+         n   o
+
+
+                   new winery
+
+
+         opening till
+
+
+              1   9   9   4   ?
+
+
+                   o   r
+
+
+                   ...   that   Norwegian
+
+
+              e   v   a   n   g   e   l   i   c   a   l
+
+
+         preacher   Aril   Edvardsen
+
+
+    p  e  r  f  o  r  m  e  d
+
+
+                   i  n
+
+
+         a country
+
+
+    m  u  s  i  c
+
+
+         b   a   n   d
+
+
+    in his
+
+
+                   y o u t h ?
+
+
+              a n d
+
+
+         ...that children up
+
+
+                   to the age
+
+
+    o   f
+
+
+              f  i  v  e
+
+
+    can   find   it
+
+
+              difficult to
+
+
+              distinguish between television
+
+
+         programmes   and
+
+
+    t   o   y
+
+
+              a d v e r t i s i n g
+
+
+    c   a   m   p   a   i   g   n   s   ?
+
+
+
+
+    .   .   .
+
+
+         t   h   a   t
+
+
+    Cialis, the
+
+
+    erectile  dysfunction
+
+
+                   drug  developed  by
+
+
+              Icos,  was  originally
+
+
+              researched in
+
+
+              t   h   e
+
+
+         hopes of a
+
+
+    t r e a t m e n t
+
+
+         for  cardiovascular
+
+
+    diseases   such   as
+
+
+              hypertension   and
+
+
+              a n g i n a ?
+
+
+              o r
+
+
+         .   .   .
+
+
+              t h a t
+
+
+                   t   h   e
+
+
+    o n l y
+
+
+         i  t  e  m  s
+
+
+    f   o   u   n   d
+
+
+         in the
+
+
+         burial   chamber
+
+
+              of the
+
+
+              Pyramid   of
+
+
+    Neferefre  upon
+
+
+    excavation were
+
+
+         m   u   m   m   y
+
+
+         fragments   and   broken
+
+
+         c   a   n   o   p   i   c
+
+
+                   j  a  r  s  ?
+
+
+                   a   n   d
+
+
+    .   .   .   t   h   a   t
+
+
+                   the  Mauch  Chunk
+
+
+         and  Summit  Hill
+
+
+              Switchback   Railroad,
+
+
+              the  second  railroad
+
+
+         built  in
+
+
+              the   United
+
+
+    S  t  a  t  e  s  ,
+
+
+    w a s
+
+
+    a
+
+
+         major precursor
+
+
+         to the roller
+
+
+                   c   o   a   s   t   e   r   ?
+
+
+
+
+         ...  that  the
+
+
+              T a m p a
+
+
+    B   a   y
+
+
+              Storm   has
+
+
+         appeared   in   the
+
+
+              AFL playoffs
+
+
+              19  of
+
+
+                   their 22
+
+
+    y   e   a   r   s   ?
+
+
+              o  r
+
+
+              . . .
+
+
+    t  h  a  t
+
+
+              the 1948
+
+
+              H e a d i n g l e y
+
+
+    Test,  in  which
+
+
+              D   o   n
+
+
+              Bradman's  cricket  team
+
+
+    the Invincibles
+
+
+                   (pictured)  made
+
+
+                   a   world   record
+
+
+                   r   u   n   -   c   h   a   s   e   ,
+
+
+    r e m a i n s
+
+
+                   the  most
+
+
+         a t t e n d e d
+
+
+         T  e  s  t
+
+
+              o   n
+
+
+              E  n  g  l  i  s  h
+
+
+                   s o i l ?
+
+
+    a   n   d
+
+
+    ...   that
+
+
+                   a   report
+
+
+         c   r   i   t   i   c   i   z   i   n   g
+
+
+              s e n i o r
+
+
+         P  a  k  i  s  t  a  n  i
+
+
+         leaders‚Äîincluding  General
+
+
+    A b d u l
+
+
+    H a m i d
+
+
+              Khan‚Äîover their
+
+
+              c o n d u c t
+
+
+         d u r i n g
+
+
+              the  1971
+
+
+              B  a  n  g  l  a  d  e  s  h
+
+
+         Liberation   War,
+
+
+         was long
+
+
+                   suppressed   by   the
+
+
+                   P   a   k   i   s   t   a   n   i
+
+
+    g   o   v   e   r   n   m   e   n   t   ?
+
+
+
+
+                   ...that the
+
+
+    Decker  building
+
+
+         (pictured), an 1892
+
+
+                   M   o   o   r   i   s   h   -   i   n   f   l   u   e   n   c   e   d
+
+
+                   design,   is   where
+
+
+         Andy   Warhol   had
+
+
+                   his  Factory
+
+
+    from 1967
+
+
+         t o
+
+
+         1 9 7 3 ,
+
+
+    a  n  d
+
+
+                   w a s
+
+
+                   shot   in
+
+
+              1  9  6  8  ?
+
+
+    o   r
+
+
+              ...that   the
+
+
+              East End Historic
+
+
+                   District   in
+
+
+              Newburgh,  New
+
+
+         York, has
+
+
+                   the  most
+
+
+              contributing properties
+
+
+    of any
+
+
+         R  e  g  i  s  t  e  r  e  d
+
+
+                   Historic   District
+
+
+              in  the
+
+
+                   s t a t e ?
+
+
+              a  n  d
+
+
+                   ...   that   "Back
+
+
+         2   You
+
+
+    /
+
+
+         Still  Grey"
+
+
+              was simultaneously the
+
+
+              first   single
+
+
+                   by drum and
+
+
+    bass   band   Pendulum
+
+
+                   to  feature  either
+
+
+                   a guest vocalist,
+
+
+                   or   a
+
+
+                   g   u   e   s   t
+
+
+         i  n  s  t  r  u  m  e  n  t  a  l  i  s  t  ?
+
+
+
+
+    ...that  Stalag
+
+
+              fiction   was   a
+
+
+         g   e   n   r   e
+
+
+    of Israeli
+
+
+    pornography about concentration
+
+
+                   camp  imprisonment,  brutalization
+
+
+    by   female   SS
+
+
+              g  u  a  r  d  s  ,
+
+
+                   and   the
+
+
+         p r i s o n e r s '
+
+
+         r   e   v   e   n   g   e   ?
+
+
+         o r
+
+
+    .  .  .  t  h  a  t
+
+
+              o  n
+
+
+    June 14, 1835,
+
+
+                   U S R C
+
+
+         Ingham   became
+
+
+              the  first
+
+
+              U   n   i   t   e   d
+
+
+                   S t a t e s
+
+
+              warship   to
+
+
+                   engage  a  Mexican
+
+
+              ship   in
+
+
+                   c o m b a t ?
+
+
+    a   n   d
+
+
+                   ...that   Henri   Poincar√©
+
+
+              first   stated
+
+
+         the Poincar√©
+
+
+         duality in
+
+
+         terms of
+
+
+              B  e  t  t  i
+
+
+         n  u  m  b  e  r  s  ?
+
+
+
+
+                   ...that   the   gorge
+
+
+              in   China's   Flaming
+
+
+         Mountains,   near
+
+
+         the  ruins  of
+
+
+    the   once
+
+
+                   b   u   s   y
+
+
+              oasis  city  of
+
+
+         G a o c h a n g ,
+
+
+    was  an  important
+
+
+                   pass on
+
+
+         t h e
+
+
+                   ancient  trade  route,
+
+
+    t h e
+
+
+         S  i  l  k
+
+
+         R   o   a   d   ,
+
+
+                   skirting  the  deadly
+
+
+                   T  a  k  l  a  m  a  k  a  n
+
+
+              D  e  s  e  r  t  ?
+
+
+         o   r
+
+
+    . . . t h a t
+
+
+         fetal   movement   begins
+
+
+              as early as
+
+
+              seven weeks after
+
+
+                   c o n c e p t i o n ?
+
+
+                   a  n  d
+
+
+         .   .   .
+
+
+    that  having  witnessed
+
+
+    the effects of
+
+
+              a market
+
+
+              a t t a c k
+
+
+    in   the
+
+
+              2008‚Äì2009  Israel‚ÄìGaza  conflict
+
+
+                   during a
+
+
+         b   a   n
+
+
+              of  international  press,
+
+
+              Norwegian  doctor
+
+
+                   Mads   Gilbert
+
+
+                   s   t   a   r   t   e   d
+
+
+         a
+
+
+         global   SMS
+
+
+         c  a  m  p  a  i  g  n  ?
+
+
+
+
+                   ...  that  Mark
+
+
+         Rosenberg,   described
+
+
+    a  s
+
+
+              "one of Hollywood's
+
+
+    baby  moguls",
+
+
+                   was only 35
+
+
+    years  old  when
+
+
+                   he  succeeded
+
+
+         R o b e r t
+
+
+              S  h  a  p  i  r  o
+
+
+    a  s
+
+
+                   President   of
+
+
+                   Worldwide Theatrical
+
+
+              Production   at
+
+
+              W   a   r   n   e   r
+
+
+    B  r  o  s  .  ?
+
+
+    o   r
+
+
+                   ...that the
+
+
+         student   cheering   section
+
+
+              of  the
+
+
+    Penn State
+
+
+    N  i  t  t  a  n  y
+
+
+         Lions  men's
+
+
+              b   a   s   k   e   t   b   a   l   l
+
+
+                   t   e   a   m
+
+
+              is   known   as
+
+
+         the Nittany
+
+
+         N a t i o n ?
+
+
+              a   n   d
+
+
+                   ...that  the  Sir
+
+
+              Arthur  Clarke
+
+
+                   Awards recognise British
+
+
+         achievement  in
+
+
+    the space industry,
+
+
+         a   n   d
+
+
+         t  h  a  t
+
+
+         t  h  e
+
+
+         a   w   a   r   d   s
+
+
+         have the
+
+
+                   s   a   m   e
+
+
+    p  r  o  p  o  r  t  i  o  n  s
+
+
+    a s
+
+
+    the  monolith  from
+
+
+              Clarke's 2001:
+
+
+         A   Space
+
+
+                   O  d  y  s  s  e  y  ?
+
+
+
+
+              ...that  Sloan‚Äôs
+
+
+         Urania (Urania
+
+
+                   sloanus) (pictured),
+
+
+    a
+
+
+                   J a m a i c a n
+
+
+         day   flying
+
+
+    moth of the
+
+
+              U   r   a   n   i   i   d   a   e
+
+
+              family, was last
+
+
+                   reported in 1894
+
+
+    o r
+
+
+         1 8 9 5 ?
+
+
+         o r
+
+
+    ...that Mark
+
+
+                   Knight,   a   political
+
+
+    cartoonist  for  the
+
+
+                   H  e  r  a  l  d
+
+
+                   Sun, created
+
+
+    Leuk  the
+
+
+         Duck,   a   mascot
+
+
+              f   o   r
+
+
+              charity  named  after
+
+
+    l  e  u  k  e  m  i  a  ?
+
+
+         a   n   d
+
+
+                   ...that   the
+
+
+    Dunmore Pineapple was
+
+
+    a  folly
+
+
+         w   h   e   r   e
+
+
+    pineapples   were
+
+
+         g  r  o  w  n
+
+
+    in   Scotland
+
+
+    f   r   o   m
+
+
+                   1761  and  that
+
+
+         i  t
+
+
+    w a s
+
+
+    b   u   i   l   t
+
+
+    by   the
+
+
+         4  t  h
+
+
+    Earl  of  Dunmore,
+
+
+                   John   Murray,   who
+
+
+    l   a   t   e   r
+
+
+                   b e c a m e
+
+
+                   g   o   v   e   r   n   o   r
+
+
+                   of   Virginia   Colony
+
+
+                   in   North
+
+
+         A   m   e   r   i   c   a   ?
+
+
+
+
+                   .  .  .
+
+
+         that  in  1870,
+
+
+              the   Indian   Reform
+
+
+              A  s  s  o  c  i  a  t  i  o  n
+
+
+              a   i   m   e   d
+
+
+         at   putting
+
+
+                   into   practice
+
+
+         s   o   m   e
+
+
+                   of  the
+
+
+                   ideas  that
+
+
+                   t h e
+
+
+                   B   r   a   h   m   o
+
+
+    leader   Keshub   Chunder
+
+
+    S   e   n
+
+
+    w a s
+
+
+         exposed  to
+
+
+              during  his  visit
+
+
+              t  o
+
+
+    B r i t a i n ?
+
+
+                   o  r
+
+
+                   ...  that  Carl
+
+
+         Johan  Cronstedt  increased
+
+
+    t   h   e
+
+
+                   efficiency   of
+
+
+                   w   o   o   d   -   b   u   r   n   i   n   g
+
+
+    stoves in the
+
+
+    18th   century   by
+
+
+                   a  factor  of
+
+
+    e i g h t ?
+
+
+    a  n  d
+
+
+         .   .   .   t   h   a   t
+
+
+              t   h   e
+
+
+         Polski  Fiat  125p
+
+
+         (pictured) was made
+
+
+                   b y
+
+
+    then Polish
+
+
+              state-owned manufacturer FSO
+
+
+              car   factory   under
+
+
+    a
+
+
+                   l  i  c  e  n  s  e
+
+
+              a  g  r  e  e  m  e  n  t
+
+
+    with the Italian
+
+
+         c   o   m   p   a   n   y
+
+
+              F i a t ?
+
+
+
+
+                   .  .  .
+
+
+    that Mario Men√©ndez,
+
+
+                   w  h  o
+
+
+    was  the
+
+
+         g   o   v   e   r   n   o   r
+
+
+                   of   the
+
+
+              Falkland   Islands,   surrendered
+
+
+                   Argentine   forces   to
+
+
+                   the  United
+
+
+    K i n g d o m
+
+
+         during  the
+
+
+                   1982 Falklands
+
+
+    W   a   r   ?
+
+
+         o  r
+
+
+                   ...that   the
+
+
+                   Tj√§ngvide image
+
+
+              stone (pictured) is
+
+
+    held to
+
+
+    show a man,
+
+
+    or   Odin
+
+
+                   h   i   m   s   e   l   f   ,
+
+
+         arriving at Valhalla
+
+
+                   on Sleipnir
+
+
+                   w h e r e
+
+
+                   h e
+
+
+                   is  welcomed  by
+
+
+         a
+
+
+                   v a l k y r i e ?
+
+
+              a n d
+
+
+                   ... that the
+
+
+              Moss, Norway-based corporation
+
+
+         Peterson  started  as
+
+
+    a
+
+
+              general  store
+
+
+    in 1801,
+
+
+              later expanding
+
+
+    into  packaging
+
+
+                   and  paper  industry
+
+
+         via   timber
+
+
+         t r a d e
+
+
+              a n d
+
+
+    s   h   i   p   p   i   n   g   ?
+
+
+
+
+    . . .
+
+
+              that  the
+
+
+    M   a   r   t   i   n   i   c   a   n
+
+
+                   Communist Party
+
+
+                   became the largest
+
+
+              political   party   in
+
+
+    t   h   e
+
+
+         French  d√©partement
+
+
+    d'outre-mer   of
+
+
+    Martinique in
+
+
+                   t   h   e
+
+
+                   1   9   6   0   s   ?
+
+
+    o  r
+
+
+    ...that  Auburn
+
+
+              Tigers offensive coordinator
+
+
+         Al Borges wrote
+
+
+    both a
+
+
+                   book  and  an
+
+
+              i   n   s   t   r   u   c   t   i   o   n   a   l
+
+
+    video titled
+
+
+                   Coaching the West
+
+
+         C o a s t
+
+
+                   Q   u   a   r   t   e   r   b   a   c   k   ?
+
+
+                   a   n   d
+
+
+    .   .   .
+
+
+              that   Dr.   Jay
+
+
+         Katz,   who
+
+
+              escaped  from  Nazi
+
+
+                   Germany to
+
+
+              the U.S.
+
+
+                   in  the
+
+
+              1930s,  opposed
+
+
+              use   of
+
+
+                   d a t a
+
+
+              from   Nazi
+
+
+              human   experimentation,
+
+
+    b   e   c   a   u   s   e
+
+
+                   "   w   e
+
+
+         cannot separate the
+
+
+         data  from
+
+
+              the   way   they
+
+
+              w  e  r  e
+
+
+         o  b  t  a  i  n  e  d  "  ?
+
+
+
+
+         ...that  Tony
+
+
+              S a u n d e r s
+
+
+         was   the   first
+
+
+              p l a y e r
+
+
+                   selected  in
+
+
+    the  expansion
+
+
+         draft   when
+
+
+              M  a  j  o  r
+
+
+              L e a g u e
+
+
+    B  a  s  e  b  a  l  l
+
+
+              added   teams   in
+
+
+                   1 9 9 7 ?
+
+
+                   o  r
+
+
+    . . .
+
+
+              that  medievalist
+
+
+                   Aron   Gurevich
+
+
+    was  the  first
+
+
+    i   n
+
+
+                   Soviet   Union   to
+
+
+                   d e f e n d
+
+
+         a  doctoral
+
+
+              t   h   e   s   i   s
+
+
+                   o   n
+
+
+                   V i k i n g
+
+
+    h i s t o r y ?
+
+
+    a n d
+
+
+                   ...that   Artie   Wilson,
+
+
+                   who   hit
+
+
+         .402  in
+
+
+         1 9 4 8
+
+
+         with   the   Birmingham
+
+
+    B   l   a   c   k
+
+
+                   B   a   r   o   n   s
+
+
+    o  f
+
+
+              the  Negro
+
+
+         Leagues, is
+
+
+         often  considered  the
+
+
+                   last professional
+
+
+         major league
+
+
+    baseball   player
+
+
+              to bat
+
+
+    over  .400
+
+
+    f  o  r
+
+
+         a
+
+
+                   s  e  a  s  o  n  ?
+
+
+
+
+                   ...that Bharatiya Janata
+
+
+              Party   leader
+
+
+                   R   a   j   n   a   t   h
+
+
+              Singh has
+
+
+         b e e n
+
+
+    active  in
+
+
+                   the   party
+
+
+         s   i   n   c   e
+
+
+    a  g  e
+
+
+         1   3   ?
+
+
+                   o r
+
+
+    ... that George
+
+
+         W e b b
+
+
+         Restaurants  locations  each
+
+
+         have   two   clocks
+
+
+    that employees claim
+
+
+    are  set
+
+
+                   one   minute
+
+
+                   a   p   a   r   t
+
+
+    to evade
+
+
+              a
+
+
+              l o c a l
+
+
+                   l a w
+
+
+         banning  businesses  from
+
+
+              b e i n g
+
+
+              open   24   hours
+
+
+         p e r
+
+
+              d   a   y   ?
+
+
+                   a n d
+
+
+              . . . t h a t
+
+
+                   i   n
+
+
+                   V   a   j   r   a   y   ƒ   Å   n   a
+
+
+         Buddhism, a
+
+
+              Wisdom   King   is
+
+
+    t   h   e
+
+
+              third   tier
+
+
+              of deity, after
+
+
+                   buddhas  and
+
+
+                   b  o  d  h  i  s  a  t  t  v  a  s  ?
+
+
+
+
+         ... that although
+
+
+         some  believe
+
+
+    that  there
+
+
+         is   no   cure
+
+
+              f  o  r
+
+
+    s t u t t e r i n g ,
+
+
+              others say
+
+
+                   that   it
+
+
+                   can   be
+
+
+                   eliminated with
+
+
+         s t u t t e r i n g
+
+
+                   therapy   at
+
+
+         e  a  r  l  y
+
+
+         a  g  e  ?
+
+
+                   o   r
+
+
+              ...that  Chicago
+
+
+         theater-owner  Tony  DeSantis
+
+
+              survived two
+
+
+         near-fatal   explosions   in
+
+
+         h   i   s
+
+
+                   l  i  f  e  ?
+
+
+    a n d
+
+
+                   ...  that
+
+
+              i   n
+
+
+         1914,   railway   official
+
+
+    Lucius   Seymour   Storrs
+
+
+                   became  president
+
+
+              of  the  Connecticut
+
+
+         C   o   m   p   a   n   y   ?
+
+
+
+
+    ...that   the
+
+
+    Emancipation Memorial (pictured),
+
+
+    a  monument  in
+
+
+    Washington,   DC   depicting
+
+
+                   A b r a h a m
+
+
+                   L i n c o l n
+
+
+    in  his
+
+
+         r o l e
+
+
+         o f
+
+
+         t  h  e
+
+
+         "Great   Emancipator",
+
+
+                   was   paid   for
+
+
+    by   former
+
+
+              s  l  a  v  e  s  ?
+
+
+    o   r
+
+
+                   ...   that
+
+
+         I  r  a  q  i
+
+
+         lawyer   Dheyaa
+
+
+    al-Saadi  was  elected
+
+
+              president of
+
+
+         the   Iraqi   Bar
+
+
+         A s s o c i a t i o n
+
+
+              i  n
+
+
+              2  0  0  6  ,
+
+
+    but his
+
+
+                   election  was
+
+
+              a n n u l l e d
+
+
+    b e c a u s e
+
+
+              h e
+
+
+         was   once
+
+
+              a  member  of
+
+
+    Saddam Hussein's
+
+
+         B   a   a   t   h
+
+
+         P  a  r  t  y  ?
+
+
+              a n d
+
+
+         ...that   Sir   William
+
+
+         Gregory  was
+
+
+                   appointed  Speaker  of
+
+
+              the  House
+
+
+              of  Commons
+
+
+              in  1679
+
+
+    after only a
+
+
+    y e a r
+
+
+                   i  n
+
+
+         p a r l i a m e n t ?
+
+
+
+
+         o r
+
+
+    ...  that
+
+
+    the   Valencian
+
+
+              r   e   g   i   o   n   a   l
+
+
+         parliament,  the  Corts
+
+
+              Valencianes,  has  its
+
+
+                   o r i g i n s
+
+
+    i  n
+
+
+              assemblies   established   in
+
+
+         t h e
+
+
+                   thirteenth century by
+
+
+              King   James
+
+
+                   I  of
+
+
+              A   r   a   g   o   n   ?
+
+
+              a n d
+
+
+    ...  that,  according
+
+
+         to  theories  by
+
+
+              Dennis MacDonald, the
+
+
+                   e a r l i e s t
+
+
+         books  of
+
+
+                   t h e
+
+
+         New Testament
+
+
+              are  responses  to
+
+
+    the   Homeric
+
+
+              E  p  i  c  s  ,
+
+
+                   t  h  u  s
+
+
+              "nearly everything
+
+
+    written   on   early
+
+
+                   Christian   narrative
+
+
+         i s
+
+
+    f l a w e d " ?
+
+
+
+
+                   ...that,  at
+
+
+    the  age
+
+
+                   of 21, Henry
+
+
+                   III's   favorite
+
+
+              Anne  de
+
+
+                   Joyeuse enjoyed
+
+
+                   precedence over
+
+
+         all  other
+
+
+         d   u   k   e   s
+
+
+    and  peers  of
+
+
+    France,   with   the
+
+
+    exception of
+
+
+              t  h  e
+
+
+         C a p e t i a n s ?
+
+
+              o   r
+
+
+              ...that Ilsa Konrads,
+
+
+    f  o  r  m  e  r
+
+
+                   e d i t o r
+
+
+    o  f
+
+
+         Belle, was
+
+
+         an   Australian   Olympic
+
+
+                   swimmer who
+
+
+         set  12  world
+
+
+              r  e  c  o  r  d  s  ?
+
+
+                   a   n   d
+
+
+                   . . . t h a t
+
+
+                   D a n i s h
+
+
+    film   director   Pernille
+
+
+              Fischer Christensen's
+
+
+                   first  feature
+
+
+              f   i   l   m   ,
+
+
+              about   the   relationship
+
+
+                   b   e   t   w   e   e   n
+
+
+                   a
+
+
+              beauty   shop
+
+
+    o   w   n   e   r
+
+
+         a n d
+
+
+              a transvestite,
+
+
+         won  a  Silver
+
+
+         B e a r
+
+
+         prize  at
+
+
+         the 2006 Berlin
+
+
+         International   Film
+
+
+                   F e s t i v a l ?
+
+
+
+
+         ...that King Jagiello
+
+
+         Monument   in
+
+
+                   Central   Park,
+
+
+                   New York,
+
+
+              ( p i c t u r e d )
+
+
+    w a s
+
+
+         forced to
+
+
+                   remain  in  the
+
+
+         United  States  after
+
+
+              N a z i
+
+
+         invasion  of
+
+
+                   P o l a n d
+
+
+         made   its   return
+
+
+         f  r  o  m
+
+
+              1939  New  York
+
+
+         W  o  r  l  d  '  s
+
+
+              F  a  i  r
+
+
+              i m p o s s i b l e ?
+
+
+    o  r
+
+
+                   ...that methoxychlor
+
+
+         i s
+
+
+              used  as  an
+
+
+         insecticide  instead
+
+
+                   o  f
+
+
+              the   chemically   related
+
+
+                   DDT because
+
+
+                   it apparently
+
+
+    does not lead
+
+
+         t  o
+
+
+         b i o a c c u m u l a t i o n ?
+
+
+         a   n   d
+
+
+         ...   that   Canadian
+
+
+              professional   wrestler
+
+
+                   and promoter Bronko
+
+
+    L  u  b  i  c  h
+
+
+         was   influential   in
+
+
+    t  h  e
+
+
+         careers   of
+
+
+                   s   e   v   e   r   a   l
+
+
+         w  r  e  s  t  l  e  r  s
+
+
+         such   as
+
+
+         Mick  Foley,  Steve
+
+
+    Austin and
+
+
+         P e r c y
+
+
+    P r i n g l e ?
+
+
+
+
+                   . . . t h a t
+
+
+              a  higher  H-point
+
+
+              in an
+
+
+                   a   u   t   o   m   o   b   i   l   e
+
+
+                   design  would
+
+
+                   lead to
+
+
+    more legroom in
+
+
+         t h e
+
+
+              v   e   h   i   c   l   e   ?
+
+
+    o   r
+
+
+                   .  .  .  t  h  a  t
+
+
+         the   endowment   by
+
+
+    Edmund   Meyrick,   a
+
+
+                   Welsh cleric
+
+
+                   and philanthropist who
+
+
+    d i e d
+
+
+         in 1713, is
+
+
+         still  awarding  scholarships
+
+
+         to  students
+
+
+    at  Jesus
+
+
+    College,   Oxford   in
+
+
+         England  after
+
+
+    nearly   three
+
+
+              c e n t u r i e s ?
+
+
+                   a   n   d
+
+
+         ...that   the   Tribal
+
+
+    class  destroyer
+
+
+              HMS Tartar
+
+
+         received the
+
+
+    nickname  'Lucky  Tartar'
+
+
+                   due  to  her
+
+
+    numerous   escapes   from
+
+
+              dangerous   situations   in
+
+
+    World  War
+
+
+         I   I   ?
+
+
+
+
+    ...that  the  barndoor
+
+
+              skate  (pictured)
+
+
+         i   s
+
+
+    a   species
+
+
+         of   fish
+
+
+              that   is   threatened
+
+
+         w i t h
+
+
+                   extinction  from  overfishing
+
+
+                   d  e  s  p  i  t  e
+
+
+              n o t
+
+
+         b   e   i   n   g
+
+
+                   targeted by
+
+
+    t h e
+
+
+                   commercial   fishing
+
+
+              i  n  d  u  s  t  r  y  ?
+
+
+    o r
+
+
+              ...that Polish Communists
+
+
+              forbade the use
+
+
+              o f
+
+
+                   W   y   m   y   s   o   r   y   s
+
+
+    shortly   after
+
+
+              W  o  r  l  d
+
+
+                   War   II,
+
+
+         and  now  only
+
+
+         a b o u t
+
+
+              100   native   speakers
+
+
+    r e m a i n ?
+
+
+    a  n  d
+
+
+    ...that  the  14
+
+
+                   nations  designated  major
+
+
+              n   o   n   -   N   A   T   O
+
+
+         a   l   l   i   e   s
+
+
+         are the
+
+
+              o   n   l   y
+
+
+    countries outside of
+
+
+                   NATO to
+
+
+    whom the United
+
+
+         States   government
+
+
+                   will   sell   depleted
+
+
+              uranium   anti-tank
+
+
+              r  o  u  n  d  s  ?
+
+
+
+
+                   ...that the
+
+
+    B  l  a  c  k
+
+
+    S e m i n o l e s
+
+
+                   a   r   e
+
+
+         descendants of free
+
+
+    blacks   and
+
+
+         fugitive   slaves
+
+
+              traditionally allied with
+
+
+    Seminole  Indians  in
+
+
+         Florida  and
+
+
+              O  k  l  a  h  o  m  a  ?
+
+
+              o r
+
+
+    ...that   Sixty   Rayburn,
+
+
+    a 44-year member
+
+
+              o   f
+
+
+              the  Louisiana  State
+
+
+              Senate  who
+
+
+         d i e d
+
+
+         in 2008, was
+
+
+         t h e
+
+
+    d r i v i n g
+
+
+         force   behind
+
+
+                   the  establishment
+
+
+                   of the Louisiana
+
+
+              State   University
+
+
+    School of Veterinary
+
+
+         M  e  d  i  c  i  n  e  ?
+
+
+         a  n  d
+
+
+         ...that   NASCAR   official
+
+
+                   Robin Pemberton's decision
+
+
+    c o n c e r n i n g
+
+
+    the  final
+
+
+              outcome  of  the
+
+
+         2   0   0   7
+
+
+              Daytona  500
+
+
+              resulted  in  his
+
+
+         brother's team finishing
+
+
+                   second  instead
+
+
+              o f
+
+
+                   f   i   r   s   t   ?
+
+
+
+
+    . . .
+
+
+                   that the United
+
+
+         Nations Human
+
+
+    Rights   Committee
+
+
+                   found  that  Cameroonian
+
+
+         investigative   journalist   Philip
+
+
+         Njaru   has   faced
+
+
+              repeated  police  brutality
+
+
+              s i n c e
+
+
+                   1  9  9  7  ?
+
+
+                   o   r
+
+
+         ...   that   the
+
+
+              Scottish   Six   Days
+
+
+         Trial  has  been
+
+
+              running  since
+
+
+                   1909 making it
+
+
+    the oldest
+
+
+              m o t o r c y c l e
+
+
+    trials   event
+
+
+                   in  the
+
+
+         w  o  r  l  d  ?
+
+
+              a   n   d
+
+
+                   .  .  .  t  h  a  t
+
+
+         Vlasina   Lake   in
+
+
+    s  o  u  t  h  e  a  s  t  e  r  n
+
+
+    Serbia is
+
+
+    famous   for   floating
+
+
+    islands  arising  from
+
+
+                   chunks  of  peat
+
+
+         broken off the
+
+
+         s   h   o   r   e   ?
+
+
+
+
+                   ...that,  although  normally
+
+
+    r  u  n
+
+
+    a  s
+
+
+    t h e
+
+
+                   last   car
+
+
+         of a passenger
+
+
+    train, the
+
+
+    interiors   of
+
+
+              observation  cars  could
+
+
+                   i   n   c   l   u   d   e
+
+
+              features of a
+
+
+              coach,  lounge,  diner,
+
+
+              o  r
+
+
+         s  l  e  e  p  e  r  ?
+
+
+         o  r
+
+
+    ...   that
+
+
+              Arthur  Bingham  was
+
+
+              commander of
+
+
+                   HMS Little
+
+
+         B  e  l  t  ,
+
+
+              when   the   Little
+
+
+                   B  e  l  t
+
+
+                   A f f a i r
+
+
+                   (  p  i  c  t  u  r  e  d  )
+
+
+    occurred   in
+
+
+              1   8   1   1   ?
+
+
+                   a   n   d
+
+
+                   ...that   Alameda   Street
+
+
+         was   built   by
+
+
+              Los   Angeles   County,
+
+
+              California as a
+
+
+              "truck boulevard" to
+
+
+         t   h   e
+
+
+         p o r t ?
+
+
+
+
+                   ...  that
+
+
+    a
+
+
+         failure  to
+
+
+                   correct  an
+
+
+                   aircraft   flaw
+
+
+         revealed  by
+
+
+                   the   "Windsor
+
+
+                   Incident"   with
+
+
+              American  Airlines
+
+
+                   Flight  96  (pictured)
+
+
+         c a u s e d
+
+
+    the  crash  of
+
+
+    Turkish  Airlines  Flight
+
+
+              981 two
+
+
+                   y e a r s
+
+
+    l   a   t   e   r   ?
+
+
+                   o r
+
+
+                   ...that  in
+
+
+              the  forthcoming
+
+
+         Bollywood   film
+
+
+                   K r a z z y
+
+
+         4,   actor   Hrithik
+
+
+         R   o   s   h   a   n
+
+
+                   performed an "item
+
+
+              number"   for   the
+
+
+    f i r s t
+
+
+    t i m e ?
+
+
+              a  n  d
+
+
+    . . . t h a t
+
+
+         t   h   e
+
+
+    cloven hoof is
+
+
+         a
+
+
+         characteristic   of   mountain
+
+
+    goats, certain
+
+
+    kosher  foods  and
+
+
+    in  some  traditions,
+
+
+    t h e
+
+
+                   D   e   v   i   l   ?
+
+
+
+
+              . . . t h a t
+
+
+         Battlefield  Baseball,  a
+
+
+              J   a   p   a   n   e   s   e
+
+
+    film,  features  elements
+
+
+                   of  the  sports,
+
+
+    m a r t i a l
+
+
+         a r t s
+
+
+              and  horror
+
+
+         g  e  n  r  e  s  ,
+
+
+                   a   s
+
+
+         w   e   l   l
+
+
+              as including
+
+
+              t  h  r  e  e
+
+
+              m   u   s   i   c   a   l
+
+
+                   n u m b e r s ?
+
+
+         o   r
+
+
+    ...  that
+
+
+         the   largest
+
+
+    s  u  r  f  a  c  e
+
+
+              action   during
+
+
+                   W   o   r   l   d
+
+
+         War   I   in
+
+
+              the Adriatic Sea
+
+
+         was  the  Battle
+
+
+              of the Strait
+
+
+              of   Otranto   ([[:|ships
+
+
+         p  i  c  t  u  r  e  d  ]  ]  )  ?
+
+
+    a n d
+
+
+    .  .  .  t  h  a  t
+
+
+         t h e
+
+
+    p r a c t i c e s
+
+
+                   of  the  Followers
+
+
+         of Christ church
+
+
+                   in  Oregon,  United
+
+
+         S   t   a   t   e   s   ,
+
+
+         which   include
+
+
+              faith   healing   and
+
+
+              forbid   medical   treatment,
+
+
+                   prompted  a  1999
+
+
+                   state  law
+
+
+              making parents liable
+
+
+                   if their children
+
+
+         are harmed by
+
+
+         a
+
+
+    lack  of
+
+
+         t   r   e   a   t   m   e   n   t   ?
+
+
+
+
+                   .   .   .   t   h   a   t
+
+
+                   the  Palace
+
+
+    in the Quinta
+
+
+                   da Boa
+
+
+                   Vista  park
+
+
+         i   n
+
+
+                   Rio  de  Janeiro,
+
+
+              B   r   a   z   i   l   ,
+
+
+              was  inhabited
+
+
+         by one
+
+
+                   King of
+
+
+         Portugal and the
+
+
+         t   w   o
+
+
+         B   r   a   z   i   l   i   a   n
+
+
+    E  m  p  e  r  o  r  s  ?
+
+
+              o  r
+
+
+                   ...that   Murray
+
+
+    R  a  n  e  y  ,
+
+
+              who developed
+
+
+                   the   Raney
+
+
+                   nickel catalyst, did
+
+
+    not  attend
+
+
+         h  i  g  h
+
+
+         s   c   h   o   o   l   ?
+
+
+    a   n   d
+
+
+    . . .
+
+
+    that Ludwig
+
+
+         I
+
+
+                   o f
+
+
+         Bavaria   was   inspired
+
+
+                   to  commission
+
+
+              the  Court
+
+
+    Church   of
+
+
+         All  Saints  (pictured)
+
+
+         in the
+
+
+    Munich Residence
+
+
+    after   attending   Christmas
+
+
+                   mass at
+
+
+                   the   Palatine   Chapel
+
+
+              i n
+
+
+              P a l e r m o ?
+
+
+
+
+              ...that  2007
+
+
+              Colorado   Buffaloes'
+
+
+                   starting quarterback
+
+
+         C  o  d  y
+
+
+              H a w k i n s
+
+
+              was   on   ESPNU's
+
+
+              r  e  a  l  i  t  y
+
+
+    show Summer
+
+
+    H o u s e ?
+
+
+    o r
+
+
+                   . . .
+
+
+                   that  college  football
+
+
+         wide receiver
+
+
+              Torrey   Smith
+
+
+    o f
+
+
+         t  h  e
+
+
+         Maryland Terrapins
+
+
+         s  e  t
+
+
+              t h e
+
+
+    Atlantic   Coast
+
+
+    Conference   record   for
+
+
+                   single-season   kick
+
+
+                   return yards,
+
+
+                   including  a
+
+
+              9   9   -   y   a   r   d
+
+
+    return  in  a
+
+
+              b   o   w   l
+
+
+         g a m e ?
+
+
+                   a n d
+
+
+         ...that the
+
+
+              k   i   n   g
+
+
+                   s t r o p h a r i a ,
+
+
+    a prized
+
+
+         e   d   i   b   l   e
+
+
+                   mushroom, develops spiny
+
+
+         cells  which  kill
+
+
+         n  e  m  a  t  o  d  e  s  ?
+
+
+
+
+                   ...that  studies
+
+
+         in phage
+
+
+         ecology   indicate   that
+
+
+         viruses may be
+
+
+         the   most   abundant
+
+
+                   o r g a n i s m s
+
+
+                   o n
+
+
+                   E   a   r   t   h   ?
+
+
+              o   r
+
+
+    . . . t h a t
+
+
+    B o r i s
+
+
+    Grekov   was
+
+
+         a   Soviet   historian
+
+
+         who  set  out
+
+
+                   to   debunk
+
+
+    M i k h a i l
+
+
+              Grushevsky's theory that
+
+
+              Kievan   Rus   was
+
+
+         a
+
+
+    predecessor   state
+
+
+         of   Ukraine   rather
+
+
+         t  h  a  n
+
+
+    o   f
+
+
+                   R   u   s   s   i   a
+
+
+         a n d
+
+
+              B e l a r u s ?
+
+
+    a   n   d
+
+
+              .   .   .   t   h   a   t
+
+
+         in   the   name
+
+
+         o   f
+
+
+                   s c i e n c e ,
+
+
+         American   nurse
+
+
+              Clara  Maass
+
+
+    v  o  l  u  n  t  e  e  r  e  d
+
+
+              t  o
+
+
+              be  bitten
+
+
+                   by  yellow
+
+
+              fever-carrying mosquitoes seven
+
+
+    times,  caught
+
+
+                   t  h  e
+
+
+    disease  twice,  and
+
+
+    ultimately died
+
+
+                   f   r   o   m
+
+
+         i  t  ?
+
+
+
+
+              .   .   .
+
+
+         that  Imperial  Japanese
+
+
+                   Army general
+
+
+    T  a  k  a  j  i
+
+
+              Wachi   attempted
+
+
+         to  create
+
+
+                   a
+
+
+                   collaborationist   state
+
+
+                   in   Guangxi,
+
+
+              China in
+
+
+                   the  mid
+
+
+         1  9  3  0  s  ?
+
+
+    o  r
+
+
+    ...that   Christian
+
+
+    anarchist   Dave
+
+
+    Andrews   was
+
+
+              e x c o m m u n i c a t e d
+
+
+                   from   the
+
+
+                   parachurch Youth
+
+
+              With A
+
+
+    M  i  s  s  i  o  n  ?
+
+
+         a   n   d
+
+
+         .   .   .
+
+
+              t   h   a   t
+
+
+    D a d d y
+
+
+                   Cool‚Äôs 1971
+
+
+              s   i   n   g   l   e
+
+
+    " E a g l e
+
+
+                   R o c k "
+
+
+                   r   e   m   a   i   n   e   d
+
+
+         at   #1   on
+
+
+              t  h  e
+
+
+    Australian National charts
+
+
+         for a record
+
+
+    ten  weeks
+
+
+    before  being
+
+
+         replaced   by   the
+
+
+    single  "Daddy
+
+
+         Cool"   by
+
+
+         a n o t h e r
+
+
+                   b   a   n   d
+
+
+    cashing   in   their
+
+
+                   s u c c e s s ?
+
+
+
+
+         ...that  the
+
+
+                   Norse   mythological   figure
+
+
+    Helgi Hundingsbane earned
+
+
+                   his   nickname
+
+
+    by  killing  a
+
+
+         k i n g
+
+
+         c  a  l  l  e  d
+
+
+         H u n d i n g ?
+
+
+         o   r
+
+
+         ...that  the  Greek
+
+
+    musical  group  C:Real
+
+
+              s a n g
+
+
+                   o  n  l  y
+
+
+                   i   n
+
+
+              English before the
+
+
+         a   r   r   i   v   a   l
+
+
+         of   lead
+
+
+    vocalist  Irini  Douka
+
+
+              in   2002,
+
+
+              which led
+
+
+                   to their
+
+
+    f  o  c  u  s
+
+
+                   on Greek language
+
+
+                   s o n g s ?
+
+
+                   a  n  d
+
+
+                   .  .  .  t  h  a  t
+
+
+    t h e
+
+
+              I   r   a   z   √   ∫
+
+
+    V o l c a n o
+
+
+                   in  Costa
+
+
+         Rica   erupted
+
+
+              violently in 1963,
+
+
+         on   the   day
+
+
+         U  .  S  .
+
+
+         P   r   e   s   i   d   e   n   t
+
+
+                   John  F.
+
+
+                   Kennedy  arrived
+
+
+              in  the  country
+
+
+                   for a state
+
+
+              v i s i t ?
+
+
+
+
+                   ...  that
+
+
+    screenwriter   Gustin
+
+
+                   Nash  was  inspired
+
+
+                   to   write
+
+
+              the   teen   film
+
+
+    Charlie  Bartlett
+
+
+         by   a   group
+
+
+    of teenagers that
+
+
+         h e
+
+
+         spent time with
+
+
+    while  working
+
+
+                   at a
+
+
+                   mall in
+
+
+                   B  u  r  b  a  n  k  ,
+
+
+                   C a l i f o r n i a ?
+
+
+              o  r
+
+
+                   .   .   .   t   h   a   t
+
+
+                   Tran Kim Tuyen,
+
+
+    the   intelligence
+
+
+                   chief  of
+
+
+                   South Vietnam's Ngo
+
+
+    Dinh Diem was
+
+
+              referred to as
+
+
+                   "   V   i   e   t   n   a   m   '   s
+
+
+         G o e b b e l s " ?
+
+
+                   a   n   d
+
+
+    ...that Section
+
+
+                   1  7  1
+
+
+              of  the
+
+
+    Criminal   Code   of
+
+
+    Cyprus,   which   prohibits
+
+
+         homosexual  acts
+
+
+                   b e t w e e n
+
+
+         men, was repealed
+
+
+    just   eight   days
+
+
+         before  a  May
+
+
+    29, 1998 deadline
+
+
+         set by
+
+
+    t h e
+
+
+         C  o  u  n  c  i  l
+
+
+    o f
+
+
+                   E   u   r   o   p   e   ?
+
+
+
+
+              .  .  .
+
+
+                   t  h  a  t
+
+
+         a
+
+
+    carmen was a
+
+
+         spell or
+
+
+                   incantation   among
+
+
+         t h e
+
+
+    Ancient   Romans,
+
+
+              of which
+
+
+         the   oldest   surviving
+
+
+              examples   are
+
+
+         the  Carmen
+
+
+         Arvale   and
+
+
+              t  h  e
+
+
+    C  a  r  m  e  n
+
+
+              S a l i a r e ?
+
+
+              o   r
+
+
+         ...the AT&T
+
+
+              C   o   r   p   o   r   a   t   e
+
+
+              Center  is
+
+
+    t  h  e
+
+
+         t  a  l  l  e  s  t
+
+
+    building   built
+
+
+                   in Chicago
+
+
+                   in   the   last
+
+
+              quarter of the
+
+
+                   2  0  t  h
+
+
+                   c   e   n   t   u   r   y   ?
+
+
+         a   n   d
+
+
+              ...   that
+
+
+                   t   h   e
+
+
+         parish church
+
+
+         at   Penterry   stands
+
+
+                   isolated  in
+
+
+         a
+
+
+         field   near   Chepstow
+
+
+    in   Wales,   with
+
+
+              a nearby
+
+
+                   plague   pit
+
+
+              thought to
+
+
+    h o l d
+
+
+         t   h   e
+
+
+         r   e   m   a   i   n   s
+
+
+              o   f
+
+
+                   many villagers
+
+
+              who  perished  in
+
+
+    the Black
+
+
+         D   e   a   t   h   ?
+
+
+
+
+                   ...that an
+
+
+         i  m  a  g  e
+
+
+              of  Tesslynn  O'Cull,
+
+
+                   a child abuse
+
+
+                   victim  who
+
+
+              was murdered
+
+
+         by   her   stepfather
+
+
+              a   t
+
+
+         the   age
+
+
+              o   f
+
+
+                   two, was used
+
+
+                   in  the  Stop
+
+
+         the  Abuse
+
+
+                   poster  for
+
+
+    O  r  e  g  o  n  ?
+
+
+                   o  r
+
+
+                   ...that John Turner
+
+
+              was the
+
+
+    f i r s t
+
+
+    person   to   be
+
+
+                   ordered deported from
+
+
+              the United
+
+
+         S  t  a  t  e  s
+
+
+              for  violation  of
+
+
+              t  h  e
+
+
+                   1903  Anarchist  Exclusion
+
+
+         A c t ?
+
+
+         a n d
+
+
+              ...that  Piscataway  Park
+
+
+    w   a   s
+
+
+    created to prevent
+
+
+                   development   and   protect
+
+
+    t  h  e
+
+
+              view  across  the
+
+
+    Potomac   River   from
+
+
+              M   o   u   n   t
+
+
+              V e r n o n ?
+
+
+
+
+                   o   r
+
+
+                   .   .   .   t   h   a   t
+
+
+    t h e
+
+
+         law   professor   Boudewijn
+
+
+                   Sirks  has
+
+
+         written  on  papyrology,
+
+
+                   food   distribution   in
+
+
+              ancient Rome, and
+
+
+         S a i l i n g
+
+
+                   in  the
+
+
+              Off-Season  with
+
+
+              R  e  d  u  c  e  d
+
+
+              F   i   n   a   n   c   i   a   l
+
+
+                   R   i   s   k   ?
+
+
+    a n d
+
+
+                   . . . t h a t
+
+
+                   Arishima   Ikuma,
+
+
+    Japanese  novelist,
+
+
+         published  his
+
+
+    n   e   w   -   s   t   y   l   e
+
+
+              poems  and  short
+
+
+              s   t   o   r   i   e   s
+
+
+              as   a
+
+
+         vehicle   to   introduce
+
+
+         the works of
+
+
+         t  h  e
+
+
+         F   r   e   n   c   h
+
+
+         impressionist painter Paul
+
+
+         C√©zanne   to   the
+
+
+         J a p a n e s e
+
+
+              p u b l i c ?
+
+
+
+
+              ...that   originally
+
+
+                   a mudflat, Lido
+
+
+    Isle  in
+
+
+                   Newport Beach was
+
+
+              o  n  e
+
+
+    of the first
+
+
+    m  a  s  t  e  r
+
+
+    planned  communities  in
+
+
+    C  a  l  i  f  o  r  n  i  a  ?
+
+
+                   o   r
+
+
+                   ...  that  despite
+
+
+    o   v   e   r
+
+
+              85%  of  American
+
+
+    Indian   students   giving
+
+
+         it  their
+
+
+              support, mascot controversy
+
+
+    a t
+
+
+              Humboldt High School
+
+
+    in Saint Paul,
+
+
+         Minnesota resulted in
+
+
+    the abandonment
+
+
+              of its Indians
+
+
+         m   a   s   c   o   t   ?
+
+
+              a  n  d
+
+
+         1 0 0 p x
+
+
+
+
+         ...that Ruffini's rule
+
+
+              allows the
+
+
+              r   a   p   i   d
+
+
+         division   of   any
+
+
+         polynomial   by
+
+
+         a
+
+
+    binomial  of
+
+
+              the form
+
+
+                   x
+
+
+                   -
+
+
+              r  ¬  †  ?
+
+
+              o   r
+
+
+                   ... that
+
+
+         t h e
+
+
+              s c i e n c e
+
+
+         f   i   c   t   i   o   n
+
+
+    novel The
+
+
+    Masks   of   Time
+
+
+                   by   Robert   Silverberg,
+
+
+              which   featured
+
+
+    a naked time
+
+
+              t   r   a   v   e   l   e   r
+
+
+              f   r   o   m
+
+
+                   the  future,  was
+
+
+              a
+
+
+    nominee   for
+
+
+         the 1969
+
+
+         N  e  b  u  l  a
+
+
+                   A   w   a   r   d   ?
+
+
+         a  n  d
+
+
+                   ...that U.S. Route
+
+
+              1   2
+
+
+                   w a s
+
+
+         e  x  t  e  n  d  e  d
+
+
+    into  Washington  in
+
+
+              1967, taking over
+
+
+         most  of  the
+
+
+    routing of
+
+
+                   U  .  S  .
+
+
+    R  o  u  t  e
+
+
+    4   1   0   ?
+
+
+
+
+    .   .   .
+
+
+    that  Malinda
+
+
+    Cramer,   a   founder
+
+
+    o  f
+
+
+    t   h   e
+
+
+              Church  of  Divine
+
+
+         Science   and   an
+
+
+              early influence in
+
+
+              the   New   Thought
+
+
+                   movement, died
+
+
+         i n
+
+
+                   t h e
+
+
+                   great  1906  San
+
+
+         F   r   a   n   c   i   s   c   o
+
+
+              e   a   r   t   h   q   u   a   k   e   ?
+
+
+         o  r
+
+
+         ...that  Independent
+
+
+              Learning Centre
+
+
+                   s   t   a   r   t   e   d
+
+
+                   the  Railway
+
+
+              School   Car
+
+
+         Program in
+
+
+    1   9   2   6   ,
+
+
+                   i  n
+
+
+              which  a
+
+
+              teacher  lived
+
+
+              i  n
+
+
+         a   train
+
+
+    car   that   traveled
+
+
+                   to   students
+
+
+                   in  isolated
+
+
+              Northern   Ontario
+
+
+                   c o m m u n i t i e s ?
+
+
+    a   n   d
+
+
+         .   .   .   t   h   a   t
+
+
+         t h e
+
+
+         Corbett  hill  Beinn
+
+
+    Chuirn   (pictured)   has
+
+
+         S c o t l a n d ' s
+
+
+         largest known
+
+
+    deposits  of
+
+
+                   g  o  l  d  ?
+
+
+
+
+    o   r
+
+
+                   .   .   .
+
+
+    that  the  complete,
+
+
+                   p  o  w  e  r
+
+
+                   o p e r a t e d ,
+
+
+         low   recoil   force
+
+
+              g  u  n
+
+
+                   t   u   r   r   e   t
+
+
+              of  the  Stingray
+
+
+              light   tank
+
+
+                   i  s
+
+
+              used  on
+
+
+                   the LAV-600 light
+
+
+    a  r  m  o  u  r  e  d
+
+
+              v e h i c l e ?
+
+
+              a   n   d
+
+
+                   . . . t h a t
+
+
+    t h e
+
+
+         Polish   Astronomical
+
+
+    and  Meteorogical  Observatory,
+
+
+         located on the
+
+
+              p   e   a   k
+
+
+                   of Pop
+
+
+                   Iwan (2022 meters
+
+
+              above   sea   level)
+
+
+         in   Chornohora,   was
+
+
+              the highest located
+
+
+    permanently  inhabited
+
+
+    building  in
+
+
+              i  n  t  e  r  b  e  l  l  u  m
+
+
+    P  o  l  a  n  d  ?
+
+
+
+
+                   ... that Haskel
+
+
+              L   o   o   k   s   t   e   i   n   ,
+
+
+                   w   h   o
+
+
+    succeeded his
+
+
+         f a t h e r
+
+
+    Joseph   Lookstein   as
+
+
+              R  a  b  b  i
+
+
+         of New
+
+
+    York   City's   Congregation
+
+
+                   Kehilath  Jeshurun
+
+
+              in 1979,
+
+
+                   w a s
+
+
+              Newsweek   magazine's   second-ranked
+
+
+              U.S. pulpit rabbi
+
+
+    i n
+
+
+         2  0  0  8  ?
+
+
+              o   r
+
+
+         .  .  .  t  h  a  t
+
+
+         the  Gilbert
+
+
+              U-238 Atomic Energy
+
+
+    L  a  b  o  r  a  t  o  r  y  ,
+
+
+    c  o  n  t  a  i  n  i  n  g
+
+
+                   ores bearing uranium-238,
+
+
+                   i s
+
+
+              one of many
+
+
+    products   which   have
+
+
+                   been recalled
+
+
+         in   the   interests
+
+
+    of  toy
+
+
+              s a f e t y ?
+
+
+              a   n   d
+
+
+         ... that
+
+
+    i   n
+
+
+         1  6  6  1  ,
+
+
+                   Lisle's   Tennis   Court
+
+
+    i  n
+
+
+         Lincoln's   Inn
+
+
+         F  i  e  l  d  s  ,
+
+
+              London  became  the
+
+
+         first  public
+
+
+                   theatre   in
+
+
+    England   to   feature
+
+
+    moveable   scenery
+
+
+    on sliding
+
+
+              w i n g s ?
+
+
+
+
+         ...that  the  Late
+
+
+         November  2006  Nor'easter
+
+
+    caused winds
+
+
+         up  to
+
+
+    80¬†mph  in  the
+
+
+         Outer   Banks,   the
+
+
+              only   occurrence   of
+
+
+                   t h u n d e r s n o w
+
+
+         o   n
+
+
+                   r  e  c  o  r  d
+
+
+    in  Charleston,  and
+
+
+         the   earliest   recorded
+
+
+              s n o w f a l l
+
+
+              in  Charleston  and
+
+
+              S  a  v  a  n  n  a  h  ?
+
+
+              o   r
+
+
+    ...that Country-Western singer,
+
+
+    s   o   n   g   w   r   i   t   e   r
+
+
+         and   actor
+
+
+         Jimmy Wakely
+
+
+              had his
+
+
+                   o w n
+
+
+         series   of   DC
+
+
+              Comics comic books,
+
+
+         billing him as
+
+
+    "   H   o   l   l   y   w   o   o   d   '   s
+
+
+         Sensational  Cowboy
+
+
+         S  t  a  r  !  "  ?
+
+
+                   a n d
+
+
+    ...that chryselephantine sculptures
+
+
+                   (   f   r   a   g   m   e   n   t   s
+
+
+    pictured)  were
+
+
+                   m  o  n  u  m  e  n  t  a  l
+
+
+         s   t   a   t   u   e   s
+
+
+    made   of   gold
+
+
+         and   ivory   that
+
+
+                   depicted  the
+
+
+              gods in Ancient
+
+
+              G   r   e   e   k
+
+
+              t e m p l e s ?
+
+
+
+
+    ...   that   USS¬†Samoa¬†(CB-6)
+
+
+              was scheduled
+
+
+    to  be
+
+
+         the   last   of
+
+
+    six Alaska-class
+
+
+              "large   cruisers"
+
+
+         built for
+
+
+         the  United
+
+
+              States  Navy,
+
+
+                   but was
+
+
+         c   a   n   c   e   l   e   d
+
+
+                   p r i o r
+
+
+    t o
+
+
+              c  o  n  s  t  r  u  c  t  i  o  n  ?
+
+
+              o  r
+
+
+                   . . .
+
+
+         t   h   a   t
+
+
+    b r i g h t l y
+
+
+              colored leheria turbans
+
+
+              were   male
+
+
+    b   u   s   i   n   e   s   s
+
+
+                   attire   in   Rajasthan,
+
+
+                   India  during  the
+
+
+              1  9  t  h
+
+
+    a   n   d
+
+
+              e  a  r  l  y
+
+
+                   2  0  t  h
+
+
+         c   e   n   t   u   r   i   e   s   ?
+
+
+         a   n   d
+
+
+                   . . .
+
+
+         that World
+
+
+         W r e s t l i n g
+
+
+                   Federation   referee   Danny
+
+
+    D  a  v  i  s
+
+
+                   also  competed
+
+
+              a   s
+
+
+                   "Mr.   X"   while
+
+
+              w  e  a  r  i  n  g
+
+
+              a
+
+
+                   m  a  s  k  ?
+
+
+
+
+                   ...that   players   had
+
+
+         to   submit
+
+
+                   their   turns   by
+
+
+         Z  X
+
+
+              Microdrive   cartridge   in
+
+
+    the   play
+
+
+                   by  mail
+
+
+    version of
+
+
+                   video game Dark
+
+
+                   S   c   e   p   t   r   e   ?
+
+
+         o  r
+
+
+                   . . .
+
+
+    t h a t
+
+
+              Roy   Agnew   has
+
+
+              been  described
+
+
+         as the
+
+
+              m   o   s   t
+
+
+         o  u  t  s  t  a  n  d  i  n  g
+
+
+              Australian  composer  of
+
+
+              t  h  e
+
+
+              early  20th
+
+
+         c e n t u r y ?
+
+
+    a   n   d
+
+
+         .   .   .
+
+
+              t  h  a  t
+
+
+              Edward  Cawston  made
+
+
+                   his  first-class
+
+
+                   cricket debut
+
+
+         for   Sussex   whilst
+
+
+         h   e
+
+
+              was  still
+
+
+              a   t
+
+
+    s  c  h  o  o  l  ?
+
+
+
+
+              ...  that  the
+
+
+    K i r k f i e l d
+
+
+         Lift  Lock  is
+
+
+    located at
+
+
+              the   highest   section
+
+
+              o  f
+
+
+         t h e
+
+
+         T r e n t - S e v e r n
+
+
+    W  a  t  e  r  w  a  y  ?
+
+
+              o   r
+
+
+                   ...that  Vorpostenboot,
+
+
+              t h e
+
+
+                   patrol  boats  that
+
+
+                   t h e
+
+
+         Kriegsmarine  used
+
+
+              i   n
+
+
+         World War II,
+
+
+                   w e r e
+
+
+    in fact modified
+
+
+                   f i s h i n g
+
+
+    s   h   i   p   s   ?
+
+
+              a  n  d
+
+
+              .   .   .   t   h   a   t
+
+
+                   the Spectral Bat
+
+
+    (  F  a  l  s  e
+
+
+              V a m p i r e
+
+
+         B a t )
+
+
+                   will fall out
+
+
+    of   a   tree
+
+
+    to   pounce   upon
+
+
+                   u n s u s p e c t i n g
+
+
+                   p   r   e   y   ?
+
+
+
+
+              ...that  the  Santa
+
+
+    F  e
+
+
+         c  o  u  r  t  h  o  u  s  e
+
+
+    ghost,  the
+
+
+              video   of   which
+
+
+                   g   o   t
+
+
+         more  than  80,000
+
+
+                   hits   on   Youtube,
+
+
+    appeared  to  be
+
+
+              a
+
+
+              b   u   g   ?
+
+
+                   o r
+
+
+              .   .   .   t   h   a   t
+
+
+    b   e   a   d
+
+
+              crochet   (pictured)
+
+
+              w a s
+
+
+    a  popular
+
+
+    method of
+
+
+         creating   women's   fashion
+
+
+              accessories during the
+
+
+                   1   9   2   0   s   ?
+
+
+         a   n   d
+
+
+                   ...that the
+
+
+    8   0   0   ,   0   0   0   -   m   e   m   b   e   r
+
+
+              G   l   o   b   a   l
+
+
+              Pastors Network continues
+
+
+    the   legacy   of
+
+
+    Bill  Bright
+
+
+              by   attempting
+
+
+              t o ,
+
+
+                   in   their   own
+
+
+    words,   "win
+
+
+    1   billion
+
+
+              p   e   o   p   l   e
+
+
+    t  o
+
+
+    C   h   r   i   s   t   "   ?
+
+
+
+
+    o   r
+
+
+              ...that  The  Observatory,
+
+
+              a
+
+
+              Singaporean  space
+
+
+                   rock   band
+
+
+         r e l e a s e d
+
+
+                   their   first
+
+
+    a   l   b   u   m
+
+
+                   p a c k a g e d
+
+
+    as  a  diary,
+
+
+    complete with
+
+
+    t  o  r  n
+
+
+         p a g e s
+
+
+         and   paperclipped
+
+
+              p   h   o   t   o   s   ?
+
+
+                   a n d
+
+
+         ...that  Marmoutier  Abbey
+
+
+              in   France   was
+
+
+                   destroyed  four
+
+
+                   times between
+
+
+    its construction in
+
+
+         the 4th
+
+
+                   Century  and  the
+
+
+                   raising   of
+
+
+    a  private
+
+
+         s  c  h  o  o  l
+
+
+    on   its   latest
+
+
+    r   u   i   n   s   ?
+
+
+
+
+    ...that   British   Columbia's
+
+
+         Creston  Valley,  the
+
+
+              province's  first  Wildlife
+
+
+                   M a n a g e m e n t
+
+
+                   A   r   e   a   ,
+
+
+                   i  s
+
+
+                   a
+
+
+              R  a  m  s  a  r
+
+
+    wetland of
+
+
+                   international   importance
+
+
+              and  a
+
+
+                   global Important
+
+
+              B   i   r   d
+
+
+    A   r   e   a   ?
+
+
+              o  r
+
+
+    ...that because
+
+
+                   of its
+
+
+                   system  of  ravines,
+
+
+                   Toronto   has
+
+
+         b  e  e  n
+
+
+         d e s c r i b e d
+
+
+         a s
+
+
+                   "   S   a   n
+
+
+    Francisco  turned  upside
+
+
+                   d  o  w  n  "  ?
+
+
+              a   n   d
+
+
+         ...that  when  Drake
+
+
+    U  n  i  v  e  r  s  i  t  y
+
+
+                   b a s k e t b a l l
+
+
+                   p   l   a   y   e   r
+
+
+                   A d a m
+
+
+         Emmenecker was
+
+
+                   named   2008
+
+
+         M i s s o u r i
+
+
+              Valley   Conference
+
+
+         Player   of
+
+
+         the Year, the
+
+
+    conference  called
+
+
+         him   "perhaps   the
+
+
+         most improbable
+
+
+    Player   of   the
+
+
+         Year"   in   its
+
+
+              h   i   s   t   o   r   y   ?
+
+
+
+
+    ...   that   during
+
+
+    h   e   r
+
+
+         husband's  presidential  campaign,
+
+
+    M  i  c  h  e  l  l  e
+
+
+                   Obama   met
+
+
+    with   Mormon   officials
+
+
+         in their Church
+
+
+    A   d   m   i   n   i   s   t   r   a   t   i   o   n
+
+
+                   B  u  i  l  d  i  n  g  ?
+
+
+                   o   r
+
+
+         ...that Diodore of
+
+
+    Tarsus  mentored
+
+
+    both  the
+
+
+              sainted  John
+
+
+              C  h  r  y  s  o  s  t  o  m
+
+
+         a n d
+
+
+         the  heretical  Theodore
+
+
+                   o f
+
+
+              M   o   p   s   u   e   s   t   i   a   ?
+
+
+         a n d
+
+
+    .  .  .
+
+
+         t  h  a  t
+
+
+              t  h  e
+
+
+         private company Gr√•kallbanen
+
+
+    reopened   the
+
+
+         T r o n d h e i m
+
+
+         Tramway in 1990,
+
+
+              two years
+
+
+    a f t e r
+
+
+              it had been
+
+
+    permanently   closed   by
+
+
+              t  h  e
+
+
+                   c   i   t   y
+
+
+              c  o  u  n  c  i  l  ?
+
+
+
+
+              ...that   Signor   Brocolini
+
+
+         (pictured),  the  original
+
+
+              P  i  r  a  t  e
+
+
+                   King   in
+
+
+    Gilbert  and  Sullivan's
+
+
+              The Pirates
+
+
+    o f
+
+
+    Penzance, took
+
+
+                   his  stage  name
+
+
+              in   honor   of
+
+
+    Brooklyn, where
+
+
+              h  e
+
+
+              g  r  e  w
+
+
+    u  p  ?
+
+
+              o  r
+
+
+                   ...   that
+
+
+         Z  a  c
+
+
+              E  f  r  o  n
+
+
+         a  n  d
+
+
+    C l a i r e
+
+
+              Danes   claim   they
+
+
+         s  a  w
+
+
+    a  ghostlike
+
+
+                   figure   while   filming
+
+
+              Me and Orson
+
+
+                   Welles at Gaiety
+
+
+              T h e a t r e
+
+
+                   on the
+
+
+    Isle of
+
+
+                   M   a   n   ?
+
+
+    a  n  d
+
+
+    ...  that
+
+
+                   only after
+
+
+    the  end
+
+
+              of   World
+
+
+    War   II
+
+
+              w  a  s
+
+
+                   i t
+
+
+                   p u b l i c l y
+
+
+    r   e   v   e   a   l   e   d
+
+
+              t h a t
+
+
+         the   Norwegian
+
+
+                   ships SS Irma
+
+
+         and  SS
+
+
+              Henry had been
+
+
+    s u n k
+
+
+         b  y
+
+
+                   the  Royal
+
+
+                   N   o   r   w   e   g   i   a   n
+
+
+              N  a  v  y  ?
+
+
+
+
+    . . .
+
+
+         t h a t
+
+
+              a
+
+
+         principal  work  of
+
+
+    mathematician  Wilhelm
+
+
+    Cauer   was   twice
+
+
+    d  e  s  t  r  o  y  e  d
+
+
+         d   u   r   i   n   g
+
+
+    World War II
+
+
+                   and was
+
+
+         only   published
+
+
+              after  his
+
+
+    death   by
+
+
+         h i s
+
+
+         family, who reconstructed
+
+
+    i  t
+
+
+         f r o m
+
+
+              the  table  of
+
+
+         c o n t e n t s ?
+
+
+                   o r
+
+
+    ...that   the
+
+
+         1  8  9  2
+
+
+    Thomas   Gale
+
+
+    House   was   one
+
+
+                   o f
+
+
+         at  least
+
+
+         eight  "bootleg
+
+
+         houses" designed
+
+
+         by Frank Lloyd
+
+
+         Wright  in  breach
+
+
+    o f
+
+
+                   his  contract
+
+
+              with  architect
+
+
+              L  o  u  i  s
+
+
+    S   u   l   l   i   v   a   n   ?
+
+
+              a   n   d
+
+
+              ... that computer
+
+
+                   s   e   c   u   r   i   t   y
+
+
+    expert  Dan
+
+
+    K  a  m  i  n  s  k  y
+
+
+                   demonstrated a security
+
+
+              v  u  l  n  e  r  a  b  i  l  i  t  y
+
+
+              by  setting
+
+
+    up Rickrolls on
+
+
+                   Facebook  and
+
+
+    P a y P a l ?
+
+
+
+
+                   .   .   .
+
+
+                   t   h   a   t
+
+
+         carved  Romanesque
+
+
+              stone  heads
+
+
+              (pictured)   were   added
+
+
+    to  the
+
+
+         walls  of
+
+
+    Temple Cronan
+
+
+              i n
+
+
+         Ireland   as
+
+
+                   decoration   during   renovation
+
+
+         i  n
+
+
+                   the  12th
+
+
+              c   e   n   t   u   r   y   ?
+
+
+         o  r
+
+
+         ...that  before  natural
+
+
+    selection was understood
+
+
+              there were
+
+
+                   several  now-discredited  theories
+
+
+         o f
+
+
+    speciation,   including   Lamarckism
+
+
+                   a  n  d
+
+
+    o  r  t  h  o  g  e  n  e  s  i  s  ?
+
+
+         a n d
+
+
+              ...   that   Tangton
+
+
+                   Gyelpo,  a
+
+
+                   15th-century   Nyingma
+
+
+         yogi, physician,
+
+
+                   t r e a s u r e
+
+
+         finder,   and
+
+
+                   f o u n d e r
+
+
+    of Tibetan
+
+
+    opera,   is   known
+
+
+                   f  o  r
+
+
+         building   numerous   iron
+
+
+    chain   suspension
+
+
+              bridges in
+
+
+    T   i   b   e   t   ?
+
+
+
+
+              ...that  it  is
+
+
+                   said that
+
+
+    the name
+
+
+              f  o  r
+
+
+    Gilbertstone  in  Birmingham
+
+
+              derives  from  a
+
+
+    man  named  Gilbert
+
+
+                   lifting  an
+
+
+                   e  r  r  a  t  i  c  ,
+
+
+         now  displayed  at
+
+
+              B  l  a  k  e  s  l  e  y
+
+
+              Hall, to extend
+
+
+         the boundaries of
+
+
+         h  i  s
+
+
+         l  a  n  d  ?
+
+
+    o  r
+
+
+                   .   .   .   t   h   a   t
+
+
+    t h e
+
+
+                   first   poet   in
+
+
+                   the Russian
+
+
+                   language, Symeon
+
+
+         o   f
+
+
+    Polotsk,  was  ethnically
+
+
+              B   e   l   a   r   u   s   i   a   n   ?
+
+
+              a  n  d
+
+
+                   . . .
+
+
+         that   Norwegian   trade
+
+
+         unionist  Ludvik  Buland,
+
+
+              sentenced   to   death
+
+
+              b  y
+
+
+                   t  h  e
+
+
+              Nazi  authorities  in
+
+
+                   1941, was
+
+
+                   later reprieved, only
+
+
+         t o
+
+
+              d  i  e
+
+
+                   i   n
+
+
+                   a
+
+
+              Nacht   und   Nebel
+
+
+              c   a   m   p
+
+
+              f  o  u  r
+
+
+    y   e   a   r   s
+
+
+    l  a  t  e  r  ?
+
+
+
+
+         . . .
+
+
+                   t   h   a   t
+
+
+              adherents of
+
+
+              t h e
+
+
+    Biblical   archaeology   school
+
+
+              believe  there
+
+
+                   is   physical   evidence
+
+
+              for Old
+
+
+         T e s t a m e n t
+
+
+    e  v  e  n  t  s  ?
+
+
+                   o   r
+
+
+         .   .   .
+
+
+    t  h  a  t
+
+
+    young people
+
+
+         a   r   e
+
+
+                   m   o   r   e
+
+
+         l  i  t  e  r  a  t  e
+
+
+         in  Hakha  Chin
+
+
+    t  h  a  n
+
+
+    their  elder
+
+
+              c   o   u   n   t   e   r   p   a   r   t   s   ?
+
+
+              a  n  d
+
+
+                   ...that  members  of
+
+
+                   the  Appalachian
+
+
+    Volunteers were
+
+
+    c h a r g e d
+
+
+              w  i  t  h
+
+
+         s  e  d  i  t  i  o  n
+
+
+              i n
+
+
+              1967  for  plotting
+
+
+         t  h  e
+
+
+                   violent   overthrow
+
+
+         of   Pike
+
+
+    County, after the
+
+
+    group's   successful
+
+
+                   efforts  led
+
+
+              to  closure
+
+
+              of a Kentucky
+
+
+                   c  o  a  l
+
+
+                   m i n e ?
+
+
+
+
+    ...that   the
+
+
+              Century  apartments  is
+
+
+              o  n  e
+
+
+    o  f
+
+
+         t h e
+
+
+    f i r s t
+
+
+    r   e   s   i   d   e   n   t   i   a   l
+
+
+    buildings to
+
+
+         be  built
+
+
+         in the Art
+
+
+         Deco  style,
+
+
+                   c a u s i n g
+
+
+    it  to
+
+
+              stand  out
+
+
+              from its
+
+
+         Beaux-Arts neighbors on
+
+
+    Central  Park
+
+
+         W  e  s  t  ?
+
+
+    o   r
+
+
+         ...   that   James-Younger
+
+
+    Gang member
+
+
+         "Dick"   Liddil   surrendered
+
+
+    to  authorities
+
+
+              after  killing  Jesse
+
+
+         J a m e s '
+
+
+                   cousin,   reportedly
+
+
+                   out  of  fear
+
+
+         of   that
+
+
+              James  would
+
+
+                   s e e k
+
+
+    r   e   v   e   n   g   e   ?
+
+
+                   a  n  d
+
+
+         ...that in addition
+
+
+         to the 22
+
+
+    suspects   listed   by
+
+
+              t   h   e
+
+
+    L  o  s
+
+
+              Angeles County District
+
+
+                   Attorney in
+
+
+              the notorious
+
+
+         unsolved  Black
+
+
+         Dahlia   case
+
+
+    of   1947,   about
+
+
+         6  0
+
+
+    p   e   o   p   l   e
+
+
+         confessed  to  the
+
+
+                   c r i m e ?
+
+
+
+
+              ...that  the  2006
+
+
+         Alamo Bowl (pictured:
+
+
+         the  Alamodome)  set
+
+
+    a
+
+
+         record  for  the
+
+
+         most people
+
+
+         to   view
+
+
+                   a
+
+
+         s p o r t i n g
+
+
+              event  live
+
+
+              in San Antonio,
+
+
+                   Texas,  as
+
+
+                   w e l l
+
+
+              as   the   most
+
+
+    t  e  l  e  v  i  s  i  o  n
+
+
+                   viewers ever to
+
+
+              w  a  t  c  h
+
+
+         a
+
+
+    bowl   game   on
+
+
+    E   S   P   N   ?
+
+
+         o   r
+
+
+         .   .   .   t   h   a   t
+
+
+         t   h   e
+
+
+         Alicante   Bouschet   is
+
+
+                   t h e
+
+
+                   only Vitis
+
+
+         v   i   n   i   f   e   r   a
+
+
+                   w i n e
+
+
+                   grape   with
+
+
+    r   e   d
+
+
+              j u i c e ?
+
+
+                   a  n  d
+
+
+    . . . t h a t
+
+
+              the Praetorian
+
+
+         B  u  i  l  d  i  n  g  ,
+
+
+                   a   high-rise
+
+
+                   in Dallas, is
+
+
+                   regarded   to   be
+
+
+         the first skyscraper
+
+
+         constructed   in
+
+
+                   the  Southwestern  United
+
+
+              S t a t e s ?
+
+
+
+
+                   ... that
+
+
+    the   Sunset
+
+
+              Tower (pictured) in
+
+
+    W  e  s  t
+
+
+    H   o   l   l   y   w   o   o   d   ,
+
+
+         C a l i f o r n i a
+
+
+         was home to
+
+
+              gangster   Bugsy   Siegel,
+
+
+              who   was
+
+
+         asked to leave
+
+
+              after  being  charged
+
+
+         w i t h
+
+
+    running  a
+
+
+              b  o  o  k  m  a  k  i  n  g
+
+
+              o  p  e  r  a  t  i  o  n
+
+
+         t   h   e   r   e   ?
+
+
+         o r
+
+
+              .  .  .  i  n
+
+
+              1   2   9   3   ,
+
+
+                   the  Bartian  tribe
+
+
+              o   f
+
+
+         Prussia   asked   Lithuanian
+
+
+              G  r  a  n  d
+
+
+                   Duke Vytenis
+
+
+                   for protection
+
+
+                   a g a i n s t
+
+
+    t h e
+
+
+                   T e u t o n i c
+
+
+              K  n  i  g  h  t  s  ?
+
+
+              a n d
+
+
+              . . . t h a t
+
+
+         Frederick   Lorz
+
+
+    was   greeted   as
+
+
+                   the   winner   of
+
+
+         the   1904   Summer
+
+
+         Olympics  marathon
+
+
+         but later admitted
+
+
+    to  having
+
+
+    travelled  by  car
+
+
+                   for   ten
+
+
+    miles of
+
+
+    t   h   e
+
+
+                   r a c e ?
+
+
+
+
+              ...that in
+
+
+         1712  Jane
+
+
+    W   e   n   h   a   m
+
+
+                   became the last
+
+
+         subject   of
+
+
+                   a witch trial
+
+
+    i  n
+
+
+              England, and
+
+
+                   t   h   a   t
+
+
+    she   was
+
+
+         e  v  e  n  t  u  a  l  l  y
+
+
+              e   x   o   n   e   r   a   t   e   d   ?
+
+
+                   o   r
+
+
+    ...that  Tropical
+
+
+              Storm Bilis
+
+
+              caused 625 deaths
+
+
+              a   n   d
+
+
+         $  2  .  5
+
+
+              billion   (2006   left|100px
+
+
+                   in   damage   to
+
+
+              the   Philippines,
+
+
+              mainland China,
+
+
+              and  Taiwan,  making
+
+
+         it  the
+
+
+         most  damaging
+
+
+    storm of the
+
+
+    2006 Pacific
+
+
+    typhoon   season   so
+
+
+         f   a   r   ?
+
+
+                   a n d
+
+
+                   ...  that  hwajeon
+
+
+                   (  p  i  c  t  u  r  e  d  )
+
+
+    is  a
+
+
+              s   w   e   e   t
+
+
+                   K   o   r   e   a   n
+
+
+                   p   a   n   c   a   k   e
+
+
+              or  rice  cake
+
+
+              made   of
+
+
+              edible flower petals,
+
+
+                   glutinous  rice
+
+
+                   f   l   o   u   r   ,
+
+
+              a   n   d
+
+
+         s   u   g   a   r   ?
+
+
+
+
+              ...that   when
+
+
+                   the  first
+
+
+    portion   of   the
+
+
+    L  a  c  k  a  w  a  n  n  a
+
+
+    and  Bloomsburg
+
+
+              R a i l r o a d
+
+
+              o   p   e   n   e   d
+
+
+    in   1856,   it
+
+
+                   led   to   the
+
+
+                   i n c o r p o r a t i o n
+
+
+    of  Kingston,
+
+
+    Pennsylvania,  and  to
+
+
+         the   establishment   of
+
+
+    Kingston's  first
+
+
+         p   u   b   l   i   c
+
+
+                   t  r  a  n  s  i  t
+
+
+                   l   i   n   e   ?
+
+
+    o   r
+
+
+         ...that the
+
+
+              atmosphere of
+
+
+    Triton   produces   a
+
+
+         surface  pressure
+
+
+              only 1/70,000th
+
+
+         of   that   on
+
+
+                   E   a   r   t   h   ?
+
+
+                   a n d
+
+
+         ...that   the
+
+
+    skink   Chalcides
+
+
+         c o l o s i i
+
+
+                   w  a  s
+
+
+         o  n  c  e
+
+
+                   considered  a  subspecies
+
+
+                   of another
+
+
+                   species,  Chalcides  ocellatus
+
+
+              (named  for
+
+
+    i t s
+
+
+    ocelli),   despite   the
+
+
+         fact   that   C.
+
+
+              colosii   has
+
+
+    n   o
+
+
+         o c e l l i ?
+
+
+
+
+    ...  that
+
+
+                   the Russian anarchist-communist
+
+
+              organisation Chernoe Znamia
+
+
+         (pictured)   were
+
+
+                   the   first   with
+
+
+    a   deliberate
+
+
+                   p  o  l  i  c  y
+
+
+              of  terror
+
+
+                   a g a i n s t
+
+
+         the   established
+
+
+              o   r   d   e   r   ?
+
+
+                   o  r
+
+
+              .  .  .
+
+
+                   that George "Crybaby"
+
+
+                   Cannon   got
+
+
+                   his  nickname
+
+
+         from   being   able
+
+
+                   t o
+
+
+                   wipe  sweat  from
+
+
+              his  face
+
+
+                   to   make
+
+
+         i  t
+
+
+         appear   as   though
+
+
+    he   was
+
+
+                   c r y i n g ?
+
+
+    a   n   d
+
+
+              ...   that
+
+
+    although  Paul
+
+
+              Gondjout  founded
+
+
+         the Gabonese
+
+
+         Democratic Bloc,
+
+
+         L  √  ©  o  n
+
+
+                   M   '   b   a
+
+
+         soon overthrew
+
+
+    h  i  m  ?
+
+
+
+
+    ...  that  Archbishop
+
+
+    Desmond   Tutu
+
+
+         has called
+
+
+                   f o r
+
+
+         a   campaign
+
+
+                   o  f
+
+
+    d i s i n v e s t m e n t
+
+
+                   f  r  o  m
+
+
+    I s r a e l ?
+
+
+                   o  r
+
+
+                   .   .   .   t   h   a   t
+
+
+         t h e
+
+
+                   R  o  y  a  l
+
+
+              Fort (pictured) in
+
+
+                   Bristol  was
+
+
+    built   with
+
+
+    fa√ßades   in
+
+
+         Baroque,  Palladian  and
+
+
+         R   o   c   o   c   o
+
+
+         s   t   y   l   e   s
+
+
+         b  e  c  a  u  s  e
+
+
+              i t
+
+
+              was  a  compromise
+
+
+         between the
+
+
+                   designs of three
+
+
+    d i f f e r e n t
+
+
+         a r c h i t e c t s ?
+
+
+         a n d
+
+
+    .   .   .   t   h   a   t
+
+
+         C  l  a  u  d  i  a
+
+
+              A l e x a n d e r
+
+
+              was  the
+
+
+                   last  project  manager
+
+
+              of  NASA's  Galileo
+
+
+                   mission to
+
+
+    J   u   p   i   t   e   r   ?
+
+
+
+
+              ...   that   Curtis
+
+
+    Woodhouse   was   a
+
+
+                   professional  boxer
+
+
+    w   h   i   l   e
+
+
+    s   t   i   l   l
+
+
+              playing  professional
+
+
+    football for
+
+
+              Rushden  &
+
+
+         D i a m o n d s ?
+
+
+                   o r
+
+
+              ...that   a   Chicago
+
+
+    urban legend
+
+
+    states  that
+
+
+         90,000  people
+
+
+                   d i e d
+
+
+         in   Chicago   of
+
+
+         t y p h o i d
+
+
+    fever and cholera
+
+
+              i n
+
+
+         1  8  8  5  ?
+
+
+              a   n   d
+
+
+         .  .  .  t  h  a  t
+
+
+                   Fox Point State
+
+
+              Park,   a
+
+
+                   Delaware  State
+
+
+         P   a   r   k
+
+
+                   which opened
+
+
+    in  1995  along
+
+
+                   t  h  e
+
+
+              Delaware River, was
+
+
+                   built   atop   a
+
+
+              hazardous   waste
+
+
+                   s  i  t  e  ?
+
+
+
+
+    .  .  .  t  h  a  t
+
+
+    law professor Ralph
+
+
+                   A  i  g  l  e  r  ,
+
+
+         once  known
+
+
+              a   s
+
+
+    t  h  e
+
+
+         "dominant   figure   in
+
+
+    M  i  c  h  i  g  a  n  '  s
+
+
+              athletics,"  negotiated  the
+
+
+              B i g
+
+
+              Ten's   exclusive   contracts
+
+
+                   with  the  Rose
+
+
+    B o w l
+
+
+         in  1946  and
+
+
+                   1   9   5   3   ?
+
+
+    o   r
+
+
+              ...that  Jan
+
+
+              Stanis≈Çawski,  a
+
+
+    P  o  l  i  s  h
+
+
+         modernist   painter,   had
+
+
+                   his  portrait
+
+
+              (  p  i  c  t  u  r  e  d  )
+
+
+              painted  by  another
+
+
+                   i  c  o  n
+
+
+    of Polish
+
+
+         M   o   d   e   r   n   i   s   m   ,
+
+
+    S   t   a   n   i   s   ≈   Ç   a   w
+
+
+    W y s p i a ≈ Ñ s k i ?
+
+
+                   a   n   d
+
+
+                   ...that   comedian
+
+
+                   Nipsey   Russell   got
+
+
+    his  start
+
+
+                   as  a  car
+
+
+         hop at
+
+
+                   t  h  e
+
+
+         A  t  l  a  n  t  a
+
+
+                   d r i v e - i n
+
+
+              r  e  s  t  a  u  r  a  n  t
+
+
+    T   h   e
+
+
+         V a r s i t y ?
+
+
+
+
+    ...that   Hood   Mountain
+
+
+         h   a   s
+
+
+              high canopy mixed
+
+
+                   oak  forests,
+
+
+         p  y  g  m  y
+
+
+    forests and expanses
+
+
+         of  rock
+
+
+              outcrop, and
+
+
+                   also   has
+
+
+                   a   vulnerable
+
+
+         plant   species
+
+
+    n   a   m   e   d
+
+
+    f  o  r
+
+
+                   i  t  ?
+
+
+    o  r
+
+
+              .  .  .
+
+
+                   that   following   the
+
+
+                   D a r w i n
+
+
+              Rebellion of
+
+
+         December 1918, HMAS¬†Encounter
+
+
+    was sent
+
+
+    to   Darwin
+
+
+         to  protect
+
+
+                   A  d  m  i  n  i  s  t  r  a  t  o  r
+
+
+    John   Gilruth
+
+
+              and his
+
+
+         f a m i l y ?
+
+
+              a  n  d
+
+
+              ...that Labour Party
+
+
+                   politician  Ruth  Dalton,
+
+
+                   who   was
+
+
+              the shortest serving
+
+
+              MP in
+
+
+         B r i t i s h
+
+
+    history, represented Bishop
+
+
+              Auckland  for
+
+
+              9  2
+
+
+    d  a  y  s  ?
+
+
+
+
+              ... that Court
+
+
+         Avenue, Ohio,
+
+
+                   w  a  s
+
+
+    the  first
+
+
+    street  in
+
+
+                   t  h  e
+
+
+    United  States
+
+
+                   to be paved
+
+
+    w  i  t  h
+
+
+                   c o n c r e t e ?
+
+
+              o   r
+
+
+         a  n  d
+
+
+         ...that Labour's Alfred
+
+
+              D o b b s
+
+
+         w a s
+
+
+         the  shortest-serving  post-World
+
+
+         War  II
+
+
+              British Member
+
+
+    of Parliament, serving
+
+
+         in  the  House
+
+
+                   of   Commons
+
+
+    for just one
+
+
+                   d a y
+
+
+              before his
+
+
+    d  e  a  t  h
+
+
+                   i  n
+
+
+         1 9 4 5 ?
+
+
+
+
+    ...  that  Koradi
+
+
+    Thermal  Power  Station,
+
+
+         n  e  a  r
+
+
+         N   a   g   p   u   r   ,
+
+
+    I n d i a ,
+
+
+              was  commissioned
+
+
+    i   n
+
+
+         1   9   7   4
+
+
+         a  n  d
+
+
+              currently   operates   seven
+
+
+              units   with   a
+
+
+         total capacity of
+
+
+              1 , 0 8 0 ¬ † M W ?
+
+
+              o   r
+
+
+                   .   .   .   t   h   a   t
+
+
+         t   h   e
+
+
+         Dewan Rakyat is
+
+
+                   prohibited  from  discussing
+
+
+    t  h  e
+
+
+    repeal  of
+
+
+    c e r t a i n
+
+
+    articles of
+
+
+         the  Constitution  of
+
+
+         M  a  l  a  y  s  i  a  ?
+
+
+                   a   n   d
+
+
+         . . . t h a t
+
+
+    somewhere   between
+
+
+              2  5  ‚  Ä  ì  3  3  %
+
+
+              of   Icelanders   living
+
+
+         i n
+
+
+              Iceland   died
+
+
+                   due  to  the
+
+
+         1783  eruption
+
+
+                   o f
+
+
+              Laki, and
+
+
+         t h e
+
+
+         s   u   b   s   e   q   u   e   n   t
+
+
+         f  a  m  i  n  e  ?
+
+
+
+
+              ...  that
+
+
+         the   oak
+
+
+         m  a  z  e  g  i  l  l
+
+
+         fungus Daedalea
+
+
+    q u e r c i n a
+
+
+         has been
+
+
+              used as
+
+
+         a
+
+
+              horse-comb   and   as
+
+
+              a
+
+
+                   b   e   e
+
+
+         a  n  e  s  t  h  e  t  i  c  ?
+
+
+         o r
+
+
+    ...that   Golden
+
+
+    L i b e r t y ,
+
+
+    t h e
+
+
+         political  system
+
+
+              of the
+
+
+              Polish-Lithuanian   Commonwealth,
+
+
+         s   i   m   i   l   a   r
+
+
+         to  federation  and
+
+
+                   democracy,  became
+
+
+                   ineffective when
+
+
+                   faced  with
+
+
+                   the  surrounding
+
+
+              m   o   n   a   r   c   h   i   e   s   ?
+
+
+                   a n d
+
+
+         ... that Arthur
+
+
+              Bingham was
+
+
+              commander   of   HMS
+
+
+    Little   Belt,   when
+
+
+         the   Little   Belt
+
+
+    A f f a i r
+
+
+    (pictured) occurred in
+
+
+    1   8   1   1   ?
+
+
+
+
+         .  .  .  t  h  a  t
+
+
+         'HMS  Incomparable  was
+
+
+              a   design
+
+
+              f   o   r
+
+
+         a
+
+
+                   mammoth battlecruiser, proposed
+
+
+    by British
+
+
+         Admiral  Jackie
+
+
+                   Fisher  in
+
+
+    1  9  1  5  ,
+
+
+                   b u t
+
+
+    n  e  v  e  r
+
+
+         b u i l t ?
+
+
+    o r
+
+
+         ...that Josiah
+
+
+                   Failing   became   the
+
+
+         fourth   mayor
+
+
+                   of Portland,
+
+
+                   Oregon less than
+
+
+         three  years  after
+
+
+                   moving there
+
+
+         from New
+
+
+         Y   o   r   k
+
+
+         C i t y ?
+
+
+                   a n d
+
+
+                   ...  that
+
+
+         the   leader
+
+
+    o   f
+
+
+    the 2004
+
+
+         P  a  l  m
+
+
+              I s l a n d ,
+
+
+              Queensland   riot,   Lex
+
+
+         W o t t o n ,
+
+
+              ran  for
+
+
+              mayor   while
+
+
+                   out on
+
+
+    b  a  i  l  ?
+
+
+
+
+         o   r
+
+
+    ...that sky anchors
+
+
+                   c   o   m   b   i   n   e
+
+
+                   a
+
+
+    gas   balloon
+
+
+         f  o  r
+
+
+         buoyancy   and   a
+
+
+                   s  u  p  e  r  p  r  e  s  s  u  r  e
+
+
+                   balloon for
+
+
+    b   a   l   l   a   s   t   ?
+
+
+              a   n   d
+
+
+         ...   that   R.
+
+
+              J.  Reynolds  marketing
+
+
+                   executive  Ralph
+
+
+                   S e a g r a v e s
+
+
+         facilitated using
+
+
+              r   e   d
+
+
+              a n d
+
+
+    white paint on
+
+
+    A  m  e  r  i  c  a  n
+
+
+    short  track's  walls
+
+
+                   to   give
+
+
+                   the illusion of
+
+
+         g r e a t e r
+
+
+              s p e e d ?
+
+
+
+
+         . . . t h a t
+
+
+    Trowulan   in   Mojokerto,
+
+
+         east  Java,
+
+
+              i   s
+
+
+                   surrounded by a
+
+
+              huge  archaeological  site
+
+
+                   (pictured),   and   is
+
+
+         believed  to
+
+
+    be  the  capital
+
+
+                   of   the
+
+
+    ancient   Majapahit
+
+
+         E  m  p  i  r  e  ?
+
+
+              o r
+
+
+              .  .  .  t  h  a  t
+
+
+                   t   h   e
+
+
+              Brocard   points,   the
+
+
+              B   r   o   c   a   r   d
+
+
+    c   i   r   c   l   e
+
+
+                   and the
+
+
+              B  r  o  c  a  r  d
+
+
+         t   r   i   a   n   g   l   e
+
+
+         a  r  e
+
+
+    n a m e d
+
+
+         a f t e r
+
+
+    French  geometer  Henri
+
+
+              Brocard,   who
+
+
+                   s   p   e   n   t
+
+
+         most   of   his
+
+
+         life  studying  meteorology
+
+
+    with   no
+
+
+         notable  original
+
+
+                   contributions to
+
+
+         t h e
+
+
+              s   u   b   j   e   c   t   ?
+
+
+    a  n  d
+
+
+              ...that   Lion   Beer
+
+
+              was Asia's first
+
+
+         brand  of
+
+
+              b  e  e  r  ?
+
+
+
+
+                   . . . t h a t
+
+
+              the   Adivasi
+
+
+                   Cobra  Force
+
+
+    was   formed
+
+
+              after  ethnic  conflict
+
+
+    b e t w e e n
+
+
+         Santal and
+
+
+                   Bodo   erupted
+
+
+         i n
+
+
+    1 9 9 6 ?
+
+
+    o r
+
+
+    ...that Peter
+
+
+              S h e r g o l d
+
+
+              i  s
+
+
+              currently Australia's
+
+
+    most   senior
+
+
+         p   u   b   l   i   c
+
+
+    s   e   r   v   a   n   t   ?
+
+
+         a  n  d
+
+
+                   ...  that  Luther
+
+
+    P   r   e   n   t   i   c   e
+
+
+                   B r a d l e y ,
+
+
+    a  Union
+
+
+         brigadier general
+
+
+    i   n
+
+
+                   the   American   Civil
+
+
+         W a r ,
+
+
+                   w a s
+
+
+         severely  wounded
+
+
+         d   u   r   i   n   g
+
+
+                   t  h  e
+
+
+         Battle   of
+
+
+    Chickamauga   where   he
+
+
+                   commanded a
+
+
+                   b  r  i  g  a  d  e  ?
+
+
+
+
+              ...  that
+
+
+                   f o r m e r
+
+
+                   Iowa  Governor  Tom
+
+
+                   V   i   l   s   a   c   k
+
+
+    b e g a n
+
+
+              his US
+
+
+         presidential   campaign   in
+
+
+    November 2006, nearly
+
+
+    two   years
+
+
+                   before  the
+
+
+              2  0  0  8
+
+
+                   p r e s i d e n t i a l
+
+
+                   e  l  e  c  t  i  o  n  ?
+
+
+         o r
+
+
+    .  .  .  t  h  a  t
+
+
+              the word jazz
+
+
+              was originally a
+
+
+                   C   a   l   i   f   o   r   n   i   a
+
+
+              baseball  slang
+
+
+         term   and   was
+
+
+         f   i   r   s   t
+
+
+    applied   to
+
+
+              a  style  of
+
+
+    music   in
+
+
+         C   h   i   c   a   g   o   ?
+
+
+              a   n   d
+
+
+    ...   that   the
+
+
+    name  of  the
+
+
+    L a s i o g n a t h u s
+
+
+              g  e  n  u  s
+
+
+                   of   anglerfish
+
+
+                   (L.   amphirhampus
+
+
+              pictured), distinctive
+
+
+         f o r
+
+
+              its  huge
+
+
+    u  p  p  e  r
+
+
+         jaw,  derives
+
+
+                   f   r   o   m
+
+
+    t  h  e
+
+
+                   Greek for
+
+
+         "  h  a  i  r  y
+
+
+         j  a  w  "  ?
+
+
+
+
+    ...that the Ford
+
+
+              Mustang SSP,
+
+
+    i  n
+
+
+              addition to being
+
+
+    a d v e r t i s e d
+
+
+    by  Ford  as
+
+
+              "  c  h  a  s  i  n  g
+
+
+              P  o  r  s  c  h  e  s
+
+
+    for   a   living",
+
+
+              w  a  s
+
+
+              a  l  s  o
+
+
+    used  as  a
+
+
+                   pursuit  car
+
+
+         f  o  r
+
+
+                   the  Lockheed
+
+
+         U-2   spy
+
+
+              p  l  a  n  e  ?
+
+
+                   o   r
+
+
+         ...  that  Stephen
+
+
+                   Fry's   Podgrams   are
+
+
+              one of the
+
+
+         top  five
+
+
+    most   downloaded
+
+
+         p o d c a s t s
+
+
+                   f   r   o   m
+
+
+              i   T   u   n   e   s   ?
+
+
+              a n d
+
+
+    ...   that
+
+
+                   Eugene C. Barker's
+
+
+    1925   work
+
+
+                   T  h  e
+
+
+                   Life   of   Stephen
+
+
+         F.  Austin  has
+
+
+         been described
+
+
+         as  the  best
+
+
+              single  piece  of
+
+
+                   scholarship   on   a
+
+
+         T  e  x  a  s
+
+
+         t o p i c ?
+
+
+
+
+              ...   that
+
+
+                   young  Heliobolus
+
+
+         l  u  g  u  b  r  i  s
+
+
+                   l i z a r d s
+
+
+    scare  off  predators
+
+
+                   by   imitating
+
+
+                   certain  acid-squirting
+
+
+              g  r  o  u  n  d
+
+
+    b e e t l e s ?
+
+
+                   o r
+
+
+              ...   that
+
+
+                   M   a   r   c   i   a
+
+
+                   P. Sward, who
+
+
+                   created  the
+
+
+    children's  environmental
+
+
+              education   program   GreenKids,
+
+
+                   started   her
+
+
+    c  a  r  e  e  r
+
+
+         as a
+
+
+         m   a   t   h   e   m   a   t   i   c   i   a   n   ?
+
+
+         a n d
+
+
+              ... that
+
+
+    the  Streeterville
+
+
+    neighborhood   sits
+
+
+                   almost   entirely
+
+
+         o n
+
+
+         land   that
+
+
+                   did   not
+
+
+    e   x   i   s   t
+
+
+                   when  the
+
+
+    city  of
+
+
+              Chicago  first
+
+
+              i  n  c  o  r  p  o  r  a  t  e  d  ?
+
+
+
+
+         ...that   the
+
+
+         Sheffield Improvement
+
+
+              Act   1818   required
+
+
+                   a l l
+
+
+                   owners   of   steam
+
+
+         engines in
+
+
+                   t  h  e
+
+
+                   Yorkshire  town
+
+
+         t   o
+
+
+    "consume"  the
+
+
+              e n g i n e ' s
+
+
+                   s   m   o   k   e   ?
+
+
+         o r
+
+
+         .   .   .   t   h   a   t
+
+
+         H   u   r   r   i   c   a   n   e
+
+
+    Fico   caused
+
+
+         significant  damage
+
+
+                   in Hawaii without
+
+
+    m a k i n g
+
+
+         l  a  n  d  f  a  l  l  ?
+
+
+         a n d
+
+
+         ...that   the
+
+
+              c  a  s  e
+
+
+                   of  Rice  v.
+
+
+    Collins concerned
+
+
+                   a   juror   who
+
+
+    may   have   "rolled
+
+
+              her  eyes"
+
+
+              u   n   d   e   r
+
+
+         q  u  e  s  t  i  o  n  i  n  g  ?
+
+
+
+
+              ...that   Huangshan   Pines
+
+
+              are   venerated   in
+
+
+              China for
+
+
+    t h e i r
+
+
+    u  n  i  q  u  e
+
+
+    rugged shapes, and
+
+
+                   are  frequently
+
+
+              p  o  r  t  r  a  y  e  d
+
+
+                   in  traditional
+
+
+    C   h   i   n   e   s   e
+
+
+         p  a  i  n  t  i  n  g  s  ?
+
+
+                   o  r
+
+
+    a  n  d
+
+
+         .  .  .  t  h  a  t
+
+
+    d   e   s   p   i   t   e
+
+
+              m u l t i p l e
+
+
+              t   r   a   n   s   f   e   r   s
+
+
+                   of   ownership,
+
+
+    a   f   t   e   r
+
+
+         1   2   3
+
+
+                   years trains
+
+
+         still  haul  paper
+
+
+         products   over
+
+
+    the   White   River
+
+
+              R   a   i   l   r   o   a   d   '   s
+
+
+                   l  i  n  e  ?
+
+
+
+
+         ...that the
+
+
+    Holy  Trinity
+
+
+         Column  in
+
+
+    O l o m o u c
+
+
+                   was   inscribed
+
+
+    on the World
+
+
+                   H   e   r   i   t   a   g   e
+
+
+         L i s t
+
+
+              as "one of
+
+
+         the most
+
+
+    exceptional   examples   of
+
+
+                   t  h  e
+
+
+         apogee of
+
+
+    Central European Baroque
+
+
+                   a  r  t  i  s  t  i  c
+
+
+    e   x   p   r   e   s   s   i   o   n   "   ?
+
+
+    o   r
+
+
+                   . . . t h a t
+
+
+         former  executive
+
+
+    director   of   the
+
+
+    Institute  of
+
+
+              F   o   o   d
+
+
+                   Technologists Howard W.
+
+
+         Mattson   became   active
+
+
+    in  promoting
+
+
+    o r g a n
+
+
+              d  o  n  a  t  i  o  n
+
+
+              a   f   t   e   r
+
+
+                   receiving   a   heart
+
+
+              t   r   a   n   s   p   l   a   n   t   ?
+
+
+              a   n   d
+
+
+                   ...that  the  Cave
+
+
+                   B a t h
+
+
+    o  f
+
+
+                   Miskolc, Hungary
+
+
+         is   an
+
+
+    unusual thermal bath
+
+
+              w  i  t  h
+
+
+              low   salt
+
+
+                   content,   in
+
+
+                   a  natural
+
+
+         cave,  that  allows
+
+
+    people   to
+
+
+                   t   a   k   e
+
+
+              a bath
+
+
+              for   a
+
+
+              l o n g e r
+
+
+    t  i  m  e  ?
+
+
+
+
+                   ...that  rumored  use
+
+
+    of lard or
+
+
+              tallow,   offensive   for
+
+
+    r e l i g i o u s
+
+
+    reasons,  to  lubricate
+
+
+              p  a  p  e  r
+
+
+         cartridges was
+
+
+              o  n  e
+
+
+                   o f
+
+
+         the  causes
+
+
+                   of   the
+
+
+                   Indian  Rebellion
+
+
+                   o f
+
+
+         1 8 5 7 ?
+
+
+              o r
+
+
+              .  .  .
+
+
+    that  at  one
+
+
+              time,  Toronto's
+
+
+                   S u n n y s i d e
+
+
+    Bathing  Pavilion  was
+
+
+    the  largest  outdoor
+
+
+         swimming  pool
+
+
+                   in  the
+
+
+    w   o   r   l   d   ?
+
+
+                   a   n   d
+
+
+         .   .   .   t   h   a   t
+
+
+                   a   r   s   o   n
+
+
+              w   a   s
+
+
+                   s   u   s   p   e   c   t   e   d
+
+
+              w   h   e   n
+
+
+    t h e
+
+
+              last original
+
+
+    bo√¥ (pictured), a
+
+
+         b  u  i  l  d  i  n  g
+
+
+    where   a   farmer
+
+
+    r  e  s  t  e  d
+
+
+         when  grazing
+
+
+                   cattle  far
+
+
+    from a village,
+
+
+              b u r n e d
+
+
+                   down   in   the
+
+
+              N   e   t   h   e   r   l   a   n   d   s   ?
+
+
+                   (  I  m  a  g  e  :  B  o  √  ¥  .  j  p  g  )
+
+
+
+
+         ...that,   upon   exhumation,
+
+
+              t h e
+
+
+                   10th  century  saint
+
+
+              Rasso was found
+
+
+                   t   o
+
+
+    be  2
+
+
+    meters (6' 6")
+
+
+                   t   a   l   l   ,
+
+
+              although, given that
+
+
+              his   grave
+
+
+         w   a   s
+
+
+         2 and a
+
+
+    half  meters,
+
+
+              h e
+
+
+              h  a  d
+
+
+                   earlier   been
+
+
+              t h o u g h t
+
+
+                   to   be
+
+
+              e   v   e   n
+
+
+         t a l l e r ?
+
+
+                   o  r
+
+
+              ...  that
+
+
+    the design
+
+
+    of  the
+
+
+              art  nouveau
+
+
+    Germania   definitive   stamp
+
+
+    was  personally  chosen
+
+
+    b  y
+
+
+              Emperor Wilhelm
+
+
+              I  I  ?
+
+
+              a   n   d
+
+
+              .   .   .   t   h   a   t
+
+
+                   the highlight
+
+
+         e  v  e  n  t
+
+
+    o f
+
+
+              the   World   Cricket
+
+
+                   Tsunami   Appeal   is
+
+
+                   a two-match one-day
+
+
+    i   n   t   e   r   n   a   t   i   o   n   a   l
+
+
+                   series between a
+
+
+         W o r l d
+
+
+              XI   and
+
+
+              a  n
+
+
+         A  s  i  a  n
+
+
+    X I ?
+
+
+
+
+              ...that  All-American  footballer
+
+
+         Paul   G.   Goebel
+
+
+                   (  p  i  c  t  u  r  e  d  )
+
+
+    recommended Gerald Ford
+
+
+                   to  the
+
+
+              coach  of  the
+
+
+    Michigan   football
+
+
+    t  e  a  m
+
+
+                   and  later  urged
+
+
+              Ford   to   run
+
+
+                   f  o  r
+
+
+         C  o  n  g  r  e  s  s  ?
+
+
+         o   r
+
+
+              ...   that   agribusiness
+
+
+    executive Daron
+
+
+                   Joffe   used   to
+
+
+         teach   horticulture
+
+
+              and farming to
+
+
+              incarcerated teenagers
+
+
+    in  the
+
+
+              San Francisco
+
+
+    a  r  e  a  ?
+
+
+         a   n   d
+
+
+    ...that   Tawfiq   Canaan,
+
+
+    a Palestinian physician
+
+
+    and  medical
+
+
+         pioneer,   was   also
+
+
+                   known for his
+
+
+    research   on   Palestinian
+
+
+              p  o  p  u  l  a  r
+
+
+              h   e   r   i   t   a   g   e   ?
+
+
+
+
+    ... that
+
+
+    D r .
+
+
+    M   a   r   e   s   s   a
+
+
+              Orzack  at
+
+
+              Harvard  Medical
+
+
+    School  stated
+
+
+         that   40
+
+
+    p e r c e n t
+
+
+                   of World
+
+
+         of   Warcraft
+
+
+                   players were
+
+
+         a d d i c t e d ?
+
+
+              o   r
+
+
+         ...that  Kolachal,
+
+
+    India   was
+
+
+    the   location   of
+
+
+              a   battle   in
+
+
+    1741  where
+
+
+    an Indian
+
+
+    kingdom defeated a
+
+
+              E  u  r  o  p  e  a  n
+
+
+              n   a   v   a   l
+
+
+    force for
+
+
+              possibly  the  first
+
+
+              t i m e
+
+
+              i   n
+
+
+                   I   n   d   i   a   n
+
+
+                   h  i  s  t  o  r  y  ?
+
+
+              a  n  d
+
+
+                   ...   that   the
+
+
+              L   l   o   y   d
+
+
+              Wright-designed  John
+
+
+         S o w d e n
+
+
+         House  (pictured)  is
+
+
+                   known as the
+
+
+                   " J a w s
+
+
+                   House" because
+
+
+              its   facade   resembles
+
+
+              the  open
+
+
+                   m   o   u   t   h
+
+
+              of  a
+
+
+                   s   h   a   r   k   ?
+
+
+
+
+         ...  that
+
+
+              the Persian walled
+
+
+         c i t y
+
+
+                   of Ray was
+
+
+    a  military  objective
+
+
+                   so  frequently
+
+
+         t  h  a  t  ,
+
+
+              s t a r t i n g
+
+
+              in the
+
+
+         late 12th century,
+
+
+              its  inhabitants
+
+
+                   gradually  moved
+
+
+              o  u  t
+
+
+              t   o
+
+
+         an   undefended
+
+
+         village  nearby
+
+
+    c   a   l   l   e   d
+
+
+                   T  e  h  r  a  n  ?
+
+
+         o   r
+
+
+         ...that Somerset
+
+
+              cricket   captain
+
+
+    J   a   c   k
+
+
+              Meyer   was   entrusted
+
+
+         with   the
+
+
+    e  d  u  c  a  t  i  o  n
+
+
+    of  seven
+
+
+                   I   n   d   i   a   n
+
+
+                   boys,  six  of
+
+
+                   them   princes,   and
+
+
+                   founded the Millfield
+
+
+         School  to  do
+
+
+                   s   o   ?
+
+
+    a   n   d
+
+
+         ...that   the   city
+
+
+    of Pite≈üti
+
+
+    was the
+
+
+         original  site  of
+
+
+                   S e v e n t h - d a y
+
+
+                   Adventist  activities
+
+
+              i  n
+
+
+    R  o  m  a  n  i  a  ?
+
+
+
+
+                   . . .
+
+
+              that the
+
+
+              ideal length
+
+
+         o  f
+
+
+              a  train
+
+
+                   melody is
+
+
+    s  e  v  e  n
+
+
+              s   e   c   o   n   d   s   ?
+
+
+                   o r
+
+
+              .  .  .  t  h  a  t
+
+
+              t  h  e
+
+
+              2004   USC   Trojans
+
+
+                   f   o   o   t   b   a   l   l
+
+
+    team   went
+
+
+                   undefeated, becoming
+
+
+              the  tenth  team
+
+
+              to  win  consecutive
+
+
+                   Associated  Press  National
+
+
+         C h a m p i o n s h i p s ?
+
+
+                   a n d
+
+
+    .  .  .  t  h  a  t
+
+
+                   t h e
+
+
+    design   for   the
+
+
+                   1941   Art
+
+
+         M   o   d   e   r   n   e
+
+
+              Illinois State
+
+
+                   Police   Office
+
+
+                   in   Pontiac   was
+
+
+              also  used
+
+
+                   f   o   r
+
+
+              the state police
+
+
+         h e a d q u a r t e r s
+
+
+                   building  in
+
+
+                   Rock Island,
+
+
+                   I l l i n o i s ?
+
+
+
+
+              .   .   .   t   h   a   t
+
+
+    t  h  e
+
+
+              Ostrog Bible
+
+
+                   of   1580   was
+
+
+    t h e
+
+
+              f   i   r   s   t
+
+
+              c o m p l e t e
+
+
+              printed  edition
+
+
+              of the Bible
+
+
+         in   a   Slavic
+
+
+         l  a  n  g  u  a  g  e  ?
+
+
+                   o  r
+
+
+         .   .   .   t   h   a   t
+
+
+         t   h   e
+
+
+                   A r c t i c
+
+
+    W i n t e r
+
+
+              G  a  m  e  s
+
+
+    a r e
+
+
+                   held   biennially   for
+
+
+                   a   t   h   l   e   t   e   s
+
+
+         from the
+
+
+              "   c   i   r   c   u   m   p   o   l   a   r
+
+
+              N  o  r  t  h  "  ?
+
+
+    a   n   d
+
+
+    .   .   .   t   h   a   t
+
+
+    t  h  e
+
+
+              day   Wu
+
+
+         Z  e  t  i  a  n  ,
+
+
+              China's  only
+
+
+         female Emperor,
+
+
+    was   overthrown
+
+
+    in 705
+
+
+         CE,  Zhang
+
+
+                   Yizhi   and   Zhang
+
+
+         C h a n g z o n g
+
+
+              w  e  r  e
+
+
+         killed  and
+
+
+              t   h   e   i   r
+
+
+              h  e  a  d  s
+
+
+         were  hung  at
+
+
+         a  n
+
+
+              entrance to the
+
+
+                   c   a   p   i   t   a   l   ?
+
+
+
+
+                   ...that The Portage
+
+
+         to   San
+
+
+              Cristobal of A.H.
+
+
+                   i  s
+
+
+              a  controversial
+
+
+              1981  novella  by
+
+
+                   G   e   o   r   g   e
+
+
+              S t e i n e r
+
+
+    in   which
+
+
+         Hitler  is  found
+
+
+    a   l   i   v   e
+
+
+                   in   the
+
+
+    Amazon   jungle
+
+
+                   and claims to
+
+
+                   be the
+
+
+    J   e   w   s   '
+
+
+                   b e n e f a c t o r ?
+
+
+              o r
+
+
+         .  .  .  t  h  a  t
+
+
+         the   Caspian
+
+
+                   Gull   (pictured)   is
+
+
+         r  e  g  a  r  d  e  d
+
+
+    by some authorities
+
+
+    as  a
+
+
+              subspecies of
+
+
+                   the Herring Gull
+
+
+                   or   Yellow-legged
+
+
+                   Gull,   and
+
+
+         by others
+
+
+         as   a
+
+
+         s  e  p  a  r  a  t  e
+
+
+    species?  (Caspian
+
+
+                   G u l l )
+
+
+                   a n d
+
+
+              ...that the
+
+
+              Turtle   Back   Zoo
+
+
+         i n
+
+
+         W   e   s   t
+
+
+                   Orange,  New  Jersey,
+
+
+         i   s
+
+
+         the  only  zoo
+
+
+         i  n
+
+
+    the  world
+
+
+              t   h   a   t
+
+
+         has   a
+
+
+         pair of Malaysian
+
+
+              "   b   l   a   c   k
+
+
+                   dragon"   monitor
+
+
+              l i z a r d s
+
+
+         o  n
+
+
+              d  i  s  p  l  a  y  ?
+
+
+
+
+                   ... that New
+
+
+         Y o r k
+
+
+    State   Route   192
+
+
+         a   n   d
+
+
+    its  suffixed
+
+
+                   route, 192A, were
+
+
+    two   of
+
+
+                   o  n  l  y
+
+
+    three decommissioned routes
+
+
+    in   Franklin   County's
+
+
+    s  e  c  t  i  o  n
+
+
+                   of  Adirondack
+
+
+                   P   a   r   k   ?
+
+
+              o   r
+
+
+                   ...that   swimming
+
+
+              Hall  of
+
+
+         Famer  Harry  Holiday
+
+
+              won 6 NCAA
+
+
+    championships,   and
+
+
+         set  7  world
+
+
+                   and  18  American
+
+
+              records   in   the
+
+
+         m   i   d   -   1   9   4   0   s
+
+
+         but never
+
+
+              competed   in   the
+
+
+         Olympics  due
+
+
+              to   World   War
+
+
+              I I ?
+
+
+                   a  n  d
+
+
+              ...that   the
+
+
+              f i c t i o n a l
+
+
+                   planet  Zenn-La,
+
+
+    homeworld  of  the
+
+
+    Silver  Surfer,
+
+
+              has been destroyed
+
+
+              at  least  three
+
+
+                   t i m e s ?
+
+
+
+
+         ... that, despite
+
+
+    its name, the
+
+
+         soft  drink  Grapico,
+
+
+                   f   i   r   s   t
+
+
+                   sold in 1914,
+
+
+         did   not   contain
+
+
+              any  grape  juice
+
+
+              a   n   d
+
+
+              used   deceptive   advertising
+
+
+              t  o
+
+
+    p   r   o   m   o   t   e
+
+
+                   t   h   e
+
+
+         p   r   o   d   u   c   t   ?
+
+
+         o   r
+
+
+                   ...that  Italian-Australian  hermit
+
+
+         V a l e r i o
+
+
+              Ricetti   (pictured)   shifted
+
+
+                   hundreds of
+
+
+              t   o   n   s
+
+
+                   o f
+
+
+                   rock   over
+
+
+    2  3
+
+
+                   years  to  create
+
+
+              his   own   utopia
+
+
+         a   t
+
+
+                   Hermit's   Cave   near
+
+
+                   G  r  i  f  f  i  t  h  ,
+
+
+    N   e   w
+
+
+         S  o  u  t  h
+
+
+                   W a l e s ?
+
+
+         a  n  d
+
+
+              ... that
+
+
+    t   h   e
+
+
+         Yan   emperor
+
+
+         Shi Chaoyi
+
+
+    c  o  m  m  i  t  t  e  d
+
+
+         suicide  to  avoid
+
+
+              capture,  and  that
+
+
+              after  his
+
+
+              d e a t h ,
+
+
+                   his head
+
+
+         w a s
+
+
+                   delivered to
+
+
+                   the Tang
+
+
+                   D   y   n   a   s   t   y
+
+
+    c   a   p   i   t   a   l
+
+
+         C   h   a   n   g   '   a   n   ?
+
+
+
+
+              ...  that
+
+
+                   M  i  k  e
+
+
+         K  a  r  a  k  a  s
+
+
+                   w   a   s
+
+
+              the   first
+
+
+    American-born  and
+
+
+                   trained   professional
+
+
+         i  c  e
+
+
+              hockey  goaltender  to
+
+
+              p l a y
+
+
+              in the National
+
+
+              H   o   c   k   e   y
+
+
+                   L e a g u e ?
+
+
+                   o  r
+
+
+         ...that  the
+
+
+    l e g i s l a t o r
+
+
+                   from  Kultali  was
+
+
+              sentenced  by
+
+
+    t  h  e
+
+
+         K   o   l   k   a   t   a
+
+
+    High  Court,  in
+
+
+    2005, to life
+
+
+         imprisonment  in
+
+
+    a  case  where
+
+
+              a   mob
+
+
+    dragged   two   persons
+
+
+         out   of
+
+
+         their house,
+
+
+    a  n  d
+
+
+    t  o  r  t  u  r  e  d
+
+
+                   and  killed
+
+
+    t h e m ?
+
+
+    a  n  d
+
+
+              ...that   the   pseudonymous
+
+
+              a   u   t   h   o   r
+
+
+         of the
+
+
+              d  e  f  u  n  c  t
+
+
+              left-wing   muckraker   blog
+
+
+              Media  Whores  Online
+
+
+              h   a   s
+
+
+    not  yet
+
+
+                   b  e  e  n
+
+
+    i  d  e  n  t  i  f  i  e  d  ?
+
+
+
+
+         ...that   All-American
+
+
+                   f   u   l   l   b   a   c   k
+
+
+         Bill Daley is
+
+
+         the  only  person
+
+
+    e  v  e  r
+
+
+         to  win  Little
+
+
+              B r o w n
+
+
+    J  u  g
+
+
+         games   playing
+
+
+         for   both   Minnesota
+
+
+         a  n  d
+
+
+    M i c h i g a n ?
+
+
+    o   r
+
+
+    ...  that
+
+
+         Washington  State  politician
+
+
+              Vic   Meyers   once
+
+
+         s   h   o   w   e   d
+
+
+         up for
+
+
+              a candidates'
+
+
+              f  o  r  u  m
+
+
+                   dressed   as
+
+
+         M  a  h  a  t  m  a
+
+
+         G a n d h i
+
+
+         and leading
+
+
+              a
+
+
+         g   o   a   t   ?
+
+
+         a   n   d
+
+
+         . . .
+
+
+    t  h  a  t
+
+
+    C l a r e n c e
+
+
+    Hailey  Long,  a
+
+
+                   ranch foreman in
+
+
+         the  Texas  Panhandle,
+
+
+         w a s
+
+
+                   the   inspiration
+
+
+                   for   the
+
+
+    o  r  i  g  i  n  a  l
+
+
+              Marlboro  Man  advertising
+
+
+         c   a   m   p   a   i   g   n
+
+
+                   b   y
+
+
+         P h i l i p
+
+
+         M  o  r  r  i  s  ?
+
+
+
+
+                   ... that
+
+
+              Neel Kashkari
+
+
+         (pictured),  six  years
+
+
+    a   f   t   e   r
+
+
+         completing his
+
+
+                   MBA,  was
+
+
+         p   u   t
+
+
+                   i n
+
+
+         c h a r g e
+
+
+                   o  f
+
+
+         the $700¬†billion U.S.
+
+
+         Government  bailout
+
+
+         o  f
+
+
+              f i n a n c i a l
+
+
+    i   n   s   t   i   t   u   t   i   o   n   s   ?
+
+
+              o r
+
+
+                   ...that six
+
+
+                   Regional   Specialized   Meteorological
+
+
+    Centres   are   charged
+
+
+    with   globally
+
+
+         t r a c k i n g
+
+
+                   t   r   o   p   i   c   a   l
+
+
+                   c   y   c   l   o   n   e   s   ?
+
+
+                   a   n   d
+
+
+         .  .  .  t  h  a  t
+
+
+              t   h   e
+
+
+              Fauna of
+
+
+    Scotland includes
+
+
+    a  l  m  o  s  t
+
+
+                   h a l f
+
+
+    of   the   EU‚Äôs
+
+
+                   b  r  e  e  d  i  n  g
+
+
+         seabirds,   but   only
+
+
+              one endemic vertebrate
+
+
+              species,  and
+
+
+              that   although
+
+
+         a   population
+
+
+    of   Wild
+
+
+    Cats   (pictured)   remains
+
+
+         many of
+
+
+    t  h  e
+
+
+         larger   mammals   were
+
+
+                   hunted  to
+
+
+    extinction   in
+
+
+         h i s t o r i c
+
+
+    t i m e s ?
+
+
+
+
+                   .   .   .
+
+
+              t  h  a  t
+
+
+    the Phillips
+
+
+         Mansion,  described  as
+
+
+    having been built
+
+
+                   in  the
+
+
+         "   C   l   a   s   s   i   c
+
+
+    Haunted Mansion"
+
+
+                   s t y l e ,
+
+
+                   was  the
+
+
+         home   of
+
+
+         the  richest
+
+
+                   man   in
+
+
+    L  o  s
+
+
+    A n g e l e s
+
+
+         County  from  1875
+
+
+    t  o
+
+
+              1   9   0   0   ?
+
+
+    o  r
+
+
+    ...that   Lawrence   Turner,
+
+
+              who   presented   a
+
+
+    Parliamentary  petition
+
+
+         calling  for  W.
+
+
+              S.   Gilbert's   copyright
+
+
+    o  n
+
+
+         the  libretti
+
+
+         of  Gilbert  and
+
+
+                   S  u  l  l  i  v  a  n
+
+
+    operas to
+
+
+    be  extended
+
+
+              indefinitely, was
+
+
+         t  h  e
+
+
+         g  r  a  n  d  s  o  n
+
+
+              o   f
+
+
+              comic actor
+
+
+                   George  Grossmith
+
+
+    who starred in
+
+
+         t   h   e   m   ?
+
+
+                   a  n  d
+
+
+         ...that   Philip   J.
+
+
+              Perry, the General
+
+
+              Counsel  for  the
+
+
+              U.S. Department of
+
+
+    Homeland   Security,   is
+
+
+    the son-in-law
+
+
+              of   Vice   President
+
+
+              D  i  c  k
+
+
+              C h e n e y ?
+
+
+
+
+         . . . t h a t
+
+
+         photos  of
+
+
+                   the  rogue  wave
+
+
+         encountered   by   the
+
+
+         MS   Stolt   Surf
+
+
+    c  o  n  t  r  i  b  u  t  e  d
+
+
+              t   o
+
+
+              the growing evidence
+
+
+    o   f
+
+
+         t   h   e   i   r
+
+
+                   presence   in
+
+
+         the deep
+
+
+    o c e a n ?
+
+
+         o  r
+
+
+                   .  .  .  t  h  a  t
+
+
+         Alan  Davidson,
+
+
+    r e g a r d e d
+
+
+    a  s
+
+
+    one   of   the
+
+
+    greatest   left   arm
+
+
+    f   a   s   t
+
+
+    bowlers in the
+
+
+                   history  of  cricket,
+
+
+         only took
+
+
+    u   p
+
+
+         t h e
+
+
+                   skill when
+
+
+                   his  uncle's
+
+
+         w  e  e  k  e  n  d
+
+
+              team  ran
+
+
+                   out   of   fast
+
+
+              b o w l e r s ?
+
+
+              a   n   d
+
+
+         ...  that
+
+
+              a  l  t  h  o  u  g  h
+
+
+    C   h   u   c   k
+
+
+                   Daly   is   a
+
+
+         B   a   s   k   e   t   b   a   l   l
+
+
+         H  a  l  l
+
+
+    o f
+
+
+                   Famer   now,
+
+
+    when he
+
+
+              s   e   r   v   e   d
+
+
+              as head
+
+
+         c  o  a  c  h
+
+
+              of the
+
+
+                   Cleveland  Cavaliers
+
+
+                   he   had   a
+
+
+                   9  ‚  Ä  ì  3  2
+
+
+    record and
+
+
+              w  a  s
+
+
+                   f   i   r   e   d
+
+
+              m   i   d   -   s   e   a   s   o   n   ?
+
+
+
+
+         ...that   the   Dethridge
+
+
+    wheel   (pictured),
+
+
+         invented  in
+
+
+              Australia  in
+
+
+                   1 9 1 0 ,
+
+
+         m  e  a  s  u  r  e  s
+
+
+         t  h  e
+
+
+         flow   of   water
+
+
+    delivered   to
+
+
+              f   a   r   m   s
+
+
+    f   o   r
+
+
+              i  r  r  i  g  a  t  i  o  n  ?
+
+
+    o r
+
+
+    . . . t h a t
+
+
+         Corn√© Krige and
+
+
+                   George   Gregan,   who
+
+
+         respectively captained the
+
+
+         S   o   u   t   h
+
+
+    A f r i c a
+
+
+         and   Australia
+
+
+              rugby  union  teams
+
+
+         in both
+
+
+              t   h   e
+
+
+         2002   and   2003
+
+
+                   Tri Nations
+
+
+                   Series,  were
+
+
+    b o r n
+
+
+                   in  the  same
+
+
+    h o s p i t a l
+
+
+    i n
+
+
+                   Z a m b i a ?
+
+
+         a  n  d
+
+
+         .  .  .
+
+
+         t   h   a   t
+
+
+    cricketer  Roger  Kimpton
+
+
+              a  l  s  o
+
+
+         won  an  Oxford
+
+
+                   University tennis
+
+
+    tournament and a
+
+
+         g o l f
+
+
+         blue,   and   was
+
+
+                   a   w   a   r   d   e   d
+
+
+                   a Distinguished Flying
+
+
+    Cross  as
+
+
+                   a
+
+
+              Second World War
+
+
+                   f i g h t e r
+
+
+              p  i  l  o  t  ?
+
+
+
+
+    . . . t h a t
+
+
+              Field  Marshal
+
+
+         S   i   r
+
+
+              John Stanier
+
+
+                   w  a  s
+
+
+         the   first
+
+
+         British   Chief   of
+
+
+    the   General   Staff
+
+
+              after the Second
+
+
+                   World  War
+
+
+    who had not
+
+
+    s  e  e  n
+
+
+         a  c  t  i  v  e
+
+
+    s e r v i c e ?
+
+
+    o  r
+
+
+              .   .   .   t   h   a   t
+
+
+         the  Capitol  Theatre
+
+
+                   in   Melbourne   was
+
+
+                   once described
+
+
+                   a  s
+
+
+         "the best
+
+
+              c  i  n  e  m  a
+
+
+         that  was
+
+
+                   ever built
+
+
+              o   r
+
+
+    i  s
+
+
+    ever  likely
+
+
+                   t  o
+
+
+         b  e
+
+
+                   b  u  i  l  t  "  ?
+
+
+    a  n  d
+
+
+              ...that   Jaroslav
+
+
+    J i ≈ ô √ ≠ k
+
+
+    became   the
+
+
+         first   player   from
+
+
+              a  n
+
+
+    Eastern Bloc nation
+
+
+              to  play
+
+
+              in   the   National
+
+
+                   Hockey  League  when
+
+
+              he   appeared
+
+
+         i  n
+
+
+         t   h   r   e   e
+
+
+                   g   a   m   e   s
+
+
+         w i t h
+
+
+              t  h  e
+
+
+              St. Louis
+
+
+              B   l   u   e   s
+
+
+                   i   n
+
+
+              1   9   7   0   ?
+
+
+
+
+                   ...   that
+
+
+    g  o  a  l  k  e  e  p  e  r
+
+
+         Bob   Roberts
+
+
+                   w   a   s
+
+
+    the  first  West
+
+
+         Bromwich  Albion  player
+
+
+         t o
+
+
+    win  an
+
+
+    i  n  t  e  r  n  a  t  i  o  n  a  l
+
+
+    c  a  p  ?
+
+
+         o   r
+
+
+                   . . .
+
+
+              t h a t
+
+
+                   the  Sion  Causeway
+
+
+    connected the
+
+
+    i s l a n d
+
+
+         of Bombay with
+
+
+         S  a  l  s  e  t  t  e  ?
+
+
+                   a   n   d
+
+
+         .   .   .   t   h   a   t
+
+
+              t h e
+
+
+              W  e  s  t
+
+
+    End  Street  Railway
+
+
+                   fired  Cyrus  S.
+
+
+              C h i n g
+
+
+    in 1901 after
+
+
+                   h  e
+
+
+              was nearly
+
+
+                   e  l  e  c  t  r  o  c  u  t  e  d
+
+
+    on   the   job,
+
+
+    only to appoint
+
+
+    him  manager
+
+
+                   two   months
+
+
+    l a t e r ?
+
+
+
+
+         ... that So
+
+
+    Amazin', the third
+
+
+              s   t   u   d   i   o
+
+
+                   album   by   singer
+
+
+              C   h   r   i   s   t   i   n   a
+
+
+                   Milian,   was   produced
+
+
+    mainly by
+
+
+    hip hop
+
+
+    p   r   o   d   u   c   e   r   s
+
+
+                   Cool   &
+
+
+              D   r   e   ?
+
+
+                   o r
+
+
+    ...that   Wee   Siew
+
+
+    K i m ,
+
+
+    a Singaporean MP,
+
+
+              had   to   apologise
+
+
+         a  f  t  e  r
+
+
+    scandal   broke   out
+
+
+              involving  an
+
+
+              elitist  blog  entry
+
+
+    made  by  his
+
+
+         d a u g h t e r ?
+
+
+              a   n   d
+
+
+
+
+    ...   that   Norwegian
+
+
+    Parliament member
+
+
+                   and priest
+
+
+              S√∏ren   Georg
+
+
+              Abel was the
+
+
+         father  of
+
+
+                   m   a   t   h   e   m   a   t   i   c   i   a   n
+
+
+         Niels  Henrik
+
+
+    A   b   e   l   ?
+
+
+                   o  r
+
+
+    ... that the
+
+
+         p r e s e n t - d a y
+
+
+         city  of
+
+
+              Davenport,   Iowa
+
+
+    i  s
+
+
+         n a m e d
+
+
+         a   f   t   e   r
+
+
+                   George Davenport,
+
+
+    a
+
+
+              19th century American
+
+
+    f r o n t i e r s m a n ,
+
+
+         trader   and
+
+
+         U  S
+
+
+         A   r   m   y
+
+
+    o  f  f  i  c  e  r  ?
+
+
+         a   n   d
+
+
+         . . . t h a t
+
+
+         Nestorianism   was   one
+
+
+              of  the  first
+
+
+                   f  o  r  m  s
+
+
+              of  Christianity  to
+
+
+                   be introduced
+
+
+         i   n
+
+
+    M  o  n  g  o  l  i  a  ?
+
+
+
+
+              ...that George Hennet
+
+
+              built and operated
+
+
+              depots  on
+
+
+         b e h a l f
+
+
+                   o  f
+
+
+                   the   South   Devon
+
+
+         R   a   i   l   w   a   y
+
+
+         after  it  was
+
+
+         s h o r t
+
+
+         o f
+
+
+                   m o n e y ?
+
+
+    o   r
+
+
+              .   .   .
+
+
+                   that  Admiral  Henry
+
+
+         W  o  l  s  e  y
+
+
+         B  a  y  f  i  e  l  d
+
+
+         had  joined
+
+
+                   t  h  e
+
+
+         Royal Navy by
+
+
+                   the  age  of
+
+
+              e l e v e n ?
+
+
+    a n d
+
+
+         ...that Pulau
+
+
+              S  e  j  a  h  a  t
+
+
+              w   a   s
+
+
+         a British
+
+
+              military  encampment  in
+
+
+         Singapore during
+
+
+                   W o r l d
+
+
+         War  II,  but
+
+
+         i   t   s
+
+
+              g u n
+
+
+                   batteries  were
+
+
+                   never  used  against
+
+
+              the invading
+
+
+         J a p a n e s e ?
+
+
+
+
+    ...  that
+
+
+              novelist  Lucy
+
+
+         J   a   n   e
+
+
+    Bledsoe,   a   Stonewall
+
+
+              B  o  o  k
+
+
+              Award winner
+
+
+                   a  n  d
+
+
+    four-time  Lambda
+
+
+    Literary Award
+
+
+    f i n a l i s t ,
+
+
+    primarily writes
+
+
+         L   G   B   T
+
+
+    l  i  t  e  r  a  t  u  r  e  ?
+
+
+         o   r
+
+
+              ...that  Obaysch  became
+
+
+         t h e
+
+
+         f   i   r   s   t
+
+
+         living  hippopotamus
+
+
+         in England
+
+
+         since prehistoric
+
+
+                   times  when  he
+
+
+    joined   the   London
+
+
+              Zoo in
+
+
+                   1   8   5   0   ?
+
+
+    a   n   d
+
+
+                   .   .   .   t   h   a   t
+
+
+              on   Dagen
+
+
+              H  ("H
+
+
+              Day") on
+
+
+              September   3,   1967,
+
+
+    Sweden switched from
+
+
+    d  r  i  v  i  n  g
+
+
+    on the
+
+
+    left   to
+
+
+              driving  the  right
+
+
+         at exactly at
+
+
+    5
+
+
+         a . m . ?
+
+
+
+
+         ...  that  the
+
+
+         Plaza   Historic   District
+
+
+    was   the   historic
+
+
+              c  e  n  t  e  r
+
+
+    o  f
+
+
+    Los Angeles in
+
+
+              t h e
+
+
+         days   of
+
+
+              Spanish   and   Mexican
+
+
+    r u l e ?
+
+
+         o r
+
+
+              . . . t h a t
+
+
+         I n d i a n
+
+
+              chess player
+
+
+    U   m   a   k   a   n   t
+
+
+                   Sharma  was
+
+
+         banned from
+
+
+              p  l  a  y  i  n  g
+
+
+         competitive   chess   for
+
+
+                   1  0
+
+
+         y  e  a  r  s
+
+
+         after  being
+
+
+                   caught   cheating
+
+
+              with  a  Bluetooth
+
+
+              device sewn
+
+
+    i n t o
+
+
+                   h   i   s
+
+
+         c a p ?
+
+
+                   a  n  d
+
+
+                   ...that   Marguerite
+
+
+                   P   o   r   e   t   e   ,
+
+
+                   author   of   the
+
+
+                   mystical   text
+
+
+              The  Mirror  of
+
+
+    S   i   m   p   l   e
+
+
+         Souls,  was  burnt
+
+
+    a t
+
+
+    the stake for
+
+
+         heresy in
+
+
+              1  3  1  0  ?
+
+
+
+
+                   ...that  "Blue  Tail
+
+
+    F l y "
+
+
+    or  "Jimmy
+
+
+    Crack   Corn"   is
+
+
+         a blackface
+
+
+         minstrel song
+
+
+    d  a  t  i  n  g
+
+
+         from the
+
+
+                   1 8 4 0 s ,
+
+
+                   and  that  on
+
+
+                   the  surface,  it
+
+
+              is  a
+
+
+                   b  l  a  c  k
+
+
+    slave's lament over
+
+
+         his   master's   death;
+
+
+                   the subtext is
+
+
+                   t  h  a  t
+
+
+    h   e
+
+
+    is   glad   his
+
+
+         master   is   dead,
+
+
+         and may have
+
+
+              killed  him
+
+
+    by  deliberate
+
+
+    n  e  g  l  i  g  e  n  c  e  ?
+
+
+    o r
+
+
+                   ...that   Barth√©lemy
+
+
+         d  '  E  y  c  k
+
+
+         w   a   s
+
+
+         a  n
+
+
+                   Early   Netherlandish   artist,
+
+
+                   famous  in
+
+
+    the 15th
+
+
+         century,   who
+
+
+         h   a   s
+
+
+         o   n   l   y
+
+
+                   been  attributed  specific
+
+
+                   works   (one   pictured)
+
+
+         in   recent
+
+
+                   d e c a d e s ?
+
+
+                   a   n   d
+
+
+              .   .   .   t   h   a   t
+
+
+                   when former New
+
+
+                   Mexico  Governor
+
+
+              Tom   Bolack   died,
+
+
+              his   ashes
+
+
+              were   scattered   over
+
+
+         his   ranch   by
+
+
+         1 6
+
+
+                   s   p   e   c   i   a   l   l   y   -   m   a   d   e
+
+
+              f   i   r   e   w   o   r   k   s   ?
+
+
+
+
+                   ...that former
+
+
+         Anglican  clergyman
+
+
+                   and   Liberal
+
+
+                   Party life
+
+
+         p e e r
+
+
+              T i m
+
+
+                   Beaumont   was
+
+
+                   t  h  e
+
+
+                   only  Green  Party
+
+
+              r  e  p  r  e  s  e  n  t  a  t  i  v  e
+
+
+    in the Parliament
+
+
+         of the
+
+
+                   U  n  i  t  e  d
+
+
+              Kingdom from
+
+
+    1999 until his
+
+
+                   death in
+
+
+                   2  0  0  8  ?
+
+
+    o   r
+
+
+                   ... that
+
+
+         bananas  grown  in
+
+
+         B r a z i l
+
+
+         account for approximately
+
+
+    ten¬†percent of
+
+
+    the   entire
+
+
+         w  o  r  l  d  '  s
+
+
+              b  a  n  a  n  a
+
+
+              p   r   o   d   u   c   t   i   o   n   ?
+
+
+              a   n   d
+
+
+              ...that   the
+
+
+                   d  i  s  a  p  p  e  a  r  a  n  c  e
+
+
+    o   f
+
+
+              jellyfish  from  KƒÅne'ohe
+
+
+    B  a  y
+
+
+                   has generated
+
+
+                   concerns   about   maintenance
+
+
+              of the local
+
+
+              yellowtail   scad
+
+
+         p  o  p  u  l  a  t  i  o  n  ?
+
+
+
+
+                   .  .  .
+
+
+              that the success
+
+
+                   of   the
+
+
+              W o r l d
+
+
+                   War  II
+
+
+              b   o   m   b   i   n   g
+
+
+    c a m p a i g n
+
+
+                   Operation  Strangle
+
+
+                   was unrelated
+
+
+                   t  o
+
+
+                   its  original
+
+
+                   o b j e c t i v e ?
+
+
+              o  r
+
+
+    . . .
+
+
+              that   the   Carey
+
+
+    M  i  s  s  i  o  n
+
+
+    was   a
+
+
+              headquarters  for  settlers
+
+
+              and  a
+
+
+              point   from   which
+
+
+    the   American
+
+
+    f  r  o  n  t  i  e  r
+
+
+    w   a   s
+
+
+         e   x   t   e   n   d   e   d   ?
+
+
+                   a  n  d
+
+
+              ...  that
+
+
+    T   h   e
+
+
+              J  a  n  u  s
+
+
+    Man,  a  thriller
+
+
+    c o n c e r n i n g
+
+
+                   espionage   and
+
+
+              betrayal,   is
+
+
+              the  fourth  book
+
+
+                   in  the  "Tweed
+
+
+                   and  Co."  series,
+
+
+                   f o r
+
+
+                   which  Colin
+
+
+                   Forbes published a
+
+
+                   book   every   single
+
+
+    year from
+
+
+    1  9  8  2
+
+
+              to his death
+
+
+         i  n
+
+
+         2   0   0   6   ?
+
+
+
+
+    ...  that
+
+
+         on  every
+
+
+              May  1,
+
+
+         the hamlet of
+
+
+              I c k w e l l
+
+
+         celebrates May
+
+
+                   Day   with   dancing
+
+
+                   a  r  o  u  n  d
+
+
+                   a
+
+
+              M a y p o l e
+
+
+    (pictured)   and   with
+
+
+              t   h   e
+
+
+                   crowning   of
+
+
+         a May
+
+
+                   Q  u  e  e  n  ?
+
+
+         o  r
+
+
+              .  .  .
+
+
+                   that the song
+
+
+    with which
+
+
+    Thor   Salden   won
+
+
+              the  Belgian
+
+
+         preselections of the
+
+
+              Junior  Eurovision  Song
+
+
+         C  o  n  t  e  s  t
+
+
+         2006  reached  Number¬†1
+
+
+                   i n
+
+
+    t  h  e
+
+
+    Flemish   music
+
+
+                   c   h   a   r   t   s   ?
+
+
+    a  n  d
+
+
+                   ...that football
+
+
+    r  e  f  e  r  e  e  s
+
+
+              i  n
+
+
+                   E n g l a n d
+
+
+         officiate at eleven
+
+
+                   d   i   f   f   e   r   e   n   t
+
+
+              l e v e l s
+
+
+         a   c   c   o   r   d   i   n   g
+
+
+              to ability, activity
+
+
+                   a n d
+
+
+                   a  g  e  ?
+
+
+
+
+              ... that
+
+
+         the  Haas
+
+
+                   L   o   l   a
+
+
+              F  o  r  m  u  l  a
+
+
+                   One  team's  cars
+
+
+         were not built
+
+
+              or  designed
+
+
+              by   Lola
+
+
+         Cars   International,   but
+
+
+    were  entered  as
+
+
+                   Lolas   because
+
+
+              C a r l
+
+
+         Haas was their
+
+
+                   official  importer
+
+
+              to   the
+
+
+                   U  n  i  t  e  d
+
+
+                   S t a t e s ?
+
+
+    o  r
+
+
+                   .  .  .
+
+
+              t  h  a  t
+
+
+              in February
+
+
+              2008, rugby league
+
+
+    player  Dan
+
+
+         Dempsey was named
+
+
+              in   the   list
+
+
+              o   f
+
+
+    Australia's  100
+
+
+         G   r   e   a   t   e   s   t
+
+
+         P   l   a   y   e   r   s   ?
+
+
+              a  n  d
+
+
+              ...   that
+
+
+                   ABC's  Howard
+
+
+                   K.   Smith:   News
+
+
+              and  Comment
+
+
+              was  cancelled
+
+
+              after  Smith  aired
+
+
+              a  controversial
+
+
+         a  n  d  ,
+
+
+              as it
+
+
+                   proved,   premature
+
+
+    program  in
+
+
+    1  9  6  2
+
+
+         titled "The
+
+
+                   Political  Obituary  of
+
+
+              R  i  c  h  a  r  d
+
+
+    M .
+
+
+         N i x o n " ?
+
+
+
+
+    .   .   .
+
+
+         that   the
+
+
+              1   9   0   2
+
+
+              discovery   of   gold
+
+
+                   i n
+
+
+                   I   n   t   e   r   i   o   r
+
+
+         Alaska   by   Italian
+
+
+         immigrant Felix
+
+
+                   Pedro (pictured)
+
+
+              marked  the  start
+
+
+                   of  the
+
+
+                   F   a   i   r   b   a   n   k   s
+
+
+         G   o   l   d
+
+
+    R u s h ?
+
+
+              o   r
+
+
+                   . . . t h a t
+
+
+              Russian  poet  Yevgeny
+
+
+              Yevtushenko is famous
+
+
+         for his anti-Stalinist
+
+
+         w  o  r  k  ?
+
+
+         a   n   d
+
+
+         .   .   .   t   h   a   t
+
+
+    the   Fairfield   Osborn
+
+
+         Preserve is
+
+
+                   home to
+
+
+                   a  great  variety
+
+
+                   of fauna
+
+
+                   including   one   of
+
+
+    t   h   e
+
+
+    w o r l d ' s
+
+
+         l   a   r   g   e   s   t
+
+
+         s a l a m a n d e r s ?
+
+
+
+
+              . . .
+
+
+         t   h   a   t
+
+
+              Liverpool   actor
+
+
+         and  guitarist  Ozzie
+
+
+    Yue used to
+
+
+    flick pieces
+
+
+              o   f
+
+
+    paper   at
+
+
+                   Paul   McCartney   in
+
+
+    a   r   t
+
+
+              class when they
+
+
+    attended  the  Liverpool
+
+
+                   Institute High School
+
+
+                   f   o   r
+
+
+                   B  o  y  s  ?
+
+
+              o r
+
+
+                   ...that   after   the
+
+
+              non-profit   Internet
+
+
+    service  provider
+
+
+                   Public Netbase
+
+
+    began supporting
+
+
+    w   e   b   s   i   t   e   s
+
+
+                   that  opposed
+
+
+                   his  political  party,
+
+
+         Austrian politician
+
+
+              J√∂rg   Haider
+
+
+    a c c u s e d
+
+
+         the organisation
+
+
+              of sponsoring
+
+
+              c h i l d
+
+
+    p   o   r   n   o   g   r   a   p   h   y   ?
+
+
+    a   n   d
+
+
+              ...that   furry
+
+
+                   convention  attendees
+
+
+         (pictured) often
+
+
+                   wear  ears,
+
+
+              tails,   badges,
+
+
+         or  fursuits  as
+
+
+         i   d   e   n   t   i   f   i   c   a   t   i   o   n   ?
+
+
+
+
+         .   .   .
+
+
+              that Drukair
+
+
+                   flights   between
+
+
+              Kathmandu,  Nepal
+
+
+              and  Paro,
+
+
+         Bhutan  pass
+
+
+         c l o s e
+
+
+                   t  o
+
+
+         M   o   u   n   t
+
+
+                   E   v   e   r   e   s   t   ?
+
+
+                   o r
+
+
+                   .  .  .
+
+
+         that  the
+
+
+         Villa  Medici  del
+
+
+         Trebbio was one
+
+
+              of   the   first
+
+
+    of the
+
+
+    Medici   villas   outside
+
+
+    F   l   o   r   e   n   c   e   ?
+
+
+              a  n  d
+
+
+              ... that San
+
+
+              M   a   r   i   n   o
+
+
+         debuted at the
+
+
+         Eurovision Song Contest
+
+
+                   2  0  0  8
+
+
+                   with "Complice",
+
+
+              a   song   performed
+
+
+                   b   y
+
+
+         M i o d i o ?
+
+
+
+
+                   ...that   the
+
+
+                   Mochovce Nuclear
+
+
+    P   o   w   e   r
+
+
+                   Plants   complex   in
+
+
+              Slovakia became the
+
+
+         first  Soviet-era
+
+
+              nuclear plant
+
+
+                   in   Eastern   Europe
+
+
+    t o
+
+
+                   have   safety   standards
+
+
+              c  o  m  p  a  r  a  b  l  e
+
+
+                   to Western
+
+
+         o n e s ?
+
+
+    o r
+
+
+    .   .   .   t   h   a   t
+
+
+         Robert   McGill   Loughridge
+
+
+         co-authored the English
+
+
+                   a  n  d
+
+
+                   Muskogee Dictionary in
+
+
+    1890,  the
+
+
+              first  English
+
+
+    dictionary of
+
+
+                   the   Creek
+
+
+              l  a  n  g  u  a  g  e  ?
+
+
+              a  n  d
+
+
+                   ...that   the
+
+
+                   Aston Martin
+
+
+    DBR1 sports car
+
+
+         won  the
+
+
+                   1  0  0  0  k  m
+
+
+                   N√ºrburgring   round
+
+
+              o f
+
+
+    the   World   Sportscar
+
+
+                   C  h  a  m  p  i  o  n  s  h  i  p
+
+
+    in  all  three
+
+
+         years it
+
+
+                   e   n   t   e   r   e   d   ?
+
+
+
+
+         .  .  .
+
+
+    that in
+
+
+                   2000,  an
+
+
+    ammonia discharge into
+
+
+         a
+
+
+                   tributary  of  the
+
+
+         River   Clun
+
+
+    ( p i c t u r e d )
+
+
+         i n
+
+
+              Wales  killed  its
+
+
+                   e  n  t  i  r  e
+
+
+              p   o   p   u   l   a   t   i   o   n
+
+
+         o   f
+
+
+    E  u  r  o  p  e  a  n
+
+
+         b u l l h e a d s ?
+
+
+         o   r
+
+
+              .   .   .   t   h   a   t
+
+
+                   Monk  Estill,
+
+
+    w h o
+
+
+         was   captured
+
+
+         by the Wyandot
+
+
+                   p  r  i  o  r
+
+
+         t o
+
+
+    t   h   e
+
+
+         Battle  of  Little
+
+
+              Mountain   and
+
+
+         escaped during the
+
+
+                   battle, was the
+
+
+                   f   i   r   s   t
+
+
+    s   l   a   v   e
+
+
+              t o
+
+
+                   b   e
+
+
+              freed   in   the
+
+
+         K  e  n  t  u  c  k  y  ?
+
+
+                   a  n  d
+
+
+              ...  that
+
+
+              as Texas
+
+
+                   Attorney General
+
+
+              from  1957
+
+
+    to  1963,  Will
+
+
+              W i l s o n
+
+
+         cracked   down   on
+
+
+              prostitution  rings  operating
+
+
+              in   such
+
+
+              Texan cities as
+
+
+                   G  a  l  v  e  s  t  o  n  ,
+
+
+                   Beaumont,  Texarkana  and
+
+
+              V i c t o r i a ?
+
+
+
+
+              ...   that
+
+
+              t  h  e
+
+
+                   Soldiers and
+
+
+         Sailors Monument
+
+
+              in   Lancaster,
+
+
+              Pennsylvania, stands on
+
+
+         t h e
+
+
+    s  i  t  e
+
+
+         of  a  1777
+
+
+         Second Continental
+
+
+         C   o   n   g   r   e   s   s
+
+
+                   m   e   e   t   i   n   g   ?
+
+
+    o   r
+
+
+              ...that  Grand
+
+
+              Duke   Boris   Vladimirovich,
+
+
+                   cousin   of
+
+
+                   N   i   c   h   o   l   a   s
+
+
+              II   of
+
+
+    Russia, was called
+
+
+    "the   terror   of
+
+
+    jealous   husbands   as
+
+
+    well  as  of
+
+
+              w a t c h f u l
+
+
+    m o t h e r s " ?
+
+
+                   a n d
+
+
+         ...that  in  an
+
+
+              attempt  to
+
+
+         speed  up
+
+
+         t h e
+
+
+         longest   papal   election
+
+
+              in history,
+
+
+         the magistrates
+
+
+              of  Viterbo
+
+
+                   removed   the   roof
+
+
+         of  the
+
+
+    P a p a l
+
+
+              P a l a c e ?
+
+
+
+
+         .   .   .
+
+
+              that  the
+
+
+                   W e s t m i n s t e r
+
+
+         Retable, a 13th-century
+
+
+                   panel   painting   at
+
+
+    Westminster Abbey, is
+
+
+              the oldest known
+
+
+                   altarpiece in
+
+
+         E  n  g  l  a  n  d  ?
 
 

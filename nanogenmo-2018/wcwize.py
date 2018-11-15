@@ -17,8 +17,10 @@ for line in sys.stdin.readlines():
                     pass
             chunk=words[:chunkLen]
             words=words[chunkLen:]
+            if len(chunk)==1:
+                chunk=chunk[0]
         else:
-            chunk=words
+            chunk=words[0]
             words=[]
         pfx=" "*(random.randint(0, 3)*5)
         print(pfx+((" "*(random.randint(1, 3))).join(chunk)))
