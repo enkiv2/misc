@@ -4,7 +4,7 @@ sbot publish --type post --text "$(
 	awk '
 	BEGIN {
 		FS="\t"
-		print "The Redundant Daily Redundant: a daily digest of 23 links you (should) have already seen\n"
+		print "# The Redundant Daily Redundant\n\n## a daily digest of 23 links you (should) have already seen\n"
 	} { 
 		title=$3
 		if (title=="")

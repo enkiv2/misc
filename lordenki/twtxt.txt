@@ -4533,3 +4533,119 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-11-14T14:57:25-05:00	Jeanine Adkisson - Design and Prototype a Language In Clojure - YouTube https://www.youtube.com/watch?v=i1KVwoE3n28
 2018-11-14T15:22:32-05:00	Tutorials That Don't Talk Down To You - Context Sensitive Design - Extra Credits - YouTube https://www.youtube.com/watch?v=hFdEEzgc7pg
 2018-11-15T09:04:37-05:00	ufo-poems/ufo_poems.md at master · kevinhowbrook/ufo-poems · GitHub https://github.com/kevinhowbrook/ufo-poems/blob/master/ufo_poems.md
+2018-11-15T09:58:58-05:00	misc/dyk2.md at master · enkiv2/misc · GitHub https://github.com/enkiv2/misc/blob/master/nanogenmo-2018/dyk2.md
+2018-11-15T10:25:29-05:00	Why There's No Place Quite Like the American Garage - Atlas Obscura https://www.atlasobscura.com/articles/the-architecture-of-garages
+2018-11-15T10:31:20-05:00	Box Office Bomb: The Short Life of Popcorn Prediction Markets - The Ringer https://www.theringer.com/movies/2018/11/15/18091620/box-office-futures-dodd-frank-mpaa-recession
+2018-11-15T10:42:17-05:00	Puzzle Montage Art by Tim Klein https://puzzlemontage.crevado.com/
+2018-11-15T10:50:22-05:00	'Free your mind and your ass will follow' is absurdly optimistic. Freedom of mind is necessary but not sufficient for freedom of ass. In the short term, wokeness makes your life harder because you become aware of how bad things are.
+2018-11-15T11:06:22-05:00	Plankalkül - Wikipedia https://en.wikipedia.org/wiki/Plankalk%C3%BCl
+2018-11-15T11:56:30-05:00	Type inference - Eli Bendersky's website https://eli.thegreenplace.net/2018/type-inference/
+2018-11-15T18:04:07-05:00	Digital Philosophy &#8211; I: The Real is Unreal https://www.ribbonfarm.com/2007/08/16/digital-philosophy-i/
+2018-11-15T18:04:20-05:00	Digital Philosophy II: Are Cellular Automata Important? https://www.ribbonfarm.com/2007/09/09/digital-philosophy-ii/
+2018-11-15T18:11:55-05:00	Gamasutra: Florencia Minuzzi's Blog - Restless " Making A New Conversation UI http://www.gamasutra.com/blogs/FlorenciaMinuzzi/20181114/330636/Restless__Making_A_New_Conversation_UI.php
+2018-11-16T06:16:17-05:00	Band name of the day: upsettingly large fungus
+2018-11-16T06:21:11-05:00	Band name of the day: wax cadavers
+2018-11-16T08:30:08-05:00	Procedural Brutalism &#8211; BLDGBLOG http://www.bldgblog.com/2014/09/procedural-brutalism/
+2018-11-16T08:36:16-05:00	C Portability Lessons from Weird Machines https://begriffs.com/posts/2018-11-15-c-portability.html
+2018-11-16T08:37:01-05:00	The History of the GNU General Public License http://www.free-soft.org/gpl_history/
+2018-11-16T08:38:57-05:00	Fallacies of distributed computing - Wikipedia https://en.m.wikipedia.org/wiki/Fallacies_of_distributed_computing
+2018-11-16T08:48:52-05:00	Trilemma - Wikipedia https://en.m.wikipedia.org/wiki/Trilemma
+2018-11-16T09:01:24-05:00	Band name of the day: glory in defeat
+2018-11-16T09:04:42-05:00	DrKoop.com: C. Everett Koop’s Unlikely Dot-Com Play https://tedium.co/2018/11/15/c-everett-koop-drkoop-com-history/
+2018-11-16T10:46:42-05:00	The Case Against Quantum Computing - IEEE Spectrum https://spectrum.ieee.org/computing/hardware/the-case-against-quantum-computing
+2018-11-16T10:58:40-05:00	Why the Enlightenment was not the age of reason | Aeon Ideas https://aeon.co/ideas/why-the-enlightenment-was-not-the-age-of-reason
+2018-11-16T11:14:09-05:00	Constructive Technology Criticism Annotated Syllabus https://medium.com/tow-center/constructive-technology-criticism-annotated-syllabus-b7b46862cd20
+2018-11-16T11:14:37-05:00	302 Found https://languageengineering.io/some-concepts-in-functional-languages-550c683a0ffa
+2018-11-16T11:15:38-05:00	SimCity, Cellular Automata, and Happy Tool for HyperLook (nee HyperNeWS (nee GoodNeWS)) https://medium.com/@donhopkins/hyperlook-nee-hypernews-nee-goodnews-99f411e58ce4
+2018-11-16T11:16:12-05:00	302 Found https://points.datasociety.net/you-think-you-want-media-literacy-do-you-7cad6af18ec2
+2018-11-16T13:13:23-05:00	Band name of the day: sirius moonlite
+2018-11-16T13:26:17-05:00	Band name of the day: combat agate
+2018-11-16T16:37:27-05:00	Pet peeve: when people nitpick rhetorical flourishes in my examples while completely ignoring the main point. Hint: If I bring up the web or the macintosh, that doesn't mean my essay is specifically about the web or the macintosh.
+2018-11-16T16:40:03-05:00	'Worse is better' is a very insidious way of saying 'give up and stop caring', and should never be used as an excuse for anything. Anything that can be defended with 'worse is better' is worse & shouldn't be tolerated.
+2018-11-16T18:28:19-05:00	'Worse is better' is not a justification -- it is a tragedy, and one that folks who code in their free time are thankfully immune from needing to contribute to. So, y'know, don't. You're not on a deadline, so make something good, instead of something you regret.
+2018-11-16T19:16:12-05:00	Band name of the day: axis theory
+2018-11-16T20:00:30-05:00	The Fascinating World of Index/Railgun and Why You Should Watch It - YouTube https://www.youtube.com/watch?v=YTJKfvZmDUM
+2018-11-16T20:03:08-05:00	Raildex spicy take from a magic practitioner with an engineering degree: watch Railgun all the way through and skip Magidex completely. Ignore Touma when he appears in Railgun. He has never once done anything interesting.
+2018-11-17T09:11:00-05:00	Bad idea of the day: transpose Pretty Hate Machine into a major key, shift every word in the lyrics to the least semantically distant word with a more positive sentiment score, and call the result Pretty Great Machine
+2018-11-17T16:41:16-05:00	Was there staff overlap between Lain and Boogiepop Phantom? There's an awful lot of style overlap...
+2018-11-17T18:45:02-05:00	Band name of the day: spooky electric
+2018-11-18T07:45:18-05:00	William Gibson on the dawn of the Internet - YouTube https://www.youtube.com/watch?v=lUbm9dyITCY
+2018-11-18T07:50:14-05:00	William Gibson: The New Cyber/Reality - YouTube https://www.youtube.com/watch?v=WVEUWfDHqsU
+2018-11-18T08:44:39-05:00	Lambda World 2018 - What FP can learn from Smalltalk by Aditya Siram - YouTube https://www.youtube.com/watch?v=baxtyeFVn3w
+2018-11-18T09:16:14-05:00	"Production Prolog" by Michael Hendricks - YouTube https://www.youtube.com/watch?v=G_eYTctGZw8
+2018-11-18T09:28:52-05:00	Tech Workers Need to Keep Organizing https://www.jacobinmag.com/2018/11/tech-worker-organizing-google-union-walkout
+2018-11-18T09:36:31-05:00	Band name of the day: where birds never lingered
+2018-11-18T10:11:37-05:00	The History of Unix, Rob Pike - YouTube https://www.youtube.com/watch?v=_2NI6t2r_Hs
+2018-11-18T10:30:01-05:00	Linux Sucks.  Forever. - Filmed live at Linux Fest NW - April 28, 2018 - YouTube https://www.youtube.com/watch?v=TVHcdgrqbHE
+2018-11-18T11:05:38-05:00	Indistinguishable From Magic: Manufacturing Modern Computer Chips - YouTube https://www.youtube.com/watch?v=NGFhc8R_uO4
+2018-11-18T11:28:41-05:00	programmers_are_evil() - Live at LinuxFest NW 2018 - YouTube https://www.youtube.com/watch?v=_e6BKJPnb5o
+2018-11-18T11:31:18-05:00	The Internet Needs More Friction - Motherboard https://motherboard.vice.com/en_us/article/3k9q33/the-internet-needs-more-friction
+2018-11-18T12:06:07-05:00	Alan Kay: How Simply and Understandably Could The "Personal Computing Experience" Be Programmed? on Vimeo https://vimeo.com/10260548
+2018-11-18T14:12:02-05:00	Social Media Consciousness https://www.ribbonfarm.com/2018/09/07/social-media-consciousness/
+2018-11-18T15:30:40-05:00	Cory Doctorow: Zuck&#8217;s Empire of Oily Rags &#8211; Locus Online http://locusmag.com/2018/07/cory-doctorow-zucks-empire-of-oily-rags/
+2018-11-18T15:33:22-05:00	Jehanne Operating System http://jehanne.io/2018/11/15/simplicity-awakes.html
+2018-11-18T16:54:25-05:00	Ritual and the Consciousness Monoculture https://www.ribbonfarm.com/2015/01/08/ritual-and-the-consciousness-monoculture/
+2018-11-19T08:06:36-05:00	I keep reading this narrative where tech backlash only really started in 2017, and... guys, do none of you remember 2010? It's basically been downhill for tech industry PR since 2010, if not 2008.
+2018-11-19T08:41:45-05:00	I don't agree with this at all, but I've gotta respect this level of trolling: https://wordsandbuttons.online/if_i_were_to_invent_a_programming_language_for_the_21st_century.html
+2018-11-19T08:52:02-05:00	The prince of the people: Machiavelli was no ‘Machiavellian’ | Aeon Essays https://aeon.co/essays/the-prince-of-the-people-machiavelli-was-no-machiavellian
+2018-11-19T11:36:44-05:00	A Programming Language With Only One Command and the Anti-Imperialist Operating System Built on it - esoteric.codes https://esoteric.codes/blog/a-programming-language-with-only-one-command-and
+2018-11-19T13:17:37-05:00	The 128-Language Quine Relay - esoteric.codes https://esoteric.codes/blog/the-128-language-quine-relay
+2018-11-19T13:18:34-05:00	Service Unavailable https://esoteric.codes/blog/stack-trace-art
+2018-11-19T13:59:22-05:00	Null Programs and the Uninscribed  - esoteric.codes https://esoteric.codes/blog/null-programs-and-the-uninscribed
+2018-11-19T14:09:40-05:00	Tiny Emulators https://floooh.github.io/tiny8bit/
+2018-11-19T14:25:57-05:00	Bad idea of the day: Sieze the amazon.com domain and point it to the wikipedia article for the Amazon river
+2018-11-19T14:40:49-05:00	How Tech Bros Fell in Love With Bread Baking - Eater https://www.eater.com/2018/11/19/18099127/bread-silicon-valley-sourdough-tech-bros-tartine-chad-robertson
+2018-11-19T14:42:55-05:00	Sole and Despotic Dominion: Fiction - Reason.com https://reason.com/archives/2018/11/17/sole-and-despotic-dominion
+2018-11-19T14:44:10-05:00	BodyFuck - esoteric.codes https://esoteric.codes/blog/bodyfuck-gestural-code
+2018-11-19T14:44:44-05:00	Esolangs as an Experiential Practice - esoteric.codes https://esoteric.codes/blog/esolangs-as-an-experiential-practice
+2018-11-19T15:22:04-05:00	All HTML - esoteric.codes https://esoteric.codes/blog/all-html
+2018-11-19T15:23:25-05:00	JSTOR: Access Check https://www.jstor.org/stable/40969483?seq=1#page_scan_tab_contents
+2018-11-19T15:26:42-05:00	Band name of the day: human flesh technology
+2018-11-19T15:29:53-05:00	Band name of the day: mysterious by divine
+2018-11-19T15:41:10-05:00	Esopo: Turing Complete Poetry - esoteric.codes https://esoteric.codes/blog/esopo-turing-complete-poetry
+2018-11-19T15:42:09-05:00	Service Unavailable https://esoteric.codes/blog/exercises-in-programming-style
+2018-11-19T16:55:14-05:00	Wait wait is AKB48 supposed to be a pun on AK 47?
+2018-11-19T19:04:33-05:00	Band name of the day: rhythmic rituals
+2018-11-20T06:12:24-05:00	GitHub - boriel/zxbasic: The Sinclair ZX Spectrum BASIC compiler! https://github.com/boriel/zxbasic
+2018-11-20T06:49:30-05:00	Lovecraft is illustrative of the first half of the 20th century because he represents several seemingly mutually exclusive extremes. Recommend reading Sterling's Pirate Utopia & Stranger Than We Can Imagine together, then Dreams in the Witch House
+2018-11-20T08:00:02-05:00	Band name of the day: the far and cold
+2018-11-20T08:04:11-05:00	When you think about it, all search engines are human flesh search engines, except disjointed in time. fite me
+2018-11-20T08:15:31-05:00	TFW people post rhetorical questions to quora
+2018-11-20T08:27:55-05:00	Understanding the bin, sbin, usr/bin , usr/sbin split http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
+2018-11-20T08:41:06-05:00	It is not that sufficiently advanced technology is indistinguishable from magic, but that anything is indistinguishable from magic from the perspective of the sufficiently ignorant. Clarke assumes we will lose the red queen's race with polymathy.
+2018-11-20T09:14:55-05:00	How to Internet " World Wide WTF " Medium https://medium.com/s/world-wide-wtf/how-to-internet-6c379e75c8e0
+2018-11-20T09:16:07-05:00	Structural typing (and its integration with prototype OO) might be one way to address the platypus… https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/structural-typing-and-its-integration-with-prototype-oo-might-be-one-way-to-address-the-platypus-c9663c362c26
+2018-11-20T09:16:27-05:00	Democracy Shouldn’t Be About Brand Recognition " Member Feature Stories " Medium https://medium.com/s/story/in-1967-a-student-known-only-as-black-bag-showed-us-all-how-democracy-would-end-3af7a526c461
+2018-11-20T09:18:37-05:00	Martin Heidegger and Günther Anders on Technology: On Ray Kurzweil, Fritz Lang, and Transhumanism https://medium.com/amor-mundi/martin-heidegger-and-g%C3%BCnther-anders-on-technology-on-ray-kurzweil-fritz-lang-and-transhumanism-a48a4c123c09
+2018-11-20T09:22:33-05:00	Welcome to the witch capital of Norway | The Outline https://theoutline.com/post/6613/vardo-norway-halloween-steilneset-memorial
+2018-11-20T10:07:03-05:00	Code Art, Code Poetry, and Esolangs  - esoteric.codes https://esoteric.codes/blog/code-art-code-poetry-and-esolangs
+2018-11-20T10:07:55-05:00	Oou: The Insane Language - esoteric.codes https://esoteric.codes/blog/oou-the-insane-language
+2018-11-20T10:16:01-05:00	From Satori to Silicon Valley https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/satori/organic.html
+2018-11-20T10:17:26-05:00	From Satori to Silicon Valley https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/satori/taste.html
+2018-11-20T10:22:54-05:00	Band name of the day: gorilla orphanage
+2018-11-20T10:24:13-05:00	High score, low pay: why the gig economy loves gamification | Business | The Guardian https://www.theguardian.com/business/2018/nov/20/high-score-low-pay-gamification-lyft-uber-drivers-ride-hailing-gig-economy
+2018-11-20T10:26:00-05:00	PingFS - esoteric.codes https://esoteric.codes/blog/pingfs-storing-your-files-in-network-traffic
+2018-11-20T10:27:40-05:00	The Second Half of Watergate Was Bigger, Worse, and Forgotten By the&nbsp;Public  https://longreads.com/2018/11/20/the-second-half-of-watergate-was-bigger-worse-and-forgotten-by-the-public/
+2018-11-20T10:28:59-05:00	Jonestown&#8217;s Victims Have a Lesson to Teach Us, So I Listened &#8211; Mother Jones https://www.motherjones.com/politics/2018/11/jonestowns-victims-have-a-lesson-to-teach-us-so-i-listened-peoples-temple-anniversary-40/
+2018-11-20T10:38:45-05:00	Is it gauche to name the hero of a show Yuta or does it only become gauche once a different character makes a Yuta / Yusha pun? Asking for a friend. (Gridman / Chuu2byo)
+2018-11-20T10:43:57-05:00	Too Many Requests https://www.reddit.com/r/AskHistorians/comments/2lvjgt/in_games_and_books_there_are_always_adventurers/
+2018-11-20T10:45:45-05:00	Band name of the day: too many requests
+2018-11-20T10:47:57-05:00	Unnecessary and Kallisti: Purely Conceptual Languages  - esoteric.codes https://esoteric.codes/blog/unnecessary-purely-conceptual-languages
+2018-11-20T10:48:13-05:00	Conceptual Languages (Part 2)  - esoteric.codes https://esoteric.codes/blog/conceptual-languages-part-2
+2018-11-20T11:05:58-05:00	Heads up, apparently there are gonna be export restrictions on neural net, reinforcement learning, computer vision, NLP, & similar research done in the US: https://www.federalregister.gov/documents/2018/11/19/2018-25221/review-of-controls-for-certain-emerging-technologies
+2018-11-20T12:43:10-05:00	The roots of America's democracy problem - YouTube https://www.youtube.com/watch?v=0ySL82WbcvU
+2018-11-20T12:56:30-05:00	Rome 1990: MOST SWASHBUCKLING EVER!  Ted dances and challenges nonstop - YouTube https://www.youtube.com/watch?v=h9QvX1-SdHE
+2018-11-20T14:10:56-05:00	Philip M. Parker - Wikipedia https://en.wikipedia.org/wiki/Philip_M._Parker
+2018-11-20T15:28:39-05:00	The Little Regulation That Will Make a Big Change in How You Do Business: Department of Commerce to Establish New Export Controls on Emerging Technologies - Lexology https://www.lexology.com/library/detail.aspx?g=205f4c5f-17c7-4d18-9967-a01983883706
+2018-11-20T16:16:05-05:00	Great black friday deals on exorcisms but only if you are possessed by one of the great presidents of hell or below -- no goetic princes. Starts at 66.99
+2018-11-21T08:14:57-05:00	GitHub - thearkadia/The_Ark: The Ark - ¿Democracy's Favorite Device? https://github.com/thearkadia/The_Ark
+2018-11-21T08:16:10-05:00	Band name of the day: abjection
+2018-11-21T08:39:14-05:00	Band name of the day: watcher at the gates of mind
+2018-11-21T08:40:25-05:00	Band name of the day: transient hypofrontality
+2018-11-21T08:56:17-05:00	The World As If https://www.ribbonfarm.com/2017/09/07/the-world-as-if/
+2018-11-21T09:11:54-05:00	Folk Concepts https://www.ribbonfarm.com/2017/11/16/folk-concepts/
+2018-11-21T09:17:24-05:00	Cringe and the Design of Sacred Experiences https://www.ribbonfarm.com/2018/01/11/cringe-and-the-design-of-sacred-experiences/
+2018-11-21T12:07:49-05:00	The Well-Being Machine https://www.ribbonfarm.com/2018/06/12/the-well-being-machine/
+2018-11-21T12:25:12-05:00	Band name of the day: seven minutes of terror
+2018-11-21T12:46:38-05:00	How Turkey Got Its Name | Now I Know http://nowiknow.com/how-turkey-got-its-name/
+2018-11-21T13:04:49-05:00	World States and Mega Empires in SF  |  Tor.com https://www.tor.com/2018/11/12/world-states-and-mega-empires-in-sf/
