@@ -1,0 +1,11 @@
+{
+	"origin" : ["#phrase#. ", "#phrase#. #origin#"],
+	"phrase": ["#you_are#", "#you_blank#", "#verb_your_relative#"],
+	"verb_your_relative": ["Go #bad_verb# your #nice_relative#"],
+	"nice_relative": ["Grandma", "mother", "sister", "pet rabbit", "local priest", "favorite nun"],
+	"bad_verb": ["fuck", "screw", "diddle", "molest", "man-handle"],
+	"you_are": ["You are #bad_name.a#", "You are such #bad_name.a#"],
+	"you_blank": ["You #bad_name#", "You #emphasizing_adjective# #bad_name#"],
+	"bad_name": ["dick wad", "asshole", "asshat"],
+	"emphasizing_adjective": ["fucking", "freaking", "unbelievable"]
+}
