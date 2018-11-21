@@ -2,10 +2,12 @@
 	"origin" : ["#phrase#. ", "#phrase#. #origin#"],
 	"phrase": ["#you_are#", "#you_blank#", "#verb_your_relative#"],
 	"verb_your_relative": ["Go #bad_verb# your #nice_relative#"],
-	"nice_relative": ["Grandma", "mother", "sister", "pet rabbit", "local priest", "favorite nun"],
-	"bad_verb": ["fuck", "screw", "diddle", "molest", "man-handle"],
-	"you_are": ["You are #bad_name.a#", "You are such #bad_name.a#"],
+	"nice_relative": ["Grandma", "mother", "sister", "pet rabbit", "local priest", "favorite nun", "self", "dog", "parrot"],
+	"bad_verb": ["fuck", "screw", "diddle", "molest", "man-handle", "sodomize"],
+	"you_are": ["You are #bad_name.a#", "You are such #bad_name.a#", "You are such #emphasizing_adjective.a# #bad_name#"],
 	"you_blank": ["You #bad_name#", "You #emphasizing_adjective# #bad_name#"],
-	"bad_name": ["dick wad", "asshole", "asshat"],
-	"emphasizing_adjective": ["fucking", "freaking", "unbelievable"]
+	"bad_name": ["dick wad", "asshole", "asshat", "cunt", "#bad_name_component1##bad_name_component2#", "#emphasizing_adjective# #bad_name#"],
+	"bad_name_component1": ["ass", "shit", "fuck", "cunt", "cum", "piss"],
+	"bad_name_component2": ["face", "wad", "wipe", "stain", "face", "weasel"],
+	"emphasizing_adjective": ["fucking", "freaking", "unbelievable", "absolute", "goddamned #emphasizing_adjective#"]
 }
