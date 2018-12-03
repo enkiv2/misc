@@ -4784,3 +4784,64 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-11-29T16:00:31-05:00	What's a useful programming language feature or concept that a lot of languages don't have? - DEV Community '‍''‍' https://dev.to/cathodion/whats-a-useful-programming-language-feature-or-concept-that-a-lot-of-languages-dont-have-2ep1
 2018-11-29T16:59:31-05:00	Band name of the day: known cryptonyms
 2018-11-29T17:29:03-05:00	Reading capital politically - Harry Cleaver https://libcom.org/library/reading-capital-politically-cleaver
+2018-11-29T17:36:43-05:00	13brane.net https://13brane.net/rants/de-facto-closed-source/
+2018-11-29T19:23:32-05:00	a year of watching nothing but the movies MST3K covers but without the riffing
+2018-11-30T06:51:51-05:00	Band name of the day: robust adversarial examples
+2018-11-30T06:52:09-05:00	Band name of the day: universal adversarial perturbations
+2018-11-30T06:54:15-05:00	Bad idea of the day: live your life as though it is a bayesian poisoning attack on the basilisk
+2018-11-30T07:34:01-05:00	GitHub - LingDong-/rrpl: Describing Chinese Characters with Recursive Radical Packing Language (RRPL) https://github.com/LingDong-/rrpl
+2018-11-30T07:53:30-05:00	\...........//: Embracing the New Flesh http://ellaguro.blogspot.com/2014/10/embracing-new-flesh.html
+2018-11-30T08:02:11-05:00	Good design for developers & good design for non-developers don't operate by different rules. Devs aren't happy needing to memorize manuals, and end users can & will learn things if it makes their lives easier.
+2018-11-30T09:02:09-05:00	Beyond “Lump”: The Presidents of the United States of America Rocked https://tedium.co/2018/11/29/presidents-of-the-united-states-of-america-band-history/
+2018-11-30T09:43:22-05:00	Video Games In East Germany: The Stasi Played Along | ZEIT ONLINE https://www.zeit.de/digital/games/2018-11/computer-games-gdr-stasi-surveillance-gamer-crowd
+2018-11-30T10:30:31-05:00	Flanderizing Akihabara - Educated by Culture - YouTube https://www.youtube.com/watch?v=dOBpJF9zQKY
+2018-11-30T10:59:05-05:00	Maybe Not - Rich Hickey - YouTube https://www.youtube.com/watch?v=YR5WdGrpoug
+2018-11-30T13:10:31-05:00	Band name of the day: racing lawnmowers
+2018-11-30T13:16:10-05:00	Ask Dr. Time: In Praise of Hope https://kottke.org/18/11/ask-dr-time-in-praise-of-hope
+2018-12-01T11:21:57-05:00	transmediale 2014  | Talk by Bruce Sterling at the Opening Ceremony - YouTube https://www.youtube.com/watch?v=dacKWLGZklM
+2018-12-01T14:45:25-05:00	Paradise Explained, Meaning Lost: A Nonsensically Annotated Edition of Milton's Epic · Issue #106 · NaNoGenMo/2018 · GitHub https://github.com/NaNoGenMo/2018/issues/106
+2018-12-01T14:45:58-05:00	paradise_explained/book1_complete.pdf at master · jrladd/paradise_explained · GitHub https://github.com/jrladd/paradise_explained/blob/master/book1_complete.pdf
+2018-12-01T16:35:08-05:00	Bruce Sterling | Disrupting Dystopia: The Bruce Sterling Talk | SXSW 2018 - YouTube https://www.youtube.com/watch?v=iPu_FC9F2Ck
+2018-12-01T17:00:14-05:00	Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity - YouTube https://www.youtube.com/watch?v=jkHtSBzYGWQ
+2018-12-01T18:35:28-05:00	NEXT17 |  Bruce Sterling | Live from 2027 - YouTube https://www.youtube.com/watch?v=C2O_fxmrP_Q
+2018-12-01T18:50:43-05:00	Band name of the day: land art in space
+2018-12-01T18:53:40-05:00	A+E 2017 - Bruce Sterling: Speculations https://www.youtube.com/watch?v=dfjHjJ2SFLI
+2018-12-01T19:05:35-05:00	Bruce Sterling Masterclass (September 27, 2018) - YouTube https://www.youtube.com/watch?v=UO9twds_SUc
+2018-12-01T19:41:24-05:00	Bruce Sterling - Fantasy prototypes and real disruption - YouTube https://www.youtube.com/watch?v=M7KErICTSHU
+2018-12-01T19:50:34-05:00	Seduced & Abandoned: The Body in the Virtual World - Bruce Sterling - YouTube https://www.youtube.com/watch?v=YSINgf_UBS8
+2018-12-01T20:00:18-05:00	Welcome to CBDQ-Memegen! http://cbdq-memegen.glitch.me/
+2018-12-01T20:47:25-05:00	Tomorrow Now: Envisioning The Next Fifty Years | Bruce Sterling with Samit Basu - YouTube https://www.youtube.com/watch?v=iAMxQG_buag
+2018-12-01T21:13:32-05:00	Closing Remarks: Bruce Sterling | SXSW Interactive 2016 - YouTube https://www.youtube.com/watch?v=gZaiCDogmwM
+2018-12-01T21:16:10-05:00	I just realized that -- nevermind Wu Ming / Luther Blissett -- QAnon is fanfiction of Bruce Sterling's 2016 SXSW closing keynote
+2018-12-01T21:17:37-05:00	Treasure Hunting https://www.ribbonfarm.com/2018/11/02/treasure-hunting/
+2018-12-01T22:14:27-05:00	Bruce Sterling: What A Feeling! - YouTube https://www.youtube.com/watch?v=KWCdMuEjw4g
+2018-12-02T11:33:22-05:00	Band name of the day: a section of agghartha
+2018-12-02T12:43:21-05:00	Philosophy of ＡＥＳＴＨＥＴＩＣＳ: The Floating World of Ukiyo-e - YouTube https://www.youtube.com/watch?v=HCHFjj_qr5Q
+2018-12-02T12:48:25-05:00	William Gibson: The Decline of "Cyberspace" - YouTube https://www.youtube.com/watch?v=fVnt_Rr-TB4
+2018-12-02T14:02:48-05:00	Despite MST3K's riffing, the thing that strikes me most about The Day Time Ended is how closely it hews to the tropes of actual close encounters (as Vallee describes). & this is why it's a bad movie.
+2018-12-02T17:55:51-05:00	Thread by @Aelkus: "Strange Days is seriously underrated The aesthetic of the movie, like Blade Runner is, very good and timeless due to its combination of futu […]" https://threadreaderapp.com/thread/1069354595527344128.html
+2018-12-02T18:03:07-05:00	I Forced an AI to Watch Santa Claus Conquers the Martians · Issue #33 · NaNoGenMo/2018 · GitHub https://github.com/NaNoGenMo/2018/issues/33#issuecomment-443401950
+2018-12-03T06:50:18-05:00	I don't think it's a coincidence that Vallee is among the most lucid of the mid-century ufologists. The modern internet does to the global mind what a close encounter does to individual minds.
+2018-12-03T07:55:24-05:00	What makes BeOS and Haiku unique – The OS Voyager https://osvoyager.wordpress.com/2018/11/30/what-makes-beos-and-haiku-unique/
+2018-12-03T08:11:34-05:00	Undefined Behavior Is Really Undefined https://cryptoservices.github.io/fde/2018/11/30/undefined-behavior.html
+2018-12-03T08:21:23-05:00	Rocko’s Modern Life: Inside the Barely Contained Chaos of a Nickelodeon Classic | Vanity Fair https://www.vanityfair.com/hollywood/2018/11/inside-rockos-modern-life-nickelodeon-cartoon
+2018-12-03T09:00:57-05:00	We need to admit that parents sometimes hate their children | Aeon Essays https://aeon.co/essays/we-need-to-admit-that-parents-sometimes-hate-their-children
+2018-12-03T09:15:21-05:00	Project Troy: The Science of Cold War Psychological Warfare - The Atlantic  https://www.theatlantic.com/science/archive/2018/12/project-troy-science-cold-war-psychological-warfare/576847/
+2018-12-03T09:40:32-05:00	Are aptitude tests an accurate measure of human potential? | Aeon Essays https://aeon.co/essays/are-aptitude-tests-an-accurate-measure-of-human-potential
+2018-12-03T09:43:07-05:00	WHAT IS TO BE DONE? – ALIENIST MANIFESTO https://alienistmanifesto.wordpress.com/2018/06/16/what-is-to-be-done/
+2018-12-03T10:10:57-05:00	Edward Gorey’s Enigmatic World | The New Yorker https://www.newyorker.com/magazine/2018/12/10/edward-goreys-enigmatic-world
+2018-12-03T10:20:00-05:00	Truths programmers should know about case https://www.b-list.org/weblog/2018/nov/26/case/
+2018-12-03T10:23:04-05:00	TAWS - The Amiga Workbench Simulation is loading... http://www.taws.ch/WB.html
+2018-12-03T10:32:32-05:00	Complex networks study ranks the most influential films of all time | Ars Technica https://arstechnica.com/science/2018/12/study-finds-the-wizard-of-oz-is-the-most-influential-film-of-all-time/
+2018-12-03T11:52:44-05:00	Band name of the day: keen data goober
+2018-12-03T11:56:08-05:00	Shadows: a concrete poetry zine · Issue #26 · NaNoGenMo/2018 · GitHub https://github.com/NaNoGenMo/2018/issues/26
+2018-12-03T11:56:29-05:00	GitHub & BitBucket HTML Preview https://htmlpreview.github.io/?https://raw.githubusercontent.com/ikarth/silk/master/silk.html
+2018-12-03T11:57:05-05:00	Generated Book Gallery – 60212: INTERACTIVITY & COMPUTATION http://cmuems.com/2018/60212f/deliverables/7-due-11-16/generated-book-gallery/
+2018-12-03T11:58:29-05:00	GUERRILLA SEMIOTIX – ALIENIST MANIFESTO https://alienistmanifesto.wordpress.com/2018/10/03/guerrilla-semiotix/
+2018-12-03T12:00:53-05:00	Apparently a bunch of air bud sequels are leaving netflix tomorrow so if you really want to watch air bud sequels better get on that
+2018-12-03T12:04:07-05:00	Fractal structure produces fractal electrons with fractal energies | Ars Technica https://arstechnica.com/science/2018/12/fractal-structure-produces-fractal-electrons-with-fractal-energies/
+2018-12-03T12:04:24-05:00	Band name of the day: Hofstadter's butterfly
+2018-12-03T12:13:19-05:00	Why A Fringe Idea About The Supreme Court Is Taking Over The Left | FiveThirtyEight https://fivethirtyeight.com/features/why-a-fringe-idea-about-the-supreme-court-is-taking-over-the-left/
+2018-12-03T12:15:06-05:00	Band name of the day: continuous partial conflict
+2018-12-03T12:17:03-05:00	The Digital Maginot Line https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/
+2018-12-03T12:21:49-05:00	GitHub - nickgravgaard/windowlab: A small and simple window manager of novel design (unmaintained) https://github.com/nickgravgaard/windowlab

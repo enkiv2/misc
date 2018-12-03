@@ -1,4 +1,5 @@
 Lisp / Scheme / Interim
+http://fare.tunes.org/tmp/emergent/kmachine.htm
 http://www.unlambda.com/lisp/cadr.page
 http://www.unlambda.com/index.php?n=Main.Symbolics
 https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html
@@ -156,11 +157,14 @@ https://archive.org/details/HypercardBootVolume
 https://github.com/downpoured/vipercard
 https://github.com/uliwitness/stacksmith/
 Amiga
+http://www.taws.ch/WB.html
 http://zero.eik.bme.hu/~balaton/qemu/amiga/
 http://blog.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/
 Be / Haiku
 https://www.haiku-os.org/docs/HIG/index.xml
 https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/
+https://osvoyager.wordpress.com/2018/11/30/what-makes-beos-and-haiku-unique/
+https://www.youtube.com/watch?v=cjriSNgFHsM
 Multics
 http://swenson.org/multics_wiki/index.php?title=Getting_Started#Using_the_Multics_QuickStart
 https://ban.ai/multics/
