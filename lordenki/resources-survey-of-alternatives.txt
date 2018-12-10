@@ -68,6 +68,11 @@ http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
 https://github.com/schierlm/oberon-risc-emu-enhanced
 https://miasap.se/obnc/
 https://miasap.se/obnc/oberon-report.html
+Lillith / Kronos
+http://bitsavers.org/pdf/eth/lilith/
+http://cfbsoftware.com/modula2/
+http://www.ethistory.ethz.ch/rueckblicke/departemente/dinfk/forschung/weitere_seiten/lilith/index_EN/popupfriendly/
+https://code.google.com/archive/p/kronos/
 Forth / MachineForth / ColorForth
 https://colorforth.github.io/POL.htm
 http://www.ultratechnology.com/forth.htm

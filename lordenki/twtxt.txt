@@ -4926,3 +4926,46 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-12-07T15:42:20-05:00	Why You Should Never, Ever Use Quora – Waxy.org https://waxy.org/2018/12/why-you-should-never-ever-use-quora/
 2018-12-07T15:43:15-05:00	How to Backup Your Allo Conversations Before Google Shuts it Down  https://lifehacker.com/how-to-backup-your-allo-conversations-before-google-shu-1830922541
 2018-12-07T16:00:19-05:00	If your website isn't usable in w3m in offline mode, it's not really a website
+2018-12-07T18:34:04-05:00	Band name of the day: citogenesis
+2018-12-07T18:35:53-05:00	Band name of the day: the active measures
+2018-12-07T19:17:21-05:00	Band name of the day: intercourse with spirits
+2018-12-07T19:40:32-05:00	Hillel Wayne - Everything about distributed systems is terrible | Code Mesh LDN 18 - YouTube https://www.youtube.com/watch?v=tfnldxWlOhM
+2018-12-07T22:28:30-05:00	The Black Cauldron - Disney's Halloween Masterpiece - YouTube https://www.youtube.com/watch?v=3rzWdJ4vB8s
+2018-12-08T15:22:11-05:00	William Gibson in conversation | SCI-FI-LONDON - YouTube https://www.youtube.com/watch?v=Ye78SZ4g_jo
+2018-12-08T15:22:32-05:00	Introduction to Deleuze: Difference and Repetition - YouTube https://www.youtube.com/watch?v=AUQTYlCTfek
+2018-12-08T15:22:59-05:00	FLATLINE: How The Amiga Languished - YouTube https://www.youtube.com/watch?v=zB_UZsJUbwQ
+2018-12-08T15:23:19-05:00	YouTube: Art or Reality? | Philosophy Tube - YouTube https://www.youtube.com/watch?v=kVav1ri65Ws
+2018-12-08T15:25:21-05:00	Band name of the day: the movement
+2018-12-08T15:45:01-05:00	Bruce Sterling   Mirrorshades - YouTube https://www.youtube.com/watch?v=HGFMxGDUWpM
+2018-12-08T15:50:31-05:00	https://eroganous.tumblr.com/
+2018-12-08T17:23:12-05:00	Grand Old Paranoia | The New Republic https://newrepublic.com/article/152195/grand-old-paranoia-republican-conspiracy-theories-warp-washington
+2018-12-09T11:33:49-05:00	Band name of the day: unforseen movements
+2018-12-09T12:03:59-05:00	Would we be worse off if we chose presidents by lottery? We'd probably be better off. If there was nothing someone could do to increase their odds of being president, it wouldn't attract the mercenery & power-hungry.
+2018-12-09T12:12:44-05:00	Hedonic Audit https://www.ribbonfarm.com/2018/07/13/hedonic-audit/
+2018-12-09T14:17:53-05:00	Today, on the 50th anniversary of Englebart's Mother of All Demos, is a great opportunity to introspect about why *personal* computers still basically don't exist & the needs nLS was intended to fulfill still aren't fulfilled.
+2018-12-09T14:42:32-05:00	JIRA is an antipattern – TechCrunch https://techcrunch.com/2018/12/09/jira-is-an-antipattern/
+2018-12-09T15:19:13-05:00	Gary Lachman "The Lost Knowledge of the Imagination" - YouTube https://www.youtube.com/watch?v=rLlLCVO3H28
+2018-12-09T17:11:25-05:00	Is Science Slowing Down? | Slate Star Codex http://slatestarcodex.com/2018/11/26/is-science-slowing-down-2/
+2018-12-09T17:25:22-05:00	The Economic Perspective On Moral Standards | Slate Star Codex http://slatestarcodex.com/2018/11/16/the-economic-perspective-on-moral-standards/
+2018-12-09T17:56:16-05:00	Unflattening Hobbes https://www.ribbonfarm.com/2018/10/18/unflattening-hobbes/
+2018-12-09T19:20:18-05:00	Rhizomes 31 * Ali Sperling * H.P. Lovecraft’s Weird Body http://www.rhizomes.net/issue31/sperling.html
+2018-12-09T19:25:51-05:00	2019 Open Call | Now Play This http://nowplaythis.net/2019-open-call/
+2018-12-09T20:20:28-05:00	Band name of the day: synners in the grasp of an angry gnon
+2018-12-09T20:38:31-05:00	Telekon has a piano cover of Down in the Park & it makes me laugh ever goddamn time I hear it. It's like having a muzak cover of Bulls On Parade.
+2018-12-10T06:31:53-05:00	We all know about social constructs vs reality, but there are levels of spookiness (and no upper bound). We can define them as how far a lie can go before the truth gets its boots on. Spookiness level one -- money -- already goes basically perpetually.
+2018-12-10T07:54:46-05:00	Teleconferencing is like being on IRC, if everybody was a noob, two people typing at the same time made both of their posts into gibberish, and half the channel has a cat on their keyboard the entire time.
+2018-12-10T09:31:37-05:00	The best argument against the idea that AI will replace programmers wholesale is the relative unpopularity of prolog. As an industry, we don't take advantage of fantastic automation tech from the 70s, and instead write Java.
+2018-12-10T11:00:00-05:00	Cragne Manor, an 84-room horror "exquisite corpse" text adventure that's a tribute to the classic game Anchorhead / Boing Boing https://boingboing.net/2018/12/09/massively-multi-developer.html
+2018-12-10T11:02:57-05:00	Prions, Nearly Indestructible and Universally Lethal, Seed the Eyes of Victims - Scientific American Blog Network https://blogs.scientificamerican.com/artful-amoeba/prions-nearly-indestructible-and-universally-lethal-seed-the-eyes-of-victims/
+2018-12-10T11:05:26-05:00	Command-Line Options10.Configuration"/><link rel="previous" href="ch10s04.html" title="Environment Variables"/><link rel="next" href="ch10s06.html" title="How to Choose among the Methods"/></head><body><div class="navh... http://www.catb.org/esr/writings/taoup/html/ch10s05.html
+2018-12-10T11:09:24-05:00	Band name of the day: rural edgelands
+2018-12-10T12:02:48-05:00	Hey, maybe now that microsoft is pushing chrome, things will get bad enough that electron will be dropped & developers will remember that cross-platform GUI toolkits exist that don't involve spamming HTML
+2018-12-10T12:06:26-05:00	Bad idea of the day: a campaign to ensure all life extension therapies are completely covered by medicare, medicaid, & ACA-compatible insurance
+2018-12-10T12:57:32-05:00	Band name of the day: mechanized death
+2018-12-10T13:11:01-05:00	has anybody registered luke-usethe.horse yet?
+2018-12-10T13:55:29-05:00	There's this approach to computing history where we focus on work that looks shallowly similar to current norms, claim that work was 'prophetic' or 'ahead of its time', & mostly ignore differences & intent except as quirks. Fuck that.
+2018-12-10T14:26:54-05:00	Reflections on DOOM's Development — Rome.ro https://rome.ro/news/2018/12/10/reflections-on-dooms-development
+2018-12-10T16:19:05-05:00	William Gibson: The Uncut Interview - YouTube https://www.youtube.com/watch?v=JEXIqKRdz9A
+2018-12-10T16:43:19-05:00	William Gibson | Part 1 | Jan. 12, 2012 | Appel Salon - YouTube https://www.youtube.com/watch?v=QFewCiRaGiU
+2018-12-10T16:43:49-05:00	The Internet Doesn't Need Civility, It Needs Ethics - Motherboard https://motherboard.vice.com/en_us/article/pa5gxn/the-internet-doesnt-need-civility-it-needs-ethics
+2018-12-10T16:45:21-05:00	It’s the End of News As We Know It (and Facebook Is Feeling Fine) – Mother Jones https://www.motherjones.com/media/2018/12/facebook-propaganda-trump/
