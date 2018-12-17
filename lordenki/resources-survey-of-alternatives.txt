@@ -205,6 +205,17 @@ https://github.com/jvburnes/node9
 https://bitbucket.org/inferno-os/inferno-os/
 http://www.vitanuova.com/inferno/downloads.html
 http://tryinferno.reverso.be/
+Sprite / Amoeba
+https://en.m.wikipedia.org/wiki/Sprite_(operating_system)
+https://github.com/OSPreservProject/sprite/
+https://web.archive.org/web/20040405225311/http://www.cs.berkeley.edu:80/projects/sprite/retrospective.html
+http://gavare.se/gxemul/gxemul-stable/doc/guestoses.html#sprite
+https://web.archive.org/web/20040402163929/http://www.cs.berkeley.edu/projects/sprite/sprite.html
+https://en.m.wikipedia.org/wiki/Amoeba_(operating_system)
+https://github.com/OSPreservProject/amoeba
+http://fsd-amoeba.sourceforge.net/
+https://www.cs.vu.nl/pub/amoeba/
+http://pdos.csail.mit.edu/~kaashoek/papers/amsp.ps
 Hypertext
 https://www.reinterpretcast.com/pdfs/savage-j-dissertation-2018-05.pdf
 https://gist.github.com/ldodds/a7f901c7f0118e83a645

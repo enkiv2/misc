@@ -4969,3 +4969,73 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-12-10T16:43:19-05:00	William Gibson | Part 1 | Jan. 12, 2012 | Appel Salon - YouTube https://www.youtube.com/watch?v=QFewCiRaGiU
 2018-12-10T16:43:49-05:00	The Internet Doesn't Need Civility, It Needs Ethics - Motherboard https://motherboard.vice.com/en_us/article/pa5gxn/the-internet-doesnt-need-civility-it-needs-ethics
 2018-12-10T16:45:21-05:00	It’s the End of News As We Know It (and Facebook Is Feeling Fine) – Mother Jones https://www.motherjones.com/media/2018/12/facebook-propaganda-trump/
+2018-12-10T19:19:22-05:00	Tech’s Masturbatory Historiography " John Ohno " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/techs-masturbatory-historiography-6d7ae12abf1f?source=friends_link&sk=c07e60d820ba1909520584c094f37876
+2018-12-11T09:00:56-05:00	Every time I complain about how computers can be made better (if we work together) I get a bunch of people criticizing me for being insufficiently grateful. Bitch, I'm a programmer. I know how much effort somebody put into this shit, & it's not enough.
+2018-12-11T16:59:15-05:00	Tech’s Masturbatory Historiography | Lobsters https://lobste.rs/s/o6x9b3/tech_s_masturbatory_historiography#c_l1snl2
+2018-12-11T17:43:17-05:00	Loper OS » Engelbart’s Violin http://www.loper-os.org/?p=861
+2018-12-11T19:40:56-05:00	Announcing the 2019 No-Budget Film Contest " John Ohno " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2018-12-11T19:42:38-05:00	Stack Exchange Simulator https://se-simulator.lw1.at/
+2018-12-11T19:58:43-05:00	Vampire Reviews: Dracula, Pages from a Virgin's Diary - YouTube https://www.youtube.com/watch?v=iP83GS8jBJc
+2018-12-12T07:15:00-05:00	See No Evil " Real Life https://reallifemag.com/guided-tours-see-no-evil/
+2018-12-12T09:00:17-05:00	Band name of the day: parts world
+2018-12-12T09:50:49-05:00	Mark Fisher’s “K-Punk” and the Futures That Have Never Arrived | The New Yorker https://www.newyorker.com/books/page-turner/mark-fishers-k-punk-and-the-futures-that-have-never-arrived
+2018-12-12T10:02:54-05:00	One of the reasons I'm so hard on the original macintosh is that the team appropriated fantastic ideas from better projects that they were totally unprepared to do justice to, then delivered warped & broken versions of them.
+2018-12-12T10:08:45-05:00	Archiving C64 Tapes Correctly | pagetable.com https://www.pagetable.com/?p=1002
+2018-12-12T10:11:02-05:00	The Programming Languages Zoo http://plzoo.andrej.com/
+2018-12-12T10:18:25-05:00	Thoughts on (and pics of) the original Macintosh User Manual – peterme.com https://www.peterme.com/2007/08/27/thoughts-on-and-pics-of-the-original-macintosh-user-manual/
+2018-12-12T10:24:49-05:00	How the Dreamcast copy protection was defeated http://fabiensanglard.net/dreamcast_hacking/
+2018-12-12T10:30:37-05:00	Hokusai’s Ghost Stories (ca. 1830) – The Public Domain Review https://publicdomainreview.org/collections/hokusais-ghost-stories-ca-1830/
+2018-12-12T10:36:23-05:00	'User empowerment' is a useful idea that gets abused to glorify user-hostile design. It's usually used to refer to situations where the user is empowered to do as we (devs or PMs) tell them, or where the empowerment is too abstract to be proven.
+2018-12-12T11:08:43-05:00	At the Very Least We Know the End of the World Will Have a Bright Side  https://longreads.com/2018/12/12/solarpunk-review/
+2018-12-12T11:13:53-05:00	If the user doesn't have direct control over it, it's not really personalization -- only imposition
+2018-12-12T11:24:06-05:00	Band name of the day: hooves upon the air
+2018-12-12T12:35:54-05:00	An ant colony has memories that its individual members don’t have | Aeon Ideas https://aeon.co/ideas/an-ant-colony-has-memories-that-its-individual-members-dont-have
+2018-12-12T12:39:09-05:00	Band name of the day: solar bodies
+2018-12-12T12:39:34-05:00	Infomercial Dark Patterns: How the App Store Recreates  TV Scams https://tedium.co/2018/12/11/infomercials-history-dark-patterns/
+2018-12-12T12:53:34-05:00	GitHub - yarel-di/yarel: Paradigmatic first-order reversible functional programming language https://github.com/yarel-di/yarel
+2018-12-12T12:58:48-05:00	Rich People Are Getting Away With Not Paying Their Taxes - The Atlantic  https://www.theatlantic.com/politics/archive/2018/12/rich-people-are-getting-away-not-paying-their-taxes/577798/
+2018-12-12T13:06:50-05:00	Demon Underneath: John DeLorean and the invention of the future | The Outline https://theoutline.com/post/6776/john-delorean-rise-and-fall-big-money-the-fbi-celebrities-and-cocaine
+2018-12-12T13:08:18-05:00	Band name of the day: gaffe machine
+2018-12-12T13:39:34-05:00	View of Roundtable: Should library workers learn to code? https://journal.lib.uoguelph.ca/index.php/perj/article/view/4121/4134
+2018-12-12T14:36:42-05:00	The Dark Truths Behind Our Obsession With Self-Care - Tonic https://tonic.vice.com/en_us/article/zmdwm4/the-young-and-the-uncared-for-v25n4
+2018-12-12T14:43:09-05:00	About | Yggdrasil https://yggdrasil-network.github.io/about.html
+2018-12-12T14:44:36-05:00	Sprite (operating system) - Wikipedia https://en.m.wikipedia.org/wiki/Sprite_(operating_system)
+2018-12-12T14:45:51-05:00	GXemul - Documentation (0.6.1) http://gavare.se/gxemul/gxemul-stable/doc/guestoses.html#sprite
+2018-12-12T14:55:38-05:00	GitHub - OSPreservProject/oskit: oskit code from Fluke OS project at University of Utah https://github.com/OSPreservProject/oskit
+2018-12-12T16:43:18-05:00	The Enduring American Outrage of “Network” | The New Yorker https://www.newyorker.com/magazine/2018/12/17/the-enduring-american-outrage-of-network
+2018-12-12T19:02:43-05:00	Band name of the day: rich tapestry of disaster
+2018-12-13T06:53:35-05:00	Interview with Alan Kay | Dr Dobb's http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442?pgno=1
+2018-12-13T11:19:42-05:00	Is It Time to Redesign Scrabble? http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed
+2018-12-13T11:21:09-05:00	Best of 2013: The Man Who Invented Modern Probability - Issue 8: Home - Nautilus http://nautil.us/issue/8/Home/best-of-2013-the-man-who-invented-modern-probability
+2018-12-13T11:39:26-05:00	Band name of the day: repel bears
+2018-12-13T13:17:44-05:00	Band name of the day: a god without a function
+2018-12-13T13:24:52-05:00	The Norse Mythology Blog | norsemyth.org: Questioning Loki, Part One | Articles & Interviews on Myth & Religion https://www.norsemyth.org/2013/01/questioning-loki-part-one.html
+2018-12-13T13:37:32-05:00	Your New Social Credit Score - YouTube https://www.youtube.com/watch?v=WByBm2SwKk8
+2018-12-13T13:49:21-05:00	How to Make Your Own Mead - YouTube https://www.youtube.com/watch?v=2YwAvLru2ec
+2018-12-13T13:56:08-05:00	A Postmodernism FAQ: Part II - How does postmodernism differ from X? - YouTube https://www.youtube.com/watch?v=U4hS5NSzPxw
+2018-12-14T07:53:59-05:00	Band name of the day: putridarium
+2018-12-14T11:06:59-05:00	Index of /pdf/eth/lilith http://bitsavers.org/pdf/eth/lilith/
+2018-12-14T11:11:20-05:00	GitHub - OSPreservProject/sprite: The sprite operating system https://github.com/OSPreservProject/sprite/
+2018-12-14T11:11:41-05:00	Sprite Reterospective https://web.archive.org/web/20040405225311/http://www.cs.berkeley.edu:80/projects/sprite/retrospective.html
+2018-12-14T11:12:07-05:00	Sprite https://web.archive.org/web/20040402163929/http://www.cs.berkeley.edu/projects/sprite/sprite.html
+2018-12-14T11:12:20-05:00	Amoeba (operating system) - Wikipedia https://en.m.wikipedia.org/wiki/Amoeba_(operating_system)
+2018-12-14T11:12:36-05:00	GitHub - OSPreservProject/amoeba: amoeba operating system https://github.com/OSPreservProject/amoeba
+2018-12-14T11:12:47-05:00	Distributed Operating System Amoeba - Fireball Software http://fsd-amoeba.sourceforge.net/
+2018-12-14T11:12:58-05:00	Amoeba WWW Home Page  https://www.cs.vu.nl/pub/amoeba/
+2018-12-14T11:13:13-05:00	302 Found http://pdos.csail.mit.edu/~kaashoek/papers/amsp.ps
+2018-12-14T11:36:33-05:00	Human Computer Interaction: Metaphors https://tpetricek.github.io/Teaching/human-computer-interaction/metaphors.html#/7/2
+2018-12-14T12:17:55-05:00	Matthew Bergman - Computing Machinery and Intelligence [PWL NYC] - YouTube https://www.youtube.com/watch?v=Mq44fE7b9GU
+2018-12-15T22:21:14-05:00	Band name of the day: the mutant incident
+2018-12-15T22:21:23-05:00	Band name of the day: center for effective dreaming
+2018-12-16T12:50:08-05:00	Band name of the day: rock hard clumps
+2018-12-16T12:50:35-05:00	Band name of the day: steel hour
+2018-12-16T13:28:25-05:00	Notes on Doing Things https://www.ribbonfarm.com/2018/05/10/notes-on-doing-things/
+2018-12-16T13:51:50-05:00	Band name of the day: silver gleaming death machine
+2018-12-16T13:52:47-05:00	Band name of the day: fresh and desperate wailing
+2018-12-16T13:53:09-05:00	Band name of the day: manual of disasters
+2018-12-17T08:23:24-05:00	Band name of the day: modern sound synthesis
+2018-12-17T08:51:19-05:00	Hacker Banner Ads Are Totally Wild - Motherboard https://motherboard.vice.com/en_us/article/pa5vwb/hacker-banner-ads-are-totally-wild
+2018-12-17T10:26:54-05:00	How the First World War gave medicine a new body of evidence | Aeon Essays https://aeon.co/essays/how-the-first-world-war-gave-medicine-a-new-body-of-evidence
+2018-12-17T10:44:53-05:00	PewDiePie vs. T-Series and Rewind 2018: the battle for YouTube, explained - Vox https://www.vox.com/culture/2018/12/14/18138916/pewdiepie-vs-t-series-youtube-rewind-2018
+2018-12-17T11:14:41-05:00	Sedimentation: the existentialist challenge to stereotypes | Aeon Ideas https://aeon.co/ideas/sedimentation-the-existentialist-challenge-to-stereotypes
+2018-12-17T11:29:51-05:00	This Eccentric Academic Thinks the Zodiac Killer Is a Hoax - MEL Magazine https://melmagazine.com/en-us/story/this-eccentric-academic-thinks-the-zodiac-killer-is-a-hoax
