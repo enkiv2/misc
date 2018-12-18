@@ -5039,3 +5039,19 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-12-17T10:44:53-05:00	PewDiePie vs. T-Series and Rewind 2018: the battle for YouTube, explained - Vox https://www.vox.com/culture/2018/12/14/18138916/pewdiepie-vs-t-series-youtube-rewind-2018
 2018-12-17T11:14:41-05:00	Sedimentation: the existentialist challenge to stereotypes | Aeon Ideas https://aeon.co/ideas/sedimentation-the-existentialist-challenge-to-stereotypes
 2018-12-17T11:29:51-05:00	This Eccentric Academic Thinks the Zodiac Killer Is a Hoax - MEL Magazine https://melmagazine.com/en-us/story/this-eccentric-academic-thinks-the-zodiac-killer-is-a-hoax
+2018-12-17T12:45:01-05:00	Type erasure and reification - Eli Bendersky's website https://eli.thegreenplace.net/2018/type-erasure-and-reification/
+2018-12-17T13:05:16-05:00	It’s time for a Bill of Data Rights - MIT Technology Review https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/
+2018-12-17T13:12:40-05:00	Political tribalism in Trump’s America: what Andrew Sullivan gets wrong - Vox https://www.vox.com/policy-and-politics/2018/12/11/18131370/andrew-sullivan-religion-tribalism-christianity-trump
+2018-12-17T13:49:28-05:00	American Ghostwriter | Sean Patrick Cooper https://thebaffler.com/salvos/american-ghostwriter-cooper
+2018-12-18T08:26:56-05:00	Band name of the day: horned werewolf
+2018-12-18T09:28:04-05:00	Aquaman pays homage to H.P. Lovecraft. It’s his worst nightmare. https://slate.com/culture/2018/12/aquaman-movie-hp-lovecraft-racism-miscegenation.html
+2018-12-18T10:02:21-05:00	Google isn’t the company that we should have handed the Web over to | Ars Technica https://arstechnica.com/gadgets/2018/12/the-web-now-belongs-to-google-and-that-should-worry-us-all/
+2018-12-18T10:03:25-05:00	Dymaxion Man | The New Yorker https://www.newyorker.com/magazine/2008/06/09/dymaxion-man
+2018-12-18T10:03:51-05:00	Design: The Dymaxion American - TIME http://content.time.com/time/subscriber/article/0,33009,875527-1,00.html
+2018-12-18T10:08:47-05:00	Prograph " Noel Rappin " Medium https://medium.com/@noelrap/prograph-c3caa90b89e8
+2018-12-18T12:01:48-05:00	SomethingNew/Concepts.md at master · d-cook/SomethingNew · GitHub https://github.com/d-cook/SomethingNew/blob/master/Concepts.md
+2018-12-18T12:59:00-05:00	How to See the Poetry in Plants - Atlas Obscura https://www.atlasobscura.com/articles/atlas-of-poetic-botany
+2018-12-18T13:06:46-05:00	Higher education in the US is driven by a lust for glory | Aeon Essays https://aeon.co/essays/higher-education-in-the-us-is-driven-by-a-lust-for-glory
+2018-12-18T14:10:49-05:00	The Unlikely New Generation of Unabomber Acolytes http://nymag.com/intelligencer/2018/12/the-unabomber-ted-kaczynski-new-generation-of-acolytes.html
+2018-12-18T14:21:01-05:00	A Professional Safecracker Reveals His Craft - The Atlantic https://www.theatlantic.com/technology/archive/2018/12/professional-safecracker-reveals-his-craft/577897/
+2018-12-18T16:37:58-05:00	Edward Gorey's macabre tarot deck from 1966 / Boing Boing https://boingboing.net/2018/12/18/edward-goreys-macabre-tarot.html
