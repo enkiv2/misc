@@ -5055,3 +5055,52 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2018-12-18T14:10:49-05:00	The Unlikely New Generation of Unabomber Acolytes http://nymag.com/intelligencer/2018/12/the-unabomber-ted-kaczynski-new-generation-of-acolytes.html
 2018-12-18T14:21:01-05:00	A Professional Safecracker Reveals His Craft - The Atlantic https://www.theatlantic.com/technology/archive/2018/12/professional-safecracker-reveals-his-craft/577897/
 2018-12-18T16:37:58-05:00	Edward Gorey's macabre tarot deck from 1966 / Boing Boing https://boingboing.net/2018/12/18/edward-goreys-macabre-tarot.html
+2018-12-18T16:56:51-05:00	Spider-Verse - The Ultimate Spider-Man Movie - YouTube https://www.youtube.com/watch?v=k53WLwI9iIo
+2018-12-19T07:20:48-05:00	Band name of the day: cerulean process
+2018-12-19T07:39:14-05:00	Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende's Chile https://www.informatics.indiana.edu/edenm/EdenMedinaJLASAugust2006.pdf
+2018-12-19T08:05:32-05:00	Stafford Beer, and Salvador Allende's Internet, and the Dystopian Novel - tHE r H i z z o n E https://rhizzone.net/articles/stafford-beer-and-salvador-allendes-internet-and-d/
+2018-12-19T09:49:20-05:00	Amazon and Facebook Reportedly Had a Secret Data-Sharing Agreement, and It Explains So Much https://gizmodo.com/amazon-and-facebook-reportedly-had-a-secret-data-sharin-1831192148
+2018-12-19T10:58:55-05:00	Band name of the day: freestyle acupuncture
+2018-12-19T11:28:58-05:00	What would space exploration look like if it starred more women? | Aeon Essays https://aeon.co/essays/what-would-space-exploration-look-like-if-it-starred-more-women
+2018-12-19T11:41:48-05:00	Smart Speakers and Thermostats Will Monetize Life at Home - The Atlantic  https://www.theatlantic.com/family/archive/2018/12/smart-home-devices-data-privacy/578425/
+2018-12-19T11:43:56-05:00	Dirty dealing in the $175 billion Amazon Marketplace - The Verge https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement
+2018-12-19T12:29:35-05:00	Paris Review - Don DeLillo, The Art of Fiction No. 135 https://www.theparisreview.org/interviews/1887/don-delillo-the-art-of-fiction-no-135-don-delillo
+2018-12-19T12:59:59-05:00	Why your favourite film baddies all have a truly evil laugh | Aeon Ideas https://aeon.co/ideas/why-your-favourite-film-baddies-all-have-a-truly-evil-laugh
+2018-12-19T13:21:45-05:00	No Collision | Boston Review http://bostonreview.net/science-nature-politics/bonnie-honig-no-collision
+2018-12-19T13:23:09-05:00	Allende’s socialist internet | Red Pepper https://www.redpepper.org.uk/allendes-socialist-internet/
+2018-12-19T13:40:28-05:00	GitHub - trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security... https://github.com/trimstray/the-book-of-secret-knowledge
+2018-12-19T13:46:30-05:00	Viable system model - Wikipedia https://en.m.wikipedia.org/wiki/Viable_system_model
+2018-12-19T13:46:56-05:00	System dynamics - Wikipedia https://en.m.wikipedia.org/wiki/System_dynamics
+2018-12-19T19:44:38-05:00	Parallel documents!  Interview, August 2018 - YouTube https://www.youtube.com/watch?v=PPBeHDxcVSA
+2018-12-20T07:42:07-05:00	Mark Zuckerberg did everything in his power to avoid Facebook becoming the next MySpace " but forgot one crucial detail… • The Register https://www.theregister.co.uk/2018/12/20/facebook_disaster/
+2018-12-20T08:46:09-05:00	Band name of the day: coordinated inauthentic behavior
+2018-12-20T09:44:48-05:00	Fracturing left unity to own the libs
+2018-12-20T10:19:40-05:00	[1703.00045] Aggregated knowledge from a small number of debates outperforms the wisdom of large crowds https://arxiv.org/abs/1703.00045##
+2018-12-20T10:20:30-05:00	The Cost of Living in Mark Zuckerberg’s Internet Empire - The Ringer https://www.theringer.com/tech/2018/12/19/18148701/mark-zuckerberg-facebook-year-in-review
+2018-12-20T10:41:56-05:00	My Life at a Russian Propaganda Network - POLITICO Magazine https://www.politico.com/magazine/story/2017/08/21/russian-propaganda-sputnik-reporter-215511
+2018-12-20T10:50:10-05:00	We Should Replace Facebook With Personal Websites - Motherboard https://motherboard.vice.com/en_us/article/vbanny/we-should-replace-facebook-with-personal-websites
+2018-12-20T11:27:51-05:00	Bad idea of the day: bumble bee mounted wifi mesh network APs
+2018-12-20T15:38:05-05:00	Star Wars is Really a Cautionary Tale About Devoting All Technological Advancements to Death  |  Tor.com https://www.tor.com/2018/12/17/star-wars-is-really-a-cautionary-tale-about-devoting-all-technological-advancements-to-death/
+2018-12-20T15:48:59-05:00	Bowie Knives, Concealed Rifles, and Caning Charles Sumner  https://longreads.com/2018/12/17/bowie-knives-concealed-rifles-and-caning-charles-sumner/
+2018-12-21T07:51:36-05:00	Why Your iPhone Selfies Don't Look Like Your Face - The Atlantic  https://www.theatlantic.com/technology/archive/2018/12/your-iphone-selfies-dont-look-like-your-face/578353/
+2018-12-21T09:53:41-05:00	Bad idea of the day: set your terminal font to Brand New Roman before starting to code
+2018-12-21T10:14:33-05:00	Facebook workers are the only people who can hold the company accountable. https://slate.com/technology/2018/12/facebook-workers-privacy-violation.html
+2018-12-21T10:19:13-05:00	I Used The Web For A Day Using A Screen Reader " Smashing Magazine https://www.smashingmagazine.com/2018/12/voiceover-screen-reader-web-apps/
+2018-12-21T10:21:59-05:00	I Used The Web For A Day With Just A Keyboard " Smashing Magazine https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/
+2018-12-21T10:27:47-05:00	I Used The Web For A Day With JavaScript Turned Off " Smashing Magazine https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
+2018-12-21T10:40:04-05:00	Ambient Cruelty " Real Life https://reallifemag.com/ambient-cruelty/
+2018-12-21T10:44:19-05:00	If it doesn't work properly with javascript turned off, it's not really a website. If it doesn't work properly with css turned off, it's not really a website. If it doesn't work properly in a text-only environment, it's not really a website.
+2018-12-21T10:53:45-05:00	Topology of Numbers http://pi.math.cornell.edu/~hatcher/TN/TNpage.html
+2018-12-21T11:03:16-05:00	Shtetl-Optimized  » Blog Archive   » Lecture notes!  Intro to Quantum Information Science https://www.scottaaronson.com/blog/?p=3943
+2018-12-21T11:36:52-05:00	Elon Musk is the first influencer CEO - The Verge https://www.theverge.com/2018/12/21/18150813/elon-musk-influencer-ceo-social-media-tesla-spacex
+2018-12-21T12:15:36-05:00	It’s Time For Games To Own Their Politics https://kotaku.com/it-s-time-for-games-to-own-their-politics-1827320727
+2018-12-21T12:16:28-05:00	Video games are political. Here's how they can be progressive | Games | The Guardian https://www.theguardian.com/games/2018/aug/13/video-games-are-political-heres-how-they-can-be-progressive
+2018-12-21T13:24:52-05:00	Free software and the revolt against transactionality https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/free-software-and-the-revolt-against-transactionality-3a44a1b7f96d?source=friends_link&sk=dcc51b815d020b5fb50852ed6844922a
+2018-12-21T13:33:17-05:00	If you find yourself mentally replying to the title of an article before the text actually loads, maybe close it, because you're probably being fucked with.
+2018-12-21T13:37:50-05:00	Recommended whole-web text replacement: s/man/mom/
+2018-12-21T13:40:53-05:00	I don't buy this at all. All the political radicals I know have incredibly elaborate meta-cognition and constantly-shifting meta-justifications, because you don't become radical without curiosity. https://arstechnica.com/science/2018/12/radicals-dont-evaluate-their-mistakes-very-effectively/
+2018-12-21T14:06:16-05:00	Playing with P2P protocols and Firefox http://andregarzia.com/2018/12/playing-with-p2p-protocols-and-firefox.html
+2018-12-21T15:33:48-05:00	Periodic reminder that even Tim May thought bitcoin hype was out of control: https://www.coindesk.com/enough-with-the-ico-me-so-horny-get-rich-quick-lambo-crypto
+2018-12-21T15:40:51-05:00	Periodic reminder that cash is more anonymous than bitcoin (because the serial numbers of bills are not recorded with every transaction). If you want to really be anonymous, do all your buying in quarters, from venting machines
+2018-12-21T15:41:31-05:00	Bad idea of the day: autonomous self-driving solar-powered vending machines
+2018-12-21T16:15:53-05:00	Why Does Britain Still Have A Queen? | Philosophy Tube - YouTube https://www.youtube.com/watch?v=x2W7P3wGBI8
