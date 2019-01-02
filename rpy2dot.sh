@@ -9,8 +9,8 @@ for item in "$@" ; do
 		grep -v 'label _' | awk '
 			/^label / { 
 				print "\"" $2 "\""
-				if(curr_label)
-					print "\"" curr_label "\" -> \"" $2 "\";"
+				#if(curr_label)
+				#	print "\"" curr_label "\" -> \"" $2 "\";"
 				curr_label=$2
 			} 
 			/^jump/ { 
