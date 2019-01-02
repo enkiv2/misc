@@ -53,4 +53,4 @@ done | awk '
 				print x[i]
 			}
 		print "}"
-	}' 
+	}' | gvpr  -c 'N[degree==1]{color="red"}' # from https://stackoverflow.com/questions/6505982/graphviz-dot-how-to-mark-all-leaves-in-a-tree-with-a-distinctive-color
