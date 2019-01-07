@@ -108,6 +108,8 @@ def drawPanels(uid, rows, cols, highlighted=0):
 
 def drawMsgPanel(idx, user, cw, msg, date):
 	panelstart=(idx*4)+1
+	if panelstart+4 > ROWS-2:
+		return
 	panelwidth=int((COLS/8.0)*3)-1
 	scr.addstr(panelstart, 1, trunc(user, panelwidth), curses.color_pair(menunum))
 	if cw==None:
@@ -146,6 +148,21 @@ setupCurses()
 drawPanels("@enkiv2@niu.moe", ROWS, COLS)
 drawMsgPanel(0, "@enkiv2@niu.moe", "Stuff", "Hello, world!", str(datetime.now()))
 drawSelectedMsg("@enkiv2@niu.moe", "Gothic Planchette Egregore", "Stuff", "Hello, world!\nThis is a very long line aaaaaaaaaaaaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.\nthis is another foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz quux.\nThisshouldcauseacharacterbreakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabouthere.", True)
+drawMsgPanel(1, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(2, "@enkiv2@niu.moe", None, "Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", str(datetime.now()))
+drawMsgPanel(3, "@enkiv2@niu.moe", "Placeholder CW", "Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", str(datetime.now()))
+drawMsgPanel(4, "@enkiv2@niu.moe", None, "Jineapple: Jean Pineapple", str(datetime.now()))
+drawMsgPanel(5, "@enkiv2@niu.moe", "mh (+), unix", "Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", str(datetime.now()))
+drawMsgPanel(6, "@enkiv2@niu.moe", "CW: Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", "", str(datetime.now()))
+drawMsgPanel(7, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(8, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(9, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(10, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(11, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(12, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(13, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(14, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
+drawMsgPanel(15, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
 scr.refresh()
 time.sleep(3)
 teardownCurses()
