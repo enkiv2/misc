@@ -8,7 +8,16 @@ try:
 except:
 	pass
 
-import curses, time
+import curses, time, os
+
+home=""
+try:
+	from pathlib import Path
+	home=str(Path.home())
+except:
+	from os.path import expanduser
+	home=expanduser("~")
+ferndir=home+"/.fern/"
 
 from datetime import datetime
 import traceback
@@ -58,6 +67,56 @@ cwnum=3
 textnum=4
 menunum=5
 seennum=6
+
+def statusMsg(msg):
+	query=curses.newwin(4, 80, 10, 0)
+	query.box()
+	query.addstr(1, 1, msg)
+	query.overlay(scr)
+	scr.refresh()
+	query.refresh()
+	query.getch()
+	del query
+
+def queryForInput(msg, hideEcho=False):
+	query=curses.newwin(4, 80, 10, 0)
+	query.box()
+	query.addstr(1, 1, msg)
+	query.overlay(scr)
+	scr.refresh()
+	query.refresh()
+	if not hideEcho:
+		curses.echo()
+	curses.curs_set(1)
+	addy=query.getstr(2, 1)
+	curses.curs_set(0)
+	curses.noecho()
+	del query
+	scr.refresh()
+	return addy
+
+def registerApplication(instanceURL, email, password):
+	clientCredFname=ferndir+"clientcred.txt"
+	userCredFname=ferndir+"usercred.txt"
+	
+	if not (os.path.exists(clientCredFname)):
+		Mastodon.create_app("fern", to_file=clientCredFname, api_base_url=instanceURL)
+	
+	mastodon = Mastodon(client_id=clientCredFname, api_base_url=instanceURL)
+	mastodon.log_in(email, password, to_file=userCredFname)
+	with open(ferndir+"instance_url.txt", "w") as f:
+		f.write(instanceURL)
+
+def registerApplicationHelper():	
+	statusMsg("You need to set up Fern to talk to your instance. Press any key to continue.")
+	instanceURL=queryForInput("What is the URL of your instance?")
+	email=queryForInput("What is your email?")
+	password=queryForInput("What is your password?", True)
+	try:
+		registerApplication(instanceURL, email, password)
+	except Exception as e:
+		statusMsg("Something went wrong: "+str(e))
+		raise e
 
 def setupColor():
 	curses.start_color()
@@ -242,23 +301,32 @@ def drawPanelContents(tl, selectedIdx, skipSeen=False):
 			drawSelectedMsg(username, acct["display_name"], cw, content, True)
 		i+=1
 	scr.refresh()
-
-if(len(sys.argv)<=3):
-	sys.stderr.write("Usage: MastoVoyeur client_token_file user_token_file api_base_url\nSee https://mastodonpy.readthedocs.io/en/latest/ for information about how to create token files\n")
-	sys.exit(1)
-
-mastodon=Mastodon(sys.argv[1], access_token=sys.argv[2], api_base_url=sys.argv[3])
-domain=re.sub("^http.?://", "", re.sub("/$", "", mastodon.instance()["uri"]))
+def main():
+	global mastodon, domain
+	if not os.path.exists(ferndir):
+		os.mkdir(ferndir)
+		registerApplicationHelper()
+	instance_url=""
+	try:
+			with open(ferndir+"instance_url.txt", 'r') as f:
+				instance_url=f.readline().strip()
+			mastodon=Mastodon(client_id=ferndir+"clientcred.txt", access_token=ferndir+"usercred.txt", api_base_url=instance_url)
+	except Exception as e:
+		statusMsg("Something happened: "+str(e))
+		registerApplicationHelper()
+		main()
+	domain=re.sub("^http.?://", "", re.sub("/$", "", mastodon.instance()["uri"]))
+	tl=mastodon.timeline_home(limit=(ROWS-3)/4)
+	for i in range(0, (ROWS-3)/4):
+		drawPanelContents(tl, i)
+		time.sleep(1)
+	tl=mastodon.timeline_local(limit=(ROWS-3)/4)
+	for i in range(0, (ROWS-3)/4):
+		drawPanelContents(tl, i)
+		time.sleep(1)
 try:
-		setupCurses()
-		tl=mastodon.timeline_home(limit=(ROWS-3)/4)
-		for i in range(0, (ROWS-3)/4):
-			drawPanelContents(tl, i)
-			time.sleep(1)
-		tl=mastodon.timeline_local(limit=(ROWS-3)/4)
-		for i in range(0, (ROWS-3)/4):
-			drawPanelContents(tl, i)
-			time.sleep(1)
+	setupCurses()
+	main()
 except:
 	teardownCurses()
 	traceback.print_exc()
