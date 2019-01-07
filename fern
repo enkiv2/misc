@@ -1,25 +1,63 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-import sys, curses, time
+import sys
+try:
+	reload(sys)
+	sys.setdefaultencoding('utf8')
+except:
+	pass
+
+import curses, time
 
 from datetime import datetime
+import traceback
 
-global scr, ROWS, COLS
+import re
+
+import locale
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+code = locale.getpreferredencoding()
+code="UTF-8"
+
+import codecs
+
+UTF8Writer = codecs.getwriter('utf8')
+sys.stdout = UTF8Writer(sys.stdout)
+
+try:
+	from html import unescape
+except:
+	try:
+		from HTMLParser import HTMLParser
+		unescape=HTMLParser().unescape
+	except:
+		from html.parser import HTMLParser
+		unescape=HTMLParser().unescape
+
+
+from mastodon import Mastodon
+
+global scr, ROWS, COLS, seen_toots
 
 ROWS=25
 COLS=80
+
+seen_toots=[]
 
 hlcolor=[curses.COLOR_MAGENTA, curses.COLOR_BLACK]
 normcolor=[curses.COLOR_WHITE, curses.COLOR_BLACK]
 cwcolor=[curses.COLOR_RED, curses.COLOR_BLACK]
 textcolor=[curses.COLOR_WHITE, curses.COLOR_BLACK]
 menucolor=[curses.COLOR_GREEN, curses.COLOR_BLACK]
+seencolor=[curses.COLOR_BLUE, curses.COLOR_BLACK]
 
 hlnum=1
 normnum=2
 cwnum=3
 textnum=4
 menunum=5
+seennum=6
 
 def setupColor():
 	curses.start_color()
@@ -28,6 +66,7 @@ def setupColor():
 	curses.init_pair(*([cwnum]+cwcolor))	 # CW text
 	curses.init_pair(*([textnum]+textcolor))	 # Normal text
 	curses.init_pair(*([menunum]+menucolor))	 # Menu
+	curses.init_pair(*([seennum]+seencolor))	 # Already-seen messages
 
 def setupCurses():
 	global scr, ROWS, COLS
@@ -45,6 +84,8 @@ def teardownCurses():
 	curses.endwin()
 
 def trunc(string, length, affix="...", breakOnWord=False):
+	if not string:
+		return ""
 	if len(string)<length:
 		return string
 	if length==0:
@@ -73,7 +114,11 @@ def truncWrapMulti(strings, length):
 		ret.extend(truncWrap(string, length))
 		ret.extend("")
 	return ret
-
+def firstNonBlankLine(string):
+	lines=string.split("\n")
+	for line in lines:
+		if len(line)>0:
+			return line
 def centerPad(string, length, padding=" "):
 	string=trunc(string, length, breakOnWord=True)
 	pad=length-len(string)
@@ -91,39 +136,44 @@ def drawPanels(uid, rows, cols, highlighted=0):
 	scr.addstr("".join(["+[", truncID, "]", "-"*(leftPanelCols-(3+len(truncID))), "+", "-"*(rightPanelCols-1)]))
 	for i in range(0, (rows-3)/4):
 		if highlighted==i:
-			scr.addstr("".join(["#", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), hlColor)
-			scr.addstr("".join(["#", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), hlColor)
-			scr.addstr("".join(["#", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), hlColor)
-			scr.addstr("".join(["#", "="*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), hlColor)
+			scr.addstr("".join(["#", " "*(leftPanelCols-1), " "*(rightPanelCols)]), hlColor)
+			scr.addstr("".join(["#", " "*(leftPanelCols-1), " "*(rightPanelCols)]), hlColor)
+			scr.addstr("".join(["#", " "*(leftPanelCols-1), " "*(rightPanelCols)]), hlColor)
+			scr.addstr("".join(["#", "="*(leftPanelCols-1), " "*(rightPanelCols)]), hlColor)
 		else:
 			scr.addstr("".join(["|", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), color)
 			scr.addstr("".join(["|", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), color)
 			scr.addstr("".join(["|", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), color)
-			scr.addstr("".join(["+", "-"*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), color)
+			scr.addstr("".join(["+", "_"*(leftPanelCols-1), "/", " "*(rightPanelCols-1)]), color)
 	if (rows-3)%4>0:
 		for i in range(4*((rows-3)/4), rows-3):
 			scr.addstr(" "*cols)
 	scr.addstr(centerPad("[(p)rev/(n)ext_unread] [(P)rev/(N)ext_message] [(j)ump to timeline] [(T)op] [(c)ompose] [(q)uit]", cols).replace("_", " "), curses.color_pair(menunum))
 	scr.addstr(centerPad("[(b)oost] [(f)av] [(s)ettings] [(o)pen_CW] [(t)hread_view] [(F)etch_new] [(h)elp]", cols).replace("_", " "), curses.color_pair(menunum))
 
-def drawMsgPanel(idx, user, cw, msg, date):
+def drawMsgPanel(idx, user, cw, msg, date, seen=False):
 	panelstart=(idx*4)+1
 	if panelstart+4 > ROWS-2:
 		return
 	panelwidth=int((COLS/8.0)*3)-1
-	scr.addstr(panelstart, 1, trunc(user, panelwidth), curses.color_pair(menunum))
-	if cw==None:
-		scr.addstr(panelstart+1, 1, trunc(msg.split("\n")[0], panelwidth), curses.color_pair(textnum))
+	mcol=curses.color_pair(menunum)
+	tcol=curses.color_pair(textnum)
+	if(seen):
+		mcol=curses.color_pair(seennum)
+		tcol=curses.color_pair(seennum)
+	scr.addstr(panelstart, 1, trunc(user, panelwidth), mcol)
+	if not cw:
+		scr.addstr(panelstart+1, 2, trunc(firstNonBlankLine(msg), panelwidth-2), tcol)
 	else:
-		scr.addstr(panelstart+1, 1, trunc(cw, panelwidth), curses.color_pair(cwnum))
-	scr.addstr(panelstart+2, 1, trunc(date, panelwidth), curses.color_pair(menunum))
+		scr.addstr(panelstart+1, 2, trunc(cw, panelwidth-2), curses.color_pair(cwnum))
+	scr.addstr(panelstart+2, 2, trunc(date, panelwidth-2), mcol)
 def drawSelectedMsg(user, displayname, cw, msg, cwopen=False):
-	panelstart=int((COLS/8.0)*3)+2
-	panelwidth=COLS-panelstart
+	panelstart=int((COLS/8.0)*3)+3
+	panelwidth=COLS-panelstart-1
 	msg=truncWrapMulti(msg.split("\n"), panelwidth)
 	scr.addstr(1, panelstart, trunc(displayname, panelwidth), curses.color_pair(menunum))
 	scr.addstr(2, panelstart, "("+trunc(user, panelwidth-2)+")", curses.color_pair(menunum))
-	if cw==None:
+	if not cw:
 		i=3
 		for line in msg:
 			if i>ROWS:
@@ -144,25 +194,72 @@ def drawSelectedMsg(user, displayname, cw, msg, cwopen=False):
 				scr.addstr(i, panelstart, line, curses.color_pair(textnum))
 				i+=1
 
-setupCurses()
-drawPanels("@enkiv2@niu.moe", ROWS, COLS)
-drawMsgPanel(0, "@enkiv2@niu.moe", "Stuff", "Hello, world!", str(datetime.now()))
-drawSelectedMsg("@enkiv2@niu.moe", "Gothic Planchette Egregore", "Stuff", "Hello, world!\nThis is a very long line aaaaaaaaaaaaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.\nthis is another foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz foo bar baz quux.\nThisshouldcauseacharacterbreakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabouthere.", True)
-drawMsgPanel(1, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(2, "@enkiv2@niu.moe", None, "Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", str(datetime.now()))
-drawMsgPanel(3, "@enkiv2@niu.moe", "Placeholder CW", "Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", str(datetime.now()))
-drawMsgPanel(4, "@enkiv2@niu.moe", None, "Jineapple: Jean Pineapple", str(datetime.now()))
-drawMsgPanel(5, "@enkiv2@niu.moe", "mh (+), unix", "Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", str(datetime.now()))
-drawMsgPanel(6, "@enkiv2@niu.moe", "CW: Placeholder that is loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong", "", str(datetime.now()))
-drawMsgPanel(7, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(8, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(9, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(10, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(11, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(12, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(13, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(14, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-drawMsgPanel(15, "@enkiv2@niu.moe", None, "Placeholder", str(datetime.now()))
-scr.refresh()
-time.sleep(3)
+def processContents(string):
+	string=string.replace("<p>", "\n").replace("</p>", "\n")
+	string=re.sub("<[^>]*>", "", string)
+	string=unescape(string)
+	return string
+def fillInDomain(name):
+	if name.find("@")<0:
+		return name+"@"+domain
+	return name
+def drawPanelContents(tl, selectedIdx, skipSeen=False):	
+	scr.clear()
+	drawPanels(fillInDomain(mastodon.account_verify_credentials()["acct"]), ROWS, COLS, selectedIdx)
+	i=0
+	for toot in tl:
+		if "reblog" in toot and toot["reblog"]:
+			toot=toot["reblog"]
+		if "muted" in toot:
+			next
+		seen=(toot["id"] in seen_toots)
+		if skipSeen and seen:
+			next
+		acct=toot["account"]
+		username=fillInDomain(acct["acct"])
+		cw=toot["spoiler_text"]
+		if not cw:
+			cw=None
+		content=processContents(toot["content"])
+		drawMsgPanel(i, username, cw, content, str(toot["created_at"]), seen)
+		if i==selectedIdx:
+			if not seen:
+				seen_toots.append(toot["id"])
+			if "media_attachments" in toot:
+				for attachment in toot["media_attachments"]:
+					content+="\n"+attachment["url"]
+			flags=""
+			if "in_reply_to_id" in toot and toot["in_reply_to_id"]:
+				flags+="["+str(toot["in_reply_to_id"])+"<-]"
+			if toot["reblogged"]:
+				flags+="[b]"
+			if toot["favourited"]:
+				flags+="[f]"
+			if toot["sensitive"]:
+				flags+="[sensitive]"
+			flags+="["+toot["visibility"]+"]"
+			content=flags+content
+			drawSelectedMsg(username, acct["display_name"], cw, content, True)
+		i+=1
+	scr.refresh()
+
+if(len(sys.argv)<=3):
+	sys.stderr.write("Usage: MastoVoyeur client_token_file user_token_file api_base_url\nSee https://mastodonpy.readthedocs.io/en/latest/ for information about how to create token files\n")
+	sys.exit(1)
+
+mastodon=Mastodon(sys.argv[1], access_token=sys.argv[2], api_base_url=sys.argv[3])
+domain=re.sub("^http.?://", "", re.sub("/$", "", mastodon.instance()["uri"]))
+try:
+		setupCurses()
+		tl=mastodon.timeline_home(limit=(ROWS-3)/4)
+		for i in range(0, (ROWS-3)/4):
+			drawPanelContents(tl, i)
+			time.sleep(1)
+		tl=mastodon.timeline_local(limit=(ROWS-3)/4)
+		for i in range(0, (ROWS-3)/4):
+			drawPanelContents(tl, i)
+			time.sleep(1)
+except:
+	teardownCurses()
+	traceback.print_exc()
 teardownCurses()
