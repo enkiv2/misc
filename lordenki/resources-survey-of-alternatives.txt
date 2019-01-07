@@ -216,6 +216,14 @@ https://github.com/OSPreservProject/amoeba
 http://fsd-amoeba.sourceforge.net/
 https://www.cs.vu.nl/pub/amoeba/
 http://pdos.csail.mit.edu/~kaashoek/papers/amsp.ps
+NLS
+http://www.dougengelbart.org/content/view/155/87/
+http://dougengelbart.org/content/view/154/86/
+http://dougengelbart.org/content/view/112/000/
+http://dougengelbart.org/content/view/140/000/
+http://dougengelbart.org/content/view/216/000/
+http://dougengelbart.org/content/view/147/000/
+http://dougengelbart.org/content/view/148/000/
 Hypertext
 https://www.reinterpretcast.com/pdfs/savage-j-dissertation-2018-05.pdf
 https://gist.github.com/ldodds/a7f901c7f0118e83a645
@@ -264,6 +272,8 @@ http://www.jsoftware.com/papers/50/
 https://crypto.stanford.edu/~blynn/c/apl.html
 https://www.youtube.com/watch?v=9xCJ3BCIudI
 https://sway.com/b1pRwmzuGjqB30On
+Other systems
+https://write.as/365-rfcs/rfc-5
 Programming and Education
 https://mindstorms.media.mit.edu/
 https://coolguy.website/writing/the-future-will-be-technical/background().html
@@ -272,6 +282,12 @@ http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-m
 http://allendowney.blogspot.co.nz/2018/02/learning-to-program-is-getting-harder.html
 http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/
 http://aprt.us/
+Agents
+https://www.rand.org/content/dam/rand/pubs/reports/2005/R1809.pdf
+https://www.computer.org/csdl/proceedings/afips/1976/5084/00/50840501.pdf
+http://www.cs.huji.ac.il/~imas/readings/shoham93.pdf
+http://www.jeffreymbradshaw.org/publications/01-Bradshaw-2%20pages%20deleted.pdf
+https://drwho.virtadpt.net/files/HOPE_XI-constructing_exocortices.html#slide4
 Pedagogy
 http://ojs.stanford.edu/ojs/index.php/intersect/article/view/703/617
 https://jackschaedler.github.io/circles-sines-signals/
@@ -291,6 +307,7 @@ https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.h
 https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
 General
+https://news.ycombinator.com/item?id=16586347
 https://github.com/d-cook/SomethingNew/blob/master/Concepts.md
 https://shalabh.com/programmable-systems/systems-not-programs.html
 https://www.youtube.com/watch?v=fG_z8jyREgk

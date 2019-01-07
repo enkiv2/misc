@@ -5244,3 +5244,89 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-01-02T08:52:21-05:00	Saving space junk, our cultural heritage in orbit https://theconversation.com/saving-space-junk-our-cultural-heritage-in-orbit-6025
 2019-01-02T10:25:41-05:00	The Men Peddling the 'Secrets' to Getting Rich on Amazon - The Atlantic https://www.theatlantic.com/technology/archive/2019/01/men-peddling-secrets-getting-rich-amazon/578443/
 2019-01-02T10:38:09-05:00	Why You Should Start A Blog In 2019 https://tedium.co/2019/01/01/2019-independent-blogging-trends/
+2019-01-02T11:25:05-05:00	Current map of the plot of MfoM: http://www.lord-enki.net/story.png
+2019-01-02T13:00:17-05:00	I documented what I'm trying to do with MfoM, so that I can write a proper postmortem later: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/mfom-pre-postmortem-92683b15ff2c
+2019-01-02T19:59:56-05:00	Is the plural of corpus collosum 'corpora collosa'?
+2019-01-03T08:24:52-05:00	The WELL: State of the World 2019 https://people.well.com/conf/inkwell.vue/topics/506/State-of-the-World-2019-page01.html
+2019-01-03T08:27:58-05:00	Luigi Moretti’s Structures and Sequences of Spaces (1952) " SOCKS http://socks-studio.com/2018/12/09/luigi-morettis-structures-and-sequences-of-spaces/
+2019-01-03T08:30:02-05:00	Kieron Gillen's Comic 'Die' Is About A Tabletop RPG Gone Wrong https://kotaku.com/kieron-gillens-new-comic-is-about-the-sad-mess-of-rpgs-1831441119
+2019-01-03T08:37:09-05:00	Band name of the day: meat in film
+2019-01-03T08:55:47-05:00	Machine Learning Meets Interactive Stories " Mark Riedl " Medium https://medium.com/@mark_riedl/machine-learning-meets-interactive-stories-2cd74f8d6fbe
+2019-01-03T09:05:17-05:00	How should we evaluate progress in AI? | Meaningness https://meaningness.com/metablog/artificial-intelligence-progress
+2019-01-03T09:33:27-05:00	The Anime Cult - The Mike Toole Show - Anime News Network https://www.animenewsnetwork.com/the-mike-toole-show/2015-12-13/.96470
+2019-01-03T09:39:58-05:00	Over 20 years after AUM terror, cults in Japan still seeking to recruit youths - The Mainichi https://mainichi.jp/english/articles/20180727/p2a/00m/0na/022000c
+2019-01-03T09:50:04-05:00	How 'Hobbit Camps' Rebirthed Italian Fascism - Atlas Obscura https://www.atlasobscura.com/articles/hobbit-camps-fascism-italy
+2019-01-03T10:15:26-05:00	RFC-1 — 365 RFCs https://write.as/365-rfcs/rfc-1
+2019-01-03T10:43:57-05:00	RFC-2 — 365 RFCs https://write.as/365-rfcs/rfc-2
+2019-01-03T10:46:16-05:00	NLS/Augment - Doug Engelbart Institute http://www.dougengelbart.org/content/view/155/87/
+2019-01-03T11:02:11-05:00	Workstation History and the Augmented Knowledge Workshop - 1985 (AUGMENT,101931,) - Doug Engelbart Institute http://dougengelbart.org/content/view/112/000/
+2019-01-03T11:21:52-05:00	Algorithms by Jeff Erickson http://jeffe.cs.illinois.edu/teaching/algorithms/
+2019-01-03T11:29:11-05:00	The ABCs of Jacobin - Columbia Journalism Review https://www.cjr.org/special_report/the-abcs-of-jacobin-socialist-magazine.php/
+2019-01-03T13:25:55-05:00	PKD in his novels had this underground comix sensibility, which meant that even by 50s standards the tech, fashion, & language was goofy. No film adaptation has preserved this better than Total Recall.
+2019-01-03T15:08:58-05:00	Band name of the day: night parrots
+2019-01-03T15:09:29-05:00	Band name of the day: newdark hotpeace
+2019-01-03T15:22:21-05:00	Improved Mitochondrial Function in Brain Aging and Alzheimer Disease " the New Mechanism of Action of the Old Metabolic Enhancer Piracetam https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2944646/
+2019-01-03T15:43:46-05:00	Life hack: for your 'best articles of the year' list, just post all the articles that had the least traffic. People are gonna disagree with your ranking anyway so just flatten that curve. Finding gems in that dross is inevitable.
+2019-01-03T16:14:50-05:00	Picture of corpus collosum labelled 'you may not like it but this is what peak performance looks like'
+2019-01-03T17:47:20-05:00	GitHub - divan/txqr: Transfer data via animated QR codes https://github.com/divan/txqr
+2019-01-03T17:47:32-05:00	genart/hsh.js at master · flpvsk/genart · GitHub https://github.com/flpvsk/genart/blob/master/hsh.js
+2019-01-03T17:48:03-05:00	Artist Profile: Jakob Kudsk Steensen | Rhizome https://rhizome.org/editorial/2018/dec/14/artist-profile-jakob-kudsk-steensen/
+2019-01-03T17:49:04-05:00	Feel It Still - Portugal The Man ('60s "Mr. Postman" Style Cover) ft. Joey, Adanna, Nina Ann - YouTube https://www.youtube.com/watch?v=YoBlp6qvFqg
+2019-01-03T17:49:43-05:00	Introduction to PROLOG - YouTube https://www.youtube.com/watch?v=GHLfeGN5OMk
+2019-01-03T17:50:33-05:00	Donald Knuth: "The Art of Computer Programming: Satisfiability and Combinatorics" - YouTube https://www.youtube.com/watch?v=g4lhrVPDUG0
+2019-01-03T18:44:51-05:00	Watching these featurettes about Bandersnatch & the bits that they're making out to be a big deal or super difficult are the ones I (and every other VN dev) do all the time. Meanwhile, they barely mention working with actors & shit.
+2019-01-03T18:45:46-05:00	Cruel Angel Thesis (No lead Vocals) - YouTube https://www.youtube.com/watch?v=gq4xkHNSuYQ
+2019-01-03T18:54:14-05:00	1 - A Thousand Plateaus by Gilles Deleuze & Félix Guattari - Illustrated Audiobook - YouTube https://www.youtube.com/watch?v=0XYc2scuJrI
+2019-01-04T06:04:29-05:00	The Changeling & Don't Look Now are on shudder now so it's your opportunity to see 'em. They're both great & long out of print.
+2019-01-04T06:35:42-05:00	The Most Expensive One-byte Mistake - ACM Queue https://queue.acm.org/detail.cfm?id=2010365
+2019-01-04T06:55:35-05:00	Annual Bibliography of Anime and Manga Studies " 2019 | Anime and Manga Studies https://animemangastudies.wordpress.com/bibliographies/2019-bibliography/
+2019-01-04T07:26:02-05:00	Atheists vs religious belief, with Wittgenstein on the stand | Aeon Essays https://aeon.co/essays/atheists-vs-religious-belief-with-wittgenstein-on-the-stand
+2019-01-04T07:29:34-05:00	The Rand Corporation: The Think Tank That Controls America | Mental Floss http://mentalfloss.com/article/22120/rand-corporation-think-tank-controls-america
+2019-01-04T07:33:11-05:00	Pickup™ turns romance into a commodity for male consumption | Aeon Essays https://aeon.co/essays/pickuptm-turns-romance-into-a-commodity-for-male-consumption
+2019-01-04T08:35:21-05:00	Spreadsheets are dead, long live reactive programming environments! : Stencila https://stenci.la/blog/introducing-sheets/
+2019-01-04T08:45:49-05:00	The World through the Eyes of the US https://pudding.cool/2018/12/countries/
+2019-01-04T09:19:47-05:00	The real story behind Margot Robbie’s wild Queen Elizabeth I makeup. https://slate.com/technology/2018/12/queen-elizabeth-makeup-margot-robbie-mary-queen-of-scots-real-story.html
+2019-01-04T09:56:54-05:00	Walt Disney's Public Domain Works https://tedium.co/2019/01/03/public-domain-disney/
+2019-01-04T10:33:20-05:00	Slaying the Snark: what nonsense verse tells us about reality | Aeon Ideas https://aeon.co/ideas/slaying-the-snark-what-nonsense-verse-tells-us-about-reality
+2019-01-04T10:38:38-05:00	Band name of the day: oat milk shortage
+2019-01-04T11:21:18-05:00	The YouTube Algorithm's Strange, Soothing Power | SPIN https://www.spin.com/featured/youtube-algorithm-music-essay-ambient-hiroshi-yoshimura-midori-takada/
+2019-01-04T11:37:34-05:00	Enlightenment can be yours for just $10 | The Outline https://theoutline.com/post/6889/school-of-practical-philosophy-philosophy-works-new-york-subway-ad
+2019-01-04T11:54:40-05:00	Your Ideal Therapist Might Not Be Human | Outside Online https://www.outsideonline.com/2377756/woebot-therapy-artificial-emotional-intelligence
+2019-01-04T12:06:03-05:00	Here's the Dark Enlightenment Explainer You Never Wanted https://breakermag.com/heres-the-dark-enlightenment-explainer-you-never-wanted/
+2019-01-04T12:09:29-05:00	Email icon https://www.topic.com/giant-mirrors-ocean-whitening-here-s-how-exxon-wanted-to-save-the-planet
+2019-01-04T13:18:30-05:00	Band name of the day: rank growth
+2019-01-04T13:18:39-05:00	Band name of the day: the only way out is grass
+2019-01-04T13:31:08-05:00	Band name of the day: machinic assemblages
+2019-01-04T14:40:06-05:00	Proto-internet trolls’: Johann Friedrich Struensee and freedom of expression in 18th century Denmark - European studies blog https://blogs.bl.uk/european/2018/06/johann-friedrich-struensee.html
+2019-01-04T15:00:34-05:00	This is an interesting take, but the author fails to note that the primary result of speculation is fantasy -- i.e., price deviation from 'natural' value: https://meltingasphalt.com/wealth-the-toxic-byproduct/
+2019-01-04T15:21:09-05:00	Band name of the day: murdermap
+2019-01-04T17:19:26-05:00	Vintage Tech: Learn While You Sleep (Hypnopaedia) - Believer Magazine https://believermag.com/logger/vintage-tech-3/
+2019-01-04T18:26:49-05:00	Write your Own Virtual Machine https://justinmeiners.github.io/lc3-vm/
+2019-01-04T18:38:00-05:00	Band name of the day: flaylord
+2019-01-05T13:00:24-05:00	2 - A Thousand Plateaus by Gilles Deleuze & Félix Guattari - Illustrated Audiobook - YouTube https://www.youtube.com/watch?v=o7ZQ5HRntHo
+2019-01-05T13:00:54-05:00	3 of 3 - A Thousand Plateaus by Gilles Deleuze & Félix Guattari - Illustrated Audiobook - YouTube https://www.youtube.com/watch?v=Ws2b5aOhrdA
+2019-01-05T13:01:33-05:00	Bruce Sterling. Lecture "The epic struggle of the internet of things" - YouTube https://www.youtube.com/watch?v=C2QcsPi1uX4
+2019-01-05T13:02:05-05:00	Bruce Sterling -  The dark side impacts of IT on society - YouTube https://www.youtube.com/watch?v=ndU_WQOj0_k
+2019-01-05T13:02:39-05:00	Neal Stephenson: "Anathem" | Talks at Google - YouTube https://www.youtube.com/watch?v=lnq-2BJwatE
+2019-01-05T13:15:49-05:00	Questioning the Logic of Capital: A Conversation With Richard D. Wolff https://truthout.org/articles/questioning-the-logic-of-capital-a-conversation-with-richard-d-wolff/
+2019-01-05T13:30:17-05:00	Handmade Computer · Avant.org http://avant.org/thread/handmade-computer/
+2019-01-05T15:33:25-05:00	Notes on Floppy Disks https://extrapages.de/archives/20190102-Floppy-notes.html
+2019-01-05T15:40:34-05:00	Underclocking the ESP8266 Leads To WiFi Weirdness | Hackaday https://hackaday.com/2019/01/04/underclocking-the-esp8266-leads-to-wifi-weirdness/
+2019-01-05T16:04:47-05:00	Literate Programming in the Large - YouTube https://www.youtube.com/watch?v=Av0PQDVTP4A
+2019-01-05T16:47:22-05:00	Rhizomes, Why Artists and Activists Should Care about Crabgrass | Blue Stool #19 - YouTube https://www.youtube.com/watch?v=Ou_yikwW15o
+2019-01-05T16:54:19-05:00	35C3 -  Scuttlebutt - YouTube https://www.youtube.com/watch?v=JSWWkzsHhjk
+2019-01-05T19:00:07-05:00	About Hyperscope&nbsp;-&nbsp;Doug Engelbart Institute http://dougengelbart.org/content/view/154/86/
+2019-01-05T19:00:52-05:00	Constructing Exocortices with Huginn and Halo https://drwho.virtadpt.net/files/HOPE_XI-constructing_exocortices.html#slide4
+2019-01-05T19:01:02-05:00	The great Lisp and Smalltalk systems are designed from the ground up with the as... | Hacker News https://news.ycombinator.com/item?id=16586347
+2019-01-05T20:46:18-05:00	Subpixel Text Encoding - msarnoff.org http://www.msarnoff.org/millitext/
+2019-01-06T09:58:38-05:00	‘Q’ the end credits for the internet’s lamest conspiracy theory | The Outline https://theoutline.com/post/6883/qanon-conspiracy-theory-end-times
+2019-01-06T10:06:35-05:00	ArtStation - Tim Razumovsky https://www.artstation.com/timrazumovsky
+2019-01-06T13:56:16-05:00	So there *is* a 'Thing on the Fourbleboard' anime, sort of: Wasurenagumo.
+2019-01-06T14:10:10-05:00	★ Ｃａ""ｅ""ｅ    Ｇｉ'ｌ ★ - YouTube https://www.youtube.com/watch?v=FjJtb9HxmwU
+2019-01-06T14:11:03-05:00	cassette girls video project - YouTube https://www.youtube.com/watch?v=Wf5-xRIekkU
+2019-01-06T16:17:49-05:00	Bad idea of the day: International 'journalist exchange' agreements -- newspapers in different countries have an arrangement where they'll trade journalists periodically & reprint each other's stories in translation, by entering into clubs.
+2019-01-06T17:42:10-05:00	A flat landscape (i.e., one where connection between any two people is as easy as any two other people) breaks the limiters on preferential attachment, expanding the head on the popularity distribution. Trendism accelerates this.
+2019-01-06T17:43:45-05:00	Trendism follows the logic of capital. The more capital you have, the less risk any investment is & the more you stand to gain from it. Given a diverse portfolio, a large investment will grow while a small one disappears: capital's gravity at work.
+2019-01-06T17:46:29-05:00	People become what they can imagine becoming, & access to tools has as much to do with this as representation. If it's easy to fall into programming accidentally, then it's easy to imagine yourself programming regularly.
+2019-01-07T09:26:44-05:00	RFC-5 — 365 RFCs https://write.as/365-rfcs/rfc-5
+2019-01-07T09:36:13-05:00	I wrote a proposal for a high-performance OSMIC backend: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/proposal-for-a-high-performance-storage-system-for-osmic-branching-histories-7cb324c7df2d?source=friends_link&sk=40fc22e94810bd20995286d1f8815a6c but it occurs to me that I don't have a good intro to OSMIC so that's next.

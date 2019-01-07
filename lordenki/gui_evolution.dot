@@ -41,6 +41,7 @@ digraph gui_family_tree {
 		sortv=7
 	}
 	subgraph "cluster_1970-1979" {
+                "NLS (oN-Line System)" -> "Augment" [color=blue];
 		"PLATO" -> "Lotus Notes";
 		"FRESS" -> "ZOG" [label="Jump links"];
 		"ZOG" -> "PROMIS"[label="Jump links, card interface"];
@@ -130,6 +131,7 @@ digraph gui_family_tree {
 		sortv=9
 	}
 	subgraph "cluster_1990-1999" {
+                "Augment" -> "Visual AugTerm (VAT)";
 		subgraph "Plan9_Inferno" {
 			label="Plan9 / Inferno";
 			"Plan9" -> "Help" [label="Mouse chording, hybrid text-graphics system"];
@@ -185,11 +187,16 @@ digraph gui_family_tree {
 		"Literate Programming" -> "JuPyter" [label="Document orientation"];
 		"Be" -> "Haiku" [label="APIs, user tools"];
 		"Canon Cat" -> "The Humane Environment / Archy" [label="LEAP"];
-		"Oberon" -> "Interim" [label="Minimal mouse-enabled text interface"];
 		"Oberon" -> "TempleOS" [label="Minimal mouse-enabled text interface"];
 		"UNIX" -> "TempleOS" [label="Independent composable tools"];
 		"Hypercard" -> "TempleOS" [label="Jump links for online help"];
 		"Rebol" -> "Red" [label="Rebol language primitives & syntax"];
 		"Xanadu" -> "XanaduSpace" [color=purple; label="Transpointing windows, permanent store"];
 	}
+        subgraph "cluster_2010-2019" {
+		"Oberon" -> "Interim" [label="Minimal mouse-enabled text interface"];
+		"Visual AugTerm (VAT)" -> "HyperScope";
+		"XanaduSpace" -> "OpenXanadu";
+		"OpenXanadu" -> "Xanadu Cambridge";
+        }
 } 
