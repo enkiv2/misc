@@ -316,7 +316,7 @@ def drawPanelContents(toots, selectedIdx, skipSeen=False):
 			drawSelectedMsg(username, acct["display_name"], cw, content, True)
 		i+=1
 	scr.refresh()
-commandKeys={"q":"quit", "P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", "T":"top", "F":"fetch"}
+commandKeys={"q":"quit", "P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", "T":"top", "F":"fetch", "c":"compose", "r":"reply"}
 def execCommand(cmd):
 	global hlIdx, tlIdx, tl, currentTimeline
 	if cmd=="quit":
@@ -341,6 +341,22 @@ def execCommand(cmd):
 			tl=getTimeline(since_id=tl[0]["id"])+tl
 		except:
 			tl=getTimeline()+tl
+	elif cmd=="compose":
+		cw=queryForInput("CW (blank for none):")
+		if len(cw.strip())==0:
+			cw=None
+		msg=queryForInput("Toot content (blank for cancel):")
+		if msg:
+			mastodon.status_post(msg, spoiler_text=cw)
+	elif cmd=="reply":
+		cw=tl[tlIdx+hlIdx]["spoiler_text"]
+		tid=tl[tlIdx+hlIdx]["id"]
+		if len(cw.strip())==0:
+			cw=None
+		msg=queryForInput("Toot content (blank for cancel):")
+		if msg:
+			mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
+		
 
 	if hlIdx+tlIdx<0:
 		hlIdx=0
