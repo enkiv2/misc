@@ -29,6 +29,7 @@ Novelty aggregators:
 * [salt.sh](salt.sh): download seminars on long-term thinking
 * [salt.txt](salt.txt): list of seminars on long-term thinking
 * [simile.sh](simile.sh): random simile
+* [Holzertron](barbara_holzer.py): generate a Barbara Kreuger style image macro with a Jenny Holzer slogan (or one based on a different template)
 
 Pretty pictures:
 
@@ -39,6 +40,10 @@ Utilities:
 
 * [ncgopher](ncgopher.py): curses-based gopher client
 * [fern](fern): curses-based mastodon client modeled off usenet news readers & pine, with an emphasis on getting to 'timeline zero'
+* [stupidrss](stupidrss.sh): the stupidest possible RSS reader: parse feeds with regex & dump the links to stdout using w3m
+* [nam](nam): fall back from 'man' to other sources of documentation, like 'info', and eventually to wikipedia
+* [scrambleExif](scrambleExif.sh): scramble or falsify EXIF data like date and geolocation
+* [fake-mvgen](fake-mvgen.sh): create a new video track for a given audio track by picking random clips from a video corpus & applying random effects to them
 * [choose.sh](choose.sh): pick an arg at random
 * [extract-epub.sh](extract-epub.sh): turn an epub into a text file
 * [list-dl.sh](list-dl.sh): download a playlist from youtube with helpful numbering
@@ -49,8 +54,11 @@ Utilities:
 Misc:
 
 * [medium-export](medium-export): archive of my medium posts
+* [lordenki](lordenki): a backup of my website
 * [README.md](README.md): this file
 * [ds-lib](ds-lib): small python libraries for data structures or algorithms for which there are no readily-available open source implementations easily understood by beginners
+* [kamui](kamui): composable UI project in io, with 'senketsu' io interpreter in go
+* [mtv](mtv): Minimal Transliterature Viewer -- a hypertext project on top of IPFS
 
 Moved:
 
