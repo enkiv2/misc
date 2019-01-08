@@ -103,7 +103,7 @@ def statusMsg(msg, wait=True):
 	del query
 
 def queryForInput(msg, hideEcho=False):
-	query=curses.newwin(4, 80, 10, 0)
+	query=curses.newwin(10, 100, ROWS/2-5, COLS/2-50)
 	query.box()
 	query.addstr(1, 1, msg)
 	query.overlay(scr)
@@ -112,7 +112,7 @@ def queryForInput(msg, hideEcho=False):
 	if not hideEcho:
 		curses.echo()
 	curses.curs_set(1)
-	addy=query.getstr(2, 1)
+	addy=query.getstr(2, 1, 500)
 	curses.curs_set(0)
 	curses.noecho()
 	del query
