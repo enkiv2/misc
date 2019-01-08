@@ -316,7 +316,13 @@ def drawPanelContents(toots, selectedIdx, skipSeen=False):
 			drawSelectedMsg(username, acct["display_name"], cw, content, True)
 		i+=1
 	scr.refresh()
-commandKeys={"q":"quit", "P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", "T":"top", "F":"fetch", "c":"compose", "r":"reply"}
+commandKeys={
+	"q":"quit", 
+	"P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", 
+	"T":"top", "F":"fetch", 
+	"c":"compose", "r":"reply",
+	"b":"boost", "f":"favourite",
+	"u":"mark_unread"}
 def execCommand(cmd):
 	global hlIdx, tlIdx, tl, currentTimeline
 	if cmd=="quit":
@@ -356,6 +362,17 @@ def execCommand(cmd):
 		msg=queryForInput("Toot content (blank for cancel):")
 		if msg:
 			mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
+	elif cmd=="boost":
+		tid=tl[tlIdx+hlIdx]["id"]
+		mastodon.status_reblog(tid)
+	elif cmd=="favourite":
+		tid=tl[tlIdx+hlIdx]["id"]
+		mastodon.status_favourite(tid)
+	elif cmd=="mark_unread":
+		tid=tl[tlIdx+hlIdx]["id"]
+		if tid in seen_toots:
+			seen_toots.remove(tid)
+			hlIdx+=1
 		
 
 	if hlIdx+tlIdx<0:
