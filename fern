@@ -313,7 +313,19 @@ def drawPanelContents(toots, selectedIdx, skipSeen=False):
 				flags+="[sensitive]"
 			if "visibility" in toot:
 				flags+="["+toot["visibility"]+"]"
+			if "mentions" in toot and toot["mentions"]:
+				if len(flags)>0:
+					flags+="\n"
+				flags+="TO: "
+				for mention in toot["mentions"]:
+					flags+=fillInDomain(mention["acct"])+" "
+				flags+="\n"
 			content=flags+content
+			if "tags" in toot and toot["tags"]:
+				tags=[]
+				for tag in toot["tags"]:
+					tags.append(tag["name"])
+				content+="\n\nTAGS: "+(" ".join(tags))
 			drawSelectedMsg(username, acct["display_name"], cw, content, isCWOpen)
 		i+=1
 	scr.refresh()
