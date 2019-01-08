@@ -92,7 +92,7 @@ menunum=5
 seennum=6
 
 def statusMsg(msg, wait=True):
-	query=curses.newwin(4, 80, 10, 0)
+	query=curses.newwin(4, 80, ROWS/2-5, COLS/2-40)
 	query.box()
 	query.addstr(1, 1, msg)
 	query.overlay(scr)
