@@ -272,6 +272,7 @@ def fillInDomain(name):
 		return name+"@"+domain
 	return name
 def drawPanelContents(toots, selectedIdx, skipSeen=False):	
+	global isCWOpen
 	scr.clear()
 	drawPanels(fillInDomain(mastodon.account_verify_credentials()["acct"]), ROWS, COLS, selectedIdx)
 	i=0
@@ -313,7 +314,7 @@ def drawPanelContents(toots, selectedIdx, skipSeen=False):
 			if "visibility" in toot:
 				flags+="["+toot["visibility"]+"]"
 			content=flags+content
-			drawSelectedMsg(username, acct["display_name"], cw, content, True)
+			drawSelectedMsg(username, acct["display_name"], cw, content, isCWOpen)
 		i+=1
 	scr.refresh()
 commandKeys={
@@ -323,9 +324,10 @@ commandKeys={
 	"c":"compose", "r":"reply",
 	"b":"boost", "f":"favourite",
 	"u":"mark_unread",
-	"t":"expand_thread"}
+	"t":"expand_thread",
+	"o":"toggle_cw"}
 def execCommand(cmd):
-	global hlIdx, tlIdx, tl, currentTimeline
+	global hlIdx, tlIdx, tl, currentTimeline, isCWOpen
 	if cmd=="quit":
 		saveBase()
 		teardownCurses()
@@ -389,6 +391,8 @@ def execCommand(cmd):
 			toots.append(tootbase[item["id"]])
 		saveBase()
 		tl=toots+tl
+	elif cmd=="toggle_cw":
+		isCWOpen=not isCWOpen
 		
 
 	if hlIdx+tlIdx<0:
@@ -505,7 +509,8 @@ def loadBase():
 	with open(ferndir+"seenbase.pickle", "r") as f:
 		seen_toots=pickle.load(f)
 def main():
-	global mastodon, domain, hlIdx, tlIdx, tl, acctbase, tootbase, seen_toots, currentTimeline
+	global mastodon, domain, hlIdx, tlIdx, tl, acctbase, tootbase, seen_toots, currentTimeline, isCWOpen
+	isCWOpen=False
 	tlIdx=0
 	hlIdx=0
 	currentTimeline="notifications home"
