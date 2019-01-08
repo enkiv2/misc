@@ -379,10 +379,16 @@ def execCommand(cmd):
 			mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
 	elif cmd=="boost":
 		tid=tl[tlIdx+hlIdx]["id"]
-		mastodon.status_reblog(tid)
+		try:
+			mastodon.status_reblog(tid)
+		except Exception as e:
+			statusMsg(str(e))
 	elif cmd=="favourite":
 		tid=tl[tlIdx+hlIdx]["id"]
-		mastodon.status_favourite(tid)
+		try:
+			mastodon.status_favourite(tid)
+		except Exception as e:
+			statusMsg(str(e))
 	elif cmd=="mark_unread":
 		tid=tl[tlIdx+hlIdx]["id"]
 		if tid in seen_toots:
