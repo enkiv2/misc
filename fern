@@ -363,6 +363,7 @@ commandKeys={
 	"t":"expand_thread",
 	"o":"toggle_cw",
 	"j":"set_timeline",
+	"/":"search",
   ":":"cmd"}
 def execCommand(cmd):
 	global hlIdx, tlIdx, tl, currentTimeline, isCWOpen
@@ -440,11 +441,36 @@ def execCommand(cmd):
 	elif cmd=="set_timeline":
 	  msg=queryForInput("Timeline name (blank for cancel, separate multiple timelines with spaces):")
 	  if len(msg.strip())>0:
-			currentTimeline=msg
+			currentTimeline=msg.strip()
 	elif cmd=="cmd":
 		msg=queryForInput("Command:")
 		if len(msg.strip())>0:
-			execCommand(msg)
+			execCommand(msg.strip())
+	elif cmd=="search":
+		msg=queryForInput("Search query:")
+		if len(msg.strip())>0:
+			tids=tootbase.keys()
+			tids.sort()
+			tids.reverse()
+			try:
+				matcher=re.compile(msg)
+				search=matcher.search
+			except:
+				def search(string):
+					if string.find(msg):
+						return True
+					else:
+						return None
+			toots=[]
+			for tid in tids:
+				if "spoiler_text" in tootbase[tid] and tootbase[tid]["spoiler_text"]:
+					if search(tootbase[tid]["spoiler_text"])!=None:
+						toots.append(tootbase[tid])
+				if search(tootbase[tid]["content"])!=None:
+					toots.append(tootbase[tid])
+			tl=toots
+			tlIdx=0
+			hlIdx=0
 
 	if hlIdx+tlIdx<0:
 		hlIdx=0
