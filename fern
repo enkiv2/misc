@@ -362,7 +362,8 @@ commandKeys={
 	"u":"mark_unread",
 	"t":"expand_thread",
 	"o":"toggle_cw",
-	"j":"set_timeline"}
+	"j":"set_timeline",
+  ":":"cmd"}
 def execCommand(cmd):
 	global hlIdx, tlIdx, tl, currentTimeline, isCWOpen
 	if cmd=="quit":
@@ -437,9 +438,13 @@ def execCommand(cmd):
 	elif cmd=="toggle_cw":
 		isCWOpen=not isCWOpen
 	elif cmd=="set_timeline":
-	    msg=queryForInput("Timeline name (blank for cancel, separate multiple timelines with spaces):")
-	    if len(msg.strip())>0:
-		currentTimeline=msg
+	  msg=queryForInput("Timeline name (blank for cancel, separate multiple timelines with spaces):")
+	  if len(msg.strip())>0:
+			currentTimeline=msg
+	elif cmd=="cmd":
+		msg=queryForInput("Command:")
+		if len(msg.strip())>0:
+			execCommand(msg)
 
 	if hlIdx+tlIdx<0:
 		hlIdx=0
