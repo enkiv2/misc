@@ -322,7 +322,8 @@ commandKeys={
 	"T":"top", "F":"fetch", 
 	"c":"compose", "r":"reply",
 	"b":"boost", "f":"favourite",
-	"u":"mark_unread"}
+	"u":"mark_unread",
+	"t":"expand_thread"}
 def execCommand(cmd):
 	global hlIdx, tlIdx, tl, currentTimeline
 	if cmd=="quit":
@@ -373,6 +374,21 @@ def execCommand(cmd):
 		if tid in seen_toots:
 			seen_toots.remove(tid)
 			hlIdx+=1
+	elif cmd=="expand_thread":
+		tid=tl[tlIdx+hlIdx]["id"]
+		if not tid in tootbase:
+			tootbase[tid]=copy.deepcopy(tl[tlIdx+hlIdx])
+		while tootbase[tid]["in_reply_to_id"]!=None:
+			tid=tootbase[tid]["in_reply_to_id"]
+			if not tid in tootbase:
+				tootbase[tid]=copy.deepcopy(mastodon.status(tid))
+		toots=[tootbase[tid]]
+		for item in mastodon.status_context(tid)["descendants"]:
+			if not item["id"] in tootbase:
+				tootbase[item["id"]]=copy.deepcopy(item)
+			toots.append(tootbase[item["id"]])
+		saveBase()
+		tl=toots+tl
 		
 
 	if hlIdx+tlIdx<0:
