@@ -5337,3 +5337,6 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-01-08T11:51:32-05:00	404 Page Not Found | Kate Wagner https://thebaffler.com/salvos/404-page-not-found-wagner
 2019-01-08T12:33:50-05:00	I love books about the history of tech, but no matter how well-researched, they're typically mostly a documentation of tech's mythology (or some countermythology). I prefer the countermythographies.
 2019-01-08T13:14:25-05:00	The 'if Y is every X then Y is no X' snowclone is rarely true, and when it *is* true, there's often nothing wrong with the resulting state...
+2019-01-08T13:43:08-05:00	Periodic reminder: I'm running a no-budget film contest again this year https://medium.com/p/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-01-08T13:50:07-05:00	"[The internet] never made it [to] Stage C [...]. A truly networked cosmopolitanism needs to be more distributed. It can be local without being parochial" - James Bridle in https://people.well.com/conf/inkwell.vue/topics/506/State-of-the-World-2019-page02.html#post30
+2019-01-08T13:51:25-05:00	Band name of the day: the ends of sleep

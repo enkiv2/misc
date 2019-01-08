@@ -95,7 +95,7 @@ seennum=6
 
 ######################## CURSES HELPERS & WIZARDS
 def statusMsg(msg, wait=True):
-	query=curses.newwin(4, 80, ROWS/2-5, COLS/2-40)
+	query=curses.newwin(4, 80, int(ROWS/2)-5, int(COLS/2)-40)
 	query.box()
 	query.addstr(1, 1, msg)
 	query.overlay(scr)
@@ -106,7 +106,7 @@ def statusMsg(msg, wait=True):
 	del query
 
 def queryForInput(msg, hideEcho=False):
-	query=curses.newwin(10, 100, ROWS/2-5, COLS/2-50)
+	query=curses.newwin(10, 100, int(ROWS/2)-5, int(COLS/2)-50)
 	query.box()
 	query.addstr(1, 1, msg)
 	query.overlay(scr)
@@ -120,6 +120,10 @@ def queryForInput(msg, hideEcho=False):
 	curses.noecho()
 	del query
 	scr.refresh()
+	try:
+		addy=addy.decode(code)
+	except:
+		pass
 	return addy
 
 def registerApplication(instanceURL, email, password):
@@ -157,7 +161,7 @@ def setupColor():
 def drawLogo(xoffset=0, yoffset=0):
     i=0
     for line in logo.split("\n"):
-       scr.addstr(i+yoffset, xoffset, line, curses.color_pair(menunum))
+       scr.addstr(int(i+yoffset), int(xoffset), line, curses.color_pair(menunum))
        i+=1
     scr.refresh()
 
@@ -220,7 +224,7 @@ def centerPad(string, length, padding=" "):
 	string=trunc(string, length, breakOnWord=True)
 	pad=length-len(string)
 	if pad>0 and (pad/2)>0 and ((pad/2)/len(padding))>0:
-		padstr=padding*((pad/2)/len(padding))
+		padstr=padding*int((pad/2)/len(padding))
 		return padstr+string+padstr
 	return string
 
@@ -244,7 +248,7 @@ def drawPanels(uid, rows, cols, highlighted=0):
 	rightPanelCols=cols-leftPanelCols
 	truncID=trunc(uid, leftPanelCols-3)
 	scr.addstr("".join(["+[", truncID, "]", "-"*(leftPanelCols-(3+len(truncID))), "+", "-"*(rightPanelCols-1)]))
-	for i in range(0, (rows-3)/4):
+	for i in range(0, int((rows-3)/4)):
 		if highlighted==i:
 			scr.addstr("".join(["#", " "*(leftPanelCols-1), " "*(rightPanelCols)]), hlColor)
 			scr.addstr("".join(["#", " "*(leftPanelCols-1), " "*(rightPanelCols)]), hlColor)
@@ -256,11 +260,11 @@ def drawPanels(uid, rows, cols, highlighted=0):
 			scr.addstr("".join(["|", " "*(leftPanelCols-1), "|", " "*(rightPanelCols-1)]), color)
 			scr.addstr("".join(["+", "_"*(leftPanelCols-1), "/", " "*(rightPanelCols-1)]), color)
 	if (rows-3)%4>0:
-		for i in range(4*((rows-3)/4), rows-3):
+		for i in range(4*int((rows-3)/4), rows-3):
 			scr.addstr(" "*cols)
 	scr.addstr(centerPad("[(p)rev/(n)ext_unread] [(P)rev/(N)ext_message] [(j)ump to timeline] [(T)op] [(c)ompose] [(q)uit]", cols).replace("_", " "), curses.color_pair(menunum))
 	scr.addstr(centerPad("[(b)oost] [(f)av] [(s)ettings] [(o)pen_CW] [(t)hread_view] [(F)etch_new] [(h)elp]", cols).replace("_", " "), curses.color_pair(menunum))
-	drawLogo(leftPanelCols+(COLS-leftPanelCols)/2, ROWS/2)
+	drawLogo(leftPanelCols+(int(COLS-leftPanelCols)/2), int(ROWS/2))
 
 def drawMsgPanel(idx, user, cw, msg, date, seen=False):
 	panelstart=(idx*4)+1
@@ -414,10 +418,17 @@ def execCommand(cmd):
 	elif cmd=="reply":
 		cw=tl[tlIdx+hlIdx]["spoiler_text"]
 		tid=tl[tlIdx+hlIdx]["id"]
+		author=fillInDomain(tl[tlIdx+hlIdx]["account"]["acct"])
+		mentions=[author]
+		for item in tl[tlIdx+hlIdx]["mentions"]:
+			name=fillInDomain(item["acct"])
+			if not name in mentions:
+				mentions.append(name)
 		if len(cw.strip())==0:
 			cw=None
 		msg=queryForInput("Toot content (blank for cancel):")
 		if msg:
+			msg="@"+" @".join(mentions).strip()+"\n"+msg
 			mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
 	elif cmd=="boost":
 		tid=tl[tlIdx+hlIdx]["id"]
@@ -454,8 +465,8 @@ def execCommand(cmd):
 	elif cmd=="toggle_cw":
 		isCWOpen=not isCWOpen
 	elif cmd=="set_timeline":
-	  msg=queryForInput("Timeline name (blank for cancel, separate multiple timelines with spaces):")
-	  if len(msg.strip())>0:
+		msg=queryForInput("Timeline name (blank for cancel, separate multiple timelines with spaces):")
+		if len(msg.strip())>0:
 			currentTimeline=msg.strip()
 	elif cmd=="cmd":
 		msg=queryForInput("Command:")
@@ -496,7 +507,7 @@ def execCommand(cmd):
 	if(hlIdx+tlIdx>=len(tl)):
 		hlIdx=len(tl)-1
 	if hlIdx>=(ROWS-3)/4:
-		tlIdx+=(ROWS-4)/4
+		tlIdx+=int((ROWS-4)/4)
 		hlIdx=0
 	if tlIdx>=len(tl):
 		tids=map(lambda x: x["id"], tl)
@@ -581,27 +592,38 @@ def getTimeline(which=None, **kw_args):
 
 def saveBase():
 	global tootbase, acctbase, seen_toots
-	with open(ferndir+"tootbase.pickle", "w") as f:
+	with open(ferndir+"tootbase.pickle", "wb") as f:
 		pickle.dump(tootbase, f)
-	with open(ferndir+"acctbase.pickle", "w") as f:
+	with open(ferndir+"acctbase.pickle", "wb") as f:
 		pickle.dump(acctbase, f)
-	with open(ferndir+"seenbase.pickle", "w") as f:
+	with open(ferndir+"seenbase.pickle", "wb") as f:
 		pickle.dump(seen_toots, f)
 
 def loadBase():
 	global tootbase, acctbase, seen_toots
-	with open(ferndir+"tootbase.pickle", "r") as f:
+	with open(ferndir+"tootbase.pickle", "rb") as f:
 		tootbase=pickle.load(f)
-	with open(ferndir+"acctbase.pickle", "r") as f:
+	with open(ferndir+"acctbase.pickle", "rb") as f:
 		acctbase=pickle.load(f)
-	with open(ferndir+"seenbase.pickle", "r") as f:
+	with open(ferndir+"seenbase.pickle", "rb") as f:
 		seen_toots=pickle.load(f)
+		try:
+			res=[]
+			for item in seen_toots:
+				res.append(item.decode(code))
+			seen_toots=res
+		except:
+			pass
 
 ######################## MAIN
 def mainloop():
 	global hlIdx, tl, commandKeys, tlIdx
 	drawPanelContents(tl[tlIdx:], hlIdx)
 	key=curses.keyname(scr.getch())
+	try:
+		key=key.decode(code)
+	except:
+		pass
 	if key in commandKeys.keys():
 		execCommand(commandKeys[key])
 	else:
