@@ -8,7 +8,13 @@ try:
 except:
 	pass
 
-import curses, time, os
+try:
+	import cPickle
+	pickle=cPickle
+except:
+	import pickle
+
+import curses, time, os, copy
 
 home=""
 try:
@@ -53,6 +59,8 @@ ROWS=25
 COLS=80
 
 seen_toots=[]
+tootbase={}
+acctbase={}
 
 hlcolor=[curses.COLOR_MAGENTA, curses.COLOR_BLACK]
 normcolor=[curses.COLOR_WHITE, curses.COLOR_BLACK]
@@ -68,14 +76,15 @@ textnum=4
 menunum=5
 seennum=6
 
-def statusMsg(msg):
+def statusMsg(msg, wait=True):
 	query=curses.newwin(4, 80, 10, 0)
 	query.box()
 	query.addstr(1, 1, msg)
 	query.overlay(scr)
 	scr.refresh()
 	query.refresh()
-	query.getch()
+	if wait:
+		query.getch()
 	del query
 
 def queryForInput(msg, hideEcho=False):
@@ -262,14 +271,19 @@ def fillInDomain(name):
 	if name.find("@")<0:
 		return name+"@"+domain
 	return name
-def drawPanelContents(tl, selectedIdx, skipSeen=False):	
+def drawPanelContents(toots, selectedIdx, skipSeen=False):	
 	scr.clear()
 	drawPanels(fillInDomain(mastodon.account_verify_credentials()["acct"]), ROWS, COLS, selectedIdx)
 	i=0
-	for toot in tl:
+	for toot in toots:
+		if(i>(ROWS-3)/4):
+			continue
 		if "reblog" in toot and toot["reblog"]:
-			toot=toot["reblog"]
+			if type(toot["reblog"])==type(toot):
+				toot=toot["reblog"]
 		if "muted" in toot:
+			next
+		if not "id" in toot:
 			next
 		seen=(toot["id"] in seen_toots)
 		if skipSeen and seen:
@@ -296,13 +310,149 @@ def drawPanelContents(tl, selectedIdx, skipSeen=False):
 				flags+="[f]"
 			if toot["sensitive"]:
 				flags+="[sensitive]"
-			flags+="["+toot["visibility"]+"]"
+			if "visibility" in toot:
+				flags+="["+toot["visibility"]+"]"
 			content=flags+content
 			drawSelectedMsg(username, acct["display_name"], cw, content, True)
 		i+=1
 	scr.refresh()
+commandKeys={"q":"quit", "P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", "T":"top", "F":"fetch"}
+def execCommand(cmd):
+	global hlIdx, tlIdx, tl, currentTimeline
+	if cmd=="quit":
+		saveBase()
+		teardownCurses()
+		sys.exit()
+	elif cmd=="prev":
+		hlIdx-=1
+	elif cmd=="next":
+		hlIdx+=1
+	elif cmd=="prev_unread":
+		while hlIdx+tlIdx>0 and tl[hlIdx+tlIdx]["id"] in seen_toots:
+			hlIdx-=1
+	elif cmd=="next_unread":
+		while hlIdx+tlIdx<len(tl) and tl[hlIdx+tlIdx]["id"] in seen_toots:
+			hlIdx+=1
+	elif cmd=="top":
+		tlIdx=0
+		hlIdx=0
+	elif cmd=="fetch":
+		try:
+			tl=getTimeline(since_id=tl[0]["id"])+tl
+		except:
+			tl=getTimeline()+tl
+
+	if hlIdx+tlIdx<0:
+		hlIdx=0
+		tlIdx=0
+	elif hlIdx<0:
+		tlIdx-=hlIdx
+		hlIdx=0
+	if(hlIdx+tlIdx>=len(tl)):
+		hlIdx=len(tl)-1
+	if hlIdx>=(ROWS-3)/4:
+		tlIdx+=(ROWS-4)/4
+		hlIdx=0
+	if tlIdx>=len(tl):
+		tids=map(lambda x: x["id"], tl)
+		maxAdded=100
+		i=0
+		for item in tootbase:
+			if i>maxAdded:
+				continue
+			if not item in tids:
+				tl.append(tootbase[item])
+				i+=1
+def mainloop():
+	global hlIdx, tl, commandKeys, tlIdx
+	drawPanelContents(tl[tlIdx:], hlIdx)
+	key=curses.keyname(scr.getch())
+	if key in commandKeys.keys():
+		execCommand(commandKeys[key])
+	else:
+		statusMsg("Key not handled: "+key)
+def getTimeline(which=None, **kw_args):
+	global tootbase, acctbase, currentTimeline
+	if not which:
+		which=currentTimeline
+	statusMsg("Getting your "+which+" timeline. This might take a little while.", False)
+	tl=[]
+	tl2=[]
+	if(which=="notifications"):
+		notes=mastodon.notifications()
+		for note in notes:
+			if note["type"]=="mention":
+				tl2.append(note["status"])
+	else:
+		tl2=mastodon.timeline(timeline=which, **kw_args)
+	i=0
+	for toot in tl2:
+		if toot["reblog"]:
+			toot=toot["reblog"]
+		try:
+			if not "id" in toot:
+				next
+			tid=toot["id"]
+			if tid in seen_toots:
+				next
+			statusMsg("Getting your "+which+" timeline, toot "+tid+" ("+str(i)+"/"+str(limit)+")", False)
+			if not tid in tootbase:
+				acct=toot["account"]
+				if "id" in acct:
+					acctid=acct["id"]
+					if not acctid in acctbase:
+						statusMsg("Getting your "+which+" timeline, toot "+tid+" [account] ("+str(i)+"/"+str(limit)+")", False)
+						tmp={"id":acctid}
+						for item in ["username", "acct", "display_name"]:
+							statusMsg("Getting your "+which+" timeline, toot "+tid+" [account."+item+"] ("+str(i)+"/"+str(limit)+")", False)
+							tmp[item]=acct[item]
+						acctbase[acctid]=tmp
+						acct=tmp
+					tmp={"account":acctbase[acctid], "id":tid}
+				else:
+					tmp={"account":acct, "id":tid}
+				tmp["id"]=tid
+				#for item in ["in_reply_to_id", "content", "created_at", "spoiler_text", "reblogged", "favourited", "sensitive", "muted", "media_attachments", "visibility"]:
+				for item in toot:
+					statusMsg("Getting your "+which+" timeline, toot "+tid+" ["+item+"] ("+str(i)+"/"+str(limit)+")", False)
+					if item in toot:
+						tmp[item]=toot[item]
+				tootbase[tid]=tmp
+			tl.append(tootbase[tid])
+			i+=1
+		except:
+			try:
+				tl.append(copy.deepcopy(toot))
+				tl[-1]["id"]=toot["id"]
+			except:
+				try:
+					tl.append(copy.copy(toot))
+					tl[-1]["id"]=toot["id"]
+				except:
+					tl.append(toot)
+	saveBase()
+	return tl
+def saveBase():
+	global tootbase, acctbase, seen_toots
+	with open(ferndir+"tootbase.pickle", "w") as f:
+		pickle.dump(tootbase, f)
+	with open(ferndir+"acctbase.pickle", "w") as f:
+		pickle.dump(acctbase, f)
+	with open(ferndir+"seenbase.pickle", "w") as f:
+		pickle.dump(seen_toots, f)
+def loadBase():
+	global tootbase, acctbase, seen_toots
+	with open(ferndir+"tootbase.pickle", "r") as f:
+		tootbase=pickle.load(f)
+	with open(ferndir+"acctbase.pickle", "r") as f:
+		acctbase=pickle.load(f)
+	with open(ferndir+"seenbase.pickle", "r") as f:
+		seen_toots=pickle.load(f)
 def main():
-	global mastodon, domain
+	global mastodon, domain, hlIdx, tlIdx, tl, acctbase, tootbase, seen_toots, currentTimeline
+	tlIdx=0
+	hlIdx=0
+	currentTimeline="home"
 	if not os.path.exists(ferndir):
 		os.mkdir(ferndir)
 		registerApplicationHelper()
@@ -311,19 +461,27 @@ def main():
 			with open(ferndir+"instance_url.txt", 'r') as f:
 				instance_url=f.readline().strip()
 			mastodon=Mastodon(client_id=ferndir+"clientcred.txt", access_token=ferndir+"usercred.txt", api_base_url=instance_url)
+			try:
+				loadBase()
+			except:
+				saveBase()
 	except Exception as e:
 		statusMsg("Something happened: "+str(e))
 		registerApplicationHelper()
 		main()
 	domain=re.sub("^http.?://", "", re.sub("/$", "", mastodon.instance()["uri"]))
-	tl=mastodon.timeline_home(limit=(ROWS-3)/4)
-	for i in range(0, (ROWS-3)/4):
-		drawPanelContents(tl, i)
-		time.sleep(1)
-	tl=mastodon.timeline_local(limit=(ROWS-3)/4)
-	for i in range(0, (ROWS-3)/4):
-		drawPanelContents(tl, i)
-		time.sleep(1)
+	tl=getTimeline("public")
+	tl=getTimeline("local")
+	tl=getTimeline("notifications")
+	tl=getTimeline("home")
+	while True:
+		try:
+			mainloop()
+		except Exception as e:
+			statusMsg("Something happened: "+str(e))
+			teardownCurses()
+			traceback.print_exc()
+			raise e
 try:
 	setupCurses()
 	main()
