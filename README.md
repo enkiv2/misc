@@ -37,6 +37,8 @@ Pretty pictures:
 
 Utilities:
 
+* [ncgopher](ncgopher.py): curses-based gopher client
+* [fern](fern): curses-based mastodon client modeled off usenet news readers & pine, with an emphasis on getting to 'timeline zero'
 * [choose.sh](choose.sh): pick an arg at random
 * [extract-epub.sh](extract-epub.sh): turn an epub into a text file
 * [list-dl.sh](list-dl.sh): download a playlist from youtube with helpful numbering
