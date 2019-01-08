@@ -617,9 +617,14 @@ def loadBase():
 
 ######################## MAIN
 def mainloop():
-	global hlIdx, tl, commandKeys, tlIdx
+	global hlIdx, tl, commandKeys, tlIdx, ROWS, COLS
 	drawPanelContents(tl[tlIdx:], hlIdx)
-	key=curses.keyname(scr.getch())
+	key=scr.getch()
+	if key==curses.KEY_RESIZE:
+		ROWS, COLS = scr.getmaxyx()
+		return
+		
+	key=curses.keyname(key)
 	try:
 		key=key.decode(code)
 	except:
