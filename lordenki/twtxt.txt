@@ -5335,3 +5335,5 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-01-08T10:03:56-05:00	Another take on the 'user agent': https://thenextweb.com/syndication/2019/01/08/we-need-an-ai-sidekick-to-fight-malicious-ai/
 2019-01-08T10:04:16-05:00	We need an ‘AI sidekick’ to fight malicious AI https://thenextweb.com/syndication/2019/01/08/we-need-an-ai-sidekick-to-fight-malicious-ai/
 2019-01-08T11:51:32-05:00	404 Page Not Found | Kate Wagner https://thebaffler.com/salvos/404-page-not-found-wagner
+2019-01-08T12:33:50-05:00	I love books about the history of tech, but no matter how well-researched, they're typically mostly a documentation of tech's mythology (or some countermythology). I prefer the countermythographies.
+2019-01-08T13:14:25-05:00	The 'if Y is every X then Y is no X' snowclone is rarely true, and when it *is* true, there's often nothing wrong with the resulting state...

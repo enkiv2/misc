@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+##################### IMPORTS, POLYFILLS, AND SHIMS
 import sys
 try:
 	reload(sys)
@@ -53,6 +54,7 @@ except:
 
 from mastodon import Mastodon
 
+###################### GLOBALS
 logo="""
                            
    :##  Ｆｅｄｅｒａｔｅｄ
@@ -91,6 +93,7 @@ textnum=4
 menunum=5
 seennum=6
 
+######################## CURSES HELPERS & WIZARDS
 def statusMsg(msg, wait=True):
 	query=curses.newwin(4, 80, ROWS/2-5, COLS/2-40)
 	query.box()
@@ -168,11 +171,14 @@ def setupCurses():
 	ROWS, COLS = scr.getmaxyx()
 	scr.clear()
 	drawLogo()
+
 def teardownCurses():
 	curses.nocbreak()
 	scr.keypad(0)
 	curses.echo()
 	curses.endwin()
+
+######################### TEXT FORMATTING & PROCESSING HELPERS
 
 def trunc(string, length, affix="...", breakOnWord=False):
 	if not string:
@@ -218,6 +224,19 @@ def centerPad(string, length, padding=" "):
 		return padstr+string+padstr
 	return string
 
+def processContents(string):
+	string=string.replace("<p>", "\n").replace("</p>", "\n")
+	string=re.sub("<[^>]*>", "", string)
+	string=unescape(string)
+	return string
+
+def fillInDomain(name):
+	if name.find("@")<0:
+		return name+"@"+domain
+	return name
+
+######################## CODE FOR DRAWING THE TUI
+
 def drawPanels(uid, rows, cols, highlighted=0):
 	hlColor=curses.color_pair(hlnum)
 	color=curses.color_pair(normnum)
@@ -259,6 +278,7 @@ def drawMsgPanel(idx, user, cw, msg, date, seen=False):
 	else:
 		scr.addstr(panelstart+1, 2, trunc(cw, panelwidth-2), curses.color_pair(cwnum))
 	scr.addstr(panelstart+2, 2, trunc(date, panelwidth-2), mcol)
+
 def drawSelectedMsg(user, displayname, cw, msg, cwopen=False):
 	panelstart=int((COLS/8.0)*3)+3
 	panelwidth=COLS-panelstart-1
@@ -286,15 +306,6 @@ def drawSelectedMsg(user, displayname, cw, msg, cwopen=False):
 				scr.addstr(i, panelstart, line, curses.color_pair(textnum))
 				i+=1
 
-def processContents(string):
-	string=string.replace("<p>", "\n").replace("</p>", "\n")
-	string=re.sub("<[^>]*>", "", string)
-	string=unescape(string)
-	return string
-def fillInDomain(name):
-	if name.find("@")<0:
-		return name+"@"+domain
-	return name
 def drawPanelContents(toots, selectedIdx, skipSeen=False):	
 	global isCWOpen
 	scr.clear()
@@ -355,6 +366,8 @@ def drawPanelContents(toots, selectedIdx, skipSeen=False):
 			drawSelectedMsg(username, acct["display_name"], cw, content, isCWOpen)
 		i+=1
 	scr.refresh()
+
+###################### COMMAND SYSTEM
 commandKeys={
 	"q":"quit", 
 	"P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", 
@@ -495,14 +508,8 @@ def execCommand(cmd):
 			if not item in tids:
 				tl.append(tootbase[item])
 				i+=1
-def mainloop():
-	global hlIdx, tl, commandKeys, tlIdx
-	drawPanelContents(tl[tlIdx:], hlIdx)
-	key=curses.keyname(scr.getch())
-	if key in commandKeys.keys():
-		execCommand(commandKeys[key])
-	else:
-		statusMsg("Key not handled: "+key)
+
+######################### MASTODON & CACHE HANDLING
 def getTimeline(which=None, **kw_args):
 	global tootbase, acctbase, currentTimeline
 	if not which:
@@ -571,6 +578,7 @@ def getTimeline(which=None, **kw_args):
 					tl.append(toot)
 	saveBase()
 	return tl
+
 def saveBase():
 	global tootbase, acctbase, seen_toots
 	with open(ferndir+"tootbase.pickle", "w") as f:
@@ -579,6 +587,7 @@ def saveBase():
 		pickle.dump(acctbase, f)
 	with open(ferndir+"seenbase.pickle", "w") as f:
 		pickle.dump(seen_toots, f)
+
 def loadBase():
 	global tootbase, acctbase, seen_toots
 	with open(ferndir+"tootbase.pickle", "r") as f:
@@ -587,6 +596,17 @@ def loadBase():
 		acctbase=pickle.load(f)
 	with open(ferndir+"seenbase.pickle", "r") as f:
 		seen_toots=pickle.load(f)
+
+######################## MAIN
+def mainloop():
+	global hlIdx, tl, commandKeys, tlIdx
+	drawPanelContents(tl[tlIdx:], hlIdx)
+	key=curses.keyname(scr.getch())
+	if key in commandKeys.keys():
+		execCommand(commandKeys[key])
+	else:
+		statusMsg("Key not handled: "+key)
+
 def main():
 	global mastodon, domain, hlIdx, tlIdx, tl, acctbase, tootbase, seen_toots, currentTimeline, isCWOpen
 	isCWOpen=False
