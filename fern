@@ -53,6 +53,21 @@ except:
 
 from mastodon import Mastodon
 
+logo="""
+                           
+   :##  Ｆｅｄｅｒａｔｅｄ
+   #. Ｅｄｉｔｏｒ  ａｎｄ 
+   # Ｒｅａｄｅｒ  ｏｆ  Ｎｅｗｓ
+ #####   ###    #:##: #:##: 
+   #       :#   ##  # #  :#   /.\\
+   #    #   #   #     #   #  // \\\\
+   #    #####   #     #   #  \\\\///
+   #    #       #     #   #   \//
+   #        #   #     #   # -=//=-
+   #     ###:   #     #   #-=//==-
+                            
+"""
+
 global scr, ROWS, COLS, seen_toots
 
 ROWS=25
@@ -136,6 +151,13 @@ def setupColor():
 	curses.init_pair(*([menunum]+menucolor))	 # Menu
 	curses.init_pair(*([seennum]+seencolor))	 # Already-seen messages
 
+def drawLogo():
+    i=0
+    for line in logo.split("\n"):
+       scr.addstr(i, 0, line, curses.color_pair(menunum))
+       i+=1
+    scr.refresh()
+
 def setupCurses():
 	global scr, ROWS, COLS
 	scr = curses.initscr()
@@ -145,6 +167,7 @@ def setupCurses():
 	scr.keypad(1)
 	ROWS, COLS = scr.getmaxyx()
 	scr.clear()
+        drawLogo()
 def teardownCurses():
 	curses.nocbreak()
 	scr.keypad(0)
