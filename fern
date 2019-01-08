@@ -375,6 +375,13 @@ def getTimeline(which=None, **kw_args):
 	global tootbase, acctbase, currentTimeline
 	if not which:
 		which=currentTimeline
+	if which=="all":
+		which="notifications home local public"
+	if which.find(" ")>=0:
+		tl=[]
+		for item in which.split():
+			tl.extend(getTimeline(item, **kw_args))
+		return tl
 	statusMsg("Getting your "+which+" timeline. This might take a little while.", False)
 	tl=[]
 	tl2=[]
@@ -452,7 +459,7 @@ def main():
 	global mastodon, domain, hlIdx, tlIdx, tl, acctbase, tootbase, seen_toots, currentTimeline
 	tlIdx=0
 	hlIdx=0
-	currentTimeline="home"
+	currentTimeline="notifications home"
 	if not os.path.exists(ferndir):
 		os.mkdir(ferndir)
 		registerApplicationHelper()
@@ -470,10 +477,10 @@ def main():
 		registerApplicationHelper()
 		main()
 	domain=re.sub("^http.?://", "", re.sub("/$", "", mastodon.instance()["uri"]))
-	tl=getTimeline("public")
-	tl=getTimeline("local")
-	tl=getTimeline("notifications")
-	tl=getTimeline("home")
+	if len(seen_toots)>0:
+		tl=getTimeline("all", since_id=seen_toots[-1])
+	else:
+		tl=getTimeline("all")
 	while True:
 		try:
 			mainloop()
