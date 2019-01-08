@@ -151,10 +151,10 @@ def setupColor():
 	curses.init_pair(*([menunum]+menucolor))	 # Menu
 	curses.init_pair(*([seennum]+seencolor))	 # Already-seen messages
 
-def drawLogo():
+def drawLogo(xoffset=0, yoffset=0):
     i=0
     for line in logo.split("\n"):
-       scr.addstr(i, 0, line, curses.color_pair(menunum))
+       scr.addstr(i+yoffset, xoffset, line, curses.color_pair(menunum))
        i+=1
     scr.refresh()
 
@@ -241,6 +241,7 @@ def drawPanels(uid, rows, cols, highlighted=0):
 			scr.addstr(" "*cols)
 	scr.addstr(centerPad("[(p)rev/(n)ext_unread] [(P)rev/(N)ext_message] [(j)ump to timeline] [(T)op] [(c)ompose] [(q)uit]", cols).replace("_", " "), curses.color_pair(menunum))
 	scr.addstr(centerPad("[(b)oost] [(f)av] [(s)ettings] [(o)pen_CW] [(t)hread_view] [(F)etch_new] [(h)elp]", cols).replace("_", " "), curses.color_pair(menunum))
+        drawLogo(leftPanelCols+(COLS-leftPanelCols)/2, ROWS/2)
 
 def drawMsgPanel(idx, user, cw, msg, date, seen=False):
 	panelstart=(idx*4)+1
