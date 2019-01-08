@@ -310,6 +310,8 @@ def drawPanelContents(toots, selectedIdx, skipSeen=False):
 			next
 		if not "id" in toot:
 			next
+		if not toot["id"] in tootbase:
+			tootbase[toot["id"]]=copy.deepcopy(toot)
 		seen=(toot["id"] in seen_toots)
 		if skipSeen and seen:
 			next
@@ -598,7 +600,7 @@ def main():
 	try:
 			with open(ferndir+"instance_url.txt", 'r') as f:
 				instance_url=f.readline().strip()
-			mastodon=Mastodon(client_id=ferndir+"clientcred.txt", access_token=ferndir+"usercred.txt", api_base_url=instance_url)
+			mastodon=Mastodon(client_id=ferndir+"clientcred.txt", access_token=ferndir+"usercred.txt", api_base_url=instance_url, ratelimit_method="pace")
 			try:
 				loadBase()
 			except:
