@@ -167,7 +167,7 @@ def setupCurses():
 	scr.keypad(1)
 	ROWS, COLS = scr.getmaxyx()
 	scr.clear()
-        drawLogo()
+	drawLogo()
 def teardownCurses():
 	curses.nocbreak()
 	scr.keypad(0)
@@ -241,7 +241,7 @@ def drawPanels(uid, rows, cols, highlighted=0):
 			scr.addstr(" "*cols)
 	scr.addstr(centerPad("[(p)rev/(n)ext_unread] [(P)rev/(N)ext_message] [(j)ump to timeline] [(T)op] [(c)ompose] [(q)uit]", cols).replace("_", " "), curses.color_pair(menunum))
 	scr.addstr(centerPad("[(b)oost] [(f)av] [(s)ettings] [(o)pen_CW] [(t)hread_view] [(F)etch_new] [(h)elp]", cols).replace("_", " "), curses.color_pair(menunum))
-        drawLogo(leftPanelCols+(COLS-leftPanelCols)/2, ROWS/2)
+	drawLogo(leftPanelCols+(COLS-leftPanelCols)/2, ROWS/2)
 
 def drawMsgPanel(idx, user, cw, msg, date, seen=False):
 	panelstart=(idx*4)+1
@@ -361,7 +361,8 @@ commandKeys={
 	"b":"boost", "f":"favourite",
 	"u":"mark_unread",
 	"t":"expand_thread",
-	"o":"toggle_cw"}
+	"o":"toggle_cw",
+	"j":"set_timeline"}
 def execCommand(cmd):
 	global hlIdx, tlIdx, tl, currentTimeline, isCWOpen
 	if cmd=="quit":
@@ -435,7 +436,10 @@ def execCommand(cmd):
 		tl=toots+tl
 	elif cmd=="toggle_cw":
 		isCWOpen=not isCWOpen
-		
+	elif cmd=="set_timeline":
+	    msg=queryForInput("Timeline name (blank for cancel, separate multiple timelines with spaces):")
+	    if len(msg.strip())>0:
+		currentTimeline=msg
 
 	if hlIdx+tlIdx<0:
 		hlIdx=0
