@@ -124,7 +124,7 @@ def queryForInput(msg, hideEcho=False):
 		addy=addy.decode(code)
 	except:
 		pass
-	return addy
+	return addy.replace("\\n", "\n")
 
 def registerApplication(instanceURL, email, password):
 	clientCredFname=ferndir+"clientcred.txt"
@@ -229,7 +229,7 @@ def centerPad(string, length, padding=" "):
 	return string
 
 def processContents(string):
-	string=string.replace("<p>", "\n").replace("</p>", "\n")
+	string=string.replace("<p>", "\n").replace("</p>", "\n").replace("<br>", "\n").replace("<br />", "\n").replace("<p />", "\n")
 	string=re.sub("<[^>]*>", "", string)
 	string=unescape(string)
 	return string

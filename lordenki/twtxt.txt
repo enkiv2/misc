@@ -5340,3 +5340,48 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-01-08T13:43:08-05:00	Periodic reminder: I'm running a no-budget film contest again this year https://medium.com/p/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
 2019-01-08T13:50:07-05:00	"[The internet] never made it [to] Stage C [...]. A truly networked cosmopolitanism needs to be more distributed. It can be local without being parochial" - James Bridle in https://people.well.com/conf/inkwell.vue/topics/506/State-of-the-World-2019-page02.html#post30
 2019-01-08T13:51:25-05:00	Band name of the day: the ends of sleep
+2019-01-09T06:47:39-05:00	People have said to me that an electron *is* a probability distribution. Is this true, a simplification, an artifact of measurement, misleading, a nomenclature issue, or what?
+2019-01-09T07:41:35-05:00	J.G. Ballard's Experimental Text Collages: His 1958 Foray into Avant-Garde Literature |  Open Culture http://www.openculture.com/2016/09/j-g-ballards-experimental-text-collages.html
+2019-01-09T07:51:38-05:00	Do You Want Typography or Do You Want The Truth https://walkerart.org/magazine/erik-carter-op-ed-do-you-want-typography-or-do-you-want-the-truth
+2019-01-09T08:00:20-05:00	Band name of the day: adorable ice cream crisis
+2019-01-09T08:02:05-05:00	Mailbag: Self-Training in Narrative Design | Emily Short's Interactive Storytelling https://emshort.blog/2019/01/08/mailbag-self-training-in-narrative-design/
+2019-01-09T08:04:25-05:00	The post-Web is single tenant " Aral Balkan https://ar.al/2019/01/09/the-post-web-is-single-tenant/
+2019-01-09T08:04:56-05:00	Success criteria for the PC 2.0 era " Aral Balkan https://ar.al/2019/01/09/success-criteria-for-the-pc-2.0-era/
+2019-01-09T08:07:03-05:00	Successful Reflective Choices in Interactive Narrative – catacalypto https://catacalypto.wordpress.com/2018/06/19/successful-reflective-choices-in-interactive-narrative/
+2019-01-09T08:09:17-05:00	An Incomplete List of Things I’d Need to Know In Order Not to Be A Total Impostor | Emily Short's Interactive Storytelling https://emshort.blog/2018/09/02/an-incomplete-list-of-things-id-need-to-know-in-order-not-to-be-a-complete-impostor/
+2019-01-09T08:13:26-05:00	Card-Deck Narratives | Emily Short's Interactive Storytelling https://emshort.blog/2016/05/03/card-deck-narratives/
+2019-01-09T08:34:55-05:00	Beyond Branching: Quality-Based, Salience-Based, and Waypoint Narrative Structures | Emily Short's Interactive Storytelling https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/
+2019-01-09T08:42:29-05:00	Plot-shaped Level Design | Emily Short's Interactive Storytelling https://emshort.blog/2016/05/18/plot-shaped-level-design/
+2019-01-09T08:54:36-05:00	Vurt (Core Rulebook) – The Rat Hole http://therathole.ca/vurt-core-rulebook/
+2019-01-09T09:01:44-05:00	An Alternative Taxonomy for Interactive Stories | Emily Short's Interactive Storytelling https://emshort.blog/2011/05/03/an-alternative-taxonomy-for-interactive-stories/
+2019-01-09T09:28:59-05:00	Of Predictive Algorithms and Emojis | A Future Worth Thinking About http://www.afutureworththinkingabout.com/?p=5345
+2019-01-09T09:35:57-05:00	SUN RA: NEVER A PART OF THIS PLANET https://pleasekillme.com/sun-ra/
+2019-01-09T09:59:14-05:00	Band name of the day: small crimes
+2019-01-09T11:17:01-05:00	Band name of the day: a politics for alienation
+2019-01-09T11:17:56-05:00	Band name of the day: the becoming-electron
+2019-01-09T11:20:30-05:00	Band name of the day: rejecting the natural
+2019-01-09T11:49:54-05:00	We can try to define intellectual constructs as having 'nothing but essence' but maybe we should take a page out of Guy Debord's book and say they are 'nothing but appearance'. They can appear in contradictory ways because there's no underlying structure.
+2019-01-09T11:53:56-05:00	Band name of the day: bespoke ennui
+2019-01-09T11:58:52-05:00	Band name of the day: science weekends
+2019-01-09T12:01:04-05:00	Brannock Device History: A Machine That Measures Feet https://tedium.co/2019/01/08/brannock-device-history-foot-measurement/
+2019-01-09T12:08:33-05:00	Graphs are to categories as lists are to monoids https://alhassy.github.io/PathCat/
+2019-01-09T12:19:15-05:00	Band name of the day: unreasonably dangerous
+2019-01-09T12:19:24-05:00	Band name of the day: false and defamatory
+2019-01-09T12:27:56-05:00	Band name of the day: new-metal class
+2019-01-09T12:44:05-05:00	GitHub - sharkdp/hexyl: A command-line hex viewer https://github.com/sharkdp/hexyl
+2019-01-09T12:51:07-05:00	Modchips - Trammell Hudson's Projects https://trmm.net/Modchips
+2019-01-09T13:19:09-05:00	Senrio Blog - Senrio https://blog.senr.io/blog/impervious-implants-splintery-supply-chains
+2019-01-09T13:20:40-05:00	Cory Doctorow: Disruption for Thee, But Not for Me – Locus Online http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/
+2019-01-09T13:44:26-05:00	The LaTeX fetish (Or: Don’t write in LaTeX! It’s just for typesetting) – Daniel Allington http://www.danielallington.net/2016/09/the-latex-fetish/
+2019-01-09T16:22:59-05:00	Native talk https://via.hypothes.is/https://gozala.hashbase.io/posts/Native%20talk.html
+2019-01-09T16:28:13-05:00	Democratize the Internet Now!  | The New Republic https://newrepublic.com/article/133889/reboot-world
+2019-01-09T16:37:01-05:00	Looking at 1995's Netiquette... in 2019. - YouTube https://www.youtube.com/watch?v=6YMbyuO8x4A
+2019-01-10T09:14:07-05:00	Goodbye Facebook https://jasongullickson.com/posts/goodbye-facebook/
+2019-01-10T09:14:30-05:00	Flow-based Programming :: Comparison http://www.jpaulmorrison.com/fbp/noflo.html
+2019-01-10T09:16:25-05:00	thread(3) - Plan 9 from User Space https://9fans.github.io/plan9port/man/man3/thread.html
+2019-01-10T09:19:55-05:00	Band name of the day: we regret the error
+2019-01-10T09:23:00-05:00	Not Exactly Mailbag: Worldbuilding from a Mechanic | Emily Short's Interactive Storytelling https://emshort.blog/2018/03/13/not-exactly-mailbag-worldbuilding-from-a-mechanic/
+2019-01-10T09:55:33-05:00	Why Can't We Tip Amazon Warehouse Workers? http://www.miraclejones.com/essays/why-cant-we-tip-amazon-warehouse-workers.html
+2019-01-10T09:56:10-05:00	Shuffle Literature and the Hand of Fate http://electronicbookreview.com/essay/shuffle-literature-and-the-hand-of-fate/
+2019-01-10T10:03:52-05:00	Bad idea of the day: A shuffle-novel in the form of an oracle deck, with strange or absurd predictions & the premise that it is describing the life of the parallel version of the reader who lives in the world described by the deck.
+2019-01-10T10:21:00-05:00	automate capitalists out of a job
