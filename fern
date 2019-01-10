@@ -262,8 +262,8 @@ def drawPanels(uid, rows, cols, highlighted=0):
 	if (rows-3)%4>0:
 		for i in range(4*int((rows-3)/4), rows-3):
 			scr.addstr(" "*cols)
-	scr.addstr(centerPad("[(p)rev/(n)ext_unread] [(P)rev/(N)ext_message] [(j)ump to timeline] [(T)op] [(c)ompose] [(q)uit]", cols).replace("_", " "), curses.color_pair(menunum))
-	scr.addstr(centerPad("[(b)oost] [(f)av] [(s)ettings] [(o)pen_CW] [(t)hread_view] [(F)etch_new] [(h)elp]", cols).replace("_", " "), curses.color_pair(menunum))
+	scr.addstr(centerPad("[(p)rev/(n)ext_unread] [(P)rev/(N)ext_message] [(j)ump to timeline] [(T)op] [(c)ompose] [(q)uit] [(/)_find]", cols).replace("_", " "), curses.color_pair(menunum))
+	scr.addstr(centerPad("[(b)oost] [(f)av] [mark_(u)nread] [(o)pen_CW] [(t)hread_view] [(F)etch_new] [(:)_command]", cols).replace("_", " "), curses.color_pair(menunum))
 	drawLogo(leftPanelCols+(int(COLS-leftPanelCols)/2), int(ROWS/2))
 
 def drawMsgPanel(idx, user, cw, msg, date, seen=False):
