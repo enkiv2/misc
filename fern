@@ -171,6 +171,7 @@ def setupCurses():
 	setupColor()
 	curses.cbreak()
 	curses.noecho()
+	curses.curs_set(0)
 	scr.keypad(1)
 	ROWS, COLS = scr.getmaxyx()
 	scr.clear()
