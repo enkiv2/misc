@@ -465,7 +465,7 @@ def execCommand(cmd):
 			toots.append(tootbase[item["id"]])
 		saveBase()
 		tl=toots+tl
-		hlIdx+=len(toots)
+		tlIdx+=len(toots)-1
 	elif cmd=="toggle_cw":
 		isCWOpen=not isCWOpen
 	elif cmd=="set_timeline":
