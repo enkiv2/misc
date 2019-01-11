@@ -1,0 +1,4 @@
+typescript: a text-based interface that interleaves code and output, such as a command line or notebook interface. [I have taken this from \cite{acme}. No relation to the Javascript macro language of the same name.]
+LEAP: search-oriented navigation of documents. [From Jef Raskin's work on Swyft and the Canon Cat. No relation to the federated card catalog system for municipal libraries of the same name.]
+WIMP: a system with overlapping windows, clickable icons, and drop-down menus, navigated with a mouse [Acronym for "Windows Icons Menus Pointers"]
+REPL: see \index{typescript}\gls{typescript} [Acronym for "Read Evaluate Print Loop"]
