@@ -71,6 +71,7 @@ makeglossaries book
 echo "R" | pdflatex book.latex 
 biber book
 echo "R" | pdflatex book.latex 
-rm -f *.{bbl,blg,glo,idx,ilg,ind,ist,log,run.xml,toc,aux,bcf,glg,gls}
+rm -f *.{bbl,blg,glo,idx,ilg,ind,ist,log,run.xml,toc,aux,bcf,glg,gls,lof,lot}
+rm -f *.out
 rm -f *.latex
 #xpdf book.pdf
