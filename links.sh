@@ -29,8 +29,38 @@ function fmtlinks() {
 	echo "</body>"
 	echo "</html>"
 }
+function fmtlinksrss() {
+	tac ~/.linkit | head -n 15 | 
+		awk '
+			BEGIN{
+				IFS=OFS=FS="\t"; 
+				print "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>"
+				print "<rss version=\"2.0\">"
+				print "<channel>"
+				print "<title>The Redundant Daily Redundant</title>"
+				print "<link>http://www.lord-enki.net/links.html</link>"
+				print "<lastBuildDate>" strftime() "</lastBuildDate>"
+				print "<pubDate>" strftime() "</pubDate>"
+				print "<ttl>18000</ttl>"
+				print "</channel>\n"
+			} { 
+				print "<item>"
+				print "<title>" $3 "</title>"
+				print "<description>" $3 "</description>"
+				print "<link>" $1 "</link>"
+				print "<guid isPermaLink=\"true\">" $1 "</guid>"
+				print "<pubDate>" $2 "</pubDate>"
+				print "</item>\n"
+			} END{ 
+				print "</channel>"
+				print "</rss>"
+			}
+		'
+}
 function uploadlinks() {
 	fmtlinks > ~/index.html
+	fmtlinksrss > ~/feed.rss
 	scp ~/index.html $1
+	scp ~/feed.rss $(echo $1 | sed 's/\/[^\/]*$//')
 }
 
