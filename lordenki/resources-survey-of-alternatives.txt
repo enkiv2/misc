@@ -22,7 +22,7 @@ http://natecull.org/wordpress/2017/07/10/dataspace-7-a-low-level-encoding/
 http://natecull.org/wordpress/2017/07/11/dataspace-8-example-movie-data/
 http://natecull.org/wordpress/2017/07/13/dataspace-9-a-tower-of-nulls-and-awkward-sets/
 http://natecull.org/wordpress/2018/08/16/dataspace-10-an-array-representation/
-Smalltalk / Self / Alto / Morphic
+Smalltalk / Self / Alto / Morphic / Mesa / Star
 http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html
 http://history-computer.com/Library/Kay72.pdf
 http://www.digibarn.com/friends/butler-lampson/index.html
@@ -62,6 +62,8 @@ http://sdmeta.gforge.inria.fr/FreeBooks/CollectiveNBlueBook/morphic.final.pdf
 http://wiki.c2.com/?MorphicInterface
 http://wiki.squeak.org/squeak/1870
 http://wiki.squeak.org/squeak/6514
+https://engblg.livingcomputers.org/index.php/2019/01/19/introducing-darkstar-a-xerox-star-emulator/
+https://commandcenter.blogspot.com/2019/01/notes-from-1984-trip-to-xerox-parc.html
 Oberon
 http://www.projectoberon.com/
 http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
@@ -152,6 +154,7 @@ https://guidebookgallery.org/articles/inventingthelisauserinterface
 http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model.txt&sortOrder=Sort+by+Date&topic=Software+Design
 http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model_The_Finder.txt&sortOrder=Sort+by+Date&topic=Software+Design
 http://www.folklore.org/StoryView.py?project=Macintosh&story=Desk_Ornaments.txt&sortOrder=Sort+by+Date&topic=Software+Design
+https://www.v68k.org/advanced-mac-substitute/
 Hypertalk / Hypercard
 http://lexnet.bravepages.com/HTMLJS.htm
 https://www.nytimes.com/1987/08/18/science/peripherals-it-s-well-hypercard.html
