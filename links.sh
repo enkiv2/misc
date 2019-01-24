@@ -30,7 +30,7 @@ function fmtlinks() {
 	echo "</html>"
 }
 function fmtlinksrss() {
-	tac ~/.linkit | head -n 15 | 
+	tac ~/.linkit | head -n 23 | 
 		awk '
 			BEGIN{
 				IFS=OFS=FS="\t"; 
