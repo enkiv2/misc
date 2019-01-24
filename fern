@@ -457,13 +457,13 @@ def execCommand(cmd):
 		if not tid in tootbase:
 			tootbase[tid]=copy.deepcopy(tl[tlIdx+hlIdx])
 		while tootbase[tid]["in_reply_to_id"]!=None:
-			statusMsg("Expanding thread... (ID "+tid+")", False)
+			statusMsg("Expanding thread... (ID "+str(tid)+")", False)
 			tid=tootbase[tid]["in_reply_to_id"]
 			if not tid in tootbase:
 				tootbase[tid]=copy.deepcopy(mastodon.status(tid))
 		toots=[tootbase[tid]]
 		for item in mastodon.status_context(tid)["descendants"]:
-			statusMsg("Expanding thread... (ID "+item["id"]+")", False)
+			statusMsg("Expanding thread... (ID "+str(item["id"])+")", False)
 			if not item["id"] in tootbase:
 				tootbase[item["id"]]=copy.deepcopy(item)
 			toots.append(tootbase[item["id"]])
