@@ -25,7 +25,7 @@ def panelify(sourceImage, targetSize, borderWidth=5, colorized=True, sketchOnly=
     return frame
 
 if __name__=="__main__":
-    sourceImage=Image.open(sys.argv[1])
+    sourceImage=Image.open(sys.argv[1]).convert("RGB")
     #merged=sketchify(sourceImage, True)
     merged=panelify(sourceImage, sourceImage.size)
     merged.save("merged.png")
