@@ -6232,3 +6232,230 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-03-01T07:46:48-05:00	Inertia and institutional damage in politics " John Ohno " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/inertia-and-institutional-damage-in-politics-9d9e670c182?source=friends_link&sk=8d1730ed3c394a1bc1876bd0f7a209c5
 2019-03-01T08:01:10-05:00	The New Contours of Cyber Conflict - Lawfare https://www.lawfareblog.com/new-contours-cyber-conflict
 2019-03-01T08:11:28-05:00	GitHub - triska/lisprolog: Interpreter for a simple Lisp. Written in Prolog. https://github.com/triska/lisprolog
+2019-03-01T09:16:53-05:00	‘Playing the victim’ is politically vital and morally serious | Aeon Ideas https://aeon.co/ideas/playing-the-victim-is-politically-vital-and-morally-serious
+2019-03-01T09:44:41-05:00	Workplace OS History: IBM’s $2 Billion Microkernel of Failure https://tedium.co/2019/02/28/ibm-workplace-os-taligent-history/
+2019-03-01T10:18:26-05:00	The Kernel Programming Language  http://web.cs.wpi.edu/~jshutt/kernel.html
+2019-03-01T10:37:42-05:00	Editions https://qz.com/1442051/colorful-architecture-is-a-symbol-of-cultural-heritage-in-bolivia/
+2019-03-01T14:20:30-05:00	Bad idea of the day: a repl for inform in inform that describes your desktop environment as a haunted house
+2019-03-01T14:25:00-05:00	Band name of the day: big seance
+2019-03-01T19:01:55-05:00	Band name of the day: monsterful
+2019-03-01T19:02:14-05:00	Band name of the day: secret and concealed policy
+2019-03-01T19:45:58-05:00	Band name of the day: big death
+2019-03-02T08:53:46-05:00	Band name of the day: automatic motor of a fractional operation
+2019-03-02T12:37:36-05:00	The Emoji Movie, Adorno and the Culture Industry - YouTube https://www.youtube.com/watch?v=M-m_7G31yh4
+2019-03-02T15:16:48-05:00	Periodic reminder: submissions for the No Budget Film Contest open April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-03T18:52:43-05:00	Band name of the day: murderers knock
+2019-03-04T06:22:38-05:00	Band name of the day: police horse
+2019-03-04T06:56:34-05:00	GitHub - joke2k/faker: Faker is a Python package that generates fake data for you. https://github.com/joke2k/faker
+2019-03-04T06:57:12-05:00	The Art of the Bot « B.J. Best, Poet. https://bjbestpoet.wordpress.com/the-art-of-the-bot/
+2019-03-04T06:57:48-05:00	glass.leaves: text manipulator and generator https://glassleaves.herokuapp.com/
+2019-03-04T07:00:44-05:00	Cinematic names https://maryzam.github.io/movie-names/
+2019-03-04T07:01:16-05:00	Things Found in Books | Flickr https://www.flickr.com/groups/thingsfoundinbooks/pool/
+2019-03-04T07:47:35-05:00	Insert Disk https://hypercardadventures.com/
+2019-03-04T07:48:23-05:00	Why no-platforming is sometimes a justifiable position | Aeon Ideas https://aeon.co/ideas/why-no-platforming-is-sometimes-a-justifiable-position
+2019-03-04T08:11:33-05:00	Band name of the day: complicity machine
+2019-03-04T08:12:35-05:00	‘We Are All Responsible’: How #MeToo Rejects the Bystander Effect  https://longreads.com/2019/02/22/we-are-all-responsible-how-metoo-rejects-the-bystander-effect/
+2019-03-04T08:40:33-05:00	Explaining Code using ASCII Art – Embedded in Academia https://blog.regehr.org/archives/1653
+2019-03-04T08:46:17-05:00	What "Worse is Better vs The Right Thing" is really about http://yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html
+2019-03-04T09:01:04-05:00	ZIP is Broken, Except it’s Not, Except it Is | Internet Archive Blogs https://blog.archive.org/2019/02/13/zip-is-broken-except-its-not-except-it-is/
+2019-03-04T10:49:09-05:00	Band name of the day: let them eat exposure
+2019-03-04T11:32:52-05:00	Theranos: How a broken patent system sustained its decade-long deception | Ars Technica https://arstechnica.com/tech-policy/2019/03/theranos-how-a-broken-patent-system-sustained-its-decade-long-deception/
+2019-03-04T13:28:11-05:00	Update: if you buy the paperback version of my book, now you'll be able to get the ebook for free. (Dunno why anybody would want that.) Also, the ebook now has wikipedia links for various terms via X-Ray, in case you didn't know who Thad Starner was or something.
+2019-03-04T14:17:31-05:00	Band name of the day: open for flogging
+2019-03-04T16:19:53-05:00	brand names precision-engineered as superstimuli of the noumenous and noetic flooding the used-car-market mindspace
+2019-03-04T16:25:34-05:00	Band name of the day: the dreaming mound
+2019-03-05T07:20:10-05:00	TIL that there's an organization for promoting McLuhan's work whose initialism is TMI.
+2019-03-05T07:22:50-05:00	McLuhan: come for the dad jokes, stay for the dad jokes
+2019-03-05T07:24:26-05:00	Band name of the day: needling the somnambulists
+2019-03-05T07:24:37-05:00	Band name of the day: a market for eyes
+2019-03-05T07:24:46-05:00	Band name of the day: the repugnant transactions
+2019-03-05T08:51:48-05:00	you can't get an aught from a naught
+2019-03-05T09:19:48-05:00	Wikidata Card Game Generator https://cardgame.morr.cc
+2019-03-05T09:32:43-05:00	Why Is Customer Service So Bad? Because It’s Profitable. https://hbr.org/2019/02/why-is-customer-service-so-bad-because-its-profitable
+2019-03-05T10:03:44-05:00	The Comment Moderator Is The Most Important Job In The World Right Now https://www.buzzfeednews.com/article/ryanhatesthis/the-comment-moderator-is-the-most-important-job-in-the
+2019-03-05T10:04:52-05:00	AI won’t relieve the misery of Facebook’s human moderators - The Verge https://www.theverge.com/2019/2/27/18242724/facebook-moderation-ai-artificial-intelligence-platforms
+2019-03-05T10:31:12-05:00	A random dungeon generator that fits on a business card · GitHub https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604
+2019-03-05T10:33:01-05:00	GitHub - aphyr/distsys-class: Class materials for a distributed systems lecture series https://github.com/aphyr/distsys-class
+2019-03-05T10:34:00-05:00	Delete Never: The Digital Hoarders Who Collect Tumblrs, Medieval Manuscripts, and Terabytes of Text Files https://gizmodo.com/delete-never-the-digital-hoarders-who-collect-tumblrs-1832900423
+2019-03-05T10:34:49-05:00	Why intuition leaves us vulnerable to conspiracy theories - The Verge https://www.theverge.com/2019/3/4/18250292/facebook-moderation-conspiracy-theory-mike-wood-psychology-interview
+2019-03-05T10:36:45-05:00	The People's Republic of Walmart: how late-stage capitalism gives way to early-stage fully automated luxury communism / Boing Boing https://boingboing.net/2019/03/05/walmart-without-capitalism.html
+2019-03-05T10:38:53-05:00	Cory Doctorow: Terra Nullius – Locus Online https://locusmag.com/2019/03/cory-doctorow-terra-nullius/
+2019-03-05T10:44:59-05:00	Status as a Service (StaaS) — Remains of the Day https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
+2019-03-05T10:46:33-05:00	A community can be classified by whether the primary goal of community members is to increase the total value of the community to its members or increase their value with respect to their peers.
+2019-03-05T11:09:25-05:00	Lessons learned: writing really long fiction - Charlie's Diary http://www.antipope.org/charlie/blog-static/2019/03/lessons-learned-writing-really.html
+2019-03-05T11:50:38-05:00	Facebook filed a patent for a ‘civil’ political debate forum - The Verge https://www.theverge.com/2019/2/28/18244632/facebook-political-debate-system-digital-forum-reputation-patent-filing
+2019-03-05T11:52:06-05:00	Systems Software Research is Irrelevant (aka utah2000 or utah2k)  http://doc.cat-v.org/bell_labs/utah2000/utah2000.html
+2019-03-05T11:56:33-05:00	Big Idea Famine https://jods.mitpress.mit.edu/pub/issue3-negroponte
+2019-03-05T12:10:31-05:00	Lua 5.1.4 Annotated Source https://stevedonovan.github.io/lua-5.1.4/
+2019-03-05T12:41:59-05:00	Re: https://adactio.com/journal/14888 -- it's a competent reframing job, but if common behaviors require complicated hacks for literally years, you're using the wrong tool.
+2019-03-05T13:01:51-05:00	RFC-61 — 365 RFCs https://write.as/365-rfcs/rfc-61
+2019-03-05T13:34:10-05:00	Campus political correctness: Data paints a different picture - Vox https://www.vox.com/policy-and-politics/2018/3/12/17100496/political-correctness-data
+2019-03-05T13:34:40-05:00	The Real “Dangerous” Ideas | Current Affairs https://www.currentaffairs.org/2018/05/the-real-dangerous-ideas
+2019-03-05T13:38:56-05:00	In the Web’s Hyperreality, Information Is Experience | Hapgood https://hapgood.us/2018/11/20/in-the-webs-hyperreality-information-is-experience/
+2019-03-05T13:40:27-05:00	Laws of Tech: Commoditize Your Complement - Gwern.net https://www.gwern.net/Complement
+2019-03-05T13:45:47-05:00	Hafu Gender Ratios in Anime - Gwern.net https://www.gwern.net/Hafu
+2019-03-05T16:16:56-05:00	Periodic reminder: submissions for the No Budget Film Contest open April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-06T09:05:44-05:00	So glad to see some fresh, new, good-looking folk-horror with Midsommar. Judging by previous work on Hereditary, it should be fantastic.
+2019-03-06T09:09:24-05:00	I wrote an essay about folk horror as seen as a subgenre of speculative fiction, on May Day of 2017: https://modernmythology.net/folk-horror-as-speculative-sociology-c1e24d0c106?source=friends_link&sk=1573bafd20abaf410c71c44a472c1d85
+2019-03-06T09:52:18-05:00	Keeping CALM: when distributed consistency is easy | the morning paper https://blog.acolyer.org/2019/03/06/keeping-calm-when-distributed-consistency-is-easy/
+2019-03-06T10:10:04-05:00	Dacein https://szymonkaliski.github.io/dacein/
+2019-03-06T10:10:54-05:00	GitHub - pcyin/tranX: A general-purpose neural semantic parser for mapping natural language queries into machine executable code https://github.com/pcyin/tranX
+2019-03-06T10:15:48-05:00	Author discovers the recentralization phenomenon, and concludes that centralization is inevitable (rather than that recentralization must be carefully avoided): https://rosenzweig.io/blog/the-federation-fallacy.html
+2019-03-06T10:20:11-05:00	Invented here syndrome – Musing Mortoray https://mortoray.com/2019/03/06/invented-here-syndrome/
+2019-03-06T10:20:50-05:00	Deepfake propaganda is not a real problem - The Verge https://www.theverge.com/2019/3/5/18251736/deepfake-propaganda-misinformation-troll-video-hoax
+2019-03-06T10:34:26-05:00	Neon Genesis Evangelion source anthology - Gwern.net https://www.gwern.net/otaku
+2019-03-06T10:38:50-05:00	Bitcoin Is Worse Is Better - Gwern.net https://www.gwern.net/Bitcoin-is-Worse-is-Better
+2019-03-06T10:57:47-05:00	Esquire's March Cover Is a Monument to Whiteness and Toxic Masculinity - Pacific Standard https://psmag.com/ideas/why-esquires-march-cover-is-sort-of-dangerous
+2019-03-06T11:00:48-05:00	The Problem With Nostalgia  https://longreads.com/2019/03/05/the-problem-with-nostalgia/
+2019-03-06T11:05:02-05:00	Terrorism Is Not About Terror - Gwern.net https://www.gwern.net/Terrorism-is-not-about-Terror
+2019-03-06T11:22:54-05:00	The data brokers quietly buying and selling your personal information https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information
+2019-03-06T11:42:54-05:00	Richard Rorty's hopes for liberalism and solidarity | Aeon Essays https://aeon.co/essays/richard-rortys-hopes-for-liberalism-and-solidarity
+2019-03-06T11:56:24-05:00	Band name of the day: transneptunian objects
+2019-03-06T12:09:36-05:00	Banner Ads Considered Harmful (Here) - Gwern.net https://www.gwern.net/Ads
+2019-03-06T12:20:38-05:00	Are.na / Stoic Electronics https://www.are.na/are-na-commons/stoic-electronics
+2019-03-06T12:50:10-05:00	Are.na / computer furniture https://www.are.na/john-michael-boling/computer-furniture
+2019-03-06T14:04:23-05:00	In the Mouth of Madness: Who Writes Reality? - YouTube https://www.youtube.com/watch?v=RST8VOlT9H8
+2019-03-06T15:02:50-05:00	Douglas Engelbart's Symposium - The unifying vision - YouTube https://www.youtube.com/watch?v=_a_AKP57zSY
+2019-03-06T15:09:57-05:00	Douglas Engelbart's Symposium - Applying lessons of the Demo: Authoring, retrieval, classification - YouTube https://www.youtube.com/watch?v=HIa1K4vqIZg
+2019-03-06T15:30:40-05:00	Douglas Engelbart's Symposium - Bootstrapping the future: Doug's call to action - YouTube https://www.youtube.com/watch?v=mZfQiskDj_w
+2019-03-06T15:46:37-05:00	Douglas Engelbart's Symposium - Challenges in making interactive systems more useful - YouTube https://www.youtube.com/watch?v=pqYHcvH-YZM
+2019-03-06T16:46:45-05:00	Mind Amplification by Stimulated Emission of Takes
+2019-03-06T16:53:08-05:00	OFFICIAL TRAILER - IN SEARCH OF DARKNESS - THE DEFINITIVE '80s HORROR DOC - YouTube https://www.youtube.com/watch?v=9AKnO2hr7b0
+2019-03-06T16:58:05-05:00	Dune - Muad'dib - Extra Sci Fi - #4 - YouTube https://www.youtube.com/watch?v=C6_5dKRudiY
+2019-03-07T08:14:57-05:00	Band name of the day: urinal on a plinth
+2019-03-07T08:52:14-05:00	Vector, the Journal of the British APL Association http://vector.org.uk/art10011550
+2019-03-07T09:46:55-05:00	I Larped at a Drug-Fueled Cryptorave and It Ended in Tears https://breakermag.com/i-larped-at-a-drug-fueled-cryptorave-and-it-ended-in-tears/
+2019-03-07T10:02:37-05:00	Antitrust Enforcement Needs to Evolve for the 21st Century | Electronic Frontier Foundation https://www.eff.org/deeplinks/2019/02/antitrust-enforcement-needs-evolve-21st-century
+2019-03-07T10:04:39-05:00	Acne Medication History: Why Clearasil Was Marketing Gold https://tedium.co/2019/03/05/acne-medication-history-clearasil-oxy-proactiv/
+2019-03-07T10:09:29-05:00	MCD | Ghost Hardware https://www.mcdbooks.com/features/ghost-hardware-tim-maughan
+2019-03-07T10:11:32-05:00	At the end of the day, think outside the box about clichés | Aeon Ideas https://aeon.co/ideas/at-the-end-of-the-day-think-outside-the-box-about-cliches
+2019-03-07T10:35:17-05:00	You Can't Solve The Gender Gap In Tech If You Don't Understand Why It Exists https://www.buzzfeednews.com/article/reshmasaujani/tech-gender-gap-pipeline-myth
+2019-03-07T10:37:17-05:00	Collins’ Crypt: Bad Movies Used To Be So Much Better | Birth.Movies.Death. https://birthmoviesdeath.com/2019/03/06/collins-crypt-bad-movies-used-to-be-so-much-better
+2019-03-07T10:41:03-05:00	The Man Who Questioned Everything | by Lynn Hunt | The New York Review of Books https://www.nybooks.com/articles/2019/03/07/diderot-man-who-questioned-everything/
+2019-03-07T10:42:55-05:00	V Programming Language https://vlang.io/
+2019-03-07T12:39:37-05:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-07T14:36:34-05:00	Patricia Lockwood: The Communal Mind - YouTube https://www.youtube.com/watch?v=DibRVrQhSpA
+2019-03-07T20:13:46-05:00	Digi & Geoff are the Alan Moore & Grant Morrison of the anitube world
+2019-03-07T21:04:41-05:00	DOOM Eternal, Counterculture, and How We Talk About Labor - YouTube https://www.youtube.com/watch?v=MfroFmy6Z2U
+2019-03-07T21:10:01-05:00	People love to talk about the potential security impact of exotic state-of-the-art shit like GPT-2 and deepfakes, but they're neither convincing nor the lowest-effort effective way to create disinfo. Spinners scale better than GPT-2.
+2019-03-08T11:44:20-05:00	Brexit: What Is Democracy? | Philosophy Tube - YouTube https://www.youtube.com/watch?v=Vr-ZeToI4R8
+2019-03-08T11:45:22-05:00	Bad idea of the day: make UBI contingent only on compulsory voting
+2019-03-08T11:49:05-05:00	GitHub - emina/rosette: The Rosette solver-aided host language, sample solver-aided DSLs, and demos https://github.com/emina/rosette
+2019-03-08T12:12:27-05:00	Suspiria (1977) - re:View - YouTube https://www.youtube.com/watch?v=GgHNfOrislI
+2019-03-08T12:39:32-05:00	The Internet's Most Controversial ARG | Junko Junsui - YouTube https://www.youtube.com/watch?v=dkxi71OUckg
+2019-03-08T13:47:10-05:00	The only outright negative review my game has gotten thus far starts with the reviewer saying making a VN should be a crime against humanity. Like, thanks for leading with the admission that you're not part of the target audience & your opinion doesn't matter.
+2019-03-08T17:33:54-05:00	Slavoj Zizek vs. Jordan Peterson: Who is the Better Christian? - YouTube https://www.youtube.com/watch?v=U-RjIaYRNq0
+2019-03-08T17:45:13-05:00	Anime is a Brand - YouTube https://www.youtube.com/watch?v=WWccr1r-H0E
+2019-03-08T18:40:28-05:00	Band name of the day: wolf fifth
+2019-03-10T14:27:20-04:00	Database as Filesystem - YouTube https://www.youtube.com/watch?v=wN6IwNriwHc
+2019-03-10T14:28:09-04:00	A Beginner's Guide to Music Theory - YouTube https://www.youtube.com/watch?v=n2z02J4fJwg
+2019-03-10T14:39:46-04:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-10T17:11:45-04:00	My unedited rant on slavery in isekai - YouTube https://www.youtube.com/watch?v=DrxG0tTIqbg
+2019-03-10T20:10:43-04:00	Other ways in which UX is like stand-up comedy: if you omit the setup, the punchline won't land; reading the room is a vital skill
+2019-03-10T20:13:04-04:00	The typical failure mode of UX is no longer the shaggy-dog story (i.e., the turing tarpit: a lot of build-up for a disappointing conclusion); it's bunch of shallow one-liners with no connecting thread, which are as funny as they can be for their length but don't make the most of a set.
+2019-03-10T20:15:08-04:00	A good user interface *is* a lot like a standup routine: you take the deep knowledge of an audience and twist it in creative ways so that they now understand something they couldn't have imagined on their own.
+2019-03-10T20:16:15-04:00	Poor documentation is overrated as an attribute of jokes. (Some of my favorite jokes are literally humorous attempts at explaining other jokes.) The difference between standup comedy & UI design is even bad comics know this.
+2019-03-11T07:41:56-04:00	Presidential candidate Andrew Yang has a meme problem - The Verge https://www.theverge.com/2019/3/9/18256622/andrew-yang-2020-president-meme-yanggang
+2019-03-11T08:34:15-04:00	Girl Scouts & Good Corporate Governance - Gwern.net https://www.gwern.net/Girl-Scouts-and-good-governance
+2019-03-11T10:20:23-04:00	Why I Quit Tech and Became a Therapist http://glench.com/WhyIQuitTechAndBecameATherapist/
+2019-03-11T10:44:32-04:00	Fantasy's Widow: The Fight Over The Legacy Of Dungeons & Dragons  https://kotaku.com/fantasys-widow-the-fight-over-the-legacy-of-dungeons-1833127876
+2019-03-11T11:14:13-04:00	GitHub - pirate/ArchiveBox: $ The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... https://github.com/pirate/ArchiveBox
+2019-03-12T07:35:23-04:00	Millennials Are Killing Inanna, Mesopotamian Goddess of Fertility - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/millennials-are-killing-inanna-mesopotamian-goddess-of-fertility
+2019-03-12T09:30:55-04:00	Identity by Any Other Name - ACM Queue https://queue.acm.org/detail.cfm?id=3314115
+2019-03-12T09:32:16-04:00	A belief in meritocracy is not only false: it’s bad for you | Aeon Ideas https://aeon.co/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you
+2019-03-12T10:05:46-04:00	It's time to celebrate the humanity of the communal snooze | Aeon Essays https://aeon.co/essays/its-time-to-celebrate-the-humanity-of-the-communal-snooze
+2019-03-12T10:30:55-04:00	[Essay] The Story of Storytelling | Harper's Magazine https://harpers.org/archive/2019/03/the-story-of-storytelling/
+2019-03-12T10:36:30-04:00	How to Take a Nap When You Suck at Taking Naps - MEL Magazine https://melmagazine.com/en-us/story/how-to-take-a-nap-when-you-suck-at-taking-naps
+2019-03-12T10:40:13-04:00	Language in the Age of Algorithmic Reproduction: A Thesis – Linguistic Geographies https://linguisticgeographies.com/2019/03/12/language-in-the-age-of-algorithmic-reproduction-a-thesis/
+2019-03-12T10:40:37-04:00	Weekend Poem: All Watched Over by Machines of Loving Grace - The Atlantic  https://www.theatlantic.com/technology/archive/2011/09/weekend-poem-all-watched-over-by-machines-of-loving-grace/245251/
+2019-03-12T10:44:45-04:00	This Is What It's Like To Wake Up During Surgery - Digg http://digg.com/2019/waking-up-from-anesthsia
+2019-03-12T10:49:05-04:00	Touch | Poppy Sebag-Montefiore | Granta  https://granta.com/touch/
+2019-03-12T10:59:05-04:00	‘An unfinishable, endless house’: the untold story of Casa Sperimentale https://www.themodernhouse.com/journal/casa-sperimentale/
+2019-03-12T11:09:00-04:00	Band name of the day: ai murder policy
+2019-03-12T11:11:03-04:00	Band name of the day: trial by ordeal
+2019-03-12T11:21:46-04:00	happy 30th anniversary of the end of hypertext as a vital and interesting medium
+2019-03-12T11:28:42-04:00	Why It’s Important to Consider Whether Dune Is a White Savior Narrative  |  Tor.com https://www.tor.com/2019/03/06/why-its-important-to-consider-whether-dune-is-a-white-savior-narrative/
+2019-03-12T11:37:04-04:00	Welcome to ‘Zombieland’: A former US Army base rots in the hands of overwhelmed Afghans - Stripes https://www.stripes.com/welcome-to-zombieland-a-former-us-army-base-rots-in-the-hands-of-overwhelmed-afghans-1.570893
+2019-03-12T11:37:32-04:00	All worldbuilding, without exception, is political  | columns | Hindustan Times https://www.hindustantimes.com/columns/all-worldbuilding-without-exception-is-political/story-iE1Gc0R4ULSq8khLaJ1dEO.html
+2019-03-12T11:43:17-04:00	Close Encounters of the Digital Kind | Emily Harnett https://thebaffler.com/latest/close-encounters-of-the-tech-kind-harnett
+2019-03-12T12:36:27-04:00	Band name of the day: cosmic watergate
+2019-03-12T12:59:41-04:00	A thread written by @SarahTaber_bww https://threader.app/thread/1105256554700460032
+2019-03-12T13:04:30-04:00	It's a cliche to say that technical advances are making the world change faster, but the more the products of time binding become available & silos collapsed the more obviously slow everything is.
+2019-03-12T15:52:01-04:00	Dual N-Back FAQ - Gwern.net https://www.gwern.net/DNB-FAQ
+2019-03-13T07:37:21-04:00	The Selective Laziness of Reasoning - Neuroskeptic http://blogs.discovermagazine.com/neuroskeptic/2015/10/21/the-selective-laziness-of-reasoning/#.XIjqJkfav0M
+2019-03-13T07:40:52-04:00	The Pitch https://pitchfork.com/thepitch/1463-the-unlikely-making-of-the-velvet-underground-nico/
+2019-03-13T07:41:32-04:00	List: Revolutionary Quotes From Centrist History - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/revolutionary-quotes-from-centrist-history
+2019-03-13T07:45:17-04:00	Emotional Mechanics | Emily Short's Interactive Storytelling https://emshort.blog/2019/03/12/39385/
+2019-03-13T07:49:01-04:00	An Interview with Nick Harkaway: Algorithmic Futures, Literary Fractals, and Mimetic Immortality - Los Angeles Review of Books https://lareviewofbooks.org/article/an-interview-with-nick-harkaway-algorithmic-futures-literary-fractals-and-mimetic-immortality/
+2019-03-13T07:57:50-04:00	Radicle 🌱 http://www.radicle.xyz/
+2019-03-13T09:50:21-04:00	:r4 programing languaje | phreda4.github.io https://phreda4.github.io/
+2019-03-13T10:03:28-04:00	The Data Sublime – The New Inquiry https://thenewinquiry.com/the-data-sublime/
+2019-03-13T10:16:06-04:00	Deep Listening at the Recurse Center http://glench.com/DeepListeningAtTheRecurseCenter/
+2019-03-13T10:18:49-04:00	DSHR's Blog: Techno-hype part 2.5 https://blog.dshr.org/2018/03/techno-hype-part-25.html
+2019-03-13T13:06:30-04:00	Adobe Antitrust Concerns: Is the Photoshop-Maker Too Big? https://tedium.co/2019/03/12/adobe-history-antitrust-concerns/
+2019-03-13T15:40:04-04:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-13T17:47:33-04:00	TIL: the guy who invented the toilet wasn't named 'crapper', but he WAS named 'cummings'.
+2019-03-13T17:52:44-04:00	Stick To The Script!!! [SORRY TO BOTHER YOU film analysis] - YouTube https://www.youtube.com/watch?v=UGnQLgpaupU
+2019-03-13T17:59:20-04:00	Cybernetics Conference Library https://cybernetics.social/
+2019-03-14T07:33:35-04:00	Ken Anger, Ken Russel, and Ken Burns codirecting a Ken Thomson biopic. Soundtrack by Thomas Dolby and Steve Reich.
+2019-03-14T07:52:20-04:00	Silicon Valley's Latest Bizarre Craze Is 'Organized Intimacy'  - VICE https://www.vice.com/en_us/article/7xnmme/sf-bay-area-scene-intimacy-party
+2019-03-14T08:11:41-04:00	GitHub - lunarlang/lunar: Lunar is a superset programming language of Lua 5.1, inspired by TypeScript and Ruby. https://github.com/lunarlang/lunar
+2019-03-14T08:26:53-04:00	Chimpanzee Traditions Are Disappearing - The Atlantic  https://www.theatlantic.com/science/archive/2019/03/we-are-destroying-chimpanzee-cultures/584146/
+2019-03-14T08:31:07-04:00	UFOs: Fact, Fantasy, and Hyperreality | Mysterious Universe https://mysteriousuniverse.org/2019/03/ufos-fact-fantasy-and-hyperreality/
+2019-03-14T08:41:39-04:00	π day | cormullion https://cormullion.github.io/blog/2019/03/13/piday.html
+2019-03-14T08:42:15-04:00	Bighorn-Sheep Migration Routes Form Ancestral Knowledge - The Atlantic  https://www.theatlantic.com/science/archive/2018/09/to-save-animals-we-need-to-save-their-knowledge-too/569503/
+2019-03-14T09:06:38-04:00	The Algernon Argument - Gwern.net https://www.gwern.net/Drug-heuristics
+2019-03-14T10:03:23-04:00	Band name of the day: global hum
+2019-03-14T10:09:03-04:00	I can't believe I have to say this, but 'polarization' and 'diversity' are not synonyms.
+2019-03-14T10:15:50-04:00	Band name of the day: a rebellious and sinister dandyism
+2019-03-14T10:17:01-04:00	Black Metal Is Sublime – The New Inquiry https://thenewinquiry.com/black-metal-is-sublime/
+2019-03-14T11:31:47-04:00	12 Ways Airports Are Secretly Manipulating You | Mental Floss http://mentalfloss.com/article/64808/12-behind-scenes-secrets-airports
+2019-03-14T11:42:09-04:00	Shtetl-Optimized  » Blog Archive   » Umeshisms https://www.scottaaronson.com/blog/?p=40
+2019-03-14T11:46:57-04:00	Nootropics - Gwern.net https://www.gwern.net/Nootropics
+2019-03-14T14:42:27-04:00	if you water-cooled ram would you have... tanks for the memories?
+2019-03-14T14:52:54-04:00	Five Principles for Thinking Like a Futurist | EDUCAUSE https://er.educause.edu/articles/2019/3/five-principles-for-thinking-like-a-futurist
+2019-03-14T15:15:25-04:00	Spaced Repetition - Gwern.net https://www.gwern.net/Spaced-repetition
+2019-03-14T19:29:47-04:00	invention is the discovery of a path through possibility space. it doesn't have to be a good path.
+2019-03-15T06:26:57-04:00	Redditors Say They’re Seeing Coordinated Chinese Propaganda On The Site https://www.buzzfeednews.com/article/craigsilverman/reddit-coordinated-chinese-propaganda-trolls
+2019-03-15T07:33:56-04:00	Why I still use medium: https://lobste.rs/s/bykzkm/hide_medium_com_as_personal_filter_on#c_v6frxz
+2019-03-15T08:32:31-04:00	Band name of the day: noonday devil
+2019-03-15T08:53:45-04:00	Always On " Real Life https://reallifemag.com/always-on/
+2019-03-15T08:57:05-04:00	Trendism is the idea that, in Dellio's White Noise, when people photograph the Most Photographed Barn In America, they are not acting absurdly but creating net value for society.
+2019-03-15T08:58:52-04:00	Trendism is the logic of financialized speculative capitalism extended to the realm of takes: information about information about information (even if it's false) exceeds the value of the baseline information.
+2019-03-15T09:00:08-04:00	Trendism is the logic of the Spectacle applied recursively: the image doesn't matter, but whether or not the appearance of its appearance appears is worth arbitrary millions.
+2019-03-15T09:01:48-04:00	Trendism is a complicated inversion of the aphorism 'mediocre minds talk about people, and great minds talk about ideas': we value most those who talk about whether or not people are talking about an idea.
+2019-03-15T09:20:03-04:00	The web we broke. " Ethan Marcotte https://ethanmarcotte.com/wrote/the-web-we-broke/
+2019-03-15T09:24:03-04:00	Email icon https://www.topic.com/the-accidental-crime-novelist
+2019-03-15T09:51:59-04:00	Time travel in The Peripheral @ Things Of Interest https://qntm.org/peripheral
+2019-03-15T09:57:34-04:00	Band name of the day: generally regarded as sludge
+2019-03-15T09:58:59-04:00	Melatonin - Gwern.net https://www.gwern.net/Melatonin
+2019-03-15T10:04:04-04:00	Lithium in ground-water and well-being - Gwern.net https://www.gwern.net/Lithium
+2019-03-15T10:19:47-04:00	Stages, Structures, and the Work of Being Yourself | L.M. Sacasas https://thefrailestthing.com/2019/03/14/carnival-of-the-self/
+2019-03-15T16:40:38-04:00	Today is the ides of march. Celebrate by being ware.
+2019-03-16T16:16:17-04:00	'hill house is the mcmansion hell of the soul' - shirley jackson, probably
+2019-03-16T16:18:38-04:00	Hill House has stood for 80 years and might for 80 more. Inside, floors lay straight, doors sensibly shut, but why is there a dormer window RIGHT NEXT TO a stained glass one, and why don't the bottoms line up??
+2019-03-16T16:20:32-04:00	There are three kinds of haunted houses: the return of the repressed (the history-haunted house), the dressing room for werewolves (the house that just makes people crappier), & the house-that-is-monstrous (the amateur architect's place)
+2019-03-16T16:40:15-04:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-17T20:32:22-04:00	Band name of the day: cloaca maxima
+2019-03-18T07:21:23-04:00	Dead Precedents by Roy Christopher review: how hip-hop and cyberpunk hijacked culture | Books | The Guardian https://www.theguardian.com/books/2019/mar/17/dead-precedents-how-hip-hop-defines-future-roy-christopher-review-cyberpunk
+2019-03-18T07:29:57-04:00	UFO Programming, TTSA, Techgnosis & Hyperreality - The Daily Grail https://www.dailygrail.com/2019/03/ufo-programming-ttsa-techgnosis-hyperreality/
+2019-03-18T07:31:22-04:00	Robert Fludd and His Images of The Divine – The Public Domain Review https://publicdomainreview.org/2011/09/13/robert-fludd-and-his-images-of-the-divine/
+2019-03-18T07:34:30-04:00	William Gibson Talks ‘Archangel,’ Apocalypses, and Dystopias https://www.vulture.com/2017/08/william-gibson-archangel-apocalypses-dystopias.html
+2019-03-18T07:39:48-04:00	Celebrate St. Patrick's Day by filling a truck with snakes and driving
+2019-03-18T08:00:42-04:00	America’s Post-Frontier Hangover  https://longreads.com/2019/03/14/americas-post-frontier-hangover/
+2019-03-18T08:03:11-04:00	Jill the Ripper  https://longreads.com/2019/03/12/jill-the-ripper/
+2019-03-18T08:06:21-04:00	We ought to be suspicious of business plans that resemble manifest destiny: expansion into supposedly-unclaimed regions, turning inhabitants into tools & discarding the resistant (who now have nowhere to go) or worse.
+2019-03-18T08:57:29-04:00	How Telegraphs and Teletypes Influenced the Computer https://tedium.co/2019/03/14/teletype-computer-evolution-history/
+2019-03-18T09:11:58-04:00	why did they call it 'Web Prolog' instead of 'PlanNET'? was it just so that people couldn't say 'hack the PlanNET' every time a vuln was found? that's a bad reason.
+2019-03-18T09:17:25-04:00	Is a mission to Mars morally defensible given today’s real needs? | Aeon Essays https://aeon.co/essays/is-a-mission-to-mars-morally-defensible-given-todays-real-needs
+2019-03-18T09:21:06-04:00	Descartes was wrong: ‘a person is a person through other persons’ | Aeon Ideas https://aeon.co/ideas/descartes-was-wrong-a-person-is-a-person-through-other-persons
+2019-03-18T09:26:35-04:00	We aren’t really in control so why worry about neurointerventions? | Aeon Ideas https://aeon.co/ideas/we-arent-really-in-control-so-why-worry-about-neurointerventions
+2019-03-18T09:30:04-04:00	Band name of the day: spectacular optical
+2019-03-18T09:55:04-04:00	i'm feeling nmesh more than oneatrix point never lately and i don't know why
+2019-03-18T10:14:46-04:00	Is there a convenient way to make your desktop browser pretend to be a mobile browser so sites don't try to allocate twenty gigs of memory for goddamned css animations?
+2019-03-18T10:25:26-04:00	modern mobile development cons: the absence of hardware keyboards leads to a culture of passivity. modern mobile dev pros: nobody assumes you are running a supercomputer with a fiber connection directly to the data center no more than 5 ft long
+2019-03-18T10:29:33-04:00	How Wattpad Is Rewriting the Rules of Hollywood https://www.vulture.com/2018/07/how-wattpad-is-rewriting-the-rules-of-hollywood.html
+2019-03-18T10:42:03-04:00	The Software That Shapes Workers’ Lives | The New Yorker https://www.newyorker.com/science/elements/the-software-that-shapes-workers-lives
+2019-03-18T10:47:57-04:00	The Other Kind of Climate Denialism | The New Yorker https://www.newyorker.com/science/elements/the-other-kind-of-climate-denialism
+2019-03-18T10:57:34-04:00	The Perfect Irony That ‘The Wolf of Wall Street’ Film Was Also a Real-Life Scam - MEL Magazine https://melmagazine.com/en-us/story/the-perfect-irony-that-the-wolf-of-wall-street-was-also-a-real-life-scam
+2019-03-18T11:04:48-04:00	How the nineties are coming back to haunt us - The Globe and Mail https://www.theglobeandmail.com/opinion/article-how-the-nineties-are-coming-back-to-haunt-us/
