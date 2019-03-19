@@ -6459,3 +6459,23 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-03-18T10:47:57-04:00	The Other Kind of Climate Denialism | The New Yorker https://www.newyorker.com/science/elements/the-other-kind-of-climate-denialism
 2019-03-18T10:57:34-04:00	The Perfect Irony That ‘The Wolf of Wall Street’ Film Was Also a Real-Life Scam - MEL Magazine https://melmagazine.com/en-us/story/the-perfect-irony-that-the-wolf-of-wall-street-was-also-a-real-life-scam
 2019-03-18T11:04:48-04:00	How the nineties are coming back to haunt us - The Globe and Mail https://www.theglobeandmail.com/opinion/article-how-the-nineties-are-coming-back-to-haunt-us/
+2019-03-18T11:25:39-04:00	Fertility Doctor Donald Cline's Secret Children - The Atlantic https://www.theatlantic.com/magazine/archive/2019/04/fertility-doctor-donald-cline-secret-children/583249/
+2019-03-18T11:47:39-04:00	Errata Security: A basic question about TCP https://blog.erratasec.com/2019/02/a-basic-question-about-tcp.html
+2019-03-18T11:50:33-04:00	This Guy Is Vlogging His Entire Midlife Crisis - MEL Magazine https://melmagazine.com/en-us/story/karl-meszaros-midlife-crisis-youtube-vlog
+2019-03-18T11:52:27-04:00	The Latest ASMR Craze Involves Tales of Crime and Murder - MEL Magazine https://melmagazine.com/en-us/story/the-latest-asmr-craze-involves-tales-of-crime-and-murder
+2019-03-18T15:28:32-04:00	Dr. Alan Kay on the Meaning of "Object-Oriented Programming" http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
+2019-03-18T15:31:30-04:00	A generalised solution to distributed consensus | the morning paper https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/
+2019-03-18T15:37:21-04:00	Read Lisp Hackers | Leanpub https://leanpub.com/lisphackers/read
+2019-03-18T15:40:00-04:00	Viewing Matrices & Probability as Graphs https://www.math3ma.com/blog/matrices-probability-graphs
+2019-03-18T15:45:12-04:00	The Witches' Insurrection Tarot by Kit Snicket — Kickstarter https://www.kickstarter.com/projects/antifatarot/the-witches-insurrection-tarot
+2019-03-18T18:09:44-04:00	if you're a wizard then all your hats are wizard hats
+2019-03-19T08:57:19-04:00	A lot of disagreements seem to come down to a gap wherein, when commercial success and apparent human flourishing conflict, some folks privilege the former over the latter. I'm wondering how much of this is about legibility / discounting self-reporting in favor of numbers.
+2019-03-19T12:47:36-04:00	Hot take: Mondo 2000 should do what Fangoria did & release a very fancy very thick periodical like once a year for about a hundred bucks.
+2019-03-19T13:03:33-04:00	The Gendered Project https://genderedproject.org/
+2019-03-19T13:03:48-04:00	TwoTone https://app.twotone.io/
+2019-03-19T13:04:16-04:00	ImageNet Roulette https://imagenet-roulette.paglen.com/
+2019-03-19T13:18:23-04:00	Band name of the day: emotion mind
+2019-03-19T13:20:23-04:00	What would a floating sheep map? http://manifesto.floatingsheep.org/
+2019-03-19T14:29:36-04:00	keep throwing 'em away until throwing 'em away isn't scary anymore
+2019-03-19T14:37:12-04:00	Kilo LISP - T3X.ORG http://t3x.org/klisp/index.html
+2019-03-19T14:40:11-04:00	Band name of the day: the oddly satisfying
