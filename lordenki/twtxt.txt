@@ -6479,3 +6479,80 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-03-19T14:29:36-04:00	keep throwing 'em away until throwing 'em away isn't scary anymore
 2019-03-19T14:37:12-04:00	Kilo LISP - T3X.ORG http://t3x.org/klisp/index.html
 2019-03-19T14:40:11-04:00	Band name of the day: the oddly satisfying
+2019-03-19T15:32:05-04:00	Band name of the day: ornament and crime
+2019-03-19T17:40:35-04:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-19T18:44:12-04:00	Eco-fascism is undergoing a revival in the fetid culture of the extreme right | Jason Wilson | World news | The Guardian https://www.theguardian.com/world/commentisfree/2019/mar/20/eco-fascism-is-undergoing-a-revival-in-the-fetid-culture-of-the-extreme-right
+2019-03-20T08:30:55-04:00	Zombies, Slashers, Ghosts and Extreme Gore: Ranking All 21 of Lucio Fulci's Horror Films - Bloody Disgusting https://bloody-disgusting.com/editorials/3550177/zombies-slashers-ghosts-extreme-gore-ranking-21-lucio-fulcis-horror-films/
+2019-03-20T10:03:56-04:00	Introducing Weird Machines: ROP Differently Explaining part 1 - bin 0x29 - YouTube https://www.youtube.com/watch?v=8Dcj19KGKWM
+2019-03-20T10:27:07-04:00	Robert Heinlein and the Harsh Politics of Science Fiction | Leaping Robot Blog | Patrick McCray http://www.patrickmccray.com/2013/09/12/robert-heinlein-and-the-harsh-politics-of-science-fiction/
+2019-03-20T11:00:31-04:00	Newsletter #10 - John Higgs http://johnhiggs.com/newsletter-10/
+2019-03-21T09:08:20-04:00	One thing the DomeKano manga has over the anime is that it plays up how much of a lovable dork Hina is. Anime Hina comes off to me as somebody you'd want to stay away from on the grounds of emotional instability, & is only shallowly charming.
+2019-03-21T12:27:11-04:00	GitHub - howerj/forth-cpu: A Forth CPU and System on a Chip, based on the J1, written in VHDL https://github.com/howerj/forth-cpu
+2019-03-21T12:29:36-04:00	What Happens When You Stop Speaking? https://www.thecut.com/2019/03/what-happens-when-you-stop-speaking.html
+2019-03-21T13:53:03-04:00	Lazyweb: please recommend me haunted house movies you think I haven't seen. It's for research. Good or bad doesn't matter, but I prefer original over derivative.
+2019-03-21T15:45:19-04:00	This, except unironically: https://makefrontendshitagain.party/ ; interfaces ought to be rich & individual representations of the underlying models, unless people are required/forced to use them, in which case all formatting should be able to be stripped automatically.
+2019-03-21T15:57:44-04:00	Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years —  Krebs on Security https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/
+2019-03-21T15:58:16-04:00	The Revolutionary Discovery of a Distributed Virus - The Atlantic  https://www.theatlantic.com/science/archive/2019/03/the-revolutionary-discovery-of-a-distributed-virus/584884/
+2019-03-21T16:01:39-04:00	Hyperloops for our minds – Structure and Interpretation of Computer Programmers https://www.sicpers.info/2019/03/hyperloops-for-the-mind/
+2019-03-21T17:50:24-04:00	Who are the Public? Public Sphere, Opinions, Moods & History - YouTube https://www.youtube.com/watch?v=S1Yv0FamjCw
+2019-03-21T19:03:45-04:00	OK so one thing I don't like about the DomeKano manga is the way the plaid bottoms in their school uniform are so clearly done with a single sheet of overlay per frame (or maybe even per page). It's distracting, the way they don't match the fabric folds.
+2019-03-22T07:55:56-04:00	nothing is irrefutable for the sufficiently motivated
+2019-03-22T08:15:34-04:00	Never mistake your inability to richly imagine the outgroup for an actual general consensus among them. No matter how wrong they might be about the things they agree on, they define themselves by their minor internal schisms.
+2019-03-22T08:57:32-04:00	Joe Rogan’s podcast is an essential platform for freethinkers who hate the left. https://slate.com/culture/2019/03/joe-rogans-podcast-is-an-essential-platform-for-freethinkers-who-hate-the-left.html
+2019-03-22T09:23:34-04:00	Some essays I wrote about engineering healthy community norms: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/punk-cosplay-3005b5703c31?source=friends_link&sk=60b608b1bc983be2dbfa99ec0663a309 https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/on-communities-cf4ad1b6ce3?source=friends_link&sk=c1f309edbf7c6a010c746ca112459ac0 https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/context-centric-cultures-call-out-cultures-3da5e87015f1?source=friends_link&sk=44b692b40ec3ecd5ecbb918087bfb761
+2019-03-22T09:29:21-04:00	I tried really hard to give The Amityville Horror another chance but all I can think is: how the hell is a movie starring Margot Kidder this bad and this boring? Steven King came around on it but I guess I won't.
+2019-03-22T10:33:17-04:00	Committee for Supporting the Booking of Chapo Trap House on Joe Rogan
+2019-03-22T11:01:44-04:00	GitHub - mholt/timeliner: All your digital life on a single timeline, stored locally https://github.com/mholt/timeliner
+2019-03-22T12:37:59-04:00	GCU Very Important Heartburn
+2019-03-22T13:02:35-04:00	I mean, 'quietly' is a bit misleading since this has been in the news every few years for more than a decade, but you all might need a reminder: https://qz.com/1002927/computer-printers-have-been-quietly-embedding-tracking-codes-in-documents-for-decades/
+2019-03-22T13:04:15-04:00	The Famous 'NESticle' Emulator’s Stolen Source Code Has Been Preserved - Motherboard https://motherboard.vice.com/en_us/article/43ze39/the-famous-nesticle-emulators-stolen-source-code-has-been-preserved
+2019-03-22T14:03:03-04:00	TFW you give yourself low-grade caffeine toxicity expecting to be productive at work but instead end up writing long twitter threads about strategic subculture destablization
+2019-03-22T16:01:26-04:00	My online friends are very sweet & thinking about it fills me with joy <3
+2019-03-22T18:40:56-04:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-23T01:12:28-04:00	I wasn't expecting Dusk Maiden of Amnesia to be this similar to Yuuna and the Haunted Onsen. I approve.
+2019-03-23T05:52:14-04:00	Dusk Maiden of Amnesia managed to be both a satisfying school harem comedy & a satisfying gothic ghost story. Highly recommend. Why the heck don't people talk more about this show?
+2019-03-23T08:54:01-04:00	I fixed my now-year-long semi-intermittent sound problem, & the explanation is compellingly stupid: sometimes when ubuntu upgrades sound driver modules it doesn't make the /dev/snd tree user-writable, & pulse runs as the logged-in user.
+2019-03-23T09:46:14-04:00	The function of genre tropes is to provide a promise of certain kinds of things -- enjoyable to genre fans -- happening to make the thing enjoyable even if there's no other engagement. (Y'all probably know this but everything feels more original when you've been awake for 30 hours.)
+2019-03-23T09:47:40-04:00	Ghost stories are about return of the repressed, & to have the return you need the repression, so ghost stories are actually about trauma & reintegration. (Again, probably obvious, but shit feels more original when you've been awake for 30 hours)
+2019-03-23T13:23:04-04:00	Did the anime adaptation completely get rid of chapter 22 of DomeKano? I don't remember that whole sequence being in there...
+2019-03-24T11:43:26-04:00	Sort of unexpectedly, DC's Captain Marvel movie ended up being substantially better than Marvel's Captain Marvel movie, because DC decided to make a PG-13 Deadpool movie while Marvel tried to make a Superman movie.
+2019-03-24T13:29:37-04:00	a supercut of italian-directed tracking shots of pretty houses with prog rock in the background and vaseline on the lens
+2019-03-24T13:30:22-04:00	hollywood: let's make horror movies about freemasonry; dario argento: DID SOMEBODY SAY MASONRY?? I LOVE STONEWORK
+2019-03-24T13:32:02-04:00	everybody get your fog machines and neon lights, we're gonna film buildings
+2019-03-24T13:44:59-04:00	more movies about food and buildings
+2019-03-24T13:56:42-04:00	"You like horror movies, huh? What are your favorite genres?" "Well, mostly gothic & art deco, but Burnt Offerings was a fantastic greek revival flick"
+2019-03-24T18:17:35-04:00	holy shit did the domekano anime cut like most of the literature club shit? i don't remember them going camping & hina getting stung by a wasp
+2019-03-24T19:42:24-04:00	In case you haven't read the Oshiete Galko-chan manga & have only heard about it: it's gorgeous, in a really innovative style, heartwarming & funny, & also people's tshirts say things like 'camel toe <3' and 'snowman porno'
+2019-03-24T21:05:18-04:00	to make the world worth living in requires conspiracy
+2019-03-25T09:02:49-04:00	Lazyweb: do japanese buildings have basements? If not, why not? (For instance, water table, or soil quality?)
+2019-03-25T09:16:06-04:00	Is there a language that actually stores booleans as offsets into a bitfield, instead of wasting 7 bits (or more)?
+2019-03-25T10:06:34-04:00	Habitat Chronicles:   A Lost Treasure of Xanadu http://habitatchronicles.com/2019/03/a-lost-treasure-of-xanadu/
+2019-03-25T10:16:42-04:00	Three protocols and a future of the decentralized internet https://blog.datproject.org/2019/03/22/three-protocols-and-a-future-of-the-decentralized-internet/
+2019-03-25T10:38:59-04:00	serving size: one eighth of a cookie
+2019-03-25T10:39:23-04:00	Band name of the day: total exoneration
+2019-03-25T10:40:49-04:00	Enigma, the Bombe, and Typex · gchq/CyberChef Wiki · GitHub https://github.com/gchq/CyberChef/wiki/Enigma,-the-Bombe,-and-Typex
+2019-03-25T10:46:35-04:00	Rebooting UUCP to redecentralize the net / Boing Boing https://boingboing.net/2019/03/25/tilde-servers-r-us.html
+2019-03-25T11:02:30-04:00	The Siren Song of Little Languages – Wilfred Hughes::Blog http://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/
+2019-03-25T11:18:36-04:00	Why does software suck? Capitalism. https://news.ycombinator.com/item?id=19483230
+2019-03-25T12:14:09-04:00	jezbel-quote<\/title><path d="M23 13.46c0 1.253-.45 2.323-1.345 3.21-.897.887-1.977 1.33-3.243 1.33-1.69 0-2.968-.548-3.837-1.644-.87-1.095-1.306-2.426-1.306-3.99 0-2.192.76-4.435 2.2... https://paleofuture.gizmodo.com/how-filmmakers-created-fake-newsreels-in-the-1920s-1832866878
+2019-03-25T13:17:00-04:00	Bad idea of the day: give up the letter e for lent
+2019-03-25T13:36:12-04:00	Recommended: McKeever's book about the 90s https://mipmckeever.weebly.com/uploads/9/4/1/3/94130725/90sbookfinal.pdf
+2019-03-25T13:49:57-04:00	Fuck The Vessel | Kate Wagner https://thebaffler.com/latest/fuck-the-vessel-wagner
+2019-03-25T14:31:00-04:00	Band name of the day: a sudden and miraculous grace
+2019-03-25T19:41:15-04:00	Periodic reminder: the 2019 No-Budget Film Contest starts accepting submissions on April 20th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-03-25T22:46:13-04:00	if you stay up all night are you resisting a rest?
+2019-03-26T09:00:37-04:00	Band name of the day: time mace
+2019-03-26T09:03:01-04:00	The Legend of Nixon, a Data-Driven NES Soundscape https://kottke.org/19/03/the-legend-of-nixon-a-data-driven-nes-soundscape
+2019-03-26T09:49:40-04:00	End-user programming https://www.inkandswitch.com/end-user-programming.html
+2019-03-26T10:56:38-04:00	Alan Kay brings the shade: https://www.quora.com/What-will-Silicon-Valley-do-once-it-runs-out-of-Doug-Engelbarts-ideas
+2019-03-26T11:07:48-04:00	Somebody call Tim Leary; I think he's needed again: https://www.theguardian.com/technology/2019/mar/26/acid-test-how-psychedelic-virtual-reality-can-end-societys-mass-bad-trip
+2019-03-26T11:23:32-04:00	Band name of the day: nuke me from orbit
+2019-03-26T11:31:32-04:00	Everybody keeps talking about 'Apple Card' & I kept thinking they were talking about that thing you stuck in your Apple II to simulate an IBM PC clone.
+2019-03-26T12:59:46-04:00	personal brands are Very Expensive Ghosts
+2019-03-26T13:40:21-04:00	School harem-comedy anime is TV's last bastion of psychological realism: it portrays a world where teenagers are dumb and socially awkward, and emotions come through on their faces but nobody notices.
+2019-03-26T16:20:12-04:00	Why We Love BAD Movies (feat. The Room, Sharknado, Troll 2, Rebecca Black's Friday) " Wisecrack Vlog - YouTube https://www.youtube.com/watch?v=Rxc0DQs-6qw
+2019-03-26T16:42:05-04:00	!!Con West 2019 - Max Kreminski: Making blackout poetry with computers! - YouTube https://www.youtube.com/watch?v=klO7XBFUIj8
+2019-03-26T16:52:56-04:00	!!Con West 2019 - M. Lazer-Walker: Computers are fast! But how come they sometimes feel slow? - YouTube https://www.youtube.com/watch?v=yu_fzhwRXgM
+2019-03-26T16:57:22-04:00	!!Con West 2019 - Alex Rasmussen: EarthBound’s almost-Turing-complete text system! - YouTube https://www.youtube.com/watch?v=1KaatQ-jH6Q
+2019-03-27T07:19:19-04:00	the pattern on charmin toilet paper looks like eyes & even though it's almost definitely accidental i sitll find it wonderfully suvbersive
+2019-03-27T08:12:47-04:00	achieving the knowledge and communication of your holy guardian algo

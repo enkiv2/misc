@@ -290,6 +290,7 @@ http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-m
 http://allendowney.blogspot.co.nz/2018/02/learning-to-program-is-getting-harder.html
 http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/
 http://aprt.us/
+https://www.inkandswitch.com/end-user-programming.html
 Agents
 https://www.rand.org/content/dam/rand/pubs/reports/2005/R1809.pdf
 https://www.computer.org/csdl/proceedings/afips/1976/5084/00/50840501.pdf
@@ -315,6 +316,7 @@ https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.h
 https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
 General
+http://shirky.com/writings/herecomeseverybody/situated_software.html
 https://news.ycombinator.com/item?id=16586347
 https://github.com/d-cook/SomethingNew/blob/master/Concepts.md
 https://shalabh.com/programmable-systems/systems-not-programs.html
