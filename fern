@@ -208,7 +208,7 @@ def truncWrap(string, length, affix="\n", breakOnWord=True):
 	ret=[]
 	while len(string)>length:
 		ret.append(trunc(string, length, affix, breakOnWord))
-		string=string[len(ret[-1])-(1+len(affix)):]
+		string=string[len(ret[-1])-(len(affix)):]
 	return ret+[string]
 def truncWrapMulti(strings, length):
 	ret=[]
