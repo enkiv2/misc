@@ -101,7 +101,7 @@
     akane "Here we are, home sweet home."
     misa "Wow, a horror fan, huh?"
     akane "My father introduced me to it. He's really into giallo."
-    misa "It's not very light-and-and-make-light, is it?"
+    misa "It's not very light-and-make-light, is it?"
     akane "Can you keep a secret?"
     misa "Of course."
     akane "I don't really believe in that stuff."
