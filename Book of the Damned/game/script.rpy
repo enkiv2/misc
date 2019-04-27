@@ -1,18 +1,18 @@
 ﻿label start:
     window hide
-    scene bg black
+    scene black
     centered "{color=#fff}{cps=15}\"Witchcraft always has a hard time, until it becomes established and changes its name.\"{/cps}{/color}"
     extend "{color=#fff}{cps=15}\n{space=500}- Charles Fort,{/cps}{/color}"
     extend "{color=#fff}{cps=15}\n{space=400}            Lo!{/cps}{/color}"
-    scene bg white with dissolve
-    scene bg black with dissolve
+    scene white with dissolve
+    scene black with dissolve
     centered "{color=#fff}{cps=20}In the year 2012, in the small town of Yomiyama, a series of deaths occurred.{/cps}{/color}"
     extend "{color=#fff}{cps=20}\nDespite investigation, many mysteries remain.{/cps}{/color}"
     extend "{color=#fff}{cps=20}\nBelow the surface of this town, a great deal of machinery was in motion.{/cps}{/color}"
     centered "{color=#fff}{b}PART 1{/b}: {i}Wild Talents{/i}{/color}"
     centered "{color=#fff}{b}15th March, 2012{/b}{/color}"
     window show
-    scene bg taxi rain
+    scene taxi rain
     "Taxi driver" "They sure picked a bad night to move you in, didn't they, miss?"
     misa "Yes, bad luck, isn't it?"
     misa "{i}Worse, since I'm stuck with such a perv for a driver...{/i}"
@@ -21,7 +21,7 @@
     scene kuroki van rain splash
     misa "Driver, pick up that man please."
     "Taxi driver" "Understood."
-    scene bg taxi rain
+    scene taxi rain
     n "The driver pulled up to the broken-down van and idled the engine, rolling down his window."
     "Stranded man" "Any chance of helping out a poor traveler? I need a ride to the nearest police box."
     "Taxi driver" "That's up to my passenger."
@@ -47,13 +47,13 @@
     "Taxi driver" "You'll have to walk the rest of the way up to the house. This path is not accessible to cars."
     misa "Thank you."
     n "She got out of the car and grabbed her bag."
-    scene bg moonlit house path entrance
+    scene moonlit house path entrance
     n "Even though it was night, the moon was bright enough in the now-clear sky that she didn't need to pull out her phone for illumination."
-    scene bg moonlit house path
+    scene moonlit house path
     n "Nevertheless, thick fog gathered around her heels, and the chill made her wish she had worn leggings."
-    scene bg moonlit house
+    scene moonlit house
     n "The building rose out of the fog, in the center of a clearing surrounded by trees. It was old, and western-style, but clearly well-maintained: the elaborate stonework had no grime, let alone moss. Someone must have been hired to clean all the crevices in the past few weeks, probably as part of opening it up as a dormitory."
-    scene bg moonlit door
+    scene moonlit door
     n "Misa knocked on the ornate door, but no answer came."
     menu:
         "Try the knob.":
@@ -66,7 +66,7 @@
     extend "{i} ...wait. You can hear me?{/i}"
     extend "{i} Are you another telepath? Where are you?{/i}"
     n "The door opened."
-    scene bg nave evening
+    scene nave evening
     show akane at right
     "Strange girl" "Hi, are you another guest?"
     show misa at left
@@ -89,15 +89,15 @@
     akane "Apparently he has the whole second floor to himself, which means that those two staircases are his too."
     akane "Here, why don't you come to my room until Yuuko shows? She's probably delayed by the storm."
     misa "This is an awfully oddly laid-out building. Where are the rooms?"
-    scene bg map
+    scene map
     akane "Apparently it's laid out like a church, or a cathedral, or something. Those doors to the left and right there lead to short hallways that lead to longer hallways against the left and right side of the building."
     akane "The rooms are off those long hallways."
     akane "Mine is on the left hand side, the first door on the left: room 3."
-    scene bg hall short
+    scene hall short
     akane "The electric system here is old-fashioned, so you'll have to get an adapter if you want to charge your phone."
-    scene bg hall long night
+    scene hall long night
     misa "Really? I would have thought they'd update it when they were doing the other maintenance."
-    scene bg akane room
+    scene akane bedroom
     akane "Here we are, home sweet home."
     misa "Wow, a horror fan, huh?"
     akane "My father introduced me to it. He's really into giallo."
@@ -129,4 +129,4 @@
     n "Misa cut the deck."
     akane "Here we go."
     n "Akane put cards down one after another on the comforter between them, making a sort of pattern."
-    scene bg tarot
+    scene tarot
