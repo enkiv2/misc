@@ -50,4 +50,46 @@
     scene bg moonlit house path entrance
     n "Even though it was night, the moon was bright enough in the now-clear sky that she didn't need to pull out her phone for illumination."
     scene bg moonlit house path
-    n "Nevertheless, thick fog gathered around her heels.
+    n "Nevertheless, thick fog gathered around her heels, and the chill made her wish she had worn leggings."
+    scene bg moonlit house
+    n "The building rose out of the fog, in the center of a clearing surrounded by trees. It was old, and western-style, but clearly well-maintained: the elaborate stonework had no grime, let alone moss. Someone must have been hired to clean all the crevices in the past few weeks, probably as part of opening it up as a dormitory."
+    scene bg moonlit door
+    n "Misa knocked on the ornate door, but no answer came."
+    menu:
+        "Try the knob.":
+            $ pass
+        "Wait.":
+            $ pass
+    misa "{i}Who is that?{/i}"
+    $ name = renpy.input("Name: ")
+    misa "{i}Who the fuck is ${name}?!{/i}"
+    extend "{i} ...wait. You can hear me?{/i}"
+    extend "{i} Are you another telepath? Where are you?{/i}"
+    n "The door opened."
+    scene bg nave evening
+    show akane at right
+    "Strange girl" "Hi, are you another guest?"
+    show misa at left
+    misa "Yes. Are you..."
+    "Strange girl" "My name is Akane. I'm also staying here. Pleased to meet you."
+    misa "Ak--- That's an unusual surname. I'll bet you get a lot of people thinking it's your given name."
+    akane "It is!"
+    misa "But we just met..."
+    akane "I go by only one name. Like Gackt."
+    misa "O-- Oh..."
+    misa "I'm Umeji Misa. Pleased to meet you."
+    akane "Umeji-san, huh?"
+    misa "I wonder... Is my sister here yet? Umeji Miko. We're both staying here."
+    akane "Sorry to say, you're the second to arrive."
+    misa "Then even the Master---"
+    akane "Yup! I got here yesterday, and so special arrangements were made for me, but until Yuuko gets here nobody else can even move into their rooms."
+    misa "Yuuko?"
+    akane "She and I went to school together, back in Shibuya. She's acting as the house mother, so she's got all the room keys."
+    misa "I suppose the Master shouldn't be bothered with such a task..."
+    akane "Apparently he has the whole second floor to himself, which means that those two staircases are his too."
+    akane "Here, why don't you come to my room until Yuuko shows? She's probably delayed by the storm."
+    misa "This is an awfully oddly laid-out building. Where are the rooms?"
+    scene bg map
+    akane "Apparently it's laid out like a church, or a cathedral, or something. Those doors to the left and right there lead to short hallways that lead to longer hallways against the left and right side of the building."
+    akane "The rooms are off those long hallways."
+    akane "Mine is on the left hand side, the first door on the left: room 3."
