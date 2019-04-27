@@ -89,11 +89,11 @@
     akane "Apparently he has the whole second floor to himself, which means that those two staircases are his too."
     akane "Here, why don't you come to my room until Yuuko shows? She's probably delayed by the storm."
     misa "This is an awfully oddly laid-out building. Where are the rooms?"
-    scene map
+    scene house map
     akane "Apparently it's laid out like a church, or a cathedral, or something. Those doors to the left and right there lead to short hallways that lead to longer hallways against the left and right side of the building."
     akane "The rooms are off those long hallways."
     akane "Mine is on the left hand side, the first door on the left: room 3."
-    scene hall short
+    scene hall short night
     akane "The electric system here is old-fashioned, so you'll have to get an adapter if you want to charge your phone."
     scene hall long night
     misa "Really? I would have thought they'd update it when they were doing the other maintenance."
@@ -101,7 +101,7 @@
     akane "Here we are, home sweet home."
     misa "Wow, a horror fan, huh?"
     akane "My father introduced me to it. He's really into giallo."
-    misa "It's not very light-and-make-light, is it?"
+    misa "It's not very light-and-and-make-light, is it?"
     akane "Can you keep a secret?"
     misa "Of course."
     akane "I don't really believe in that stuff."
