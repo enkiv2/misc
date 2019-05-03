@@ -1,0 +1,520 @@
+"How would the world look different if X was true?”
+%
+“One man’s modus ponens is another man’s modus tollens.”
+%
+“Name three examples.”
+%
+“Simplicity does not precede complexity, but follows it.”
+%
+“By convention sweet is sweet, bitter is bitter, hot hot, cold cold, and color color; but in truth there is only atoms and the void.”
+%
+“If someone does not believe in fairies, he does not need to teach his children ‘There are no fairies’; he can omit to teach them the word ‘fairy’.”
+%
+“He [Omar Khayyam] is an atheist, but knows how to interpret in orthodox style the most difficult passages of the Koran; for every educated man is a theologian and faith is no requisite.”
+%
+“‘I don’t speak’, Bijaz said. ‘I operate a machine called language. It creaks and groans, but is mine own.’”
+%
+“I am Loyal to the Group of Seventeen.”
+%
+“Causes are differences which make a difference.”
+%
+“The would-be sorcerer alone has faith in the efficacy of pure knowledge; rational people know that things act of themselves or not at all.”
+%
+“The enlightened man is one with the law of causation.”
+%
+“Since the beginning / not one unusual thing has happened.”
+%
+“Now, Charlie, don’t forget what happened to the man who suddenly got everything he wished for.”
+“What?”
+“He lived happily ever after.”
+%
+“The fox condemns the trap, not himself.”
+%
+“If the fool would persist in his folly he would become wise…You never know what is enough unless you know what is more than enough.”
+%
+“You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.”
+%
+“In expressing full function, there are no fixed methods.”
+%
+“Everything is correlated.”
+%
+“Correlation≠causation.”
+%
+The Law of Truly Large Numbers: “With a large enough sample, any outrageous thing is likely to happen.”
+%
+“The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.”
+%
+[of the observation RCTs would harm half the subjects] “Which half?”
+%
+“All processes that are stable we shall predict. All processes that are unstable we shall control.”
+%
+“Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin.”
+%
+“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”
+%
+“‘Should we trust models or observations?’ In reply we note that if we had observations of the future, we obviously would trust them more than models, but unfortunately observations of the future are not available at this time.”
+%
+“They strain at the gnat of the prior who swallow the camel of the likelihood.”
+%
+“Extraordinary claims require extraordinary proof.”
+%
+“Absence of evidence is evidence of absence.”
+%
+“GIGO.”
+%
+“Commoditize your complement.”
+%
+“There is a great deal of ruin in a nation.”
+%
+“Proof of Trotsky’s farsightedness is that none of his predictions have yet come true.”
+%
+“The optimal number of X is not 0.”
+%
+“Don’t let the perfect be the enemy of the good.”
+%
+“If something is worth doing, it’s worth doing poorly.”
+%
+“Never reason from a price change.”
+%
+“Disagree and commit”
+%
+“All statistical problems are decision problems.”
+%
+“When two do the same, it’s not the same.”
+%
+“Beliefs are for actions.”
+%
+“If people don’t want to come to the ballpark how are you going to stop them?”
+%
+The Iron Law of Evaluation: “The expected value of any net impact assessment of any large scale social program is zero.”
+%
+The Stainless Steel Law of Evaluation: “The better designed the impact assessment of a social program, the more likely is the resulting estimate of net impact to be zero.”
+%
+“One can’t proceed from the informal to the formal by formal means.”
+%
+“It is easier to write an incorrect program than understand a correct one.”
+%
+“Beware of bugs in the above code; I have only proved it correct, not tried it.”
+%
+“When you have eliminated the impossible, whatever remains is often more improbable than your having made a mistake in one of your impossibility proofs.”
+%
+“The complexity you add to a complex system to prevent failure is itself a major source of failure.”
+%
+“Attacks only get better.”
+%
+“Do not summon up that which you cannot put down.”
+%
+“The strong do what they will, and the weak suffer what they must.”
+%
+“Everything is heritable.”
+%
+“Organisms are adaptation-executors, not fitness-maximizers.”
+%
+Amara’s Law: “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.”
+%
+Algernon’s law: “Any simple major enhancement to human intelligence is a net evolutionary disadvantage.”
+%
+Goodhart’s law: “When a measure becomes a target, it ceases to be a good measure.”
+%
+“One man’s constant is another man’s variable.”
+%
+“Everything should be built top-down, except the first time.”
+%
+“Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.”
+%
+“Most people find the concept of programming obvious, but the doing impossible.”
+%
+“Tool AIs want to be agent AIs.”
+%
+“The future is already here, it’s just unevenly distributed.”
+%
+“The Great Work goes on.”
+%
+Cowen’s Second Law: “There is a literature on everything.”
+%
+“Authors write things down to forget them.”
+%
+“When two thieves meet, they need no introduction.”
+%
+“Often, I must calculate otherwise than I think. That is called diplomacy.”
+%
+Surprising linear models work at all, when they are the worst functional language ever: only operator *, n variables, n assignments, & output=sum.
+%
+When critiquing a paper, go for the jugular: any part with the words “presumably”, “obviously”, “past research”, or “studies show”. (If a sentence cannot survive having the word “just” removed from it, it does not deserve to.)
+%
+Tip: try to read the appendixes of research papers as well. Surprisingly often big results, not just caveats & flaws, will be buried in them
+%
+If your local meta-analyst or methodologist is not either an alcoholic or an insufferable jerk, they may be doing it wrong.
+%
+There’s always someone who can make a perpetual motion machine complicated enough that you, personally, can’t figure it out.
+%
+“Remember, citizens, fulltext is our first line of defense against science journalism!”
+%
+We can sleep soundly because rough men stand ready with blogs willing to do violence to papers on our behalf.
+%
+When does measurement error matter? If you can’t write “X correlates with Y” as “X correlates with scribbled survey asking about Y” without qualm.
+%
+The use of confidence intervals rather than p-values is a clear improvement; it makes our difficulties vanish like smoke in a fog.
+%
+p-value testing is weird, but with multiple correction, it gets even weirder: the more you measure & model, the less you know.
+%
+Power vs error vs sample size: painful tradeoff of statistics. Sins of omission, commission, & risk aversion—painful tradeoff of life?
+%
+Not doing power analysis with informative priors is searching a haystack of unknown size for a needle which probably isn’t there.
+%
+Power analysis: if there is enough light to find the needles in the haystack; variance component analysis: if there are any needles at all.
+%
+Heritability is like tossing a haystack into a furnace & fractioning the slag: you know the ratio of haystack:needle; but not where the needles were, how big the haystack was, whether many small needles painted yellow or a few big spears, how sharp the needles were, or your neighbor’s percentages.
+%
+It’d be nice if people cared about systematic vs sampling error, Bayesian methods, informative priors & design more than once every 4 years.
+%
+“If you ever decide unbiasedness isn’t too high price to pay for saving posteriors from entropy, let Bayes know. He’ll be ready.” ／人◕‿‿◕人＼
+%
+Remember: p-values are not posterior probabilities are not effect sizes are not utilities are not profits are not decisions.
+%
+All analyses are ultimately decision analyses. We can ignore that for convenience, but we must never forget that.
+%
+Our beliefs are continuous, but our actions discrete. This leads to analysis paralysis; can one execute wholeheartedly on +EV actions with P=1% just as well as when P=99%?
+%
+“Disagree and commit” to courses of action—Thompson posterior sampling for solving the MDP of life.
+%
+Beware geeks bearing percents.
+%
+To mine for forgotten gold in a field, look for its most austere & mathematical subfield—mathematicians are terrible at marketing.
+%
+RCTs : traditional Western medicine :: Nixon recordings : presidents :: DNA testing : courts :: priest abuse : Catholic Church :: cellphones/body cameras : police :: Wikileaks : geopolitics :: Soviet archives : espionage accusations :: Snowden : computer security :: GWASes : candidate-gene studies
+%
+We will know AI has succeeded not when we anthropomorphize machines, but when we unanthropomorphize humans.
+%
+The life of a neuron in Hebbian learning is oft nasty, brutish & short; cells must wire & fire together to survive, thus creating LevAIthan.
+%
+When I was a little kid, I thought cars told their drivers where to go (using their turn signals). It took a while, but eventually, I was right.
+%
+Why do humans have such large costly brains? Cats and chimps can see or walk as well as us.—Because the decisions we make least with little feedback or rewards based on big data over a lifetime can matter the most. We may be at our most human while filling out the paperwork for life insurance. (With deep learning, the new Moravec’s paradox is not that AI finds hardest what we find the easiest, but that AI needs to be smallest—NN parameter count—what we need to be biggest!)
+%
+The news offers a fixed selection of the most extreme outlier (or should that be ‘outliar’?) datapoints, but the global population becomes larger every day. Thus my corollary to Littlewood’s law:
+%
+“Human extremes are not only weirder than we suppose, they are weirder than we can suppose.”
+%
+Science increasingly requires precise predictions which can fail, a willingness to fail, and sharing of the data demonstrating failure. Like honesty & simplicity, these are prices the most prestigious, wealthiest, and powerful find most difficult to pay.
+%
+Whenever I feel maybe the FDA and big blind clinical trials are unnecessary, I go read Longecity threads until the feeling passes.
+%
+Count on it: the most humane organizations oft have the most inhumane results. Save us from those who prefer being or seeming good to doing or giving well!
+%
+Paleo? Atkins? Low-carb? Mediterranean? Maybe it is time to step back and ask: what should be the epistemology of food?
+%
+Correlation≠causation: in causal inference classes, the first lesson taught, and the last lesson learnt.
+%
+Observational science on the cheap is often neither science nor cheap.
+%
+Every normal man must be tempted now & then to sharpen knives, hoist a black flag, and run amok, shouting “No causation without randomization!”
+%
+If you consider them in terms of QALYs lost, school is at least as harmful to your health as smoking—and far more expensive.
+%
+Paul Krugman notes you can look like an insane raving loon just reciting economics textbook contents in a loud voice; likewise, behavioral genetics.
+%
+Some ask if behavioral genetics has made me nihilistic and feeling all is futile. But I have to believe in free will—my whole family does.
+%
+Àrxi vu (/ˈärˌkīv ˈvuː/; n.): when you read a newly-published paper and are haunted by the feeling you read a longer, better, version 2 years ago on ArXiv/BioRxiv.
+%
+On genetic engineering and AI risk, optimist: “we can’t afford to worry about risks with survivors”; pessimist: “we can’t afford worry about risks without survivors”.
+%
+Disappointments: when 23, reading a paper, realizing: “this is Peak Human. You may not like it, but this is it”. I had grown up: now differences were quantitative, not qualitative. (Never again would I see leaps like object permanence, theory of mind, numbers/counting, reading, the future, death, sarcasm, logic, game theory, programming, statistics… All it took to reach the human frontier was a mere 20 years.)
+%
+it is easier to invent a buggy “reliable” system than it is to understand a bugfree reliable system.
+Corollary: no one understands a working complex system.
+%
+the complexity you add to a complex system to prevent failure is itself a major source of failure.
+%
+Like in security, the worst possible state for a power cord, USB cable, or database is half working.
+%
+Proving properties about systems reveals bugs; it doesn’t matter what property you prove! Similarly, a little fuzz testing goes a long way: your system is probably not robust even to a cat walking across a keyboard.
+%
+The soul of modern man is so fallen & mutilated that he can feel despair only when trapped in dependency hell.
+%
+One programmer’s dependency solution is another’s version conflict.
+%
+Whether to check preconditions before a loop, or after: this is to define sanity and insanity.
+%
+Programmers’ chairs and keyboards cause RSIs of the body; but what RSIs of the mind?
+%
+Will a just & merciful developer condemn good programs to bad smartphones?
+%
+We have abstracted away from for loops over arrays; but what idiom will abstract away the loops of our lives?
+%
+Backups are confronting one’s fallibility & the transience of the world; we should not be surprised so few can do it.
+%
+When was the last time you saw American programmers worry about Indians? A lesson there. But don’t ask an Indian developer what, ask an American.
+%
+The pre-Internet PC was the real Wild West: a lone programmer and his compiler against hordes of quandaries.
+%
+A pause on my keyboard for thought—and how peaceful it must be in the CPU, as the nanoseconds slowly tick by…
+%
+“Bugs in working code are moments for reflection: how much we take on faith, because it seems to work!”
+%
+“Helping newbies requires an active memory—of all the times we ourselves failed to read the fucking manual.”
+%
+Is programming Christian or Buddhist? Ask yourself how many of your programs have the Three Marks: anitya, anattā, & dukkha.
+%
+“Once a program has taken on a definite form, it does not lose it until deletion.”
+%
+How can we fear machines will separate humans when even in their source code, we can read the stamp of personality & style?
+%
+“Data, and the formats by which data are communicated, inevitably create a system permeated by illusions.”
+%
+“A truck driver may drive for 20 years without ever improving; it must be confessed that many programmers do little better.”
+%
+“Anyone satisfied by last year’s code is not learning enough.”
+%
+“I do not like this algorithm/language/tool.” “Why?” “I am not up to it.”—anyone, ever?
+%
+“The Internet is embarrassed by the browser.”
+%
+“The HTML page is a stark data format: everywhere it goes, there is duplication of process. It is perfect for hiding information.”
+%
+There is but one constant in every program; and it is [see VM table entry 0x000007FEFC831010 ~> 0x00885ED010 ~> faulting in page...]
+%
+When you become frustrated with computers, please remember they are only cleverly arranged sand. (When you become frustrated with people…)
+%
+“Uproot your functions from their ground and the dangling roots will be seen. More functions!”
+%
+“I think there is a world market for maybe five computers—Google, Amazon, Facebook, Microsoft, and Baidu.”
+%
+A haiku:
+
+The summer garbage -
+the sole remnant of many
+bright engineers' dreams
+%
+All that is necessary for entropy to triumph is for good men to do something.
+%
+We do not go because the traffic light becomes green; the traffic light becomes green because we go.
+%
+To test whether a language despises its users, merely see whether if (a = 1) {...} is valid.
+%
+Web browser developers are condemned to reinvent the OS, poorly. What is to be done about this? What could ever have been done about this?
+%
+…it is clear our technology exceeded our humanity. I do not know in what W3C standard WWWIII.htm will be written, but WWIV will be written in Web Assembler.
+%
+Mozilla now has its own community, browser, cloud, language, userland, and in a final concession to the inevitable—Firefox OS!
+%
+Time-sharing, multi-user mainframes, mainframe VMs, PCs, datacenters, datacenter VMs, Docker, micro-services: the Wheel of Reincarnation yet turns. One must imagine Sysadminus happy.
+%
+C, C#, Go, R, Rust: are these unsearchable names testimony to some feet of clay, or testaments to monstrous egos?
+%
+“Haskellers knows the type of everything & the value of nothing.” Unless they’ve turned on extensions, then neither
+%
+C—fast and efficient and for when you don’t have enough memory to remember things like why you don’t want to use C.
+%
+“C programmers stay sane by imagining that all the other insecure buggy programs are thanks to avoidable unrepresentative reasons.”
+%
+We have made an AI breakthrough! With Prolog, we have created the intelligence of a 2-year-old child: “No. No. No. No.”
+%
+“Creating a new good programming language is so difficult it tends to be only fools who try.”
+%
+“Just as winds preserve seas from stagnation, so also corruption in languages is the result of prolonged calm.”
+%
+“That code is ill-written of which one must repent; as long as the PHP bears no evil fruit, the fool thinks it sweet as honey.”
+%
+Single-paradigm languages are admirable for pushing until it breaks—or doesn’t!; cf Einstein & atomic Brownian motion; Columbus & the “spherical Earth”.
+%
+If you find yourself surprised by man or market, remember you have learned as much about your own thinking as them: revelation comes in twos.
+%
+Bitcoin involves no new primitives or fancy proofs; perhaps cryptographers should all along have been studying sociology, not mathematics.
+%
+The horror of Bitcoin: money really is a social construct! & not always by nice-smelling well-groomed people in sharp suits.
+%
+A modest proposal: end tenure for computer security & cryptography researchers. Given the status quo, if they’re not already rich, they can’t be any good.
+%
+“What is the price of two satoshis—one copper coin? But not a single satoshi can fall to fees without your Eternal Blockchain knowing it.”
+%
+The bravery of innovators: what sustained Satoshi Nakamoto during those lonely days in 2009 when no one cared enough even to attack Bitcoin?
+%
+One weird philosophy trick for analysis! Imagine worlds where X failed: “Sure Bitcoin died: a deflationary currency requiring ever more waste?”
+%
+Let us hope Karpeles will not be the Alcibiades of Bitcoin.
+%
+The optimal number of double-spends is not zero.
+%
+DPR was a genius until he was a fool & a knave; Satoshi was a genius until…?
+%
+Once you get locked into a serious cryptocurrency investment, the tendency is to push it as far as possible & collect all the alts. There is nothing in the world more helpless and irresponsible and depraved than an early ether investor in the depths of an ICO binge.
+%
+“Ulbricht, Ulbricht, Ulbricht! A million coins were not enough for Ulbricht!”
+%
+We criticize Ulbricht for not knowing when to quit & enjoy life; but what are we ourselves refusing to quit?
+%
+Everything looks permanent until its secret is known. For all too many things, the beginning of fear is the beginning of knowledge.
+%
+“A beginning is the time for taking the most delicate care; this every student of the OP SECurity knows.”
+%
+Modest proposal: let’s abandon the term “OPSEC”. Instead, let us refer to the mistakes of Ulbricht, Blake Benthall, MDpro, etc as “OOPSEC”.
+%
+Is crypto-libertarianism self-undermining? Can we handle the sausage factory of the darknet markets?
+%
+When a centralized escrow market claims 1% commissions, it should append an asterisk: “and a one-time 100% fee if hacked or shut down”.
+%
+Multisig vs centralized escrow: proof that convenience is a drug faster & more addictive than the finest heroin.
+%
+Decentralized Bitcoin markets are the future of darknet markets—and I fear always will be.
+%
+Lust for lucre is the root of all evil? Alert the theologians: the number of centralized darknet markets is an index of Satanic activity!
+%
+Good results follow good intentions even as the rain follows the plow.
+%
+If pigs were smart enough to worry: “the humans neither love nor hate you, but you are made of tasty bacon they can use for something else.”
+%
+Optimists: believe everything has been selected to be as efficient as is possible to achieve; pessimists: everything is selected to be as terrible as is possible to get away with.
+%
+“Ricardo’s theorem is the pons asinorum of economics”: it always seems to be employed by asses upon high.
+%
+A roll of the dice succeeds 1 time in 6, and stage magicians can learn to control rolls, while perhaps 1 in 10 startups will be truly a good use of time for the founders & employees and success rates do not increase with experience; perhaps saying a startup is ‘as random as a coin-flip’ and ‘really rolling the dice’ should be taken not as an insult but as the highest of compliments.
+%
+’tis a foolish VC who invests only in things he’s sure of, and not adventures. If a VC doesn’t regularly look foolish, he’s a fool.
+%
+Market volatility is ignorance made visible.
+%
+A modest proposal: replace college with gym memberships. Equal signaling value for Conscientiousness/conformity/discounting; cheaper; objective; equally (un)fair; health benefits; progressive, not regressive; real RCT-verified transfer to IQ & cognition, not hollow gains; positive externalities for looks & taxes; fitness knowledge increasingly useful in increasingly modernized environments & diets, rather than less like traditional schooling knowledge; more easily researched & optimized.
+%
+Copyright and technology are odd—when I was a kid, it was infinitely easier for me to get my hands on 1000-year-old classical Japanese poetry I wanted than on 1 (or 10) year-old Japanese anime; and now it’s the reverse.
+%
+No reward without risk? But risk without reward.
+%
+If you never lose an eBay auction, you’re bidding too much.
+%
+If you never return an item to the store, you’re buying too few things.
+%
+If everyone in your class gets an “A”, you’re not teaching enough.
+%
+If all freshmen in a major earn their degree, too few are dropping out.
+%
+If all your experiments work, you’re just fooling yourself.
+%
+If you eat all your food before it goes bad, you’re eating too much bad food.
+%
+If none of a city’s buildings collapse in an earthquake, construction standards are too costly.
+%
+If your NASA rover program is serious about “fast and cheap”, 0 is the wrong number of rover failures.
+%
+If your Proof-of-Work cryptocurrency never has double-spends, the (miner) rent is too damn high.
+%
+If there isn’t blatant waste in an economy, too many people are looking for waste.
+%
+If a race car survives the race, it’s over-engineered.1
+%
+If your self-driving car fleet never runs people over, it’s being rolled out too slowly.
+%
+If you recall your cars for every defect, you’re recalling too many cars.
+%
+If your packets are never corrupted, you’re wasting too much computation on error-correction & reliability.
+%
+If your new AI program is undefeatable by humans, you waited too long to run the tournament. (If your superintelligence isn’t relatively close to human level, you’re holding off too long on turning the earth into computronium.)
+%
+Dark Lordisms: if you’re getting into pitched battles with heroes or armies, you’re not using dark enough magic.
+%
+If you keep going to the funerals of your enemies, you have too many enemies.
+%
+The final Umeshism: If everything you do is easy, you’re underachieving.
+%
+If you’ve never dropped any courses, it’s because education is not about human capital.
+%
+Hansonism: one should never drop any courses, because education is not about human capital.
+%
+If you’ve never changed your favorite charity based on cost-benefit, it’s because charity is not about helping.
+%
+If you’ve never dropped a bad book, it’s because reading isn’t about gaining knowledge.
+%
+If you’ve never changed your mind publicly, it’s because politics isn’t about policy.
+%
+38. “The world is not what anyone wished for, but it’s what everyone wished for.”
+%
+James Richardson, Vectors: Aphorisms & Ten-Second Essays 2001
+%
+Why do hairdryers blow fuses? Because if they didn’t, you would buy a hotter hairdryer.
+%
+Why is it so hard to get competent, hardworking, volunteers? Because if they’re any good, they already have too much work to do.
+%
+If books weren’t so long that they were tiring to read, authors would make them longer.
+%
+Why do returns diminish? Because if they didn’t, someone would reinvest in earning returns in an exponential spiral of wealth until they did diminish.
+%
+Why are worthwhile things often so hard to do? Because if things worth doing were easy, everyone would do the pleasant things and avoid the unpleasant things until the hard things were most worth doing.
+%
+Why are infections so fatal? Because if the viruses & bacteria didn’t take risks & engage in overkill, they couldn’t get past our adaptive immune system and would be selected against. Why can’t we have simple cheap innate immune systems? Because then we would be selected against by the current viruses & bacteria…
+%
+Why are so many of the people you date crazier, uglier, meaner, or poorer than you’d prefer? Because if they weren’t, they’d already be taken.
+%
+Rumeshism: Why is the rum is gone? Because if there were more rum, people would drink more rum.
+%
+Those startups who least need VC investment & deliver lowest expected returns are those who receive the most VC offers of investment.
+%
+Those who most want a girlfriend are the least successful in asking girls out.
+%
+Those people with the most need for Conscientiousness & depression treatment are those least able to follow therapy like CBT.
+%
+Those schizophrenics with the most need for medication are those least likely to keep taking it.
+%
+The most ignorant who most need to follow advice & instructions are least likely to understand their need.
+%
+Countries which most need to fight corruption are least able to do so.
+%
+…Merit-based admissions aid/scholarships; being rich and getting a loan; applying for jobs…
+%
+How would the world look any different than it does now if X were true? You say “because of X”, but where does X come from?
+%
+To learn to build sandcastles on the beach is to learn to live and die an atheist. (“Here on the level sand…”)
+%
+“Everyone knows what would be best for them to do—tomorrow.”
+%
+“Neo, what if I told you… everything you knew was correct?” (That would be the biggest disappointment ever.)
+%
+At times, tolerance can be the most radical of positions to take; just watch when a weak group gains power.
+%
+“Reading a flame war: and all you people must once have been little children, who smiled of a summer day.”
+%
+Imagine a world where the just world and fundamental attribution bias were correct, and karma existed. Wouldn’t that be unspeakably tragic?
+%
+War seeks to mold physical conditions as one wishes; art seeks to mold minds as one wishes. Both are based on deception.
+%
+Art is often hatred: it shows the past, or future, or far-away but never the present moment. Anti-art: a TV & camera showing th viewer.
+%
+The “fallacy of gray” or the “fallacy of grey”? My suggestion “the fallacy of græy” was rejected without, I thought, proper consideration.
+%
+I have made progress in my meditations: yesterday I told myself one truth, and only nine lies.
+%
+Blackmail is a rent on hypocrisy, either personal or societal.
+%
+Adulthood is accepting no one will save you anymore; from this, all else follows.
+%
+As the global population grows, the extremes become more extreme; they become not just weirder than we suppose, but weirder than we can suppose.
+%
+“But he was sincere”, we say of someone, when finally no defensibility is possible than the possibility of defeasibility.
+%
+An aphorism is an algorithm, of we know not what input, we know not what output.
+%
+“It is easier to write an incorrect epigram than understand a correct one.”
+%
+Voltaire’s Third Law: for every aphorism, there is an equal and opposite anti-aphorism
+%
+The epigram is a compressed, golfed, idea, with all the virtues—and sins—of golfed code.
+%
+If we measure the entropy of epigrams by how many people understand them, who is the gzip of epigrams? The xz? (…the ZPAQ…?)
+%
+Remember! Most strings are incompressible, most reals uncomputable, most theorems unprovable, most programs undecidable.
+%
+Should languages support the writer’s convenience or the reader’s understanding? Frame it as a status debate, and all becomes clear.
+%
+Fear not known but unknown propaganda; I have the utmost respect for Pravda—how else will you know what to not believe?
+%
+Writing down your ideas takes 90% of the time; debugging code takes another 90% of the time; rewriting takes the third 90% of the time…
+%
+A day with nothing unusual is an unusual day. Fiction writers & GANs must include the improbable to be probable. Spend surprisal shrewdly.
+%
+Transhumanism’s victory can be seen in how few now bother with the word.
+%
+The meta “M” hierarchy: methodologies over models over materials (raw data) over memories (anecdotes)
+%
+Remember for later the point of reading a manual: it is not to remember everything that is in it for later but to later remember that something is in it.
+%
+
