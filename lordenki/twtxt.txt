@@ -7219,3 +7219,6 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-03T08:12:35-04:00	Apparently 'fire can't burn oak beams' is the new 'jet fuel can't melt steel beams' https://www.poynter.org/fact-checking/2019/facebook-users-are-posting-videos-of-themselves-lighting-wood-on-fire-to-spread-hoaxes-about-the-notre-dame-fire/
 2019-05-03T09:29:58-04:00	The Explore-Exploit Dilemma in Media Consumption - Gwern.net https://www.gwern.net/Media-RL
 2019-05-03T09:46:33-04:00	Epigrams - Gwern.net https://www.gwern.net/Epigrams
+2019-05-03T09:56:47-04:00	Google’s latest AI art project turns your face into a ‘poem portrait’ - The Verge https://www.theverge.com/2019/5/2/18526783/google-ai-art-project-poem-portrait-es-devlin-ross-goodwin
+2019-05-03T10:03:10-04:00	My Childhood in a Cult | The New Yorker https://www.newyorker.com/magazine/2019/05/06/my-childhood-in-a-cult
+2019-05-03T10:26:17-04:00	Wikitorial History: The Los Angeles Times’ Failed Wiki Experiment https://tedium.co/2019/05/02/wikitorial-history-los-angeles-times/
