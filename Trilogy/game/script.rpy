@@ -283,7 +283,7 @@ label turkeys:
     quote  "{font=JIANGKRIK.otf}The birds kept coming in thicker.{/font}"
     nvl clear
     quote  "{font=JIANGKRIK.otf}She wore rubber rain boots that went up above her knees, tucked into her pants.{/font}"
-    quote  "{font=JIANGKRIK.otf}Nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the outside of the boot, beaks and claws and little bones pressing into her flesh.{/font}"
+    quote  "{font=JIANGKRIK.otf}Nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the inside of the boot, beaks and claws and little bones pressing into her flesh.{/font}"
     nvl clear
     quote  "{font=JIANGKRIK.otf}As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe.{/font}"
     nvl clear
