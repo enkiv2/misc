@@ -73,6 +73,7 @@ label lazarus_pose:
     nvl clear
     comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
 label house_on_foulness:
+    scene black
     quote  "THE HOUSE ON FOULNESS"
     nvl clear
     quote  "{font=AquilineTwo.ttf}2nd April, 1919{/font}"
@@ -249,6 +250,7 @@ label house_on_foulness:
     comment "XXX various characters comment on the story, and then Aoi goes last, with SHE AWAITED THE TURKEYS"
 
 label turkeys:
+    scene black
     quote "SHE AWAITED THE TURKEYS"
     nvl clear
     quote "The load-bearing wall groaned behind her. She would need to move again soon."
