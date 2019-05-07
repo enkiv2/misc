@@ -15,61 +15,61 @@ label lazarus_pose:
     quote  "THE LAZARUS POSE"
     nvl clear
     scene  newspaper
-    quote  "February 23, 2025"
+    quote  "{font=uwch.ttf}February 23, 2025{/font}"
     nvl clear
-    quote  "Two weeks ago, when the first manned ship to Mars exploded, even if nation states wanted to cover it up, such a thing would be impossible."
-    quote  "The scale and suddenness of this event exposed the the internet cranks' claims of international conspiracy as wishful thinking."
-    quote  "Much speculation about the evidence caught on radar and sattelite imagery has occurred, but to my knowledge, I am the only one to directly investigate the black squares."
+    quote  "{font=uwch.ttf}Two weeks ago, when the first manned ship to Mars exploded, even if nation states wanted to cover it up, such a thing would be impossible.{/font}"
+    quote  "{font=uwch.ttf}The scale and suddenness of this event exposed the the internet cranks' claims of international conspiracy as wishful thinking.{/font}"
+    quote  "{font=uwch.ttf}Much speculation about the evidence caught on radar and sattelite imagery has occurred, but to my knowledge, I am the only one to directly investigate the black squares.{/font}"
     nvl clear
     scene  rocket
-    quote  "Let me first reiterate the obvious:"
-    quote  "the Heart of Gold was the largest, fastest space vehicle humans have ever built by a large margin, and took a great deal of time and capital."
-    quote  "It was one month into the three month trip."
-    quote  "The things that intercepted it were of comparable size, and the time from when the squares in Siberia and the Outback first appeared and impact was only twenty minutes."
-    quote  "This was not part of the abandoned Soviet Dead Hand interception system; the Soviets could not have built a device this size."
+    quote  "{font=uwch.ttf}Let me first reiterate the obvious:{/font}"
+    quote  "{font=uwch.ttf}The Heart of Gold was the largest, fastest space vehicle humans have ever built by a large margin, and took a great deal of time and capital.{/font}"
+    quote  "{font=uwch.ttf}It was one month into the three month trip.{/font}"
+    quote  "{font=uwch.ttf}The things that intercepted it were of comparable size, and the time from when the squares in Siberia and the Outback first appeared and impact was only twenty minutes.{/font}"
+    quote  "{font=uwch.ttf}This was not part of the abandoned Soviet Dead Hand interception system; the Soviets could not have built a device this size.{/font}"
     nvl clear
     scene  twitter
-    quote  "I got lucky: I was on Twitter when the news hit."
-    quote  "I immediately booked a red-eye flight to Siberia; after all, the Australian square would be much harder to travel to. I bought every drone for sale in the airport mall."
+    quote  "{font=uwch.ttf}I got lucky: I was on Twitter when the news hit.{/font}"
+    quote  "{font=uwch.ttf}I immediately booked a red-eye flight to Siberia; after all, the Australian square would be much harder to travel to. I bought every drone for sale in the airport mall.{/font}"
     nvl clear
     scene  siberia
-    quote  "The Siberian square, like the Australian one, was about a mile across."
-    quote  "When it opened, it caused a building above it to collapse."
-    quote  "I imposed upon the landlord of this building; luckily, there were no tenants at the time, though the landlord suspects that some squatters may have been lost."
+    quote  "{font=uwch.ttf}The Siberian square, like the Australian one, was about a mile across.{/font}"
+    quote  "{font=uwch.ttf}When it opened, it caused a building above it to collapse.{/font}"
+    quote  "{font=uwch.ttf}I imposed upon the landlord of this building; luckily, there were no tenants at the time, though the landlord suspects that some squatters may have been lost.{/font}"
     nvl clear
     scene  hole
-    quote  "With a hole a mile across, it's reasonable to expect quite a bit of depth."
-    quote  "The scale of the things launched from here gave me a bit of an estimate: at least 800 feet."
-    quote  "I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%."
+    quote  "{font=uwch.ttf}With a hole a mile across, it's reasonable to expect quite a bit of depth.{/font}"
+    quote  "{font=uwch.ttf}The scale of the things launched from here gave me a bit of an estimate: at least 800 feet.{/font}"
+    quote  "{font=uwch.ttf}I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%.{/font}"
     nvl clear
     scene  hole2
-    quote  "My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead."
-    quote  "After 200 feet, the space opened up: my drone's cameras, radar, and sonar all couldn't find edges."
-    quote  "There wasn't much to see, other than a lot of dust."
-    quote  "About a hundred feet lower, some debris (presumably from the collapsed buildings) sat atop a blunt cone made of a material that resembles smooth concrete."
-    quote  "I had my lead drone land on the cone to get a closer look."
+    quote  "{font=uwch.ttf}My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead.{/font}"
+    quote  "{font=uwch.ttf}After 200 feet, the space opened up: my drone's cameras, radar, and sonar all couldn't find edges.{/font}"
+    quote  "{font=uwch.ttf}There wasn't much to see, other than a lot of dust.{/font}"
+    quote  "{font=uwch.ttf}About a hundred feet lower, some debris (presumably from the collapsed buildings) sat atop a blunt cone made of a material that resembles smooth concrete.{/font}"
+    quote  "{font=uwch.ttf}I had my lead drone land on the cone to get a closer look.{/font}"
     nvl clear
     scene  hole3
-    quote  "From the perspective of the tip of the cone, I could see a vast grid of similar cones in all directions."
+    quote  "{font=uwch.ttf}From the perspective of the tip of the cone, I could see a vast grid of similar cones in all directions.{/font}"
     scene  hole_collapse
-    quote  "However, the lead cone (and others) began to move; tremors made the building I was staying in become unstable, and I had to flee."
-    quote  "Unfortunately, my recordings were lost when the building collapsed on top of my computer, during the square's closure."
+    quote  "{font=uwch.ttf}However, the lead cone (and others) began to move; tremors made the building I was staying in become unstable, and I had to flee.{/font}"
+    quote  "{font=uwch.ttf}Unfortunately, my recordings were lost when the building collapsed on top of my computer, during the square's closure.{/font}"
     nvl clear
     scene  sat
-    quote "From public sattelite imagery, it seems that the other square closed during the same two hour window; I suspect that it actually closed simultaneously."
+    quote "{font=uwch.ttf}From public sattelite imagery, it seems that the other square closed during the same two hour window; I suspect that it actually closed simultaneously.{/font}"
     nvl clear
     scene  cold_war
-    quote  "With regard to the mystery of the squares and the tragic demise of our Martian colonists, it is my position that history has repeated itself."
-    quote  "The Soviet dead hand system accidentally recapitulated, in some small way, an antedeluvian drama that once occurred between Earth and Mars, long before the age of man."
-    quote  "We have finally reached the level of technological development necessary to become pitted against our forebears, who while not human were also people of Earth."
-    quote  "However, their defenses are far beyond what we can reasonably wish to escape."
+    quote  "{font=uwch.ttf}With regard to the mystery of the squares and the tragic demise of our Martian colonists, it is my position that history has repeated itself.{/font}"
+    quote  "{font=uwch.ttf}The Soviet dead hand system accidentally recapitulated, in some small way, an antedeluvian drama that once occurred between Earth and Mars, long before the age of man.{/font}"
+    quote  "{font=uwch.ttf}We have finally reached the level of technological development necessary to become pitted against our forebears, who while not human were also people of Earth.{/font}"
+    quote  "{font=uwch.ttf}However, their defenses are far beyond what we can reasonably wish to escape.{/font}"
     nvl clear
-    quote  "How long will we be trapped on this planet by the nervous twitches of a long-dead race?"
-    quote  "The thousands of cyclopean missiles beneath the Siberian tundra are our formidable jailers, along with similar stockpiles who knows where else."
-    quote  "We cannot leave the cradle of earth until we outwit them; but, even something as simple as the door mechanism for this defense system is centuries beyond our technology, and the very existence of a race who could build such things is beyond the current reach of our archaeology."
+    quote  "{font=uwch.ttf}How long will we be trapped on this planet by the nervous twitches of a long-dead race?{/font}"
+    quote  "{font=uwch.ttf}The thousands of cyclopean missiles beneath the Siberian tundra are our formidable jailers, along with similar stockpiles who knows where else.{/font}"
+    quote  "{font=uwch.ttf}We cannot leave the cradle of earth until we outwit them; but, even something as simple as the door mechanism for this defense system is centuries beyond our technology, and the very existence of a race who could build such things is beyond the current reach of our archaeology.{/font}"
     nvl clear
     scene  ancient_aliens
-    quote "Who were the figures in this ancient drama? We have been presented with a mystery whose clues will be inaccessible for the forseeable future."
+    quote "{font=uwch.ttf}Who were the figures in this ancient drama? We have been presented with a mystery whose clues will be inaccessible for the forseeable future.{/font}"
     nvl clear
     comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
 label house_on_foulness:
