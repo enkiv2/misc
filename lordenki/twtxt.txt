@@ -7262,3 +7262,22 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-06T16:20:03-04:00	I've lowered the steam price for Manna for our Malices from .99 to .99.
 2019-05-06T16:37:11-04:00	Somebody's been streaming MfoM: https://www.youtube.com/playlist?list=PLarNapPpbUby9puvdWKA66YDERQBatFMq
 2019-05-06T17:54:31-04:00	I haven't figured out a good pitch for Book of the Damned (it's a haunted house story that coincides with the protagonist leaving a cult) but it has one cool mechanic: the player, YOU, are only *talking* to the protagonist, not controlling her, & must be convincing.
+2019-05-07T07:11:19-04:00	Band name of the day: ambient cream
+2019-05-07T08:16:10-04:00	When time became regular and universal, it changed history | Aeon Essays https://aeon.co/essays/when-time-became-regular-and-universal-it-changed-history
+2019-05-07T08:20:56-04:00	Band name of the day: the chrono-photographic gun
+2019-05-07T08:36:46-04:00	There’s an epidemic of loneliness. Businesses want in. - Vox https://www.vox.com/the-highlight/2019/4/29/18511580/loneliness-co-living-coworking-friend-app-tribe-wework
+2019-05-07T09:07:35-04:00	Band name of the day: frolicking exercises
+2019-05-07T09:47:47-04:00	In the grim dark future of 2025, Microsoft Windows is literally a rebranded copy of wine with no new code, but people pay for it anyway.
+2019-05-07T10:08:53-04:00	Holly Herndon 'PROTO' Interview - Stereogum https://www.stereogum.com/2041686/holly-herndon-proto-interview/franchises/interview/
+2019-05-07T10:15:00-04:00	Distributed consensus revised – Part I | the morning paper https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/
+2019-05-07T10:23:53-04:00	Brian Kernighan interviews Ken Thompson at Vintage Computer Festival East 2019 - YouTube https://www.youtube.com/watch?v=EY6q5dv_B-o
+2019-05-07T10:34:15-04:00	GitHub - chapel-lang/chapel: a Productive Parallel Programming Language https://github.com/chapel-lang/chapel
+2019-05-07T12:26:12-04:00	Band name of the day: death master file
+2019-05-07T12:33:19-04:00	Donut shop ad with slogan 'luck is in the hole' is extremely on-brand for domekano. (Vol 13 page 25)
+2019-05-07T13:08:58-04:00	About CLIPS http://www.clipsrules.net/AboutCLIPS.html
+2019-05-07T13:24:31-04:00	Is Otoboke Beaver really charting? They seem very in-your-face riot-grrl for mainstream radio play...
+2019-05-07T13:28:11-04:00	Heavenly Bodies: Why It Matters That Cyborgs Have Always Been About Disability, Mental Health, and Marginalization | A Future Worth Thinking About http://www.afutureworththinkingabout.com/?p=5396
+2019-05-07T13:41:54-04:00	Since 90% of Trilogy is already written, I probably ought to finish it (convert to renpy, draw all the pretty pictures, compose a sound track) before continuing on to Book of the Damned. Won't, but should.
+2019-05-07T13:43:26-04:00	Band name of the day: arboreonasal bukake
+2019-05-07T14:40:59-04:00	Mathics https://mathics.github.io/
+2019-05-07T15:45:45-04:00	Band name of the day: Hewlett Packard Lovecraft

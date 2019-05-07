@@ -130,3 +130,14 @@
     akane "Here we go."
     n "Akane put cards down one after another on the comforter between them, making a sort of pattern."
     scene tarot
+    comment "XXX tarot scene goes here: Akane reads spread, and Misa reads her mind about some of the meanings she is too polite to explain."
+    scene akane bedroom
+    play sound "sfx/txtmsg.wav"
+    scene cellphone
+    mina "Fun fact: the house you're staying in was built in 1939!"
+    scene akane bedroom
+    akane "Your sister?"
+    misa "My other sister. She likes to send me trivia."
+    akane "Oh yeah?"
+    misa "Apparently this place was built in 1939."
+    akane "It feels older than that..."

@@ -1,4 +1,5 @@
 define quote = nvl_narrator
+define comment = Character("COMMENT") # XXX delete this before launch
 define n = Character("", what_prefix="{i}", what_suffix="{/i}")
 define misa = Character("Umeji Misa")
 define trust_player=0
