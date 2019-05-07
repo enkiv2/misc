@@ -116,7 +116,7 @@ label house_on_foulness:
     quote  "Paris was not the only foolish youthful promise we made in the woods that summer! I had forgotten all the others."
     quote  "I don't know what prompted all those memories to return."
     nvl clear
-    quote  "I awoke early, my room's cold and drafty room becoming hot and stale shortly after sunrise, and so I was able to catch the maid, a Mrs Grant, before she left."
+    quote  "I awoke early, my cold and drafty room becoming hot and stale shortly after sunrise, and so I was able to catch the maid, a Mrs Grant, before she left."
     quote  "She informed me that the reason there is no ferry and no dock here is that the tides would smash them against the island — and from the sounds I heard last night, I believe it!"
     nvl clear
     quote  "She also told me that Master Marsten had moved to London at the beginning of the war, like your father did."
