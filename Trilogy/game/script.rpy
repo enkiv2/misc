@@ -268,7 +268,8 @@ label turkeys:
     quote  "When she was young, her parents and friends thought it was a blessing, and treated it like a parlor trick."
     quote  "They'd make jokes about Disney princesses and sing that Carpenters song."
     nvl clear
-    quote  "It wasn't until she was ten years old that the rate had accelerated to the point of being distressing: her family had to replace the sliding glass doors on the porch with something opaque, and shortly afterward painted the outside of the house a dull rust color to hide the blood."
+    quote  "It wasn't until she was ten years old that the rate had accelerated to the point of being distressing."
+    quote  "Her family had to replace the sliding glass doors on the porch with something opaque, and shortly afterward painted the outside of the house a dull rust color to hide the blood."
     nvl clear
     quote  "When the roof of that house finally collapsed, they were still in denial, unprepared; only she escaped."
     nvl clear
@@ -276,7 +277,8 @@ label turkeys:
     quote  "It was hard to keep track anymore."
     quote  "The birds kept coming in thicker."
     nvl clear
-    quote  "She wore rubber rain boots that went up above her knees, tucked into her pants; nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the outside of the boot, beaks and claws and little bones pressing into her flesh."
+    quote  "She wore rubber rain boots that went up above her knees, tucked into her pants."
+    quote  "Nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the outside of the boot, beaks and claws and little bones pressing into her flesh."
     nvl clear
     quote  "As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe."
     nvl clear
