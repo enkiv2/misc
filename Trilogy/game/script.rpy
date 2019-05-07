@@ -248,15 +248,44 @@ label house_on_foulness:
 
 label turkeys:
     quote "SHE AWAITED THE TURKEYS"
+    nvl clear
     quote "The load-bearing wall groaned behind her. She would need to move again soon."
-    quote "Houses used to last a lot longer. This was the third in as many weeks, and she had put off leaving for longer than was wise: the previous tenants had left furniture, and she had almost convinced herself that the smell of rotting carrion was actually the nearby sewage treatment facility."
-    quote "Taking a claw hammer from the pocket of her mangled overalls, she peeled some of the boards back from the doorjam. Covering her body with a plastic tub, she pushed her way through three or four feet of bloodied feathers and claws. The smell no longer bothered her, but without the tub she would be smothered before she could be crushed, and the tub provided valuable protection from the rain of small winged bodies as she made her way to her next shelter. This area was developed during the last real estate boom, and so almost any house she found would probably be abandoned. She risked a glimpse at the sky, but it was pointless — as usual, the sun was blotted out. For her efforts, she received a white-capped chickadee in the eye."
-    quote "When she was young, her parents and friends thought it was a blessing, and treated it like a parlor trick. They'd make jokes about Disney princesses and sing that Carpenters song. It wasn't until she was ten years old that the rate had accelerated to the point of being distressing: her family had to replace the sliding glass doors on the porch with something opaque, and shortly afterward painted the outside of the house a dull rust color to hide the blood. When the roof of that house finally collapsed, they were still in denial, unprepared; only she escaped."
-    quote "She had been in this development for a year — or maybe two. It was hard to keep track anymore. The birds kept coming in thicker. She wore rubber rain boots that went up above her knees, tucked into her pants; nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the outside of the boot, beaks and claws and little bones pressing into her flesh. As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe."
-    quote "She pushed the door closed, reinforcing it with boards and nails with a practiced ease. Then, satisfied, she turned around to survey the rest of the building. But, the back end of the house had already collapsed: she must have already stayed here!"
-    quote "She heard a banging to her left, and it jogged her memory. This was the place with the wild turkeys."
-    quote "She had thought having turkey would be nice — an easy meal. She had underestimated their strength. That time, she had barely escaped. She had been much stronger then — inside for nearly a month."
-    quote "Unable to imagine herself summoning the strength to pull out the boards and trudge through another deluge, she slumped, her back against the door. She awaited the turkeys."
+    nvl clear
+    quote "Houses used to last a lot longer."
+    quote "This was the third in as many weeks, and she had put off leaving for longer than was wise: the previous tenants had left furniture, and she had almost convinced herself that the smell of rotting carrion was actually the nearby sewage treatment facility."
+    nvl clear
+    quote  "Taking a claw hammer from the pocket of her mangled overalls, she peeled some of the boards back from the doorjam."
+    quote  "Covering her body with a plastic tub, she pushed her way through three or four feet of bloodied feathers and claws."
+    quote  "The smell no longer bothered her, but without the tub she would be smothered before she could be crushed, and the tub provided valuable protection from the rain of small winged bodies as she made her way to her next shelter."
+    quote  "This area was developed during the last real estate boom, and so almost any house she found would probably be abandoned."
+    quote  "She risked a glimpse at the sky, but it was pointless — as usual, the sun was blotted out."
+    quote  "For her efforts, she received a white-capped chickadee in the eye."
+    nvl clear
+    quote  "When she was young, her parents and friends thought it was a blessing, and treated it like a parlor trick."
+    quote  "They'd make jokes about Disney princesses and sing that Carpenters song."
+    quote  "It wasn't until she was ten years old that the rate had accelerated to the point of being distressing: her family had to replace the sliding glass doors on the porch with something opaque, and shortly afterward painted the outside of the house a dull rust color to hide the blood."
+    quote  "When the roof of that house finally collapsed, they were still in denial, unprepared; only she escaped."
+    nvl clear
+    quote  "She had been in this development for a year — or maybe two."
+    quote  "It was hard to keep track anymore."
+    quote  "The birds kept coming in thicker."
+    quote  "She wore rubber rain boots that went up above her knees, tucked into her pants; nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the outside of the boot, beaks and claws and little bones pressing into her flesh."
+    quote  "As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe."
+    nvl clear
+    quote  "She pushed the door closed, reinforcing it with boards and nails with a practiced ease."
+    quote  "Then, satisfied, she turned around to survey the rest of the building."
+    quote  "But, the back end of the house had already collapsed: she must have already stayed here!"
+    nvl clear
+    quote  "She heard a banging to her left, and it jogged her memory."
+    quote  "This was the place with the wild turkeys."
+    nvl clear
+    quote  "She had thought having turkey would be nice — an easy meal."
+    quote  "She had underestimated their strength."
+    quote  "That time, she had barely escaped."
+    quote  "She had been much stronger then — inside for nearly a month."
+    nvl clear
+    quote  "Unable to imagine herself summoning the strength to pull out the boards and trudge through another deluge, she slumped, her back against the door."
+    quote  "She awaited the turkeys."
 
 label end:
     return
