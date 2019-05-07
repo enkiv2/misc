@@ -121,6 +121,7 @@ label house_on_foulness:
     nvl clear
     quote  "{font=AquilineTwo.ttf}She also told me that Master Marsten had moved to London at the beginning of the war, like your father did.{/font}"
     quote  "{font=AquilineTwo.ttf}She said that the house was built by some eccentric ancestor — a gentleman-scientist who fancied himself an authority on salt-marsh wildlife (although his works were never accepted by the natural philosophers of the Royal Society and never had any kind of wide circulation).{/font}"
+    nvl clear
     quote  "{font=AquilineTwo.ttf}I suppose the seventeenth century had its cranks as well.{/font}"
     nvl clear
     quote  "{font=AquilineTwo.ttf}She indicated that she was grateful that I wasn't like the previous governess, who she held in some low regard.{/font}"
@@ -155,6 +156,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}\"Oh dear no,\"she said. \"Mrs Marsten, god rest her soul, died giving birth to Anna, who never knew her mother.\"{/font}"
     quote  "{font=AquilineTwo.ttf}This lifted a weight from my heart.{/font}"
     quote  "{font=AquilineTwo.ttf}Anna is not seeing her mother out of trauma — she has no concept of what it's like to have one, and so an imaginary mother is no different from an imaginary aardvark or some other fantastical creature a child might pretend about.{/font}"
+    nvl clear
     quote  "{font=AquilineTwo.ttf}Mrs Grant also lifted my spirits with regard to the water damage from the radiators, saying that the house is mostly cedar and gets far worse from the surf — everything dries out in the summer, when it is even hotter during the day than it is now, and the copper roof practically bakes the steam out of the whole house.{/font}"
     nvl clear
     quote  "{font=AquilineTwo.ttf}Terence was even busier at Anna's game today than usual.{/font}"
