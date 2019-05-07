@@ -40,7 +40,7 @@ label lazarus_pose:
     scene  hole
     quote  "With a hole a mile across, it's reasonable to expect quite a bit of depth."
     quote  "The scale of the things launched from here gave me a bit of an estimate: at least 800 feet."
-    quote  "I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2%."
+    quote  "I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%."
     nvl clear
     scene  hole2
     quote  "My daisy chain of drones demonstrated that the square quote ed straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead."
