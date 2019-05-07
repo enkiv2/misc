@@ -43,7 +43,7 @@ label lazarus_pose:
     quote  "I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%."
     nvl clear
     scene  hole2
-    quote  "My daisy chain of drones demonstrated that the square quote ed straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead."
+    quote  "My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead."
     quote  "After 200 feet, the space opened up: my drone's cameras, radar, and sonar all couldn't find edges."
     quote  "There wasn't much to see, other than a lot of dust."
     quote  "About a hundred feet lower, some debris (presumably from the collapsed buildings) sat atop a blunt cone made of a material that resembles smooth concrete."
