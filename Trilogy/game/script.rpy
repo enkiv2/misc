@@ -204,15 +204,15 @@ label house_on_foulness:
     quote  "One was rambling on and on and periodically giving orders, while the other was giving short responses."
     quote  "I identified the one giving short responses as Anna."
     nvl clear
-    quote  "\"We have always lived here in tune with the cycle of the waves and the cycle of the tides and we have always let them burst into the waters when they are ripe,\" said the rambler."
+    quote  "\"{i}We have always lived here in tune with the cycle of the waves and the cycle of the tides and we have always let them burst into the waters when they are ripe,{/i}\" said the rambler."
     quote  "There was a creak and a scraping sound above me."
-    quote  "\"You are not of age but you can feel this truth inside you."
-    quote  " You must let him ripen and the seeds burst out into the water."
-    quote  " Do not be afraid of it."
-    quote  " He will burst so that you will not."
-    quote  " It is only his blood that is wrong."
-    quote  " He cannot become one of us."
-    quote  " When he is ripened, let him go.\""
+    quote  "\"{i}You are not of age but you can feel this truth inside you.{/i}"
+    quote  "{i} You must let him ripen and the seeds burst out into the water.{/i}"
+    quote  "{i}Do not be afraid of it.{/i}"
+    quote  "{i}He will burst so that you will not.{/i}"
+    quote  "{i}It is only his blood that is wrong.{/i}"
+    quote  "{i}He cannot become one of us.{/i}"
+    quote  "{i}When he is ripened, let him go.{/i}\""
     nvl clear
     quote  "The rambler went on and on like this, and I tried to transcribe more, but the more closely I listen to the echoes in the radiator, the sleepier I get."
     quote  "Perhaps I, too, have become feverish and delirious? I will finish this letter and go to bed."
@@ -256,20 +256,26 @@ label turkeys:
     nvl clear
     quote  "Taking a claw hammer from the pocket of her mangled overalls, she peeled some of the boards back from the doorjam."
     quote  "Covering her body with a plastic tub, she pushed her way through three or four feet of bloodied feathers and claws."
+    nvl clear
     quote  "The smell no longer bothered her, but without the tub she would be smothered before she could be crushed, and the tub provided valuable protection from the rain of small winged bodies as she made her way to her next shelter."
+    nvl clear
     quote  "This area was developed during the last real estate boom, and so almost any house she found would probably be abandoned."
     quote  "She risked a glimpse at the sky, but it was pointless — as usual, the sun was blotted out."
     quote  "For her efforts, she received a white-capped chickadee in the eye."
     nvl clear
     quote  "When she was young, her parents and friends thought it was a blessing, and treated it like a parlor trick."
     quote  "They'd make jokes about Disney princesses and sing that Carpenters song."
+    nvl clear
     quote  "It wasn't until she was ten years old that the rate had accelerated to the point of being distressing: her family had to replace the sliding glass doors on the porch with something opaque, and shortly afterward painted the outside of the house a dull rust color to hide the blood."
+    nvl clear
     quote  "When the roof of that house finally collapsed, they were still in denial, unprepared; only she escaped."
     nvl clear
     quote  "She had been in this development for a year — or maybe two."
     quote  "It was hard to keep track anymore."
     quote  "The birds kept coming in thicker."
+    nvl clear
     quote  "She wore rubber rain boots that went up above her knees, tucked into her pants; nevertheless, some songbirds, already mostly rotten, fell inside as she shuffled through some of the taller mounds and became squished between her leg and the outside of the boot, beaks and claws and little bones pressing into her flesh."
+    nvl clear
     quote  "As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe."
     nvl clear
     quote  "She pushed the door closed, reinforcing it with boards and nails with a practiced ease."
