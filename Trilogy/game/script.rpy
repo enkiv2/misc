@@ -295,7 +295,11 @@ label turkeys:
     quote  "She had been much stronger then — inside for nearly a month."
     nvl clear
     quote  "Unable to imagine herself summoning the strength to pull out the boards and trudge through another deluge, she slumped, her back against the door."
+    nvl clear
     quote  "She awaited the turkeys."
+    nvl clear
+    comment "XXX various characters comment on the story"
 
 label end:
+    comment "XXX Akane is the first to notice that the rain had let up. They all leave, having thoroughly freaked themselves out."
     return
