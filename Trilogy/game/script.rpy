@@ -1,5 +1,15 @@
-﻿label start:
+﻿define quote   = nvl_narrator
+define comment = Character("COMMENT") # XXX delete this before launch
 
+define ai    = Character("Akagi Ai")
+define aoi   = Character("Tomoe Aoi")
+define misa  = Character("Umeji Misa")
+define akane = Character("Akane")
+
+label start:
+    comment "XXX opening scene: Ai and Aoi are window-shopping on their way home from school, and it begins to rain. They take shelter in an abandoned building, & find that Misa and Akane have done the same. Akane must be introduced to Ai & Aoi."
+    comment "XXX Because the rain is not letting up, Akane suggests they spend the time telling scary stories."
+    comment "XXX Mimi goes first, with THE LAZARUS POSE"
 label lazarus_pose:
     scene black
     quote  "THE LAZARUS POSE"
@@ -17,15 +27,40 @@ label lazarus_pose:
     scene  twitter
     quote  "I got lucky: I was on Twitter when the news hit."
     extend "I immediately booked a red-eye flight to Siberia; after all, the Australian square would be much harder to travel to. I bought every drone for sale in the airport mall."
-    quote  "The Siberian square, like the Australian one, was about a mile across. When it opened, it caused a building above it to collapse. I imposed upon the landlord of this building; luckily, there were no tenants at the time, though the landlord suspects that some squatters may have been lost."
-    quote "With a hole a mile across, it’s reasonable to expect quite a bit of depth. The scale of the things launched from here gave me a bit of an estimate: at least 800 feet. I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there’s a margin of error of about 2%."
-    quote "My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead. After 200 feet, the space opened up: my drone’s cameras, radar, and sonar all couldn’t find edges. There wasn’t much to see, other than a lot of dust. About a hundred feet lower, some debris (presumably from the collapsed buildings) sat atop a blunt cone made of a material that resembles smooth concrete. I had my lead drone land on the cone to get a closer look."
-    quote "From the perspective of the tip of the cone, I could see a vast grid of similar cones in all directions. However, the lead cone (and others) began to move; tremors made the building I was staying in become unstable, and I had to flee. Unfortunately, my recordings were lost when the building collapsed on top of my computer, during the square’s closure."
+    scene  siberia
+    quote  "The Siberian square, like the Australian one, was about a mile across."
+    extend "When it opened, it caused a building above it to collapse."
+    extend "I imposed upon the landlord of this building; luckily, there were no tenants at the time, though the landlord suspects that some squatters may have been lost."
+    scene  hole
+    quote  "With a hole a mile across, it’s reasonable to expect quite a bit of depth."
+    extend "The scale of the things launched from here gave me a bit of an estimate: at least 800 feet."
+    extend "I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there’s a margin of error of about 2%."
+    scene  hole2
+    quote  "My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead."
+    extend "After 200 feet, the space opened up: my drone’s cameras, radar, and sonar all couldn’t find edges."
+    extend "There wasn’t much to see, other than a lot of dust."
+    extend "About a hundred feet lower, some debris (presumably from the collapsed buildings) sat atop a blunt cone made of a material that resembles smooth concrete."
+    extend "I had my lead drone land on the cone to get a closer look."
+    scene  hole3
+    quote  "From the perspective of the tip of the cone, I could see a vast grid of similar cones in all directions."
+    scene  hole_collapse
+    extend "However, the lead cone (and others) began to move; tremors made the building I was staying in become unstable, and I had to flee."
+    extend "Unfortunately, my recordings were lost when the building collapsed on top of my computer, during the square’s closure."
+    scene  sat
     quote "From public sattelite imagery, it seems that the other square closed during the same two hour window; I suspect that it actually closed simultaneously."
-    quote "With regard to the mystery of the squares and the tragic demise of our Martian colonists, it is my position that history has repeated itself. The Soviet dead hand system accidentally recapitulated, in some small way, an antedeluvian drama that once occurred between Earth and Mars, long before the age of man. We have finally reached the level of technological development necessary to become pitted against our forebears, who while not human were also people of Earth. However, their defenses are far beyond what we can reasonably wish to escape. How long will we be trapped on this planet by the nervous twitches of a long-dead race? The thousands of cyclopean missiles beneath the Siberian tundra are our formidable jailers, along with similar stockpiles who knows where else. We cannot leave the cradle of earth until we outwit them; but, even something as simple as the door mechanism for this defense system is centuries beyond our technology, and the very existence of a race who could build such things is beyond the current reach of our archaeology."
+    scene  cold_war
+    quote  "With regard to the mystery of the squares and the tragic demise of our Martian colonists, it is my position that history has repeated itself."
+    extend "The Soviet dead hand system accidentally recapitulated, in some small way, an antedeluvian drama that once occurred between Earth and Mars, long before the age of man."
+    extend "We have finally reached the level of technological development necessary to become pitted against our forebears, who while not human were also people of Earth."
+    extend "However, their defenses are far beyond what we can reasonably wish to escape."
+    extend "How long will we be trapped on this planet by the nervous twitches of a long-dead race?"
+    extend "The thousands of cyclopean missiles beneath the Siberian tundra are our formidable jailers, along with similar stockpiles who knows where else."
+    extend "We cannot leave the cradle of earth until we outwit them; but, even something as simple as the door mechanism for this defense system is centuries beyond our technology, and the very existence of a race who could build such things is beyond the current reach of our archaeology."
+    scene  ancient_aliens
     quote "Who were the figures in this ancient drama? We have been presented with a mystery whose clues will be inaccessible for the forseeable future."
-
+    comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
 label house_on_foulness:
+    quote  "THE HOUSE ON FOULNESS"
     quote  "2nd April, 1919"
     extend "Dearest Mary,"
     extend "It might seem childish of me to keep writing this diary in the form of letters to you after so many years, but I am still working toward our promise in my own way. Perhaps, by the time I get to Paris, you will already be there — perhaps the streets will no longer be full of dull bureaucrats!"
@@ -76,8 +111,10 @@ label house_on_foulness:
     extend "I climbed up the stairs to my room, and as I slipped into sleep, I heard the radiator calling my name, saying “remember Paris, remember our promise before the war”."
     extend "I was naive to hold on so tightly to a youthful promise. Paris is the domain of the Bluebeard of Gambais now, not some glamorous fantasy land of Byronic heroes and symbolist poets."
     extend "I took a shovel from the root cellar and destroyed Anna while she slept. Tonight, when the sun sets and your twisted, infected body can move again, I will do the same to you. This is the last letter I will write. In the morning, before Mrs Grant comes, I will take my shovel to London to finish the Marsten dynasty."
+    comment "XXX various characters comment on the story, and then Aoi goes last, with SHE AWAITED THE TURKEYS"
 
 label turkeys:
+    quote "SHE AWAITED THE TURKEYS"
     quote "The load-bearing wall groaned behind her. She would need to move again soon."
     quote "Houses used to last a lot longer. This was the third in as many weeks, and she had put off leaving for longer than was wise: the previous tenants had left furniture, and she had almost convinced herself that the smell of rotting carrion was actually the nearby sewage treatment facility."
     quote "Taking a claw hammer from the pocket of her mangled overalls, she peeled some of the boards back from the doorjam. Covering her body with a plastic tub, she pushed her way through three or four feet of bloodied feathers and claws. The smell no longer bothered her, but without the tub she would be smothered before she could be crushed, and the tub provided valuable protection from the rain of small winged bodies as she made her way to her next shelter. This area was developed during the last real estate boom, and so almost any house she found would probably be abandoned. She risked a glimpse at the sky, but it was pointless — as usual, the sun was blotted out. For her efforts, she received a white-capped chickadee in the eye."
