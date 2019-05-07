@@ -40,7 +40,8 @@ label lazarus_pose:
     scene  hole
     quote  "{font=uwch.ttf}With a hole a mile across, it's reasonable to expect quite a bit of depth.{/font}"
     quote  "{font=uwch.ttf}The scale of the things launched from here gave me a bit of an estimate: at least 800 feet.{/font}"
-    quote  "{font=uwch.ttf}I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain; I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%.{/font}"
+    quote  "{font=uwch.ttf}I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain.{/font}"
+    quote  "{font=uwch.ttf}I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%.{/font}"
     nvl clear
     scene  hole2
     quote  "{font=uwch.ttf}My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead.{/font}"
@@ -66,10 +67,12 @@ label lazarus_pose:
     nvl clear
     quote  "{font=uwch.ttf}How long will we be trapped on this planet by the nervous twitches of a long-dead race?{/font}"
     quote  "{font=uwch.ttf}The thousands of cyclopean missiles beneath the Siberian tundra are our formidable jailers, along with similar stockpiles who knows where else.{/font}"
-    quote  "{font=uwch.ttf}We cannot leave the cradle of earth until we outwit them; but, even something as simple as the door mechanism for this defense system is centuries beyond our technology, and the very existence of a race who could build such things is beyond the current reach of our archaeology.{/font}"
+    quote  "{font=uwch.ttf}We cannot leave the cradle of earth until we outwit them.{/font}"
+    quote  "{font=uwch.ttf}Yet, even something as simple as the door mechanism for this defense system is centuries beyond our technology.{/font}"
+    quote  "{font=uwch.ttf}Even the very existence of a race who could build such things is beyond the current reach of our archaeology.{/font}"
     nvl clear
     scene  ancient_aliens
-    quote "{font=uwch.ttf}Who were the figures in this ancient drama? We have been presented with a mystery whose clues will be inaccessible for the forseeable future.{/font}"
+    quote "{font=uwch.ttf}Who were the figures in this ancient drama?We have been presented with a mystery whose clues will be inaccessible for the forseeable future.{/font}"
     nvl clear
     comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
 label house_on_foulness:
