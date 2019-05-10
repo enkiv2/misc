@@ -7325,3 +7325,38 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-09T11:41:25-04:00	Why genre fiction? " John Ohno " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/why-genre-fiction-107af15116e9?source=friends_link&sk=0af7a67b9bb84b48a32df05e7be3fc6b
 2019-05-09T13:02:22-04:00	Article idea: the influence of faxlore / hippie zine culture (Whole Earth Catalogue, Principia Discordia, Computer Lib) on the past 50 years of personal computer documentation in design, presentation, & style.
 2019-05-09T13:22:12-04:00	"total rewrite" sounds better when you call it "technical debt jubilee"
+2019-05-09T14:14:53-04:00	The Amphibious Weird: Mercè Rodoreda’s “The Salamander”  |  Tor.com https://www.tor.com/2019/05/08/the-amphibious-weird-merce-rodoredas-the-salamander/
+2019-05-09T14:18:09-04:00	Hugging Face " ConvAI https://convai.huggingface.co/
+2019-05-09T14:24:44-04:00	Bringing Architecture of Operating Systems to XXI Century " Part III. Basic Ideas - IT Hare on Soft.ware http://ithare.com/bringing-architecture-of-operating-systems-to-xxi-century-part-iii-basic-ideas/
+2019-05-09T15:27:24-04:00	Run Your Fingers Down My Spine: Inoue Masahiko’s “Night Voices, Night Journeys”  |  Tor.com https://www.tor.com/2019/04/24/run-your-fingers-down-my-spine-inoue-masahikos-night-voices-night-journeys/
+2019-05-09T16:28:11-04:00	Band name of the day: geophage
+2019-05-09T17:28:25-04:00	watching this streamer get super stuck and frustrated trying to solve the puzzles in *my* game is a weird experience. is this how most people feel when they watch bad slasher movies?
+2019-05-09T17:56:00-04:00	"How Soon Is Now?" - The B-Side That Defined The Smiths - YouTube https://www.youtube.com/watch?v=kfAoGEFTpno
+2019-05-09T18:21:09-04:00	Robocop! [Film School with Maggie Mae Fish] - YouTube https://www.youtube.com/watch?v=jdy1ln1vmv0
+2019-05-09T19:17:52-04:00	Bad idea of the day: mad libs as a divination technique
+2019-05-10T07:10:15-04:00	Band name of the day: bull market for baby teeth
+2019-05-10T07:30:10-04:00	RA: The Japanese reissue phenomenon: a view from the inside  https://www.residentadvisor.net/features/3446
+2019-05-10T07:36:26-04:00	Band name of the day: the hideous unseen
+2019-05-10T07:50:45-04:00	Band name of the day: the strange crawling of its fleshless spirit
+2019-05-10T07:53:02-04:00	Band name of the day: frenzy of loathing
+2019-05-10T07:54:13-04:00	Band name of the day: nightmare fungus
+2019-05-10T07:54:28-04:00	Band name of the day: liquescent valdemars
+2019-05-10T07:56:42-04:00	Band name of the day: between leering galaxies
+2019-05-10T08:03:01-04:00	GitHub - moonad/Formality: An efficient minimal programming language and proof assistant. https://github.com/moonad/Formality
+2019-05-10T08:05:53-04:00	How the dualism of Descartes ruined our mental health | Aeon Ideas https://aeon.co/ideas/how-the-dualism-of-descartes-ruined-our-mental-health
+2019-05-10T08:06:37-04:00	Distributed consensus revised – Part III | the morning paper https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/
+2019-05-10T08:33:21-04:00	Just Being Nosy: China Miéville’s “Details”  |  Tor.com https://www.tor.com/2018/12/12/just-being-nosy-china-mievilles-details/
+2019-05-10T08:34:16-04:00	Band name of the day: brand surgery
+2019-05-10T08:43:44-04:00	Cover story " Thom Yorke: Daydream nation https://crackmagazine.net/article/long-reads/thom-yorke-daydream-nation/
+2019-05-10T08:54:20-04:00	Band name of the day: knifebomb
+2019-05-10T09:16:09-04:00	GitHub - faskowit/brain-networks-across-the-web: list of brain networks ready to be downloaded for your brainhacking pleasure https://github.com/faskowit/brain-networks-across-the-web
+2019-05-10T09:23:35-04:00	The Myth of Convenience | L.M. Sacasas https://thefrailestthing.com/2019/05/06/the-myth-of-convenience/
+2019-05-10T10:22:18-04:00	Letting neural networks be weird • What is the opposite of guacamole? https://aiweirdness.com/post/184781529122/what-is-the-opposite-of-guacamole
+2019-05-10T10:23:05-04:00	Band name of the day: spider magic
+2019-05-10T10:23:26-04:00	Band name of the day: dawn forever
+2019-05-10T10:23:45-04:00	Band name of the day: snow motion
+2019-05-10T10:24:24-04:00	Band name of the day: cowglitter stark
+2019-05-10T10:30:24-04:00	In a Remote Bolivian Cave, Evidence of a Trippy Ritual - Atlas Obscura https://www.atlasobscura.com/articles/bolivian-cave-ayahuasca-bundle
+2019-05-10T10:33:57-04:00	Letting neural networks be weird • On this blog I’ve posted a lot about neural... https://aiweirdness.com/post/183803561307/on-this-blog-ive-posted-a-lot-about-neural
+2019-05-10T12:21:56-04:00	Because https://github.com/faiface/gui is so damned close to much of what I'm trying to do in kamui (minus the scripting bits), I think I might take their underlying drawing code...
+2019-05-10T12:24:07-04:00	Strong Opinions Loosely Held Might be the Worst Idea in Tech - The Glowforge Blog https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/
