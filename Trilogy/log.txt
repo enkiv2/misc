@@ -1,33 +1,33 @@
-Mon May 06 17:33:02 2019
+Thu May 09 13:39:54 2019
 Windows-8-6.2.9200
 Ren'Py 7.1.3.1092
  
 
-Bootstrap to the start of init.init took 0.10s
+Bootstrap to the start of init.init took 0.07s
 Early init took 0.00s
-Loader init took 0.03s
-Loading error handling took 0.03s
-Loading script took 0.15s
-Loading save slot metadata. took 0.01s
+Loader init took 0.02s
+Loading error handling took 0.02s
+Loading script took 0.09s
+Loading save slot metadata. took 0.02s
 Loading persistent took 0.00s
 Imported steam.
 Failed to initialize steam.
-Running init code took 0.40s
+Running init code took 0.08s
 Loading analysis data took 0.03s
-Analyze and compile ATL took 0.01s
+Analyze and compile ATL took 0.00s
 Index archives took 0.00s
-Dump and make backups. took 0.11s
+Dump and make backups. took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.02s
+Initial gc. took 0.01s
 DPI scale factor: 1.000000
-Creating interface object took 0.07s
+Creating interface object took 0.04s
 Cleaning stores took 0.00s
 Init translation took 0.02s
-Build styles took 0.01s
+Build styles took 0.00s
 Load screen analysis took 0.02s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.08s
+Prepare screens took 0.05s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
