@@ -3,11 +3,13 @@ define comment = Character("COMMENT") # XXX delete this before launch
 
 define ai    = Character("Akagi Ai")
 define aoi   = Character("Tomoe Aoi")
+define mimi  = Character("Yamada Mimi")
 define misa  = Character("Umeji Misa")
 define akane = Character("Akane")
 
 label start:
-    comment "XXX opening scene: Ai and Aoi are window-shopping on their way home from school, and it begins to rain. They take shelter in an abandoned building, & find that Misa and Akane have done the same. Akane must be introduced to Ai & Aoi."
+    play music "sfx/344430__babuababua__light-rain.mp3"
+    comment "XXX opening scene: Ai, Mimi, and Aoi are window-shopping on their way home from school, and it begins to rain. They take shelter in an abandoned building, & find that Misa and Akane have done the same. Akane must be introduced to the group."
     comment "XXX Because the rain is not letting up, Akane suggests they spend the time telling scary stories."
     comment "XXX Mimi goes first, with THE LAZARUS POSE"
 label lazarus_pose:
