@@ -7398,3 +7398,101 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-13T14:50:41-04:00	Band name of the day: we reject the error
 2019-05-13T14:51:32-04:00	how the hell is two-mix not on spotify
 2019-05-13T14:56:19-04:00	Noriko Miyamoto's cover of Maniac really jams
+2019-05-13T18:34:03-04:00	Are there any good posts about how storytelling best-practices in VNs differ from other media? (Like: different from parser IF, mainstream games even of the Mass Effect style, regular novels, comics, and movies)
+2019-05-13T18:48:26-04:00	ludonarrative dissonance -> ludonarrative consonance -> ludonarrative resonance -> ludonarrative devil's interval -> ludonarrative chialdini patterns -> ludonarrative helmholz resonator -> ludonarrative heterodyne -> ludonarrative hamming codes
+2019-05-14T08:04:37-04:00	"Infinite Detail" Imagines an Apocalypse Many of Us Long For - Electric Literature https://electricliterature.com/infinite-detail-imagines-an-apocalypse-many-of-us-dream-about/
+2019-05-14T08:13:20-04:00	Too Many Requests https://www.reddit.com/r/slatestarcodex/comments/bo26lv/simulated_culture_war_roundup_thread_using_gpt2/
+2019-05-14T08:19:58-04:00	Lea, making things: Making-of: Fortunes  http://lea.zone/blog/making-of-fortunes/
+2019-05-14T09:08:28-04:00	Interesting work in summarization: http://www.insidehighered.com/news/2019/05/14/ai-summarizes-research-papers-could-have-useful-applications-academics
+2019-05-14T09:42:17-04:00	Band name of the day: chosen prefix collision attack
+2019-05-14T09:44:35-04:00	Markov Chain Text Generation « The blog at the bottom of the sea https://blog.demofox.org/2019/05/11/markov-chain-text-generation/
+2019-05-14T10:03:41-04:00	Technology Is as Biased as Its Makers  https://longreads.com/2019/05/14/technology-is-as-biased-as-its-makers/
+2019-05-14T10:14:01-04:00	Against Activism | The Baffler https://thebaffler.com/salvos/against-activism
+2019-05-14T10:17:19-04:00	Enter the Supersensorium | Erik Hoel https://thebaffler.com/salvos/enter-the-supersensorium-hoel#_ftn4
+2019-05-14T10:21:27-04:00	Going Critical " Melting Asphalt https://www.meltingasphalt.com/interactive/going-critical/
+2019-05-14T11:29:21-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-05-14T12:09:19-04:00	This Quantum Physicist Used Machine Learning to Map Reddit’s Sexual Fetishes - VICE https://www.vice.com/en_us/article/qv7bxw/machine-learning-map-reddit-sexual-fetish-kink-subreddits
+2019-05-14T12:38:47-04:00	"So much about building software—more than anyone wants to admit—is etiquette." https://www.wired.com/story/why-we-love-tech-defense-difficult-industry/
+2019-05-14T14:09:50-04:00	Screw seifuku -- I'm using Trilogy as an excuse to give all my characters mod dresses, & BotD as an excuse to mix black leather miniskirts with combat boots & sleeveless crew-knit turtlenecks
+2019-05-14T14:28:53-04:00	Band name of the day: FactoryManagerFactory
+2019-05-14T19:15:07-04:00	Brian Eno and Finn Williams in conversation: Planning for the longer now - YouTube https://www.youtube.com/watch?v=FFbtFxgwZkA
+2019-05-14T19:27:54-04:00	Hollywood Screenwriter Attempts To Write A Scene in 7 Minutes | Vanity Fair - YouTube https://www.youtube.com/watch?v=zoM-tQOOcPw
+2019-05-15T08:42:45-04:00	Tag yrself I'm Brunhilde https://www.loc.gov/free-to-use/cats
+2019-05-15T08:44:27-04:00	Dollars for Docs - ProPublica https://projects.propublica.org/docdollars/
+2019-05-15T08:46:09-04:00	Twitter https://mobile.twitter.com/lovelykeffie/status/1128606016537542656
+2019-05-15T08:46:30-04:00	GitHub - NYPL/catalog_of_copyright_entries_project: NYPL Project to transcribe and parse pages from the US Catalog of Copyright Entries https://github.com/NYPL/catalog_of_copyright_entries_project
+2019-05-15T08:46:55-04:00	GitHub - NYPL/cce-renewals: Tab-delimited versions of Catalog of Copyright Entries renewals https://github.com/NYPL/cce-renewals/
+2019-05-15T08:49:16-04:00	A defense of Metcalfe's law is that social networking sites have a natural monopoly on the networks they uncover. I agree with the author here that natural monopolies should also be busted: https://techcrunch.com/2019/05/12/friends-wherever/
+2019-05-15T09:05:07-04:00	The Big Mud Puddle: Programming Languages Suck at UX http://evincarofautumn.blogspot.com/2011/10/programming-languages-have-bad-user.html
+2019-05-15T09:11:20-04:00	On Subtlety | Tin House https://tinhouse.com/on-subtlety/
+2019-05-15T09:54:54-04:00	Band name of the day: great wheat motifs
+2019-05-15T10:14:05-04:00	How Silicon Valley’s successes are fueled by an underclass of ‘ghost workers’ - The Verge https://www.theverge.com/2019/5/13/18563284/mary-gray-ghost-work-microwork-labor-silicon-valley-automation-employment-interview?curator=TechREDEF
+2019-05-15T10:22:23-04:00	What Happened With Supermicro? | Hackaday https://hackaday.com/2019/05/14/what-happened-with-supermicro/
+2019-05-15T10:24:53-04:00	Room 641A - Wikipedia https://en.wikipedia.org/wiki/Room_641A
+2019-05-15T10:25:53-04:00	If reason exists without deliberation, it cannot be uniquely human | Aeon Ideas https://aeon.co/ideas/if-reason-exists-without-deliberation-it-cannot-be-uniquely-human
+2019-05-15T10:26:25-04:00	Band name of the day: That Brute Animals Make Better Use of Reason than Men
+2019-05-15T10:30:04-04:00	Billboard Chart Quirks: How Artists And Labels Game The Hot 100 https://tedium.co/2019/05/14/billboard-chart-quirks-history/
+2019-05-15T10:47:34-04:00	Mankind, Unite! | Lapham’s Quarterly https://www.laphamsquarterly.org/roundtable/mankind-unite
+2019-05-15T11:19:10-04:00	What interactives can do (that articles can’t) http://elliotbentley.com/2018/06/03/interactives.html
+2019-05-15T11:20:45-04:00	Memoirs from a Japanese internet cafe | The Japan Times https://www.japantimes.co.jp/community/2019/05/12/voices/memoirs-japanese-internet-cafe/#.XNwqdEfav0M
+2019-05-15T11:25:05-04:00	https://www.thenewatlantis.com/publications/modernitys-spell
+2019-05-15T11:28:21-04:00	GitHub - lettier/3d-game-shaders-for-beginners: 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. https://github.com/lettier/3d-game-shaders-for-beginners
+2019-05-15T12:32:01-04:00	Being Wrong As A Service (BWAAS)
+2019-05-15T12:40:34-04:00	Subtlety as a Service
+2019-05-15T13:19:14-04:00	How 'Homestuck' Defined What It Means to Be a Fan Online - VICE https://www.vice.com/en_us/article/zmp3ze/how-homestuck-defined-what-it-means-to-be-a-fan-online?utm_source=wptwitterus
+2019-05-15T13:35:39-04:00	A Q&A with Rob Walker, Author of The Art of Noticing http://inthebooks.800ceoread.com/interviews/articles/the-art-of-noticing
+2019-05-15T14:18:44-04:00	In BotD, I really want to lean into Suspiria's nancy-drew-bullshit quotient...
+2019-05-15T15:10:09-04:00	consider a spherical frictionless take in simple harmonic motion
+2019-05-15T15:51:07-04:00	Falsehoods programmers believe about the creatures who lurk unseen in the vast cold spaces between the stars
+2019-05-15T15:52:09-04:00	Falsehoods programmers believe about the banach-tarsky paradox
+2019-05-15T15:53:30-04:00	Falsehoods programmers believe about Wotan's use of forbidden feminine magics of soothsaying and vision-seeking
+2019-05-15T15:55:01-04:00	Falsehoods programmers believe about the sociological function of the carnivale and the grotesque body in medieval folk art
+2019-05-15T15:55:23-04:00	Falsehoods programmers believe about spandrels in gothic architecture
+2019-05-15T19:00:51-04:00	A Thousand Isekai, Part 3: Devouration, Revenge, Abject - YouTube https://www.youtube.com/watch?v=wgqKwIbYJrA
+2019-05-15T21:04:08-04:00	Falsehoods programmers believe about 14th century trubadour poetry
+2019-05-15T21:05:04-04:00	Falsehoods programmers believe about the placement and function of book lungs in spider anatomy
+2019-05-15T21:05:40-04:00	Falsehoods programmers believe about tree law
+2019-05-15T21:06:27-04:00	Falsehoods programmers believe about the production history of Hellraiser 2: Hellbound
+2019-05-15T21:07:46-04:00	Falsehoods programmers believe about resonant cavities
+2019-05-15T21:08:23-04:00	Falsehoods programmers believe about parisian theives' cant
+2019-05-15T21:09:37-04:00	Falsehoods programmers believe about the manufacture of billiard balls
+2019-05-16T07:03:01-04:00	I've always been sort of critical of quora because of the quality of the questions I get A2A for, but actually asking questions has made me understand why its reputation is no better than yahoo answers. Lots of answers aren't even on-topic.
+2019-05-16T07:52:54-04:00	I highly recommend everybody flood this tool with stories about being harassed by nazis on twitter: https://whitehouse.typeform.com/to/Jti9QH
+2019-05-16T08:15:53-04:00	Cheshire reCAsT | Voynich Portal https://voynichportal.com/2019/05/07/cheshire-recast/
+2019-05-16T08:53:36-04:00	Susan Sontag was a monster, of the very best kind | Aeon Essays https://aeon.co/essays/susan-sontag-was-a-monster-of-the-very-best-kind
+2019-05-16T08:55:33-04:00	Band name of the day: techlords
+2019-05-16T09:04:53-04:00	america's top bottom
+2019-05-16T09:47:15-04:00	A Critical Period For Lactation Fetishes | Slate Star Codex https://slatestarcodex.com/2019/05/15/a-critical-period-for-lactation-fetishes/
+2019-05-16T10:18:35-04:00	Justin Barton on the Xenogothic – xenogothic https://xenogothic.com/2019/05/16/justin-barton-on-the-xenogothic/
+2019-05-16T11:01:50-04:00	Alan Kay's answer to How usable was composition between widgets in Smalltalk 80 on the Xerox Alto? Could full app... https://www.quora.com/How-usable-was-composition-between-widgets-in-Smalltalk-80-on-the-Xerox-Alto-Could-full-applications-be-developed-this-way/answer/Alan-Kay-11
+2019-05-16T11:46:08-04:00	knuckle tattoo: BITE SNAKES
+2019-05-16T11:56:44-04:00	Band name of the day: sex weasels of classical portraiture
+2019-05-16T11:57:00-04:00	Band name of the day: goblinbane
+2019-05-16T11:57:42-04:00	Band name of the day: son of cheddar goblin
+2019-05-16T18:54:11-04:00	RimWorld: Contrarian, Ridiculous, and Impossible Game Design Methods - YouTube https://www.youtube.com/watch?v=VdqhHKjepiE
+2019-05-17T07:56:00-04:00	We May Have Memed President Biden Into Existence - MEL Magazine https://melmagazine.com/en-us/story/biden-2020-gaffes-onion-memes-jokes
+2019-05-17T08:21:14-04:00	R, the master troll of statistical languages – [citation needed] https://www.talyarkoni.org/blog/2012/06/08/r-the-master-troll-of-statistical-languages/
+2019-05-17T08:52:19-04:00	This AI-generated Joe Rogan fake has to be heard to be believed - The Verge https://www.theverge.com/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa
+2019-05-17T08:52:35-04:00	do what wilt thou shall be the law of the hole
+2019-05-17T08:55:25-04:00	Band name of the day: anaerobic digester
+2019-05-17T08:56:58-04:00	Band name of the day: farcaster network
+2019-05-17T09:17:20-04:00	Horror buffs, meet music nerds | The Outline https://theoutline.com/post/7428/blood-on-black-wax-horror-film-soundtracks-interview
+2019-05-17T09:31:39-04:00	The library of things: could borrowing everything from drills to disco balls cut waste and save money? | Society | The Guardian https://www.theguardian.com/society/2019/apr/24/library-of-things-borrowing-scheme-conquer-world
+2019-05-17T09:31:55-04:00	Home - http://thethingery.com/
+2019-05-17T09:33:57-04:00	On the Utility Fallacy - Study Hacks - Cal Newport http://www.calnewport.com/blog/2019/05/06/on-the-utility-fallacy/
+2019-05-17T09:37:51-04:00	Understanding real-world concurrency bugs in Go | the morning paper https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
+2019-05-17T09:49:36-04:00	Magic number (programming) - Wikipedia https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values
+2019-05-17T10:06:45-04:00	Band name of the day: dank and misty woods
+2019-05-17T10:39:09-04:00	The Night The Lights Went Out https://theconcourse.deadspin.com/the-night-the-lights-went-out-1834298070
+2019-05-17T11:12:49-04:00	Myth Addiction: Reflections on a Lost Fanaticism – xenogothic https://xenogothic.com/2019/05/17/myth-addiction-reflections-on-lost-fanaticism/
+2019-05-17T11:18:13-04:00	Against Advice | The Point Magazine https://thepointmag.com/2019/examined-life/against-advice-agnes-callard
+2019-05-17T11:22:36-04:00	‘The Lion Sleeps Tonight’ Genealogy: What You Don’t Know – Rolling Stone https://www.rollingstone.com/music/music-features/in-the-jungle-inside-the-long-hidden-genealogy-of-the-lion-sleeps-tonight-108274/
+2019-05-17T12:29:37-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-05-17T13:31:10-04:00	Microsoft’s Project Photon: A Stunted Effort To Rebuild Windows Mobile https://tedium.co/2019/05/16/microsoft-windows-mobile-photon-history/
+2019-05-17T13:38:06-04:00	Band name of the day: nighttime vomit disaster
+2019-05-17T13:42:31-04:00	I don't remember this track being in Quatermass and the Pit at all, but it sure is groovy https://www.youtube.com/watch?v=yvNnc3zMJpQ
+2019-05-17T14:51:15-04:00	The Human Antivenom Project | Outside Online https://www.outsideonline.com/2395803/snakebite-antivenom-tim-friede
+2019-05-17T15:09:26-04:00	Parable of the Polygons - a playable post on the shape of society https://ncase.me/polygons/
+2019-05-17T15:27:30-04:00	In Search of an Anti-Fascist Language | Boston Review https://bostonreview.net/politics/yuliya-komska-search-anti-fascist-language
+2019-05-17T21:28:35-04:00	The Stuff is at least the most quotable Cohen film. "No one is as dumb as I appear to be." #TheLastDriveIn
+2019-05-17T21:30:27-04:00	In Capitalism, Enough Is Never Enough (tm)
