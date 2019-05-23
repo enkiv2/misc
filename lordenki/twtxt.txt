@@ -7496,3 +7496,50 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-17T15:27:30-04:00	In Search of an Anti-Fascist Language | Boston Review https://bostonreview.net/politics/yuliya-komska-search-anti-fascist-language
 2019-05-17T21:28:35-04:00	The Stuff is at least the most quotable Cohen film. "No one is as dumb as I appear to be." #TheLastDriveIn
 2019-05-17T21:30:27-04:00	In Capitalism, Enough Is Never Enough (tm)
+2019-05-18T19:19:26-04:00	Windows ensures updates are applied promptly by cleverly slowing your machine down to an utter crawl whenever it stays on for longer than a day.
+2019-05-19T12:44:11-04:00	Markus Triska's answer to If prolog were being invented today, with no concern for... https://www.quora.com/If-prolog-were-being-invented-today-with-no-concern-for-backward-compatibility-or-the-existing-standardization-how-would-it-differ-from-standard-prolog/answer/Markus-Triska
+2019-05-20T08:01:02-04:00	Band name of the day: eat flaming death
+2019-05-20T08:05:08-04:00	Band name of the day: seventh art
+2019-05-20T08:06:11-04:00	Band name of the day: the third something
+2019-05-20T08:06:49-04:00	Band name of the day: the silent accomplice
+2019-05-20T09:29:54-04:00	A libertarian case for social justice " John Ohno " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-libertarian-case-for-social-justice-23ee2237b6f5?source=friends_link&sk=11db912d7205c9635aaf146534741203
+2019-05-20T10:23:48-04:00	Newsletter software adding curator & utm_source attributes to the ends of URLs and CMSes not knowing how to handle them & giving 500s and 404s is peak webtech culture.
+2019-05-20T10:46:50-04:00	Holy shit Robin Sloan posted a link to my list of story pitches in his newsletter https://buttondown.email/year-of-the-meteor/archive/week-21-all-is-foretold/
+2019-05-20T11:23:54-04:00	"The global village is a place of a very arduous interfaces and very abrasive situations." - McLuhan, who was a lot smarter & less naive than even most of his boosters recognize
+2019-05-20T11:26:25-04:00	The Convivial Society, No. 17: Arduous Interfaces  https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-17-arduous-interfaces
+2019-05-20T13:07:22-04:00	TempleOS: 1 - Installation - Christine Dodrill https://christine.website/blog/templeos-1-installation-and-basic-use-2019-05-20
+2019-05-20T13:10:53-04:00	the internet is full of helpful folks who want to helpfully tell me things i already know and i try not to scream at them *too* loudly
+2019-05-20T13:29:46-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-05-20T16:19:07-04:00	The Difference Between Socialism and Social Democracy - YouTube https://www.youtube.com/watch?v=kEYk33CxmsA
+2019-05-20T16:21:10-04:00	KILL la KILL Decoded: Fashion, Fascism & the Fight for Freedom - YouTube https://www.youtube.com/watch?v=IdeJ1FKdiQE
+2019-05-21T08:45:12-04:00	Semantic Domain: Inverting Bidirectional Typechecking http://semantic-domain.blogspot.com/2019/05/inverting-bidirectional-typechecking.html
+2019-05-21T08:48:08-04:00	Alan Kay and OO Programming https://ovid.github.io/articles/alan-kay-and-oo-programming.html
+2019-05-21T08:50:55-04:00	Band name of the day: terns into metal again
+2019-05-21T08:54:09-04:00	Why is the Pentagon interested in UFOs? https://theconversation.com/why-is-the-pentagon-interested-in-ufos-116714
+2019-05-21T09:26:52-04:00	"I Still Don't Know Where Joy Division Came From" | Literary  Hub https://lithub.com/i-still-dont-know-where-joy-division-came-from/
+2019-05-21T10:19:43-04:00	The gentrification of the internet – Culture Digitally http://culturedigitally.org/2019/03/the-gentrification-of-the-internet/
+2019-05-21T11:38:16-04:00	Back in 2004, somebody endevoured to make Neal Stephenson's essay, In The Beginning... Was The Command Line, worse: http://garote.bdmonkeys.net/commandline/index.html
+2019-05-21T12:04:31-04:00	FCJ-084 Who’s Afraid of Technological Determinism? Another Look at Medium Theory | The Fibreculture Journal : 12 http://twelve.fibreculturejournal.org/fcj-084-who%E2%80%99s-afraid-of-technological-determinism-another-look-at-medium-theory/
+2019-05-22T11:54:45-04:00	Alan Kay and Missing Messages https://ovid.github.io/articles/alan-kay-and-missing-messages-a-follow-up.html
+2019-05-22T11:57:33-04:00	Bad idea of the day: A bot that automatically replies to any link to The Curse of Xanadu with a link to Ted's response to The Curse of Xanadu.
+2019-05-22T13:20:31-04:00	A brief history of anime fandom outside of Japan " John Ohno " Medium https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-brief-history-of-anime-fandom-outside-of-japan-4c5b6c51ed8d?source=friends_link&sk=676c2c3e0a8654447333dd633e36d9ee
+2019-05-22T13:34:24-04:00	How modern life exacerbates and rewards human vigilance and worry | Aeon Essays https://aeon.co/essays/how-modern-life-exacerbates-and-rewards-human-vigilance-and-worry
+2019-05-22T13:38:53-04:00	Newly Surfaced Arcade Documents from the 1970s Predicted a Wild Future for Video Games - VICE https://www.vice.com/en_us/article/a3x7qz/newly-surfaced-arcade-management-documents-from-the-1970s-predicted-a-wild-future-for-video-games
+2019-05-22T17:28:59-04:00	Bad idea of the day: color words based on their TFIDF value, so that the lowest-information words are at functionally 50% contrast with the background while the highest-information words are solid
+2019-05-22T17:29:45-04:00	Bad idea of the day: color words based on their frequency value, so that the most common words are at functionally 50% contrast with the background while typos and neologisms are solid
+2019-05-22T17:31:17-04:00	Bad idea of the day: color words based on their semantic distance according to word2vec, so that synonyms are almost the same color
+2019-05-22T17:32:10-04:00	Bad idea of the day: color words based on a 24-bit hash
+2019-05-22T17:33:31-04:00	Bad idea of the day: color words based on the average semantic distance of the highest-TFIDF words in their dictionary entries, across parallel corpora in different languages, so that translations are almost the same color
+2019-05-23T07:54:42-04:00	Hot take: if you don't edit while writing, you're losing the primary benefit of using a text editor / word processor to compose.
+2019-05-23T08:24:09-04:00	Alan Kay Did Not Invent Objects • Hillel Wayne https://www.hillelwayne.com/post/alan-kay/
+2019-05-23T10:16:47-04:00	GitHub - jlevy/the-art-of-command-line: Master the command line, in one page https://github.com/jlevy/the-art-of-command-line
+2019-05-23T10:17:41-04:00	GitHub - SerenityOS/serenity: Serenity Operating System https://github.com/SerenityOS/serenity
+2019-05-23T10:18:42-04:00	Wolfram Engine Now Free… Sort Of | Hackaday https://hackaday.com/2019/05/22/wolfram-engine-now-free-sort-of/
+2019-05-23T10:20:30-04:00	Why did I write my programming projects? | rain-1.github.io https://rain-1.github.io/why/why
+2019-05-23T12:14:08-04:00	I love the Punch Line tv show, but is the VN actually worth 0? I don't think I've ever encountered a game that was capable of giving me 0 worth of enjoyment...
+2019-05-23T12:30:31-04:00	Repair Of Iconic ’60s Era Synthesizer Turns Into Long, Strange Trip For Engineer – CBS San Francisco https://sanfrancisco.cbslocal.com/2019/05/21/1960s-rock-music-san-francisco-lsd-buchla-100-synthesizer-grateful-dead/
+2019-05-23T12:49:24-04:00	Before Minecraft or Snapchat, there was MicroMUSE | Aeon Essays https://aeon.co/essays/before-minecraft-or-snapchat-there-was-micromuse
+2019-05-23T14:29:58-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-05-23T14:39:46-04:00	Set Theory and Foundations of Mathematics http://settheory.net/
+2019-05-23T15:06:15-04:00	A City Is Not a Computer https://placesjournal.org/article/a-city-is-not-a-computer
+2019-05-23T15:24:27-04:00	Tf-Idf and Cosine similarity | Seeking Wisdom https://janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/

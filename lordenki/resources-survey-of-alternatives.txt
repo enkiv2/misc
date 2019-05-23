@@ -103,6 +103,7 @@ http://www.ultratechnology.com/fsc98.htm
 http://www.ultratechnology.com/fsc99.htm
 http://www.ultratechnology.com/fsc2000.htm
 TempleOS / LoseThos / Shrine
+https://christine.website/blog/templeos-1-installation-and-basic-use-2019-05-20
 https://github.com/minexew/Shrine
 http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
 http://www.osnews.com/story/23796/Recreational_Programming_With_LoseThos
