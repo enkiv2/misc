@@ -317,6 +317,7 @@ https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.h
 https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
 General
+https://maxhallinan.com/posts/2019/05/30/start-with-just-a-few-things/
 https://zwischenzugs.com/2019/04/12/apples-hq-ruskin-gothic-architecture-and-agile/
 http://shirky.com/writings/herecomeseverybody/situated_software.html
 https://news.ycombinator.com/item?id=16586347

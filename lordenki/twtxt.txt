@@ -7543,3 +7543,115 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-23T14:39:46-04:00	Set Theory and Foundations of Mathematics http://settheory.net/
 2019-05-23T15:06:15-04:00	A City Is Not a Computer https://placesjournal.org/article/a-city-is-not-a-computer
 2019-05-23T15:24:27-04:00	Tf-Idf and Cosine similarity | Seeking Wisdom https://janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/
+2019-05-23T16:57:43-04:00	Text contrast by term frequency: https://github.com/enkiv2/misc/blob/master/colorByTF.py example output: http://www.lord-enki.net/neuro-colored.html
+2019-05-24T08:16:01-04:00	9FRONT DASH 1 and PROGRAMMER'S MANUAL print editions http://stanleylieber.com/2019/05/23/0/
+2019-05-24T08:17:39-04:00	Thread by @patrissimo: "1/ On the danger of "Puzzles". A puzzle is an activity which takes brains but not effort, like Sudoku, crosswords, Hearthstone/MtG, bridge, […]" https://threadreaderapp.com/thread/1130871057961766912.html
+2019-05-24T08:29:38-04:00	People Are Finally Fighting Back Against the College Textbook Industry 'Scam' - VICE https://www.vice.com/en_us/article/pajze9/people-are-finally-fighting-back-against-the-college-textbook-industrys-scam
+2019-05-24T08:35:37-04:00	Band name of the day: almost meat
+2019-05-24T08:37:58-04:00	Electronic University History: TeleLearning at 300 Baud https://tedium.co/2019/05/23/telelearning-electronic-university-history/
+2019-05-24T08:38:37-04:00	Band name of the day: knowledge modem
+2019-05-24T08:38:51-04:00	Band name of the day: sold separately
+2019-05-24T09:15:13-04:00	Band name of the day: culthopping
+2019-05-24T09:18:30-04:00	Hanging on the Telephone " Real Life https://reallifemag.com/hanging-on-the-telephone/
+2019-05-24T09:49:08-04:00	Unicode programming, with examples https://begriffs.com/posts/2019-05-23-unicode-icu.html
+2019-05-24T12:39:59-04:00	Outside the dentist office, a life size cardboard cutout of Kujo Jotaro with a life-size cardboard cutout of Star Platinum and the words 'PRACTICE GOOD ORA HYGENE'
+2019-05-24T12:43:32-04:00	A surprising amount of activity in the world is based on the false assumption that, across all circumstances, the best way to get a thing is to pay someone to give it to you. It's weird to see that applied to, like, activism, and research.
+2019-05-24T13:29:44-04:00	Garbage Collection In Go : Part I - Semantics https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+2019-05-24T13:30:50-04:00	Comcast does so much lobbying that it says disclosing it all is too hard | Ars Technica https://arstechnica.com/tech-policy/2019/05/comcast-does-so-much-lobbying-that-it-says-disclosing-it-all-is-too-hard/
+2019-05-24T13:31:40-04:00	RETRO Handbook http://forthworks.com/retro/book.html
+2019-05-24T13:42:31-04:00	Home – the Common Lisp Cookbook https://lispcookbook.github.io/cl-cookbook/
+2019-05-24T13:44:27-04:00	Dazzling Darkness: Mysticism and Philosophy Syllabus – An und für sich https://itself.blog/2018/09/04/dazzling-darkness-mysticism-and-philosophy-syllabus/
+2019-05-24T17:16:29-04:00	Satoshi Kon and Why Love Is All You Need: Ep. 3 - Tokyo Godfathers - YouTube https://www.youtube.com/watch?v=9EceEemWo0k
+2019-05-24T17:16:58-04:00	The Cohen Brothers except they're both Satoshi Kon. The Kon Brothers.
+2019-05-24T20:41:27-04:00	Band name of the day: the abyssal zone
+2019-05-24T20:41:55-04:00	we've all seen madoka magica so we all know that the only real renewable form of energy is teenage angst
+2019-05-24T23:56:17-04:00	TBH, Legacy of Blood is a great example of how to do a remake. The original was barely-watchable crap for basically production reasons. The remake wasn't banking on name recognition: it was banking on the idea that giving the script to competent people would be cheaper than a new script.
+2019-05-25T02:15:49-04:00	Man, the Sukeban Deka OVA doesn't fuck around. The whole premise established in the first 1:30 of screentime, during a cold open.
+2019-05-25T17:19:06-04:00	Shuffle is one of those franchises where, while (as usual) I ship the childhood friend, her relationship with protagonist-kun is SO regressive that I'm half-expecting a Mirai Nikki level dark backstory for it.
+2019-05-26T09:14:12-04:00	Man... Shuffle makes Fate/Stay Night look tightly plotted...
+2019-05-26T09:18:05-04:00	Only in a VN do you get lines like "I'd prefer it if you didn't love me back"...
+2019-05-26T09:30:53-04:00	From the POV of someone who makes VNs, Shuffle is also weird in terms of which scenes it decides to have CG for & which poses are actually drawn vs just described...
+2019-05-26T11:14:45-04:00	It's been a while since I played Umineko so I forgot how intensely foreboding the atmosphere was and how assholish all the adult characters came off even in the very beginning of the first arc, before anybody even dies.
+2019-05-26T12:40:09-04:00	Harems Make the Best Dramas - YouTube https://www.youtube.com/watch?v=FevEpHD0wII
+2019-05-26T12:54:11-04:00	JoJo's Time Loop - The Active Antagonist in Bites the Dust - YouTube https://www.youtube.com/watch?v=oYNt84D10e0
+2019-05-26T14:04:20-04:00	Bad idea of the day: an RPG where, because all the merchants have internal politics between them & different social networks, loyalty to a particular mechant (and maybe even making friends with them) will change how other NPCs treat you & what information & resources are available
+2019-05-26T14:33:09-04:00	The Design of Time: Understanding Human Attention and Economies of Engagement - YouTube https://www.youtube.com/watch?v=vBvFrPQvSc0
+2019-05-26T14:35:54-04:00	Bad idea of the day: A narrative game that takes place over a year, where stories can only be played through on the days that are anniversaries of the days they occur on. There is an achievement for april fool's day.
+2019-05-26T15:30:13-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-05-26T18:28:16-04:00	The guy streaming my VN got one of the bad ends and was like 'is this the good end?' and actually I'm kinda proud of that. I made a game so despair-filled that an apocalypse of telepathic working-memory-eating aliens seems like it might be the best option.
+2019-05-26T18:34:05-04:00	Two things drastically reduced the amount of time I spend reading: getting a job and getting a car. It's a lot easier to blow through books if there's multi-hour gaps between periods of classwork, or if you spend four hours a day surrounded by strangers on a shaky vehicle.
+2019-05-27T11:51:55-04:00	Watching somebody stream my game has been informative because it made me think about tempering my assumptions about obviousness. Seeing somebody fail to put together a plot point I thought was too obvious to state explicitly and fail puzzles as a result...
+2019-05-27T16:57:17-04:00	Upon a replay of the first episode of Umineko, I think Gwern's idea that it violates the contract of detective fiction doesn't really fit. While it uses the tropes, we are told outright in the saga about the umbrella what kind of story this is.
+2019-05-28T08:36:04-04:00	Too Human " Real Life https://reallifemag.com/too-human/
+2019-05-28T08:52:59-04:00	The Universe of Discourse : The shittiest project I ever worked on https://blog.plover.com/tech/prudential.html
+2019-05-28T08:56:59-04:00	No Moods, Ads or Cutesy Fucking Icons » The Gong Show. https://www.rifters.com/crawl/?p=8745
+2019-05-28T09:07:05-04:00	The academy I dreamed of for 20 years no longer exists, and I am waking up | Times Higher Education (THE) https://www.timeshighereducation.com/features/academy-i-dreamed-20-years-no-longer-exists-and-i-am-waking
+2019-05-28T09:54:14-04:00	YouTubers and record labels are fighting, and record labels keep winning - The Verge https://www.theverge.com/2019/5/24/18635904/copyright-youtube-creators-dmca-takedown-fair-use-music-cover
+2019-05-28T10:00:10-04:00	Bad idea of the day: a site that, given a set of tags, brings up the full text of a randomly chosen academic paper matching those tags.
+2019-05-28T10:23:05-04:00	College Students Aren't Checking Out Books - The Atlantic  https://www.theatlantic.com/ideas/archive/2019/05/college-students-arent-checking-out-books/590305/
+2019-05-28T10:49:01-04:00	Band name of the day: perfect filth
+2019-05-28T10:49:16-04:00	Band name of the day: undignified objects
+2019-05-28T10:50:27-04:00	Philosophy should care about the filthy, excessive and unclean | Aeon Ideas https://aeon.co/ideas/philosophy-should-care-about-the-filthy-excessive-and-unclean
+2019-05-28T10:54:49-04:00	Band name of the day: altered wood
+2019-05-28T11:45:05-04:00	We suspect some of the dryads of consuming dangerous wood-altering drugs at these nighttime bacchanals
+2019-05-28T11:45:34-04:00	melt music for melt movies
+2019-05-28T12:01:49-04:00	What percentage of total revenue from ticket sales over the past year is attributed to movies not currently owned by Disney or Warner?
+2019-05-28T12:19:06-04:00	What It’s Like to Buy and Renovate a Cheap Old House https://www.thecut.com/2019/05/what-its-like-to-buy-and-renovate-a-cheap-old-house.html
+2019-05-28T12:28:23-04:00	Jane Jacobs and the Death and Life of American Planning https://placesjournal.org/article/jane-jacobs-and-the-death-and-life-of-american-planning/
+2019-05-28T12:33:47-04:00	What Is Cult Hopping? How People Leave One Group and End Up In Another – Rolling Stone https://www.rollingstone.com/culture/culture-features/what-is-cult-hopping-nxivm-dos-838750/
+2019-05-28T12:37:23-04:00	Before Netscape: The forgotten Web browsers of the early 1990s | Ars Technica https://arstechnica.com/information-technology/2019/05/before-netscape-forgotten-web-browsers-of-the-early-1990s/
+2019-05-28T12:39:59-04:00	A Perfectly Normal Interview with Carmen Maria Machado Where Everything Is Fine - Electric Literature https://electricliterature.com/carmen-maria-machado-carmilla-lefanu-vampire-interview/
+2019-05-28T13:06:51-04:00	Sort of shockingly, popular opinion seems to be that Searle was a good philosopher who also happened to be a creep, as opposed to a guy who got away with sloppy philosophy through the same mechanisms by which he got away with sexual misconduct.
+2019-05-28T14:02:46-04:00	2Doom: free 2D Doom demake / Boing Boing https://boingboing.net/2019/05/28/2doom-free-2d-doom-demake.html
+2019-05-28T14:08:35-04:00	What I Don’t Tell My Students About ‘The Husband Stitch’ - Electric Literature https://electricliterature.com/what-i-dont-tell-my-students-about-the-husband-stitch/
+2019-05-28T14:23:17-04:00	In case you haven't gotten it yet, Manna for our Malices will be part of the steam summer sale. (I'm hoping that this will cause it to show up in more people's queues or recommendations.)
+2019-05-28T14:24:37-04:00	whenever you have to say that a reminder is friendly, the reminder isn't friendly
+2019-05-28T15:51:23-04:00	30-plus years of HyperCard, the missing link to the Web | Ars Technica https://arstechnica.com/gadgets/2019/05/25-years-of-hypercard-the-missing-link-to-the-web/
+2019-05-28T16:55:51-04:00	Before you watch a movie, write down what the best version of that movie you can imagine is, and then if the movie you end up seeing is worse than what you imagined, turn your prediction into a screenplay.
+2019-05-28T19:13:34-04:00	Hot take: circular logic is cool and good actually, so long as it's used properly. By this I mean: we often look for hierarchies of causes, & we inherit this from Aristotle, who was looking for the primary cause, but history is longer than Aristotle realized & stable systems cause themselves (that's what makes 'em stable)
+2019-05-29T08:31:36-04:00	Band name of the day: indistinguishable from journalism
+2019-05-29T08:34:46-04:00	The lingua franca of LaTeX " Increment: Open Source https://increment.com/open-source/the-lingua-franca-of-latex/
+2019-05-29T09:56:21-04:00	GitHub - penrose/penrose: Create beautiful diagrams just by typing mathematical notation in plain text. https://github.com/penrose/penrose
+2019-05-29T10:28:19-04:00	Band name of the day: blood by drone
+2019-05-29T10:45:23-04:00	You don't understand exceptions, but you should http://matt.might.net/articles/implementing-exceptions/
+2019-05-29T10:47:26-04:00	Dasher method and morse code – TBF R&D http://tbf-rnd.life/blog/2019/05/27/dasher-method-and-what-i-am-trying-to-accomplish/
+2019-05-29T11:01:56-04:00	GitHub - mlang/diagrams-braille: Render diagrams to Braille https://github.com/mlang/diagrams-braille
+2019-05-29T11:19:43-04:00	Band name of the day: one-time achievement award
+2019-05-29T11:21:18-04:00	Band name of the day: organic reduction
+2019-05-29T11:43:53-04:00	Novelty Songwriting Contests: How They Shape Offbeat Music https://tedium.co/2019/05/21/novelty-songwriting-contests/
+2019-05-29T12:30:53-04:00	Band name of the day: extended face processing
+2019-05-29T12:35:46-04:00	alpha/Ch_1.2_Chorded.md at master · TBF-RnD/alpha · GitHub https://github.com/TBF-RnD/alpha/blob/master/Ch_1.2_Chorded.md
+2019-05-29T13:08:21-04:00	not my vampire circus, not my 50-foot monkeys
+2019-05-29T13:12:04-04:00	How Should We Critique Research? - Gwern.net https://www.gwern.net/Research-criticism
+2019-05-29T13:24:08-04:00	Nomen Ludi - Boing Boing https://boingboing.net/features/nomenludi.html
+2019-05-29T16:30:26-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-05-30T07:57:11-04:00	GitHub - alok/notational-fzf-vim: Notational velocity for vim. https://github.com/alok/notational-fzf-vim
+2019-05-30T08:16:22-04:00	Falsehoods Programmers Believe About Search https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/
+2019-05-30T08:18:48-04:00	Intersectionality, explained: meet Kimberlé Crenshaw, who coined the term - Vox https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
+2019-05-30T09:16:41-04:00	Re: https://www.metafilter.com/181143/was-the-average-1970s-computer-hobbyist-also-a-male#7710863 I think the author ought to look at the cost of knitting & crochet supplies...
+2019-05-30T09:23:27-04:00	How do you cut a monolith in half? " programming is terrible https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half
+2019-05-30T09:26:31-04:00	Your syntax highlighter is wrong https://jameshfisher.com/2014/05/11/your-syntax-highlighter-is-wrong/
+2019-05-30T09:28:59-04:00	UTF-8 String Indexing Strategies « null program https://nullprogram.com/blog/2019/05/29/
+2019-05-30T09:37:20-04:00	What I Learned Trying To Secure Congressional Campaigns (Idle Words) https://idlewords.com/2019/05/what_i_learned_trying_to_secure_congressional_campaigns.htm
+2019-05-30T09:38:02-04:00	Band name of the day: soul-crushing telethon
+2019-05-30T09:41:19-04:00	Bullet Time https://logicmag.io/07-bullet-time/
+2019-05-30T09:59:56-04:00	most of what we think of as 'business' is a set of elaborate mechanisms to avoid needing to provide value, please customers, make a profit, or deal with liability. in this sense, silicon valley VC culture & the stock market have been successful
+2019-05-30T10:31:14-04:00	An Exercise Program for the Fat Web https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/
+2019-05-30T10:52:32-04:00	ACM OOPS Messenger 4, 4 (Oct 1993), 2-27 http://home.pipeline.com/~hbaker1/ObjectIdentity.html
+2019-05-30T12:14:38-04:00	Start With Just a Few Things | Max Hallinan https://maxhallinan.com/posts/2019/05/30/start-with-just-a-few-things/
+2019-05-30T12:46:54-04:00	The trolley problem problem | linnet taylor https://linnettaylor.wordpress.com/2018/11/27/the-trolley-problem-problem/
+2019-05-30T12:50:37-04:00	One Man's Modus Ponens - Gwern.net https://www.gwern.net/Modus
+2019-05-30T12:54:50-04:00	Explore the Wild Filmography of the Director Behind 'Clownado' https://filmschoolrejects.com/clownado-director/
+2019-05-30T13:00:03-04:00	The brilliant weirdness of Morrowind's in-game books • Eurogamer.net https://www.eurogamer.net/articles/2019-05-23-the-brilliant-weirdness-of-morrowinds-in-game-literature
+2019-05-30T13:04:34-04:00	The Cul-de-Sac of the Computational Metaphor | Edge.org https://www.edge.org/conversation/rodney_a_brooks-the-cul-de-sac-of-the-computational-metaphor
+2019-05-30T13:07:56-04:00	TXR Language http://www.nongnu.org/txr/
+2019-05-30T13:09:15-04:00	Band name of the day: far memory
+2019-05-30T13:37:26-04:00	TempleOS: 2 - god, the Random Number Generator - Christine Dodrill https://christine.website/blog/templeos-2-god-the-rng-2019-05-30
+2019-05-30T13:42:35-04:00	Locked doors, headaches, and intellectual need | Affording Play https://mkremins.github.io/blog/doors-headaches-intellectual-need/
+2019-05-30T13:48:54-04:00	CMAP #16: Book Title Blues - Charlie's Diary http://www.antipope.org/charlie/blog-static/2019/05/cmap-16-book-title-blues.html
+2019-05-30T13:59:06-04:00	Hot take: because #hashtags improve discoverability, their use is #gauche and #cringey on the grounds that wanting to be #noticed is an act of #wanton #desperation
+2019-05-30T14:48:11-04:00	The World’s Most Annoying Man | Current Affairs https://www.currentaffairs.org/2019/05/the-worlds-most-annoying-man
+2019-05-30T16:24:06-04:00	The Lie of Sengoku Nadeko | Otorimonogatari/Koimonogatari Analysis - YouTube https://www.youtube.com/watch?v=awORirjcJV0
+2019-05-30T16:50:47-04:00	Band name of the day: stupid knife attack
+2019-05-31T07:04:44-04:00	tired: girl meets tractor; wired: protagonist-kun meets truck-kun
+2019-05-31T08:12:09-04:00	I never thought I'd meet a sea lion whose preferred griefing technique was to jump into people's conversations with 'logic doesn't real' but who doesn't realize that induction is a form of logic.
