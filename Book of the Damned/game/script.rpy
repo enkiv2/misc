@@ -1,4 +1,31 @@
-﻿label start:
+﻿init python:
+    from random import Random
+    random=Random()
+    def adjustLikelihoodByPreference(r, item, pref):
+        pref=int(pref*r)
+        if pref==0: return []
+        elif pref>0: return [item]*pref
+        else:
+            ax=[]
+            for i in range(0, r):
+                if i!=item:
+                    ax+=adjustLikelihoodByPreference(r, i, -1*pref)
+            return ax
+    def randomByPref(r, selected=-1, selPref=0, pref=[]):
+        coll=[]
+        if len(pref)==0:
+            coll=range(0, r)
+        else:
+            if len(pref)<r:
+                for i in range(len(pref)-1, r):
+                    pref[i]=1
+            for i in range(0, r):
+                coll+=adjustLikelihoodByPreference(r, i, pref[i])
+        if(selected>=0):
+            if(selPref!=0):
+                coll+=adjustLikelihoodByPreference(r, selected, selPref)
+        return random.choice(coll)
+label start:
     window hide
     scene black
     centered "{color=#fff}{cps=15}\"Witchcraft always has a hard time, until it becomes established and changes its name.\"{/cps}{/color}"
