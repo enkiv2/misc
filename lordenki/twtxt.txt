@@ -7659,3 +7659,101 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-05-31T09:43:39-04:00	"There's nothing magical about the number 10,000" is actually a good description of a lot of pop-science BS https://www.npr.org/sections/health-shots/2019/05/29/727943418/do-you-really-need-10-000-steps-per-day
 2019-05-31T09:46:30-04:00	David Epstein's 'Range' Makes the Case for Dabbling - The Atlantic  https://www.theatlantic.com/family/archive/2019/05/david-epstein-range/590704/
 2019-05-31T09:50:34-04:00	Measles for the One Percent https://www.thecut.com/2019/05/measles-for-the-one-percent.html
+2019-05-31T11:03:31-04:00	If you're single and touch-starved, a cat is a life-saver. Like, you might not be able to convince somebody to even shake your hand, but a cat will lay on you for 12 hours, rub against you, and purr.
+2019-05-31T11:06:42-04:00	Bubsy History: The Story of the World’s Greatest Video Game Mascot https://tedium.co/2019/05/30/bubsy-history-video-games/
+2019-05-31T11:08:12-04:00	LISP System Implementation- T3X.ORG http://www.t3x.org/lsi/index.html
+2019-05-31T11:09:53-04:00	Performance of Various Python Exponentiation Methods http://chrissardegna.com/blog/posts/python-expontentiation-performance/
+2019-05-31T11:13:12-04:00	Rails are a cult | Life on Marts  https://artur-martsinkovskyi.github.io//2019/rails-are-a-cult/
+2019-05-31T11:15:11-04:00	Grounded Speculation, or Divining the Past – Creative Histories of Witchcraft https://creativewitchcraft.wordpress.com/2019/05/29/grounded-speculation-or-divining-the-past/
+2019-05-31T11:17:19-04:00	By Terrie Hashimoto https://rikka-zine.tumblr.com/post/185222775010/by-terrie-hashimoto-this-is-a-quick-overview
+2019-05-31T11:24:07-04:00	The Speedrunner Who Wasn’t: How a Community Dealt with an Elaborate Cheater - VICE https://www.vice.com/en_us/article/59755n/the-speedrunner-who-wasnt-how-a-community-dealt-with-an-elaborate-cheater
+2019-05-31T11:34:01-04:00	Re: https://martinfowler.com/articles/is-quality-worth-cost.html Furthermore, the human cost of low-quality software is high enough that any economic system that incentivizes low quality software is by definition broken.
+2019-05-31T11:34:25-04:00	Is High Quality Software Worth the Cost? https://martinfowler.com/articles/is-quality-worth-cost.html
+2019-05-31T12:07:09-04:00	Big Brother’s Blind Spot | Joanne McNeil https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil
+2019-05-31T12:08:48-04:00	The Dads of Tech https://thebaffler.com/salvos/dads-tech
+2019-05-31T12:09:57-04:00	Is Philosophy OK? – The Electric Agora https://theelectricagora.com/2019/05/23/is-philosophy-ok/
+2019-05-31T12:10:36-04:00	This summer's hottest event is a "Goat LARP," a LARP designed to entertain goats https://news.avclub.com/this-summers-hottest-event-is-a-goat-larp-a-larp-des-1835148101
+2019-05-31T12:11:00-04:00	Goat LARP - Good Day Sacramento https://gooddaysacramento.cbslocal.com/video/4095598-goat-larp/
+2019-05-31T12:21:14-04:00	GitHub - github/semantic: Parsing, analyzing, and comparing source code across many languages https://github.com/github/semantic
+2019-05-31T12:26:24-04:00	Tech veganism | Read the Tea Leaves https://nolanlawson.com/2019/05/31/tech-veganism/
+2019-05-31T19:06:06-04:00	So I'm running Lunar again for the first time in ~4 years (the last release was in 2014). I'm hoping I'll be once again blown away by how much nicer it is to solve package problems than on debian-based systems.
+2019-05-31T20:23:28-04:00	The Capitalist Hero - The Individual and the Collective in Rising of the Shield Hero - YouTube https://www.youtube.com/watch?v=D7MeoCR9CY8
+2019-05-31T20:56:49-04:00	Utena's Prismatic Revolution of Love - YouTube https://www.youtube.com/watch?v=8Hmb5vbrgiQ
+2019-06-01T17:30:36-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-06-02T09:12:00-04:00	Umbertoeco no Naku Koro Ni
+2019-06-02T09:24:11-04:00	DJ Cummerbund - Play That Funky Music Rammstein - YouTube https://www.youtube.com/watch?v=tcUB-3lud60
+2019-06-02T11:58:55-04:00	Things currently on shudder I recommend watching right away: Blue Sunshine, Ghost Story, Phantom of the Paradise, The Exorcist (obviously), Society, A Boy and His Dog, The Changeling, God Told Me To
+2019-06-02T18:14:24-04:00	If you are ignorant of history then when you inevitably reinvent the wheel you have plausible deniability when you claim your work is revolutionary, but also, progress ends up spinning in place.
+2019-06-02T18:19:19-04:00	Bad idea of the day: A social network funded entirely by NSF grants, wherein scientists get permission to run large-scale controlled studies in psychology on users, who are briefed on the experiments they were a part of afterward. All users are paid for each experiment they contribute to.
+2019-06-03T07:45:50-04:00	Which kind of medium writer are you: the kind who has nothing to say but needs to publish something by noon, or the kind who is working out their personal neuroses in public by fixating on something their audience considers trivial?
+2019-06-03T08:52:59-04:00	Fall by Neal Stephenson review. https://slate.com/culture/2019/06/neal-stephenson-fall-book-review-dodge-in-hell.html
+2019-06-03T09:08:16-04:00	mollasses pop
+2019-06-03T09:25:54-04:00	Band name of the day: truffle fraud
+2019-06-03T09:58:18-04:00	the only thing wrong with dark mode is that most dark modes are insufficiently high contrast
+2019-06-03T10:10:40-04:00	Want to Write a Compiler? Just Read These Two Papers. https://prog21.dadgum.com/30.html
+2019-06-03T10:13:13-04:00	A grimoire of functions http://fredrikj.net/blog/2019/05/a-grimoire-of-functions/
+2019-06-03T10:16:40-04:00	Band name of the day: diabolical lizard cult
+2019-06-03T10:24:03-04:00	Knowledge is a stone-age concept, we're better off without it | Aeon Essays https://aeon.co/essays/knowledge-is-a-stone-age-concept-were-better-off-without-it
+2019-06-03T10:25:38-04:00	Elbertie Foudray and the Adventure of Life | Census Stories, USA https://censusstories.us/2018/08/11/foudray.html
+2019-06-03T11:23:09-04:00	Confessions of a Reddit 'Karma Whore' - VICE https://www.vice.com/en_us/article/3k359n/confessions-of-a-reddit-karma-whore
+2019-06-03T11:26:14-04:00	Fuzzy Logic, Fuzzy Ethics " Real Life https://reallifemag.com/fuzzy-logic-fuzzy-ethics/
+2019-06-03T13:01:18-04:00	Why do humans have numbers: are they cultural or innate? | Aeon Essays https://aeon.co/essays/why-do-humans-have-numbers-are-they-cultural-or-innate
+2019-06-03T13:12:58-04:00	After Training Dozens of Democratic Campaigns on Email Security, This Programmer Thinks They Ought to Be Hacked – Mother Jones https://www.motherjones.com/politics/2019/05/maciej-ceglowski-democratic-email-security/
+2019-06-03T13:18:04-04:00	At least one Vim trick you might not know  • Hillel Wayne https://www.hillelwayne.com/post/intermediate-vim/
+2019-06-03T13:31:48-04:00	GreaterThanZero " C++ and the Culture of Complexity https://blog.greaterthanzero.com/post/58482859780/c-and-the-culture-of-complexity
+2019-06-03T13:36:01-04:00	The Artificial Intelligence of the Public Intellectual  https://longreads.com/2019/05/31/the-artificial-intelligence-of-the-public-intellectual/
+2019-06-03T15:07:49-04:00	your computer has performed an illegal operation. the police are en route.
+2019-06-03T15:10:55-04:00	a new cancelmoose with different weapons
+2019-06-03T15:16:21-04:00	Humble Book Bundle: A Friendly Introduction To The VaST COLD SPACES B E T W E E N T H E S T A R S , WHERE H E W A I T S
+2019-06-03T15:21:26-04:00	I'm starting to understand why I side with folks who say 'C++ isn't real OO'. Basically, even as language evolves, this is still a problem because of stolen hype. The positives cited for OO exist in smalltalk & don't exist in C++.
+2019-06-03T15:30:24-04:00	Thinking in Systems by Donella Meadows http://beza1e1.tuxen.de/thinking_in_systems.html
+2019-06-03T15:32:00-04:00	A case for lease-based, utilitarian resource management on mobile devices – the morning paper https://blog.acolyer.org/2019/05/31/lease-os/
+2019-06-04T06:45:15-04:00	how bold of you to imply that liberals are to the left of anything
+2019-06-04T07:03:14-04:00	The Uncertain Future of Sweden's Floating Libraries | Literary  Hub https://lithub.com/the-uncertain-future-of-swedens-floating-libraries/
+2019-06-04T07:05:59-04:00	The Society For The Promotion Of Translating "Quatre-Vignt" As "Four-Score"
+2019-06-04T07:57:43-04:00	reading-activitypub https://tinysubversions.com/notes/reading-activitypub/
+2019-06-04T09:42:31-04:00	Uber’s Path of Destruction - American Affairs Journal https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/
+2019-06-04T09:44:51-04:00	Getting poorer while working harder: The 'cliff effect' https://theconversation.com/getting-poorer-while-working-harder-the-cliff-effect-113422
+2019-06-04T09:49:27-04:00	Falsehoods programmers believe about addresses https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/
+2019-06-04T09:51:47-04:00	An Overview of the Icon Programming Language; Version 9 https://www2.cs.arizona.edu/icon/docs/ipd266.htm
+2019-06-04T09:54:00-04:00	How to Make Wind Power Sustainable Again | LOW←TECH MAGAZINE https://solar.lowtechmagazine.com/2019/06/wooden-wind-turbines.html
+2019-06-04T09:56:14-04:00	406 Not Acceptable https://gutenberg.ca/ebooks/innis-minerva/innis-minerva-00-h.html
+2019-06-04T09:58:28-04:00	CrimethInc. : Against the Logic of the Guillotine : Why the Paris Commune Burned the Guillotine"and We Should Too https://crimethinc.com/2019/04/08/against-the-logic-of-the-guillotine-why-the-paris-commune-burned-the-guillotine-and-we-should-too
+2019-06-04T16:08:12-04:00	Never Sleep Again: The Wall Street Legacy
+2019-06-04T18:30:56-04:00	Periodic reminder: Entries for the 2019 No-Budget Film Contest are now open, and will close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-06-04T19:00:51-04:00	there ain't no hypersigil like a wes craven hypersigil
+2019-06-04T19:07:13-04:00	Band name of the day: born cancelled
+2019-06-05T08:23:50-04:00	thing is, if we threw a milkshake at milkshake duck he might like it
+2019-06-05T08:29:16-04:00	Band name of the day: heirloom laptops
+2019-06-05T08:32:09-04:00	Band name of the day: churning cauldron of arbitrary failure
+2019-06-05T08:32:28-04:00	Band name of the day: projected litanies of glamour
+2019-06-05T08:32:49-04:00	Band name of the day: the cryptic crude
+2019-06-05T08:33:01-04:00	Band name of the day: four of skin
+2019-06-05T08:38:50-04:00	Band name of the day: cruelty-free experience
+2019-06-05T08:50:35-04:00	Seeing stunt journalism articles like 'I went 100 days without dating or sex' makes me realize that some people live in a fundamentally different world where not having a date for a few years is abnormal.
+2019-06-05T09:04:36-04:00	How capitalism killed one of the best video game studios https://theweek.com/articles/844962/how-capitalism-killed-best-video-game-studios
+2019-06-05T09:13:06-04:00	Who Kept Buying the Mac Pro Everyone Hated? - VICE https://www.vice.com/en_us/article/pajmk9/who-kept-buying-the-mac-pro-everyone-hated
+2019-06-05T09:55:00-04:00	Band name of the day: poptischism
+2019-06-05T10:03:50-04:00	time spent on revenge is always wasted
+2019-06-05T10:07:42-04:00	No matter how played-out an article seems, there's always at least one follower who hasn't read it yet & has their mind blown.
+2019-06-05T10:28:49-04:00	Bad idea of the day: VMs except they're actually a separate computer inside the case of your existing computer that you SSH into, & you can switch I/O devices to it with a key.
+2019-06-05T10:33:35-04:00	Where Are All the Trash Cans in Japanese Cities? - CityLab  https://www.citylab.com/life/2019/05/trash-cans-japan-garbage-bin-recycling-waste-tidying-up/589825/
+2019-06-05T10:37:15-04:00	Why Your Next Home Computer Should Be an Old Xeon Workstation https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/
+2019-06-05T10:51:08-04:00	Forget the pyramids, the greatest mystery of our time is what happened to Yahoo Serious | Luke Buckmaster | Television & radio | The Guar... https://www.theguardian.com/tv-and-radio/2019/jun/03/forget-the-pyramids-the-greatest-mystery-of-our-time-is-what-happened-to-yahoo-serious
+2019-06-05T11:04:17-04:00	Band name of the day: catladder
+2019-06-05T11:04:36-04:00	tired: blackadder; wired: catladder
+2019-06-05T11:31:00-04:00	To Evade Pre-Prohibition Drinking Laws, New Yorkers Created the World's Worst Sandwich - Gastro Obscura https://www.atlasobscura.com/articles/raines-sandwich
+2019-06-05T11:32:19-04:00	The Infinite Jukebox | Music Machinery https://musicmachinery.com/2012/11/12/the-infinite-jukebox/
+2019-06-05T11:33:24-04:00	GitHub - Engelberg/instaparse https://github.com/Engelberg/instaparse
+2019-06-05T11:34:55-04:00	The new American religion of UFOs - Vox https://www.vox.com/culture/2019/6/4/18632778/ufo-aliens-american-cosmic-diana-pasulka
+2019-06-05T11:37:49-04:00	A first-person engine in 265 lines http://www.playfuljs.com/a-first-person-engine-in-265-lines/
+2019-06-05T11:41:01-04:00	SEC ARCH DEV  | Plausible Deniability and Gaslighting in Fighting Ad Blockers https://secarch.dev/posts/plausible-deniability-and-gaslighting-in-fighting-ad-blockers/
+2019-06-05T13:17:27-04:00	The Revolution That Wasn’t: why conservatives are winning the internet - Vox https://www.vox.com/policy-and-politics/2019/6/3/18624687/conservatism-liberals-internet-activism-jen-schradie
+2019-06-05T13:35:45-04:00	bollu.github.io | code + contents of my website, and programming life http://bollu.github.io/
+2019-06-05T14:11:16-04:00	I hope this doesn't catch on with libraries that currently have open stacks, since it basically eliminates serindipity, but for research libraries where patrons don't have stack access I guess it's fine: https://qz.com/1542364/nc-state-is-home-to-the-library-of-the-future/
+2019-06-05T14:18:09-04:00	Body Ritual among the Nacirema - Wikisource, the free online library https://en.wikisource.org/wiki/Body_Ritual_among_the_Nacirema
+2019-06-05T14:19:40-04:00	Concurrency with Python: CSP and Coroutines > Ying Wang https://bytes.yingw787.com/posts/2019/02/09/concurrency_with_python_csp_and_coroutines/
+2019-06-05T14:24:40-04:00	Russia's manipulation of Twitter was far vaster than believed - POLITICO https://www.politico.com/story/2019/06/05/study-russia-cybersecurity-twitter-1353543
+2019-06-05T14:26:27-04:00	Band name of the day: semiautomatic keigo
+2019-06-05T14:27:56-04:00	Explaining 'Manual Keigo,' the Code of Japan's Clerks - CityLab  https://www.citylab.com/life/2019/01/language-japanese-stores-manual-keigo-customer-service/579988/
+2019-06-05T14:44:48-04:00	Cramulus | Sufi Influences on Discordianism https://cramul.us/post/185384678522/sufi-influences-on-discordianism
