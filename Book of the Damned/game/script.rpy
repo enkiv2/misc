@@ -44,7 +44,7 @@ label start:
     misa "Yes, bad luck, isn't it?"
     misa "{i}Worse, since I'm stuck with such a perv for a driver...{/i}"
     "Taxi driver" "{i}such a pretty young girl not so many fares are so pretty girls these days grow up so fast did i remember to shut that upstairs window it sure is pouring too bad she isn't wearing white soaked already no no she would need to beg first what's that van doing there sure is an old one he's wet{/i}"
-    n "Misa looked out the window."
+    n "Misato looked out the window."
     scene kuroki van rain splash
     misa "Driver, pick up that man please."
     "Taxi driver" "Understood."
@@ -56,11 +56,11 @@ label start:
     "Taxi driver" "It's a little out of our way, miss."
     misa "We're almost to our desination. The time, and the cost, must be a drop in the bucket compared to how far we've already come."
     "Taxi driver" "Of course. Very good."
-    n "The drenched stranger slid into the seat beside Misa."
+    n "The drenched stranger slid into the seat beside Misato."
     misa "{i}Strange... I can't read him...{/i}"
     n "The man noticed her look, and smiled graciously."
     "Stranded man" "I am Kuroki. Fyodor Federov Kuroki: poet, linguist, and freelance combat etymologist. And you?"
-    misa "Umeji Misa, student."
+    misa "Umeji Misato, student."
     kuroki "Hmmm... I see..."
     misa "What do you see?"
     kuroki "You have an interesting path ahead of you. Your talents won't be enough, though they will be vital."
@@ -81,7 +81,7 @@ label start:
     scene moonlit house
     n "The building rose out of the fog, in the center of a clearing surrounded by trees. It was old, and western-style, but clearly well-maintained: the elaborate stonework had no grime, let alone moss. Someone must have been hired to clean all the crevices in the past few weeks, probably as part of opening it up as a dormitory."
     scene moonlit door
-    n "Misa knocked on the ornate door, but no answer came."
+    n "Misato knocked on the ornate door, but no answer came."
     menu:
         "Try the knob.":
             $ pass
@@ -104,7 +104,7 @@ label start:
     misa "But we just met..."
     akane "I go by only one name. Like Gackt."
     misa "O-- Oh..."
-    misa "I'm Umeji Misa. Pleased to meet you."
+    misa "I'm Umeji Misato. Pleased to meet you."
     akane "Umeji-san, huh?"
     misa "I wonder... Is my sister here yet? Umeji Miko. We're both staying here."
     akane "Sorry to say, you're the second to arrive."
@@ -153,11 +153,11 @@ label start:
     misa "Sounds fun."
     akane "But first you must cross my hand with silverrrrr~"
     extend "  kidding! You have to cut the deck though. With your left hand."
-    n "Misa cut the deck."
+    n "Misato cut the deck."
     akane "Here we go."
     n "Akane put cards down one after another on the comforter between them, making a sort of pattern."
     scene tarot
-    comment "XXX tarot scene goes here: Akane reads spread, and Misa reads her mind about some of the meanings she is too polite to explain."
+    comment "XXX tarot scene goes here: Akane reads spread, and Misato reads her mind about some of the meanings she is too polite to explain."
     scene akane bedroom
     play sound "sfx/txtmsg.wav"
     scene cellphone

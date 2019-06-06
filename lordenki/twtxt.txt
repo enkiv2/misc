@@ -7757,3 +7757,24 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-05T14:26:27-04:00	Band name of the day: semiautomatic keigo
 2019-06-05T14:27:56-04:00	Explaining 'Manual Keigo,' the Code of Japan's Clerks - CityLab  https://www.citylab.com/life/2019/01/language-japanese-stores-manual-keigo-customer-service/579988/
 2019-06-05T14:44:48-04:00	Cramulus | Sufi Influences on Discordianism https://cramul.us/post/185384678522/sufi-influences-on-discordianism
+2019-06-06T06:40:45-04:00	We're getting to the point, with computing & with AI in particular, where shit that people are trying to hype up as new was literally being done seventy years ago.
+2019-06-06T07:49:30-04:00	Empirical analysis of behavioral advertising finds that surveillance makes ads only 4% more profitable for media companies / Boing Boing https://boingboing.net/2019/06/04/all-that-for-4-pct.html
+2019-06-06T07:52:11-04:00	HN: the good parts https://danluu.com/hn-comments/
+2019-06-06T07:53:37-04:00	Lambry, Les Animaux tels qu'ils sont (1930) http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html
+2019-06-06T08:01:36-04:00	Book Review: The Secret Of Our Success | Slate Star Codex https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/
+2019-06-06T08:58:09-04:00	Random link from the archives: https://www.hillelwayne.com/post/formally-specifying-uis/ originally archived Tue Nov 13 11:09:56 EST 2018	Formally Specifying UIs • Hillel Wayne
+2019-06-06T09:01:39-04:00	How Politicians and Scholars Turned Against Big Tech - The Atlantic  https://www.theatlantic.com/technology/archive/2019/06/how-politicians-and-scholars-turned-against-big-tech/591052/
+2019-06-06T10:05:21-04:00	‘Socialism for the rich’: the evils of bad economics | Inequality | The Guardian https://www.theguardian.com/inequality/2019/jun/06/socialism-for-the-rich-the-evils-of-bad-economics
+2019-06-06T10:05:36-04:00	Giacomo Tesio http://www.tesio.it/2019/06/03/what-is-informatics.html
+2019-06-06T10:09:07-04:00	:: Grey Lodge Occult Review :: Archives :: https://web.archive.org/web/20071012023520/https://www.greylodge.org/occultreview/idxs/completeidx.html
+2019-06-06T10:21:43-04:00	Vaporwave Font | dafont.com https://www.dafont.com/vaporwave.font
+2019-06-06T10:23:15-04:00	Third Bit: Things I Would Do (If I Still Did Research) http://third-bit.com/2019/06/05/things-i-would-do.html
+2019-06-06T10:25:09-04:00	Overview | GRIN Compiler https://grin-compiler.github.io/
+2019-06-06T10:32:23-04:00	Butler Lampson - Systems http://bwlampson.site/Systems.htm
+2019-06-06T10:32:55-04:00	Butler Lampson - Publications http://bwlampson.site/Publications.htm
+2019-06-06T10:34:36-04:00	The Alto and Ethernet System: Xerox PARC in the 1970's http://bwlampson.site/Slides/AltoAtPARCIn1970s_files/frame.htm
+2019-06-06T10:34:59-04:00	Lazy and Speculative Execution http://bwlampson.site/Slides/LazyAndSpeculative_files/frame.htm
+2019-06-06T10:45:53-04:00	Executive Power Doesn't Mean Much - The Atlantic  https://www.theatlantic.com/ideas/archive/2019/06/executive-power-doesnt-mean-much/590461/
+2019-06-06T10:48:44-04:00	The design and implementation of a lock-free ring-buffer with contiguous reservations https://ferrous-systems.com/blog/lock-free-ring-buffer/
+2019-06-06T10:49:54-04:00	Periodic reminder that Apple is not, and has never been, the good guy: https://www.reuters.com/article/us-apple-apps/apple-forces-developers-to-place-its-login-button-above-google-facebook-idUSKCN1T6056
+2019-06-06T10:52:27-04:00	AI experts draft algorithmic bill of rights to protect us from Big Tech - Vox https://www.vox.com/the-highlight/2019/5/22/18273284/ai-algorithmic-bill-of-rights-accountability-transparency-consent-bias
