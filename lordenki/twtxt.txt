@@ -7778,3 +7778,61 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-06T10:48:44-04:00	The design and implementation of a lock-free ring-buffer with contiguous reservations https://ferrous-systems.com/blog/lock-free-ring-buffer/
 2019-06-06T10:49:54-04:00	Periodic reminder that Apple is not, and has never been, the good guy: https://www.reuters.com/article/us-apple-apps/apple-forces-developers-to-place-its-login-button-above-google-facebook-idUSKCN1T6056
 2019-06-06T10:52:27-04:00	AI experts draft algorithmic bill of rights to protect us from Big Tech - Vox https://www.vox.com/the-highlight/2019/5/22/18273284/ai-algorithmic-bill-of-rights-accountability-transparency-consent-bias
+2019-06-06T10:59:25-04:00	Building the most inaccessible site possible with a perfect Lighthouse score - Manuel Matuzović https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/
+2019-06-06T11:24:37-04:00	Architectural Terminology http://img.uoregon.edu/arh314/terminology/Terminology_all.html
+2019-06-06T11:25:10-04:00	'Is this going to be a joyous place?' … the architects asking revolutionary questions | Art and design | The Guardian https://www.theguardian.com/artanddesign/2019/may/29/joyous-place-public-practice-architects-shocking-questions-harlow-garden-town
+2019-06-06T11:25:30-04:00	Too Many Requests https://www.reddit.com/r/bizarrebuildings/comments/b7m6nh/1970_expo_tower_in_osaka_japan/
+2019-06-06T11:25:46-04:00	16 Real Places That Look Like They're From the Future - Atlas Obscura https://www.atlasobscura.com/articles/places-that-look-like-science-fiction
+2019-06-06T11:30:21-04:00	Bad idea of the day: a compiler from prolog to GNU Make
+2019-06-06T11:32:32-04:00	Advanced Data Structures (6.851) https://courses.csail.mit.edu/6.851/fall17/
+2019-06-06T11:45:39-04:00	Mumps Programming Language  http://www.cs.uni.edu/~okane/
+2019-06-06T11:46:00-04:00	Software Folklore ― Andreas Zwinkau http://beza1e1.tuxen.de/lore/
+2019-06-06T11:46:19-04:00	Bad idea of the day: a block-based drag and drop visual editor for APL
+2019-06-06T11:46:51-04:00	A Brief History of Databases · Avant.org http://avant.org/project/history-of-databases/
+2019-06-06T11:47:07-04:00	50s computer brochures |  https://timgeorgedesign.wordpress.com/2014/06/11/50s-computer-brochures/
+2019-06-06T11:47:33-04:00	The Secret History of Hypertext - The Atlantic  https://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/
+2019-06-06T11:49:40-04:00	Who Killed Prolog? | A Programmers Place https://vanemden.wordpress.com/2010/08/21/who-killed-prolog/
+2019-06-06T11:53:35-04:00	Data Science at the Command Line https://www.datascienceatthecommandline.com/index.html
+2019-06-06T12:59:33-04:00	Unless your application is specifically intended for users with specialized high-performance hardware, if it doesn't run reliably on a mid-range laptop from 2008, it's broken.
+2019-06-06T13:19:58-04:00	GNU Hyperbole - The Everyday Hypertextual Information Manager https://www.gnu.org/software/hyperbole/
+2019-06-06T13:21:48-04:00	Cornelius Castoriadis - Wikipedia https://en.wikipedia.org/wiki/Cornelius_Castoriadis
+2019-06-06T13:22:32-04:00	Open Source Game Clones https://osgameclones.com/
+2019-06-06T16:13:20-04:00	The Insanity of Hana no Asuka Gumi (1988)  Anime Review & Sukeban Series History - YouTube https://www.youtube.com/watch?v=s0hywe3uiCo
+2019-06-06T16:24:03-04:00	Bad idea of the day: an online game where, for one player, it's a tetris-style falling-block game, but for the other player, those blocks form the map for a side-scrolling platformer.
+2019-06-06T16:47:27-04:00	5 COMPOSERS 1 THEME (ft. Adam Neely, Nahre Sol, Ben Levin & Tantacrul) - YouTube https://www.youtube.com/watch?v=nWDITMZW1XE
+2019-06-07T06:37:26-04:00	There must be a lot of thelemites who find the Good Omens fandom extremely irritating.
+2019-06-07T07:25:32-04:00	Ten Cognitive Biases to Look Out For as a Developer - DEV Community '‍''‍' https://dev.to/frosnerd/ten-cognitive-biases-to-look-out-for-as-a-developer-3bjm
+2019-06-07T07:26:47-04:00	The Semantic Web identity crisis: in search of the trivialities that never were | Ruben Verborgh https://ruben.verborgh.org/articles/the-semantic-web-identity-crisis/
+2019-06-07T07:35:07-04:00	College Requires All CS Majors To Take An Improv Class - Slashdot https://news.slashdot.org/story/19/05/19/0249211/college-requires-all-cs-majors-to-take-an-improv-class
+2019-06-07T07:38:43-04:00	Brains' Train Of Thought: My Laptop Bit Me - The Shocking Truth http://enclydion.blogspot.com/2012/04/my-laptop-bit-me-shocking-truth.html
+2019-06-07T07:39:49-04:00	Legends of the Ancient Web https://idlewords.com/talks/ancient_web.htm
+2019-06-07T07:40:07-04:00	Superintelligence: The Idea That Eats Smart People https://idlewords.com/talks/superintelligence.htm
+2019-06-07T07:40:23-04:00	What Happens Next Will Amaze You https://idlewords.com/talks/what_happens_next_will_amaze_you.htm
+2019-06-07T07:40:40-04:00	The Social Graph Is Neither (Pinboard Blog) https://blog.pinboard.in/2011/11/the_social_graph_is_neither/
+2019-06-07T07:43:04-04:00	If you believe denotation takes priority over connotation & substituting synonyms is reliably safe, I challenge you to look at the difference between the 'dev', 'development', 'programming', and 'coding' tags on any link aggregator.
+2019-06-07T07:44:41-04:00	How to do distributed locking — Martin Kleppmann’s blog https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+2019-06-07T07:45:00-04:00	GitHub - firmai/industry-machine-learning: A curated list of applied machine learning and data science notebooks and libraries across different industries. https://github.com/firmai/industry-machine-learning
+2019-06-07T07:45:40-04:00	List of people who disappeared mysteriously: post-1970 - Wikipedia https://en.m.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously:_post-1970
+2019-06-07T07:46:13-04:00	The Village and The Village https://www.iamdanw.com/wrote/what-are-borders-anyway/
+2019-06-07T07:46:53-04:00	https://discoversociety.org/2014/07/01/the-thinkbelt-the-university-that-never-was/
+2019-06-07T08:09:33-04:00	Welcome! | plai https://www.plai.org/
+2019-06-07T08:28:12-04:00	SICP Introduction - Gwern.net https://www.gwern.net/sicp/Introduction
+2019-06-07T08:30:40-04:00	The Wrong Abstraction — Sandi Metz https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+2019-06-07T08:31:35-04:00	Build Your Own Text Editor https://viewsourcecode.org/snaptoken/kilo/
+2019-06-07T08:33:52-04:00	Zero Cost Abstractions https://boats.gitlab.io/blog/post/zero-cost-abstractions/
+2019-06-07T08:35:44-04:00	Why software sucks https://hjerpbakk.com/blog/2019/05/31/why-software-sucks
+2019-06-07T08:49:11-04:00	Band name of the day: the luminous infection
+2019-06-07T09:04:02-04:00	Animated Knots by Grog | Learn how to tie knots with step-by-step animation https://www.animatedknots.com/
+2019-06-07T09:04:43-04:00	Storing state in Erlang with processes - Dan's Blog https://dantswain.herokuapp.com/blog/2014/09/27/storing-state-in-erlang-with-processes/
+2019-06-07T09:05:06-04:00	Python: Generators, Coroutines, Native Coroutines and async/await | Abu Ashraf Masnun http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html
+2019-06-07T09:07:47-04:00	Why specialization can be a downside in our ever-changing world - The Verge https://www.theverge.com/2019/5/30/18563322/david-epstein-range-psychology-performance-skills-sports-career-advice-book-interview
+2019-06-07T09:10:15-04:00	Legacy Systems as Old Cities – The Recompiler https://recompilermag.com/issues/issue-4/legacy-systems-as-old-cities/
+2019-06-07T09:12:37-04:00	Dave Jarvis - Senior Software Developer https://dave.autonoma.ca/blog/2019/06/06/web-of-knowledge/
+2019-06-07T09:15:02-04:00	Brainstorm (1983 film) - Wikipedia https://en.m.wikipedia.org/wiki/Brainstorm_(1983_film)
+2019-06-07T09:15:32-04:00	How parsers and compilers work http://parsingintro.sourceforge.net/
+2019-06-07T09:15:45-04:00	Simple Top-Down Parsing in Python http://effbot.org/zone/simple-top-down-parsing.htm
+2019-06-07T09:18:25-04:00	Why Experimental Artist John Cage Was Obsessed with Mushrooms  https://www.artsy.net/article/artsy-editorial-experimental-artist-john-cage-obsessed-mushrooms
+2019-06-07T09:36:04-04:00	Let’s resolve to own the right to make and break resolutions | Aeon Ideas https://aeon.co/ideas/lets-resolve-to-own-the-right-to-make-and-break-resolutions
+2019-06-07T09:48:01-04:00	iPAQ Origins: The Many Lives of One Weird Tech Brand https://tedium.co/2019/06/06/compaq-ipaq-history/
+2019-06-07T09:53:28-04:00	A Computational Understanding of ZFC Set Theory – Michael O. Church https://michaelochurch.wordpress.com/2019/04/28/a-computational-understanding-of-zfc-set-theory/
+2019-06-07T10:24:36-04:00	Story time! - Charlie's Diary http://www.antipope.org/charlie/blog-static/2019/06/story-time.html

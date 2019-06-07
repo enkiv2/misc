@@ -1,10 +1,10 @@
 #!/usr/bin/env zsh
 sbot publish --type post --text "$(
-	tac ~/.linkit | head -n 23 | 
+	grep -a "$(date | sed 's/[0-9][0-9]*:.*$//')" ~/.linkit | 
 	awk '
 	BEGIN {
 		FS="\t"
-		print "# The Redundant Daily Redundant\n\n## a daily digest of 23 links you (should) have already seen\n"
+		print "# The Redundant Daily Redundant\n\n## a daily digest of what I'"'"'ve been reading\n"
 	} { 
 		title=$3
 		if (title=="")
