@@ -7836,3 +7836,26 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-07T09:48:01-04:00	iPAQ Origins: The Many Lives of One Weird Tech Brand https://tedium.co/2019/06/06/compaq-ipaq-history/
 2019-06-07T09:53:28-04:00	A Computational Understanding of ZFC Set Theory – Michael O. Church https://michaelochurch.wordpress.com/2019/04/28/a-computational-understanding-of-zfc-set-theory/
 2019-06-07T10:24:36-04:00	Story time! - Charlie's Diary http://www.antipope.org/charlie/blog-static/2019/06/story-time.html
+2019-06-07T12:36:56-04:00	New World Notes: Why the Metaverse Needs Gameplay & Gameplay Mechanics https://nwn.blogs.com/nwn/2019/06/philip-rosedale-metaverse-gameplay-mechanics.html
+2019-06-07T12:39:36-04:00	In Defense of Inconvenience: Design Observer https://designobserver.com/feature/in-defense-of-inconvenience/40056
+2019-06-07T13:04:13-04:00	Alan Kay's answer to Why do you need to use command prompt? - Quora https://www.quora.com/Why-do-you-need-to-use-command-prompt/answer/Alan-Kay-11
+2019-06-07T13:08:19-04:00	The City Born Great  |  Tor.com https://www.tor.com/2016/09/28/the-city-born-great/
+2019-06-07T13:09:04-04:00	Always In " Real Life https://reallifemag.com/always-in/
+2019-06-07T13:09:45-04:00	New World Notes: Listen: Philip Rosedale on the Future of VR, the Metaverse, and Building a "Virtual World Meets Slack" Workspace - The New World Notes Interview https://nwn.blogs.com/nwn/2019/05/philip-rosedale-high-fidelity-social-vr-slack-zoom-workspace.html
+2019-06-07T13:10:30-04:00	Towards federated learning at scale: system design – the morning paper https://blog.acolyer.org/2019/06/07/towards-federated-learning-at-scale/
+2019-06-07T13:12:48-04:00	University of Iowa Tractatus Map http://tractatus.lib.uiowa.edu/
+2019-06-07T13:18:37-04:00	0xabad1dea " How Math Can Be Racist: Giraffing https://abad1dea.tumblr.com/post/182455506350/how-math-can-be-racist-giraffing
+2019-06-07T13:19:37-04:00	Tractatus Logico-Philosophicus | Side-by-side-by-side-edition | Ludwig Wittgenstein http://people.umass.edu/klement/tlp/
+2019-06-07T13:20:28-04:00	Tractatus Logico-Philosophicus | Side-by-side-by-side edition http://people.umass.edu/klement/tlp/tlp.html
+2019-06-07T13:38:16-04:00	Band name of the day: how long is forever
+2019-06-07T13:41:55-04:00	Another GOAT LARP radio shoutout: https://wfmu.org/archiveplayer/?show=86324&archive=174131&starttime=2:04:50
+2019-06-07T13:47:19-04:00	a few years in the Absolute Elsewhere: Man Becomes the Sex Organs of the Machine World: Marshall McLuhan’s Understanding Media. http://2012diaries.blogspot.com/2012/05/man-becomes-sex-organs-of-machine-world.html
+2019-06-07T13:49:18-04:00	Please, My Wife, She’s Very Online | The New Yorker https://www.newyorker.com/culture/cultural-comment/please-my-wife-shes-very-online
+2019-06-07T13:51:38-04:00	library-archive-tourism https://tinysubversions.com/notes/library-archive-tourism/
+2019-06-07T13:52:14-04:00	Listen to BBC Radio 4's "New Weird Britain" audio program / Boing Boing https://boingboing.net/2019/06/06/listen-to-bbc-radio-4s-new.html
+2019-06-07T13:52:38-04:00	GitHub - paulfitz/mlsql: inferring sql queries from plain-text questions about tables https://github.com/paulfitz/mlsql
+2019-06-07T13:55:57-04:00	Biological Hacking in the 19th Century or How the World Almost Lost Wine | Hackaday https://hackaday.com/2019/06/03/biological-hacking-in-the-19th-century-or-how-the-world-almost-lost-wine/
+2019-06-07T14:12:57-04:00	Design for a brain; the origin of adaptive behavior : Ashby, William Ross : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/designforbrainor00ashb
+2019-06-07T14:13:15-04:00	Ashby's book "Introduction to Cybernetics" http://pespmc1.vub.ac.be/ASHBBOOK.html
+2019-06-07T14:16:09-04:00	Pioneering cybernetics: an introduction to W Ross Ashby - Untold lives blog https://britishlibrary.typepad.co.uk/untoldlives/2016/04/an-introduction-to-w-ross-ashby.html
+2019-06-07T14:23:25-04:00	Ashby Says: The Aphorisms of W. Ross Ashby http://www.cybsoc.org/ross.htm
