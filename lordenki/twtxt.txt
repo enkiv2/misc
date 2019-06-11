@@ -7882,3 +7882,64 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-10T07:50:38-04:00	Random link from the archives: https://boingboing.net/2017/10/24/bruce-haacks-electric-luci.html originally posted Wed Oct 25 09:40:55 EDT 2017
 2019-06-10T08:03:34-04:00	The strangest side effect of the high load conditions produced by modern web tech: when combined with the latency of wireless mice, button debounce stops working reliably & I get phantom clicks (on otherwise fine mice) only when the browser is running.
 2019-06-10T08:13:34-04:00	Google Go: Fischer Price’s My First Programming Language. by Elf Sternberg https://elfsternberg.com/2018/01/11/google-fischer-prices-programming-language/
+2019-06-10T08:45:30-04:00	live free or tryhard
+2019-06-10T08:47:20-04:00	The Legacy of Grant Morrison's The Invisibles At 25 | CBR  https://www.cbr.com/legacy-grant-morrison-invisibles-25/
+2019-06-10T09:22:45-04:00	AI in Sci-Fi - Andrew Hudson, Madeline Ashby, Lee Konstantinou, Kanta Dihal, Damien Williams, Chris Noessel | Open Transcripts http://opentranscripts.org/transcript/ai-in-sci-fi/
+2019-06-10T09:33:25-04:00	Live Free or Dichotomize - Using AWK and R to parse 25tb https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
+2019-06-10T09:53:12-04:00	The Saga of Tanya the Evil Author Carlo Zen and English Translator Emily Balistrieri - Anime News Network https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974
+2019-06-10T10:17:19-04:00	I'll take https://bradleytaunt.com/2019/06/08/html-like-1999/ and raise you 1992. Write HTML like it's 1992, if you must write it at all.
+2019-06-10T10:20:35-04:00	Adversarial Interoperability: Reviving an Elegant Weapon From a More Civilized Age to Slay Today's Monopolies | Electronic Frontier Foundation https://www.eff.org/deeplinks/2019/06/adversarial-interoperability-reviving-elegant-weapon-more-civilized-age-slay
+2019-06-10T10:27:02-04:00	You Must Not Allow Yourself to be Trapped Into Looking at It (The Lie of the Land) | Eruditorum Press http://www.eruditorumpress.com/blog/you-must-not-allow-yourself-to-be-trapped-into-looking-at-it-the-lie-of-the-land/
+2019-06-10T10:28:48-04:00	Band name of the day: art as encumberance
+2019-06-10T10:31:18-04:00	Band name of the day: deception island
+2019-06-10T10:35:04-04:00	Band name of the day: the ancient and obsolete
+2019-06-10T10:42:10-04:00	Edge.org https://www.edge.org/response-detail/11618
+2019-06-10T10:43:07-04:00	From Haitian Slavery to 'The Walking Dead': The Forgotten History of the Zombie - The Atlantic  https://www.theatlantic.com/entertainment/archive/2015/10/how-america-erased-the-tragic-history-of-the-zombie/412264/
+2019-06-10T10:54:18-04:00	College as an incubator of Girardian terror | Dan Wang https://danwang.co/college-girardian-terror/
+2019-06-10T10:58:54-04:00	Although I find his laughably naive faith in capitalism problematic, Scott makes (in a roundabout way) a good point that ought to be obvious but isn't: the memetic landscape has no incentive to promote human flourishing. https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/
+2019-06-10T11:11:42-04:00	Following Schrödinger’s cat to its death and giving it a reprieve | Ars Technica https://arstechnica.com/science/2019/06/following-schrodingers-cat-to-its-death-and-giving-it-a-reprieve/
+2019-06-10T11:13:34-04:00	Keep Batman Weird https://filmschoolrejects.com/keep-batman-weird/
+2019-06-10T12:10:50-04:00	Random link from the archives: https://www.vox.com/recode/2019/5/7/18528014/fear-social-media-nextdoor-citizen-amazon-ring-neighbors originally posted Wed May  8 08:10:11 EDT 2019
+2019-06-10T12:21:57-04:00	x-org: dark freenix saga
+2019-06-10T12:42:52-04:00	Latency Numbers Every Programmer Should Know · GitHub https://gist.github.com/jboner/2841832
+2019-06-10T12:46:26-04:00	The Treacherous Optimization https://ridiculousfish.com/blog/posts/old-age-and-treachery.html
+2019-06-10T12:53:13-04:00	Periodic reminder: you don't own your domain names -- you're just renting them from ICANN. Therefore, if you rely upon DNS, you don't fully control your stack.
+2019-06-10T14:06:16-04:00	Futuro - Wikipedia https://en.wikipedia.org/wiki/Futuro
+2019-06-10T14:06:30-04:00	Venturo - Wikipedia https://en.wikipedia.org/wiki/Venturo
+2019-06-10T14:08:13-04:00	Seeing and Being Seen | Animals and Us | Issues | The Hedgehog Review https://hedgehogreview.com/issues/animals-and-us/articles/seeing-and-being-seen
+2019-06-10T14:09:48-04:00	Magic and the Machine " Emergence Magazine https://emergencemagazine.org/story/magic-and-the-machine/
+2019-06-10T14:15:47-04:00	https://www.thenewatlantis.com/publications/in-search-of-lost-time-on-youtube
+2019-06-10T14:22:04-04:00	Free Shipping " Real Life https://reallifemag.com/free-shipping/
+2019-06-10T14:41:57-04:00	Lumbersexuality, a Sport and a Pastime  https://longreads.com/2019/06/07/lumbersexuality-a-sport-and-a-pastime/
+2019-06-10T14:42:52-04:00	Using a SMT solver to find optimal GBA  palettes https://blog.catboli.com/smt-solver-gba/
+2019-06-10T14:44:20-04:00	The Constant Consumer " Real Life https://reallifemag.com/the-constant-consumer/
+2019-06-10T14:53:56-04:00	Implementing a resumable exception system in Go | Robert A. Uhl https://rauhl.com/2019/06/implementing-a-resumable-exception-system-in-go/
+2019-06-10T14:54:30-04:00	Numbers Game " Real Life https://reallifemag.com/numbers-game/
+2019-06-10T15:13:46-04:00	hot take: all clarity is illusory
+2019-06-10T15:26:01-04:00	Some random wikipedia featured articles with their words colored based on frequency: http://www.lord-enki.net/wikiColored1.html http://www.lord-enki.net/wikiColored2.html http://www.lord-enki.net/wikiColored3.html
+2019-06-10T16:31:05-04:00	Random link from the archives: https://motherboard.vice.com/en_us/article/ne3p9z/the-obscure-4chan-religion-that-promises-a-cyberpunk-afterlife originally posted Tue Nov 28 10:41:54 EST 2017
+2019-06-10T18:01:17-04:00	To keep from fainting, keep repeating "To keep from fainting, keep repeating \"To keep from fainting, keep repeating \\"To keep from...
+2019-06-10T19:42:23-04:00	Developers have a lot of power: users don't realize how few constraints we have & how much of the fallout they need to work around is the result of basically arbitrary & ill-thought-out technical decisions made out of laziness.
+2019-06-10T20:51:15-04:00	Random link from the archives: https://tedium.co/2019/03/26/analogue-mega-sg-review/ originally posted Thu Mar 28 10:23:40 EDT 2019
+2019-06-11T01:11:25-04:00	Random link from the archives: https://www.tedinski.com/2018/05/08/case-study-unix-philosophy.html originally posted Mon May 14 11:39:35 EDT 2018
+2019-06-11T05:31:36-04:00	Random link from the archives: https://www.theverge.com/2018/4/19/17250892/ready-player-one-book-facebook-internet-dystopia originally posted Wed Aug  1 07:29:21 EDT 2018
+2019-06-11T06:32:07-04:00	I missed this because it shared its name with the short paper about augmentation in general, but this appears to be a detailed proposal for work at ARC: http://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf
+2019-06-11T06:45:14-04:00	Band name of the day: comfort noise
+2019-06-11T07:05:52-04:00	“Your Default Position Should Be Skepticism” and Other Advice for Data Journalists From Hadley Wickham " ProPublica https://www.propublica.org/nerds/hadley-wickham-your-default-position-should-be-skepticism-and-other-advice-for-data-journalists
+2019-06-11T07:13:03-04:00	Band name of the day: spacekit
+2019-06-11T07:23:20-04:00	Welcome to IRATA.ONLINE - a PLATO Service for Retro Computing Enthusiasts https://irata.online/
+2019-06-11T08:40:57-04:00	Band name of the day: big mood machine
+2019-06-11T08:48:45-04:00	Band name of the day: insulting the autumnal sky
+2019-06-11T08:53:13-04:00	Saving Orwell | Boston Review http://bostonreview.net/literature-culture/peter-ross-saving-orwell
+2019-06-11T08:56:44-04:00	What Mind"Body Problem? | Boston Review https://bostonreview.net/alex-byrne-mind-body-problem-understanding-consciousness
+2019-06-11T08:57:27-04:00	Cyber-Scare | Boston Review https://bostonreview.net/us/cyber-scare-evgeny-morozov
+2019-06-11T09:02:02-04:00	The open access wars: How to free science from academic paywalls - Vox https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls
+2019-06-11T09:09:05-04:00	No Frills Books http://www.weirduniverse.net/blog/comments/no_frills_books
+2019-06-11T09:35:18-04:00	Big Mood Machine | Liz Pelly https://thebaffler.com/downstream/big-mood-machine-pelly
+2019-06-11T09:40:13-04:00	From design patterns to category theory https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+2019-06-11T09:41:02-04:00	Language, trees, and geometry in neural networks https://pair-code.github.io/interpretability/bert-tree/
+2019-06-11T09:43:00-04:00	An Axe for the Frozen Sea - Believer Magazine https://believermag.com/logger/an-axe-for-the-frozen-sea/
+2019-06-11T09:51:46-04:00	Random link from the archives: https://github.com/historicalsource/checkpoint originally posted Tue Apr 16 08:24:13 EDT 2019
+2019-06-11T10:09:51-04:00	The Underground Art of Prison Tattoos | The Marshall Project https://www.themarshallproject.org/2019/06/07/the-underground-art-of-prison-tattoos
+2019-06-11T10:35:30-04:00	The Corporate Logo Singularity | Rachel Hawley https://thebaffler.com/latest/the-corporate-logo-singularity-hawley
+2019-06-11T10:36:55-04:00	The Babysitters Club " Real Life https://reallifemag.com/the-babysitters-club/

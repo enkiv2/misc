@@ -224,7 +224,14 @@ https://github.com/OSPreservProject/amoeba
 http://fsd-amoeba.sourceforge.net/
 https://www.cs.vu.nl/pub/amoeba/
 http://pdos.csail.mit.edu/~kaashoek/papers/amsp.ps
+PLATO
+https://irata.online
+https://www.cyber1.org
+https://irata.online/assets/s0ascers-045c83081e9ada2008378c3ae6aa62564b213a71decf9fe04608909b91d20ad1.html
+https://irata.online/assets/Introduction_to_Tutor-937ef6097482f2c79f790977c80516e1bd11bb52178baec607a4c34860b3969b.pdf
+https://irata.online/assets/The_TUTOR_Language_1978_ocr-cb84937db5ac9e6bb387028c56eb2c5d70844658edf58447a090abfb1bb4eea0.pdf
 NLS
+http://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf
 http://www.dougengelbart.org/content/view/155/87/
 http://dougengelbart.org/content/view/154/86/
 http://dougengelbart.org/content/view/112/000/
