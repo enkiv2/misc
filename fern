@@ -381,6 +381,7 @@ commandKeys={
 	"q":"quit", 
 	"P":"prev", "N":"next", "p":"prev_unread", "n":"next_unread", 
 	"T":"top", "F":"fetch", 
+	"0":"skipto 0", "1":"skipto 1", "2":"skipto 2", "3":"skipto 3", "4":"skipto 4", "5":"skipto 5", "6":"skipto 6", "7":"skipto 7", "8":"skipto 8", "9":"skipto 9",
 	"c":"compose", "r":"reply",
 	"b":"boost", "f":"favourite",
 	"u":"mark_unread",
@@ -408,6 +409,10 @@ def execCommand(cmd):
 	elif cmd=="top":
 		tlIdx=0
 		hlIdx=0
+	elif cmd.find("skipto ")==0:
+		try:
+			hlIdx=int(cmd.split()[1])
+		except: pass
 	elif cmd=="fetch":
 		try:
 			tl=getTimeline(since_id=tl[0]["id"])+tl
