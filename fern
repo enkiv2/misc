@@ -603,36 +603,36 @@ def getTimeline(which=None, **kw_args):
 def saveBase():
 	statusMsg("Saving tootbase...", False)
 	global tootbase, acctbase, seen_toots, tb_dirty
-        if True in tb_dirty:
-            for i in range(0, 10):
-                if tb_dirty[i]:
-                    tmp={}
-                    for tid in tootbase.keys():
-                        if int(str(tid)[0])==i:
-                            tmp[tid]=tootbase[tid]
-                    with open(ferndir+"tootbase"+str(i)+".pickle", "wb") as f:
-                        pickle.dump(tmp, f)
-                        tb_dirty[i]=False
-            with open(ferndir+"acctbase.pickle", "wb") as f:
-                    pickle.dump(acctbase, f)
-        with open(ferndir+"seenbase.pickle", "wb") as f:
-                pickle.dump(seen_toots, f)
+	if True in tb_dirty:
+		for i in range(0, 10):
+		    if tb_dirty[i]:
+			    tmp={}
+			    for tid in tootbase.keys():
+				if int(str(tid)[0])==i:
+					tmp[tid]=tootbase[tid]
+			    with open(ferndir+"tootbase"+str(i)+".pickle", "wb") as f:
+				pickle.dump(tmp, f)
+				tb_dirty[i]=False
+		with open(ferndir+"acctbase.pickle", "wb") as f:
+			pickle.dump(acctbase, f)
+	with open(ferndir+"seenbase.pickle", "wb") as f:
+		pickle.dump(seen_toots, f)
 
 def loadBase():
-        global tb_dirty
+	global tb_dirty
 	statusMsg("Loading tootbase...", False)
 	global tootbase, acctbase, seen_toots
-        if os.path.exists(ferndir+"tootbase0.pickle"):
-                for i in range(0, 10):
-                    with open(ferndir+"tootbase"+str(i)+".pickle", "rb") as f:
-                        tmp=pickle.load(f)
-                        for tid in tmp.keys():
-                            tootbase[tid]=tmp[tid]
-                        tb_dirty[i]=False
-        else:
-            with open(ferndir+"tootbase.pickle", "rb") as f:
-                    tootbase=pickle.load(f)
-                    tb_dirty=[False]*10
+	if os.path.exists(ferndir+"tootbase0.pickle"):
+		for i in range(0, 10):
+			with open(ferndir+"tootbase"+str(i)+".pickle", "rb") as f:
+				tmp=pickle.load(f)
+				for tid in tmp.keys():
+					tootbase[tid]=tmp[tid]
+				tb_dirty[i]=False
+	else:
+		with open(ferndir+"tootbase.pickle", "rb") as f:
+			tootbase=pickle.load(f)
+			tb_dirty=[False]*10
 	with open(ferndir+"acctbase.pickle", "rb") as f:
 		acctbase=pickle.load(f)
 	with open(ferndir+"seenbase.pickle", "rb") as f:
