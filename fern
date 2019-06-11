@@ -419,12 +419,18 @@ def execCommand(cmd):
 		except:
 			tl=getTimeline()+tl
 	elif cmd=="compose":
+		length=0
 		cw=queryForInput("CW (blank for none):")
 		if len(cw.strip())==0:
 			cw=None
+		else: length=len(cw.strip())
 		msg=queryForInput("Toot content (blank for cancel):")
 		if msg:
-			mastodon.status_post(msg, spoiler_text=cw)
+			length+=len(msg)
+			try:
+				mastodon.status_post(msg, spoiler_text=cw)
+			except Exception as e:
+				statusMsg("Error in posting your "+str(length)+"-character message: "+str(e))
 	elif cmd=="reply":
 		cw=tl[tlIdx+hlIdx]["spoiler_text"]
 		tid=tl[tlIdx+hlIdx]["id"]
@@ -439,7 +445,10 @@ def execCommand(cmd):
 		msg=queryForInput("Toot content (blank for cancel):")
 		if msg:
 			msg="@"+" @".join(mentions).strip()+"\n"+msg
-			mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
+			try:
+				mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
+			except Exception as e:
+				statusMsg("Error in posting your "+str(len(msg))+"-character reply: "+str(e))
 	elif cmd=="boost":
 		tid=tl[tlIdx+hlIdx]["id"]
 		try:
