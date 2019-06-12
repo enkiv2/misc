@@ -297,6 +297,7 @@ http://www.literateprogramming.com/
 http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-misstep/
 http://allendowney.blogspot.co.nz/2018/02/learning-to-program-is-getting-harder.html
 http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/
+https://www.youtube.com/watch?v=mdYfFDJCDHc
 http://aprt.us/
 https://www.inkandswitch.com/end-user-programming.html
 Agents

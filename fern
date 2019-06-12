@@ -391,7 +391,7 @@ commandKeys={
 	"/":"search",
   ":":"cmd"}
 def execCommand(cmd):
-	global hlIdx, tlIdx, tl, currentTimeline, isCWOpen
+	global hlIdx, tlIdx, tl, currentTimeline, isCWOpen, seen_toots, tootbase, tb_dirty
 	if cmd=="quit":
 		saveBase()
 		teardownCurses()
@@ -428,7 +428,10 @@ def execCommand(cmd):
 		if msg:
 			length+=len(msg)
 			try:
-				mastodon.status_post(msg, spoiler_text=cw)
+				posted=mastodon.status_post(msg, spoiler_text=cw)
+				seen_toots.append(posted["id"])
+				tootbase[posted["id"]]=posted
+				tb_dirty[int(str(posted["id"])[0])]=True
 			except Exception as e:
 				statusMsg("Error in posting your "+str(length)+"-character message: "+str(e))
 	elif cmd=="reply":
@@ -446,7 +449,10 @@ def execCommand(cmd):
 		if msg:
 			msg="@"+" @".join(mentions).strip()+"\n"+msg
 			try:
-				mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
+				posted=mastodon.status_post(msg, in_reply_to_id=tid, spoiler_text=cw)
+				seen_toots.append(posted["id"])
+				tootbase[posted["id"]]=posted
+				tb_dirty[int(str(posted["id"])[0])]=True
 			except Exception as e:
 				statusMsg("Error in posting your "+str(len(msg))+"-character reply: "+str(e))
 	elif cmd=="boost":

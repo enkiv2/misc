@@ -7943,3 +7943,36 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-11T10:09:51-04:00	The Underground Art of Prison Tattoos | The Marshall Project https://www.themarshallproject.org/2019/06/07/the-underground-art-of-prison-tattoos
 2019-06-11T10:35:30-04:00	The Corporate Logo Singularity | Rachel Hawley https://thebaffler.com/latest/the-corporate-logo-singularity-hawley
 2019-06-11T10:36:55-04:00	The Babysitters Club " Real Life https://reallifemag.com/the-babysitters-club/
+2019-06-11T14:11:55-04:00	Random link from the archives: http://erlangbyexample.org/ originally posted Mon Oct 22 13:50:33 EDT 2018
+2019-06-11T15:49:41-04:00	Yuri 101 | Birth of a Genre, Birth of a Nation - YouTube https://www.youtube.com/watch?v=x-XCZI2bLDc
+2019-06-11T16:18:23-04:00	What is Godzilla? + KOTM Spoilers - YouTube https://www.youtube.com/watch?v=CD5TTKAuhfY
+2019-06-11T16:26:28-04:00	Visual History Of Visual Programming Languages - YouTube https://www.youtube.com/watch?v=mdYfFDJCDHc
+2019-06-11T18:27:30-04:00	Jonathan Blow - Preventing the Collapse of Civilization (English only) - YouTube https://www.youtube.com/watch?v=pW-SOdj4Kkk
+2019-06-11T18:28:41-04:00	How markets coopted free software's most powerful weapon (LibrePlanet '18 Keynote) " Benj. Mako Hill - YouTube https://www.youtube.com/watch?v=vBknF2yUZZ8
+2019-06-11T18:29:52-04:00	Robert Tomasulo speaking at UMich - YouTube https://www.youtube.com/watch?v=S6weTM1tNzQ
+2019-06-11T18:31:03-04:00	Mike Bostock - Design is a Search Problem - YouTube https://www.youtube.com/watch?v=fThhbt23SGM
+2019-06-11T18:32:04-04:00	Random link from the archives: https://www.youtube.com/watch?v=I2O7blSSzpI originally posted Thu Sep 13 11:34:21 EDT 2018
+2019-06-11T18:32:16-04:00	Tektronix Printed Circuit Boards 1969 - YouTube https://www.youtube.com/watch?v=7weZ0TNRcuw
+2019-06-11T18:33:28-04:00	Intentionally Intensional Information Architecture " Dorian Taylor - YouTube https://www.youtube.com/watch?v=eV84dXJUvY8
+2019-06-11T18:53:26-04:00	"Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson - YouTube https://www.youtube.com/watch?v=4fFDFbi3toc
+2019-06-11T19:01:01-04:00	BlueHat IL 2019 - Andrew "bunnie" Huang - Supply Chain Security: "If I were a Nation State...” - YouTube https://www.youtube.com/watch?v=RqQhWitJ1As
+2019-06-11T19:11:54-04:00	two words: brutalist arcology
+2019-06-11T19:27:04-04:00	Band name of the day: camels of the middle class
+2019-06-11T22:52:13-04:00	Random link from the archives: https://io9.gizmodo.com/to-boldly-stay-how-deep-space-nine-upended-star-trek-b-1823186821 originally posted Fri Jan  4 08:38:19 EST 2019
+2019-06-12T03:12:23-04:00	Random link from the archives: https://tedium.co/2018/06/28/non-performing-band-members-coldplay-grateful-dead/ originally posted Fri Jun 29 08:03:07 EDT 2018
+2019-06-12T07:31:28-04:00	door bael
+2019-06-12T07:32:32-04:00	Random link from the archives: https://www.newyorker.com/tech/elements/escaping-twitters-self-consciousness-machine originally posted Mon Jun 25 07:24:08 EDT 2018
+2019-06-12T08:20:20-04:00	Band name of the day: fighting sabrecats
+2019-06-12T08:55:11-04:00	A hellthread about names: https://eldritch.cafe/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/102248323430363864
+2019-06-12T09:01:06-04:00	This will become important, since Opera is forking away from Chrome & keeping the API that allows effective ad blockers: https://timleland.com/how-to-use-chrome-extensions-in-opera/
+2019-06-12T09:14:53-04:00	On Dat:// https://www.kickscondor.com/on-dat/
+2019-06-12T09:20:05-04:00	CP/Mish http://cowlark.com/cpmish/
+2019-06-12T10:11:55-04:00	Facebook Quietly Changes Search Tool Used by Investigators, Abused By Companies - VICE https://www.vice.com/en_us/article/zmpgmx/facebook-stops-graph-search
+2019-06-12T10:15:09-04:00	How Disney took to subverting its own romantic ideals | Aeon Essays https://aeon.co/essays/how-disney-took-to-subverting-its-own-romantic-ideals
+2019-06-12T10:17:43-04:00	Better Public Schools Won’t Fix Income Inequality - The Atlantic  https://www.theatlantic.com/magazine/archive/2019/07/education-isnt-enough/590611/
+2019-06-12T10:21:53-04:00	PC Expansion Slot History: When the Clone-Makers Fought Back https://tedium.co/2019/06/11/isa-expansion-slot-history/
+2019-06-12T10:25:52-04:00	We Can Win Gamers Over to Socialism https://jacobinmag.com/2019/06/video-games-marx-at-the-arcade
+2019-06-12T10:28:38-04:00	Colonialism is alive in the exploited tech work force | The Outline https://theoutline.com/post/7533/colonialism-is-alive-in-the-exploited-tech-work-force
+2019-06-12T10:32:20-04:00	Hexing the technical interview https://aphyr.com/posts/341-hexing-the-technical-interview
+2019-06-12T10:35:40-04:00	Reversing the technical interview https://aphyr.com/posts/340-reversing-the-technical-interview
+2019-06-12T10:36:02-04:00	Typing the technical interview https://aphyr.com/posts/342-typing-the-technical-interview
