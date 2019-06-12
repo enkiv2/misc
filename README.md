@@ -39,7 +39,6 @@ Pretty pictures:
 Utilities:
 
 * [ncgopher](ncgopher.py): curses-based gopher client
-* [fern](fern): curses-based mastodon client modeled off usenet news readers & pine, with an emphasis on getting to 'timeline zero'
 * [stupidrss](stupidrss.sh): the stupidest possible RSS reader: parse feeds with regex & dump the links to stdout using w3m
 * [nam](nam): fall back from 'man' to other sources of documentation, like 'info', and eventually to wikipedia
 * [scrambleExif](scrambleExif.sh): scramble or falsify EXIF data like date and geolocation
@@ -64,3 +63,4 @@ Moved:
 
 * [yabot](yabot): [Yet Another irc chatBot](http://github.com/enkiv2/yabot)
 * [Manna for our Malices](Manna for our Malices): [Manna for our Malices](https://github.com/enkiv2/mannaforourmalices)
+* [fern](fern): [fern](https://github.com/enkiv2/fern)

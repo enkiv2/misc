@@ -7976,3 +7976,7 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-12T10:32:20-04:00	Hexing the technical interview https://aphyr.com/posts/341-hexing-the-technical-interview
 2019-06-12T10:35:40-04:00	Reversing the technical interview https://aphyr.com/posts/340-reversing-the-technical-interview
 2019-06-12T10:36:02-04:00	Typing the technical interview https://aphyr.com/posts/342-typing-the-technical-interview
+2019-06-12T11:03:43-04:00	Cognitive Science - ANNA RIEDL http://www.riedlanna.com/cognitivesciencemap.html
+2019-06-12T11:06:12-04:00	complexity map castellani map of complexity science, complexity theory, complexity science, complexity, brian castellani, durham sociology complexity  https://www.art-sciencefactory.com/complexity-map_feb09.html
+2019-06-12T11:12:24-04:00	MFW I realized that Taleb's 'antifragile' is just a reinvention of Ashby's 'ultrastable'
+2019-06-12T11:52:41-04:00	Random link from the archives: https://www.theatlantic.com/technology/archive/2018/10/political-cost-chinese-hardware-hack/572383/ originally posted Mon Oct  8 09:34:23 EDT 2018
