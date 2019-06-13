@@ -7980,3 +7980,22 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-12T11:06:12-04:00	complexity map castellani map of complexity science, complexity theory, complexity science, complexity, brian castellani, durham sociology complexity  https://www.art-sciencefactory.com/complexity-map_feb09.html
 2019-06-12T11:12:24-04:00	MFW I realized that Taleb's 'antifragile' is just a reinvention of Ashby's 'ultrastable'
 2019-06-12T11:52:41-04:00	Random link from the archives: https://www.theatlantic.com/technology/archive/2018/10/political-cost-chinese-hardware-hack/572383/ originally posted Mon Oct  8 09:34:23 EDT 2018
+2019-06-12T12:02:27-04:00	Fern, my curses-based mastodon client, has moved to its own repository: https://github.com/enkiv2/fern
+2019-06-12T13:39:02-04:00	The Libertarian Freedom of Cyberspace Is Over - The Atlantic  https://www.theatlantic.com/technology/archive/2019/05/the-end-of-cyberspace/588340/
+2019-06-12T14:12:54-04:00	resilience-engineering/intro.md at master · lorin/resilience-engineering · GitHub https://github.com/lorin/resilience-engineering/blob/master/intro.md
+2019-06-12T16:12:52-04:00	Random link from the archives: https://www.youtube.com/watch?v=Shtu4D4A_1w originally posted Fri Feb 15 18:00:20 EST 2019
+2019-06-12T17:50:09-04:00	me: so this project supports python 2.7 and up; the entire internet: BREAK COMPATIBILITY NAO
+2019-06-12T18:02:46-04:00	Rewriting The Matrix Sequels - YouTube https://www.youtube.com/watch?v=aqhhy0yGAX4
+2019-06-12T18:24:56-04:00	The Tragic History of Shenmue - YouTube https://www.youtube.com/watch?v=eXwXIkjaMC0
+2019-06-12T18:48:57-04:00	I got an email from Amazon saying Neal Stephenson had a book out in July, and I thought "that must be the paperback edition of the doorstop that came out last week" but no, it's a completely different book.
+2019-06-12T19:45:25-04:00	Is FALL a sequel to REAMDE? I think FALL might be a sequel to REAMDE...
+2019-06-12T20:33:12-04:00	Random link from the archives: https://365tomorrows.com/ originally posted Wed Jul 18 11:52:29 EDT 2018
+2019-06-13T00:53:23-04:00	Random link from the archives: https://electricliterature.com/carmen-maria-machado-carmilla-lefanu-vampire-interview/ originally posted Tue May 28 12:39:56 EDT 2019
+2019-06-13T05:13:34-04:00	Random link from the archives: https://www.bfi.org.uk/news-opinion/news-bfi/features/where-begin-japanese-cyberpunk originally posted Mon Apr  1 10:22:27 EDT 2019
+2019-06-13T07:38:42-04:00	John Ohno's answer to How can we make programming computers far more accessible for non-programmers? - Quora https://www.quora.com/How-can-we-make-programming-computers-far-more-accessible-for-non-programmers/answer/John-Ohno
+2019-06-13T07:40:08-04:00	Instructions Unclear – Sonya Ellen Mann https://www.sonyaellenmann.com/instructions-unclear-rituals-zine
+2019-06-13T09:33:43-04:00	Random link from the archives: https://www.youtube.com/watch?v=IYnS3P8pp9Y originally posted Sun Apr  8 17:56:01 EDT 2018
+2019-06-13T12:38:36-04:00	It might have made more sense to create a brand new masto account to test history import on, rather than using the one where I've been posting dozens of times a day for like a year...
+2019-06-13T13:11:07-04:00	To everybody who told me to drop python2 support: I'm literally following PEP0394 https://www.python.org/dev/peps/pep-0394/
+2019-06-13T13:53:51-04:00	Random link from the archives: https://www.youtube.com/watch?v=3rzWdJ4vB8s originally posted Fri Dec  7 22:28:22 EST 2018
+2019-06-13T14:03:55-04:00	How the heck do I have 5+ pages of favorites? I don't favorite anything...
