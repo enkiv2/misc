@@ -8364,3 +8364,7 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-28T08:13:07-04:00	The Egg of the Phoenix: a computational time capsule http://canonical.org/~kragen/eotf/
 2019-06-28T08:21:17-04:00	The Culture War Has Finally Come For Wikipedia https://www.buzzfeednews.com/article/josephbernstein/wikipedia-ban-editor-culture-war
 2019-06-28T08:46:38-04:00	An idea that's sort of implicit in FALL (and in some of Stephenson's other work) that I find problematic is that some rare people are naturally creative & everybody else is naturally dull. I suspect that the creative impulse is nigh-universal & some folks get socialized out of it.
+2019-06-28T09:30:15-04:00	Random link from the archives: https://www.youtube.com/watch?v=NTfOnGZUZDk originally posted Sat Jul  7 13:40:42 EDT 2018
+2019-06-28T10:00:12-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-28T10:11:36-04:00	Interactive Fiction History: Adventures Without Graphics https://tedium.co/2019/06/27/adventure-games-interactive-fiction-history/
+2019-06-28T10:49:47-04:00	Bad idea of the day: couchsurfing but with raspberry pis as an alternative to cloud providers: you add your machines to the pool & the rule is that you can't charge anybody or use it for commercial purposes
