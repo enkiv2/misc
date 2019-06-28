@@ -1,0 +1,15 @@
+#!/usr/bin/env zsh
+
+getID() { awk '/to delete/{print $5}{}'|tr -d '`' }
+
+reply() { t reply $1 $2 | getID }
+
+if [[ $(echo "$@" | wc -c) -gt 280 ]] ; then
+	id=$(t post "$(echo "$@" | fmt -w 280 | head -n 1)" | getID)
+	echo "$@" | fmt -w 280 | tail -n +2 | while read -r x ; do
+		id=$(reply $id "$x")
+	done
+else
+	t post "$@"
+fi
+

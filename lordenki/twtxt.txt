@@ -8240,3 +8240,127 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-24T08:28:06-04:00	Reminder: Entries for the 2019 No-Budget Film Contest close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
 2019-06-24T08:55:57-04:00	Getting Started with Mercury https://bluishcoder.co.nz/2019/06/23/getting-started-with-mercury.html
 2019-06-24T09:01:01-04:00	Adventures in Mercury https://adventuresinmercury.blogspot.com/
+2019-06-24T10:05:03-04:00	Random link from the archives: https://www.youtube.com/watch?v=ltYnG-V18Dk originally posted Fri Jun  2 13:11:06 EDT 2017
+2019-06-24T11:14:32-04:00	Timing Technology: Lessons From The Media Lab - Gwern.net https://www.gwern.net/Timing
+2019-06-24T11:51:27-04:00	Reminder: Entries for the 2019 No-Budget Film Contest close on July 4th https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-06-24T12:25:23-04:00	The Death of YouTube Skepticism - YouTube https://www.youtube.com/watch?v=C1rEtk0b4tw
+2019-06-24T12:47:44-04:00	Hey, you. Celebrate halloween four months early by buying my game when it goes on sale.
+2019-06-24T14:18:14-04:00	Marx & Nietzsche | Issue 131 | Philosophy Now https://philosophynow.org/issues/131/Marx_and_Nietzsche?cpg=ebtw
+2019-06-24T14:25:14-04:00	Random link from the archives: https://www.youtube.com/watch?v=pwrYx-tdpn4 originally posted Mon Mar 19 18:15:56 EDT 2018
+2019-06-24T15:22:48-04:00	Bad Movie Tuesday: Blood Beat (1983), a boring Samurai possession B-movie in Wisconsin with a bunch of psychic malarke... https://moviesfilmsandflix.com/2019/06/18/bad-movie-tuesday-blood-beat-1983-a-boring-samurai-possession-b-movie-in-wisconsin-with-a-bunch-of-psychic-malarkey/
+2019-06-24T15:42:01-04:00	GitHub - xyproto/battlestar: A different take on assembly, with the goal of creating tiny executables https://github.com/xyproto/battlestar
+2019-06-24T15:46:45-04:00	"A no-nonsense jeckyll theme for sensible blogging" is the new "fresh frozen jumbo shrimp"
+2019-06-24T18:45:24-04:00	Random link from the archives: https://www.theparisreview.org/blog/2018/03/21/the-jumpsuit-that-will-replace-all-clothes-forever/ originally posted Fri Mar 23 09:25:51 EDT 2018
+2019-06-24T23:05:47-04:00	Random link from the archives: https://www.youtube.com/watch?v=HGFMxGDUWpM originally posted Sat Dec  8 15:44:50 EST 2018
+2019-06-25T03:26:10-04:00	Random link from the archives: https://www.washingtonpost.com/business/2019/01/17/massive-new-study-traces-how-corporations-use-charitable-donations-tilt-regulations-their-favor/ originally posted Wed Jan 23 10:04:52 EST 2019
+2019-06-25T07:34:46-04:00	Rob Kelly / wormwood · GitLab https://gitlab.com/krampus/wormwood
+2019-06-25T07:46:46-04:00	Random link from the archives: https://www.farnamstreetblog.com/2013/07/ten-techniques-for-building-quick-rapport-with-anyone/ originally posted Mon Jul 31 10:19:38 EDT 2017
+2019-06-25T07:50:50-04:00	An interesting idea about how to do type inference: http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
+2019-06-25T08:50:47-04:00	More and more, I think the only way to cut this gordian knot (and have high-quality moderation without sweatshop-style eyeball farms that burn through minds) is federation/decentralization: https://www.techdirt.com/articles/20190619/17491542435/before-demanding-internet-companies-hire-more-moderators-perhaps-we-should-look-how-awful-job-is.shtml
+2019-06-25T08:53:25-04:00	Before Demanding Internet Companies 'Hire More Moderators,' Perhaps We Should Look At How Awful The Job Is | Techdirt https://www.techdirt.com/articles/20190619/17491542435/before-demanding-internet-companies-hire-more-moderators-perhaps-we-should-look-how-awful-job-is.shtml
+2019-06-25T09:25:59-04:00	Somebody with a suspiciously similar name to mine won a prize for writing an essay about my favorite show in 2006... http://legacy.aintitcool.com/node/30817
+2019-06-25T11:04:50-04:00	Introduction to Petname Systems http://www.skyhunter.com/marcs/petnames/IntroPetNames.html
+2019-06-25T11:10:14-04:00	Deepfakes aren't a tech problem. They're a power problem | Oscar Schwartz | Opinion | The Guardian https://www.theguardian.com/commentisfree/2019/jun/24/deepfakes-facebook-silicon-valley-responsibility
+2019-06-25T11:11:14-04:00	Republicans and Democrats Don't Understand Each Other - The Atlantic  https://www.theatlantic.com/ideas/archive/2019/06/republicans-and-democrats-dont-understand-each-other/592324/
+2019-06-25T11:14:38-04:00	What It’s Like When Your College Shuts Down - The Atlantic https://www.theatlantic.com/education/archive/2019/06/what-its-like-when-your-college-shuts-down/591862/
+2019-06-25T11:16:15-04:00	Titus Andronicus's Patrick Stickles Talks 'An Obelisk' - The Atlantic  https://www.theatlantic.com/entertainment/archive/2019/06/titus-andronicuss-patrick-stickles-talks-obelisk/591946/
+2019-06-25T11:25:38-04:00	The Navy’s USS Gabrielle Giffords and the Future of Work - The Atlantic https://www.theatlantic.com/magazine/archive/2019/07/future-of-work-expertise-navy/590647/
+2019-06-25T11:33:29-04:00	The Rise of Netflix Competitors Has Pushed Consumers Back Toward Piracy - VICE https://www.vice.com/en_us/article/d3q45v/bittorrent-usage-increases-netflix-streaming-sites
+2019-06-25T11:36:29-04:00	Cascading Adolescence (Part 2): Apprentices of Chaos – xenogothic https://xenogothic.com/2019/06/24/cascading-adolescence-part-2-apprentices-of-chaos/
+2019-06-25T11:38:54-04:00	EXECUTING GENERATIVE ART WITH A PLOTTER — TYLER HOBBS https://tylerxhobbs.com/essays/2018/executing-generative-art-with-a-plotter
+2019-06-25T11:44:59-04:00	the great degerunding
+2019-06-25T11:46:19-04:00	the grating degerundunging
+2019-06-25T11:48:34-04:00	Enlightenment does not demand disenchantment with the world | Aeon Essays https://aeon.co/essays/enlightenment-does-not-demand-disenchantment-with-the-world
+2019-06-25T11:55:12-04:00	Noah Webster’s civil war of words over American English | Aeon Ideas https://aeon.co/ideas/noah-websters-civil-war-of-words-over-american-english
+2019-06-25T12:06:56-04:00	Random link from the archives: https://www.youtube.com/watch?v=OVQUnddM5Vg originally posted Thu Feb 28 20:28:36 EST 2019
+2019-06-25T12:10:31-04:00	What were we trying to make here? - Eva Monkey, an Evangelion Fan Website http://www.evamonkey.com/writings/anno-hideaki-what-were-we-trying-to-make-here.php
+2019-06-25T12:15:13-04:00	GitHub - kragen/stoneknifeforth: a tiny self-hosted Forth implementation https://github.com/kragen/stoneknifeforth
+2019-06-25T12:21:55-04:00	Truly Batshit: The Secret History of ‘Vampire’s Kiss,’ the Craziest Nicolas Cage Movie of All Time - The Ringer https://www.theringer.com/movies/2019/6/13/18663380/nicolas-cage-vampires-kiss-breakout-performance-30-years
+2019-06-25T14:41:28-04:00	Gun influencers on Instagram are a boon to gun companies - Vox https://www.vox.com/features/2019/6/19/18644129/instagram-gun-influencers-second-amendment-tactical-community
+2019-06-25T14:48:05-04:00	Band name of the day: cosmic snake orgy
+2019-06-25T15:32:49-04:00	FALL or dodge in hell is Neal Stephenson's most PKDish book because it is about a false demiurge who is, traumatically, replaced by a different false demiurge who is also a giant asshole, with reality-warping consequences.
+2019-06-25T15:56:06-04:00	AGAINST COMPLEXITY gopher://sdf.org:70/0/users/rusty/Post06-against-complexity
+2019-06-25T16:27:15-04:00	Random link from the archives: https://srconstantin.wordpress.com/2019/02/25/humans-who-are-not-concentrating-are-not-general-intelligences/ originally posted Tue Feb 26 09:04:39 EST 2019
+2019-06-25T17:23:28-04:00	chuckyroll animu of the year: netflix genesis evangelion
+2019-06-25T17:37:39-04:00	Band name of the day: corn mucous
+2019-06-25T17:40:06-04:00	A Cruel Angel's Thesis Explained - What's in an OP? (Evangelion) - YouTube https://www.youtube.com/watch?v=A5eog52Jsvg
+2019-06-25T17:50:38-04:00	Band name of the day: fecal timebomb
+2019-06-25T17:53:03-04:00	Band name of the day: icefall doctors
+2019-06-25T18:31:42-04:00	Why AVENGERS: ENDGAME Did What GAME OF THRONES Couldn’t " Wisecrack Vlog - YouTube https://www.youtube.com/watch?v=cbUIgyHep-s
+2019-06-25T18:48:40-04:00	Do the Dead Don't Died? - YouTube https://www.youtube.com/watch?v=-n6Lq8W9sMY
+2019-06-25T18:58:51-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-25T20:47:30-04:00	Random link from the archives: https://slate.com/culture/2019/03/joe-rogans-podcast-is-an-essential-platform-for-freethinkers-who-hate-the-left.html originally posted Fri Mar 22 08:57:25 EDT 2019
+2019-06-26T01:07:45-04:00	Random link from the archives: https://www.youtube.com/watch?v=9EceEemWo0k originally posted Fri May 24 17:16:13 EDT 2019
+2019-06-26T01:58:59-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-26T05:27:55-04:00	Random link from the archives: https://en.wikipedia.org/wiki/Knolling originally posted Wed Mar 28 09:10:48 EDT 2018
+2019-06-26T07:29:20-04:00	MIDSOMMAR and the Tradition of Folk Horror - Nerdist https://nerdist.com/article/midsommar-tradition-of-folk-horror/
+2019-06-26T07:33:23-04:00	What You Need to Know About Folk Horror Before You See Ari Aster's 'Midsommar' - Bloody Disgusting https://bloody-disgusting.com/editorials/3554448/need-know-folk-horror-see-ari-asters-midsommar/
+2019-06-26T07:38:51-04:00	Before watching MIDSOMMAR, read my essay "Folk Horror as Speculative Sociology". After watching it, tell me how wrong I am on social media. https://modernmythology.net/folk-horror-as-speculative-sociology-c1e24d0c106
+2019-06-26T07:52:31-04:00	This Deepfake of Mark Zuckerberg Tests Facebook’s Fake Video Policies - VICE https://www.vice.com/en_us/article/ywyxex/deepfake-of-mark-zuckerberg-facebook-fake-video-policy
+2019-06-26T07:53:42-04:00	British Folk Horror Is Back, and It's Scarier Than Ever - VICE https://www.vice.com/en_us/article/pa3byz/british-folk-horror-is-back-and-its-scarier-than-ever
+2019-06-26T07:57:58-04:00	On the Edges of a Haunting: Elizabeth Hand’s Wylding Hall  |  Tor.com https://www.tor.com/2016/05/17/on-the-edges-of-a-haunting-elizabeth-hands-wylding-hall/
+2019-06-26T08:05:03-04:00	Is “Rural Decline” Just a Statistical Artifact? – Mother Jones https://www.motherjones.com/kevin-drum/2019/05/is-rural-decline-just-a-statistical-artifact/
+2019-06-26T08:59:13-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-26T09:48:10-04:00	Random link from the archives: https://www.youtube.com/watch?v=PIUWZcZZHqw originally posted Thu Apr 26 11:31:18 EDT 2018
+2019-06-26T10:38:13-04:00	Why Most Marketing Emails Still Use HTML Tables https://tedium.co/2019/06/25/html-email-limitations-design/
+2019-06-26T13:18:23-04:00	The Case for an 8-Hour Work Week - VICE https://www.vice.com/en_us/article/j5wnzb/the-case-for-an-8-hour-work-week
+2019-06-26T13:22:35-04:00	The Easy Way Out " Real Life https://reallifemag.com/the-easy-way-out/
+2019-06-26T14:08:18-04:00	Random link from the archives: https://longreads.com/2018/07/12/petersons-complaint/ originally posted Fri Jul 13 07:43:10 EDT 2018
+2019-06-26T14:42:51-04:00	Why Section 230 exists and how people are still getting it wrong - The Verge https://www.theverge.com/2019/6/21/18700605/section-230-internet-law-twenty-six-words-that-created-the-internet-jeff-kosseff-interview
+2019-06-26T14:55:36-04:00	Petname Tool: Enabling web site recognition using the existing SSL infrastructure https://www.w3.org/2005/Security/usability-ws/papers/02-hp-petname/
+2019-06-26T15:16:26-04:00	What Every Computer Scientist Should Know About Floating-Point Arithmetic https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+2019-06-26T15:17:11-04:00	‘Nothing Kept Me Up At Night the Way the Gorgon Stare Did.’  https://longreads.com/2019/06/21/nothing-kept-me-up-at-night-the-way-the-gorgon-stare-did/
+2019-06-26T15:59:23-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-26T17:26:24-04:00	Abortion & Ben Shapiro | Philosophy Tube - YouTube https://www.youtube.com/watch?v=c2PAajlHbnU
+2019-06-26T17:31:00-04:00	Rejects from Tom's Ideas Board: The Early Years - YouTube https://www.youtube.com/watch?v=SborjlpiYtQ
+2019-06-26T18:02:39-04:00	Oh hey Isekai Kaa-san & Isekai Musume are airing during the same season
+2019-06-26T18:28:28-04:00	Random link from the archives: https://www.cbr.com/legacy-grant-morrison-invisibles-25/ originally posted Mon Jun 10 08:47:18 EDT 2019
+2019-06-26T20:32:29-04:00	Bad idea of the day: death metal band names written in the font that the katakana in the evangelion logo uses
+2019-06-26T22:48:47-04:00	Random link from the archives:  originally posted Mon Oct 29 18:10:00 EDT 2018
+2019-06-26T22:59:30-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-27T03:09:03-04:00	Random link from the archives: https://aeon.co/essays/can-you-stop-yourself-being-infected-with-other-peoples-desires originally posted Wed Jun 19 09:37:14 EDT 2019
+2019-06-27T05:59:39-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-27T07:29:23-04:00	Random link from the archives: https://modernmythology.net/invisible-architecture-iii-e30d6add047d originally posted Sat Jun  2 13:14:53 EDT 2018
+2019-06-27T07:29:28-04:00	How China remakes its cultural imports from the West | Aeon Essays https://aeon.co/essays/how-china-remakes-its-cultural-imports-from-the-west
+2019-06-27T07:30:25-04:00	Bad idea of the day: prototype the future but in AGPL code so startups can't steal it. Then, everybody else gets to use it for free.
+2019-06-27T07:42:15-04:00	Why is psychedelic culture dominated by privileged white men? | Aeon Ideas https://aeon.co/ideas/why-is-psychedelic-culture-dominated-by-privileged-white-men
+2019-06-27T07:54:00-04:00	The Forgotten Trans History of the Wild West - Atlas Obscura https://www.atlasobscura.com/articles/trans-history-wild-west
+2019-06-27T07:56:09-04:00	Math Mutation: 252:  A Mathematician Translating Pushkin? http://mathmutation.blogspot.com/2019/06/252-mathematician-translating-pushkin.html
+2019-06-27T07:58:20-04:00	The Anita Sarkeesian story - Polygon https://www.polygon.com/features/2019/6/19/18679678/anita-sarkeesian-feminist-frequency-interview-history-story
+2019-06-27T08:25:17-04:00	Band name of the day: jesuit rat car
+2019-06-27T08:26:46-04:00	We Could Have Had Electric Cars from the Very Beginning  https://longreads.com/2019/06/13/we-could-have-had-electric-cars-from-the-very-beginning/
+2019-06-27T08:30:39-04:00	Band name of the day: horseless age
+2019-06-27T11:49:35-04:00	Random link from the archives: http://blogs.discovermagazine.com/neuroskeptic/2017/11/04/facephenes-phantasmal-faces/#.WgBm4lf950y originally posted Mon Nov  6 08:45:09 EST 2017
+2019-06-27T11:54:49-04:00	I think the problem with the whole operation mindfuck/culture jamming/troll-philanthropy thing is the assumption that reality tunnels that fail to align with reality are fragile (i.e., that the 'marketplace of ideas' elevates good ones).
+2019-06-27T12:17:49-04:00	Bad idea of the day: plantasia but for rocks
+2019-06-27T12:23:13-04:00	Bad idea of the day: an animatronic shark with the face of Bruce Campbell and the voice of Bruce Springsteen
+2019-06-27T12:28:07-04:00	Mere minutes after sunsetting Vertigo, DC announces its new imprint: Rear Window, set to compete directly with Marvel's new imprint, Repulsion.
+2019-06-27T12:54:05-04:00	Nobody is quite sure when the bridge was originally built, or by whom, or by what, but if you spend time by the waterfront near twilight, residents say that you'll see a light pierce through the fog and a chorus of whispers, begging you to come on, cross over, sink in.
+2019-06-27T12:59:47-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-27T13:33:31-04:00	Somewhere, there is a tree -- ordinary-looking enough -- but if you circle it three times widdershins you dissapear from our world & find yourself in another, very much like it, but just slightly off. In every world, this special tree has a different location.
+2019-06-27T13:36:40-04:00	Chanctonbury Rings is a great album, if you're the kind of person who likes Belbury Poly or The Advisory Circle or Eric Zann or any of the Ghost Box people tbh
+2019-06-27T13:42:53-04:00	Always keep in mind: you aren't experiencing this event, but remembering it in the future. Every time you remember something, it becomes subtly corrupted, growing new details and losing others.
+2019-06-27T13:47:00-04:00	Facebook’s Crypto Strawman – alexdanco.com https://alexdanco.com/2019/06/19/facebooks-crypto-strawman/
+2019-06-27T14:00:20-04:00	GeoWorks: The Other Windows https://tedium.co/2019/06/20/geoworks-geos-history/
+2019-06-27T14:09:55-04:00	GitHub - bluewaysw/pcgeos: #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU! https://github.com/bluewaysw/pcgeos
+2019-06-27T16:09:44-04:00	Random link from the archives: https://tedium.co/2018/02/14/3dfx-history-failure/ originally posted Wed Feb 14 18:25:00 EST 2018
+2019-06-27T16:45:15-04:00	Band name of the day: unrelated corpse
+2019-06-27T19:06:59-04:00	Band name of the day: the hat research foundation
+2019-06-27T19:59:56-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-27T20:29:52-04:00	Random link from the archives: http://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html originally posted Mon Nov 12 11:18:27 EST 2018
+2019-06-28T00:50:00-04:00	Random link from the archives: https://www.zeit.de/digital/games/2018-11/computer-games-gdr-stasi-surveillance-gamer-crowd originally posted Fri Nov 30 09:43:18 EST 2018
+2019-06-28T03:00:05-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-28T05:10:08-04:00	Random link from the archives: https://aeon.co/essays/is-the-gun-the-basis-of-modern-anglo-civilisation originally posted Thu Feb 15 13:44:41 EST 2018
+2019-06-28T07:03:37-04:00	Band name of the day: the weaponization of insects
+2019-06-28T07:14:43-04:00	History Will Not Be Kind to Jony Ive - VICE https://www.vice.com/en_us/article/ywyjmw/history-will-not-be-kind-to-jony-ive
+2019-06-28T07:21:47-04:00	That this AI can simulate universes in 30ms is not the scary part. It's that its creators don't know why it works so well • The Register https://www.theregister.co.uk/2019/06/28/ai_3d_simulations_universe/
+2019-06-28T07:23:47-04:00	JUSTIN HOPPER & SHARRON KRAUS " Chanctonbury Rings LP Slide 1 " from the album Chanctonbury Rings - YouTube https://www.youtube.com/watch?v=lgExKIpy4ZA
+2019-06-28T07:24:00-04:00	Chanctonbury Rings LP, Side 2 - YouTube https://www.youtube.com/watch?v=S0LvD-Gco1w
+2019-06-28T07:27:17-04:00	How to speak Silicon Valley: 53 essential tech-bro terms explained | US news | The Guardian https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy
+2019-06-28T07:42:29-04:00	Somebody flagged my name as fake on Quora, & I got locked out :(
+2019-06-28T07:51:46-04:00	GitHub - probcomp/Gen: A general-purpose probabilistic programming system with programmable inference https://github.com/probcomp/Gen
+2019-06-28T08:06:20-04:00	Gamasutra - How id built Wolfenstein 3D using Commander Keen tech https://www.gamasutra.com/view/news/344672/How_id_built_Wolfenstein_3D_using_Commander_Keen_tech.php
+2019-06-28T08:10:14-04:00	No Moods, Ads or Cutesy Fucking Icons » The Understated, Underrated Genius of Counterpart. https://www.rifters.com/crawl/?p=8855
+2019-06-28T08:13:07-04:00	The Egg of the Phoenix: a computational time capsule http://canonical.org/~kragen/eotf/
+2019-06-28T08:21:17-04:00	The Culture War Has Finally Come For Wikipedia https://www.buzzfeednews.com/article/josephbernstein/wikipedia-ban-editor-culture-war
+2019-06-28T08:46:38-04:00	An idea that's sort of implicit in FALL (and in some of Stephenson's other work) that I find problematic is that some rare people are naturally creative & everybody else is naturally dull. I suspect that the creative impulse is nigh-universal & some folks get socialized out of it.
