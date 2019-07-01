@@ -203,6 +203,8 @@ class AContainer(object):
 			for child in self.children:
 				child.draw()
 	def draw_r(self):
+		""" draw_r - implement this when subclassing to perform drawing routines
+		"""
 		pass
 class ATextChunk(AContainer): # TODO implement flow support & move scrolling to a new scrollingcontainer class: this class should just be noodles
 	def __init__(self, parent=None, content="", color="orange", font=None, fontSize=6, editable=False, bgcolor=None):
