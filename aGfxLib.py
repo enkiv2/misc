@@ -58,10 +58,12 @@ class AContainer(object):
 		self.focusable=False
 		self.dragSpriteStyle="line"
 	def drag_accept(self, source_widget, start_x, start_y, end_x, end_y):
-		# This should be implemented in widgets that accept drag operations from other widgets
-		# The idea is, a drag_end event would cause a source widget to lookup the destination widget (if any) at end_x,end_y
-		# and call its drag_accept function. The drag_accept function would then decide how to respond to this event based on
-		# the type and ancestry of source_widget.
+		""" drag_accept - event handler for accepting drag_end events on the target widget
+		This should be implemented in widgets that accept drag operations from other widgets
+		The idea is, a drag_end event would cause a source widget to lookup the destination widget (if any) at end_x,end_y
+		and call its drag_accept function. The drag_accept function would then decide how to respond to this event based on
+		the type and ancestry of source_widget.
+		"""
 		pass
 	def drag_sprite_draw(self, start_x, start_y, curr_x, curr_y):
 		if(dragSpriteStyle=="rectangle"):
@@ -84,10 +86,12 @@ class AContainer(object):
 				return True
 		return False
 	def flow(self, initalOffsetX, initialOffsetY):
-		# Flow is an alternative to pack for things like text
-		# In other words, you have a head and tail that's possibly
-		# less wide than the 'body' and can link up with the respective
-		# tail and head of something else.
+		""" flow - layout for text-like contents
+		Flow is an alternative to pack for things like text
+		In other words, you have a head and tail that's possibly
+		less wide than the 'body' and can link up with the respective
+		tail and head of something else.
+		"""
 		if(flowable):
 			self.initialOffsetX=initialOffsetX
 			self.initialOffsetY=initialOffsetY

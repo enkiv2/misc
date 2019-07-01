@@ -8368,3 +8368,45 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-06-28T10:00:12-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
 2019-06-28T10:11:36-04:00	Interactive Fiction History: Adventures Without Graphics https://tedium.co/2019/06/27/adventure-games-interactive-fiction-history/
 2019-06-28T10:49:47-04:00	Bad idea of the day: couchsurfing but with raspberry pis as an alternative to cloud providers: you add your machines to the pool & the rule is that you can't charge anybody or use it for commercial purposes
+2019-06-28T11:01:29-04:00	How the Traditional Japanese Art of Fish Printing Inspired a Modern Art Form - Atlas Obscura https://www.atlasobscura.com/articles/gyotaku-japanese-fish-printing
+2019-06-28T11:40:23-04:00	Band name of the day: the rental bees
+2019-06-28T11:42:19-04:00	Band name of the day: roman extinction
+2019-06-28T11:58:26-04:00	Saying 'RIP' about folks who had themselves cryopreserved is a low-key burn, because you're basically saying 'may your ressurection be unsuccessful'. (Arguably, the same can be said for christians...)
+2019-06-28T12:03:57-04:00	Letting neural networks be weird • This neural net would like to deliver these... https://aiweirdness.com/post/184919085542/this-neural-net-would-like-to-deliver-these
+2019-06-28T12:05:14-04:00	That Time Zizek Wrote for Abercrombie & Fitch | Critical-Theory.com http://www.critical-theory.com/that-time-zizek-wrote-for-abercrombie-fitch/
+2019-06-28T12:06:17-04:00	MIT Media Lab director Joi Ito on Kara Swisher podcast Recode Decode - Vox https://www.vox.com/recode/2019/6/26/18758776/joi-ito-mit-media-lab-resisting-reduction-exorcist-kara-swisher-recode-decode-podcast-interview
+2019-06-28T12:07:34-04:00	The new left economics: how a network of thinkers is transforming capitalism | News | The Guardian https://www.theguardian.com/news/2019/jun/25/the-new-left-economics-how-a-network-of-thinkers-is-transforming-capitalism
+2019-06-28T12:08:53-04:00	trees are harlequins, words are harlequins — the transformer ... “explained”? https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained
+2019-06-28T12:17:30-04:00	argumatronic - A Brief Guide to A Few Algebraic Structures https://argumatronic.com//posts/2019-06-21-algebra-cheatsheet.html
+2019-06-28T17:00:20-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-28T18:10:30-04:00	Random link from the archives: https://techcrunch.com/2019/04/07/stuck-at-the-sushi-boat-bar-of-news/ originally posted Tue Apr  9 12:21:32 EDT 2019
+2019-06-28T22:30:38-04:00	Random link from the archives: http://www.dougengelbart.org/content/view/155/87/ originally posted Thu Jan  3 10:46:13 EST 2019
+2019-06-29T00:00:29-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-29T07:00:36-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-29T07:10:53-04:00	Random link from the archives: http://cass.lancs.ac.uk/?p=1133 originally posted Tue Mar 13 18:21:02 EDT 2018
+2019-06-29T09:55:05-04:00	society for the promotion of translating 'aniki' as 'bro'
+2019-06-29T09:55:18-04:00	Bad idea of the day: the larry cohen brothers
+2019-06-29T10:31:46-04:00	Hot take: the translation vs localization debate is similar in shape to the GUI vs command line debate because the underlying question is 'how much can we reasonably expect the user/viewer to already know' as a proxy for 'how much work is the user/viewer willing to do for the sake of accuracy & completeness'. I'll bet heavy command line users tend to prefer subs for exactly this reason.
+2019-06-29T11:31:01-04:00	Random link from the archives: https://futuryst.blogspot.com/2018/06/an-experiential-futures-interview.html originally posted Tue Jun 19 10:05:05 EDT 2018
+2019-06-29T14:00:46-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-29T15:51:08-04:00	Random link from the archives: https://dzone.com/articles/abstraction-tiers-of-notations originally posted Wed Jan 30 11:42:32 EST 2019
+2019-06-29T20:11:17-04:00	Random link from the archives: https://www.bloomberg.com/news/features/2017-06-14/how-to-freedive-off-egypts-sinai-peninsula?utm_source=nextdraft&utm_medium=email originally posted Thu Jun 15 08:31:02 EDT 2017
+2019-06-29T21:00:54-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-29T23:53:43-04:00	Bad idea of the day: dracula told in the style of kanashimi no belladonna
+2019-06-29T23:54:39-04:00	Bad idea of the day: a mechanized seat for the purpose of adding camera movements to live plays, provided the play has exactly one (1) audience member
+2019-06-30T00:31:25-04:00	Random link from the archives: https://www.theguardian.com/lifeandstyle/2018/apr/06/how-to-handle-headline-anxiety-take-time-reading-news-oliver-burkeman originally posted Tue Apr 10 13:01:21 EDT 2018
+2019-06-30T04:01:02-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-30T04:51:33-04:00	Random link from the archives: https://wireframe.raspberrypi.org/features/there's-no-such-thing-as-an-apolitical-game originally posted Tue Jun  4 09:40:15 EDT 2019
+2019-06-30T09:11:40-04:00	Random link from the archives: https://www.propublica.org/article/cheap-tricks-the-low-cost-of-internet-harassment originally posted Fri Nov 10 08:11:07 EST 2017
+2019-06-30T11:01:10-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-30T13:31:48-04:00	Random link from the archives: gopher://sdf.org:70/0/users/rusty/Post06-against-complexity originally posted Tue Jun 25 15:55:50 EDT 2019
+2019-06-30T17:51:56-04:00	Random link from the archives: https://www.bloomberg.com/news/features/2019-02-13/why-america-s-new-apartment-buildings-all-look-the-same originally posted Tue Feb 26 07:55:10 EST 2019
+2019-06-30T18:01:19-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-06-30T22:12:05-04:00	Random link from the archives: https://www.youtube.com/watch?v=IOiZatlZtGU originally posted Wed Apr 25 15:12:27 EDT 2018
+2019-07-01T01:01:27-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-07-01T02:32:13-04:00	Random link from the archives: https://filmschoolrejects.com/ari-aster-midsommar-review/ originally posted Thu Jun 20 19:22:07 EDT 2019
+2019-07-01T06:45:34-04:00	libreho.st - the librehosters network https://libreho.st/
+2019-07-01T06:54:02-04:00	https://imgur.com/a/gfcEr?gallery
+2019-07-01T08:01:36-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-07-01T08:48:38-04:00	Has anybody made a Humanity Has Declined AMV set to 'Oh\! You Pretty Things'?
+2019-07-01T08:52:21-04:00	The keys on my twiddler are starting to stick & I think this might be even worse for a chording keyboard than a regular one...
