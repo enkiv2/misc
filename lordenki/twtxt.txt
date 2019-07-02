@@ -8410,3 +8410,36 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-07-01T08:01:36-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
 2019-07-01T08:48:38-04:00	Has anybody made a Humanity Has Declined AMV set to 'Oh\! You Pretty Things'?
 2019-07-01T08:52:21-04:00	The keys on my twiddler are starting to stick & I think this might be even worse for a chording keyboard than a regular one...
+2019-07-01T10:38:53-04:00	Who the heck called it 'linker rules' and not 'bondage contract'
+2019-07-01T11:12:29-04:00	Random link from the archives: http://programming.guide/java/executing-code-in-comments.html originally posted Fri May 11 08:52:40 EDT 2018
+2019-07-01T11:27:14-04:00	Band name of the day: improvized implements of excrement
+2019-07-01T11:29:39-04:00	Band name of the day: loud dangerous
+2019-07-01T11:30:57-04:00	makoto matsushita seems to be... like, the japanese steely dan I guess?
+2019-07-01T12:10:31-04:00	'Plan S' and 'cOAlition S' " Accelerating the transition to full and immediate Open Access to scientific publications https://www.coalition-s.org/
+2019-07-01T15:01:46-04:00	Manna for our Malices is $0.89 for the duration of the Steam summer sale: https://store.steampowered.com/app/1013580/
+2019-07-01T15:32:37-04:00	Random link from the archives: https://www.youtube.com/watch?v=HCHFjj_qr5Q originally posted Sun Dec  2 12:43:17 EST 2018
+2019-07-01T16:07:39-04:00	Mozilla takes swipe at Chrome with 'Track THIS' project | Computerworld https://www.computerworld.com/article/3405577/mozilla-takes-swipe-at-chrome-with-track-this-project.html
+2019-07-01T16:55:18-04:00	Band name of the day: illusory deviance
+2019-07-01T18:48:38-04:00	Band name of the day: the tri-state area
+2019-07-01T20:15:11-04:00	beating the bounds of the absolute terror field, or else you forfeit your sovergnty to the enclosing territory
+2019-07-02T07:52:29-04:00	The train stops. "This is me," he says, pointing to the giant photorealistic fiberglass sculpture of his head crowding the platform. "Liar," mutters the head. The train moves on.
+2019-07-02T07:53:06-04:00	Random link from the archives: https://lithub.com/the-truth-of-ray-bradburys-prophetic-vision/ originally posted Fri May 18 11:47:24 EDT 2018
+2019-07-02T08:06:10-04:00	Google's new reCaptcha has a dark side https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side
+2019-07-02T08:06:45-04:00	C, Fortran, and single-character strings [LWN.net] https://lwn.net/SubscriberLink/791393/90b4a7adf99d95a8/
+2019-07-02T08:16:07-04:00	GitHub - google/schism: A self-hosting Scheme to WebAssembly compiler https://github.com/google/schism
+2019-07-02T08:17:36-04:00	Robots.txt is 25 years old " Martijn Koster's Pages https://www.greenhills.co.uk/posts/robotstxt-25/
+2019-07-02T08:33:26-04:00	Branch prediction https://danluu.com/branch-prediction/
+2019-07-02T08:35:47-04:00	Absence of certain features in IRC considered a feature | Drew DeVault’s Blog https://drewdevault.com//2019/07/01/Absence-of-features-in-IRC.html
+2019-07-02T09:07:36-04:00	A Better Measure of Health Than Body Weight - The Atlantic  https://www.theatlantic.com/health/archive/2019/06/push-ups-body-weight-bmi/592834/
+2019-07-02T09:31:01-04:00	What's new in CPUs since the 80s? https://danluu.com/new-cpu-features/
+2019-07-02T09:31:31-04:00	Integer overflow checking cost https://danluu.com/integer-overflow/
+2019-07-02T09:32:08-04:00	CPU bugs https://danluu.com/cpu-bugs/
+2019-07-02T09:33:57-04:00	Hardware is unforgiving https://danluu.com/hardware-unforgiving/
+2019-07-02T09:36:01-04:00	Verilog is weird https://danluu.com/why-hardware-development-is-hard/
+2019-07-02T09:37:55-04:00	One week of bugs https://danluu.com/everything-is-broken/
+2019-07-02T10:03:39-04:00	who the heck called it a 'mario bava marathon' and not a 'bava mariothon'
+2019-07-02T10:10:01-04:00	Band name of the day: public radio
+2019-07-02T10:16:56-04:00	My God, It's Full Of Bees (MGIFOB)
+2019-07-02T11:53:14-04:00	Random link from the archives: https://www.vice.com/en_us/article/qbzbn5/paul-virilio-506-v17n9 originally posted Tue Jun 18 13:28:18 EDT 2019
+2019-07-02T15:53:29-04:00	Random link from the archives: https://github.com/historicalsource/beyondzork originally posted Tue Apr 16 08:24:45 EDT 2019
+2019-07-02T16:13:44-04:00	Band name of the day: a new casual mode of paranoia

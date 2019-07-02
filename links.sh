@@ -57,6 +57,18 @@ function fmtlinksrss() {
 			}
 		'
 }
+function uploadBandNames() {
+	(
+	echo '<html>'
+	echo '<head><title>Band Names</title><link rel="stylesheet" type="text/css" href="vt240.css"></head>'
+	echo '<body><table><tr><th>Date</th><th>Band name</th></tr>'
+	grep '	Band name of the day: ' ~/code/misc/lordenki/twtxt.txt | 
+		sed 's/^/<tr><td>/;s/	Band name of the day: /<\/td><td>/;s/$/<\/td><\/tr>/' | 
+		tac 
+	echo "</table></body></html>") > ~/bandnames.html
+	scp ~/bandnames.html $1
+
+}
 function uploadlinks() {
 	fmtlinks > ~/index.html
 	fmtlinksrss > ~/feed.rss
