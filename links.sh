@@ -67,7 +67,17 @@ function uploadBandNames() {
 		tac 
 	echo "</table></body></html>") > ~/bandnames.html
 	scp ~/bandnames.html $1
-
+}
+function uploadBadIdeas() {
+	(
+	echo '<html>'
+	echo '<head><title>Ideas</title><link rel="stylesheet" type="text/css" href="vt240.css"></head>'
+	echo '<body><table><tr><th>Date</th><th>Band name</th></tr>'
+	grep '	Bad idea of the day: ' ~/code/misc/lordenki/twtxt.txt | 
+		sed 's/^/<tr><td>/;s/	Bad idea of the day: /<\/td><td>/;s/$/<\/td><\/tr>/' | 
+		tac 
+	echo "</table></body></html>") > ~/ideas.html
+	scp ~/ideas.html $1
 }
 function uploadlinks() {
 	fmtlinks > ~/index.html
