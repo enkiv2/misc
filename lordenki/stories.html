@@ -304,17 +304,16 @@ function shuffle() {
 	var rows=table.children
 	var rows2=[]
 	for(i=0; i<rows.length; i++) { 
-		var target=Math.floor(Math.random()*rows.length)
-		var temp=rows[target].cloneNode(true)
-		rows2[target]=rows[i].cloneNode(true)
-		rows2[i]=temp
+		rows2[i]=rows[i].cloneNode(true)
 	}
-	var table2=document.createElement("table")
 	for(i=0; i<rows.length; i++) {
-		table2.appendChild(rows2[i])
+		var target=Math.floor(Math.random()*rows.length)
+		var temp=rows2[i]
+		rows2[i]=rows2[target]
+		rows2[target]=temp
 	}
-	table.remove()
-	document.getElementsByTagName("body")[0].appendChild(table2)
+	for(i=0; i<rows.length; i++) rows[i].remove()
+	for(i=0; i<rows.length; i++) table.appendChild(rows2[i])
 }
 </script>
 </body>
