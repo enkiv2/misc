@@ -72,7 +72,7 @@ function uploadBadIdeas() {
 	(
 	echo '<html>'
 	echo '<head><title>Ideas</title><link rel="stylesheet" type="text/css" href="vt240.css"></head>'
-	echo '<body><table><tr><th>Date</th><th>Band name</th></tr>'
+	echo '<body><table><tr><th>Date</th><th>Idea</th></tr>'
 	grep '	Bad idea of the day: ' ~/code/misc/lordenki/twtxt.txt | 
 		sed 's/^/<tr><td>/;s/	Bad idea of the day: /<\/td><td>/;s/$/<\/td><\/tr>/' | 
 		tac 
