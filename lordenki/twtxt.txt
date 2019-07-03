@@ -8473,3 +8473,4 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-07-03T12:42:06-04:00	Elon Musk wanted The Onion; he got Thud - The Verge https://www.theverge.com/2019/7/2/18701197/elon-musk-thud-satire-startup-onion-launch-failure
 2019-07-03T12:53:51-04:00	It Ain't Necessarily So: Exploring Type Systems for Verifying Musical Correctness https://www.infoq.com/articles/type-systems-verifying-musical-correctness/
 2019-07-03T12:54:21-04:00	Facebook's First 'Civil Rights Audit' Is the First Step in Climbing Everest - VICE https://www.vice.com/en_us/article/j5w95g/facebook-launches-first-civil-rights-audit-like-climbing-everest
+2019-07-03T13:23:18-04:00	For Facebook Content Moderators, Traumatizing Material Is A Job Hazard : NPR https://www.npr.org/2019/07/01/737498507/for-facebook-content-moderators-traumatizing-material-is-a-job-hazard?u
