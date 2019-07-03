@@ -8467,3 +8467,4 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-07-03T09:58:06-04:00	Band name of the day: the hayflick limit
 2019-07-03T10:49:40-04:00	More Confounders | Slate Star Codex https://slatestarcodex.com/2019/06/24/you-need-more-confounders/
 2019-07-03T10:52:21-04:00	Why did moving the mouse cursor cause Windows 95 to run more quickly? - Retrocomputing Stack Exchange https://retrocomputing.stackexchange.com/questions/11533/why-did-moving-the-mouse-cursor-cause-windows-95-to-run-more-quickly
+2019-07-03T10:57:28-04:00	Ideas http://www.lord-enki.net/ideas.html
