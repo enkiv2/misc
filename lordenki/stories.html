@@ -4,7 +4,8 @@
 	<link rel="stylesheet" type="text/css" href="vt240.css">
 </head>
 <body>
-<table>
+<a onclick="shuffle()">Shuffle</button><br>
+<table id="table">
 <tr><td>Our universe suddenly transitions to operating not on physics, but on aristotlean logic. Ravens quickly become black holes, and anyone who changes their mind ceases to exist, since they are a contradiction in the unified and artificially divided &lsquo;now&rsquo;</li>
 <tr><td>Some large (double-digit) percentage of people who experience free fall outside of the ionosphere later have an intense revelatory experience. Commercial space tourism companies pop up and produce a steady stream of exceedingly wealthy cult leaders. Governments later begin using this to discredit people they don&rsquo;t like, sending them free tickets to space knowing that they are likely to come down acting entirely nuts (the way the CIA occasionally doped people with LSD to discredit them during the good old days of MK-ULTRA). Some of the cult leaders get their act together enough to organize and oppose space travel.</li>
 <tr><td>McLuhan had a theory of hot and cool media. The distinction is that hot media tells you what to think (and is therefore non-interactive) whereas cool media means nothing until you think about it (and therefore requires effort on the part of the consumer). McLuhan believed that cool media cools down political unrest by giving a built-in release valve for the need to engage in action, whereas he thought hot media countered apathy. Story: The BBC (who broadcasts in a wide variety of places) has a computerized system using this model of the interaction between political activism and media coolness to regulate the global political situation through the mechanism of changing the vagueness of scripts in BBC newscasts (the news in a place with riots in the streets resembles Finnegan&rsquo;s Wake, being incomprehensible enough that some effort otherwise directed toward activism is directed instead toward figuring out what the news means, while a place where the economy needs stimulation the news will be limited to precise and low-information newscasts). This works wonders for a while, until riots start in London and it is discovered that the system does not take into account the feedback loop between the writers of the original scripts and the newscasters.</li>
@@ -296,5 +297,25 @@
 <tr><td>Freddy Kreuger isn't the only one -- it turns out that any lucid dreamer responsible for the death of a child gains the power to visit and manipulate other people's dreams, and this power extends after death. A former pediatric oncologist, desperate to use this new power for good, embarks upon getting a second doctorate in psychology, while training his skills on whoever seems like they need his help. However, he must deal with unexpected problems from three directions: his overly honest nature makes it uncomfortable for him to lie about his intentions, there's a tendency for his own neuroses and traumas to slip into his patients' dreams, and his cures sometimes backfire as banishing his patients' demons have left them unable to properly identify and calculate risk in their waking lives.</td></tr>
 <tr><td>Following a brain injury, a man's autobiographical memory becomes highly context-dependent: he is unable to recall past events that do not smell the same as his current location, and instead confabulates elaborate false memories, which become consolidated. His personality and history begins to change drastically based on scent.</td></tr>
 </table>
+<script type="text/javascript">
+function shuffle() {
+	var tables=document.getElementsByTagName("table")
+	var table=tables[tables.length-1].children[0]
+	var rows=table.children
+	var rows2=[]
+	for(i=0; i<rows.length; i++) { 
+		var target=Math.floor(Math.random()*rows.length)
+		var temp=rows[target].cloneNode(true)
+		rows2[target]=rows[i].cloneNode(true)
+		rows2[i]=temp
+	}
+	var table2=document.createElement("table")
+	for(i=0; i<rows.length; i++) {
+		table2.appendChild(rows2[i])
+	}
+	table.remove()
+	document.getElementsByTagName("body")[0].appendChild(table2)
+}
+</script>
 </body>
 </html>
