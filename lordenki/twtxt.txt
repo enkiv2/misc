@@ -8469,3 +8469,7 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-07-03T10:52:21-04:00	Why did moving the mouse cursor cause Windows 95 to run more quickly? - Retrocomputing Stack Exchange https://retrocomputing.stackexchange.com/questions/11533/why-did-moving-the-mouse-cursor-cause-windows-95-to-run-more-quickly
 2019-07-03T10:57:28-04:00	Ideas http://www.lord-enki.net/ideas.html
 2019-07-03T11:54:25-04:00	Random link from the archives: https://www.ribbonfarm.com/2007/08/16/digital-philosophy-i/ originally posted Thu Nov 15 18:03:56 EST 2018
+2019-07-03T12:39:06-04:00	It has a shuffle button now: http://www.lord-enki.net/stories.html
+2019-07-03T12:42:06-04:00	Elon Musk wanted The Onion; he got Thud - The Verge https://www.theverge.com/2019/7/2/18701197/elon-musk-thud-satire-startup-onion-launch-failure
+2019-07-03T12:53:51-04:00	It Ain't Necessarily So: Exploring Type Systems for Verifying Musical Correctness https://www.infoq.com/articles/type-systems-verifying-musical-correctness/
+2019-07-03T12:54:21-04:00	Facebook's First 'Civil Rights Audit' Is the First Step in Climbing Everest - VICE https://www.vice.com/en_us/article/j5w95g/facebook-launches-first-civil-rights-audit-like-climbing-everest
