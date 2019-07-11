@@ -324,7 +324,10 @@ http://www.loper-os.org/?p=284
 https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.html
 https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
+https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html
 General
+https://ironholds.org/resources/papers/anarchist_hci.pdf
+http://contemporary-home-computing.org/turing-complete-user/
 https://maxhallinan.com/posts/2019/05/30/start-with-just-a-few-things/
 https://zwischenzugs.com/2019/04/12/apples-hq-ruskin-gothic-architecture-and-agile/
 http://shirky.com/writings/herecomeseverybody/situated_software.html
