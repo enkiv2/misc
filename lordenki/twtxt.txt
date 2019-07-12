@@ -8695,3 +8695,10 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-07-11T13:54:00-04:00	Python consumes a lot of memory or how to reduce the size of objects? / Habr https://habr.com/en/post/458518/
 2019-07-11T13:55:32-04:00	If Sapiens were a blog post | Neil Kakkar https://neilkakkar.com/sapiens.html
 2019-07-11T15:41:33-04:00	Band name of the day: an inconvenience of nettles
+2019-07-11T15:50:56-04:00	Does ren'py have sufficient facilities to build FMV games? Like, can buttons be composited onto video?
+2019-07-11T16:02:36-04:00	Random link from the archives: http://previous.alternative-system.com/ originally posted Wed Feb  6 06:05:47 EST 2019
+2019-07-11T16:12:29-04:00	Band name of the day: doubting the witch
+2019-07-11T19:17:11-04:00	Idea for BotD: depending which route the protagonist goes down (i.e., which character she ends up falling in love with), the genre of the game changes. If she goes for Akane, it's a mashup of italian gothic & giallo sensibilities -- a neon-tinged haunted house movie. If she goes for the bookish Hanabi, it's a mannered Agatha Christie style mystery. (Facts of the case stay the same.) If you play all those routes, you open up the ability for her to go on a PLAYER ROUTE.
+2019-07-11T20:02:44-04:00	Random link from the archives: https://danluu.com/keyboard-latency/ originally posted Tue Dec 26 07:18:45 EST 2017
+2019-07-12T00:02:52-04:00	Random link from the archives: https://putanumonit.com/2018/09/07/the-scent-of-bad-psychology/ originally posted Mon Sep 24 12:02:13 EDT 2018
+2019-07-12T04:03:04-04:00	Random link from the archives: https://www.youtube.com/watch?v=agzNANfNlTs originally posted Thu Apr  4 18:02:39 EDT 2019
