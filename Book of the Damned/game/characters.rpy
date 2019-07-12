@@ -17,6 +17,7 @@ define hikari = Character("Asahara Hikari") # room 7
 define trust_hikari=0
 define akiko = Character("Ikuhara Akiko") # room 6
 define trust_akiko=0
+define corto = Character("Master Corto") # penthouse
 # other
 define mina = Character("Umeji Mina")
 define trust_mina=25
