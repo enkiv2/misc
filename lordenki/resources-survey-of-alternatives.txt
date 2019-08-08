@@ -281,6 +281,7 @@ https://red.github.io/
 TCL / WISH
 https://journal.dedasys.com/2010/03/30/where-tcl-and-tk-went-wrong/
 APL
+https://tryapl.org/
 https://www.hillelwayne.com/post/the-problem-with-apls/
 http://wordsandbuttons.online/apl_deserves_its_renaissance_too.html
 http://www.jsoftware.com/papers/50/
