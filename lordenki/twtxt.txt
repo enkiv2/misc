@@ -9731,3 +9731,649 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-08-21T05:31:35-04:00	Random link from the archives: https://web.archive.org/web/20190109081324/https://emshort.blog/2016/05/03/card-deck-narratives/ originally posted Wed Jan  9 08:13:24 EST 2019/
 2019-08-21T07:13:10-04:00	Bad idea of the day: a collaboration between Joi Ito and Junji Ito
 2019-08-21T07:31:19-04:00	https://medium.com/p/a-revolution-let-me-stop-you-right-there-7c59cf5a6d55
+2019-08-21T08:03:12-04:00	The Center for Midnight https://www.robinsloan.com/center-for-midnight/
+2019-08-21T09:32:06-04:00	Random link from the archives: https://web.archive.org/web/20190111094147/https://cybre.space/@mona/101387689301187034 originally posted Fri Jan 11 09:41:47 EST 2019/
+2019-08-21T10:43:40-04:00	OpenAI releases larger GPT-2 dataset. Can it write fake news better than a human? / Boing Boing https://boingboing.net/2019/08/20/openai-releases-larger-gpt-2-d.html
+2019-08-21T10:45:39-04:00	Flawed Algorithms Are Grading Millions of Students’ Essays - VICE https://www.vice.com/en_us/article/pa7dj9/flawed-algorithms-are-grading-millions-of-students-essays
+2019-08-21T12:15:41-04:00	THE MYSTERIOUS CASE OF THE INVISIBLE THIRD MEME – ALIENIST MANIFESTO https://alienistmanifesto.wordpress.com/2019/08/20/the-mysterious-case-of-the-invisible-third-meme/
+2019-08-21T12:19:14-04:00	A Brief Eerie History of How the Wind Makes Us Crazy | Literary  Hub https://lithub.com/a-brief-eerie-history-of-how-the-wind-makes-us-crazy/
+2019-08-21T12:31:15-04:00	Band name of the day: graphic methods for presenting facts
+2019-08-21T12:32:35-04:00	Cartopinography: The Unlikely Study of Map Pins, Flags, Beads & Other Markers - 99% Invisible https://99percentinvisible.org/article/cartopinography-the-unlikely-study-of-map-pins-flags-beads-other-markers/
+2019-08-21T12:35:56-04:00	James Ferman: The British Film Censor Who Hated Nunchucks https://tedium.co/2019/08/20/teenage-mutant-ninja-turtles-nunchucks-censorship/
+2019-08-21T13:08:52-04:00	Band name of the day: pure bread stud book
+2019-08-21T13:13:04-04:00	Paged Out! https://pagedout.institute/
+2019-08-21T13:19:52-04:00	The Browser Monopoly - Blair Reeves http://blairreeves.me/2019/08/20/the-browser-monopoly/
+2019-08-21T13:25:08-04:00	Bad idea of the day: HotPotatoCoin: a cryptocurrency whose value inflates based on how many distinct hands its been through
+2019-08-21T13:26:26-04:00	Bad idea of the day: DecayCoin: a cryptocurrency whose value has a half-life of twenty seconds
+2019-08-21T13:27:54-04:00	Bad idea of the day: a cryptocurrency where proof of work is nude selfies / blackmail material, which will be released if you default on your debts
+2019-08-21T13:32:19-04:00	Random link from the archives: https://web.archive.org/web/20181118075012/https://www.youtube.com/watch?v=WVEUWfDHqsU originally posted Sun Nov 18 07:50:12 EST 2018/
+2019-08-21T13:35:59-04:00	Permanent Upload | Permanent File Sharing Service https://permanentupload.com/
+2019-08-21T13:36:49-04:00	[1908.06769] Continuous Relaxation of Symbolic Planner for One-Shot Imitation Learning https://arxiv.org/abs/1908.06769
+2019-08-21T13:37:49-04:00	Steve Reich: the composer with his finger on the pulse | Music | The Guardian https://www.theguardian.com/music/2016/oct/26/steve-reich-interview-carnegie-hall-composer
+2019-08-21T13:43:58-04:00	Band name of the day: cybernetics in the service of communism
+2019-08-21T13:45:55-04:00	this is not a @dril
+2019-08-21T14:33:43-04:00	https://medium.com/p/it-was-never-about-liberty-2572e61638dc
+2019-08-21T17:32:27-04:00	Random link from the archives: https://web.archive.org/web/20171114080213/http://www.mondo2000.com/2017/11/08/semi-autonomous-software-agents-personal-perspective/ originally posted Tue Nov 14 08:02:13 EST 2017/
+2019-08-21T17:50:44-04:00	Band name of the day: a mechanical semblance of life
+2019-08-21T17:54:58-04:00	SHOWING CONNECTIONS-- the general problem - YouTube https://www.youtube.com/watch?v=kjKZUTtAo1Y
+2019-08-21T18:07:12-04:00	Bad idea of the day: seed the conspiracy theory within qanon that qanon has been infiltrated by bots, by infiltrating qanon with very obvious bots
+2019-08-21T18:31:34-04:00	https://medium.com/p/the-real-reasons-legacy-preferences-exist-f4496e19d5eb
+2019-08-21T21:32:36-04:00	Random link from the archives: https://web.archive.org/web/20190813080348/https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program originally posted Tue Aug 13 08:03:48 EDT 2019/
+2019-08-22T01:32:46-04:00	Random link from the archives: https://web.archive.org/web/20180814103142/https://www.vanityfair.com/hollywood/2018/08/the-end-of-the-tv-writers-room-as-we-know-it-mini-rooms originally posted Tue Aug 14 10:31:42 EDT 2018/
+2019-08-22T01:33:55-04:00	https://medium.com/p/how-ai-will-rewire-us-6d7baa0fe6d4
+2019-08-22T05:32:12-04:00	https://medium.com/p/elizabeth-holberton-inventor-of-breakpoints-7c97f51f76e0
+2019-08-22T05:32:54-04:00	Random link from the archives: https://web.archive.org/web/20180806142844/https://www.metalevel.at/acomip/ originally posted Mon Aug  6 14:28:44 EDT 2018/
+2019-08-22T07:33:11-04:00	Deep links to opt-out of data sharing by 60+ companies " Simple Opt Out https://simpleoptout.com/
+2019-08-22T07:39:51-04:00	now we're cooking with gaps
+2019-08-22T07:40:33-04:00	Telling Lies review: a full-motion video triumph - Polygon https://www.polygon.com/reviews/2019/8/21/20812219/telling-lies-review-pc-mac-ios-her-story
+2019-08-22T07:42:04-04:00	Quanta Magazine https://www.quantamagazine.org/famous-experiment-dooms-pilot-wave-alternative-to-quantum-weirdness-20181011/
+2019-08-22T07:45:30-04:00	Refactoring to Multiple Exit Points | Secret Weblog https://blog.startifact.com/posts/refactoring-to-multiple-exit-points.html
+2019-08-22T08:09:04-04:00	Transformers from scratch | Peter Bloem http://www.peterbloem.nl/blog/transformers
+2019-08-22T08:12:27-04:00	Website performance tip: serve hand-written unstyled HTML from static files using a lightweight httpd. Disable CGI. Don't use forms. Include no javascript. Dance naked in the rain, tears of joy streaming down your face, because you are free.
+2019-08-22T08:47:30-04:00	Milton Friedman's "Shareholder" Theory Was Wrong - The Atlantic  https://www.theatlantic.com/ideas/archive/2019/08/milton-friedman-shareholder-wrong/596545/
+2019-08-22T08:51:38-04:00	Band name of the day: woodcock genius
+2019-08-22T08:53:48-04:00	GitHub - peportier/jelm: Extreme Learning Machine in J https://github.com/peportier/jelm
+2019-08-22T08:55:04-04:00	Typed Lisp, A Primer https://alhassy.github.io/TypedLisp/
+2019-08-22T08:56:57-04:00	"Warspeak" Puts All of Us in the Trenches - SAPIENS https://www.sapiens.org/language/warspeak/
+2019-08-22T08:59:37-04:00	Sensemaking Methodology: A Liberation Theory of Communicative Agency - EPIC https://www.epicpeople.org/sensemaking-methodology/
+2019-08-22T09:02:10-04:00	The Bottom Feeder: Why All Of Our Games Look Like Crap https://jeff-vogel.blogspot.com/2019/08/why-all-of-our-games-look-like-crap.html
+2019-08-22T09:07:29-04:00	Productivity and the Workweek - shorter hours http://groups.csail.mit.edu/mac/users/rauch/misc/worktime/
+2019-08-22T09:33:01-04:00	Random link from the archives: https://web.archive.org/web/20180712072356/https://theoutline.com/post/5333/dune-revival-2018-david-lynch originally posted Thu Jul 12 07:23:56 EDT 2018/
+2019-08-22T10:23:08-04:00	303 See Other https://www.nature.com/articles/s41586-019-1494-7
+2019-08-22T10:23:34-04:00	Tool 'Fear Inoculum': Why This Band Matters Today - The Atlantic  https://www.theatlantic.com/entertainment/archive/2019/08/tool-fear-inoculum-preview-why-band-matters/596419/
+2019-08-22T10:25:52-04:00	Band name of the day: heavy edutainment
+2019-08-22T10:26:34-04:00	Band name of the day: a slow motion uppercut aimed at the sun
+2019-08-22T10:29:32-04:00	How Amazon and Silicon Valley Seduced the Pentagon " ProPublica https://www.propublica.org/article/how-amazon-and-silicon-valley-seduced-the-pentagon
+2019-08-22T10:29:52-04:00	Band name of the day: dream theme inventory
+2019-08-22T10:36:07-04:00	VHS Will Not Die  | Connecticut Public Radio https://www.wnpr.org/post/vhs-will-not-die-0
+2019-08-22T10:45:23-04:00	Hermetically Open Project https://www.ritmanlibrary.com/hermetically-open/
+2019-08-22T10:46:23-04:00	Mickey Mouse will be public domain soon"here’s what that means | Ars Technica https://arstechnica.com/tech-policy/2019/01/a-whole-years-worth-of-works-just-fell-into-the-public-domain/
+2019-08-22T10:47:26-04:00	The fight against toxic gamer culture has moved to the classroom - The Verge https://www.theverge.com/2019/8/21/20812153/youtube-gamergate-education-classroom-teachers-misinformation-reddit-twitter-online-harassment
+2019-08-22T10:51:28-04:00	Band name of the day: appointment viewing
+2019-08-22T11:10:08-04:00	Language Log » Cryptic, allusive messages from Hong Kong's wealthiest tycoon https://languagelog.ldc.upenn.edu/nll/?p=44024
+2019-08-22T12:34:14-04:00	https://medium.com/p/false-consensus-86e3dc40866f
+2019-08-22T13:33:15-04:00	Random link from the archives: https://web.archive.org/web/20190419092630/https://www.gbstudio.dev/ originally posted Fri Apr 19 09:26:30 EDT 2019/
+2019-08-22T13:53:31-04:00	Band name of the day: uncle hairy
+2019-08-22T16:32:32-04:00	https://medium.com/p/the-murder-house-8bea26f11e5b
+2019-08-22T17:33:24-04:00	Random link from the archives: https://web.archive.org/web/20180919034136/https://medium.com/p/assisted-writing-7adea9aed19 originally posted Wed Sep 19 03:41:36 EDT 2018/
+2019-08-22T18:15:40-04:00	Bad idea of the day: a VN modeled off a silent movie -- lots of sprites appearing and disappearing, and occasional intertitles that hide the whole screen
+2019-08-22T21:33:37-04:00	Random link from the archives: https://web.archive.org/web/20171025123047/http://reallifemag.com/echo-location/?curator=MusicREDEF originally posted Wed Oct 25 12:30:47 EDT 2017/
+2019-08-22T23:34:38-04:00	https://medium.com/p/why-are-psychedelics-illegal-efcff645141c
+2019-08-23T01:33:48-04:00	Random link from the archives: https://web.archive.org/web/20190211115605/https://www.vulture.com/2019/02/the-matrix-keanu-reeves-invented-a-new-kind-of-action-star.html originally posted Mon Feb 11 11:56:05 EST 2019/
+2019-08-23T03:32:49-04:00	https://medium.com/p/the-science-of-poetry-and-the-poetry-of-science-f317a7872abb
+2019-08-23T05:33:56-04:00	Random link from the archives: https://web.archive.org/web/20181122081809/https://www.youtube.com/watch?v=fQOf_WaaJfE originally posted Thu Nov 22 08:18:09 EST 2018/
+2019-08-23T07:41:17-04:00	Band name of the day: real eyeball hours
+2019-08-23T07:41:31-04:00	Band name of the day: nameless fleshless deathless
+2019-08-23T07:52:38-04:00	Two kinds of constraint - A Budget of Paradoxes https://mikelynch.org/2019/Jul/27/two-kinds-of-constraint/
+2019-08-23T07:55:19-04:00	Testing The Limits of Grover The Neural Fake News Detector. Can It Write Fiction? Can It Write Riddles? – I Forced a Bot… https://iforcedabot.com/what-can-a-fake-news-detector-do/
+2019-08-23T08:00:31-04:00	Grover - A State-of-the-Art Defense against Neural Fake News https://grover.allenai.org/
+2019-08-23T09:34:13-04:00	Random link from the archives: https://web.archive.org/web/20180422082241/http://enki2.tumblr.com/post/173173968844/enki2-enki2-everything-is-easier-with-a originally posted Sun Apr 22 08:22:41 EDT 2018/
+2019-08-23T10:00:11-04:00	On the one hand, all of the reviews of my book are five stars. On the other hand, there are only three of them, so YMMV.
+2019-08-23T10:34:59-04:00	https://medium.com/p/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+2019-08-23T12:28:08-04:00	How The Media Fell Short On Jeffrey Epstein : NPR https://www.npr.org/2019/08/22/753390385/a-dead-cat-a-lawyers-call-and-a-5-figure-donation-how-media-fell-short-on-epstei
+2019-08-23T12:34:51-04:00	Storming the Ivory Tower: Eve Laughed At Their Decision https://www.stormingtheivorytower.com/2019/07/eve-laughed-at-their-decision.html
+2019-08-23T12:45:21-04:00	with enemies like these who needs friends
+2019-08-23T13:34:28-04:00	Random link from the archives: https://web.archive.org/web/20170602131106/https://www.youtube.com/watch?v=ltYnG-V18Dk originally posted Fri Jun  2 13:11:06 EDT 2017/
+2019-08-23T14:13:51-04:00	Wiby - The Search Engine for Classic Websites https://wiby.me/
+2019-08-23T14:33:07-04:00	https://medium.com/p/witch-hunts-and-the-weaponisation-of-moral-panic-892e6be0c82d
+2019-08-23T17:34:38-04:00	Random link from the archives: https://web.archive.org/web/20180216125501/https://tedium.co/2018/02/15/consumer-reports-history-origin/ originally posted Fri Feb 16 12:55:01 EST 2018/
+2019-08-23T19:45:02-04:00	Minecraft, Sandboxes, and Colonialism | Folding Ideas - YouTube https://www.youtube.com/watch?v=d6i5Ylu0mgM
+2019-08-23T19:49:50-04:00	Destiny and the Liberal Mind Prison - YouTube https://www.youtube.com/watch?v=MmhLCy6YmUg
+2019-08-23T20:07:45-04:00	Band name of the day: enemy stand
+2019-08-23T20:07:58-04:00	Band name of the day: terror management
+2019-08-23T20:15:26-04:00	Band name of the day: the heaviside layer
+2019-08-23T21:23:30-04:00	Climate Grief | Philosophy Tube - YouTube https://www.youtube.com/watch?v=CqCx9xU_-Fw
+2019-08-23T21:34:49-04:00	Random link from the archives: https://web.archive.org/web/20190521101937/http://culturedigitally.org/2019/03/the-gentrification-of-the-internet/ originally posted Tue May 21 10:19:37 EDT 2019/
+2019-08-23T21:35:28-04:00	https://medium.com/p/heathers-1988-31-years-later-7175f0b5aad1
+2019-08-23T21:42:35-04:00	GOTYE LARP
+2019-08-23T22:14:24-04:00	Band name of the day: moon room
+2019-08-23T22:58:16-04:00	Bad idea of the day: full of blood and fear in a dark strange universe
+2019-08-23T23:20:40-04:00	Band name of the day: ravenous monsters from beyond the stars
+2019-08-23T23:21:38-04:00	Band name of the day: for-profit death cult
+2019-08-23T23:33:35-04:00	Band name of the day: a questionable supernatural agenda
+2019-08-23T23:38:39-04:00	Band name of the day: civilized space
+2019-08-23T23:40:36-04:00	Band name of the day: captain boyfriend
+2019-08-23T23:51:39-04:00	Band name of the day: unfathomable god monster
+2019-08-23T23:52:04-04:00	Band name of the day: all cheese all the tiem
+2019-08-24T01:33:39-04:00	https://medium.com/p/the-drugs-won-t-work-659c6d7a4ac1
+2019-08-24T01:35:01-04:00	Random link from the archives: https://web.archive.org/web/20180803072922/https://www.mnot.net/blog/2018/07/31/read_rfc originally posted Fri Aug  3 07:29:22 EDT 2018/
+2019-08-24T01:55:09-04:00	Band name of the day: unusual butt anatomy
+2019-08-24T05:35:17-04:00	Random link from the archives: https://web.archive.org/web/20190607123933/https://designobserver.com/feature/in-defense-of-inconvenience/40056 originally posted Fri Jun  7 12:39:33 EDT 2019/
+2019-08-24T08:35:58-04:00	https://medium.com/p/the-eight-circuits-of-consciousness-79c232c485aa
+2019-08-24T09:35:26-04:00	Random link from the archives: https://web.archive.org/web/20190517082110/https://www.talyarkoni.org/blog/2012/06/08/r-the-master-troll-of-statistical-languages/ originally posted Fri May 17 08:21:10 EDT 2019/
+2019-08-24T12:34:14-04:00	https://medium.com/p/how-behavioural-economics-helped-kick-my-phone-addiction-edf9fdf6d45e
+2019-08-24T13:35:36-04:00	Random link from the archives: https://web.archive.org/web/20190704101401/https://youtu.be/Sh_W1IHveTk originally posted Thu Jul  4 10:14:01 EDT 2019/
+2019-08-24T14:38:15-04:00	Tyranny and the Language of Power [Spoilers] - YouTube https://www.youtube.com/watch?v=DaqqCbmhqVI
+2019-08-24T17:35:50-04:00	Random link from the archives: https://web.archive.org/web/20190723180850/https://www.youtube.com/watch?v=KLLrZVeaqbk originally posted Tue Jul 23 18:08:50 EDT 2019/
+2019-08-24T19:36:16-04:00	https://medium.com/p/slack-maestro-helping-users-stay-on-topic-b66bf41df75
+2019-08-24T21:36:03-04:00	Random link from the archives: https://web.archive.org/web/20180508101432/http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html originally posted Tue May  8 10:14:32 EDT 2018/
+2019-08-24T23:34:35-04:00	https://medium.com/p/what-i-learned-from-gods-who-dont-exist-877c346debf4
+2019-08-25T01:36:20-04:00	Random link from the archives: https://web.archive.org/web/20190401090924/https://www.bbc.com/news/world-europe-47732553 originally posted Mon Apr  1 09:09:24 EDT 2019/
+2019-08-25T05:36:46-04:00	Random link from the archives: https://web.archive.org/web/20170713084205/https://www.nytimes.com/2017/06/15/magazine/a-whimsical-wordsmith-charts-a-course-beyond-twitter.html##%E2%80%9CI+was+able+to+be+funny+and+natural+through+the+keyboard+and+awkward+and+quiet+and+weird+in+person%2C%E2%80%9D+he+told+me.+%E2%80%9CI+wonder+how+many+writers+of+this+generation+figured+out+how+to+write+through+chat.%E2%80%9D originally posted Thu Jul 13 08:42:05 EDT 2017/
+2019-08-25T06:36:36-04:00	https://medium.com/p/blood-visions-torture-porn-and-the-mainstreaming-of-grindhouse-677f29fbc61b
+2019-08-25T09:37:02-04:00	Random link from the archives: https://web.archive.org/web/20181006000216/https://medium.com/p/worth-noting-that-there-are-groups-who-get-undue-returns-on-investment-15d8d7f21e19 originally posted Sat Oct  6 00:02:16 EDT 2018/
+2019-08-25T10:34:51-04:00	https://medium.com/p/medium-stopped-chasing-facebook-googles-model-that-s-a-good-thing-c5dd63dffb4b
+2019-08-25T13:37:23-04:00	Random link from the archives: https://web.archive.org/web/20170804130628/https://tools.ietf.org/html/rfc439 originally posted Fri Aug  4 13:06:28 EDT 2017/
+2019-08-25T17:37:08-04:00	https://medium.com/p/future-of-journalism-the-rise-of-the-robot-journalists-3313664a90c
+2019-08-25T17:37:36-04:00	Random link from the archives: https://web.archive.org/web/20190111122132/https://nerdist.com/giallo-italian-thrillers-ridiculously-twisted-plots/ originally posted Fri Jan 11 12:21:32 EST 2019/
+2019-08-25T20:41:43-04:00	The fictionalized version of Charlie Kaufman in Adaptation sure goes on a lot of dates, for somebody who is supposed to be bad at romance. Like, they're all bad dates, but still -- three in 13 weeks? You're killing it, man.
+2019-08-25T20:46:36-04:00	a masochist who gets off on going on tinder and swiping right on unattainable people
+2019-08-25T21:35:11-04:00	https://medium.com/p/fake-news-might-actually-be-a-good-thing-for-real-journalism-8d012a3dc6ff
+2019-08-25T21:37:47-04:00	Random link from the archives: https://web.archive.org/web/20171020084321/https://www.vox.com/policy-and-politics/2017/10/18/16479796/stockton-california-basic-income-economic-security-experiment originally posted Fri Oct 20 08:43:21 EDT 2017/
+2019-08-26T01:38:06-04:00	Random link from the archives: https://web.archive.org/web/20180927080145/https://en.wikipedia.org/wiki/Slow_movement_(culture) originally posted Thu Sep 27 08:01:45 EDT 2018/
+2019-08-26T04:37:34-04:00	https://medium.com/p/techs-broken-promises-ea8c0e1ce86d
+2019-08-26T05:38:30-04:00	Random link from the archives: https://web.archive.org/web/20180910122043/https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy originally posted Mon Sep 10 12:20:43 EDT 2018/
+2019-08-26T06:09:12-04:00	notmuch https://notmuchmail.org/
+2019-08-26T06:23:51-04:00	Infrastructure Films (2019) - Google Docs https://docs.google.com/document/d/1tvlqxuLFXTFen4flzEGz7HlCwyyD64cU785fkmh8yco/edit
+2019-08-26T06:36:06-04:00	Band name of the day: pain court
+2019-08-26T06:46:36-04:00	Band name of the day: nuclear hurricane
+2019-08-26T06:54:03-04:00	Band name of the day: hangliding mice
+2019-08-26T06:58:16-04:00	Band name of the day: invasive wild hogs
+2019-08-26T07:07:39-04:00	'Blue Velvet' and the Blinding Light of Love https://filmschoolrejects.com/blue-velvet/
+2019-08-26T07:15:56-04:00	Band name of the day: poppable walls
+2019-08-26T07:52:28-04:00	Band name of the day: sneezing in reverse
+2019-08-26T08:09:56-04:00	Social Wealth Fund for America # People’s Policy Project https://www.peoplespolicyproject.org/projects/social-wealth-fund/
+2019-08-26T08:16:15-04:00	Misinformation Has Created a New World Disorder - Scientific American https://www.scientificamerican.com/article/misinformation-has-created-a-new-world-disorder/
+2019-08-26T08:18:34-04:00	Dear lazyweb: what are some internet disinfo bots that predate Serdar Argic?
+2019-08-26T08:27:17-04:00	Why do tech companies file so many weird patents? https://slate.com/technology/2019/08/amazon-sony-facebook-strange-patents.html
+2019-08-26T08:36:00-04:00	https://medium.com/p/theres-something-about-reiwa-the-frenzy-over-japan-s-new-era-35e202daddb5
+2019-08-26T09:12:43-04:00	windmill and jousting equipment distributor
+2019-08-26T09:31:22-04:00	The machine always wins: what drives our addiction to social media | Technology | The Guardian https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
+2019-08-26T09:38:41-04:00	Random link from the archives: https://web.archive.org/web/20171129102433/http://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html originally posted Wed Nov 29 10:24:33 EST 2017/
+2019-08-26T09:47:14-04:00	Band name of the day: optimal margin of illusion
+2019-08-26T10:27:04-04:00	On Left Straussianism | The Point Magazine https://thepointmag.com/2019/politics/on-left-straussianism
+2019-08-26T11:02:15-04:00	Band name of the day: miskatonic knowledge web
+2019-08-26T11:04:58-04:00	Some obscure C features - Pancakes and computers https://multun.net/obscure-c-features.html
+2019-08-26T11:05:46-04:00	Things You Didn't Know About GNU Readline https://twobithistory.org/2019/08/22/readline.html
+2019-08-26T11:08:39-04:00	Das Bityard http://blog.bityard.net/articles/2019/August/rabbit-holes-the-secret-to-technical-expertise.html
+2019-08-26T11:10:18-04:00	A Codebase is an Organism | Melting Asphalt https://meltingasphalt.com/a-codebase-is-an-organism/
+2019-08-26T11:10:43-04:00	Japanese Architecture Movement Metabolism Treated Buildings like Living Organisms - Artsy https://www.artsy.net/article/artsy-editorial-japanese-architects-treated-buildings-living-organisms
+2019-08-26T13:38:54-04:00	Random link from the archives: https://web.archive.org/web/20181129081836/https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world originally posted Thu Nov 29 08:18:36 EST 2018/
+2019-08-26T15:38:03-04:00	https://medium.com/p/the-shape-of-the-universe-6f40a9ba92fd
+2019-08-26T17:39:27-04:00	Random link from the archives: https://web.archive.org/web/20190411140252/https://www.tor.com/2019/03/25/one-free-trick-how-to-use-the-writing-skills-you-have-to-learn-the-ones-you-dont/ originally posted Thu Apr 11 14:02:52 EDT 2019/
+2019-08-26T19:36:23-04:00	https://medium.com/p/moderating-lesswrong-4de028808def
+2019-08-26T21:39:44-04:00	Random link from the archives: https://web.archive.org/web/20190306120934/https://www.gwern.net/Ads originally posted Wed Mar  6 12:09:34 EST 2019/
+2019-08-27T01:39:57-04:00	Random link from the archives: https://web.archive.org/web/20181127135246/http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4 originally posted Tue Nov 27 13:52:46 EST 2018/
+2019-08-27T02:38:21-04:00	https://medium.com/p/planning-for-a-longer-now-1ec98e4af5dd
+2019-08-27T05:40:09-04:00	Random link from the archives: https://web.archive.org/web/20180704114257/http://locusmag.com/2018/07/cory-doctorow-zucks-empire-of-oily-rags/ originally posted Wed Jul  4 11:42:57 EDT 2018/
+2019-08-27T06:36:42-04:00	https://medium.com/p/on-post-modernism-cdbebe4b6dcd
+2019-08-27T08:34:18-04:00	They're making a Motherless Brooklyn movie? If it isn't absolutely full of VO then I don't know why anybody would watch it...
+2019-08-27T08:45:39-04:00	How Algorithms Amplify Our Own Biases And Shape What We See Online | Talking Points Memo https://talkingpointsmemo.com/cafe/algorithms-bias-internet
+2019-08-27T08:53:30-04:00	JavaScript is bad. – ror6ax https://ror6ax.wordpress.com/2019/08/27/javascript-is-bad/
+2019-08-27T09:06:33-04:00	Making of Byrne’s Euclid - C82: Works of Nicholas Rougeux https://www.c82.net/blog/?id=79
+2019-08-27T09:14:11-04:00	Can College Newspapers Be Saved? - The Atlantic  https://www.theatlantic.com/ideas/archive/2019/08/death-college-newspapers/595849/
+2019-08-27T09:21:22-04:00	Band name of the day: ghost stream
+2019-08-27T09:40:23-04:00	Random link from the archives: https://web.archive.org/web/20180212091805/https://slate.com/culture/2018/02/i-am-the-very-model-of-a-new-york-times-contrarian.html originally posted Mon Feb 12 09:18:05 EST 2018/
+2019-08-27T09:48:57-04:00	Band name of the day: the lords of death
+2019-08-27T09:58:12-04:00	Band name of the day: the future of meat
+2019-08-27T10:00:00-04:00	Band name of the day: six pulsing minutes
+2019-08-27T10:00:58-04:00	If a dead person has a #1 single, is it a crossover hit? *rimshot.wav*
+2019-08-27T10:44:29-04:00	Band name of the day: paradox valley
+2019-08-27T12:16:02-04:00	Tie-dye: why it’s back in 2019 - Vox https://www.vox.com/the-goods/2019/8/22/20813844/tie-dye-history
+2019-08-27T12:20:21-04:00	Band name of the day: the prescribed burns
+2019-08-27T12:26:17-04:00	Band name of the day: DIM GREY WOMB
+2019-08-27T12:33:26-04:00	The Internet May Be Underwater in 15 Years https://www.nationalgeographic.com/science/2018/07/news-internet-underwater-sea-level-rise/
+2019-08-27T12:44:53-04:00	The Bottom Feeder: I Am the Cheapest Bastard In Indie Games http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html
+2019-08-27T13:38:34-04:00	https://medium.com/p/in-hell-they-eat-mayonnaise-5f024a9822c6
+2019-08-27T13:40:32-04:00	Random link from the archives: https://web.archive.org/web/20180602131341/https://hackaday.io/project/85392-rain-mark-ii-supercomputer-trainer originally posted Sat Jun  2 13:13:41 EDT 2018/
+2019-08-27T16:54:04-04:00	Why All Cops Are Bad (In Media) PART1: The Good Guy With A Gun | Jack Saint - YouTube https://www.youtube.com/watch?v=MF--2o71w44
+2019-08-27T17:37:20-04:00	https://medium.com/p/how-adtech-not-ad-blocking-breaks-the-social-contract-d229996b2d7e
+2019-08-27T17:40:47-04:00	Random link from the archives: https://web.archive.org/web/20190512141055/https://languagelog.ldc.upenn.edu/nll/?p=42343 originally posted Sun May 12 14:10:55 EDT 2019/
+2019-08-27T18:32:05-04:00	if you keep bothering your partner when they're trying to sleep, does that make you a bed bug?
+2019-08-27T21:41:02-04:00	Random link from the archives: https://web.archive.org/web/20180502131307/http://www.bbc.com/capital/story/20180425-why-do-startup-company-names-all-sound-alike originally posted Wed May  2 13:13:07 EDT 2018/
+2019-08-28T00:38:59-04:00	https://medium.com/p/when-good-intentions-backfire-786fb0dead03
+2019-08-28T01:41:11-04:00	Random link from the archives: https://web.archive.org/web/20180220171405/https://www.newstatesman.com/culture/observations/2018/02/i-want-state-think-anarchist-dutch-historian-rutger-bregman-why-left originally posted Tue Feb 20 17:14:05 EST 2018/
+2019-08-28T04:37:56-04:00	https://medium.com/p/no-winners-no-ends-why-have-a-writing-jam-d92d3e4f728a
+2019-08-28T05:41:31-04:00	Random link from the archives: https://web.archive.org/web/20190319130324/https://genderedproject.org/ originally posted Tue Mar 19 13:03:24 EDT 2019/
+2019-08-28T07:34:37-04:00	orange website dot txt https://news.ycombinator.com/item?id=20817193
+2019-08-28T08:26:13-04:00	I Am the Cheapest Bastard In Indie Games | Lobsters https://lobste.rs/s/zjpw1h/i_am_cheapest_bastard_indie_games#c_pnj6zd
+2019-08-28T09:42:00-04:00	Random link from the archives: https://web.archive.org/web/20190206100205/https://www.youtube.com/playlist?list=PLiRGEkFnRSvYf6gV8cncih_8W1sAoEBTH originally posted Wed Feb  6 10:02:05 EST 2019/
+2019-08-28T11:40:35-04:00	https://medium.com/p/the-coddling-of-the-american-conscious-8cb67d15c107
+2019-08-28T18:32:02-04:00	Gaming's Harshest Architecture: NaissanceE and Alienation - YouTube https://www.youtube.com/watch?v=Zkv6rVcKKg8
+2019-08-28T18:35:29-04:00	The Weird World in RGB - YouTube https://www.youtube.com/watch?v=uYbdx4I7STg
+2019-08-29T08:09:05-04:00	Amazon fires are destructive, but they aren't depleting Earth's oxygen supply http://theconversation.com/amazon-fires-are-destructive-but-they-arent-depleting-earths-oxygen-supply-122369
+2019-08-29T08:10:58-04:00	I tried to glitch the simulation and all I got was a bottle of pee | The Outline https://theoutline.com/post/7881/i-became-a-randonaut-to-try-to-glitch-the-simulation-and-all-i-got-was-a-bottle-of-pee
+2019-08-29T08:19:57-04:00	WTF :: WTF - the terminal dashboard https://wtfutil.com/
+2019-08-29T08:59:34-04:00	More UFOs Than Ever Before https://www.theparisreview.org/blog/2019/08/26/more-ufos-than-ever-before/
+2019-08-29T09:04:06-04:00	A Good Place: Every Noise at Once does its darnedest to create order out of chaos | The Outline https://theoutline.com/post/7867/a-good-place-every-noise-at-once-does-its-darnedest-to-create-order-out-of-chaos
+2019-08-29T10:04:53-04:00	Ernest P. Worrell History: Jim Varney’s Iconic Regional Ad Mascot https://tedium.co/2019/08/27/ernest-p-worrell-jim-varney-history/
+2019-08-29T10:09:00-04:00	Copy permalink to your clipboard https://www.axios.com/newsletters/axios-codebook-ea822490-7fe4-48e3-9e46-6f54a28ad5a2.html
+2019-08-29T10:27:13-04:00	The History of Burke and Hare and of the Resurrectionist Times (1884) – The Public Domain Review https://publicdomainreview.org/collections/the-history-of-burke-and-hare-and-of-the-resurrectionist-times-1884/
+2019-08-29T10:39:08-04:00	The Myth of Consumer-Grade Security - Schneier on Security https://www.schneier.com/blog/archives/2019/08/the_myth_of_con.html
+2019-08-29T10:42:02-04:00	How a WWII fanzine helped sci-fi survive the Blitz and beyond - Polygon https://www.polygon.com/2019/5/13/18564275/history-of-fandom-world-war-ii-fanzines-sci-fi-futurian-war-digest-janus
+2019-08-29T10:44:49-04:00	We Are Garbage | The Walrus https://thewalrus.ca/we-are-garbage/
+2019-08-29T10:47:44-04:00	Is the political novel dead? | Books | The Guardian https://www.theguardian.com/books/2019/aug/24/is-the-political-novel-dead
+2019-08-29T10:52:27-04:00	Stick ‘em up! A surprising history of collage | 1843 https://www.1843magazine.com/culture/look-closer/stick-em-up-a-surprising-history-of-collage
+2019-08-29T10:54:59-04:00	Inside the World of Investigators Who Know You’ve Faked Your Death | MEL Magazine https://melmagazine.com/en-us/story/inside-the-world-of-investigators-who-know-youve-faked-your-death
+2019-08-29T12:45:13-04:00	An appeal to the WHATWG | More magic https://www.more-magic.net/posts/an-appeal-to-whatwg-uri-spec.html
+2019-08-29T12:47:26-04:00	Band name of the day: dongle trunk
+2019-08-29T13:02:37-04:00	Distorted US Map of Where Candidates Campaigned in 2016 https://kottke.org/19/08/distorted-us-map-of-where-candidates-campaigned-in-2016
+2019-08-29T13:14:48-04:00	Book Review: Reframing Superintelligence | Slate Star Codex https://slatestarcodex.com/2019/08/27/book-review-reframing-superintelligence/
+2019-08-29T18:07:02-04:00	Band name of the day: our shame will pay our bills
+2019-08-29T18:29:30-04:00	The American Radical Tradition pt. 1 -Thomas Paine Vs. Edmund Burke - YouTube https://www.youtube.com/watch?v=m-Z28_fI-OE
+2019-08-29T18:40:14-04:00	Band name of the day: glass hall of knives
+2019-08-30T07:23:11-04:00	Woz comments clarify some important Apple history https://www.loopinsight.com/2019/08/29/woz-comments-clarify-some-important-apple-history/
+2019-08-30T08:25:57-04:00	Band name of the day: speed cube
+2019-08-30T09:34:21-04:00	Do It Yourself (OpenJDK) Garbage Collector https://shipilev.net/jvm/diy-gc/
+2019-08-30T10:49:59-04:00	This week in Stratechery Misses The Point, he complains that de-facto trackers don't *really* count because they aren't advertised as trackers, & defends using webfonts, cloudflare, AWS, etc.: https://stratechery.com/2019/privacy-fundamentalism/
+2019-08-30T12:49:29-04:00	wild how java string literals support octal escapes
+2019-08-30T12:53:09-04:00	A Hole in the Head: A History of Trepanation | The MIT Press Reader https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/
+2019-08-30T16:49:39-04:00	Band name of the day: air-breathers of america
+2019-08-30T17:50:40-04:00	Learning about Marx with Jordan Peterson (feat. Anarchopac and Red Plateaus) - YouTube https://www.youtube.com/watch?v=V2hhrUHSD6o
+2019-08-30T18:36:17-04:00	Pathologic 2 is an Underrated Masterpiece - YouTube https://www.youtube.com/watch?v=q00T0xxj2o0
+2019-08-30T18:59:00-04:00	The Marketplace of Ideas: A Critique - YouTube https://www.youtube.com/watch?v=GNGvqjwich0
+2019-08-31T08:45:43-04:00	The Ideology of Scary Stories To Tell In The Dark - YouTube https://www.youtube.com/watch?v=1DJ_bg5GmG0
+2019-08-31T09:59:01-04:00	The Horror of Universal Paperclips and Space Engine - YouTube https://www.youtube.com/watch?v=oca8BnDMin4
+2019-08-31T10:21:16-04:00	Gorogoa and The Nature of Time - YouTube https://www.youtube.com/watch?v=7mcwCD7KZmY
+2019-08-31T10:36:14-04:00	Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism - YouTube https://www.youtube.com/watch?v=v5DqmTtCPiQ
+2019-08-31T13:12:55-04:00	conspiracy theory: amazon's warehouse robots are actually controlled by thousands of folks playing a sokoban clone on steam
+2019-08-31T13:55:27-04:00	Mark Fisher: Capitalist Realism - YouTube https://www.youtube.com/watch?v=3IXvaFCauLw
+2019-08-31T15:04:12-04:00	s/dark forces/dork farces/g
+2019-08-31T15:05:09-04:00	Bad idea of the day: any IP that taxpayers fund the creation of gets held by the government & profits from using it go into a sovergn wealth fund
+2019-08-31T15:54:50-04:00	Bad idea of the day: a series of quatermass porn parodies for extremely specific fetishes: Quatermass XXXperiment for vore/bodily transformation/monsterfucking; Quatermass and the Pits for giantess armpit fetishes & sex with bugs
+2019-09-01T14:48:43-04:00	Bad idea of the day: a paladin who practices magic rooted in the theology of the american civic religion
+2019-09-02T11:22:39-04:00	Triumph of the Will, or, "Fascists are the REAL Fascists!" | Cinema Antifa - YouTube https://www.youtube.com/watch?v=9inDNkrzIGw
+2019-09-02T13:26:13-04:00	Streaming Consciousness http://streaming-consciousness.live/
+2019-09-02T13:26:26-04:00	No color left unnamed - ColorNames.org https://colornames.org/
+2019-09-02T13:26:38-04:00	liminal.earth  – A map of the strange, wonderful, unusual, and unexpected https://liminal.earth/
+2019-09-02T13:39:37-04:00	SF Disco Preservation Society | S.F. Disco Preservation Society https://sfdps.org/
+2019-09-02T13:53:46-04:00	I can't tell if this is a good idea or a terrible idea: https://2020madness.com/
+2019-09-02T13:54:46-04:00	Digital Ludeme Project http://ludeme.eu/index.html
+2019-09-02T13:59:50-04:00	zz top is fine, but i'd prefer to listen to ANY of zz bottom, zz strange, or zz charm
+2019-09-02T16:20:16-04:00	UWM CUTS : Odd Road Signs http://www4.uwm.edu/cuts/signs/
+2019-09-02T16:32:01-04:00	The End of Evangelion is a Cinematic Masterpiece: FULL REDUX - YouTube https://www.youtube.com/watch?v=pGmCsM4hhfA
+2019-09-02T16:59:46-04:00	Storming the Ivory Tower: Save Spidey! Into the Spider-Verse's Failure and Promise https://www.stormingtheivorytower.com/2019/08/save-spidey-into-spider-verses-failure.html
+2019-09-02T17:03:26-04:00	‎If you like (male directed movie) watch (female directed movie), a list of films by Tori 🐛 • Letterboxd https://letterboxd.com/toriymoi/list/if-you-like-male-directed-movie-watch-female/
+2019-09-02T17:03:53-04:00	‎If you like (American film) watch (foreign film), a list of films by Tori 🐛 • Letterboxd https://letterboxd.com/toriymoi/list/if-you-like-american-film-watch-foreign-film/
+2019-09-02T17:20:33-04:00	Three Metre Stories | Geolocated Fiction https://threemetrestories.wordpress.com/
+2019-09-02T17:21:05-04:00	How Evangelion Altered Anime Eternally - YouTube https://www.youtube.com/watch?v=tJ3F_hhzJ3o
+2019-09-02T17:29:06-04:00	Who Is Hideaki Anno? [Part 1/2] - YouTube https://www.youtube.com/watch?v=5ntZhZKOy1o
+2019-09-02T17:29:23-04:00	Who Is Hideaki Anno? [Part 2/2] - YouTube https://www.youtube.com/watch?v=Jn51kU-n0Fo
+2019-09-02T17:44:57-04:00	Ryusei Kacho - YouTube https://www.youtube.com/watch?v=PCVg49Ff9m4
+2019-09-03T08:02:58-04:00	Language Log » One dyadic station shopping head elects https://languagelog.ldc.upenn.edu/nll/?p=44057
+2019-09-03T09:52:00-04:00	it occurs to be that outside of computer-related stuff, everything i'm into i also suck at
+2019-09-03T09:53:28-04:00	xpra home page https://xpra.org
+2019-09-03T12:45:21-04:00	How To Wage Nonviolent Revolution! - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/how-to-wage-nonviolent-revolution/
+2019-09-03T12:45:34-04:00	Proudhon's Economics: Socialism without Tyranny - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/proudhons-economics-socialism-without-tyranny/
+2019-09-03T12:45:46-04:00	The Permanent Universal Rent Strike - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/the-permanent-universal-rent-strike/
+2019-09-03T12:45:59-04:00	Facing the Future Fearlessly - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/facing-the-future-fearlessly/
+2019-09-03T12:46:14-04:00	PKD Deconstructed and Reconstructed - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/pkd-deconstructed-reconstructed/
+2019-09-03T19:33:41-04:00	despite all his achievements, orson wells could never defeat his arch-nemesis and alter ego, orson ills
+2019-09-03T20:07:54-04:00	somebody desperately needs to take season 4 episode 23 of The Avengers ('The House That Jack Built'), file the serial numbers off, set it in the present day, & turn it into a feature film. It has everything: automation, criticism of the neoliberal basis of lean-in-style white feminism, RFID, a taxidermied corpse...
+2019-09-04T08:11:03-04:00	The 6502 overflow flag explained mathematically http://www.righto.com/2012/12/the-6502-overflow-flag-explained.html
+2019-09-04T08:12:19-04:00	403 Forbidden http://www.os2museum.com/wp/pc-keyboard-the-first-five-years/
+2019-09-04T09:01:21-04:00	Union Station " Real Life https://reallifemag.com/union-station/
+2019-09-04T09:03:34-04:00	Why meaning is more sunken into words than we realise | Aeon Essays https://aeon.co/essays/why-meaning-is-more-sunken-into-words-than-we-realise
+2019-09-04T09:13:32-04:00	pivot to piracy
+2019-09-04T09:49:02-04:00	fun fact: my ex, upon hearing about the randonaut community, immediately asked me if it was something i had invented, which is a fairly accurate analysis of my taste & also extremely complimentary & not quite as ridiculous as it initially seems
+2019-09-04T09:52:31-04:00	mammoth reossification
+2019-09-04T10:00:58-04:00	Why Fans Still Collectively Lose Their Minds over Tool | Consequence of Sound https://consequenceofsound.net/2019/08/why-tool-fans-collectively-lose-their-minds/
+2019-09-04T10:03:36-04:00	Band name of the day: lachrymology
+2019-09-04T10:06:42-04:00	Rock Me Gently  https://longreads.com/2019/08/30/rock-me-gently/
+2019-09-04T10:11:43-04:00	The Incremental Machine " Acko.net https://acko.net/blog/the-incremental-machine/
+2019-09-04T10:26:18-04:00	Planned Obsolescence: We’re Killing Old Technology With New Technology https://tedium.co/2019/09/03/planned-obsolescence-technology-problem/
+2019-09-04T10:37:50-04:00	Another Network is Possible https://logicmag.io/bodies/another-network-is-possible/
+2019-09-04T10:38:13-04:00	Emergency permaculture - Appropedia: The sustainability wiki https://www.appropedia.org/Emergency_permaculture
+2019-09-04T11:32:12-04:00	language is a virus from outer space & that's beautiful
+2019-09-04T15:57:39-04:00	Bad idea of the day: gnostic prosperity gospel: the idea that god (in the form of sophia) directs money toward the wicked in order to send them to hell, because camels & needles etc.
+2019-09-04T18:03:00-04:00	The Internet of Garbage by Sarah Jeong - The Verge https://www.theverge.com/2018/8/28/17777330/internet-of-garbage-book-sarah-jeong-online-harassment
+2019-09-04T18:25:11-04:00	Bad idea of the day: a novel in the form of a draft of the ghostwritten autobiography of a fictional public figure, with notes by the figure, with further notes by an editor and further notes on all the above by an academic
+2019-09-04T19:12:10-04:00	what's involved in trying to get a game into a humble bundle? is there, like, a submission form so somebody can reject it, or is it a "don't call us, we'll call you" kind of situation?
+2019-09-04T19:40:58-04:00	i hate having to climb on my roof during electrical storms to clear out the gutters, but what i hate even more is when the gutters are actually clear already & the reason water was pouring over the top was that it was just raining *that* damn hard
+2019-09-04T19:45:10-04:00	Pangrammatic Autograms | Papi Picante’s Spice Log http://yawn.io/2019/08/28/pangrammatic-autograms.html
+2019-09-04T20:25:04-04:00	WHAT CAN BE KEPT?  For years, centuries? - YouTube https://www.youtube.com/watch?v=EBJlzqwzdqU
+2019-09-05T08:41:13-04:00	The charitable deduction is mostly for the rich. A new study argues that’s by design. - Vox https://www.vox.com/future-perfect/2019/9/3/20840955/charitable-deduction-tax-rich-billionaire-philanthropy
+2019-09-05T08:44:53-04:00	GitHub - eBay/tsv-utils: eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://github.com/eBay/tsv-utils
+2019-09-05T08:53:54-04:00	Ask Slashdot: What Would Computing Look Like Today If the Amiga Had Survived? - Slashdot https://ask.slashdot.org/story/19/09/03/2224200/ask-slashdot-what-would-computing-look-like-today-if-the-amiga-had-survived
+2019-09-05T08:54:52-04:00	When Speech Is an Assault: Linguistics and First Contact in Peter Watts’ Blindsight  |  Tor.com https://www.tor.com/2019/09/03/when-speech-is-an-assault-linguistics-and-first-contact-in-peter-watts-blindsight/
+2019-09-05T09:05:45-04:00	Can our self-conscious minds save us from our selfish selves? | Aeon Ideas https://aeon.co/ideas/can-our-self-conscious-minds-save-us-from-our-selfish-selves
+2019-09-05T09:06:38-04:00	The Picture of Hurricane Dorian Grey
+2019-09-05T09:07:17-04:00	Amazon’s Next-Day Delivery Has Brought Chaos And Carnage To America’s Streets " But The World’s Biggest Retailer Has A System To Escape The Blame https://www.buzzfeednews.com/article/carolineodonovan/amazon-next-day-delivery-deaths
+2019-09-05T09:16:40-04:00	Charles Sanders Peirce was America's greatest thinker | Aeon Essays https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker
+2019-09-05T10:14:34-04:00	Scott And Scurvy (Idle Words) https://idlewords.com/2010/03/scott_and_scurvy.htm
+2019-09-05T10:32:12-04:00	Designer David Sim makes the case for a "Soft City" https://www.fastcompany.com/90394171/do-you-live-in-a-soft-city-heres-why-you-probably-want-to
+2019-09-05T11:19:23-04:00	Band name of the day: the editor
+2019-09-05T11:25:50-04:00	The Future Created: An Interview with Robert Anton Wilson - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/future-created-interview-robert-anton-wilson/
+2019-09-05T11:30:47-04:00	conspiracy theory: the voynich manuscript is a completely normal book, written by the green people of saint martin's land.
+2019-09-05T12:14:57-04:00	my local library is hosting a 'muller report reading group'
+2019-09-05T12:28:56-04:00	What Stephen King’s It Taught Me About the Shape of Stories  |  Tor.com https://www.tor.com/2019/08/28/what-stephen-kings-it-taught-me-about-the-shape-of-stories/
+2019-09-05T12:35:29-04:00	A Town for People with Chronic-Fatigue Syndrome | The New Yorker https://www.newyorker.com/culture/personal-history/a-town-for-people-with-chronic-fatigue
+2019-09-05T12:58:03-04:00	MIT Engineers Build 15,000-Transistor Carbon Nanotube RISC-V Chip  https://www.tomshardware.com/news/mit-risc-v-chip-carbon-nanotube-processor,40268.html
+2019-09-05T12:59:40-04:00	The Commuting Principle That Shaped Urban History - CityLab  https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/
+2019-09-05T13:02:45-04:00	In the Age of the Psychonauts  https://longreads.com/2019/08/30/in-the-age-of-the-psychonauts/
+2019-09-05T13:21:41-04:00	Band name of the day: bornless transrational event
+2019-09-05T13:22:16-04:00	Band name of the day: the event-signs of synchronicity
+2019-09-05T13:54:40-04:00	What the ctenophore says about the evolution of intelligence | Aeon Essays https://aeon.co/essays/what-the-ctenophore-says-about-the-evolution-of-intelligence
+2019-09-05T14:01:25-04:00	Hall’s Law: The Nineteenth Century Prequel to Moore’s Law https://www.ribbonfarm.com/2012/03/08/halls-law-the-nineteenth-century-prequel-to-moores-law/
+2019-09-05T14:02:01-04:00	Band name of the day: onion steel
+2019-09-05T16:25:51-04:00	Band name of the day: but lighting was his mother
+2019-09-05T18:16:18-04:00	Parallel Pages IN THE NEWS-- CENSORED AND REVEALED  [*see note below]] - YouTube https://www.youtube.com/watch?v=oOV1ZG9J_Cg
+2019-09-05T18:17:04-04:00	Fast-Talking Intro to ZigZag-- Multidimensional Structure for Anything - YouTube https://www.youtube.com/watch?v=DlyJzGEQpbs
+2019-09-05T20:14:31-04:00	Band name of the day: major arcana
+2019-09-05T20:18:04-04:00	Band name of the day: the bounds of deviant shopping
+2019-09-05T20:46:28-04:00	gurren login
+2019-09-06T18:55:16-04:00	Understanding Under Pressure - YouTube https://www.youtube.com/watch?v=rhd-pMT4mSk
+2019-09-06T19:31:37-04:00	whatever happened to that chuck tingle fmv game?
+2019-09-06T19:36:07-04:00	The Lion King and its Trashfire Remake - YouTube https://www.youtube.com/watch?v=7oHa2XT89x8
+2019-09-06T19:46:39-04:00	Flip Flappers: The End of Psychosexuality - YouTube https://www.youtube.com/watch?v=yXVqNrEiqEo
+2019-09-06T19:47:06-04:00	the immortal science of freudianism-jungianism
+2019-09-06T20:19:35-04:00	Control, Anatomy, and the Legacy of the Haunted House - YouTube https://www.youtube.com/watch?v=mexs39y0Imw
+2019-09-08T11:17:00-04:00	I've heard some folks arguing that 'genre is *just* a marketing label' & in some ways they're right -- nothing is stopping you from writing something unclassifiable -- but in other ways this is misleading, as though genre is a categorization applied to finished works only.
+2019-09-08T14:09:50-04:00	Praw Emit " People are jumping on Musk for ‘researching his... https://enki2.tumblr.com/post/173729396014/people-are-jumping-on-musk-for-researching-his
+2019-09-08T14:27:18-04:00	Frank Grimes - The Cult of Work | Renegade Cut - YouTube https://www.youtube.com/watch?v=P40sJOkxnac
+2019-09-08T14:33:35-04:00	Storming the Ivory Tower: I Want To Connect (But It's Hard To Understand): Sarazanmai Part A https://www.stormingtheivorytower.com/2019/07/i-want-to-connect-but-its-hard-to.html
+2019-09-08T15:31:20-04:00	weird how so many 'writing advice' posts on medium are basically one sentence worth of potentially-valuable insight plus seven big unrelated photographs and three hundred words of unnecessary buildup
+2019-09-08T15:43:01-04:00	Magritte: A Pipe-Based Language http://files.jneen.net/academic/thesis.pdf
+2019-09-08T15:48:20-04:00	Causal ordering http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/
+2019-09-08T15:52:24-04:00	interfluidity  » Predatory precarity https://www.interfluidity.com/v2/7263.html
+2019-09-08T15:53:35-04:00	Obligatory Forum Comments https://www.mattzeunert.com/2019/08/25/obligatory-forum-comments.html
+2019-09-08T15:56:55-04:00	"We all want to be the final girl": Sady Doyle on true crime, slasher films and surviving patriarchy | Salon.com https://www.salon.com/2019/08/27/we-all-want-to-be-the-final-girl-sady-doyle-on-true-crime-slasher-films-and-surviving-patriarchy/
+2019-09-08T16:04:52-04:00	Has Contact Already Been Made? - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/has-contact-already-been-made/
+2019-09-09T07:19:50-04:00	Structured Procrastination  http://www.structuredprocrastination.com/
+2019-09-09T07:22:56-04:00	Why did we wait so long for the bicycle? https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle
+2019-09-09T07:34:03-04:00	Random link from the archives: https://web.archive.org/web/20180830134254/https://medium.com/wiki-strategies/platform2-def60ce63a3a originally posted Thu Aug 30 13:42:54 EDT 2018/
+2019-09-09T07:38:18-04:00	On Immanuel Kant's hydraulic model of moral education | Aeon Essays https://aeon.co/essays/on-immanuel-kants-hydraulic-model-of-moral-education
+2019-09-09T07:55:30-04:00	I once met a experimental psychologist who was studying how people deal with disinfo on social media (belief vs tendency to share). You should have seen the look on his face change when I told him I wrote about subliminal messages for Mondo 2000.
+2019-09-09T08:10:34-04:00	Defining J-horror: Early encounters with the unhuman | The Japan Times https://www.japantimes.co.jp/culture/2016/11/05/books/defining-j-horror-early-encounters-unhuman
+2019-09-09T08:16:09-04:00	P. D. Ouspensky be like "I dunno about all this psych 101 stuff about System I and agency, but the stuff about human souls being eaten by the moon seems completely logical and convincing"
+2019-09-09T08:39:49-04:00	if it turned out that the electron framework contained a secret bitcoin miner & all electron apps were secretly mining bitcoin for some random third party library developer on NPM, i wouldn't be particularly shocked
+2019-09-09T08:59:13-04:00	Reading with a pencil - Austin Kleon https://austinkleon.com/2018/08/30/reading-with-a-pencil/
+2019-09-09T09:00:33-04:00	The Marginal Obsession with Marginalia | The New Yorker https://www.newyorker.com/books/page-turner/the-marginal-obsession-with-marginalia
+2019-09-09T09:01:15-04:00	‘What I Really Want Is Someone Rolling Around in the Text’ - The New York Times https://www.nytimes.com/2011/03/06/magazine/06Riff-t.html
+2019-09-09T09:06:42-04:00	Rebecca Solnit: How Change Happens | Literary  Hub https://lithub.com/rebecca-solnit-progress-is-not-inevitable-it-takes-work/
+2019-09-09T09:08:05-04:00	Prof. Dr. Style http://contemporary-home-computing.org/prof-dr-style/
+2019-09-09T09:16:03-04:00	Band name of the day: liberation from the moon
+2019-09-09T09:17:38-04:00	Unix at 50: How the OS that powered smartphones started from failure | Ars Technica https://arstechnica.com/gadgets/2019/08/unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers/
+2019-09-09T09:26:32-04:00	The Conscience of the Otaking: The Studio Gainax Saga in Four Parts - Gwern.net https://www.gwern.net/docs/eva/1996-animerica-conscience-otaking
+2019-09-09T09:28:48-04:00	Strike with the Band | Kate Wagner https://thebaffler.com/salvos/strike-with-the-band-wagner
+2019-09-09T09:32:04-04:00	Logarithmic Scales of Pleasure and Pain: Rating, Ranking, and Comparing Peak Experiences Su... https://qualiacomputing.com/2019/08/10/logarithmic-scales-of-pleasure-and-pain-rating-ranking-and-comparing-peak-experiences-suggest-the-existence-of-long-tails-for-bliss-and-suffering/
+2019-09-09T10:11:41-04:00	Bad idea of the day: a service that takes money sent to it & distributes it randomly to some pre-formed list of 'charitable causes'
+2019-09-09T10:22:51-04:00	https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/
+2019-09-09T10:23:22-04:00	things magazine - because you're worth it http://www.thingsmagazine.net/projects/pelican.htm
+2019-09-09T10:54:38-04:00	JumpStation History: The Internet’s Forgotten Terminology https://tedium.co/2019/09/05/jumpstation-search-history/
+2019-09-09T10:56:57-04:00	The Epstein scandal at MIT shows the moral bankruptcy of techno-elites | Jeffrey Epstein | The Guardian https://amp.theguardian.com/commentisfree/2019/sep/07/jeffrey-epstein-mit-funding-tech-intellectuals
+2019-09-09T11:01:54-04:00	From mind control to murder? How a deadly fall revealed the CIA’s darkest secrets | US news | The Guardian https://www.theguardian.com/us-news/2019/sep/06/from-mind-control-to-murder-how-a-deadly-fall-revealed-the-cias-darkest-secrets
+2019-09-09T11:07:18-04:00	Medium tests to save webpages from the internet https://wongmjane.com/blog/save-to-medium
+2019-09-09T11:34:12-04:00	Random link from the archives: https://web.archive.org/web/20180709080254/https://en.wikipedia.org/wiki/Physarum_polycephalum originally posted Mon Jul  9 08:02:54 EDT 2018/
+2019-09-09T11:41:38-04:00	never forget to distinguish between 'working as designed' and 'working as intended', particularly when it comes to social arrangements
+2019-09-09T13:10:03-04:00	Construction Robotics Library - Google Sheets https://docs.google.com/spreadsheets/d/1tJFsyj3bAW_d-02T8BZXBXuVK-2kOjPQvh5STzWgymo/edit?mc_cid=72a9bc8bbd&mc_eid=c92bddb137#gid=0
+2019-09-09T13:12:06-04:00	Jeffrey Epstein's influence in the science world is a symptom of larger problems | Kate Darling | Opinion | The Guardian https://www.theguardian.com/commentisfree/2019/aug/27/jeffrey-epstein-science-mit-brockman
+2019-09-09T13:30:35-04:00	A Technology Freelancer's Guide to Starting a Worker Co-Op: https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf
+2019-09-09T13:31:19-04:00	Other Orders https://otherorders.net/
+2019-09-09T13:51:50-04:00	periodic reminder: common sense is neither
+2019-09-09T13:54:34-04:00	I Escaped the Cult. But I Couldn’t Escape the Cult Mentality. https://narratively.com/i-escaped-the-cult-but-i-couldnt-escape-the-cult-mentality/
+2019-09-09T13:59:26-04:00	America Without Family, God, or Patriotism - The Atlantic  https://www.theatlantic.com/ideas/archive/2019/09/america-without-family-god-or-patriotism/597382/
+2019-09-09T15:34:20-04:00	Random link from the archives: https://web.archive.org/web/20190605141807/https://en.wikisource.org/wiki/Body_Ritual_among_the_Nacirema originally posted Wed Jun  5 14:18:07 EDT 2019/
+2019-09-09T19:34:48-04:00	Random link from the archives: https://web.archive.org/web/20190321155813/https://www.theatlantic.com/science/archive/2019/03/the-revolutionary-discovery-of-a-distributed-virus/584884/ originally posted Thu Mar 21 15:58:13 EDT 2019/
+2019-09-09T23:34:57-04:00	Random link from the archives: https://web.archive.org/web/20180910082651/https://anatomyof.ai/ originally posted Mon Sep 10 08:26:51 EDT 2018/
+2019-09-10T03:35:08-04:00	Random link from the archives: https://web.archive.org/web/20181113044440/https://gist.github.com/ldodds/a7f901c7f0118e83a645 originally posted Tue Nov 13 04:44:40 EST 2018/
+2019-09-10T07:35:21-04:00	Random link from the archives: https://web.archive.org/web/20180611095453/https://www.vice.com/en_au/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia originally posted Mon Jun 11 09:54:53 EDT 2018/
+2019-09-10T08:20:44-04:00	The year is 2319. Unistat is still at war with Afghanistan. This war is fought by hereditary dynasties of drone pilots with their own insular culture.
+2019-09-10T08:44:01-04:00	Coincidence Or Cosmic Conspiracy - Robert Anton Wilson Fans Germania http://rawilsonfans.de/en/coincidence-or-cosmic-conspiracy/
+2019-09-10T10:06:17-04:00	90s CyberCafe Enamel Pin Set by Mary Safro — Kickstarter https://www.kickstarter.com/projects/cryoclaire/90s-cybercafe-enamel-pin-set
+2019-09-10T10:08:28-04:00	PyperCard - Easy GUIs for All — PyperCard 0.0.1-alpha.3 documentation https://pypercard.readthedocs.io/en/latest/
+2019-09-10T10:08:45-04:00	An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier/
+2019-09-10T10:12:35-04:00	The Philosophy of Computer Science https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
+2019-09-10T10:37:49-04:00	Jeffrey Epstein: how he used the MIT Media Lab to launder his image - Vox https://www.vox.com/identities/2019/9/9/20856944/jeffrey-epstein-mit-ronan-farrow-joichi-ito
+2019-09-10T10:38:31-04:00	In 2019 we have eleven new games for the Atari Lynx | Atari Gamer https://atarigamer.com/articles/in-2019-we-have-eleven-new-games-for-the-atari-lynx
+2019-09-10T10:50:57-04:00	Truth-telling is aggression in zero-sum frames – Unstable Ontology https://unstableontology.com/2019/09/10/truth-telling-is-aggression-in-zero-sum-frames/
+2019-09-10T11:05:59-04:00	The Story of Us: Full Series — Wait But Why https://waitbutwhy.com/2019/08/story-of-us.html
+2019-09-10T11:35:30-04:00	Random link from the archives: https://web.archive.org/web/20190307104101/https://www.nybooks.com/articles/2019/03/07/diderot-man-who-questioned-everything/ originally posted Thu Mar  7 10:41:01 EST 2019/
+2019-09-10T11:37:53-04:00	The Strange Person Theory of History
+2019-09-10T11:53:39-04:00	The MIT Media Lab’s moral rot. https://slate.com/technology/2019/09/mit-media-lab-jeffrey-epstein-joi-ito-moral-rot.html
+2019-09-10T12:15:48-04:00	Our illusory sense of agency has a deeply important social purpose | Aeon Ideas https://aeon.co/ideas/our-illusory-sense-of-agency-has-a-deeply-important-social-purpose
+2019-09-10T12:45:05-04:00	I am a big supporter of Small Tech: three line shell scripts, gopher holes, when websites render properly on a VIC-20, building your new PC tower out of the 10 year old PCs your neighbours recently discarded, solving your own problems without worrying about scale.
+2019-09-10T15:35:43-04:00	Random link from the archives: https://web.archive.org/web/20190402063922/https://www.mcsweeneys.net/articles/ads-written-by-the-guy-from-your-poetry-mfa-whos-in-marketing-now originally posted Tue Apr  2 06:39:22 EDT 2019/
+2019-09-10T18:10:13-04:00	How, Exactly, Did We Come Up with What Counts As 'Normal'? | Literary  Hub https://lithub.com/how-exactly-did-we-come-up-with-what-counts-as-normal/
+2019-09-10T19:36:01-04:00	Random link from the archives: https://web.archive.org/web/20180221073048/http://bologna.repubblica.it/cronaca/2018/02/20/news/storia_di_gino_l_aristogatto_con_seimila_amici_su_facebook-189282512/ originally posted Wed Feb 21 07:30:48 EST 2018/
+2019-09-10T23:36:11-04:00	Random link from the archives: https://web.archive.org/web/20181206102723/https://motherboard.vice.com/en_us/article/yw755b/we-asked-105-experts-what-worries-them-most-about-the-future originally posted Thu Dec  6 10:27:23 EST 2018/
+2019-09-11T03:36:22-04:00	Random link from the archives: https://web.archive.org/web/20190411140010/https://www.tor.com/2019/04/08/6-ways-that-fanfiction-makes-your-writing-stronger/ originally posted Thu Apr 11 14:00:10 EDT 2019/
+2019-09-11T07:36:35-04:00	Random link from the archives: https://web.archive.org/web/20181113121712/https://hbr.org/1995/09/the-power-of-talk-who-gets-heard-and-why originally posted Tue Nov 13 12:17:12 EST 2018/
+2019-09-11T08:43:41-04:00	The Challenges of Making the Internet Go Global https://tedium.co/2019/09/10/internet-global-expansion-challenges-history/
+2019-09-11T08:55:14-04:00	The Pitch https://pitchfork.com/thepitch/wu-tang-clan-cream-cash-rules-everything-around-me-misunderstood/
+2019-09-11T08:58:55-04:00	How The History Of Horror Movies Shaped The Fears Of Audiences https://www.bustle.com/p/how-the-history-of-horror-movies-shaped-the-fears-of-audiences-18006917
+2019-09-11T09:15:35-04:00	The “Nurse With Wound List” At 40: A Beginner’s Guide - Stereogum https://www.stereogum.com/2057432/the-nurse-with-wound-list-at-40-a-beginners-guide/franchises/sounding-board/
+2019-09-11T09:19:35-04:00	How the Many-Worlds theory of Hugh Everett split the Universe | Aeon Essays https://aeon.co/essays/how-the-many-worlds-theory-of-hugh-everett-split-the-universe
+2019-09-11T09:38:24-04:00	Emotional Oversight Committee " Real Life https://reallifemag.com/new-feelings-emotional-oversight-committee/
+2019-09-11T09:44:57-04:00	Open Worlds " Real Life https://reallifemag.com/open-worlds/
+2019-09-11T10:37:10-04:00	P s u e d o a n a l y s i s : A Quick and Dirty Guide to Psychoanalysis https://psuedoanalysis.blogspot.com/p/a-quick-and-dirty-guide-to.html
+2019-09-11T11:18:33-04:00	People Speak Faster in Less Efficient Languages - The Atlantic  https://www.theatlantic.com/science/archive/2019/09/people-speak-faster-less-efficient-languages/597391/
+2019-09-11T11:24:21-04:00	Technological Enchantments and the End of Modernity | L.M. Sacasas https://thefrailestthing.com/2017/06/26/technological-enchantments-and-the-end-of-modernity/
+2019-09-11T11:24:56-04:00	Future Schlock https://thebaffler.com/salvos/future-schlock
+2019-09-11T11:36:43-04:00	Random link from the archives: https://web.archive.org/web/20190903124513/http://rawilsonfans.de/en/how-to-wage-nonviolent-revolution/ originally posted Tue Sep  3 12:45:13 EDT 2019/
+2019-09-11T13:16:23-04:00	Random link from the archives: https://web.archive.org/web/20190815081949/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/there-might-be-a-useful-overlap-with-transliterature-technology-here-ed19f32fe628 originally posted Thu Aug 15 08:19:49 EDT 2019/
+2019-09-11T13:21:28-04:00	Random link from the archives: https://web.archive.org/web/20181205101356/https://emshort.blog/2018/12/04/save-the-cat-blake-snyder/ originally posted Wed Dec  5 10:13:56 EST 2018/
+2019-09-11T13:39:24-04:00	Random link from the archives: https://web.archive.org/web/20190416082341/https://github.com/historicalsource/enchanter originally posted Tue Apr 16 08:23:41 EDT 2019/
+2019-09-11T14:00:14-04:00	The theme of MfoM was something like 'the world is weirder than you can imagine, and you can see it if you look'. For BotD, I'm thinking that it should be something like 'in an age dominated by time-binding technologies, media consumption influences not just how we identify but what we are capable of seeing, thinking, and imagining'.
+2019-09-11T14:33:17-04:00	GitHub - nuno-faria/tiler: ' Build images with images https://github.com/nuno-faria/tiler
+2019-09-11T14:33:28-04:00	Creating a "coercion resistant" communications system / Boing Boing https://boingboing.net/2019/09/10/rule-of-law-security.html
+2019-09-11T15:36:52-04:00	Random link from the archives: https://web.archive.org/web/20190208084317/http://histscifi.com/essays/radin/technothriller originally posted Fri Feb  8 08:43:17 EST 2019/
+2019-09-11T15:48:41-04:00	nurse with wound is shockingly accessible...
+2019-09-11T15:49:58-04:00	Bad idea of the day: publically traded for-profit firehouses
+2019-09-11T17:16:33-04:00	Random link from the archives: https://web.archive.org/web/20171220101803/http://cdm.link/2017/12/the-story-of-early-tape-music-microsound-and-a-eurorack-resurrection/ originally posted Wed Dec 20 10:18:03 EST 2017/
+2019-09-11T17:21:35-04:00	Random link from the archives: https://web.archive.org/web/20190816085441/http://www.pjhutchison.org/tutorial/amiga_c.html originally posted Fri Aug 16 08:54:41 EDT 2019/
+2019-09-11T17:39:31-04:00	Random link from the archives: https://web.archive.org/web/20190817155630/https://www.youtube.com/watch?v=0SWt6OQ4Nl4 originally posted Sat Aug 17 15:56:30 EDT 2019/
+2019-09-11T19:37:00-04:00	Random link from the archives: https://web.archive.org/web/20180816113209/https://en.wikipedia.org/wiki/Portable_Distributed_Objects originally posted Thu Aug 16 11:32:09 EDT 2018/
+2019-09-11T21:16:49-04:00	Random link from the archives: https://web.archive.org/web/20180916193624/https://medium.com/p/the-black-panthers-helped-free-breakfast-programs-9e4756d93510 originally posted Sun Sep 16 19:36:24 EDT 2018/
+2019-09-11T21:21:42-04:00	Random link from the archives: https://web.archive.org/web/20180827131948/https://en.wikipedia.org/wiki/Unitary_urbanism originally posted Mon Aug 27 13:19:48 EDT 2018/
+2019-09-11T21:39:39-04:00	Random link from the archives: https://web.archive.org/web/20170619100632/http://tra38.github.io/blog/the-discovery-engine.html originally posted Mon Jun 19 10:06:32 EDT 2017/
+2019-09-11T23:37:07-04:00	Random link from the archives: https://web.archive.org/web/20190626075339/https://www.vice.com/en_us/article/pa3byz/british-folk-horror-is-back-and-its-scarier-than-ever originally posted Wed Jun 26 07:53:39 EDT 2019/
+2019-09-12T01:16:58-04:00	Random link from the archives: https://web.archive.org/web/20170814134200/https://www.outsideonline.com/2230891/inside-lab-thats-quantifying-happiness originally posted Mon Aug 14 13:42:00 EDT 2017/
+2019-09-12T01:21:49-04:00	Random link from the archives: https://web.archive.org/web/20180214182534/https://www.eater.com/2018/2/12/16991634/muscle-milk-protein-culture originally posted Wed Feb 14 18:25:34 EST 2018/
+2019-09-12T01:39:48-04:00	Random link from the archives: https://web.archive.org/web/20190522100115/https://jfm.carcosa.net/blog/computing/gopher-and-the-lynx-web/ originally posted Wed May 22 10:01:15 EDT 2019/
+2019-09-12T03:37:20-04:00	Random link from the archives: https://web.archive.org/web/20180315072606/http://www.bbc.com/culture/story/20171122-twenty-six-words-we-dont-want-to-lose originally posted Thu Mar 15 07:26:06 EDT 2018/
+2019-09-12T05:17:06-04:00	Random link from the archives: https://web.archive.org/web/20190805171036/https://medium.com/p/are-legitimate-news-websites-spreading-fake-news-with-widgets-1e92bac96072 originally posted Mon Aug  5 17:10:36 EDT 2019/
+2019-09-12T05:21:56-04:00	Random link from the archives: https://web.archive.org/web/20181101120021/https://www.twitch.tv/twitchnovel/ originally posted Thu Nov  1 12:00:21 EDT 2018/
+2019-09-12T05:39:54-04:00	Random link from the archives: https://web.archive.org/web/20180823152832/http://aiweirdness.com/post/177307156177/robotics-teams-why-not-name-them-with-a-bot originally posted Thu Aug 23 15:28:32 EDT 2018/
+2019-09-12T07:25:00-04:00	tarot for fun and prophet
+2019-09-12T07:37:27-04:00	Random link from the archives: https://web.archive.org/web/20180501103432/https://longreads.com/2018/04/26/is-your-job-lynchian-or-is-it-more-kafkaesque/ originally posted Tue May  1 10:34:32 EDT 2018/
+2019-09-12T09:17:13-04:00	Random link from the archives: https://web.archive.org/web/20171218141646/https://motherboard.vice.com/en_us/article/vbzvad/this-code-is-remixing-translations-of-the-bible-to-find-new-meanings originally posted Mon Dec 18 14:16:46 EST 2017/
+2019-09-12T11:37:39-04:00	Random link from the archives: https://web.archive.org/web/20181113001753/http://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt&sortOrder=Sort+by+Date&topic=Lisa originally posted Tue Nov 13 00:17:53 EST 2018/
+2019-09-12T12:53:25-04:00	User Interfaces are API Boundaries · Chris Krycho https://v4.chriskrycho.com/2019/user-interfaces-are-api-boundaries.html
+2019-09-12T12:54:35-04:00	Absolute scale corrupts absolutely - apenwarr https://apenwarr.ca/log/20190819
+2019-09-12T15:37:52-04:00	Random link from the archives: https://web.archive.org/web/20190814081946/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/alternatives-to-advertising-7af0e32b8a8e originally posted Wed Aug 14 08:19:46 EDT 2019/
+2019-09-12T19:38:32-04:00	Random link from the archives: https://web.archive.org/web/20190829124506/https://www.more-magic.net/posts/an-appeal-to-whatwg-uri-spec.html originally posted Thu Aug 29 12:45:06 EDT 2019/
+2019-09-12T19:44:01-04:00	odd parity, even parity, and the often-forgotten mad monster parity
+2019-09-12T23:38:45-04:00	Random link from the archives: https://web.archive.org/web/20180323092356/https://i-d.vice.com/en_us/article/qvx887/laurie-anderson-is-the-original-radical-american-artist originally posted Fri Mar 23 09:23:56 EDT 2018/
+2019-09-13T03:38:58-04:00	Random link from the archives: https://web.archive.org/web/20181113134635/https://theoutline.com/post/2190/why-are-we-blaming-postmodernism-for-trump originally posted Tue Nov 13 13:46:35 EST 2018/
+2019-09-13T07:39:14-04:00	Random link from the archives: https://web.archive.org/web/20180917033724/https://medium.com/p/how-to-write-elevator-pitch-novel-publicity-infographic-a8ec74ecf7ce originally posted Mon Sep 17 03:37:24 EDT 2018/
+2019-09-13T08:36:55-04:00	Our Open-Plan Office Failed, So We’re Moving to a Towering Panopticon - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/our-open-plan-office-failed-so-were-moving-to-a-towering-panopticon
+2019-09-13T08:40:18-04:00	List: Myths About Your Thirties " Debunked - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/myths-about-your-thirties-debunked
+2019-09-13T08:48:04-04:00	Michael Feathers - Socio-Technical Seeing https://michaelfeathers.silvrback.com/socio-technical-seeing
+2019-09-13T08:49:31-04:00	Science is deeply imaginative: why is this treated as a secret? | Aeon Ideas https://aeon.co/ideas/science-is-deeply-imaginative-why-is-this-treated-as-a-secret
+2019-09-13T08:55:25-04:00	it's friday the thirteenth. celebrate by purchasing a black candle and slinging some curses.
+2019-09-13T09:25:14-04:00	Random link from the archives: https://web.archive.org/web/20181111191020/http://constellation.crummy.com/Pey%20Shkoy%20Benefits%20Humans/ originally posted Sun Nov 11 19:10:20 EST 2018/
+2019-09-13T09:40:34-04:00	Reclaim unreasonable software. https://lethain.com//reclaim-unreasonable-software/
+2019-09-13T09:48:57-04:00	Random link from the archives: https://web.archive.org/web/20190405104609/http://www.onarollpodcast.com/211 originally posted Fri Apr  5 10:46:09 EDT 2019/
+2019-09-13T09:52:29-04:00	Bad idea of the day: self-owning cars
+2019-09-13T09:59:45-04:00	Free Daily Newspaper History: A Model for Another Time https://tedium.co/2019/09/12/free-daily-newspaper-history-express-red-eye/
+2019-09-13T10:05:56-04:00	OSoMe: BotSlayer https://osome.iuni.iu.edu/tools/botslayer/
+2019-09-13T10:08:52-04:00	CATEGORY RESPONSE – ALIENIST MANIFESTO https://alienistmanifesto.wordpress.com/2019/08/08/category-response/
+2019-09-13T10:10:35-04:00	Why Youtubers See Ghosts | Rhizome https://rhizome.org/editorial/2019/jul/05/why-youtubers-see-ghosts/
+2019-09-13T11:39:27-04:00	Random link from the archives: https://web.archive.org/web/20180124082419/http://botnik.org/content/fire-and-fury.html originally posted Wed Jan 24 08:24:19 EST 2018/
+2019-09-13T13:07:23-04:00	Band name of the day: Punch Deck
+2019-09-13T13:25:23-04:00	Random link from the archives: https://web.archive.org/web/20180525104016/http://thequietus.com/articles/24629-lil-miquela-poppy-ai-pop-stars originally posted Fri May 25 10:40:16 EDT 2018/
+2019-09-13T13:26:57-04:00	Deterministic thinking (“dichotomania”):  a problem in how we think, not just in how we act «  Statistical Modeling, Causal Inference, and Social Science https://statmodeling.stat.columbia.edu/2019/09/13/deterministic-thinking-dichotomania/
+2019-09-13T13:49:06-04:00	Random link from the archives: https://web.archive.org/web/20170705110956/https://www.washingtonpost.com/news/to-your-health/wp/2017/06/30/the-u-s-fertility-rate-just-hit-a-historic-low-why-some-demographers-are-freaking-out/?utm_source=nextdraft&utm_medium=email originally posted Wed Jul  5 11:09:56 EDT 2017/
+2019-09-13T15:39:41-04:00	Random link from the archives: https://web.archive.org/web/20180809110821/https://c4ss.org/content/46540 originally posted Thu Aug  9 11:08:21 EDT 2018/
+2019-09-13T17:25:53-04:00	Random link from the archives: https://web.archive.org/web/20171127065705/http://www.openculture.com/2015/12/old-book-illustrations.html originally posted Mon Nov 27 06:57:05 EST 2017/
+2019-09-13T17:49:21-04:00	Random link from the archives: https://web.archive.org/web/20190803174207/https://www.youtube.com/watch?v=7oeLnpAmmfI originally posted Sat Aug  3 17:42:07 EDT 2019/
+2019-09-13T19:39:59-04:00	Random link from the archives: https://web.archive.org/web/20181228130755/https://www.robinsloan.com/expressive-temperature/ originally posted Fri Dec 28 13:07:55 EST 2018/
+2019-09-13T21:26:11-04:00	Random link from the archives: https://web.archive.org/web/20180330100859/https://www.reuters.com/article/us-data-privacy-acxiom-insight/how-a-data-mining-giant-got-me-wrong-idUSKBN1H513K originally posted Fri Mar 30 10:08:59 EDT 2018/
+2019-09-13T21:49:31-04:00	Random link from the archives: https://web.archive.org/web/20181008073959/https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/ originally posted Mon Oct  8 07:39:59 EDT 2018/
+2019-09-13T23:40:23-04:00	Random link from the archives: https://web.archive.org/web/20190419182930/https://www.youtube.com/watch?v=AeuWmrGCfbI originally posted Fri Apr 19 18:29:30 EDT 2019/
+2019-09-14T01:26:25-04:00	Random link from the archives: https://web.archive.org/web/20180220121913/http://veekaybee.github.io/2018/02/19/creating-a-twitter-art-bot/ originally posted Tue Feb 20 12:19:13 EST 2018/
+2019-09-14T01:49:44-04:00	Random link from the archives: https://web.archive.org/web/20181017131946/https://www.topic.com/mold-eats-world originally posted Wed Oct 17 13:19:46 EDT 2018/
+2019-09-14T03:40:35-04:00	Random link from the archives: https://web.archive.org/web/20190513090524/https://cate.blog/2019/02/06/the-cost-of-fixing-things/ originally posted Mon May 13 09:05:24 EDT 2019/
+2019-09-14T05:26:36-04:00	Random link from the archives: https://web.archive.org/web/20171218131613/https://aeon.co/ideas/the-human-brains-bandwidth-for-visual-images-is-severely-limited originally posted Mon Dec 18 13:16:13 EST 2017/
+2019-09-14T05:49:53-04:00	Random link from the archives: https://web.archive.org/web/20181212145536/https://github.com/OSPreservProject/oskit originally posted Wed Dec 12 14:55:36 EST 2018/
+2019-09-14T07:40:49-04:00	Random link from the archives: https://web.archive.org/web/20190117151514/http://electronicbookreview.com/essay/interactive-fiction/ originally posted Thu Jan 17 15:15:14 EST 2019/
+2019-09-14T09:26:48-04:00	Random link from the archives: https://web.archive.org/web/20180417153955/https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops originally posted Tue Apr 17 15:39:55 EDT 2018/
+2019-09-14T09:50:00-04:00	Random link from the archives: https://web.archive.org/web/20190129115034/https://aeon.co/essays/what-existentialist-philosophy-reveals-about-prejudices originally posted Tue Jan 29 11:50:34 EST 2019/
+2019-09-14T11:41:02-04:00	Random link from the archives: https://web.archive.org/web/20181112195717/http://www.ultratechnology.com/enthflux.htm originally posted Mon Nov 12 19:57:17 EST 2018/
+2019-09-14T12:55:19-04:00	Band name of the day: gossamer myth
+2019-09-14T12:55:28-04:00	Band name of the day: science costume
+2019-09-14T13:26:56-04:00	Random link from the archives: https://web.archive.org/web/20190609104740/https://blog.etemetaphysical.com/seedoflife/ originally posted Sun Jun  9 10:47:40 EDT 2019/
+2019-09-14T13:50:07-04:00	Random link from the archives: https://web.archive.org/web/20181113113044/https://en.m.wikipedia.org/wiki/History_of_the_graphical_user_interface originally posted Tue Nov 13 11:30:44 EST 2018/
+2019-09-14T15:41:15-04:00	Random link from the archives: https://web.archive.org/web/20171109081728/https://aeon.co/ideas/eating-people-is-wrong-but-its-also-widespread-and-sacred originally posted Thu Nov  9 08:17:28 EST 2017/
+2019-09-14T16:23:51-04:00	Band name of the day: subject to a common thrill
+2019-09-14T17:27:08-04:00	Random link from the archives: https://web.archive.org/web/20190616151618/https://www.youtube.com/watch?v=KVUvnhbYYHI originally posted Sun Jun 16 15:16:18 EDT 2019/
+2019-09-14T17:50:15-04:00	Random link from the archives: https://web.archive.org/web/20171113164209/https://www.youtube.com/watch?v=qhun8OzAmfg originally posted Mon Nov 13 16:42:09 EST 2017/
+2019-09-14T18:05:51-04:00	Copyheart.org http://copyheart.org/
+2019-09-14T18:06:50-04:00	GitHub - ihabunek/toot: toot - a Mastodon CLI client https://github.com/ihabunek/toot
+2019-09-14T18:08:29-04:00	Error 406 - Not Acceptable https://www.philosophersmag.com/essays/76-the-meaning-of-asshole
+2019-09-14T19:41:27-04:00	Random link from the archives: https://web.archive.org/web/20190530093718/https://idlewords.com/2019/05/what_i_learned_trying_to_secure_congressional_campaigns.htm originally posted Thu May 30 09:37:18 EDT 2019/
+2019-09-14T20:31:01-04:00	Band name of the day: freelance vivisectionist
+2019-09-14T21:27:28-04:00	Random link from the archives: https://web.archive.org/web/20180407143910/https://www.youtube.com/watch?v=ffllV6-aqWU originally posted Sat Apr  7 14:39:10 EDT 2018/
+2019-09-14T21:50:22-04:00	Random link from the archives: https://web.archive.org/web/20180108092220/http://tinyurl.com/yc5fb6vn originally posted Mon Jan  8 09:22:20 EST 2018/
+2019-09-14T23:41:36-04:00	Random link from the archives: https://web.archive.org/web/20190610144249/https://blog.catboli.com/smt-solver-gba/ originally posted Mon Jun 10 14:42:49 EDT 2019/
+2019-09-15T01:27:42-04:00	Random link from the archives: https://web.archive.org/web/20190214075544/https://arstechnica.com/science/2019/02/danish-haunted-house-studies-seek-to-reveal-the-seductive-appeal-of-horror/ originally posted Thu Feb 14 07:55:44 EST 2019/
+2019-09-15T01:50:29-04:00	Random link from the archives: https://web.archive.org/web/20180608091803/https://www.wnycstudios.org/story/chaotic-good-snap-918-beyond-belief/ originally posted Fri Jun  8 09:18:03 EDT 2018/
+2019-09-15T03:41:44-04:00	Random link from the archives: https://web.archive.org/web/20190620064246/https://www.vox.com/future-perfect/2019/6/4/18650969/married-women-miserable-fake-paul-dolan-happiness originally posted Thu Jun 20 06:42:46 EDT 2019/
+2019-09-15T05:27:55-04:00	Random link from the archives: https://web.archive.org/web/20190807125958/https://www.vice.com/en_us/article/59nm85/an-online-feud-killed-a-gaming-oddity-people-had-waited-21-years-for originally posted Wed Aug  7 12:59:58 EDT 2019/
+2019-09-15T05:50:37-04:00	Random link from the archives: https://web.archive.org/web/20171017073538/https://github.com/saitogroup/Website_Phrase_Prompter originally posted Tue Oct 17 07:35:38 EDT 2017/
+2019-09-15T07:41:55-04:00	Random link from the archives: https://web.archive.org/web/20190708140828/https://www.vice.com/en_us/article/kzm53n/photos-of-the-most-egregious-anti-homeless-architecture?mc_cid=101614a9c3 originally posted Mon Jul  8 14:08:28 EDT 2019/
+2019-09-15T09:28:06-04:00	Random link from the archives: https://web.archive.org/web/20181106094617/https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage originally posted Tue Nov  6 09:46:17 EST 2018/
+2019-09-15T09:50:44-04:00	Random link from the archives: https://web.archive.org/web/20190205093245/https://c4ss.org/content/51493 originally posted Tue Feb  5 09:32:45 EST 2019/
+2019-09-15T15:28:05-04:00	Is there a command line application to download every picture I've ever liked on instagram? If not, why not?
+2019-09-15T15:35:29-04:00	Every time I go a few months without drawing, I get so rusty that I can't produce something that's not incredibly ugly without spending about a week drawing daily. Is this normal?
+2019-09-15T15:36:00-04:00	Random link from the archives: https://web.archive.org/web/20181113094204/http://www.loper-os.org/?p=284 originally posted Tue Nov 13 09:42:04 EST 2018/
+2019-09-15T15:58:46-04:00	Plastic Love and Your Fake Memories - YouTube https://www.youtube.com/watch?v=TqGbU8riApU
+2019-09-15T16:04:35-04:00	Band name of the day: a wet and deadly desert
+2019-09-15T16:13:59-04:00	surrender dorothy vs save martha
+2019-09-15T16:18:55-04:00	What did Baudrillard think about The Matrix? - YouTube https://www.youtube.com/watch?v=bf9J35yzM3E
+2019-09-15T16:37:57-04:00	Zizek Clicks a Cookie: Guide to Sublime Object of Ideology (pt. 2) - YouTube https://www.youtube.com/watch?v=0i4TZdr0Dlc
+2019-09-15T19:19:32-04:00	tie a brick to retweeting, and tie a brick to seeing a retweet
+2019-09-15T19:20:37-04:00	Foucault: Biopower, Governmentality, and the Subject - YouTube https://www.youtube.com/watch?v=AXyr4Zasdkg
+2019-09-15T19:36:06-04:00	Random link from the archives: https://web.archive.org/web/20180117074308/http://www.win.tue.nl/~hermanh/doku.php?id=sound_of_space-filling_curves originally posted Wed Jan 17 07:43:08 EST 2018/
+2019-09-15T23:36:23-04:00	Random link from the archives: https://web.archive.org/web/20181004091621/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies originally posted Thu Oct  4 09:16:21 EDT 2018/
+2019-09-16T03:36:38-04:00	Random link from the archives: https://web.archive.org/web/20190306103848/https://www.gwern.net/Bitcoin-is-Worse-is-Better originally posted Wed Mar  6 10:38:48 EST 2019/
+2019-09-16T07:36:52-04:00	Random link from the archives: https://web.archive.org/web/20181022114554/https://lifehacker.com/how-to-troll-a-troll-1819880278 originally posted Mon Oct 22 11:45:54 EDT 2018/
+2019-09-16T07:56:56-04:00	Band name of the day: undead shrieking shroombugs
+2019-09-16T08:01:52-04:00	Findings | Harper's Magazine https://harpers.org/archive/2019/09/findings-september-2019/
+2019-09-16T08:09:20-04:00	Band name of the day: certified 100% flesh
+2019-09-16T08:21:31-04:00	Band name of the day: screening for knives
+2019-09-16T08:49:51-04:00	What Not to Expect https://logicmag.io/bodies/what-not-to-expect/
+2019-09-16T08:54:34-04:00	Good citizenship depends on basic statistical literacy | Aeon Essays https://aeon.co/essays/good-citizenship-depends-on-basic-statistical-literacy
+2019-09-16T08:58:12-04:00	Is it moral to respect the wishes of the dead, above the living? | Aeon Ideas https://aeon.co/ideas/is-it-moral-to-respect-the-wishes-of-the-dead-above-the-living
+2019-09-16T09:18:21-04:00	Band name of the day: frog delta
+2019-09-16T09:27:20-04:00	Band name of the day: vertical graveyard
+2019-09-16T09:39:28-04:00	The College Student Who Decoded the Data Hidden in Inca Knots - Atlas Obscura https://www.atlasobscura.com/articles/khipus-inca-empire-harvard-university-colonialism
+2019-09-16T10:16:51-04:00	Band name of the day: total function
+2019-09-16T10:26:49-04:00	Band name of the day: freudensprung
+2019-09-16T10:42:12-04:00	Web bloat https://danluu.com/web-bloat/
+2019-09-16T10:45:07-04:00	Influence Operations Kill Chain - Schneier on Security https://www.schneier.com/blog/archives/2019/08/influence_opera.html
+2019-09-16T10:53:48-04:00	Lots Of People Going Around With Mild Hallucinations All The Time | Slate Star Codex https://slatestarcodex.com/2019/09/11/lots-of-people-going-around-with-mild-hallucinations-all-the-time/
+2019-09-16T10:55:09-04:00	The Secret History of Fort Detrick, the CIA’s Base for Mind Control Experiments - POLITICO Magazine https://www.politico.com/magazine/story/2019/09/15/cia-fort-detrick-stephen-kinzer-228109
+2019-09-16T10:57:56-04:00	Is the Threat of ‘Fake Science’ Real? - Lawfare https://www.lawfareblog.com/threat-fake-science-real
+2019-09-16T11:37:00-04:00	Random link from the archives: https://web.archive.org/web/20181120082748/http://lists.busybox.net/pipermail/busybox/2010-December/074114.html originally posted Tue Nov 20 08:27:48 EST 2018/
+2019-09-16T11:43:37-04:00	The Toxic Pit With A $3 Admission Fee - YouTube https://www.youtube.com/watch?v=n-Ej2EtE744
+2019-09-16T11:43:55-04:00	Why this creepy melody is in so many movies - YouTube https://www.youtube.com/watch?v=-3-bVRYRnSM
+2019-09-16T11:49:57-04:00	Band name of the day: a feeding-place for animals
+2019-09-16T12:47:40-04:00	SSC Journal Club: Relaxed Beliefs Under Psychedelics And The Anarchic Brain | Slate Star Codex https://slatestarcodex.com/2019/09/10/ssc-journal-club-relaxed-beliefs-under-psychedelics-and-the-anarchic-brain/
+2019-09-16T12:57:41-04:00	It Comes in Waves  https://longreads.com/2019/09/16/it-comes-in-waves/
+2019-09-16T13:00:09-04:00	Nearly 30 years ago, Mortal Kombat’s blood forever changed the video game industry - Polygon https://www.polygon.com/2019/9/13/20812985/nearly-30-years-ago-mortal-kombats-blood-forever-changed-the-video-game-industry
+2019-09-16T13:08:45-04:00	What is Love? Neural Annealing in the Presence of an Intentional Object | Qualia  Computing https://qualiacomputing.com/2018/12/22/what-is-love-neural-annealing-in-the-presence-of-an-intentional-object/?fbclid=IwAR0WmmaJPHint_jkDCs13z6kPIgPn9ChkSWIWSlxnVvphPnSw8baje2tbhg
+2019-09-16T13:10:36-04:00	Thought Scripts – qwerky science https://mad.science.blog/2019/08/02/thought-scripts/
+2019-09-16T13:19:57-04:00	Illusions of Sound Perception, from Rhythm and Transforms, Sethares http://sethares.engr.wisc.edu/htmlRT/4%20sound_illusions.html
+2019-09-16T13:21:29-04:00	The Best Algorithm No One Knows About | Kerf blog https://getkerf.wordpress.com/2016/03/30/the-best-algorithm-no-one-knows-about/
+2019-09-16T13:37:14-04:00	Very Superstitious | Lapham’s Quarterly https://www.laphamsquarterly.org/magic-shows/very-superstitious
+2019-09-16T13:37:46-04:00	Band name of the day: an abortive and bastard art
+2019-09-16T13:38:24-04:00	How Superstition Works - The Atlantic  https://www.theatlantic.com/health/archive/2013/10/how-superstition-works/280649/
+2019-09-16T15:22:28-04:00	Band name of the day: distant beyond belief
+2019-09-16T15:37:30-04:00	Random link from the archives: https://web.archive.org/web/20180724130724/https://fermatslibrary.com/s/douglas-carl-engelbart-developing-the-underlying-concepts-for-contemporary-computing originally posted Tue Jul 24 13:07:24 EDT 2018/
+2019-09-16T16:44:10-04:00	Band name of the day: the fake moon
+2019-09-16T16:51:43-04:00	Memory, explained | Narrated by Emma Stone - YouTube https://www.youtube.com/watch?v=d95dOH-7GHM
+2019-09-16T17:49:33-04:00	Why Sergio Leone Played Music On Set - YouTube https://www.youtube.com/watch?v=JiQLHL10BYo
+2019-09-16T19:37:48-04:00	Random link from the archives: https://web.archive.org/web/20190115123454/http://alexott.net/en/fp/books/#sec12 originally posted Tue Jan 15 12:34:54 EST 2019/
+2019-09-16T23:37:57-04:00	Random link from the archives: https://web.archive.org/web/20190729104820/http://theoryengine.org/life/hades-an-egregore/ originally posted Mon Jul 29 10:48:20 EDT 2019/
+2019-09-17T03:38:06-04:00	Random link from the archives: https://web.archive.org/web/20171020103859/https://www.atlasobscura.com/articles/danse-macabre-david-pumpkins-art-history originally posted Fri Oct 20 10:38:59 EDT 2017/
+2019-09-17T07:38:19-04:00	Random link from the archives: https://web.archive.org/web/20180406115025/https://www.molus.org/blog/decentralization-dilemma/ originally posted Fri Apr  6 11:50:25 EDT 2018/
+2019-09-17T10:22:16-04:00	hot take: rms was a figurehead for so long that he was insulated from changing norms & expectations -- he's a fossil from the culture of the kind of person who goes to mit in the 70s. venerating cultural fossils is dangerous: by not progressing they can cause us to regress if they keep power.
+2019-09-17T11:38:32-04:00	Random link from the archives: https://web.archive.org/web/20190207072347/https://pdfs.semanticscholar.org/7b93/785d1d84b06d36badb59a0c6b779d76743c5.pdf originally posted Thu Feb  7 07:23:47 EST 2019/
+2019-09-17T13:18:51-04:00	novelty mug: "don't talk to me until i've had my laudnum"
+2019-09-17T15:11:20-04:00	hot take: the response time for anything interactive ought to be less than a third of a second, and it's absurd that we find it acceptable for web pages to take minutes to display
+2019-09-17T15:38:40-04:00	Random link from the archives: https://web.archive.org/web/20190226091442/http://wiki.c2.com/?HistoryOfIterative originally posted Tue Feb 26 09:14:42 EST 2019/
+2019-09-17T19:38:54-04:00	Random link from the archives: https://web.archive.org/web/20180616120124/https://www.redblobgames.com/maps/terrain-from-noise/ originally posted Sat Jun 16 12:01:24 EDT 2018/
+2019-09-17T23:39:09-04:00	Random link from the archives: https://web.archive.org/web/20190619140423/https://harpers.org/archive/2008/05/faustian-economics/ originally posted Wed Jun 19 14:04:23 EDT 2019/
+2019-09-18T03:39:20-04:00	Random link from the archives: https://web.archive.org/web/20170814074514/http://www.antipope.org/charlie/blog-static/2017/08/help-wanted-at-the-climate-pol.html originally posted Mon Aug 14 07:45:14 EDT 2017/
+2019-09-18T07:39:37-04:00	Random link from the archives: https://web.archive.org/web/20181121085510/https://www.ribbonfarm.com/2017/09/07/the-world-as-if/ originally posted Wed Nov 21 08:55:10 EST 2018/
+2019-09-18T11:39:53-04:00	Random link from the archives: https://web.archive.org/web/20180503112352/http://www.ganzeer.com/post/173232122769/the-year-is-1812-mr-smith-of-huddersfield-walks originally posted Thu May  3 11:23:52 EDT 2018/
+2019-09-18T13:11:40-04:00	Psychedelics can have the same overview effect as a space journey | Aeon Essays https://aeon.co/essays/psychedelics-can-have-the-same-overview-effect-as-a-space-journey
+2019-09-18T13:36:01-04:00	Some Notable Women in AECO (& beyond) Design Computation - Google Sheets https://docs.google.com/spreadsheets/d/1DayNF6ejFCU45LAUo10-eFTDQ2MCwXWer3JSVWIFWCE/edit?mc_cid=9d7a89a1f6&mc_eid=c92bddb137#gid=0
+2019-09-18T14:11:25-04:00	Band name of the day: big dreams and blood powers
+2019-09-18T14:12:47-04:00	Band name of the day: die hot
+2019-09-18T14:13:10-04:00	Band name of the day: everything else is death
+2019-09-18T14:13:45-04:00	Band name of the day: the ringstone rounds
+2019-09-18T14:15:20-04:00	This Company Built a Private Surveillance Network. We Tracked Someone With It - VICE https://www.vice.com/en_us/article/ne879z/i-tracked-someone-with-license-plate-readers-drn
+2019-09-18T14:19:32-04:00	Band name of the day: the causitive scene
+2019-09-18T14:31:06-04:00	Ghostlands | Jennifer Kabat | Granta Magazine  https://granta.com/ghostlands/
+2019-09-18T15:40:02-04:00	Random link from the archives: https://web.archive.org/web/20190726131029/https://colah.github.io/posts/2015-09-Visual-Information/ originally posted Fri Jul 26 13:10:29 EDT 2019/
+2019-09-18T18:50:06-04:00	Band name of the day: endless cheese conveyer
+2019-09-18T19:40:10-04:00	Random link from the archives: https://web.archive.org/web/20190314145928/https://www.rs-online.com/designspark/a-pi-powered-plan-9-cluster originally posted Thu Mar 14 14:59:28 EDT 2019/
+2019-09-18T23:40:17-04:00	Random link from the archives: https://web.archive.org/web/20181112171124/https://www.youtube.com/watch?v=A9n2J24Jg2Y originally posted Mon Nov 12 17:11:24 EST 2018/
+2019-09-19T03:40:25-04:00	Random link from the archives: https://web.archive.org/web/20181017084235/https://aeon.co/essays/what-duelling-can-teach-us-about-taking-offence originally posted Wed Oct 17 08:42:35 EDT 2018/
+2019-09-19T07:40:34-04:00	Random link from the archives: https://web.archive.org/web/20190816084741/https://www.theverge.com/2019/8/14/20805676/engineer-ai-artificial-intelligence-startup-app-development-outsourcing-humans originally posted Fri Aug 16 08:47:41 EDT 2019/
+2019-09-19T09:18:57-04:00	At Dynamicland, The Building Is The Computer " Carl Tashian https://tashian.com/articles/dynamicland/
+2019-09-19T10:08:21-04:00	Less Human Than Human: The Design Philosophy of Steve Jobs – Popula https://popula.com/2019/09/10/less-human-than-human-the-design-philosophy-of-steve-jobs/
+2019-09-19T10:23:31-04:00	Band name of the day: phantom cllown
+2019-09-19T10:23:36-04:00	Band name of the day: phantom clown
+2019-09-19T10:29:12-04:00	after a bad rich person dies, we turn all of their holdings into dollar bills and burn them in a great bonfire to exorcise the evil
+2019-09-19T11:07:36-04:00	Band name of the day: bungalow universe
+2019-09-19T11:09:06-04:00	Band name of the day: art works and art related merchandise
+2019-09-19T11:17:10-04:00	The Care and Feeding of the Uffington White Horse Through More Than 100 Generations https://kottke.org/19/09/the-care-and-feeding-of-the-uffington-white-horse-through-more-than-100-generations
+2019-09-19T11:21:20-04:00	Thomas Piketty's New Book Brings Political Economy Back to Its Sources - https://promarket.org/thomas-piketty-new-book-brings-political-economy-back-to-its-sources/
+2019-09-19T11:21:52-04:00	Poems William Carlos Williams Revised After Being Told By His Agent to “Do More Plums Content!” - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/poems-william-carlos-williams-revised-after-being-told-by-his-agent-to-do-more-plums-content
+2019-09-19T11:25:18-04:00	Band name of the day: a state of disoriented conflict
+2019-09-19T11:28:23-04:00	Band name of the day: the icy bleakness of things
+2019-09-19T11:40:42-04:00	Random link from the archives: https://web.archive.org/web/20180302091252/https://www.vice.com/en_us/article/a34n54/modern-monetary-theory-explained originally posted Fri Mar  2 09:12:52 EST 2018/
+2019-09-19T11:49:07-04:00	Silvio Gesell, Who Wanted To Create Money That Expired, Is Making A Comeback : Planet Money : NPR https://www.npr.org/sections/money/2019/08/27/754323652/the-strange-unduly-neglected-prophet
+2019-09-19T11:53:13-04:00	Ins and Outs of Style: Nine Stories Trace the Arc of 20th Century Architecture - 99% Invisible https://99percentinvisible.org/article/ins-and-outs-of-style-nine-stories-trace-the-arc-of-20th-century-architecture/
+2019-09-19T11:54:11-04:00	Fried Chicken Sandwich: The Patent That Allows It To Exist https://tedium.co/2019/08/29/pressure-fried-patents/
+2019-09-19T12:23:08-04:00	Band name of the day: massive semen explosion
+2019-09-19T12:39:14-04:00	Angst and the Empty Set - Issue 76: Language - Nautilus http://nautil.us/issue/76/language/angst-and-the-empty-set-rp
+2019-09-19T12:39:35-04:00	Ousterhout's Dichotomy https://wiki.tcl-lang.org/page/Ousterhout%27s+Dichotomy
+2019-09-19T13:03:49-04:00	Quick, to the rat cave! " Shall we play a game? A GPT-2 text adventure https://quicktotheratcave.tumblr.com/post/187432425523/shall-we-play-a-game-a-gpt-2-text-adventure
+2019-09-19T13:34:29-04:00	Band name of the day: accelerated death benefits
+2019-09-19T15:40:54-04:00	Random link from the archives: https://web.archive.org/web/20180325160630/https://www.youtube.com/watch?v=EcGaolLxhpQ originally posted Sun Mar 25 16:06:30 EDT 2018/
+2019-09-19T19:41:15-04:00	Random link from the archives: https://web.archive.org/web/20181226103519/https://aeon.co/essays/frankincense-and-myrrh-were-not-only-holy-but-heretical-too originally posted Wed Dec 26 10:35:19 EST 2018/
+2019-09-19T23:41:28-04:00	Random link from the archives: https://web.archive.org/web/20181112225935/https://archive.org/details/CatOnLineHelp/page/n1 originally posted Mon Nov 12 22:59:35 EST 2018/
+2019-09-19T23:57:34-04:00	Freeing Software https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/software-vs-capital-e8ab15b48390?source=friends_link&sk=10707a89d0cb2d3f66876fbcb3f872c7
+2019-09-19T23:59:36-04:00	Freeing Software https://web.archive.org/web/20190920035308/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/freeing-software-3e3ede439f20?sk=faeed756e13f8fefd93c6c599199dd3b
+2019-09-20T03:41:45-04:00	Random link from the archives: https://web.archive.org/web/20180629075759/https://davidlebech.com/thoughtflow/hello-world-is-a-dream/ originally posted Fri Jun 29 07:57:59 EDT 2018/
+2019-09-20T07:42:01-04:00	Random link from the archives: https://web.archive.org/web/20180930075517/https://medium.com/p/a-handful-of-observations-about-the-vr-revolution-8ceaf5196b2f originally posted Sun Sep 30 07:55:17 EDT 2018/
+2019-09-20T09:16:15-04:00	low budget high concept no taste
+2019-09-20T10:29:21-04:00	the global climate strike coincides with storm area 51 day (today), exactly a week after friday the 13th on a full moon. this is Meaningful.
+2019-09-20T11:42:17-04:00	Random link from the archives: https://web.archive.org/web/20190820114415/https://hackerscurator.com/pages/interviews/cast.html?who=laurencemason originally posted Tue Aug 20 11:44:15 EDT 2019/
+2019-09-20T15:42:32-04:00	Random link from the archives: https://web.archive.org/web/20180928094603/https://motherboard.vice.com/en_us/article/qvajn7/meet-the-community-keeping-obsolete-supercomputers-alive originally posted Fri Sep 28 09:46:03 EDT 2018/
+2019-09-20T19:42:46-04:00	Random link from the archives: https://web.archive.org/web/20181113072240/http://redprogramming.com/Home.html originally posted Tue Nov 13 07:22:40 EST 2018/
+2019-09-20T21:06:50-04:00	mash up: feel good inc vs peace & love incorporated
+2019-09-20T21:09:52-04:00	one man flop factory
+2019-09-20T21:15:00-04:00	The Dice Game That Conquered 18th-Century Europe - YouTube https://www.youtube.com/watch?v=hQlRNKwbGw8
+2019-09-20T21:24:07-04:00	Outbreak Company: The OG Isekai Spoof - Anime (Non)Essentials - YouTube https://www.youtube.com/watch?v=h2-So99Uic0
+2019-09-20T21:48:48-04:00	Reading Jean Baudrillard's Hyper-Capitalist Realism (pt. 1) - YouTube https://www.youtube.com/watch?v=JsB-k8jLvWY
+2019-09-20T21:50:42-04:00	Christian Horror | Renegade Cut - YouTube https://www.youtube.com/watch?v=HeTFPQFR20g
+2019-09-20T22:15:35-04:00	Why Anime in Latin America was... Different (and Better) - As Told by Cristal | Get In The Robot - YouTube https://www.youtube.com/watch?v=Vev5Gp2skhI
+2019-09-20T22:52:53-04:00	Kiki's Delivery Service & YouTube Burnout - YouTube https://www.youtube.com/watch?v=KfB69eDCbOI
+2019-09-20T23:43:00-04:00	Random link from the archives: https://web.archive.org/web/20190604094220/https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/ originally posted Tue Jun  4 09:42:20 EDT 2019/
+2019-09-21T03:43:14-04:00	Random link from the archives: https://web.archive.org/web/20190624122517/https://www.youtube.com/watch?v=C1rEtk0b4tw originally posted Mon Jun 24 12:25:17 EDT 2019/
+2019-09-21T07:43:28-04:00	Random link from the archives: https://web.archive.org/web/20170619112020/http://www.atlasobscura.com/articles/mafia-lemons-citrus-sicily-economics?utm_source=Atlas+Obscura+Daily+Newsletter&utm_campaign=3b6a8ecbb6-EMAIL_CAMPAIGN_2017_06_09&utm_medium=email&utm_term=0_f36db9c480-3b6a8ecbb6-63252673&ct=t(Newsletter_6_9_2017)&mc_cid=3b6a8ecbb6&mc_eid=fb147c2f0d originally posted Mon Jun 19 11:20:20 EDT 2017/
+2019-09-21T11:43:42-04:00	Random link from the archives: https://web.archive.org/web/20190607141607/https://britishlibrary.typepad.co.uk/untoldlives/2016/04/an-introduction-to-w-ross-ashby.html originally posted Fri Jun  7 14:16:07 EDT 2019/
+2019-09-21T14:00:19-04:00	Goin' Underground - YouTube https://www.youtube.com/watch?v=xxQJQ5Ixxw8
+2019-09-21T14:03:54-04:00	Britney Spears - Toxic But It's Change (In the House of Flies) by Deftones - YouTube https://www.youtube.com/watch?v=13wwndvI1K4
+2019-09-21T14:04:24-04:00	Nine Inch Nails - Head Like a Hole But It's Island in the Sun By Weezer - YouTube https://www.youtube.com/watch?v=pIVFmC9EsUM
+2019-09-21T14:04:39-04:00	The Feminine Horror | Renegade Cut - YouTube https://www.youtube.com/watch?v=EjDwLg2bgTk
+2019-09-21T14:46:07-04:00	The Problem With Horror Anime Discourse - YouTube https://www.youtube.com/watch?v=djFfGU1JfZM
+2019-09-21T14:49:23-04:00	hot take: horror (like comedy) is not a genre, but a mode. a genre is a set of expectations about what a piece of media will contain, while a mode is a set of reactions a piece of media can be expected to elicit. where comedy makes you laugh, horror makes you unsettled.
+2019-09-21T15:44:04-04:00	Random link from the archives: https://web.archive.org/web/20180709142241/https://www.smithsonianmag.com/history/blue-versus-green-rocking-the-byzantine-empire-113325928/ originally posted Mon Jul  9 14:22:41 EDT 2018/
+2019-09-21T18:19:46-04:00	The Tragic Fate of Sakura Matou | Fate/stay night: Heaven's Feel II. Lost Butterfly - YouTube https://www.youtube.com/watch?v=BQ1sj1kUsRw
+2019-09-21T18:33:48-04:00	"I want to get into Fate, but I don't know where to start!" - YouTube https://www.youtube.com/watch?v=M_sx7vv6B6c
+2019-09-21T18:37:11-04:00	lessons from the replay
+2019-09-21T19:44:28-04:00	Random link from the archives: https://web.archive.org/web/20190916130843/https://qualiacomputing.com/2018/12/22/what-is-love-neural-annealing-in-the-presence-of-an-intentional-object/?fbclid=IwAR0WmmaJPHint_jkDCs13z6kPIgPn9ChkSWIWSlxnVvphPnSw8baje2tbhg originally posted Mon Sep 16 13:08:43 EDT 2019/
+2019-09-21T23:44:42-04:00	Random link from the archives: https://web.archive.org/web/20190517093748/https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/ originally posted Fri May 17 09:37:48 EDT 2019/
+2019-09-22T03:45:05-04:00	Random link from the archives: https://web.archive.org/web/20181003145444/https://www.tor.com/2017/10/04/crispins-model/ originally posted Wed Oct  3 14:54:44 EDT 2018/
+2019-09-22T07:45:21-04:00	Random link from the archives: https://web.archive.org/web/20171110154719/https://www.atlasobscura.com/articles/sunspots-japanese-amateur-astronomer-sun-science originally posted Fri Nov 10 15:47:19 EST 2017/
+2019-09-22T11:45:39-04:00	Random link from the archives: https://web.archive.org/web/20181120141050/https://en.wikipedia.org/wiki/Philip_M._Parker originally posted Tue Nov 20 14:10:50 EST 2018/
+2019-09-22T15:38:48-04:00	holy shit is ad astra a stealth half-adaptation of the three stigmata of palmer eldrich
+2019-09-22T15:45:50-04:00	Random link from the archives: https://web.archive.org/web/20190703104933/https://slatestarcodex.com/2019/06/24/you-need-more-confounders/ originally posted Wed Jul  3 10:49:33 EDT 2019/
+2019-09-22T16:45:23-04:00	The Hippocratic License: An Ethical Open Source License https://firstdonoharm.dev/
