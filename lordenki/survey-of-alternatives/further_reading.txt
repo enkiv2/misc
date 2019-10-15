@@ -101,7 +101,9 @@ George Dyson.
 Pantheon Books, New York. 2012.
 
 \bibitem{fireinthevalley}
-TK \textit{Fire in the Valley}.
+TK
+Michael Swaine and Paul Freiberger.
+\textit{Fire in the Valley}.
 
 \section{Criticism}
 
