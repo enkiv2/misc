@@ -8,9 +8,12 @@ Text generation or manipulation:
 * [applyMapping.py](applyMapping.py): apply mapping created by buildVowelSubstitutionMap
 * [buildVowelSubstitutionMap.py](buildVowelSubstitutionMap.py): create a random mapping of vowels
 * [jepcah.py](jepcah.py): random Cards Against Humanity question card, with a random Jeopardy answer filled in
-* [junogenmo-2016](junogenmo-2016): Auxiliary National Novel Genration Month 2016
 * [markov2tracery.py](markov2tracery.py): given a text file input, generate a tracery grammar that is a first order markov model of that file
+* [junogenmo-2016](junogenmo-2016): Auxiliary National Novel Genration Month 2016
+* [junogenmo-2018](junogenmo-2018): Auxiliary National Novel Genration Month 2018
 * [nanogenmo-2016](nanogenmo-2016): National Novel Generation Month 2016
+* [nanogenmo-2017](nanogenmo-2017): National Novel Generation Month 2017
+* [nanogenmo-2018](nanogenmo-2018): National Novel Generation Month 2018
 * [napogenmo2017](napogenmo2017): National Poetry Generation Month 2017
 * [phrasechain](phrasechain): like a markov chain for phrases
 * [scp.gg](scp.gg): grammar for generating a SCP wiki entry
@@ -18,6 +21,7 @@ Text generation or manipulation:
 * [verbal_inarticulations.json](verbal_inarticulations.json): a tracery grammar for filler words
 * [disarticulate.py](disarticulate.py): apply typoize.py and also inject verbal inarticulations
 * [X_except_its_Y.py](X_except_its_Y.py): use wordnet to semantically shift one text stream by another
+* [colorByTF](colorByTF.py): produce an html document where the opacity of each word corresponds to its frequency (as a proxy for information content)
 
 Novelty aggregators:
 
@@ -47,8 +51,17 @@ Utilities:
 * [extract-epub.sh](extract-epub.sh): turn an epub into a text file
 * [list-dl.sh](list-dl.sh): download a playlist from youtube with helpful numbering
 * [notes.sh](notes.sh): simple shell routines for taking short notes
+* [links.sh](links.sh): simple shell routines for handling an archive of URLs (similar to a bookmarking service like postboard)
+* [post](post): a tool to post short strings to multiple microblogging services at once
+* [tpost](tpost): when posting to twitter, break long messages into threads
+* [ssb-digest](ssb-digest.sh): post a message to secure scuttlebutt with the links added with [links.sh](links.sh) that day
+* [randlinkd](randlinkd.sh): daemon to periodically post previously-archived links
 * [unpopular-posts-only.user.js](unpopular-posts-only.user.js): greasemonkey script to hide tumblr posts with too many notes
 * [update_checkouts.sh](update_checkouts.sh): update everything in the directory checked out with git or svn
+* [fix_transmission.sh](fix_transmission.sh): set a parameter that sometimes causes transmission to fail to work with certain tracker/CDN combinations
+
+Games (in progress):
+
 
 Misc:
 
@@ -58,6 +71,10 @@ Misc:
 * [ds-lib](ds-lib): small python libraries for data structures or algorithms for which there are no readily-available open source implementations easily understood by beginners
 * [kamui](kamui): composable UI project in io, with 'senketsu' io interpreter in go
 * [mtv](mtv): Minimal Transliterature Viewer -- a hypertext project on top of IPFS
+* [vidsort](vidsort.py): sort a video by frame similarity and reencode
+* [wokebroke.txt](wokebroke.txt): a list of dictionary words that rhyme with 'woke' and 'broke'
+* [fortunes](fortunes): various fortune databases
+* [templates](templates): various tracery templates
 
 Moved:
 
