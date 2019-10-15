@@ -59,6 +59,8 @@ for i in intro.txt chapter*.txt ; do
 done
 echo '\\chapter{Appendix A: Resources}' >> book.latex
 pandoc -f html -t latex <(cat ../resources-survey-of-alternatives.html | iconv -t "utf-8//IGNORE" | sed 's/<li>/\n<li>/g;s/<\/ul>\(.*\)<ul>$/<\/ul><h1>\1<\/h1><ul>/;s/href="\([^"]*\)">\([^>]*\)>/href="\1">\2><br>\&lt;\1\&gt;/') >> book.latex
+echo '\\chapter{Appendix B: Further Reading}' >> book.latex
+cat further_reading.txt >> book.latex
 echo '\\printglossaries' >> book.latex
 echo '\\glsall' >> book.latex
 echo '\\printbibliography' >> book.latex

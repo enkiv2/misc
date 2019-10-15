@@ -1,0 +1,131 @@
+\section{History and theory of information management technologies}
+
+\bibitem{memorymachines}
+Belinda Barnet.
+\textit{Memory Machines: The Evolution of Hypertext}.
+Anthem Press, London, New York, and Delhi. 2013.
+
+\bibitem{glut}
+Alex Wright.
+\textit{Glut: Mastering Information Through the Ages}.
+Cornell University Press, Ithaca and London. 2007.
+
+\bibitem{theinformation}
+James Gleick.
+\textit{The Information: A History, a Theory, a Flood}.
+Pantheon Books, New York. 2011.
+
+\bibitem{interfaceculture}
+Steven Johnson.
+\textit{Interface Culture: How New Technology Transforms the Way We Create and Communicate}.
+HarperEdge, San Francisco. 1997.
+
+\bibitem{gutenberggalaxy}
+TK
+Marshall McLuhan.
+\textit{The Gutenberg Galaxy}.
+
+\bibitem{understandingmedia}
+TK
+Marshall McLuhan.
+\textit{Understanding Media: The Extensions of Man}.
+
+\bibitem{mechanicalbride}
+TK
+Marshall McLuhan.
+\textit{The Mechanical Bride}.
+
+\section{The cybernetic lens & its impact on the culture of computing}
+
+\bibitem{cybrain}
+Andrew Pickering.
+\textit{The Cybernetic Brain: Sketches of Another Future}.
+University of Chicago Press, Chicago and London. 2010.
+
+\bibitem{countercyber}
+Fred Turner.
+\textit{From Counterculture to Cyberculture: Stewart Brand, The Whole Earth Network, and the Rise of Digital Utopianism}.
+University of Chicago Press, Chicago and London. 2006.
+
+\bibitem{ridrise}
+Thomas Rid.
+\textit{Rise of the Machines: A Cybernetic History}.
+W. W. Norton & Company, New York & London. 2016.
+
+\bibitem{encounteringamerica}
+Jessica Grogan.
+\textit{Encountering America: Humanistic Psychology, Sixties Culture & The Shaping of the Modern Self}.
+Haper Perennial, New York. 2013.
+
+\bibitem{strangerthan}
+TK
+John Higgs.
+\textit{Stranger Than We Can Imagine}.
+
+\section{Cultural histories of computing}
+
+\bibitem{dormouse}
+John Markoff.
+\textit{What The Dormouse Said: How the Sixties Counter-culture Shaped the Personal Computer Industry}.
+Penguin Books, New York. 2005.
+
+\bibitem{toolsforthought}
+TK
+Harold Rheingold.
+\textit{Tools for Thought}.
+
+\bibitem{inthebeginning}
+TK
+Neal Stephenson.
+\textit{In the Beginning... Was the Command Line}.
+
+\bibitem{levyhackers}
+Steven Levy.
+\textit{Hackers: Heroes of the Computer Revolution}.
+Penguin Books, New York. 1994.
+
+\bibitem{devouringfungus}
+Karla Jennings.
+\textit{The Devouring Fungus: Tales of the Computer Age}
+W. W. Norton & Company, New York & London. 1990.
+
+\bibitem{jargon}
+TK
+Eric S. Raymond, Guy L. Steele.
+The New Hacker's Dictionary.
+MIT Press, Cambridge, MA. 1995.
+
+\bibitem{turingscathedral}
+George Dyson.
+\textit{Turing's Cathedral: The Origins of the Digital Universe}.
+Pantheon Books, New York. 2012.
+
+\bibitem{fireinthevalley}
+TK \textit{Fire in the Valley}.
+
+\section{Criticism}
+
+\bibitem{against}
+TK
+Against the Digitized World
+
+\section{Alternatives}
+
+\bibitem{friendlyorangeglow}
+TK \textit{The Friendly Orange Glow}
+
+\bibitem{humaneinterface}
+TK
+Jef Raskin.
+\textit{The Humane Interface}.
+
+\bibitem{otlet}
+TK
+Alex Wright.
+
+\bibitem{computerlib}
+TK
+Theodor Holm Nelson.
+\textit{Computer Lib/Dream Machines}
+
+
