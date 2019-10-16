@@ -1,0 +1,1 @@
+ (echo '<html><head><title>Further Reading</title><link rel="stylesheet" type="text/css" href="../vt240.css"></head><body>'; pandoc -f latex -t html further_reading.txt ; echo "</body></html>") > further_reading.html
