@@ -3,7 +3,7 @@
 
 function linkit() {
 	[ -z "$1" ] || (
-		grep -n -- "$1" ~/.linkit || (
+		grep -a -n -- "$1" ~/.linkit || (
 			(which mass_archive 2>&1 > /dev/null && mass_archive "$1")
 			export LC_ALL=en_US.UTF-8
 			echo -e "$1\t$(date)\t$(getTitle "$1")" >> ~/.linkit
