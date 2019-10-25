@@ -22,6 +22,9 @@ http://natecull.org/wordpress/2017/07/10/dataspace-7-a-low-level-encoding/
 http://natecull.org/wordpress/2017/07/11/dataspace-8-example-movie-data/
 http://natecull.org/wordpress/2017/07/13/dataspace-9-a-tower-of-nulls-and-awkward-sets/
 http://natecull.org/wordpress/2018/08/16/dataspace-10-an-array-representation/
+Sketchpad
+https://archive.computerhistory.org/resources/access/text/2017/03/102726907-05-01-acc.pdf
+https://www.computerhistory.org/collections/catalog/102726903
 Smalltalk / Self / Alto / Morphic / Mesa / Star
 http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html
 http://history-computer.com/Library/Kay72.pdf

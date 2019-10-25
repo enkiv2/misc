@@ -10937,3 +10937,247 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-10-17T08:59:10-04:00	The Good Meditations - DEV Community '‍''‍' https://dev.to/lethargilistic/the-good-meditations-46ha
 2019-10-17T09:17:40-04:00	Ottoman cosmopolitanism and the myth of the sectarian Middle East | Aeon Essays https://aeon.co/essays/ottoman-cosmopolitanism-and-the-myth-of-the-sectarian-middle-east
 2019-10-17T10:01:10-04:00	Random link from the archives: https://web.archive.org/web/20190108093636/https://georgianera.wordpress.com/2018/07/26/18th-century-business-women-trade-cards/ originally posted Tue Jan  8 09:36:36 EST 2019/
+2019-10-17T10:08:49-04:00	New Order put a lot of effort into automating performances and that feels like it's worth analysing as, like, a reaction formation
+2019-10-17T10:11:43-04:00	How A Massive Facebook Scam Siphoned Millions Of Dollars From Unsuspecting Boomers https://www.buzzfeednews.com/article/craigsilverman/facebook-subscription-trap-free-trial-scam-ads-inc
+2019-10-17T10:23:22-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-17T10:23:29-04:00	MfoM will be 90% off during itchio's Halloween sale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-17T10:33:41-04:00	Band name of the day: dangerously tall
+2019-10-17T12:40:05-04:00	Band name of the day: wakeword
+2019-10-17T12:54:24-04:00	The Messy, Beautiful Worldbuilding of The Lion, the Witch and the Wardrobe  |  Tor.com https://www.tor.com/2019/10/16/the-messy-beautiful-worldbuilding-of-the-lion-the-witch-and-the-wardrobe/
+2019-10-17T13:51:00-04:00	Bernie’s Policies Are Good, But How Can He Appeal to the Absolute Worst People Ever? - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/bernies-policies-are-good-but-how-can-he-appeal-to-the-absolute-worst-people-ever
+2019-10-17T13:52:05-04:00	Asynchronous Communication: The Real Reason Remote Workers Are More Productive https://doist.com/blog/asynchronous-communication/
+2019-10-17T13:52:52-04:00	Braille music - RNIB - See differently https://www.rnib.org.uk/practical-help/reading/braille-and-moon-tactile-codes/braille-music
+2019-10-17T13:53:49-04:00	BrachioGraph - the cheapest, simplest possible pen-plotter — BrachioGraph 0.1 documentation https://brachiograph.readthedocs.io/en/latest/
+2019-10-17T13:54:52-04:00	Why Office Workers Can't Sleep (and Why That's Bad) | Literary  Hub https://lithub.com/why-office-workers-cant-sleep-and-why-thats-bad/
+2019-10-17T14:01:18-04:00	Random link from the archives: https://web.archive.org/web/20190418094845/https://www.vulture.com/2019/04/david-robert-mitchell-on-under-the-silver-lake.html originally posted Thu Apr 18 09:48:45 EDT 2019/
+2019-10-17T14:01:42-04:00	The World-Wide Work. " Ethan Marcotte https://ethanmarcotte.com/wrote/the-world-wide-work/
+2019-10-17T15:23:40-04:00	Software Against Humanity? An Illichian perspective on the industrial era of software https://www.cs.kent.ac.uk/people/staff/srk21/research/talks/kell19software-slides.pdf
+2019-10-17T17:21:05-04:00	Band name of the day: fleeting indecency
+2019-10-17T17:24:09-04:00	my favorite genre of podcast: women with doctorates gushing about horror movies they like
+2019-10-17T17:36:35-04:00	Dialectic of Enlightenment: The Culture Industry - Part II - YouTube https://www.youtube.com/watch?v=J_qm4DtPQMM
+2019-10-17T17:53:44-04:00	Harder, Better, Faster, Stronger | Daft Punk | Pomplamoose - YouTube https://www.youtube.com/watch?v=fUpdfpOPf4Y
+2019-10-17T18:01:25-04:00	Random link from the archives: https://web.archive.org/web/20190618075610/https://www.animenewsnetwork.com/feature/2019-06-17/hideaki-anno-before-evangelion/.147940 originally posted Tue Jun 18 07:56:10 EDT 2019/
+2019-10-17T22:01:38-04:00	Random link from the archives: https://web.archive.org/web/20170818103731/http://www.math.cornell.edu/~dwh/papers/crochet/crochet.html originally posted Fri Aug 18 10:37:31 EDT 2017/
+2019-10-18T02:01:51-04:00	Random link from the archives: https://web.archive.org/web/20180704113951/https://www.youtube.com/watch?v=a-Dj6XviBQM originally posted Wed Jul  4 11:39:51 EDT 2018/
+2019-10-18T03:23:40-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-18T03:23:49-04:00	MfoM will be 90% off during itchio's Halloween sale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-18T06:02:04-04:00	Random link from the archives: https://web.archive.org/web/20190128094446/http://langsec.org/occupy/ originally posted Mon Jan 28 09:44:46 EST 2019/
+2019-10-18T10:02:18-04:00	Random link from the archives: https://web.archive.org/web/20170619085811/http://www.salon.com/2017/06/17/oliver-stone-deconstructs-putin-an-evil-genius-who-made-history-or-a-shrewd-but-small-minded-apparatchik-writ-large/?curator=MediaREDEF originally posted Mon Jun 19 08:58:11 EDT 2017/
+2019-10-18T10:51:54-04:00	Convivial Computing Salon 2020  - ‹Programming› 2020 https://2020.programming-conference.org/home/salon-2020#Call-for-Submissions
+2019-10-18T12:41:21-04:00	article idea: 'a brief and only marginally accurate history of the EC comics diaspora'
+2019-10-18T14:02:38-04:00	Random link from the archives: https://web.archive.org/web/20181026171257/https://www.youtube.com/watch?v=WMtHFGK0hm4 originally posted Fri Oct 26 17:12:57 EDT 2018/
+2019-10-18T14:39:12-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-18T14:39:21-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-18T18:02:52-04:00	Random link from the archives: https://web.archive.org/web/20181227105936/https://fs.blog/2012/03/daniel-kahneman-on-intuition/ originally posted Thu Dec 27 10:59:36 EST 2018/
+2019-10-18T18:44:15-04:00	halloween forever n everrr - YouTube https://www.youtube.com/watch?v=2FIGIbtphf4
+2019-10-18T18:52:06-04:00	THEY LIVE - Glasses or blindfolds? Film analysis - YouTube https://www.youtube.com/watch?v=V3ZFcJhgwy4
+2019-10-18T20:56:45-04:00	Band name of the day: intermodulation distortion
+2019-10-18T21:01:14-04:00	video game idea: 'finish my sentences' -- you pair up with a partner, and each takes turns choosing a prompt from a list provided by the game -- sentences missing the final word. The two of you type in a final word, and if you match, you get a number of points inversely proportional to how common that completion is (initially in some corpus like gutenberg and later in terms of other players). There is no global scoreboard (to prevent gaming rank) but each player has a personal scoreboard for how many points games with particular friends tend to have. The goal of the game is to understand how your partner thinks in order to sync up with them, while diverging from the herd.
+2019-10-18T21:01:56-04:00	Band name of the day: altered chord
+2019-10-18T21:06:34-04:00	Band name of the day: unbelievable pounding talent
+2019-10-18T22:03:13-04:00	Random link from the archives: https://web.archive.org/web/20180915193144/https://medium.com/p/political-economics-i-guess-547187ca25a originally posted Sat Sep 15 19:31:44 EDT 2018/
+2019-10-19T02:03:28-04:00	Random link from the archives: https://web.archive.org/web/20180611095515/https://ipfs.io/ipfs/QmNURh26yenpqK5hK3ahRZhQJsaUttumepjtRWiVZXhnN1/p/webrtc-ipfs-chat.html originally posted Mon Jun 11 09:55:15 EDT 2018/
+2019-10-19T06:03:37-04:00	Random link from the archives: https://web.archive.org/web/20181130103026/https://www.youtube.com/watch?v=dOBpJF9zQKY originally posted Fri Nov 30 10:30:26 EST 2018/
+2019-10-19T07:39:29-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-19T07:39:36-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-19T10:03:55-04:00	Random link from the archives: https://web.archive.org/web/20190109120831/https://alhassy.github.io/PathCat/ originally posted Wed Jan  9 12:08:31 EST 2019/
+2019-10-19T10:46:45-04:00	Dark Cravings is an interesting movie only because Tom Savini is giving his all (as an actor and effects creator) while literally everybody else, from script to costume to casting to makeup to actors to soundtrack, is phoning it in completely.
+2019-10-19T11:19:00-04:00	eagerly a waiting the next marvell movie,, avengers: begin game
+2019-10-19T11:20:48-04:00	How to Finally Defeat Your Boss - YouTube https://www.youtube.com/watch?v=GGO8fqvNO78
+2019-10-19T11:34:22-04:00	The Truth is Terrible: Nietzsche's Idea of an Aesthetic Justification for Existence - YouTube https://www.youtube.com/watch?v=1aYr1xguMyg
+2019-10-19T13:27:40-04:00	goblin metal
+2019-10-19T13:35:10-04:00	Band name of the day: peculiar aversion & terror
+2019-10-19T14:04:11-04:00	Random link from the archives: https://web.archive.org/web/20180919114154/https://medium.com/p/age-ism-transhumanism-and-silicon-valleys-cognitive-dissonance-c9ef444da2a0 originally posted Wed Sep 19 11:41:54 EDT 2018/
+2019-10-19T14:30:17-04:00	Fifth-generation programming language - Wikipedia https://en.wikipedia.org/wiki/Fifth-generation_programming_language
+2019-10-19T14:50:50-04:00	the intersection of bibliomancy, cartomancy, AND coluromancy
+2019-10-19T14:51:46-04:00	coluromancy is divination by clouds and not divination by clowns, right?
+2019-10-19T18:04:33-04:00	Random link from the archives: https://web.archive.org/web/20190918141517/https://www.vice.com/en_us/article/ne879z/i-tracked-someone-with-license-plate-readers-drn originally posted Wed Sep 18 14:15:17 EDT 2019/
+2019-10-19T22:04:51-04:00	Random link from the archives: https://web.archive.org/web/20181206082643/https://tedium.co/2018/12/04/broken-chains-fast-food-restaurants/ originally posted Thu Dec  6 08:26:43 EST 2018/
+2019-10-20T00:39:49-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-20T00:39:57-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-20T02:05:07-04:00	Random link from the archives: https://web.archive.org/web/20190318085135/https://www.wired.com/story/i-bought-used-voting-machines-on-ebay/ originally posted Mon Mar 18 08:51:35 EDT 2019/
+2019-10-20T06:05:21-04:00	Random link from the archives: https://web.archive.org/web/20190808081148/https://filmschoolrejects.com/paperbacks-from-hell-go-to-the-movies/ originally posted Thu Aug  8 08:11:48 EDT 2019/
+2019-10-20T10:05:39-04:00	Random link from the archives: https://web.archive.org/web/20190818082005/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/does-innovation-have-anything-to-do-with-commerce-3b958d218e41 originally posted Sun Aug 18 08:20:05 EDT 2019/
+2019-10-20T14:05:56-04:00	Random link from the archives: https://web.archive.org/web/20180621072209/https://aeon.co/essays/what-can-depersonalisation-disorder-say-about-the-self originally posted Thu Jun 21 07:22:09 EDT 2018/
+2019-10-20T17:40:13-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-20T17:40:23-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-20T18:06:13-04:00	Random link from the archives: https://web.archive.org/web/20170705113656/https://nplusonemag.com/online-only/online-only/disrupt-the-citizen/?curator=MediaREDEF originally posted Wed Jul  5 11:36:56 EDT 2017/
+2019-10-20T18:27:37-04:00	Yes, I'm Quaffing the Elixir: "Very little of what a programmer expresses in a p…" - Mastodon https://mastodon.social/@beadsland/102996589000472855
+2019-10-20T18:29:40-04:00	Bad idea of the day: It's called "Vampirella vs Barbarella" except it actually involves Vampirella, Barbarella, Elvira, and Blackula teaming up against the Dracula-headed secret society The Old World Order
+2019-10-20T18:35:30-04:00	Band name of the day: click to pray functionality
+2019-10-20T18:42:50-04:00	Eric Tabuchi https://www.erictabuchi.net/filter/Works/Architecture-d-entrainement
+2019-10-20T22:06:32-04:00	Random link from the archives: https://web.archive.org/web/20180625160201/https://jjg.2soc.net/2018/06/13/foss-isnt-capitalism/ originally posted Mon Jun 25 16:02:01 EDT 2018/
+2019-10-21T02:06:52-04:00	Random link from the archives: https://web.archive.org/web/20180911100852/http://hyperstition.abstractdynamics.org/archives/004932.html originally posted Tue Sep 11 10:08:52 EDT 2018/
+2019-10-21T06:07:11-04:00	Random link from the archives: https://web.archive.org/web/20170807115820/http://www.businessinsider.com/rest-and-vest-millionaire-engineers-who-barely-work-silicon-valley-2017-7?curator=MediaREDEF originally posted Mon Aug  7 11:58:20 EDT 2017/
+2019-10-21T08:18:51-04:00	Blood Lust: A Primer on Queerness in the Vampire Genre — Talk Film Society https://talkfilmsociety.com/columns/blood-lust-a-primer-on-queerness-in-the-vampire-genre
+2019-10-21T08:21:47-04:00	Philosophical Disquisitions: Assessing the Moral Status of Robots: A Shorter Defence of Ethical Behaviourism https://philosophicaldisquisitions.blogspot.com/2019/10/assessing-moral-status-of-robots.html
+2019-10-21T08:39:00-04:00	Mu: A minimal hobbyist computing stack http://akkartik.name/post/mu-2019-1
+2019-10-21T08:42:09-04:00	Spring Thing Festival of Interactive Fiction https://www.springthing.net/2020/index.html
+2019-10-21T08:43:22-04:00	Beyond 'Monster Mash': 20 Novelty Songs from the Mid-Century Horror Craze - Flashbak https://flashbak.com/beyond-monster-mash-20-novelty-songs-from-the-mid-century-horror-craze-366629/
+2019-10-21T08:44:25-04:00	Gekiga: The Other Manga | Wave Motion Cannon https://wavemotioncannon.com/2019/10/17/gekiga/
+2019-10-21T09:24:24-04:00	Blood money is fine with us, says GitLab: Vetting non-evil customers is 'time consuming, potentially distracting' • The Register https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/
+2019-10-21T10:07:25-04:00	Random link from the archives: https://web.archive.org/web/20190616170208/https://theweek.com/articles/840360/weird-world-kidnapping-insurance originally posted Sun Jun 16 17:02:08 EDT 2019/
+2019-10-21T10:40:36-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-21T10:40:45-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-21T11:02:31-04:00	Imagination and the Distribution of Futurity https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/imagination-the-distribution-of-futurity-4540bf6b882e?source=friends_link&sk=0bff5cbd2d9dda151f86d2422404f894
+2019-10-21T11:42:49-04:00	Digital dystopia: how algorithms punish the poor | Technology | The Guardian https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor
+2019-10-21T12:44:28-04:00	Why do we like to visit scary houses that creep us out? | Aeon Essays https://aeon.co/essays/why-do-we-like-to-visit-scary-houses-that-creep-us-out
+2019-10-21T12:51:46-04:00	Should the National Register of Historic Places Apply to Websites? https://tedium.co/2019/10/17/historic-websites-preservation/
+2019-10-21T12:53:40-04:00	Bad idea of the day: every year representatives get together & choose which properties are most culturally influential, & then they are placed in the public domain
+2019-10-21T12:57:02-04:00	Oscean https://wiki.xxiivv.com/#orca
+2019-10-21T12:58:34-04:00	Browse | Nickels and Dimes https://dimenovels.lib.niu.edu/islandora/search
+2019-10-21T12:59:32-04:00	A Wuxia Horror Primer — Talk Film Society https://talkfilmsociety.com/articles/a-wuxia-horror-primer
+2019-10-21T13:05:46-04:00	inverse poe's law is a problem: sometimes, when somebody who is clearly smart & talented makes something wildly warped, you want to treat it as a criticism of what it depicts. but ultimately, hitchcock's depiction of controlling men in vertigo (& polanski's in repulsion & rosemary's baby) was not clearly not intended to be as scathing as we all thought
+2019-10-21T13:46:17-04:00	Features I need to add to fern: a flag for 'only show notifications from mutuals'
+2019-10-21T13:52:10-04:00	How American CEOs got so rich - YouTube https://www.youtube.com/watch?v=ylLTMYt24lA
+2019-10-21T13:52:43-04:00	Band name of the day: nipples and hammers
+2019-10-21T13:53:24-04:00	Band name of the day: cemetery guns
+2019-10-21T14:07:39-04:00	Random link from the archives: https://web.archive.org/web/20180325161206/https://www.youtube.com/watch?v=EJsD-3jtXz0 originally posted Sun Mar 25 16:12:06 EDT 2018/
+2019-10-21T14:14:10-04:00	Band name of the day: the dry gripes
+2019-10-21T18:07:58-04:00	Random link from the archives: https://web.archive.org/web/20190628081305/http://canonical.org/~kragen/eotf/ originally posted Fri Jun 28 08:13:05 EDT 2019/
+2019-10-21T22:08:18-04:00	Random link from the archives: https://web.archive.org/web/20190611183213/https://www.youtube.com/watch?v=7weZ0TNRcuw originally posted Tue Jun 11 18:32:13 EDT 2019/
+2019-10-22T02:08:37-04:00	Random link from the archives: https://web.archive.org/web/20180501145133/https://www.youtube.com/watch?v=3PFagLd6Jh4 originally posted Tue May  1 14:51:33 EDT 2018/
+2019-10-22T03:41:02-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-22T03:41:11-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-22T06:08:57-04:00	Random link from the archives: https://web.archive.org/web/20170707110116/http://www.locusmag.com/Perspectives/2017/07/cory-doctorow-be-the-first-one-to-not-do-something-that-no-one-else-has-ever-not-thought-of-doing-before/ originally posted Fri Jul  7 11:01:16 EDT 2017/
+2019-10-22T07:41:40-04:00	Monogatari: The Sexuality is the Narrative | Wave Motion Cannon https://wavemotioncannon.com/2016/02/25/monogatari-the-sexuality-is-the-narative/
+2019-10-22T08:40:39-04:00	Steven Pinker, Sam Harris and the epidemic of annoying white male intellectuals | Salon.com https://www.salon.com/2019/10/20/steven-pinker-sam-harris-and-the-epidemic-of-annoying-white-male-intellectuals/
+2019-10-22T09:11:37-04:00	The Little-Known 'Slow Fire' That's Destroying All Our Books | Literary  Hub https://lithub.com/the-little-known-slow-fire-thats-destroying-all-our-books/
+2019-10-22T10:09:17-04:00	Random link from the archives: https://web.archive.org/web/20190710075141/https://www.polygon.com/2019/7/8/20680953/king-kong-xbox-360-game-rayman-michel-ancel originally posted Wed Jul 10 07:51:41 EDT 2019/
+2019-10-22T11:07:44-04:00	Band name of the day: perfect sleep
+2019-10-22T11:53:52-04:00	You Can't Rehabilitate George W. Bush | Renegade Cut - YouTube https://www.youtube.com/watch?v=-pk9reGKR8c
+2019-10-22T12:25:14-04:00	Band name of the day: PAINWORM
+2019-10-22T13:23:29-04:00	Building an Open Library, Together | Open Library https://openlibrary.org/sponsorship
+2019-10-22T13:26:53-04:00	Coffee is Hard https://www.stilldrinking.org/coffee-is-hard
+2019-10-22T13:29:02-04:00	Taking Mastodon security to the next level - part 1: Encrypt your toots - DEV Community '‍''‍' https://dev.to/tanker/taking-mastodon-security-to-the-next-level-part-1-encrypt-your-toots-2p00
+2019-10-22T13:29:56-04:00	Neon Genesis Evangelion - Fonts In Use https://fontsinuse.com/uses/28760/neon-genesis-evangelion
+2019-10-22T13:42:40-04:00	The Soul of a New Machine + Auditing Algorithms https://buttondown.email/dancohen/archive/1cdf2ed3-439a-4ba3-a4d5-c9d217f3970b
+2019-10-22T13:46:05-04:00	Computers by the Millions https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/cbm.html
+2019-10-22T13:46:47-04:00	Visualizing Image Fields https://s3-us-west-2.amazonaws.com/lab-apps/pix-plot/index.html
+2019-10-22T13:50:20-04:00	Mark Zuckerberg's Promise to Respect Free Expression Is So Far Just Empty Words - VICE https://www.vice.com/en_us/article/mbmk7b/mark-zuckerbergs-promise-to-respect-free-expression-is-so-far-just-empty-words
+2019-10-22T14:09:32-04:00	Random link from the archives: https://web.archive.org/web/20190902165943/https://www.stormingtheivorytower.com/2019/08/save-spidey-into-spider-verses-failure.html originally posted Mon Sep  2 16:59:43 EDT 2019/
+2019-10-22T14:25:27-04:00	Devin Nunes and the Power of Keyword Signaling | WIRED https://www.wired.com/story/devin-nunes-and-the-dark-power-of-keyword-signaling/
+2019-10-22T14:28:15-04:00	A Modest Privacy Protection Proposal https://blog.lopp.net/modest-privacy-protection-proposal/
+2019-10-22T14:29:45-04:00	Lesser Known Coding Fonts https://vfoley.xyz/lesser-known-coding-fonts/
+2019-10-22T14:41:51-04:00	Gonzo Data Science – .txtLAB @ McGill https://txtlab.org/2019/09/gonzo-data-science/?utm_source=dancohen
+2019-10-22T14:48:35-04:00	Cascading Cache Invalidation — Philip Walton https://philipwalton.com/articles/cascading-cache-invalidation/
+2019-10-22T14:49:55-04:00	Facebook isn’t free speech, it’s algorithmic amplification optimized for outrage – TechCrunch https://techcrunch.com/2019/10/20/facebook-isnt-free-speech-its-algorithmic-amplification-optimized-for-outrage/
+2019-10-22T14:51:10-04:00	No Maintenance Intended http://unmaintained.tech/
+2019-10-22T15:05:42-04:00	The Current Status of GAINAX – Interview: Hiroyuki Yamaga & Yoshiyuki Sadamoto (September, 2016) | Wave Motion Cannon https://wavemotioncannon.com/2017/02/21/the-current-status-of-gainax-interview-hiroyuki-yamaga-yoshiyuki-sadamoto-september-2016/
+2019-10-22T15:18:34-04:00	Medium is about to change payments from number of claps to total read time, which will either drastically increase my earnings or drastically decrease them but will also make it hard to hate-read stupid articles without supporting the stupid authors.
+2019-10-22T15:22:23-04:00	Rafael Lozano-Hemmer - Project "33 Questions per Minute" http://www.lozano-hemmer.com/artworks/33_questions_per_minute.php
+2019-10-22T15:23:03-04:00	Excavating, Archiving, Making Media Inscriptions // In and Beyond the Media Archaeology Lab | loriemerson https://loriemerson.net/2019/10/16/excavating-archiving-making-media-inscriptions-in-and-beyond-the-media-archaeology-lab/
+2019-10-22T15:55:09-04:00	NETWORK SHARED VARIABLE PROCESSOR http://www.rogerdmoore.ca/INF/87QQPotyok4.htm
+2019-10-22T15:56:09-04:00	Terminal-Oriented Computer-Communication Networks http://www.rogerdmoore.ca/PS/TONET/TON.html
+2019-10-22T15:57:32-04:00	Renata Ávila: "The Internet of creation disappeared. Now we have the Internet of surveillance and control” | CCCB LAB http://lab.cccb.org/en/renata-avila-the-internet-of-creation-disappeared-now-we-have-the-internet-of-surveillance-and-control/
+2019-10-22T17:41:01-04:00	fogus: The Marginalia Manifesto http://blog.fogus.me/2011/01/05/the-marginalia-manifesto/
+2019-10-22T17:43:16-04:00	programming for the next billion (Not Responding) https://sunshinegardens.org/~xj9/journal/posts/2019/programming-for-the-next-billion/
+2019-10-22T17:59:47-04:00	Dril didn’t sell out you sold out | The Outline https://theoutline.com/post/8108/dril-adult-swim-show-selling-out?zd=3&zi=qcppwn7s
+2019-10-22T18:05:19-04:00	Some great heavy psych shit on side B of this year's vintage obscura halloween playlist: https://www.youtube.com/watch?v=aoWjmIEeubU&t=31m
+2019-10-22T18:09:41-04:00	Random link from the archives: https://web.archive.org/web/20171004120838/https://www.youtube.com/watch?v=9E22CWmOpsk originally posted Wed Oct  4 12:08:38 EDT 2017/
+2019-10-22T18:19:48-04:00	How We Came to Live in “Cursed” Times | The New Yorker https://www.newyorker.com/culture/cultural-comment/how-we-came-to-live-in-cursed-times
+2019-10-22T19:48:55-04:00	Band name of the day: sample text
+2019-10-22T19:49:10-04:00	wave motion canon
+2019-10-22T19:49:21-04:00	wave motion kanon
+2019-10-22T20:41:24-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-22T20:41:33-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-22T22:09:55-04:00	Random link from the archives: https://web.archive.org/web/20181129104241/https://xenogothic.com/2018/10/18/notes-on-the-anti-praxis-of-nietzsches-postcapitalist-will/ originally posted Thu Nov 29 10:42:41 EST 2018/
+2019-10-23T02:10:15-04:00	Random link from the archives: https://web.archive.org/web/20190130121803/http://www.cgl.uwaterloo.ca/csk/projects/mazes/ originally posted Wed Jan 30 12:18:03 EST 2019/
+2019-10-23T06:10:37-04:00	Random link from the archives: https://web.archive.org/web/20180223123453/https://monoskop.org/Bauhaus#Books originally posted Fri Feb 23 12:34:53 EST 2018/
+2019-10-23T08:08:43-04:00	The Utopian Vision That Explains Renaissance Fairs - CityLab  https://www.citylab.com/life/2019/10/renaissance-fest-faire-history-maryland-minnesota-medieval/600397/
+2019-10-23T08:08:59-04:00	sexy oozing pustule costume
+2019-10-23T08:18:21-04:00	What It's Like to Build and Operate a Tiny Traveling Bookshop - Atlas Obscura https://www.atlasobscura.com/articles/life-in-a-traveling-bookshop
+2019-10-23T08:43:51-04:00	Capitalism is modernity's most beguiling, dangerous enchantment | Aeon Essays https://aeon.co/essays/capitalism-is-modernitys-most-beguiling-dangerous-enchantment
+2019-10-23T08:48:50-04:00	Development as a chapter in the moral tale of economics | Aeon Essays https://aeon.co/essays/development-as-a-chapter-in-the-moral-tale-of-economics
+2019-10-23T08:51:04-04:00	An Alternative History of the 'Radical' Suburbs - CityLab  https://www.citylab.com/design/2019/04/radical-suburbs-book-secret-history-neighborhoods/586312/
+2019-10-23T08:55:21-04:00	Tape Hiss: The Underlying Noise Quietly Driving Modern Music https://tedium.co/2019/10/22/tape-hiss-noise-history/
+2019-10-23T08:58:51-04:00	We have the tools and technology to work less and live better | Aeon Ideas https://aeon.co/ideas/we-have-the-tools-and-technology-to-work-less-and-live-better
+2019-10-23T08:59:27-04:00	Stop using “millennial“ when you really mean “yuppie.” https://slate.com/human-interest/2019/10/stop-overusing-millennials-we-dont-all-have-money.html
+2019-10-23T09:00:26-04:00	Where the Image Flows: How Sidewalk Labs’ Public Relations Came to Dominate Journalism - Failed Architecture https://failedarchitecture.com/where-the-image-flows-how-sidewalk-labs-public-relations-came-to-dominate-journalism/
+2019-10-23T09:05:18-04:00	Kill la Kill - Fonts In Use https://fontsinuse.com/uses/14230/kill-la-kill
+2019-10-23T09:07:20-04:00	Study: How smooth-talking professors can lull students into thinking they've learned more than they have https://www.insidehighered.com/news/2019/09/09/study-how-smooth-talking-professors-can-lull-students-thinking-theyve-learned-more
+2019-10-23T09:10:13-04:00	When MS Paint ruled the fandom world: An innovative webcomic, 10 years later | Ars Technica https://arstechnica.com/gaming/2019/10/fans-as-co-consiprators-how-community-built-reshaped-a-10-year-old-webcomic/
+2019-10-23T09:11:05-04:00	35 Greatest Horror Soundtracks – Rolling Stone https://www.rollingstone.com/music/music-lists/35-greatest-horror-soundtracks-modern-masters-gatekeepers-choose-126190/
+2019-10-23T09:14:17-04:00	Existential Comics: Interview with Corey Mohler | Blog of the APA https://blog.apaonline.org/2016/12/01/existential-comics-interview-with-corey-mohler/
+2019-10-23T09:27:11-04:00	QOT fucking D: "Reality — which allegedly exists, despite the lack of credible witnesses — is mysterious."
+2019-10-23T09:27:33-04:00	On the Design of Escaped Realities https://www.ribbonfarm.com/2015/01/16/on-the-design-of-escaped-realities/
+2019-10-23T09:28:41-04:00	Hacking pass codes with De Bruijn sequences https://www.johndcook.com/blog/2019/10/22/hacking-with-de-bruijn/
+2019-10-23T09:31:58-04:00	AN ENGINEERING VIEW OF THE LRL OCTOPUS COMPUTER NETWORK http://www.computer-history.info/Page4.dir/pages/Octopus.dir/index.html
+2019-10-23T10:10:56-04:00	Random link from the archives: https://web.archive.org/web/20191004141006/https://www.wsj.com/articles/why-kids-should-call-the-robot-it-11566811801 originally posted Fri Oct  4 14:10:06 EDT 2019/
+2019-10-23T10:17:35-04:00	Sutherland's Sketchpad thesis: https://archive.computerhistory.org/resources/access/text/2017/03/102726907-05-01-acc.pdf
+2019-10-23T10:24:53-04:00	Some cyberpunky fragments I wrote a couple years ago: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/as-he-brushed-past-a-cluster-of-hyper-dandies-their-tattoos-glowed-and-squirmed-pantomiming-3aa2d528edc3 https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/thank-you-for-being-prime-the-impossibly-beautiful-anime-hologram-stewardess-says-as-six-axis-53043ee52228
+2019-10-23T10:28:34-04:00	Reposting my short horror fiction for spooky season: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/she-awaited-the-turkeys-8cf1abff3621 https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-lazarus-pose-6d0b197291d3 https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-house-on-foulness-29592a4eabd8?source=friends_link&sk=fc25d309f86d4db81e9d90ca132142b4 ; these stories are adapted (in modified form) in my upcoming VN, Trilogy.
+2019-10-23T11:18:12-04:00	Band name of the day: complicated airflow
+2019-10-23T11:30:24-04:00	Why Japanese Cyberpunk is Different - YouTube https://www.youtube.com/watch?v=Z7y_wjc0Jf0
+2019-10-23T11:45:54-04:00	Who ruined Zombies? - YouTube https://www.youtube.com/watch?v=Fjm6gdzhoTs
+2019-10-23T13:41:40-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-23T13:41:47-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-23T14:11:05-04:00	Random link from the archives: https://web.archive.org/web/20180312170346/https://www.youtube.com/watch?v=ClGAApZYIvI originally posted Mon Mar 12 17:03:46 EDT 2018/
+2019-10-23T14:22:00-04:00	I Study UFOs and This Is the Best UFO Documentary Ever Made - VICE https://www.vice.com/en_us/article/vb5xaa/witness-of-another-world-is-the-best-ufo-movie-ever-made
+2019-10-23T14:33:26-04:00	A visual history of Soviet anti-religious artwork / Boing Boing https://boingboing.net/2019/10/23/antitheology.html
+2019-10-23T14:37:42-04:00	The Dead, In Their Uncontrollable Power - Uncanny Magazine https://uncannymagazine.com/article/the-dead-in-their-uncontrollable-power/
+2019-10-23T14:39:55-04:00	The PNSE Paper | Slate Star Codex https://slatestarcodex.com/2019/10/21/the-pnse-paper/
+2019-10-23T14:45:15-04:00	Book Review: Against The Grain | Slate Star Codex https://slatestarcodex.com/2019/10/14/book-review-against-the-grain/
+2019-10-23T17:13:25-04:00	I Love You Too, Monogats | Wave Motion Cannon https://wavemotioncannon.com/2016/03/04/i-love-you-too-monogats/
+2019-10-23T17:15:11-04:00	Band name of the day: the fresh horrors device
+2019-10-23T17:16:05-04:00	Jenny Odell, How to Do Nothing - XOXO Festival (2019) - YouTube https://www.youtube.com/watch?v=dveUrpp6vs8
+2019-10-23T17:17:14-04:00	Band name of the day: book tarot
+2019-10-23T17:21:22-04:00	Band name of the day: militant uslessness
+2019-10-23T18:11:21-04:00	Random link from the archives: https://web.archive.org/web/20191015085614/https://emshort.blog/2019/02/05/story-robert-mckee/ originally posted Tue Oct 15 08:56:14 EDT 2019/
+2019-10-23T18:39:05-04:00	were OreSuki even marginally less dogshit i would lap it up because i live for shitty harem comedies, but it literally spents half the first episode slowly explaining the pun nicknames of people who haven't been introduced yet & so it was unwatchable
+2019-10-23T18:44:05-04:00	Call of Cthulhu: Shadow of the Comet | Forgotten Gems - YouTube https://www.youtube.com/watch?v=O7IH__65YzY
+2019-10-23T19:30:13-04:00	Rage Against the Machine - Bulls on Parade But It's Stayin' Alive by Bee Gees - YouTube https://www.youtube.com/watch?v=X1O3VLIWJ68
+2019-10-23T19:53:51-04:00	The Lego Movie: An Anti Capitalist Commodity (ft. Gutian) - YouTube https://www.youtube.com/watch?v=G2S3uVxufPA
+2019-10-23T19:58:34-04:00	Anime Mythbusters #2 | "Anime is Just Made on Computers These Days" - YouTube https://www.youtube.com/watch?v=xSMAL-Em5AM
+2019-10-23T22:11:44-04:00	Random link from the archives: https://web.archive.org/web/20190919235310/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/freeing-software-3e3ede439f20?sk=faeed756e13f8fefd93c6c599199dd3b originally posted Thu Sep 19 23:53:10 EDT 2019/
+2019-10-24T02:11:54-04:00	Random link from the archives: https://web.archive.org/web/20180711120419/http://augmentingcognition.com/ltm.html originally posted Wed Jul 11 12:04:19 EDT 2018/
+2019-10-24T06:12:08-04:00	Random link from the archives: https://web.archive.org/web/20190515102219/https://hackaday.com/2019/05/14/what-happened-with-supermicro/ originally posted Wed May 15 10:22:19 EDT 2019/
+2019-10-24T06:41:59-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-24T06:42:07-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-24T08:52:59-04:00	Band name of the day: skinterface
+2019-10-24T08:53:55-04:00	Bunker in a Box: Multifunctional WWII Furniture Kits Designed for Sheltering in Place - 99% Invisible https://99percentinvisible.org/article/bunker-in-a-box-multifunctional-wwii-furniture-kits-designed-for-sheltering-in-place/
+2019-10-24T09:16:12-04:00	IPSA and the Phone Monopolies http://www.rogerdmoore.ca/INF/EIPSPTTa.html
+2019-10-24T09:20:43-04:00	The Corpse Rider  https://longreads.com/2019/10/24/the-corpse-rider/
+2019-10-24T09:21:38-04:00	Band name of the day: this burning-house of a world
+2019-10-24T10:08:00-04:00	80×25 «  blarg? http://exple.tive.org/blarg/2019/10/23/80x25/
+2019-10-24T10:12:17-04:00	Random link from the archives: https://web.archive.org/web/20190514080203/https://wide-books.com/the-fools-journey.html originally posted Tue May 14 08:02:03 EDT 2019/
+2019-10-24T10:32:13-04:00	We need more extremely cheap movies. We need more movies where you and your friends shoot the footage on your phone & then cook frozen ravioli or eat peanut butter sandwiches after the shoot. When you do the effects yourself, instead of laughing at it, you can be proud of it, because you did it with dollar store catsup and the big movie did it with million dollar CG and it's more than one one-millionth as good as the big movie's effect.
+2019-10-24T10:34:04-04:00	What’s the Difference Between Yurei and Yokai? | 百物語怪談会 Hyakumonogatari Kaidankai https://hyakumonogatari.com/2013/11/15/whats-the-difference-between-yurei-and-yokai/
+2019-10-24T10:37:40-04:00	Neanderthal glue was a bigger deal than we thought | Ars Technica https://arstechnica.com/science/2019/10/neanderthal-glue-was-a-bigger-deal-than-we-thought/
+2019-10-24T10:37:51-04:00	Bernie Sanders Vows to Revive Criminal Prosecutions of CEOs https://theintercept.com/2019/10/23/bernie-sanders-sherman-antitrust-act-monopolies/
+2019-10-24T10:38:03-04:00	The Grandeur of Old Masonic Temples Also Makes Them Vulnerable to Fires - Atlas Obscura https://www.atlasobscura.com/articles/masonic-temples-fire?utm_source=Atlas+Obscura+Daily+Newsletter
+2019-10-24T10:47:46-04:00	WeWork’s Implosion Shows How SoftBank Is Breaking the World - VICE https://www.vice.com/en_us/article/d3ae7y/weworks-implosion-shows-how-softbank-is-breaking-the-world
+2019-10-24T10:48:48-04:00	Band name of the day: EMPIRE OF DEATH
+2019-10-24T12:19:59-04:00	Band name of the day: transneptunian object
+2019-10-24T12:23:45-04:00	Xanadu hitching its wagon to the trans- prefix in the 80s will probably produce just as much confusion as when it hitched to the hyper- prefix in the 60s, though in a very different way. I think people are liable to assume 'transclusion' and 'transliterature' mean something very different than what they would have assumed in 1992.
+2019-10-24T13:59:49-04:00	Intrusive linked lists - Data structures in practice https://www.data-structures-in-practice.com/intrusive-linked-lists/
+2019-10-24T14:12:25-04:00	Random link from the archives: https://web.archive.org/web/20180116150905/https://daily.jstor.org/build-a-city-that-doesnt-flood/ originally posted Tue Jan 16 15:09:05 EST 2018/
+2019-10-24T16:50:34-04:00	Praw Emit " Since it’s October, I’m going to post / repost... https://enki2.tumblr.com/post/188549461989/since-its-october-im-going-to-post-repost
+2019-10-24T18:09:53-04:00	Museum Theft - YouTube https://www.youtube.com/watch?v=ETAcIbzOTYs
+2019-10-24T18:12:33-04:00	Random link from the archives: https://web.archive.org/web/20190111102445/http://www.u.arizona.edu/~ctb/wordhord.html originally posted Fri Jan 11 10:24:45 EST 2019/
+2019-10-24T18:36:20-04:00	Mr. Blue Sky | Electric Light Orchestra | Pomplamoose - YouTube https://www.youtube.com/watch?v=PyUNDr0EcAk
+2019-10-24T18:46:40-04:00	Band name of the day: innate aversions
+2019-10-24T19:58:32-04:00	Masamune Shirow is the Larry Cohen to Mamoru Oshii's Stanley Kubrick. Kubrick might be more technically proficient but if I want to put on a movie after a long day, I will reach for the problematic, complicated, bizarre, and consistently inconsistent Cohen.
+2019-10-24T22:12:45-04:00	Random link from the archives: https://web.archive.org/web/20180709160626/https://codepen.io/MartijnCuppens/pen/MXojmw originally posted Mon Jul  9 16:06:26 EDT 2018/
+2019-10-24T23:42:14-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-24T23:42:22-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-25T02:12:58-04:00	Random link from the archives: https://web.archive.org/web/20171026090028/https://kottke.org/17/10/the-experience-of-time-in-dantes-inferno originally posted Thu Oct 26 09:00:28 EDT 2017/
+2019-10-25T06:13:12-04:00	Random link from the archives: https://web.archive.org/web/20190606164723/https://www.youtube.com/watch?v=nWDITMZW1XE originally posted Thu Jun  6 16:47:23 EDT 2019/
+2019-10-25T07:28:18-04:00	Media Archaeology Lab as Platform for Undoing and Reimagining Media History | loriemerson https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/
+2019-10-25T09:46:32-04:00	Band name of the day: malice mechanic
+2019-10-25T09:46:41-04:00	Band name of the day: WINCE
+2019-10-25T10:13:25-04:00	Random link from the archives: https://web.archive.org/web/20180129112015/http://blog.pamelafox.org/2018/01/beware-near-enemies-in-life-tech.html originally posted Mon Jan 29 11:20:15 EST 2018/
+2019-10-25T12:59:31-04:00	How Halloween Inspires Pop Culture https://tedium.co/2019/10/24/halloween-pop-culture-analysis/
+2019-10-25T14:13:35-04:00	Random link from the archives: https://web.archive.org/web/20190224113944/https://www.youtube.com/watch?v=KqW_ElEnLGI originally posted Sun Feb 24 11:39:44 EST 2019/
+2019-10-25T14:46:04-04:00	I'm writing an article about #NaNoGenMo and procedurally generated literature in general. Do any #botally folks have things they'd specifically like mentioned?
+2019-10-25T16:42:36-04:00	MfoM will be 90% off during Steam's Halloween sale (Oct 28-31). That's 30 cents. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2019-10-25T16:42:45-04:00	MfoM will be 90% off during the #itchhalloweensale (Oct 24-31). That's 23 cents.  https://itch.io/s/21559/halloween-sale-2019
+2019-10-25T18:06:53-04:00	Bad idea of the day: a VN in red/blue 3d with parallax
+2019-10-25T18:13:43-04:00	Random link from the archives: https://web.archive.org/web/20190904180251/https://www.theverge.com/2018/8/28/17777330/internet-of-garbage-book-sarah-jeong-online-harassment originally posted Wed Sep  4 18:02:51 EDT 2019/
+2019-10-25T18:14:17-04:00	Band name of the day: alpine jungle
+2019-10-25T18:19:34-04:00	Band name of the day: malachai
+2019-10-25T18:24:51-04:00	Band name of the day: field taxidermy
+2019-10-25T18:30:00-04:00	Band name of the day: when i was older
+2019-10-25T18:35:08-04:00	Band name of the day: crispin's dance
+2019-10-25T18:40:15-04:00	Band name of the day: the initiation
+2019-10-25T18:45:23-04:00	Band name of the day: survival strategy
