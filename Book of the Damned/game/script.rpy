@@ -177,3 +177,20 @@ label start:
     comment "XXX Misato sleeps alone, and again, there's a banging in the hall. She asks the player for advice."
     comment "XXX If she decides to check, she discovers the black cat (Kuro) hunting at this point. She asks what to do, & if she plays with the cat she gets points toward cat affinity & towards affinity with Kuro."
 
+label drugged_scene:
+# Misato is summoned to Corto's penthouse. She is offered tea, and drinks it, as he monologues at her. She wonders why she's here.
+# She begins to hallucinate: her vision gets slightly fuzzy, she begins to see tiny figures marching along the edge of the teacup,  it morphs into a desert landscape, etc.
+# If cat affinity is high enough, this transitions to a Louis Wain style of cats marching in, and Misato wakes up downstairs. She later discovers Corto has been mauled.
+# Otherwise, there is a warped & delirious perception of Misato's violation and murder (extremely vague: shapes pressing on her, a warm feeling lapping at her neck as she feels like she's floating, followed by the game announcing her death).
+
+label true_end:
+# Following the clues & the cats, Misato opens up a small hole in the baseboard by her room just large enough to drop through.
+# She finds the secret basement, wet floor. There is a half-sized door against the north wall. The throne is covered with a tattered shroud.
+# The shroud moves, and a rat pops out, runs away, pulling off the shroud. The cats crouch and growl, staring at the throne of hair.
+# It is a full-sized throne made out of braided human hair coming from three dessicated-but-not-quite-rotten human heads. The hair is damp and matted.
+# The cats begin slinking around it in a circle, and start a low yowling.
+# The throne spontaneously catches fire, and despire being stunned for a moment,
+# Misato manages to crawl out of the basement just as the floor under her room & adjacent hallway collapses. She scrambles to various rooms, banging on doors, evacuating.
+# They get out of the house just as it lights up and collapses. They sit around on the lawn all night in a state of shock, and then as the new day dawns (may 1st) the flames die.
+# Out of the ashes come the cats, and the final cat is Kuro, carrying Corto's head in his mouth.
+
