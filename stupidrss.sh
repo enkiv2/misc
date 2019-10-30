@@ -10,5 +10,5 @@ for item in "$@" ; do
 done
 
 for feed in $feeds ; do
-	curl $feed | grep '<link>' | sed 's/^[ \t]*//;s/<[\/]*link>//g;s/^.*http:/http:/;s/["<].*$//' | while read x ; do w3m -dump "$x" ; done
+	curl $feed | grep '<link>' | sed 's/</\n</g;s/>/>\n/g' | grep http | while read x ; do w3m -dump "$x" ; done
 done
