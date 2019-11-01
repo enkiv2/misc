@@ -103,8 +103,26 @@ rules={
 				"#sublimex# #containers.s# of #materials#",
 				"#containers.s# of #materials#",
 				],
-		"eeries_sing": ["waits", "calls", "knows your name", "silently judges", "beckons", "weeps", "wails", "chuckles", "whose origin we may never know #eeries_sing#", "whose purpose we cannot imagine #eeries_sing#"],
-		"eeries_plur": ["wait", "call", "know your name", "silently judge", "beckon", "weep", "wail", "chuckle", "whose origin we may never know #eeries_plur#", "whose purpose we cannot imagine #eeries_plur#"],
+		"eeries_sing": ([
+				"waits", "calls", "knows your name", "silently judges", "beckons", "weeps", "wails", "chuckles", 
+				"awaits your words", "listens", "judges", "sits in silent judgement", "whispers your name"]*2)+
+				[
+				"whose origin we may never know #eeries_sing#", "whose purpose we cannot imagine #eeries_sing#",
+				"whose purpose we may never know #eeries_sing#", "whose dark purpose we cannot imagine #eeries_sing#",
+				"whose unknowable origins are lost in the fog of time #eeries_sing#", "whose terrible unknowable purpose remains unimaginable #eeries_sing#",
+				"whose unimaginable origins are lost in the fog of time #eeries_sing#", "whose terrible purpose remains incomprehensible to man #eeries_sing#",
+				"#sublimex#, #eeries_sing#",
+				"whose #objects.s# #eeries_plur#", "whose #sublimex# #objects.s# #eeries_plur#, #eeries_sing#",
+				"whose #contained_s# #unheimlich_plur# #eeries_plur#", "whose #contained_a# #unheimlich_sing# #eeries_sing#, #eeries_sing#"
+				],
+		"eeries_plur": (["wait", "call", "know your name", "silently judge", "beckon", "weep", "wail", "chuckle"]*2)+
+		["whose origin we may never know #eeries_plur#", "whose purpose we cannot imagine #eeries_plur#",
+		"#sublimex#, #eeries_plur#",
+		"whose #objects# #eeries_sing#, #eeries_plur#",
+		"whose #objects.s# #eeries_sing#, #eeries_plur#",
+		"whose #sublimex# #objects# #eeries_sing#, #eeries_plur#",
+		"whose #sublimex# #objects.s# #eeries_sing#, #eeries_plur#"
+		],
 		"sublimex":(["#sublime#"]*10+["#sublime2#"]),
 		"sublime":sublime,
 		"sublime2":sublime2,
@@ -148,6 +166,6 @@ while wc<50000:
 		item=random.choice(random.choice([nonstop, objects, materials]))
 		img=randomWikimediaImage.getRandomImage(item)
 		if(img):
-				sys.stdout.write("\n!["+item+"]("+img+" \""+item+"\")\n")
+				sys.stdout.write(random.choice(["", "\n"])+"\n!["+item+"]("+img+" \""+item+"\")\n"+random.choice(["", "\n"]))
 sys.stdout.write("\n")
 
