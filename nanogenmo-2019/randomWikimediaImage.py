@@ -11,7 +11,7 @@ except:
 
 def getWikimediaImageSearchResults(word, categories=None):
 		if not categories:
-				categories=["black+and+white+illustrations", "engraved+illustrations"]
+				categories=["black+and+white+illustrations", "engraved+illustrations", "woodcut+illustrations", "illustrations"]
 		category=random.choice(categories)
 		url="https://commons.wikimedia.org/w/index.php?sort=relevance&search=incategory%3A%22"+category+"%22+"+urlquote(word)+"&title=Special%3ASearch&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1"
 		return ET.fromstring(urlopen(url).read())

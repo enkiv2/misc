@@ -105,25 +105,62 @@ rules={
 				],
 		"eeries_sing": ([
 				"waits", "calls", "knows your name", "silently judges", "beckons", "weeps", "wails", "chuckles", 
-				"awaits your words", "listens", "judges", "sits in silent judgement", "whispers your name"]*2)+
+				"awaits your words", "listens", "judges", "sits in silent judgement", "whispers your name"]*3)+
 				[
-				"whose origin we may never know #eeries_sing#", "whose purpose we cannot imagine #eeries_sing#",
-				"whose purpose we may never know #eeries_sing#", "whose dark purpose we cannot imagine #eeries_sing#",
-				"whose unknowable origins are lost in the fog of time #eeries_sing#", "whose terrible unknowable purpose remains unimaginable #eeries_sing#",
-				"whose unimaginable origins are lost in the fog of time #eeries_sing#", "whose terrible purpose remains incomprehensible to man #eeries_sing#",
-				"#sublimex#, #eeries_sing#",
-				"whose #objects.s# #eeries_plur#", "whose #sublimex# #objects.s# #eeries_plur#, #eeries_sing#",
-				"whose #contained_s# #unheimlich_plur# #eeries_plur#", "whose #contained_a# #unheimlich_sing# #eeries_sing#, #eeries_sing#"
+				", #adj#, #adj#, #eeries_sing#",
+				", #adj#, #sublimex#, #eeries_sing#",
+				", #sublimex#, #adj#, #eeries_sing#",
+				", whose origin we may never know, #eeries_sing#", ", whose purpose we cannot imagine, #eeries_sing#",
+				", whose purpose we may never know, #eeries_sing#", ", whose dark purpose we cannot imagine, #eeries_sing#",
+				", whose unknowable origins are lost in the fog of time, #eeries_sing#", 
+				", whose terrible unknowable purpose remains unimaginable, #eeries_sing#",
+				", whose unimaginable origins are lost in the fog of time, #eeries_sing#", 
+				", whose terrible purpose remains incomprehensible to man, #eeries_sing#",
+				", #sublimex#, #eeries_sing#",
+				", whose #objects.s# #eeries_plur#, #eeries_sing#", 
+				", whose #sublimex# #objects.s# #eeries_plur#, #eeries_sing#",
+				", whose #contained_s# #unheimlich_plur# #eeries_plur#, #eeries_sing#", 
+				", whose #contained_a# #unheimlich_sing# #eeries_sing#, #eeries_sing#",
+				", whose #adj# origin we may never know, #eeries_sing#", ", whose #adj# purpose we cannot imagine, #eeries_sing#",
+				", whose #adj# purpose we may never know, #eeries_sing#", ", whose #adj# dark purpose we cannot imagine, #eeries_sing#",
+				", whose #adj# unknowable origins are lost in the fog of time, #eeries_sing#", 
+				", whose #adj# terrible unknowable purpose remains unimaginable, #eeries_sing#",
+				", whose #adj# unimaginable origins are lost in the fog of time, #eeries_sing#", 
+				", whose #adj# terrible purpose remains incomprehensible to man, #eeries_sing#",
+				", #sublimex#, #eeries_sing#",
+				", whose #adj# #objects.s# #eeries_plur#, #eeries_sing#", 
+				", whose #adj# #sublimex# #objects.s# #eeries_plur#, #eeries_sing#",
+				", whose #adj# #contained_s# #unheimlich_plur# #eeries_plur#, #eeries_sing#", 
+				", whose #adj# #contained_a# #unheimlich_sing# #eeries_sing#, #eeries_sing#"
 				],
-		"eeries_plur": (["wait", "call", "know your name", "silently judge", "beckon", "weep", "wail", "chuckle"]*2)+
-		["whose origin we may never know #eeries_plur#", "whose purpose we cannot imagine #eeries_plur#",
-		"#sublimex#, #eeries_plur#",
+		"eeries_plur": (["wait", "call", "know your name", "silently judge", "beckon", "weep", "wail", "chuckle"]*3)+
+		["whose #adj# origin we may never know #eeries_plur#", "whose #adj# purpose we cannot imagine #eeries_plur#",
+		", #sublimex#, #eeries_plur#",
+		", #sublimex#, #sublimex#, #eeries_plur#",
+		", #sublimex#, #eerie_gerund#, #eeries_plur#",
+		", #sublimex#, #sublimex#, #eerie_gerund#, #eeries_plur#",
 		"whose #objects# #eeries_sing#, #eeries_plur#",
-		"whose #objects.s# #eeries_sing#, #eeries_plur#",
+		"whose #objects.s# #eeries_plur#, #eeries_plur#",
 		"whose #sublimex# #objects# #eeries_sing#, #eeries_plur#",
-		"whose #sublimex# #objects.s# #eeries_sing#, #eeries_plur#"
+		"whose #sublimex# #objects# #eeries_sing#, #eeries_plur#",
+		"whose #sublimex# #objects#, #sublimex#, #sublimex#, #eeries_sing#, #eeries_plur#",
+		"whose #sublimex# #objects#, #sublimex#, #eerie_gerund#, #eeries_sing#, #eeries_plur#",
+		"whose #adj# #objects# #eeries_sing#, #eeries_plur#",
+		"whose #adj# #objects.s# #eeries_plur#, #eeries_plur#",
+		"whose #adj# #sublimex# #objects# #eeries_sing#, #eeries_plur#",
+		"whose #adj# #sublimex# #objects# #eeries_sing#, #eeries_plur#",
+		"whose #adj# #sublimex# #objects#, #sublimex#, #sublimex#, #eeries_sing#, #eeries_plur#",
+		"whose #adj# #sublimex# #objects#, #sublimex#, #eerie_gerund#, #eeries_sing#, #eeries_plur#",
+		", #adj#, #adj#, #eeries_plur#",
+		", #adj#, #eerie_gerund#, #eeries_plur#",
+		", #eerie_gerund#, #adj#, #eeries_plur#",
+		", #adj#, #sublimex#, #eeries_plur#",
+		", #sublimex#, #adj#, #eeries_plur#",
+		", #adj#, #sublimex#, #eerie_gerund#, #eeries_plur#"
 		],
-		"sublimex":(["#sublime#"]*10+["#sublime2#"]),
+		"eerie_gerund":["waiting", "watching", "lurking", "biding time", "mocking", "knowing", "judging", "silently judging", "sitting in judgement", "watching", "watching in judgement", "waiting in judgement", "watching carefully", "watching mockingly", "silently mocking", "watching in silent judgement", "watching in silent mockery", "waiting patiently", "#sublimex#, #eerie_gerund#", "#eerie_gerund#, #eerie_gerund#"],
+		"adj":["vast", "purposeless", "unknowable", "arcane", "unimaginable", "mad", "terrible", "incredible", "unnameable", "unimaginable", "nameless"],
+		"sublimex":(["#sublime#"]*10+["#sublime2#"]+["#adj#"]*5),
 		"sublime":sublime,
 		"sublime2":sublime2,
 		"containers":containers,
@@ -155,17 +192,15 @@ wc=0
 while wc<50000:
 	sentence=grammar.flatten("#origin#")+"."
 	sentence=sentence[0].upper()+sentence[1:]
+	sentence=sentence.replace(" ,", ",").replace(",,", ",")
 	wc+=len(sentence.split())
 	sys.stdout.write(sentence+random.choice([" ", " ", " ", "\n\n## Object #"+str(random.randint(0, 1000000))+"\n\n"]))
 	if(random.choice([False]*2+[True])):
 		words=sentence.split()
-		nonstop=[]
-		for w in words:
-				if not w in ["of", "with", "a", "an", "but", "while", "meanwhile", "however"]:
-						nonstop.append(w.replace(",", "").replace(".", ""))
-		item=random.choice(random.choice([nonstop, objects, materials]))
+		item=random.choice(random.choice([words, objects, materials]))
 		img=randomWikimediaImage.getRandomImage(item)
 		if(img):
-				sys.stdout.write(random.choice(["", "\n"])+"\n!["+item+"]("+img+" \""+item+"\")\n"+random.choice(["", "\n"]))
+				sys.stdout.write(random.choice(["", "\n", "\n"])+"\n!["+item+"]("+img+" \""+item+"\")\n"+random.choice(["", "\n", "\n"]))
+		sys.stdout.flush()
 sys.stdout.write("\n")
 
