@@ -1,0 +1,139 @@
+#!/usr/bin/env python3
+
+import pycorpora
+import tracery
+from tracery.modifiers import base_english
+import json
+import nltk
+from nltk.corpus import wordnet, cmudict
+import sys
+from random import Random
+random=Random()
+
+synonyms={}
+def syns(w):
+        global synonyms
+        w=w.lower()
+        if not (w in synonyms):
+                ret=[]
+                for syn in wordnet.synsets(w):
+                        for l in syn.lemmas():
+                                ret.append(l.name().replace("_", " "))
+                ret.append(w)
+                synonyms[w]=list(set(ret))
+        if len(synonyms[w])==0: return [w]
+        return synonyms[w]
+def synexp(ws):
+		ax=[]
+		for w in ws:
+				ax+=syns(w)
+		return list(set(ax))
+
+gross=(
+		pycorpora.get_file("materials", "abridged-body-fluids")["abridged body fluids"]+
+		["matted hair", "rotting meat", "maggots", "feces", "used chewing gum", "teeth", "fingers", "spiders", "snakes", "flies", "wasps", "bees", "yellowjackets", "worms"])
+gross=synexp(gross)
+materials=(
+		((pycorpora.get_file("materials", "layperson-metals")["layperson metals"]+
+		pycorpora.get_file("materials", "natural-materials")["natural materials"]+
+		pycorpora.materials["packaging"]["packaging"]+
+		pycorpora.get_file("materials", "plastic-brands")["plastic brands"])*5)+
+		pycorpora.plants.flowers["flowers"]+
+		pycorpora.humans.bodyParts["bodyParts"]+
+		pycorpora.get_file("materials", "decorative-stones")["decorative stones"]+
+		gross)
+cities=(
+		list(map(lambda x: x["city"],pycorpora.geography.us_cities["cities"]+
+		pycorpora.geography.norwegian_cities["cities"]))+
+		pycorpora.geography.english_towns_cities["towns"]+
+		pycorpora.geography.english_towns_cities["cities"]
+		)
+with open("containers.json") as f:
+		containers=json.load(f)["containers"]
+containers=containers+pycorpora.architecture.rooms["rooms"]+pycorpora.architecture.passages["passages"]
+large=["massive", "cyclopean", "huge", "vast", "enormous", "great"]
+small=["tiny", "miniscule", "infinitesimal"]
+old=["ancient", "antedeluvian", "crumbling", "mouldy", "shattered", "forgotten", "long-forgotten"]
+new=["evanescent", "fresh", "polished"]
+sublime=large+small+old+new
+sublime2=synexp(sublime)
+objects=(
+		pycorpora.objects.objects["objects"]+
+		pycorpora.plants.flowers["flowers"]+
+		pycorpora.humans.bodyParts["bodyParts"]+
+		pycorpora.mythology.greek_gods["greek_gods"]+
+		pycorpora.mythology.lovecraft["deities"]+
+		pycorpora.mythology.lovecraft["supernatural_creatures"]+
+		pycorpora.mythology.monsters["names"]+
+		pycorpora.mythology.norse_gods["norse_deities"]["gods"]+
+		pycorpora.mythology.norse_gods["norse_deities"]["goddesses"]+
+		pycorpora.mythology.greek_titans["greek_titans"]+
+		pycorpora.mythology.roman_deities["roman_deities"]+
+		list(map(lambda x: x["name"], pycorpora.mythology.hebrew_god["names"]))+
+		list(pycorpora.mythology.egyptian_gods["egyptian_gods"].keys())
+		)
+unheimlich_one=["replica", "model", "scale model", "twin", "duplicate", "copy", "doll", "sculpture"]
+unheimlich_adj=["ersatz", "duplicate", "replica", "model", "twin"]
+unheimlich_many=["endless", "uncountable", "countless"]
+rules={
+		"origin": (
+				[
+				"#origin#, but #origin#",
+				"#origin#, however #origin#",
+				"#origin#, while #origin#",
+				"#origin#, meanwhile #origin#"
+				]+(["#position# #origin#"]*5)+
+				([
+				"within #contained_a#, #unheimlich_sing# of #materials# #eeries_sing#",
+				"within #contained_a#, #unheimlich_plur# of #materials# #eeries_plur#",
+				"within #contained_s#, #unheimlich_plur# of #materials# #eeries_plur#"
+				]*3)
+				),
+		"position":["#relative_position# #location#"],
+		"relative_position":["above", "below", "high above", "deep below", "miles above", "fathoms below", "miles below", "#cardinal_dir# of"],
+		"cardinal_dir":["north", "south", "east", "west", "upriver", "upstream", "downriver", "downstream", "upwind", "downwind"],
+		"location":["Philly", "earth", "the forgotten city", "the sublunar world", "the forgotten city", "the deep woods"]+cities,
+		"contained_a": [
+				"#sublimex.a# #containers# of #materials#", 
+				"#containers.s# of #materials#", 
+				],
+		"contained_s": [
+				"#sublimex# #containers.s# of #materials#",
+				"#containers.s# of #materials#",
+				],
+		"eeries_sing": ["waits", "calls", "knows your name", "silently judges", "beckons", "weeps", "wails", "chuckles", "whose origin we may never know #eeries_sing#", "whose purpose we cannot imagine #eeries_sing#"],
+		"eeries_plur": ["wait", "call", "know your name", "silently judge", "beckon", "weep", "wail", "chuckle", "whose origin we may never know #eeries_plur#", "whose purpose we cannot imagine #eeries_plur#"],
+		"sublimex":(["#sublime#"]*10+["#sublime2#"]),
+		"sublime":sublime,
+		"sublime2":sublime2,
+		"containers":containers,
+		"materials":materials,
+		"objects":synexp(objects),
+		"unheimlich_sing": [
+				"#sublimex# #unheimlich_sing#",
+				"#unheimlich_one.a#", 
+				"#unheimlich_one.a# of #objects.a#",
+				"#unheimlich_adj.a# #unheimlich_one#", 
+				"#unheimlich_adj.a# #unheimlich_one# of #objects.a#",
+				],
+		"unheimlich_plur": [
+				"#sublimex# #unheimlich_plur#",
+				"#unheimlich_many# #objects.s#", 
+				"#unheimlich_many# #unheimlich_adj# #objects.s#", 
+				"#unheimlich_many# #unheimlich_adj# #unheimlich_one.s#",
+				"#unheimlich_many# #unheimlich_adj# #unheimlich_one.s# of #objects.s#"
+				],
+		"unheimlich_one":unheimlich_one,
+		"unheimlich_many":synexp(unheimlich_many),
+		"unheimlich_adj":synexp(unheimlich_adj)
+}
+grammar=tracery.Grammar(rules)
+grammar.add_modifiers(base_english)
+sentences=[]
+for i in range(0,50000):
+	sentence=grammar.flatten("#origin#")+"."
+	sentence=sentence[0].upper()+sentence[1:]
+	sentences.append(sentence)
+	sys.stdout.write(sentence+random.choice([" ", " ", " ", "\n\n"]))
+sys.stdout.write("\n")
+
