@@ -7,8 +7,10 @@ import json
 import nltk
 from nltk.corpus import wordnet, cmudict
 import sys
+import randomWikimediaImage
 from random import Random
 random=Random()
+
 
 synonyms={}
 def syns(w):
@@ -129,11 +131,23 @@ rules={
 }
 grammar=tracery.Grammar(rules)
 grammar.add_modifiers(base_english)
-sentences=[]
-for i in range(0,50000):
+print("# A Catalogue of Limit Objects\n")
+print("## Object #"+str(random.randint(0, 1000000))+"\n")
+wc=0
+while wc<50000:
 	sentence=grammar.flatten("#origin#")+"."
 	sentence=sentence[0].upper()+sentence[1:]
-	sentences.append(sentence)
-	sys.stdout.write(sentence+random.choice([" ", " ", " ", "\n\n"]))
+	wc+=len(sentence.split())
+	sys.stdout.write(sentence+random.choice([" ", " ", " ", "\n\n## Object #"+str(random.randint(0, 1000000))+"\n\n"]))
+	if(random.choice([False]*2+[True])):
+		words=sentence.split()
+		nonstop=[]
+		for w in words:
+				if not w in ["of", "with", "a", "an", "but", "while", "meanwhile", "however"]:
+						nonstop.append(w.replace(",", "").replace(".", ""))
+		item=random.choice(random.choice([nonstop, objects, materials]))
+		img=randomWikimediaImage.getRandomImage(item)
+		if(img):
+				sys.stdout.write("\n!["+item+"]("+img+" \""+item+"\")\n")
 sys.stdout.write("\n")
 

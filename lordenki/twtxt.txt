@@ -11298,3 +11298,5 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-10-31T22:27:38-04:00	Random link from the archives: https://web.archive.org/web/20190812091917/http://distributedweb.care/posts/decentralized-networks/ originally posted Mon Aug 12 09:19:17 EDT 2019/
 2019-11-01T02:27:48-04:00	Random link from the archives: https://web.archive.org/web/20190604094916/https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ originally posted Tue Jun  4 09:49:16 EDT 2019/
 2019-11-01T06:27:55-04:00	Random link from the archives: https://web.archive.org/web/20180525114623/https://www.the-tls.co.uk/articles/public/jordan-peterson-12-rules-kate-manne-review/ originally posted Fri May 25 11:46:23 EDT 2018/
+2019-11-01T08:42:27-04:00	Is there a corpus around of public domain images of objects (preferably line drawings or etchings) keyed by the object in question? This is for #nanogenmo.
+2019-11-01T10:28:02-04:00	Random link from the archives: https://web.archive.org/web/20180316081647/https://tedium.co/2018/03/15/early-portable-computer-history/ originally posted Fri Mar 16 08:16:47 EDT 2018/
