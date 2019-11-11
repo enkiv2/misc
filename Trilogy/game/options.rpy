@@ -30,7 +30,27 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
-""")
+{b}Cultural and Localization Notes{/b}
+
+Manna for Our Malices{i} is set in Japan, and while I am not Japanese, I have made an effort to keep cultural elements accurate or to justify any inaccuracies I found necessary for the sake of storytelling. This means that some things mentioned in the story will not necessarily be familiar to western audiences (and while this story is very much set in the kind of warped version of Japan seen in anime, readers may nevertheless be confused).
+
+{b}Hundred stories{/b} - {/i}hyakumonogatari{i}, one of several colloquial terms for ghost stories, literally translates to {/i}hundred stories{i}, and comes from a book of the same name. Telling ghost stories is a summer tradition in Japan (with the justification that the shivers caused by fear will cool you down on a hot day), and the term hyakumonogatari is used specifically for telling several in a row.
+
+{/i}
+
+
+{b}Credits{/b}{i}
+
+Concept, script, and programming by {a=http://www.lord-enki.net/}John Ohno{/a}
+
+
+{b}Art{/b}
+Art assets: John Ohno
+
+{b}Music{/b}
+{a=http://infocalypse.nfshost.com}Infocalypse{/a}
+
+{/i}""")
 
 
 ## A short name for the game used for executables and directories in the built
