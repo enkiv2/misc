@@ -30,7 +30,25 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
-{b}Cultural and Localization Notes{/b}
+{b}Introduction{/b}
+
+{i}Trilogy is a mystery set in the small town of Yomiyama. It takes place after the events of {/i}Manna for our Malices{i} and {/i}Book of the Damned{i}.{/i}
+
+
+{b}Dramatis Personae{/b}{i}
+
+Umeji Misato (17) - the eldest of the 3 Umeji sisters. She is half french and half japanese. She maintains the image of a polite 'nice girl' of good breeding.
+
+Bruno Akane (17) - half italian (on her father's side), she is self-conscious about her name. She loves 60s and 70s italian horror cinema.
+
+Akagi Ai (17) - Protagonist of Manna for our Malices, a high school Junior, obsessed with 70s anime and manga (in particular, bancho and sukeban series)
+
+Tomoe Aoi (16) - Ai's childhood friend, the daughter of scientists at nearby Yomiyama Polytechnic
+
+Yamada Mimi (17) - Another classmate of Ai's, she handles the school newspaper
+{/i}
+
+{b}Cultural and Localization Notes{/b}{i}
 
 The {/i}Yomiyama{i} series is set in Japan, and while I am not Japanese, I have made an effort to keep cultural elements accurate or to justify any inaccuracies I found necessary for the sake of storytelling. This means that some things mentioned in the story will not necessarily be familiar to western audiences (and while this story is very much set in the kind of warped version of Japan seen in anime, readers may nevertheless be confused).
 

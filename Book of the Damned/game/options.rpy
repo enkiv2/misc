@@ -76,7 +76,7 @@ Yamada Mimi (17) - Another classmate of Ai's, she handles the school newspaper
 The cats: Kuro (4), a short-haired black cat, and Aka (2), a smaller long-haired ginger cat. Other cats are seen but not named. 
 {/i}
 
-{b}Cultural and Localization Notes{/b}
+{b}Cultural and Localization Notes{/b}{i}
 
 The {/i}Yomiyama{i} series is set in Japan, and while I am not Japanese, I have made an effort to keep cultural elements accurate or to justify any inaccuracies I found necessary for the sake of storytelling. This means that some things mentioned in the story will not necessarily be familiar to western audiences (and while this story is very much set in the kind of warped version of Japan seen in anime, readers may nevertheless be confused).
 
@@ -125,7 +125,18 @@ I am providing the following notes for the sake of such a general audience, so t
 {b}Yakuza{/b} - Japanese organized crime. For historical reasons related to the development of the criminal justice system and the transition from feudal rule, organized crime syndicates are tolerated substantially more in Japan than elsewhere -- by the police, because they crack down on {/i}dis{i}organized crime and because Japanese police are notoriously corrupt, by politicians, because the yakuza syndicates form the backbone of local political campaigning organization, and by businesses, who often remain tied up deeply with their loans and protection rackets even after becoming successful. Most of the yakuza money is in legal or grey-legal forms of gambling (such as pachinko) or in totally legal loans to large businesses (like Nintendo) these days, and violence against outsiders is relatively rare & taboo. So, the syndicates make efforts to portray themselves as legitimate businesses & gain the favor of citizens.
 
 {b}Yomiyama{/b} - the town of Yomiyama does not exist. The name {/i}Yomiyama{i} translates to something like {/i}hades mountain{i}, and is also used in the gothic death game franchise {/i}Another{i}. In this game, however, the town of Yomiyama is a composite of several fictional locations from Japanese media: {/i}Hinamizawa{i} from the {/i}Higurashi no Naku Koro Ni{i} games, Fuyuki from the {/i}Fate{i} franchise, and the unnamed country town in Michio Yamamoto's {/i}The Vampire Doll{i} (1970). It is in a valley surrounded on all sides by mountains, and is now mostly suburban with a built-up 'down town' strip near the university. Until the university began pulling in big government contracts in the early 1990s, this was a much poorer and more rural town whose economic center was a small US military base, but for about twenty years it has been economically ascending, out of phase with the rest of Japan; this makes the local yakuza syndicate comparatively powerful. Since the source of its wealth is mostly-secret government research (by both the United States and Japan), it has resisted the trend in the rest of rural Japan to seek tourists and immigration, and most of the families there are either associated with the university or have been there since before the second world war.
-""")
+{/i}
+
+{b}Credits{/b}{i}
+
+Concept, script, and programming by {a=http://www.lord-enki.net/}John Ohno{/a}
+
+{b}Art{/b}
+Art assets: John Ohno
+
+{b}Music{/b}
+{a=http://infocalypse.nfshost.com}Infocalypse{/a}
+{/i}""")
 
 
 ## A short name for the game used for executables and directories in the built
