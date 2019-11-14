@@ -11566,3 +11566,60 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-11-11T10:38:24-05:00	Samsara | Slate Star Codex https://slatestarcodex.com/2019/11/04/samsara/
 2019-11-11T10:50:22-05:00	Utopian Overreach " Real Life https://reallifemag.com/utopian-overreach/
 2019-11-11T10:50:40-05:00	The Cult of the Imperfect https://www.theparisreview.org/blog/2019/10/28/the-cult-of-the-imperfect/
+2019-11-11T11:23:21-05:00	Wage Theft Is the Multibillion-Dollar Crime Almost No One Is Prosecuting | GQ https://www.gq.com/story/wage-theft
+2019-11-11T11:49:25-05:00	A Giant Bumptious Litter: Donna Haraway on Truth, Technology, and Resisting Extinction https://logicmag.io/nature/a-giant-bumptious-litter/
+2019-11-11T11:57:30-05:00	Blood Ceremony "Children of the Future" - YouTube https://www.youtube.com/watch?v=csC5_tPVRpQ
+2019-11-11T12:06:54-05:00	Lolly Willows - YouTube https://www.youtube.com/watch?v=j9r1zW7ZBX0
+2019-11-11T12:19:08-05:00	children of the cron
+2019-11-11T12:23:19-05:00	did crowley have a hand in making sure armistice day was on 11/11. if not, why not? (if not, HOW DO YOU KNOW??)
+2019-11-11T13:14:24-05:00	after multiple attempts, i finally got two svn branches merged, but the merge process... silently removed... one line from a file... all of whose other changes were duplicated just fine.
+2019-11-11T13:42:42-05:00	Random link from the archives: https://web.archive.org/web/20190921140416/https://www.youtube.com/watch?v=pIVFmC9EsUM originally posted Sat Sep 21 14:04:16 EDT 2019/
+2019-11-11T13:44:54-05:00	The Poppy Family - There's No Blood In Bone (with lyrics) - YouTube https://www.youtube.com/watch?v=7F94g9EaXO8
+2019-11-11T14:55:25-05:00	Band name of the day: jam digest
+2019-11-11T17:42:56-05:00	Random link from the archives: https://web.archive.org/web/20190814083150/https://robbiebarrat.github.io/ originally posted Wed Aug 14 08:31:50 EDT 2019/
+2019-11-11T21:43:11-05:00	Random link from the archives: https://web.archive.org/web/20180308143752/https://www.thenation.com/article/waiting-for-steven-pinkers-enlightenment/ originally posted Thu Mar  8 14:37:52 EST 2018/
+2019-11-12T01:43:19-05:00	Random link from the archives: https://web.archive.org/web/20190903114305/https://qr.ae/TWyZJM originally posted Tue Sep  3 11:43:05 EDT 2019/
+2019-11-12T05:43:28-05:00	Random link from the archives: https://web.archive.org/web/20190930135923/https://www.e-flux.com/journal/102/283568/comrades-in-deep-future/ originally posted Mon Sep 30 13:59:23 EDT 2019/
+2019-11-12T06:41:36-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/conditions-for-the-possibility-of-exit-c38ea186abf1?source=friends_link&sk=8bfe8cc681eb2625c015e6c3c88c7c23
+2019-11-12T08:53:59-05:00	Bad idea of the day: ladytron x skinny puppy mashups
+2019-11-12T09:43:34-05:00	Random link from the archives: https://web.archive.org/web/20180702093740/http://neurocline.github.io/papers/survey-of-programming-language-packaging-systems.html originally posted Mon Jul  2 09:37:40 EDT 2018/
+2019-11-12T10:57:08-05:00	i have more ram in my current computer than i had disk space in some of the machines i used up though a couple years ago, and yet if i'm not careful a single web browser will fill it up completely in minutes & freeze up the whole box. how did we get here?
+2019-11-12T13:43:42-05:00	Random link from the archives: https://web.archive.org/web/20180917233850/https://medium.com/p/how-the-swamp-will-win-8aaa76333aa9 originally posted Mon Sep 17 23:38:50 EDT 2018/
+2019-11-12T17:34:48-05:00	today i learned that if you make more than six withdrawls from your savings account in a month they will charge you ten bucks
+2019-11-12T17:43:49-05:00	Random link from the archives: https://web.archive.org/web/20180904094715/https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/ originally posted Tue Sep  4 09:47:15 EDT 2018/
+2019-11-12T18:05:06-05:00	YouTube https://www.youtube.com/watch?v=2-SOeqINd-I
+2019-11-12T21:43:56-05:00	Random link from the archives: https://web.archive.org/web/20181120091830/https://medium.com/amor-mundi/martin-heidegger-and-g%C3%BCnther-anders-on-technology-on-ray-kurzweil-fritz-lang-and-transhumanism-a48a4c123c09 originally posted Tue Nov 20 09:18:30 EST 2018/
+2019-11-13T01:44:10-05:00	Random link from the archives: https://web.archive.org/web/20190726102021/Collins’ originally posted Fri Jul 26 10:20:21 EDT 2019/
+2019-11-13T05:44:23-05:00	Random link from the archives: https://web.archive.org/web/20170602163022/http://jacobitemag.com/2017/05/25/a-quick-and-dirty-introduction-to-accelerationism/ originally posted Fri Jun  2 16:30:22 EDT 2017/
+2019-11-13T08:16:06-05:00	Hypergraphia: The Neurological Condition Behind Excessive Writing https://tedium.co/2019/11/12/excessive-writing-hypergraphia/
+2019-11-13T09:25:49-05:00	Band name of the day: turnspit boys
+2019-11-13T09:25:56-05:00	Band name of the day: dizzydog
+2019-11-13T09:26:03-05:00	Band name of the day: the shift to screaming
+2019-11-13T09:26:10-05:00	Band name of the day: ultrabanishment
+2019-11-13T09:41:55-05:00	Let's Build a Compiler https://compilers.iecc.com/crenshaw/
+2019-11-13T09:44:31-05:00	Random link from the archives: https://web.archive.org/web/20190308174510/https://www.youtube.com/watch?v=WWccr1r-H0E originally posted Fri Mar  8 17:45:10 EST 2019/
+2019-11-13T09:45:59-05:00	Japan saw a generational and international shift for anime in the 2010s | The Japan Times https://www.japantimes.co.jp/culture/2019/11/13/films/japan-anime-miyazaki-ghibli-shinkai/
+2019-11-13T09:47:18-05:00	The worship of billionaires like Jeff Bezos has become our worst religion | The Outline https://theoutline.com/post/8187/billionaires-are-not-people?zd=4
+2019-11-13T09:51:53-05:00	Bad Infinity: The endurance of the liberal imagination | The Point Magazine https://thepointmag.com/politics/bad-infinity/
+2019-11-13T10:37:29-05:00	The Myth and Magic of Generating New Ideas | The New Yorker https://www.newyorker.com/culture/annals-of-inquiry/the-myth-and-magic-of-generating-new-ideas
+2019-11-13T10:40:52-05:00	Predictions About Life in 2029, Based on 2019 http://nymag.com/intelligencer/2019/11/2029-predictions-based-on-2019.html
+2019-11-13T10:48:35-05:00	The Future is not Retro | Pedestrian Observations https://pedestrianobservations.com/2019/09/08/the-future-is-not-retro/
+2019-11-13T11:02:52-05:00	The Resurrection of Flinders Petrie https://electricarchaeology.ca/2019/10/23/the-resurrection-of-flinders-petrie/
+2019-11-13T11:04:13-05:00	Notes from the quest factory https://desert.glass/archive/notes-from-the-quest-factory/
+2019-11-13T11:58:22-05:00	silly con valley
+2019-11-13T13:44:43-05:00	Random link from the archives: https://web.archive.org/web/20191030074303/https://medium.com/p/the-internet-of-very-small-computers-masquerading-as-things-598c8c6465c2 originally posted Wed Oct 30 07:43:03 EDT 2019/
+2019-11-13T17:44:58-05:00	Random link from the archives: https://web.archive.org/web/20190728153407/https://aaronzlewis.com/blog/2019/07/25/metaphors-we-believe-by/ originally posted Sun Jul 28 15:34:07 EDT 2019/
+2019-11-13T17:54:13-05:00	why so much cryptozoology and so little cryptobotany? what about cryptogeology?
+2019-11-13T18:12:49-05:00	Band name of the day: the largest land crab
+2019-11-13T18:26:17-05:00	Bad idea of the day: use census data to compute natal charts for all americans
+2019-11-13T19:08:49-05:00	Magick and Psychedelic Drugs are Serious Business https://ultraculture.org/blog/2014/05/26/psychedelic-drugs-magick/
+2019-11-13T21:45:18-05:00	Random link from the archives: https://web.archive.org/web/20190805060907/https://medium.com/p/what-is-fascism-74fdbcfbb58a originally posted Mon Aug  5 06:09:07 EDT 2019/
+2019-11-14T01:45:42-05:00	Random link from the archives: https://web.archive.org/web/20190105205403/https://www.youtube.com/watch?v=h0g7C14bqJc originally posted Sat Jan  5 20:54:03 EST 2019/
+2019-11-14T05:46:01-05:00	Random link from the archives: https://web.archive.org/web/20191027164151/https://medium.com/p/the-pain-you-feel-is-capitalism-dying-5cdbe06a936c originally posted Sun Oct 27 16:41:51 EDT 2019/
+2019-11-14T07:32:18-05:00	Postmodernism, explained and explained and explained again | The Outline https://theoutline.com/post/8250/postmodern-philosophy-trump?zd=2
+2019-11-14T07:48:31-05:00	GitHub Archive Program | The GitHub Archive Program will safely store every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway. https://archiveprogram.github.com/
+2019-11-14T08:02:41-05:00	Hot take: the actual first mainstream album to be created with the help of AI was Hunky Dory https://www.vulture.com/2019/11/holly-herndon-on-proto-an-album-made-with-ai.html?curator=MusicREDEF
+2019-11-14T08:52:22-05:00	turnspit image
+2019-11-14T08:56:55-05:00	low-angle sat photos of NYC make it look like a shitty 1997 video game cut scene: https://kottke.org/plus/misc/images/low-angle-nyc-01.jpg https://kottke.org/plus/misc/images/low-angle-nyc-02.jpg
+2019-11-14T09:00:06-05:00	The problem with 'X predicted the smartphone' is that while lots of people predicted mobile videophones (including Dick Tracy) nobody seems to have said 'the telephone of the future will be used primarily to transmit text and still images with superimposed text, & calling people on it will be considered rude'
+2019-11-14T09:07:19-05:00	Of X, Y, and Z: The Search for the Lost Works of Charles Fort | Mysterious Universe https://mysteriousuniverse.org/2019/11/of-x-y-and-z-the-search-for-the-lost-works-of-charles-fort/

@@ -8,6 +8,8 @@ define misa  = Character("Umeji Misato")
 define akane = Character("Akane")
 
 label start:
+    quote "\"I’ve given up fiction. Or in a way I haven’t. I am convinced that everything is fiction; so here I am in the same old line.\""
+    extend "- Charles Fort, in private communication with Theodore Dreiser"
     play music "sfx/344430__babuababua__light-rain.mp3"
     comment "XXX opening scene: Ai, Mimi, and Aoi are window-shopping on their way home from school, and it begins to rain. They take shelter in an abandoned building, & find that Misato and Akane have done the same. Akane must be introduced to the group."
     comment "XXX Because the rain is not letting up, Akane suggests they spend the time telling scary stories."
