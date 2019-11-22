@@ -11825,3 +11825,23 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-11-22T08:35:38-05:00	CatStuff: Cat ASCII Art https://user.xmission.com/~emailbox/ascii_cats.htm
 2019-11-22T08:38:36-05:00	creativecode/novel at master · s-sandra/creativecode · GitHub https://github.com/s-sandra/creativecode/tree/master/novel
 2019-11-22T09:42:14-05:00	Random link from the archives: https://web.archive.org/web/20190328132445/https://www.radicalisationresearch.org/debate/briefings-reciprocal-radicalisation/ originally posted Thu Mar 28 13:24:45 EDT 2019/
+2019-11-22T10:35:26-05:00	There's one month left in the decade. Most of the time I feel like I've been treading water since 2010. But, come to think of it, during this time I: wrote a book, got articles published in real paying publications, lost my virginity, worked on Xanadu in an official capacity, got a real job, put a game on steam, met & worked with some of my idols, learned to drive, got my own house, and adopted a cat who is now the emotional center of my whole life. I also released dozens of albums of music & wrote many hundreds of pages of prose.
+2019-11-22T10:43:32-05:00	Parchment Paper History: How We Got Paper Perfect for Baking https://tedium.co/2019/11/21/nonstick-parchment-paper-history/
+2019-11-22T11:15:31-05:00	On Hurd, Linux and the (mis)adventures of cross-compiling a GNU Hurd toolchain https://blog.darknedgy.net/technology/2015/07/25/0/
+2019-11-22T11:24:17-05:00	What Is It Like to Be on Ketamine?  https://www.thecut.com/2019/11/ketamine-disassociation-generation.html
+2019-11-22T12:29:05-05:00	A Tract on Why I Love Subarashiki Hibi – みみド$ま https://mimidoshima.wordpress.com/2013/10/21/this-review-is-bad-stop-referencing-it/
+2019-11-22T12:30:51-05:00	Last Week At Karlsburg · Issue #108 · NaNoGenMo/2019 · GitHub https://github.com/NaNoGenMo/2019/issues/108
+2019-11-22T13:42:21-05:00	Random link from the archives: https://web.archive.org/web/20190801120520/https://manybutfinite.com/post/how-computers-boot-up/ originally posted Thu Aug  1 12:05:20 EDT 2019/
+2019-11-22T14:34:33-05:00	Neural Network on a Commodore 64 http://www.fourmilab.ch/documents/commodore/BrainSim/
+2019-11-22T14:34:58-05:00	Are Neural Networks About to Reinvent Physics? - Issue 78: Atmospheres - Nautilus http://nautil.us/issue/78/atmospheres/are-neural-networks-about-to-reinvent-physics
+2019-11-22T14:35:31-05:00	» New Tricks for an Old Z-Machine, Part 3: A Renaissance is Nigh The Digital Antiquarian https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-3-a-renaissance-is-nigh/
+2019-11-22T14:38:30-05:00	Microsoft's "Love" of Linux - Split Perspective by Pedro Côrte-Real http://pedrocr.pt/text/microsofts-love-of-linux/
+2019-11-22T14:42:34-05:00	The Hierarchy Of Cringe https://aelkus.github.io/culture/2019/10/21/hierarchy-of-cringe
+2019-11-22T14:43:47-05:00	A History of APL in 50 Functions https://www.jsoftware.com/papers/50/
+2019-11-22T14:44:37-05:00	Myths Programmers Believe about CPU Caches – Software the Hard way https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+2019-11-22T14:46:47-05:00	Designing Windows 95’s User Interface – Socket 3 https://socket3.wordpress.com/2018/02/03/designing-windows-95s-user-interface/
+2019-11-22T14:55:28-05:00	About — Deon http://deon.drivendata.org/
+2019-11-22T14:56:52-05:00	Mu: Sketching out a minimal system programming language http://akkartik.name/post/mu-2019-2
+2019-11-22T15:10:23-05:00	Band name of the day: gruen transfer
+2019-11-22T15:19:26-05:00	The Laugh Track https://aelkus.github.io/culture/2019/11/20/baron-cohen
+2019-11-22T15:22:43-05:00	Speedrunning Through The Language-Game https://aelkus.github.io/culture/2019/11/08/idle

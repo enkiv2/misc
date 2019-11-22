@@ -8,7 +8,7 @@ shift ; shift ; shift ; shift
 
 
 function getLength() {
-	mplayer -vo null -ao null -identify -frames 0 "$@" | grep LENGTH | sed 's/^.*=//'
+	(mplayer -vo null -ao null -identify -frames 0 "$@" | grep LENGTH | sed 's/^.*=//' )2>/dev/null
 }
 function floor() {
 	echo "$@" | cut -d. -f 1
@@ -51,8 +51,8 @@ function filter_randomColorScene() {
 	echo "Coloring scene: $color"
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( convert $item -fill "$color" -tint 110 ${item}-2.png &&
-		mv ${item}{-2.png,} ) &
+		( convert $item -fill "$color" -tint 110 ${item}-2.jpeg &&
+		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
 			echo "Waiting for color correction to finish on batch...\c"
@@ -66,8 +66,8 @@ function filter_randomColorFrame() {
 	# random color scene
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( rm -f ${item}-2.png ; convert $item -fill "$(randomColor)" -tint 110 ${item}-2.png &&
-		mv ${item}{-2.png,} ) &
+		( rm -f ${item}-2.jpeg ; convert $item -fill "$(randomColor)" -tint 110 ${item}-2.jpeg &&
+		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
 			echo "Waiting for color correction to finish on batch...\c"
@@ -83,8 +83,8 @@ function filter_zoomIn() {
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( rm -f ${item}-2.png ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
-		mv ${item}{-2.png,} ) &
+		( rm -f ${item}-2.jpeg ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.jpeg &&
+		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
 			echo "Waiting for zoom to finish on batch...\c"
@@ -100,8 +100,8 @@ function filter_zoomOut() {
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
 	for item in $(tac ~/.$$-cliplist) ; do
-		( rm -f ${item}-2.png ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.png &&
-		mv ${item}{-2.png,} ) &
+		( rm -f ${item}-2.jpeg ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.jpeg &&
+		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
 			echo "Waiting for zoom to finish on batch...\c"
@@ -137,7 +137,9 @@ current_secs=0
 current_frame=0
 current_clips=0
 lastmerge=1
+echo "Total length: $total_length"
 while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
+  echo "$current_secs seconds / $total_length seconds completed"
 	source=$(shuf -n 1 < ~/.$$-sources)
 	sl=$(floor $(getLength "$source"))
 	sl2=$(floor $((sl*1000)) )
@@ -146,7 +148,7 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 		st=$(( RANDOM%(sl-clip_length) ))
 		end=$((1+clip_length))
 		pushd ~/.$$-clip
-		mplayer -ao null -vo png -vf scale=$resolution -ss $st -endpos $end "$source"
+		mplayer -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
 		frame_count=$(ls | wc -l)
 		if [[ $frame_count -eq 0 ]] ; then continue ; fi
 		frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
@@ -177,7 +179,7 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 			done
 			rm -f ~/.$$-temp
 		fi
-		mencoder -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
+		mencoder -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 		popd
 		rm -f ~/.$$-cliplist
 		rm -f ~/.$$-clip/*
@@ -187,10 +189,10 @@ while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 			lastmerge=$current_clips
 			cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 			if [[ -e ~/.$$-clip.avi ]] ; then
-				mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
+				mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
 				mv ~/.$$-clip-new.avi ~/.$$-clip.avi
 			else
-				mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+				mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 			fi
 			for item in $cliplist ; do rm $item ; done
 			unsetopt SH_WORD_SPLIT
@@ -202,14 +204,14 @@ done
 setopt SH_WORD_SPLIT
 cliplist=$(i=$lastmerge ; while [[ $i < $((current_clips + 1)) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 if [[ -e ~/.$$-clip.avi ]] ; then
-	mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
+	mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
 	mv ~/.$$-clip-new.avi ~/.$$-clip.avi
 else
-	mencoder -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+	mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 fi
 for item in $cliplist ; do rm $item ; done
 unsetopt SH_WORD_SPLIT
-mencoder -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
+mencoder -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
 rm ~/.$$-clip.avi
 rmdir ~/.$$-clip
 rm ~/.$$-sources

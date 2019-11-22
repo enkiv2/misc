@@ -229,6 +229,8 @@ https://github.com/OSPreservProject/amoeba
 http://fsd-amoeba.sourceforge.net/
 https://www.cs.vu.nl/pub/amoeba/
 http://pdos.csail.mit.edu/~kaashoek/papers/amsp.ps
+HURD
+https://blog.darknedgy.net/technology/2015/07/25/0/
 PLATO
 https://irata.online
 https://www.cyber1.org
