@@ -69,6 +69,7 @@ https://engblg.livingcomputers.org/index.php/2019/01/19/introducing-darkstar-a-x
 https://commandcenter.blogspot.com/2019/01/notes-from-1984-trip-to-xerox-parc.html
 http://www.vpri.org/pdf/tr2003001_croq_collab.pdf
 http://www.vpri.org/pdf/tr2004002_croq_men.pdf
+http://blog.rfox.eu/Bystroushaak%20s%20blog/English%20section/Moldable%20tools%20a%20book%20and%20a%20movement.html
 Oberon
 http://www.projectoberon.com/
 http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
@@ -105,6 +106,7 @@ http://www.ultratechnology.com/fsc96.html
 http://www.ultratechnology.com/fsc98.htm
 http://www.ultratechnology.com/fsc99.htm
 http://www.ultratechnology.com/fsc2000.htm
+http://yosefk.com/blog/my-history-with-forth-stack-machines.html
 TempleOS / LoseThos / Shrine
 https://christine.website/blog/templeos-1-installation-and-basic-use-2019-05-20
 https://github.com/minexew/Shrine
@@ -271,6 +273,7 @@ https://expeditee.org/doku.php
 DynamicLand
 https://dynamicland.org/
 https://rsnous.com/posts/notes-from-dynamicland-geokit/
+https://emmasmith.me/tinyland/
 Inform
 http://www.emshort.com/ifmu/inform.html
 Rebol / Red
