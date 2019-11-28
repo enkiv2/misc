@@ -177,11 +177,37 @@ label start:
     comment "XXX Misato sleeps alone, and again, there's a banging in the hall. She asks the player for advice."
     comment "XXX If she decides to check, she discovers the black cat (Kuro) hunting at this point. She asks what to do, & if she plays with the cat she gets points toward cat affinity & towards affinity with Kuro."
 
+# Opening animation:
+# we see a UFO with a windowed onion-dome top spewing sparks across the night sky, toward a mountain that obscures the full moon.
+# cut to a character image of KUROKI on the left leaning against a stack of books, followed by SAFFYRE and SEYTON back to back on the right, SEYTON grinning while SAFFYRE pouts
+# cut to a bunch of yomiyama academy students walking down the street (seen from behind). Some of the students have haircuts that indicate they are the characters from MfoM. Superimposed on the right is MISATO who is also facing away from the camera but is initially looking to her left, and she turns in the direction the students are walking.
+# MISATO fades away along with the students and the street, but it is replaced with a black and white tiled hall with pillar globes on left and right, an eye in a down-pointing triangle at the end
+# the triangle lowers as both it & the hall cross-fade to the house in sunlight.
+# all of the tenants appear one by one in front of the house, forming a happy group pose
+# the tenants and house move down as the setting darkens. in the air above the house, giant cats eyes fade in, and then above that, CORTO holding out his hands like a puppet-master
+# a book appears and opens, and "BOOK of the DAMNED" is written in it stroke by stroke in red
+# underneath, "by Double Mojo" in rainbow
+# "BOOK of the DAMNED" shines and then drips like blood.
+# cut to tv static
+
+# FIRST DREAM
+# an image of the doorknob appears, and then a face fades in on it
+# THE HERMIT appears in rider-waite style facing a human-sized box. he turns to the camera, becoming a crone
+# the front of the box opens to reveal a dismembered corpse floating in some kind of fluid
+# the corpse focuses its eyes and begins to speak: "without love you have nothing. your garden shall be sown with asphodel."
+# in later dream, this sequence repeats but the corpse and the hermit both fade into MISATO's face.
+
 label drugged_scene:
 # Misato is summoned to Corto's penthouse. She is offered tea, and drinks it, as he monologues at her. She wonders why she's here.
 # She begins to hallucinate: her vision gets slightly fuzzy, she begins to see tiny figures marching along the edge of the teacup,  it morphs into a desert landscape, etc.
 # If cat affinity is high enough, this transitions to a Louis Wain style of cats marching in, and Misato wakes up downstairs. She later discovers Corto has been mauled.
-# Otherwise, there is a warped & delirious perception of Misato's violation and murder (extremely vague: shapes pressing on her, a warm feeling lapping at her neck as she feels like she's floating, followed by the game announcing her death).
+# Otherwise, there is a warped & delirious perception of Misato's violation and murder
+# initially, with increasingly dark imagery:
+# the desert landscape becomes a geometric garden (like Last Year At Marienbad), but the shrubs become wheels (fading into the final shot of Ken Russel's The Devils)
+# then, fish and bubbles and a blur/haze overlay this: it is underwater
+# after this, we get description --
+# (extremely vague: shapes pressing on her, a warm feeling lapping at her neck as she feels like she's floating, followed by the game announcing her death).
+# death is followed by tv static animation
 
 label true_end:
 # Following the clues & the cats, Misato opens up a small hole in the baseboard by her room just large enough to drop through.
