@@ -197,6 +197,12 @@ label start:
 # the corpse focuses its eyes and begins to speak: "without love you have nothing. your garden shall be sown with asphodel."
 # in later dream, this sequence repeats but the corpse and the hermit both fade into MISATO's face.
 
+# DREAM IF CAT AFFINITY LOW
+# sillhouette: a conquerer on horseback, with a cat held aloft skewered on his sword (like the statue in Val Lewton's Cat People); he himself becomes skewered with numerous swords, sprouting from inside himself
+
+# LATER DREAM
+# a nordic-style alien removes his face to reveal he is a grey in a wig, then removes the grey face (a mask) to reveal an ape face, then removes that to reveal MISATO's face. he then says "you will see me two times."
+
 label drugged_scene:
 # Misato is summoned to Corto's penthouse. She is offered tea, and drinks it, as he monologues at her. She wonders why she's here.
 # She begins to hallucinate: her vision gets slightly fuzzy, she begins to see tiny figures marching along the edge of the teacup,  it morphs into a desert landscape, etc.
