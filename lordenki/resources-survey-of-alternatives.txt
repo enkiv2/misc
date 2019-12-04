@@ -351,6 +351,7 @@ https://www.youtube.com/watch?v=i67rQdHuO-8
 https://www.youtube.com/watch?v=Ao9X1GsUPys
 https://www.youtube.com/watch?v=QjJaFG63Hlo
 https://www.youtube.com/watch?v=1iAJPoc23-M
+https://www.youtube.com/watch?v=ZrBQmIDdls4
 https://vimeo.com/36579366
 https://en.wikipedia.org/wiki/Crossing-based_interface
 https://jods.mitpress.mit.edu/pub/issue3-case
@@ -359,6 +360,7 @@ http://www.squeakland.org/resources/books/readingList.jsp
 https://www.hillelwayne.com/post/formally-specifying-uis/
 https://www.the-tls.co.uk/articles/public/spinoza-philosophy-freedom/
 http://dev.studiotheophilus.com/index.php/2018/01/14/ui-design-tips-for-visual-novels/
+http://www.oilshell.org/blog/2017/01/13.html
 History
 https://pdfs.semanticscholar.org/7b93/785d1d84b06d36badb59a0c6b779d76743c5.pdf
 https://arstechnica.com/features/2005/05/gui/
