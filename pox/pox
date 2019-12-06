@@ -1,0 +1,153 @@
+#!/usr/bin/env python
+
+import msgpack, sys, os
+
+helpTopics={}
+defaultDict={}
+def dup(px, state):
+	item=state["stack"].pop()
+	state["stack"].push(item)
+	state["stack"].push(item)
+defaultDict["dup"]=dup
+def _alt(px, state):
+	alt1=state["stack"].pop()
+	alt2=state["stack"].pop()
+	stackBackup=copy.deepCopy(state["stack"])
+	try:
+		runTargetName(px, alt1, state)
+	except BacktrackException as e:
+		state["stack"]=stackBackup
+		state["failed"]=False
+		runTargetName(px, alt2, state)
+defaultDict["_alt/2"]=_alt
+def fail(px, state):
+	state["failed"]=True
+defaultDict["fail"]=fail
+def pNot(px, state):
+	item=state["stack"].pop()
+	if(truthy(item)): state["stack"].push("false")
+	else: state["stack"].push("true")
+defaultDict["not"]=pNot
+def swap(px, state):
+	stack=state["stack"]
+	item1=stack.pop()
+	item2=stack.pop()
+	stack.push(item1)
+	stack.push(item2)
+defaultDict["swap"]=swap
+def rot(px, state):
+	stack=state["stack"]
+	item1=stack.pop()
+	item2=stack.pop()
+	item3=stack.pop()
+	stack.push(item1)
+	stack.push(item3)
+	stack.push(item2) 
+defaultDict["rot"]=rot
+
+def compilePox(f):
+	pass
+
+def verifyPX(px):
+	for k in ["persist", "def", "dec"]:
+		if not (k in px): raise "Malformed PPX: must contain '"+k+"' key"
+	if len(px["dec"])==0: raise "Malformed PPX: must contain at least one declaration"
+	for d in ["dec", "def"]:
+		for k in px[d].keys():
+			for kk in ["det", "code"]:
+				if not (kk in px[d][k]): raise "Malformed PPX: "+d+" entry for function '"+k+"' must contain '"+kk+"' attribute"
+			if px[d][k]["det"] and not "mem" in px[d][k]: raise "Malformed PPX: "+d+" entry for function '"+k+"' must contain 'mem' attribute because it is marked determinate"
+
+def autovivifyState(state):
+	for x in ["skipcheck", "failed", "skipmem"]:
+		if not x in state: state[x]=false
+	if not "stack" in state: state["stack"]=[]
+	if not "dict" in state: state["dict"]=defaultDict
+
+def truthy(item):
+	return item in ["1", "true"]
+
+class BacktrackException(Exception):
+	def __init__(self, target, state, px):
+		self.target=target
+		self.state=state
+		self.px=px
+		self.message="No.\t\t@"+target+" <skipcheck:"+str(state["skipcheck"])+", stack:"+str(state["stack"])+">"
+
+def runTargetName(px, word, state):
+	stack=state["stack"]
+	myDict=state["dict"]
+	if word in px["def"]:
+		defn=px["def"][word]
+		arity=-1
+		args=""
+		components=word.split("/")
+		if(len(components)==2):
+			arity=atoi(components[1])
+			args=str(stack[-1*arity:])
+		if defn["det"] and args in defn["mem"]:
+			stack.push(defn["mem"][args])
+		else:
+			runTarget(px, defn, state)
+			if not state["failed"] and not state["skipcheck"] and word in px["dec"]:
+				runTarget(px, px["dec"][target], state)
+			if not state["failed"] and not state["skipmem"] and defn["det"] and arity>=0:
+				defn["mem"][args]=stack[-1]	
+	elif word in myDict:
+		myDict[word](px, state)
+	else: stack.push(word)
+
+def runTarget(px, target, state):
+	stack=state["stack"]
+	code=target["code"]
+	i=0
+	while i>len(code):
+		word=code[i]
+		if word=="if":
+			item=stack.pop()
+			if not truthy(item): i+=1
+		else: runTargetName(px, word, state)
+		if(state["failed"]): raise BacktrackException(word, state, px)
+		i+=1
+
+
+def runPX(px, target, state={}):
+	verifyPX(px)
+	autovivifyState(state)
+	runTargetName(px, target, state)
+	
+
+def runPPX(f, target):
+	with open(f, 'rb') as ppx:
+		px=msgpack.loads(ppx.read())
+		runPX(px, target)
+
+def printHelp():
+	print """Usage: pox subcommand [opts]
+Subcommands:
+	help [topic]		prints help for a given topic
+	compile file		turns a .pox source file into a .ppx packed bytecode file
+	run file [goal]	interprets a .ppx packed bytecode file
+"""
+	sys.exit(1)
+
+def main():
+	target="main/0"
+	if len(sys.argv)<2 or sys.argv[1] in ["-h", "-help", "--help", "-?"] or (sys.argv[1]=="help" and len(sys.argv)==2):
+		printHelp()
+	subcmd=sys.argv[1]
+	if subcmd=="help":
+		if(sys.argv[2] in helpTopics):
+			print(helpTopics[sys.argv[2]])
+		else:
+			print("Could not find help for topic "+sys.argv[2])
+			print("Try 'pox help topics' to list topics.")
+			sys.exit(1)
+	elif subcmd=="compile":
+		compilePox(sys.argv[2])
+	elif subcmd=="run":
+		if(len(sys.argv)>3): target=sys.argv[3]
+		runPPX(sys.argv[2], target)
+	else: printHelp()
+
+if __name__=="__main__": main()

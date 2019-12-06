@@ -12189,3 +12189,4 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-12-06T08:24:13-05:00	GitHub - soimort/translate-shell: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. https://github.com/soimort/translate-shell
 2019-12-06T09:55:00-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/prize-money-is-sent-if-you-dont-receive-it-leave-another-comment-78a09e7a8bd2
 2019-12-06T10:00:01-05:00	Random link from the archives: https://web.archive.org/web/20181127110846/https://www.sonniesedge.co.uk/posts/progressive-enhancement originally posted Tue Nov 27 11:08:46 EST 2018/
+2019-12-06T10:13:15-05:00	Dear lazyweb: is this language design worth implementing? https://github.com/enkiv2/misc/blob/master/pox/README.md
