@@ -183,6 +183,15 @@ https://www.haiku-os.org/docs/HIG/index.xml
 https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/
 https://osvoyager.wordpress.com/2018/11/30/what-makes-beos-and-haiku-unique/
 https://www.youtube.com/watch?v=cjriSNgFHsM
+Apollo / AEGIS / Domain
+https://wiki.mamedev.org/index.php/Driver:Apollo
+http://www.textfiles.com/bitsavers/pdf/apollo/AEGIS_Overview_1985.pdf
+http://www.textfiles.com/bitsavers/pdf/apollo/AEGIS_Internals_and_Data_Structures_Jan86.pdf
+http://www.textfiles.com/bitsavers/pdf/apollo/brochures/Apollo_DomainOS_Brochure_Jul88.pdf
+http://www.textfiles.com/bitsavers/pdf/apollo/Apollo_Domain_Architecture_Preliminary_Jan81.pdf
+http://www.textfiles.com/bitsavers/pdf/apollo/Apollo_DOMAIN_Architecture_Feb81.pdf
+http://www.typewritten.org/Articles/Apollo/005488-02.pdf
+http://www.textfiles.com/bitsavers/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf
 Multics
 http://swenson.org/multics_wiki/index.php?title=Getting_Started#Using_the_Multics_QuickStart
 https://ban.ai/multics/
