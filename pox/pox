@@ -95,6 +95,7 @@ def runTargetName(px, word, state):
 				defn["mem"][args]=stack[-1]	
 	elif word in myDict:
 		myDict[word](px, state)
+	elif word[0]=="^": stack.push(px["persistent"][word[1:]])
 	else: stack.push(word)
 
 def runTarget(px, target, state):
@@ -120,7 +121,7 @@ def runPX(px, target, state={}):
 def runPPX(f, target):
 	with open(f, 'rb') as ppx:
 		px=msgpack.loads(ppx.read())
-		runPX(px, target)
+		runPX(px, target, {"file":f})
 
 def printHelp():
 	print """Usage: pox subcommand [opts]

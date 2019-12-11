@@ -12190,3 +12190,121 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-12-06T09:55:00-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/prize-money-is-sent-if-you-dont-receive-it-leave-another-comment-78a09e7a8bd2
 2019-12-06T10:00:01-05:00	Random link from the archives: https://web.archive.org/web/20181127110846/https://www.sonniesedge.co.uk/posts/progressive-enhancement originally posted Tue Nov 27 11:08:46 EST 2018/
 2019-12-06T10:13:15-05:00	Dear lazyweb: is this language design worth implementing? https://github.com/enkiv2/misc/blob/master/pox/README.md
+2019-12-06T13:55:13-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/it-seems-like-what-medium-is-doing-is-creating-a-subscription-only-publication-of-their-own-847b41eb6a19
+2019-12-06T14:00:08-05:00	Random link from the archives: https://web.archive.org/web/20191016073251/https://medium.com/p/the-uber-counterculture-ad0674aba359 originally posted Wed Oct 16 07:32:51 EDT 2019/
+2019-12-06T17:55:22-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-legality-of-the-provenance-of-the-material-is-irrelevant-to-the-ethics-of-reporting-dcc6f28329bf
+2019-12-06T18:00:16-05:00	Random link from the archives: https://web.archive.org/web/20190128070907/https://www.eff.org/deeplinks/2019/01/device-ownership-civil-liberties-issue originally posted Mon Jan 28 07:09:07 EST 2019/
+2019-12-06T21:55:34-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-you-decide-to-collate-the-results-id-find-that-fascinating-bbaa51f8ebdc
+2019-12-06T22:00:23-05:00	Random link from the archives: https://web.archive.org/web/20190120200905/https://www.youtube.com/watch?v=Qvn7VASEkgw originally posted Sun Jan 20 20:09:05 EST 2019/
+2019-12-06T22:51:06-05:00	Band name of the day: the grand guginol of common magic
+2019-12-07T01:55:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-key-thing-here-is-not-that-this-time-is-different-than-the-60s-or-that-the-people-writing-a44c7f62430e
+2019-12-07T02:00:31-05:00	Random link from the archives: https://web.archive.org/web/20190819085602/http://www.rawillumination.net/2019/08/eight-reasons-to-join-widows-son.html originally posted Mon Aug 19 08:56:02 EDT 2019/
+2019-12-07T05:56:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/but-the-reality-is-most-people-don-t-want-just-a-universal-basic-income-2f587486478b
+2019-12-07T06:00:38-05:00	Random link from the archives: https://web.archive.org/web/20171107133046/https://tedium.co/2017/05/18/intel-386-486-trademark-battles/ originally posted Tue Nov  7 13:30:46 EST 2017/
+2019-12-07T09:56:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-dont-see-how-rust-s-design-is-compatible-with-any-of-my-suggestions-f34687127a0f
+2019-12-07T10:00:48-05:00	Random link from the archives: https://web.archive.org/web/20190111150951/https://www.youtube.com/watch?v=jCX77Je16fk originally posted Fri Jan 11 15:09:51 EST 2019/
+2019-12-07T10:55:09-05:00	Band name of the day: butt lift specialist
+2019-12-07T10:55:29-05:00	Band name of the day: the dense web of the asinine world
+2019-12-07T13:56:26-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/one-peeve-i-have-with-this-analysis-is-even-if-you-consider-a-dysfunctional-government-to-be-c5ec437678ea
+2019-12-07T14:00:55-05:00	Random link from the archives: https://web.archive.org/web/20180911102234/https://www.atlasobscura.com/articles/museum-of-capitalism-boston originally posted Tue Sep 11 10:22:34 EDT 2018/
+2019-12-07T14:48:07-05:00	Creative Computing Magazine (May 1979) Volume 05 Number 05 : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/creativecomputing-1979-05/page/n83
+2019-12-07T14:53:44-05:00	How To Get A Book Deal in Ten Years or Less - YouTube https://www.youtube.com/watch?v=tuRE55YH8yE
+2019-12-07T17:56:38-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/post-mortem-of-a-fiction-generator-asemic-writing-with-some-properties-of-natural-languages-2b008fbf8563
+2019-12-07T18:01:03-05:00	Random link from the archives: https://web.archive.org/web/20180904094715/https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/ originally posted Tue Sep  4 09:47:15 EDT 2018/
+2019-12-07T21:56:49-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-manufacture-of-steam-engine-time-9f83cd24a9b0
+2019-12-07T22:01:10-05:00	Random link from the archives: https://web.archive.org/web/20170615085513/https://en.m.wikipedia.org/wiki/Assemblage_theory?wprov=sfla1 originally posted Thu Jun 15 08:55:13 EDT 2017/
+2019-12-08T01:57:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/do-most-students-really-start-their-undergraduate-experience-completely-ignorant-of-the-vast-8470537a83a4
+2019-12-08T02:01:18-05:00	Random link from the archives: https://web.archive.org/web/20191021114240/https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor originally posted Mon Oct 21 11:42:40 EDT 2019/
+2019-12-08T05:57:13-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/fiction-generator-post-mortem-comic-book-generation-9df847dd4ada
+2019-12-08T06:01:26-05:00	Random link from the archives: https://web.archive.org/web/20181113031453/http://man.cat-v.org/inferno/9/intro originally posted Tue Nov 13 03:14:53 EST 2018/
+2019-12-08T07:58:51-05:00	Band name of the day: lawnmower meat
+2019-12-08T08:14:25-05:00	Bad idea of the day: pumping your entire marketing budget into getting shoutouts from early 90s z-listers on cameo
+2019-12-08T09:57:32-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/rather-than-asking-how-did-i-come-to-this-belief-which-may-be-irrelevant-we-can-accidentally-e59456a1ff38
+2019-12-08T10:01:34-05:00	Random link from the archives: https://web.archive.org/web/20180504095158/https://tedium.co/2018/04/10/nes-homebrew-scene-history/ originally posted Fri May  4 09:51:58 EDT 2018/
+2019-12-08T13:57:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-think-that-people-asking-the-wrong-questions-really-saved-us-here-528cb8df7db4
+2019-12-08T14:01:46-05:00	Random link from the archives: https://web.archive.org/web/20180628095638/http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html originally posted Thu Jun 28 09:56:38 EDT 2018/
+2019-12-08T17:58:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/asap-as-possible-is-redundant-2c54961883
+2019-12-08T18:01:55-05:00	Random link from the archives: https://web.archive.org/web/20180728134708/https://jacobitemag.com/2018/07/27/the-conversations-that-cryptocurrency-kills/ originally posted Sat Jul 28 13:47:08 EDT 2018/
+2019-12-08T21:58:25-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-idea-that-major-religious-figures-are-ambassadors-from-outer-space-goes-back-at-least-to-214302f2099c
+2019-12-08T22:02:02-05:00	Random link from the archives: https://web.archive.org/web/20190829100858/https://www.axios.com/newsletters/axios-codebook-ea822490-7fe4-48e3-9e46-6f54a28ad5a2.html originally posted Thu Aug 29 10:08:58 EDT 2019/
+2019-12-09T01:58:41-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-language-around-free-speech-in-civil-libertarian-circles-is-flawed-290b9f5cbb0f
+2019-12-09T02:02:10-05:00	Random link from the archives: https://web.archive.org/web/20180920131345/https://motherboard.vice.com/en_us/article/9kv9qd/the-joe-rogan-experience-is-a-safe-space-to-launder-bad-ideas originally posted Thu Sep 20 13:13:45 EDT 2018/
+2019-12-09T05:59:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/our-systems-even-on-relatively-longread-friendly-platforms-like-medium-disincentivize-nuance-f65765184547
+2019-12-09T06:02:17-05:00	Random link from the archives: https://web.archive.org/web/20190429104251/http://metamodular.com/Common-Lisp/lispos.html originally posted Mon Apr 29 10:42:51 EDT 2019/
+2019-12-09T08:17:20-05:00	Guidelines For Female Protagonists In Hallmark Christmas Movies - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/guidelines-for-female-protagonists-in-hallmark-christmas-movies
+2019-12-09T08:20:42-05:00	My Grading Scale for the Fall Semester, Composed Entirely of Samuel Beckett Quotes - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/my-grading-scale-for-the-fall-semester-composed-entirely-of-samuel-beckett-quotes
+2019-12-09T08:32:24-05:00	I, Joe Biden, Don’t Support Medicare for All Because My Health Care Plan Is to Restart the Opium Wars - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/i-joe-biden-dont-support-medicare-for-all-because-my-health-care-plan-is-to-restart-the-opium-wars
+2019-12-09T08:33:51-05:00	Caller ID History: How Our Views on Phone Privacy Changed https://tedium.co/2019/12/05/telephone-caller-id-history/
+2019-12-09T08:42:17-05:00	Band name of the day: that dragon, error
+2019-12-09T08:59:18-05:00	seven-fisted space detective
+2019-12-09T09:59:23-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-is-a-good-point-3c530922c72c
+2019-12-09T10:02:24-05:00	Random link from the archives: https://web.archive.org/web/20170804115211/http://tenyearsago.io/ originally posted Fri Aug  4 11:52:11 EDT 2017/
+2019-12-09T10:10:34-05:00	Why Are Cops Around the World Using This Outlandish Mind-Reading Tool? " ProPublica https://www.propublica.org/article/why-are-cops-around-the-world-using-this-outlandish-mindreading-tool
+2019-12-09T10:37:10-05:00	Is there anything especially expert about being a philosopher? | Aeon Ideas https://aeon.co/ideas/is-there-anything-especially-expert-about-being-a-philosopher
+2019-12-09T10:39:10-05:00	The Octopus from Outer Space | Seattle Met https://www.seattlemet.com/articles/2019/12/2/the-octopus-from-outer-space
+2019-12-09T10:46:02-05:00	Attention Required! | Cloudflare https://codepen.io/JKirchartz/full/gObarKg
+2019-12-09T11:19:39-05:00	Devil in the Details: ‘The Occult Coloring Book’, 1971  https://wearethemutants.com/2019/08/14/devil-in-the-details-the-occult-coloring-book-1971/
+2019-12-09T11:20:35-05:00	Pardon Our Interruption https://www.chronicle.com/article/Whats-the-Big-Idea-/124277/
+2019-12-09T11:21:49-05:00	Experiments with Making Convincing AI-Generated Fake News | Max Woolf's Blog https://minimaxir.com/2019/09/ctrl-fake-news/
+2019-12-09T11:24:45-05:00	L-systems https://jsantell.com/l-systems
+2019-12-09T11:26:57-05:00	GitHub - infostreams/db: Version control for databases: save, restore, and archive snapshots of your database from the command line https://github.com/infostreams/db
+2019-12-09T11:32:27-05:00	tired: obsessing over the performance of your code; wired: obsessing over the incentive structures enforced by your code
+2019-12-09T11:33:56-05:00	A tool of thought - Vector https://vector.org.uk/a-tool-of-thought/
+2019-12-09T11:44:42-05:00	Write Amplification through Stimulated Emission of Reads (WASER)
+2019-12-09T12:14:39-05:00	Podcast Passivity " Real Life https://reallifemag.com/podcast-passivity/
+2019-12-09T12:16:42-05:00	Perceptrons : Marvin L. Minsky : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/Perceptrons
+2019-12-09T12:31:18-05:00	Band name of the day: aerial board of control
+2019-12-09T12:36:46-05:00	Shelter.pdf - Google Drive https://drive.google.com/file/d/1UJcO_Q_pyPxvqYnhqn-GOYDRT0OSeOab/view
+2019-12-09T12:40:04-05:00	What’s a Digital Bill of Rights Without Enforcement? | WIRED https://www.wired.com/story/whats-digital-bill-rights-without-enforcement/
+2019-12-09T12:43:17-05:00	Why Racists (and Liberals!) Keep Writing for Quillette | The Nation https://www.thenation.com/article/quillette-fascist-creep/
+2019-12-09T12:49:12-05:00	Then WeCame to the End | Online Only | n+1 https://nplusonemag.com/online-only/online-only/then-wecame-to-the-end/?mc_cid=17970e9ab5&mc_eid=c92bddb137
+2019-12-09T12:49:49-05:00	Zombie Miles And Napa Weekends: How A Week With Chauffeurs Showed The Major Flaw In Our Self-Driving Car Future https://jalopnik.com/zombie-miles-and-napa-weekends-how-a-week-with-chauffe-1839648416
+2019-12-09T12:50:16-05:00	What a Tour of an Amazon Fulfillment Center Reveals | The New Yorker https://www.newyorker.com/news/letter-from-silicon-valley/what-an-amazon-fulfillment-center-tour-reveals
+2019-12-09T12:51:57-05:00	Is the world ordered as a system or as a project? | Aeon Essays https://aeon.co/essays/is-the-world-ordered-as-a-system-or-as-a-project
+2019-12-09T12:53:03-05:00	Verso https://www.versobooks.com/blogs/4507-the-future-will-be-bumpy
+2019-12-09T12:54:37-05:00	Quit Playing Games with My Heart | Public Books https://www.publicbooks.org/quit-playing-games-with-my-heart/
+2019-12-09T12:55:03-05:00	GitHub - evildmp/BrachioGraph: BrachioGraph is an ultra-cheap (total cost of materials: €14) plotter that can be built with minimal skills. https://github.com/evildmp/BrachioGraph
+2019-12-09T12:58:12-05:00	The Logic of Information: A Theory of Philosophy as Conceptual Design // Reviews // Notre Dame Philosophical Reviews // University of Notre Dame https://ndpr.nd.edu/news/the-logic-of-information-a-theory-of-philosophy-as-conceptual-design/
+2019-12-09T13:20:05-05:00	How I Switched To Plan 9 http://helpful.cat-v.org/Blog/2019/12/03/0/
+2019-12-09T13:37:53-05:00	Bernie Sanders vows to break up huge ISPs and regulate broadband prices | Ars Technica https://arstechnica.com/tech-policy/2019/12/bernie-sanders-vows-to-break-up-huge-isps-and-regulate-broadband-prices/
+2019-12-09T13:39:43-05:00	Don't Learn to Code - Learn to Automate - DaedTech https://daedtech.com/dont-learn-to-code-learn-to-automate/
+2019-12-09T13:59:30-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/as-a-follow-up-id-like-to-reiterate-that-as-charlie-stross-says-bigotry-is-fractal-ad77a0489c4d
+2019-12-09T14:02:31-05:00	Random link from the archives: https://web.archive.org/web/20181025164124/https://www.youtube.com/watch?v=ZsHMHukIlJY originally posted Thu Oct 25 16:41:24 EDT 2018/
+2019-12-09T14:14:19-05:00	What Shattered My Mother’s Mind  https://longreads.com/2019/12/06/what-shattered-my-mothers-mind/
+2019-12-09T14:41:52-05:00	Comics as System https://www.theparisreview.org/blog/2019/12/09/comics-as-system/
+2019-12-09T16:24:26-05:00	the only explanation that makes any kind of sense is that we *are* being pranked, but whatever is doing the pranking is not human and is capable of inhuman feats
+2019-12-09T17:59:37-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-wonder-how-much-of-this-effect-has-to-do-with-the-mixture-of-pseudo-neutral-centralized-media-924736ee207c
+2019-12-09T18:02:39-05:00	Random link from the archives: https://web.archive.org/web/20171004131851/http://reallifemag.com/time-after-time/ originally posted Wed Oct  4 13:18:51 EDT 2017/
+2019-12-09T21:59:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/doesnt-this-really-seem-more-like-speech-to-phoneme-stream-21e55f9f70cf
+2019-12-09T22:02:46-05:00	Random link from the archives: https://web.archive.org/web/20190603101038/https://prog21.dadgum.com/30.html originally posted Mon Jun  3 10:10:38 EDT 2019/
+2019-12-10T01:59:57-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/john-m-fords-web-of-angels-bears-the-same-relationship-to-neuromancer-as-cordwainer-smith-s-376de0aa7422
+2019-12-10T02:02:53-05:00	Random link from the archives: https://web.archive.org/web/20181219122929/https://www.theparisreview.org/interviews/1887/don-delillo-the-art-of-fiction-no-135-don-delillo originally posted Wed Dec 19 12:29:29 EST 2018/
+2019-12-10T06:00:06-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/so-much-of-debugging-is-about-playing-the-game-of-lists-and-so-much-debugging-is-still-necessary-c732e774cfaa
+2019-12-10T06:03:02-05:00	Random link from the archives: https://web.archive.org/web/20180503093333/https://thebaffler.com/salvos/anarchists-guns-and-money-siegel originally posted Thu May  3 09:33:33 EDT 2018/
+2019-12-10T09:13:36-05:00	How William Gibson Keeps His Science Fiction Real | The New Yorker https://www.newyorker.com/magazine/2019/12/16/how-william-gibson-keeps-his-science-fiction-real
+2019-12-10T09:31:18-05:00	Band name of the day: hubley atomic disintegrator
+2019-12-10T10:00:14-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/theres-a-tradeoff-to-code-reuse-insomuch-as-code-written-for-a-different-problem-is-often-a-poor-d5a6b67f902d
+2019-12-10T10:03:10-05:00	Random link from the archives: https://web.archive.org/web/20180627104956/http://thequietus.com/articles/24852-john-coltrane-both-directions-at-once-the-lost-album-ted-gioia originally posted Wed Jun 27 10:49:56 EDT 2018/
+2019-12-10T10:05:16-05:00	Striking Workers Are Bringing Back 1970s 'Mindfuck' Tactics - VICE https://www.vice.com/en_uk/article/kzd7az/striking-workers-uk-mindfuck-tactics-uvw
+2019-12-10T11:06:42-05:00	The One-Traffic-Light Town with Some of the Fastest Internet in the U.S. | The New Yorker https://www.newyorker.com/tech/annals-of-technology/the-one-traffic-light-town-with-some-of-the-fastest-internet-in-the-us?verso=true
+2019-12-10T11:21:37-05:00	403 Forbidden https://kenyonreview.org/kr-online-issue/2019-janfeb/selections/sejal-shah-656342/
+2019-12-10T12:39:25-05:00	Failure Modes in Machine Learning - Security documentation | Microsoft Docs https://docs.microsoft.com/en-us/security/failure-modes-in-machine-learning
+2019-12-10T14:00:21-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/jamming-the-signal-better-living-through-subliminal-messages-f3a7b1c5c492
+2019-12-10T14:03:18-05:00	Random link from the archives: https://web.archive.org/web/20190909110716/https://wongmjane.com/blog/save-to-medium originally posted Mon Sep  9 11:07:16 EDT 2019/
+2019-12-10T14:34:05-05:00	in which some guy claims the reason Dan Dennett doesn't believe in p-zombies is because he is a p-zombie himself: https://kingdablog.com/2015/02/05/dennett-and-the-typical-mind-fallacy-2/
+2019-12-10T14:53:05-05:00	It's happening again. The 2020 No-Budget Film Contest is announced: https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2019-12-10T15:42:53-05:00	Band name of the day: body port hygene
+2019-12-10T16:09:16-05:00	Bad idea of the day: do a remake of Johnny Mnemonic, DO NOT update the production design, but rewrite the script to strengthen character arcs and remove the whole computers-cause-adhd thing, and then cast Keanu Reeves in it again
+2019-12-10T17:44:41-05:00	Bad idea of the day: revolutionary gyaru utena
+2019-12-10T18:00:30-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/spanning-problem-space-74e81c367bb7
+2019-12-10T18:03:26-05:00	Random link from the archives: https://web.archive.org/web/20190617094737/https://www.monbiot.com/2019/04/30/the-problem-is-capitalism/ originally posted Mon Jun 17 09:47:37 EDT 2019/
+2019-12-10T18:39:18-05:00	Who Made My Phone Do THIS?! - DEV Community '‍''‍' https://dev.to/lethargilistic/who-made-my-phone-do-this-1aan
+2019-12-10T22:00:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-modest-proposal-related-to-firearm-safety-681be7bf201b
+2019-12-10T22:03:35-05:00	Random link from the archives: https://web.archive.org/web/20181002195835/https://medium.com/p/why-the-french-elite-does-not-go-to-university-65f8706f4a39 originally posted Tue Oct  2 19:58:35 EDT 2018/
+2019-12-11T02:01:08-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-article-sort-of-represents-a-straw-man-version-of-the-reproducability-crisis-df80d2dac194
+2019-12-11T02:03:42-05:00	Random link from the archives: https://web.archive.org/web/20171106200515/https://mikelynch.org/2017/Sep/25/neuralgae-vgg/ originally posted Mon Nov  6 20:05:15 EST 2017/
+2019-12-11T06:01:27-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-thing-about-pair-programming-is-that-its-similar-to-other-closely-collaborative-creative-1cc3670efe39
+2019-12-11T06:03:49-05:00	Random link from the archives: https://web.archive.org/web/20180505145039/https://www.youtube.com/watch?v=sdBaS8fgwNs originally posted Sat May  5 14:50:39 EDT 2018/
+2019-12-11T10:01:51-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/how-to-fail-at-culture-jamming-7b409abf5db5
+2019-12-11T10:03:57-05:00	Random link from the archives: https://web.archive.org/web/20190128094446/http://langsec.org/occupy/ originally posted Mon Jan 28 09:44:46 EST 2019/
+2019-12-11T10:10:42-05:00	Band name of the day: eight foot death machine
