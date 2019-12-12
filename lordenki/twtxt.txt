@@ -12308,3 +12308,41 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-12-11T10:01:51-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/how-to-fail-at-culture-jamming-7b409abf5db5
 2019-12-11T10:03:57-05:00	Random link from the archives: https://web.archive.org/web/20190128094446/http://langsec.org/occupy/ originally posted Mon Jan 28 09:44:46 EST 2019/
 2019-12-11T10:10:42-05:00	Band name of the day: eight foot death machine
+2019-12-11T11:35:22-05:00	Language Log » AI is brittle https://languagelog.ldc.upenn.edu/nll/?p=45317
+2019-12-11T11:40:31-05:00	Category:Obsolete occupations - Wikipedia https://en.wikipedia.org/wiki/Category:Obsolete_occupations#mw-pages
+2019-12-11T12:25:36-05:00	Why the ‘Queen of Shitty Robots’ Renounced Her Crown | WIRED https://www.wired.com/story/simone-giertz-build-what-you-want/
+2019-12-11T12:31:03-05:00	Hey who else wants to build one of these https://www.ijcai.org/Proceedings/81-2/Papers/071.pdf
+2019-12-11T12:43:50-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/How-many-micromorts-is-not-being-unionized-worth
+2019-12-11T12:54:51-05:00	It's too bad that I already self-published all my good material on this topic. I could really use the clout of a real academic publisher behind my work. I'm sure I have some followers with unpublished in-progress ms though. https://uwestminsterpress.blog/2019/12/11/900/
+2019-12-11T13:44:13-05:00	How many micromorts is not being unionized worth? - Quora https://www.quora.com/unanswered/How-many-micromorts-is-not-being-unionized-worth
+2019-12-11T13:53:26-05:00	The Most Abandoned Books on GoodReads - Gwern.net https://www.gwern.net/GoodReads
+2019-12-11T13:54:57-05:00	On Digital Disinformation and Democratic Myths – MediaWell https://mediawell.ssrc.org/expert-reflections/on-digital-disinformation-and-democratic-myths/
+2019-12-11T14:02:02-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/science-fiction-movies-are-extremely-rare-59ec91c90ea3
+2019-12-11T14:02:06-05:00	GitHub - Storyyeller/IntercalScript: The IntercalScript programming language https://github.com/Storyyeller/IntercalScript
+2019-12-11T14:04:05-05:00	Random link from the archives: https://web.archive.org/web/20190702173732/http://www.lord-enki.net/stories.html originally posted Tue Jul  2 17:37:32 EDT 2019/
+2019-12-11T16:55:16-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Does-RenPy-have-sufficient-facilities-to-write-FMV-games-without-dropping-into-Python
+2019-12-11T17:55:29-05:00	Does Ren'Py have sufficient facilities to write FMV games without dropping into Python? - Quora https://www.quora.com/unanswered/Does-RenPy-have-sufficient-facilities-to-write-FMV-games-without-dropping-into-Python
+2019-12-11T18:02:11-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/being-intellectually-engaged-by-your-job-is-a-rare-privilege-one-that-is-really-only-possible-in-c124bb649e82
+2019-12-11T18:04:13-05:00	Random link from the archives: https://web.archive.org/web/20190808093011/https://futurism.media/david-cronenbergs-prophetic-videodrome originally posted Thu Aug  8 09:30:11 EDT 2019/
+2019-12-11T21:19:00-05:00	Buried Friends – xenogothic https://xenogothic.com/2019/12/04/buried-friends/
+2019-12-11T22:02:25-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/interview-with-a-transformer-ii-4ed0a19e3b90
+2019-12-11T22:04:21-05:00	Random link from the archives: https://web.archive.org/web/20180716120107/https://www.theverge.com/2018/7/15/17564588/datamosh-youtubeartifacts-glitch-art-kraftsow originally posted Mon Jul 16 12:01:07 EDT 2018/
+2019-12-12T02:02:47-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/commercial-success-is-almost-entirely-a-matter-of-luck-26fbc2f8b305
+2019-12-12T02:04:32-05:00	Random link from the archives: https://web.archive.org/web/20181031093810/https://botnik.org/goosebumps/ originally posted Wed Oct 31 09:38:10 EDT 2018/
+2019-12-12T06:03:07-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/initially-my-machines-were-named-after-classical-philosophers-and-mathematicians-starting-with-3d26b9fc9468
+2019-12-12T06:04:39-05:00	Random link from the archives: https://web.archive.org/web/20181030101405/https://www.theparisreview.org/blog/2018/10/29/the-draw-of-the-gothic/ originally posted Tue Oct 30 10:14:05 EDT 2018/
+2019-12-12T07:30:41-05:00	Band name of the day: professional lady rejectors
+2019-12-12T07:44:30-05:00	Many Strategies Fail Because They’re Not Actually Strategies https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies
+2019-12-12T07:53:30-05:00	Public Domain Art http://cuinine.com/artist/Utagawa%20Kuniyoshi?page=2
+2019-12-12T08:04:50-05:00	The classical solution to the problem of public integrity | Aeon Essays https://aeon.co/essays/the-classical-solution-to-the-problem-of-public-integrity
+2019-12-12T10:03:20-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/lol-koibito-cafe-e4db41164d46
+2019-12-12T10:03:45-05:00	The Eco-Fascists Are Coming https://www.harpersbazaar.com/culture/politics/a30086064/climate-change-eco-fascists/
+2019-12-12T10:04:50-05:00	Random link from the archives: https://web.archive.org/web/20190723080018/https://imgur.com/gallery/s0SqhdI originally posted Tue Jul 23 08:00:18 EDT 2019/
+2019-12-12T10:09:48-05:00	A Collection of Punched Cards http://www.jkmscott.net/data/Punched%20Cards.html
+2019-12-12T10:13:38-05:00	“Link In Bio” is a slow knife https://anildash.com/2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/
+2019-12-12T10:21:06-05:00	Theorypunk Afterword: Brain Worms | N Y X U S https://nyxus.xyz/posts/theorypunk-afterword/
+2019-12-12T10:23:45-05:00	Here We Go Again – xenogothic https://xenogothic.com/2019/11/18/here-we-go-again/
+2019-12-12T10:28:44-05:00	‘The Illuminatus! Trilogy’: Hivemind & Brian Taylor Conspire On Series – Deadline https://deadline.com/2019/12/the-illuminatus-trilogy-hivemind-and-brian-taylor-conspire-on-tv-series-1202805541/
+2019-12-12T10:29:17-05:00	RAWIllumination.net: Illuminatus! TV series announced http://www.rawillumination.net/2019/12/illuminatus-tv-series-announced.html
+2019-12-12T11:19:05-05:00	Modesty is not a cranky killjoy but a way to get more from life | Aeon Essays https://aeon.co/essays/modesty-is-not-a-cranky-killjoy-but-a-way-to-get-more-from-life
+2019-12-12T12:21:43-05:00	I am still working on that 'next book', Interfaces and Systems: A Survey Of Alternatives (which ended up not being 'next'). It's taking a while -- gotta obtain & read some dense out of print books, get emulators working for forgotten systems, learn programming languages, juggle with my day job. Research material (periodically updated) is at http://www.lord-enki.net/resources-survey-of-alternatives.html and http://www.lord-enki.net/survey-of-alternatives/further_reading.html
