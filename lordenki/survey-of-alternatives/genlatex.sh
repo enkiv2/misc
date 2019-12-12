@@ -1,10 +1,14 @@
 #!/usr/bin/env zsh
 (
+hyperlinkpackage="[breaklinks]{hyperref}" 	# for ebook use only -- does not reliably break long links, so KDP will reject for print books
+hyperlinkpackage="[hypens]{url}"						# for print book use only -- does not make links clickable
+
 echo '\\documentclass{memoir}
 \\usepackage{amsmath} % Advanced math typesetting
 \\usepackage[utf8]{inputenc} % Unicode support (Umlauts etc.)
-\\usepackage{hyperref}
+\\usepackage'"$hyperlinkpackage"'
 \\usepackage{graphicx} % Add pictures to your document
+\\usepackage{svg}
 \\usepackage{rotating}
 \\usepackage{listings} % Source code formatting and highlighting
 \\usepackage{fancyhdr}
@@ -41,7 +45,7 @@ All rites reversed
 \\listoftables
 \\mainmatter'
 echo '\\begin{sidewaysfigure}
-	\\includegraphics[width=8.5in]{../gui_evolution.png}
+	\\includesvg[width=8.5in]{gui_evolution}
 \\caption{The evolution of user interfaces, showing the flow of ideas between related projects}
 \\end{sidewaysfigure}'
 )> book.latex
