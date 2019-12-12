@@ -1,0 +1,40 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"53130",
+			"name":"Mutate!",
+			"releasedate":"2009-10-03",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s53\/53130\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a53130\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a53130",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a53130",
+			"musicinfo":{
+				"tags":[
+					"speakspell",
+					"harsh",
+					"electronic",
+					"techno"
+				],
+				"description":{
+					"en":"<p>Sampling:<\/p> <p>Track 1 samples from Revolution Void - The Politics of Desire (CC BY)<\/p> <p>Track 3 samples from the Join My Cult audiobook by James Curcio (CC NC)<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

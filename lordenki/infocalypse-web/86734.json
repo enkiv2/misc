@@ -1,0 +1,37 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"86734",
+			"name":"Travesty Generator",
+			"releasedate":"2011-03-05",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s86\/86734\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a86734\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a86734",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a86734",
+			"musicinfo":{
+				"tags":[
+					"soundtrack"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"103395",
+			"name":"Astounding Stories of Pseudo-Science",
+			"releasedate":"2011-12-09",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s103\/103395\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a103395\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a103395",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a103395",
+			"musicinfo":{
+				"tags":[
+					"soundtrack",
+					"piano",
+					"jam",
+					"jazz"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"85585",
+			"name":"The Broken Machine EP",
+			"releasedate":"2011-02-16",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s85\/85585\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a85585\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a85585",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a85585",
+			"musicinfo":{
+				"tags":[
+					"spokenword",
+					"jazz"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

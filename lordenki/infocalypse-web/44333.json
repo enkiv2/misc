@@ -1,0 +1,40 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"44333",
+			"name":"The Mechanist",
+			"releasedate":"2009-04-24",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s44\/44333\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a44333\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a44333",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a44333",
+			"musicinfo":{
+				"tags":[
+					"spokenword",
+					"ritual",
+					"electronic",
+					"techno"
+				],
+				"description":{
+					"en":"<p>The Mechanist is about the kind of transformative process of mental states discussed by Robert Anton Wilson, Phillip K Dick, and others, which was purportedly the true goal of alchemy.<\/p> <p>In the ultraminimalist style of Infocalypse's previous albums, it is composed almost completely of edited synthspeech, with audio effects taking the place of most things normally done via instruments.<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

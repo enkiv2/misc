@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"37428",
+			"name":"Interface",
+			"releasedate":"2008-12-29",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s37\/37428\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a37428\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a37428",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a37428",
+			"musicinfo":{
+				"tags":[
+					"spokenword",
+					"soundtrack"
+				],
+				"description":{
+					"en":"<div class=\"entry\"> <p>Our fourth album, Interface, is a variant on the themes explored in One Point Oh and THE MACHINE STOPS. We tried to branch out with the style found in One Point Oh, and add more variety to the sound.<\/p> <p>Interface follows the format found in One Point Oh, wherein the album itself is a single multi-segment poem punctuated by minimalist effects. Whereas One Point Oh had a more general focus, and mainly was concerned with collective posthumanity, Interface focuses more on the individual experience.<\/p> <p>There is no denying that the style of our past two albums is an acquired taste, but I am pretty happy with the way this new EP came out. I hope you will be too.<\/p> <\/div>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

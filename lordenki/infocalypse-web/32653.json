@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"32653",
+			"name":"The Machine Stops",
+			"releasedate":"2008-10-10",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s32\/32653\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a32653\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a32653",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a32653",
+			"musicinfo":{
+				"tags":[
+					"soundtrack",
+					"ritual"
+				],
+				"description":{
+					"en":"<p>&nbsp;<\/p> <p>An experimental first album from Infocalypse.<\/p> <p>A hardcopy can be bought from http:\/\/www.cafepress.com\/infocalypse2012<\/p> <p>&nbsp;<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

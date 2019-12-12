@@ -1,0 +1,45 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"49456",
+			"name":"No Exit",
+			"releasedate":"2009-07-28",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s49\/49456\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a49456\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a49456",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a49456",
+			"musicinfo":{
+				"tags":[
+					"experimental",
+					"easylistening",
+					"adventure",
+					"computer",
+					"electronic",
+					"drum",
+					"synthesizer",
+					"folk",
+					"classical"
+				],
+				"description":{
+					"en":"<p>No Exit is another concept album. For the first time, I have sampled. The following is a track by track list of sampled albums:<\/p> <p>1. samples from Aliester Crowley: The Beast Speaks (public domain) and Traffic In My Head - Minor Themes (CC BY)<\/p> <p>2. samples from Gerador Zero - #!\/bin\/bash (CC BY\/SA)<\/p> <p>3. samples from Gerador Zero - #!\/bin\/bash (CC BY\/SA)<\/p> <p>4. samples from Infocalypse - The Machine Stops (CC BY\/SA), Luther Blissett - The Open Pop Star (explicit public domain), and samples text from Guy Debord's The Society of the Spectacle (also explicit public domain)<\/p> <p>5. samples from Revolution Void - The Politics of Desire (CC BY\/SA)<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"120657",
+			"name":"Pretty Demon Lines EP",
+			"releasedate":"2013-04-14",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s120\/120657\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a120657\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a120657",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a120657",
+			"musicinfo":{
+				"tags":[
+					"computer",
+					"ambient",
+					"electronic",
+					"soundtrack",
+					"dramatic",
+					"downtempo",
+					"triphop",
+					"drum"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

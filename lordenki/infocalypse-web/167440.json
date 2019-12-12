@@ -1,0 +1,43 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"167440",
+			"name":"Generative V",
+			"releasedate":"2017-04-06",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s167\/167440\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a167440\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a167440",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a167440",
+			"musicinfo":{
+				"tags":[
+					"generated",
+					"generative",
+					"experimental",
+					"electronical",
+					"elektro",
+					"electronic",
+					"electronik"
+				],
+				"description":{
+					"en":"<p>Generated with clisynth (https:\/\/github.com\/enkiv2\/clisynth\/blob\/master\/randomMelodyChords.py). The title is the random seed.<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

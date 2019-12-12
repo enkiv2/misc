@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"125467",
+			"name":"Light Fuse and Get Away",
+			"releasedate":"2013-09-11",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s125\/125467\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a125467\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a125467",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a125467",
+			"musicinfo":{
+				"tags":[
+					"soundscape",
+					"soundtrack"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"168936",
+			"name":"Intellectual Self-Mutilation",
+			"releasedate":"2017-06-06",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s168\/168936\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a168936\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a168936",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a168936",
+			"musicinfo":{
+				"tags":[
+					"partiallygenerated",
+					"experimental",
+					"soundtrack",
+					"electronic",
+					"twelvetone",
+					"canon"
+				],
+				"description":{
+					"en":"<p>In this album I've been experimenting with some tools for composing 12-tone compositions with Schoenberg rules and for creating canons of various types out of arbitrary melodies. I have manually combined the results and included the best here. So, this album is partially-generated, or the result of computer-assisted composition.<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

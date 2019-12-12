@@ -1,0 +1,42 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"165310",
+			"name":"Horror Soundtrack III",
+			"releasedate":"2017-01-20",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s165\/165310\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a165310\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a165310",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a165310",
+			"musicinfo":{
+				"tags":[
+					"experimental",
+					"soundscape",
+					"ambient",
+					"soundtrack",
+					"electronic",
+					"ritual"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

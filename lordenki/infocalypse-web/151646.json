@@ -1,0 +1,43 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"151646",
+			"name":"Boom Crutches",
+			"releasedate":"2015-09-02",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s151\/151646\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a151646\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a151646",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a151646",
+			"musicinfo":{
+				"tags":[
+					"experimental",
+					"soundtracks",
+					"ambient",
+					"soundtrack",
+					"electronic",
+					"dramatic",
+					"rock"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

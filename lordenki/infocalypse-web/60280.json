@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"60280",
+			"name":"Fish",
+			"releasedate":"2010-01-28",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s60\/60280\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a60280\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a60280",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a60280",
+			"musicinfo":{
+				"tags":[
+					"speakspell",
+					"minimal"
+				],
+				"description":{
+					"en":"<p>Tracks 1 and 3 sample from Paniq's CC BY\/SA-licensed album 'From Zero To Hero'<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

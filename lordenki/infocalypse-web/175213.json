@@ -1,0 +1,40 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"175213",
+			"name":"Music For Spaceports",
+			"releasedate":"2018-02-28",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s175\/175213\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a175213\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a175213",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a175213",
+			"musicinfo":{
+				"tags":[
+					"drone",
+					"soundscape",
+					"ambient"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":"",
+					"ja":""
+				}
+			}
+		}
+	]
+}

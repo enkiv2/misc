@@ -1,0 +1,42 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"172331",
+			"name":"The Spirit Vengance EP",
+			"releasedate":"2017-11-10",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s172\/172331\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a172331\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a172331",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a172331",
+			"musicinfo":{
+				"tags":[
+					"infocalypse",
+					"denpa",
+					"experimental",
+					"demo",
+					"electronic",
+					"voicecollage"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

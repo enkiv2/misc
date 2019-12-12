@@ -1,0 +1,41 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"155580",
+			"name":"Ghost Oppressor",
+			"releasedate":"2016-01-17",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s155\/155580\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a155580\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a155580",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a155580",
+			"musicinfo":{
+				"tags":[
+					"experimental",
+					"soundscape",
+					"noise",
+					"electronic",
+					"rock"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

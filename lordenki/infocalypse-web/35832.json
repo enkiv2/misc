@@ -1,0 +1,37 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"35832",
+			"name":"One Point Oh",
+			"releasedate":"2008-12-01",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s35\/35832\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a35832\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a35832",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a35832",
+			"musicinfo":{
+				"tags":[
+					"soundtrack"
+				],
+				"description":{
+					"en":"<p>Our third album (Jamendo rejected the second on the grounds that it was purely spokenword and had no instrumentals) is One Point Oh: a minimalist synthesized soundscape overwritten by a vocoder voice. This uses several lyric sets originally intended for the previous band.<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

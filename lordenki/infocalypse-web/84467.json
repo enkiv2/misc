@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"84467",
+			"name":"Steroids for Stockbrokers",
+			"releasedate":"2011-01-30",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s84\/84467\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a84467\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a84467",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a84467",
+			"musicinfo":{
+				"tags":[
+					"electronic",
+					"techno"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"88822",
+			"name":"Raygun Gothic",
+			"releasedate":"2011-04-06",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s88\/88822\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a88822\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a88822",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a88822",
+			"musicinfo":{
+				"tags":[
+					"soundtrack",
+					"dramatic"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

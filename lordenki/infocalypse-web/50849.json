@@ -1,0 +1,38 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"50849",
+			"name":"Delusional Science Incorporated",
+			"releasedate":"2009-08-23",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s50\/50849\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a50849\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a50849",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a50849",
+			"musicinfo":{
+				"tags":[
+					"peaceful",
+					"spokenword"
+				],
+				"description":{
+					"en":"<p>This album, in continuation of the themes of The Mechanist and No Exit, acts to join those themes with the earlier albums. We have been playing with the idea of synthspeech as percussion and melody.<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

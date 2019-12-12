@@ -1,0 +1,45 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"128412",
+			"name":"Generative 2: More Music for People Who Don't Like Music",
+			"releasedate":"2013-11-08",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s128\/128412\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a128412\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a128412",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a128412",
+			"musicinfo":{
+				"tags":[
+					"sad",
+					"soundtrack",
+					"piano",
+					"jazz",
+					"generative",
+					"experimental",
+					"other",
+					"classical",
+					"keyboard"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

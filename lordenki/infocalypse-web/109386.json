@@ -1,0 +1,39 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"109386",
+			"name":"Ludibrium",
+			"releasedate":"2012-04-13",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s109\/109386\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a109386\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a109386",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a109386",
+			"musicinfo":{
+				"tags":[
+					"dramatic",
+					"texture",
+					"soundtrack"
+				],
+				"description":{
+					"en":"<p>&nbsp;This is my attempt at a 'long' album. All the previous ones have been too short!<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}

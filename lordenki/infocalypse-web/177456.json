@@ -1,0 +1,39 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"177456",
+			"name":"Night of the Corpse-Whale",
+			"releasedate":"2018-06-09",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s177\/177456\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a177456\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a177456",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a177456",
+			"musicinfo":{
+				"tags":[
+					"chip",
+					"electronic"
+				],
+				"description":{
+					"en":"",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":"",
+					"ja":""
+				}
+			}
+		}
+	]
+}

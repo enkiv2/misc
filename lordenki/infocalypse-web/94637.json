@@ -1,0 +1,40 @@
+{
+	"headers":{
+		"status":"success",
+		"code":0,
+		"error_message":"",
+		"warnings":"",
+		"results_count":1
+	},
+	"results":[
+		{
+			"id":"94637",
+			"name":"Generative (Music for People Who Don't Like Music)",
+			"releasedate":"2011-07-12",
+			"artist_id":"5060",
+			"artist_name":"Infocalypse",
+			"image":"https:\/\/imgjam1.jamendo.com\/albums\/s94\/94637\/covers\/1.400.jpg",
+			"zip":"https:\/\/mp3d.jamendo.com\/download\/a94637\/mp32\/",
+			"shorturl":"http:\/\/jamen.do\/l\/a94637",
+			"shareurl":"http:\/\/www.jamendo.com\/list\/a94637",
+			"musicinfo":{
+				"tags":[
+					"atonal",
+					"synthetic",
+					"electronic",
+					"techno"
+				],
+				"description":{
+					"en":"<p>All the tracks on this album were created automatically by randomized cellular automata. The software used to generate them is available upon request.<\/p>",
+					"fr":"",
+					"es":"",
+					"de":"",
+					"pl":"",
+					"it":"",
+					"ru":"",
+					"pt":""
+				}
+			}
+		}
+	]
+}
