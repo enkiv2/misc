@@ -12347,3 +12347,955 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2019-12-12T11:19:05-05:00	Modesty is not a cranky killjoy but a way to get more from life | Aeon Essays https://aeon.co/essays/modesty-is-not-a-cranky-killjoy-but-a-way-to-get-more-from-life
 2019-12-12T12:21:43-05:00	I am still working on that 'next book', Interfaces and Systems: A Survey Of Alternatives (which ended up not being 'next'). It's taking a while -- gotta obtain & read some dense out of print books, get emulators working for forgotten systems, learn programming languages, juggle with my day job. Research material (periodically updated) is at http://www.lord-enki.net/resources-survey-of-alternatives.html and http://www.lord-enki.net/survey-of-alternatives/further_reading.html
 2019-12-12T12:59:45-05:00	periodic reminder that i actually have a big discography (though i haven't released anything in a year and a half) http://infocalypse.nfshost.com/
+2019-12-12T14:03:38-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/mfom-pre-postmortem-92683b15ff2c
+2019-12-12T14:04:59-05:00	Random link from the archives: https://web.archive.org/web/20190524081554/http://stanleylieber.com/2019/05/23/0/ originally posted Fri May 24 08:15:54 EDT 2019/
+2019-12-12T14:19:26-05:00	Who Has the Right to Be a Writer? | Literary  Hub https://lithub.com/who-has-the-right-to-be-a-writer/
+2019-12-12T14:41:16-05:00	Band name of the day: load-bearing skeletons
+2019-12-12T14:50:14-05:00	Why are so many AI systems named after Muppets? - The Verge https://www.theverge.com/2019/12/11/20993407/ai-language-models-muppets-sesame-street-muppetware-elmo-bert-ernie
+2019-12-12T14:53:34-05:00	Smartly Intertwingled: The Augmented Wisdom of Crowds:  Rate the Raters and Weight the Ratings https://ucm.teleshuttle.com/2018/07/the-augmented-wisdom-of-crowds-rate.html
+2019-12-12T14:56:09-05:00	Knives Out’s lighting expert pulled out all the stops for the movie’s best closeups - Polygon https://www.polygon.com/2019/12/7/21000539/knives-out-lighting-windows-closeup-glasses-matt-mania-key-grip
+2019-12-12T14:57:14-05:00	O(n^2), again, now in WMI | Random ASCII – tech blog of Bruce Dawson https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/
+2019-12-12T14:59:53-05:00	How Video Games Inspire Great UX – Scott Jenson https://jenson.org/games/
+2019-12-12T15:01:45-05:00	YouTube expands anti-harassment policy to include all creators and public figures   - The Verge https://www.theverge.com/2019/12/11/21005185/youtube-harassment-policy-update-malicious-expression-public-figures-maza-crowder
+2019-12-12T15:14:18-05:00	Smartly Intertwingled: Filtering for Serendipity -- Extremism, "Filter Bubbles" and "Surprising Validators" https://ucm.teleshuttle.com/2012/10/filtering-for-serendipity-extremism.html
+2019-12-12T18:03:54-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/one-small-complaint-you-mention-moores-law-as-one-of-the-reasons-ml-is-having-a-rennaisance-b091491daba1
+2019-12-12T18:05:08-05:00	Random link from the archives: https://web.archive.org/web/20191005204058/https://www.youtube.com/watch?v=BqcuOSmEHVE originally posted Sat Oct  5 20:40:58 EDT 2019/
+2019-12-12T22:04:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-was-taking-executive-orders-into-account-here-eed09c8f1348
+2019-12-12T22:05:17-05:00	Random link from the archives: https://web.archive.org/web/20190625085322/https://www.techdirt.com/articles/20190619/17491542435/before-demanding-internet-companies-hire-more-moderators-perhaps-we-should-look-how-awful-job-is.shtml originally posted Tue Jun 25 08:53:22 EDT 2019/
+2019-12-12T22:46:47-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Was-Umineko-influenced-by-The-Colonels-Bequest
+2019-12-12T23:47:01-05:00	Was Umineko influenced by The Colonel's Bequest? - Quora https://www.quora.com/unanswered/Was-Umineko-influenced-by-The-Colonels-Bequest
+2019-12-13T02:04:19-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/books-that-should-be-made-into-movies-but-never-ever-will-5b86506b29ff
+2019-12-13T02:05:23-05:00	Random link from the archives: https://web.archive.org/web/20191018083346/https://medium.com/p/please-resist-googles-attempts-to-make-you-more-robotlike-2f5babd786aa originally posted Fri Oct 18 08:33:46 EDT 2019/
+2019-12-13T06:04:27-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/trendism-cognitive-stagnation-21c8e003df83
+2019-12-13T06:05:30-05:00	Random link from the archives: https://web.archive.org/web/20190128141312/http://www.vpri.org/pdf/hc_what_Is_a_dynabook.pdf originally posted Mon Jan 28 14:13:12 EST 2019/
+2019-12-13T10:04:34-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-thing-about-cultural-niches-is-that-they-are-created-by-and-for-mass-media-as-a-novelty-4e5853196ee3
+2019-12-13T10:05:38-05:00	Random link from the archives: https://web.archive.org/web/20190703134744/https://www.tor.com/2019/07/02/ten-favorite-flawed-books-that-are-always-worth-rereading/ originally posted Wed Jul  3 13:47:44 EDT 2019/
+2019-12-13T10:46:23-05:00	Band name of the day: precision listening
+2019-12-13T10:48:50-05:00	Band name of the day: murder market
+2019-12-13T11:17:02-05:00	Band name of the day: spitehouse
+2019-12-13T11:32:14-05:00	Tedium Holiday Gift Guide: Gifts From People Who Don’t Try https://tedium.co/2019/12/12/tedium-holiday-gift-guide/
+2019-12-13T11:33:57-05:00	Matrons, Monsters, Children: Femininity in The Lion, The Witch and the Wardrobe  |  Tor.com https://www.tor.com/2019/12/04/matrons-monsters-children-femininity-in-the-lion-the-witch-and-the-wardrobe/
+2019-12-13T11:36:15-05:00	Why your best idea may be your second favorite https://medicalxpress.com/news/2019-12-idea-favorite.html
+2019-12-13T11:36:50-05:00	Millennials Are Leaving Religion And Not Coming Back | FiveThirtyEight https://fivethirtyeight.com/features/millennials-are-leaving-religion-and-not-coming-back/
+2019-12-13T11:37:26-05:00	Quanta Magazine https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/
+2019-12-13T11:43:09-05:00	Artificial Intelligence: Threat or Menace? - Charlie's Diary http://www.antipope.org/charlie/blog-static/2019/12/artificial-intelligence-threat.html
+2019-12-13T12:05:31-05:00	Band name of the day: danger's comforter
+2019-12-13T12:08:01-05:00	Wild Light - SCP Foundation http://www.scp-wiki.net/the-wild-light
+2019-12-13T12:11:36-05:00	Rigorous mathematics | Xena https://xenaproject.wordpress.com/2019/12/07/rigorous-mathematics/
+2019-12-13T12:13:05-05:00	Is there anybody who does inexpensive good-quality custom self-adhesive bookplates? If sufficiently inexpensive, I'm in the market for a box of a thousand or so...
+2019-12-13T12:15:41-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Why-didnt-Carnival-of-Souls-spawn-a-whole-genre-the-way-Night-of-the-Living-Dead-did
+2019-12-13T14:04:42-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/1850-but-faster-b41b4392d3fe
+2019-12-13T14:05:45-05:00	Random link from the archives: https://web.archive.org/web/20190808093011/https://futurism.media/david-cronenbergs-prophetic-videodrome originally posted Thu Aug  8 09:30:11 EDT 2019/
+2019-12-13T18:04:50-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/themes-structure-in-the-double-mojo-vns-82205175f154
+2019-12-13T18:05:53-05:00	Random link from the archives: https://web.archive.org/web/20190115101145/https://sub-q.com/making-interactive-fiction-branching-choices/ originally posted Tue Jan 15 10:11:45 EST 2019/
+2019-12-13T22:04:59-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/transclusion-is-368cc2d3422e
+2019-12-13T22:06:01-05:00	Random link from the archives: https://web.archive.org/web/20191024113800/https://medium.com/@aareed/a-minimal-syntax-for-quantum-text-ac5b34308593 originally posted Thu Oct 24 11:38:00 EDT 2019/
+2019-12-14T02:05:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/absolutely-in-agreement-with-you-here-this-is-a-major-pet-peeve-f95faa668356
+2019-12-14T02:06:10-05:00	Random link from the archives: https://web.archive.org/web/20190816075806/https://archive.org/details/DesigningFreedom originally posted Fri Aug 16 07:58:06 EDT 2019/
+2019-12-14T06:05:24-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/have-you-determined-how-much-non-book-content-you-are-reading-during-the-day-a8d93a1a9154
+2019-12-14T06:06:21-05:00	Random link from the archives: https://web.archive.org/web/20180629114505/https://www.archdaily.com/894449/how-tree-trunks-are-cut-to-produce-wood-with-different-appearances-and-uses originally posted Fri Jun 29 11:45:05 EDT 2018/
+2019-12-14T10:05:34-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/on-funimations-recently-announced-licensing-plan-change-7d3f0364ebe4
+2019-12-14T10:06:28-05:00	Random link from the archives: https://web.archive.org/web/20170608131117/https://www.thenation.com/article/can-changing-our-porn-vocabulary-change-porn-itself/ originally posted Thu Jun  8 13:11:17 EDT 2017/
+2019-12-14T14:05:50-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-keep-on-being-reminded-of-sirius-cybernetic-corporation-the-company-in-the-hitchhiker-s-guide-ca19a1498aa7
+2019-12-14T14:06:37-05:00	Random link from the archives: https://web.archive.org/web/20190312104035/https://www.theatlantic.com/technology/archive/2011/09/weekend-poem-all-watched-over-by-machines-of-loving-grace/245251/ originally posted Tue Mar 12 10:40:35 EDT 2019/
+2019-12-14T18:06:06-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/so-theres-a-nuance-here-regarding-ubi-4eaa98302be0
+2019-12-14T18:06:44-05:00	Random link from the archives: https://web.archive.org/web/20190814121945/https://danielsz.github.io/blog/2019-08-05T21_14.html originally posted Wed Aug 14 12:19:45 EDT 2019/
+2019-12-14T22:06:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/do-you-listen-to-the-desert-oracle-radio-podcast-664aa3d5b15b
+2019-12-14T22:06:51-05:00	Random link from the archives: https://web.archive.org/web/20191107103537/https://aeon.co/essays/how-trance-states-forged-human-society-through-transcendence originally posted Thu Nov  7 10:35:37 EST 2019/
+2019-12-15T02:06:27-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-switched-to-nanogenmo-because-of-similar-commitment-problems-207d817323da
+2019-12-15T02:06:58-05:00	Random link from the archives: https://web.archive.org/web/20181120102737/https://longreads.com/2018/11/20/the-second-half-of-watergate-was-bigger-worse-and-forgotten-by-the-public/ originally posted Tue Nov 20 10:27:37 EST 2018/
+2019-12-15T06:06:35-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-gatekeeper-idea-you-mention-is-one-of-these-elements-that-i-feel-is-self-reinforcing-fb6764166e57
+2019-12-15T06:07:05-05:00	Random link from the archives: https://web.archive.org/web/20181206125040/https://breakermag.com/john-mcafee-is-73-very-stoned-and-running-for-president/ originally posted Thu Dec  6 12:50:40 EST 2018/
+2019-12-15T10:06:42-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/im-not-kidding-cc20a124305c
+2019-12-15T10:07:12-05:00	Random link from the archives: https://web.archive.org/web/20180401112233/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/meditations-on-morality-d6d4bb51d9e0 originally posted Sun Apr  1 11:22:33 EDT 2018/
+2019-12-15T14:06:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-came-to-the-same-conclusion-from-another-direction-af8befb81312
+2019-12-15T14:07:18-05:00	Random link from the archives: https://web.archive.org/web/20190814095532/https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/ originally posted Wed Aug 14 09:55:32 EDT 2019/
+2019-12-15T18:07:05-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/inertia-and-institutional-damage-in-politics-9d9e670c182
+2019-12-15T18:07:25-05:00	Random link from the archives: https://web.archive.org/web/20171030104057/https://www.thrillist.com/entertainment/nation/what-is-satanism-satanist-beliefs-imposters originally posted Mon Oct 30 10:40:57 EDT 2017/
+2019-12-15T18:57:29-05:00	Band name of the day: mount misery
+2019-12-15T21:57:43-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-movies-include-both-Matthew-Lillard-and-Nicholas-Cage
+2019-12-15T22:07:14-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/programming-a-computer-is-nothing-like-building-a-car-and-everything-like-changing-your-oil-390bf0b4ed0
+2019-12-15T22:07:32-05:00	Random link from the archives: https://web.archive.org/web/20190220112746/https://www.youtube.com/watch?v=4NYO7aoOOmk originally posted Wed Feb 20 11:27:46 EST 2019/
+2019-12-15T22:57:55-05:00	What movies include both Matthew Lillard and Nicholas Cage? - Quora https://www.quora.com/unanswered/What-movies-include-both-Matthew-Lillard-and-Nicholas-Cage
+2019-12-16T02:07:21-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-command-line-and-gui-replaced-voice-as-an-interaction-model-decades-ago-because-for-most-tasks-d994ab8e189e
+2019-12-16T02:07:39-05:00	Random link from the archives: https://web.archive.org/web/20190508091818/https://slatestarcodex.com/2019/05/02/little-known-types-of-eclipse/ originally posted Wed May  8 09:18:18 EDT 2019/
+2019-12-16T06:07:28-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-dont-think-this-is-an-internet-thing-per-se-8b3e9cc3db3a
+2019-12-16T06:07:46-05:00	Random link from the archives: https://web.archive.org/web/20181019160258/https://www.youtube.com/watch?v=2HoMsbxY9zA originally posted Fri Oct 19 16:02:58 EDT 2018/
+2019-12-16T07:51:16-05:00	Band name of the day: illegal butt surgery
+2019-12-16T08:10:33-05:00	Narrative Disorder https://firesidefiction.com/narrative-disorder
+2019-12-16T09:49:41-05:00	Truth and Coldness: Intensity, Christmas and 'Love Actually' – xenogothic https://xenogothic.com/2019/12/16/truth-and-coldness-intensity-christmas-and-love-actually/
+2019-12-16T09:50:02-05:00	The Haunted Tube Map | Londonist https://londonist.com/london/maps/the-haunted-tube-map
+2019-12-16T09:57:37-05:00	Band name of the day: desolation bay
+2019-12-16T09:59:48-05:00	Moebius Gives 18 Wisdom-Filled Tips to Aspiring Artists |  Open Culture http://www.openculture.com/2018/10/moebius-gives-18-wisdom-filled-tips-aspiring-artists.html
+2019-12-16T10:02:16-05:00	[ACC] Does Calorie Restriction Slow Aging? | Slate Star Codex https://slatestarcodex.com/2019/12/12/acc-does-calorie-restriction-slow-aging/
+2019-12-16T10:04:34-05:00	Nadia Eghbal | Reimagining the PhD https://nadiaeghbal.com/phd
+2019-12-16T10:07:35-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/in-case-anybody-is-wondering-what-double-mojo-the-name-i-released-mfom-under-means-it-s-from-d01b23fd229a
+2019-12-16T10:07:53-05:00	Random link from the archives: https://web.archive.org/web/20170724115844/http://boingboing.net/2017/07/16/these-trippy-videos-are-design.html originally posted Mon Jul 24 11:58:44 EDT 2017/
+2019-12-16T10:09:20-05:00	This kind of take is exactly why GUIs are, on average, so bad. We shouldn't avoid considering legitimate criticisms of tools & stacks out of a misguided desire to protect the people who prefer them. We should instead understand the positives & negatives of tools, & build better ones. https://dev.to/ben/on-gui-shaming-and-a-mountain-of-hot-takes-3oh0
+2019-12-16T10:40:16-05:00	Folgers Incest Ad: The Oral History of "Coming Home" for the Coffee Commercial's 10th Anniversary | GQ https://www.gq.com/story/folgers-incest-ad-oral-history
+2019-12-16T10:51:25-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-internet-disinfo-bots-predate-Serdar-Argic
+2019-12-16T11:51:35-05:00	What internet disinfo bots predate Serdar Argic? - Quora https://www.quora.com/unanswered/What-internet-disinfo-bots-predate-Serdar-Argic
+2019-12-16T12:33:01-05:00	On the origins of Marx’s general intellect http://matteopasquinelli.com/origins-marx-general-intellect/
+2019-12-16T12:35:05-05:00	Everybody calling the Cybertruck "brutalist" is wrong. | Inverse https://www.inverse.com/article/61479-cybertruck-brutalism-not-really
+2019-12-16T12:41:06-05:00	All Hail the Rat King  https://longreads.com/2019/12/11/rat-king-germany-nutcracker/
+2019-12-16T12:44:15-05:00	Meaning as Ambiguity https://www.ribbonfarm.com/2019/08/15/meaning-as-ambiguity/
+2019-12-16T12:47:08-05:00	'This is small talk purgatory': what Tinder taught me about love | Life and style | The Guardian https://www.theguardian.com/lifeandstyle/2019/dec/07/small-talk-purgatory-what-tinder-taught-me-about-love
+2019-12-16T12:53:08-05:00	Metabolic Monstrosities: Vampire Capital in the Anthropocene – The Wasted World https://thewastedworld.wordpress.com/2019/12/14/metabolic-monstrosities/
+2019-12-16T12:58:50-05:00	Consciousness is neither a spooky mystery nor an illusory belief | Aeon Essays https://aeon.co/essays/consciousness-is-neither-a-spooky-mystery-nor-an-illusory-belief
+2019-12-16T13:27:11-05:00	_AH ^ PRE FACE: Or How to Begin at the End http://www.ah-journal.net/issues/01/pre-face-or-how-to-begin-at-the-end
+2019-12-16T13:30:02-05:00	AI Weirdness • Play AI Dungeon 2. Become a dragon. Eat the moon. https://aiweirdness.com/post/189511103367/play-ai-dungeon-2-become-a-dragon-eat-the-moon
+2019-12-16T13:38:21-05:00	Calm Technology https://calmtech.com/
+2019-12-16T13:41:54-05:00	Res Obscura: 1950s Smart Homes and the Longevity of Design https://resobscura.blogspot.com/2019/12/1950s-smart-homes-and-longevity-of.html
+2019-12-16T13:45:41-05:00	The Amazon Premium http://calpaterson.com/amazon-premium.html
+2019-12-16T14:06:29-05:00	An introduction to metamodernism: the cultural philosophy of the digital age https://nesslabs.com/metamodernism
+2019-12-16T14:07:14-05:00	Metamodern Values for a Listening Society — Circular Conversations https://www.circularconversations.com/blog/metamodern-values-for-a-listening-society
+2019-12-16T14:07:43-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/in-short-it-seems-that-for-you-predictability-refers-to-output-while-uniformity-refers-to-d932a13200e0
+2019-12-16T14:07:43-05:00	The dark side of the Nordic model | Global Warming | Al Jazeera https://www.aljazeera.com/indepth/opinion/dark-side-nordic-model-191205102101208.html
+2019-12-16T14:08:00-05:00	Random link from the archives: https://web.archive.org/web/20190731160539/https://medium.com/p/the-military-has-a-plan-for-human-brain-waves-170c57956e9f originally posted Wed Jul 31 16:05:39 EDT 2019/
+2019-12-16T14:08:00-05:00	Google and YouTube moderators speak out on the work that’s giving them PTSD - The Verge https://www.theverge.com/2019/12/16/21021005/google-youtube-moderators-ptsd-accenture-violent-disturbing-content-interviews-video
+2019-12-16T14:08:55-05:00	Twitter wants to decentralize, but decentralized social network creators don’t trust it - The Verge https://www.theverge.com/2019/12/12/21012553/twitter-bluesky-decentralized-social-network-developers-reaction-mastodon-activitypub
+2019-12-16T14:18:06-05:00	The Best of “The Frailest Thing” | L.M. Sacasas https://thefrailestthing.com/2019/12/12/the-best-of-the-frailest-thing/
+2019-12-16T14:20:01-05:00	Mind the Gaps | data Blog = Blog { me :: Programmer, posts :: [Opinion] } https://asthasr.github.io/posts/mind-the-gaps/
+2019-12-16T15:21:04-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-16T15:35:17-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-is-the-biggest-driver-of-sales-for-visual-novels-in-anglophone-markets
+2019-12-16T16:35:34-05:00	What is the biggest driver of sales for visual novels in anglophone markets? - Quora https://www.quora.com/unanswered/What-is-the-biggest-driver-of-sales-for-visual-novels-in-anglophone-markets
+2019-12-16T18:08:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-wonder-if-your-experience-is-typical-99abad0595f6
+2019-12-16T18:08:08-05:00	Random link from the archives: https://web.archive.org/web/20191111195129/https://medium.com/p/crimson-peak-2015-limited-edition-blu-ray-arrow-video-e04a1400d634 originally posted Mon Nov 11 19:51:29 EST 2019/
+2019-12-16T20:21:20-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-16T20:28:33-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-projects-come-closest-to-the-lineage-of-Jef-Raskins-Humane-Interface-Humane-Environment
+2019-12-16T21:28:47-05:00	What projects come closest to the lineage of Jef Raskin's Humane Interface / Humane Environment? - Quora https://www.quora.com/unanswered/What-projects-come-closest-to-the-lineage-of-Jef-Raskins-Humane-Interface-Humane-Environment
+2019-12-16T22:08:11-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-lone-gunman-e0962a75f571
+2019-12-16T22:08:16-05:00	Random link from the archives: https://web.archive.org/web/20180115093502/https://kottke.org/18/01/foreclosing-on-the-future-of-the-book originally posted Mon Jan 15 09:35:02 EST 2018/
+2019-12-17T01:21:33-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-17T02:08:18-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-way-i-think-of-it-trying-to-learn-computer-science-without-learning-c-is-like-being-a-medieval-da597a925b8b
+2019-12-17T02:08:23-05:00	Random link from the archives: https://web.archive.org/web/20191203181025/https://archive.org/details/unlockedrecordings originally posted Tue Dec  3 18:10:25 EST 2019/
+2019-12-17T06:08:29-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/mycroft-a-predicate-logic-language-overview-post-mortem-e357fe80d53
+2019-12-17T06:08:30-05:00	Random link from the archives: https://web.archive.org/web/20191212145011/https://www.theverge.com/2019/12/11/20993407/ai-language-models-muppets-sesame-street-muppetware-elmo-bert-ernie originally posted Thu Dec 12 14:50:11 EST 2019/
+2019-12-17T06:21:40-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-17T10:08:48-05:00	Random link from the archives: https://web.archive.org/web/20190206080133/https://www.newyorker.com/news/news-desk/the-decline-of-historical-thinking originally posted Wed Feb  6 08:01:33 EST 2019/
+2019-12-17T10:08:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-have-to-agree-with-all-of-your-points-here-2fc5a2b71d0f
+2019-12-17T11:14:45-05:00	King Crimson  Happy With What You Have to Be Happy With  (Legendado) - YouTube https://www.youtube.com/watch?v=uj4caqoPgzQ
+2019-12-17T11:21:48-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-17T11:29:00-05:00	What if personal computers were a mistake, actually? https://zge.us.to/counterfactual.html
+2019-12-17T11:32:58-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-current-projects-come-closest-to-the-lineage-of-Doug-Engelbarts-NLS-Augment-work
+2019-12-17T11:33:08-05:00	I created my own deepfake"it took two weeks and cost $552 | Ars Technica https://arstechnica.com/science/2019/12/how-i-created-a-deepfake-of-mark-zuckerberg-and-star-treks-data/
+2019-12-17T12:03:51-05:00	Was the Buddha an awakened prince or a humble itinerant? | Aeon Essays https://aeon.co/essays/was-the-buddha-an-awakened-prince-or-a-humble-itinerant
+2019-12-17T12:09:49-05:00	"That Deep Romantic Chasm": Libertarianism, Neoliberalism, and the      Computer Culture.</p>    <p>Nelson's vision, in contrast, is rooted in a romantic, not utilitarian,      form of individualism. He was not envisioning h... http://www.uvm.edu/~tstreete/romantic_chasm.html
+2019-12-17T12:33:15-05:00	What current projects come closest to the lineage of Doug Engelbart's NLS/Augment work? - Quora https://www.quora.com/unanswered/What-current-projects-come-closest-to-the-lineage-of-Doug-Engelbarts-NLS-Augment-work
+2019-12-17T14:09:08-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/when-we-impose-our-philosophy-on-users-we-create-things-that-dont-work-out-of-the-box-for-those-12b2abf6dbf
+2019-12-17T14:09:08-05:00	Random link from the archives: https://web.archive.org/web/20180111085402/https://www.theatlantic.com/business/archive/2018/01/bitcoin-blockchain-silly-season/550184/ originally posted Thu Jan 11 08:54:02 EST 2018/
+2019-12-17T16:22:05-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-17T17:41:50-05:00	Band name of the day: room tone
+2019-12-17T18:09:28-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/antlr-may-be-superior-in-some-way-its-also-strictly-unnecessary-43e89d293137
+2019-12-17T18:09:28-05:00	Random link from the archives: https://web.archive.org/web/20181017080509/https://alternativebit.fr/posts/ultimate-writer/ originally posted Wed Oct 17 08:05:09 EDT 2018/
+2019-12-17T20:48:23-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-happened-to-Dario-Argentos-adaptation-of-E-T-A-Hoffmans-The-Sandman
+2019-12-17T21:22:14-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-17T21:48:39-05:00	What happened to Dario Argento's adaptation of E. T. A. Hoffman's The Sandman? - Quora https://www.quora.com/unanswered/What-happened-to-Dario-Argentos-adaptation-of-E-T-A-Hoffmans-The-Sandman
+2019-12-17T22:09:41-05:00	Random link from the archives: https://web.archive.org/web/20191207145334/https://www.youtube.com/watch?v=tuRE55YH8yE originally posted Sat Dec  7 14:53:34 EST 2019/
+2019-12-17T22:09:41-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-house-on-foulness-29592a4eabd8
+2019-12-18T02:09:59-05:00	Random link from the archives: https://web.archive.org/web/20190124085206/https://e360.yale.edu/digest/arborists-have-cloned-ancient-redwoods-from-their-massive-stumps originally posted Thu Jan 24 08:52:06 EST 2019/
+2019-12-18T02:09:59-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/yup-this-is-exactly-what-i-meant-48f16c7901a7
+2019-12-18T02:22:23-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-18T06:10:20-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/it-might-be-reasonably-controlled-it-might-not-9c7ce990951
+2019-12-18T06:10:20-05:00	Random link from the archives: https://web.archive.org/web/20191017091738/https://aeon.co/essays/ottoman-cosmopolitanism-and-the-myth-of-the-sectarian-middle-east originally posted Thu Oct 17 09:17:38 EDT 2019/
+2019-12-18T07:22:35-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-18T10:10:29-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/programming-as-expression-b7aa204851b
+2019-12-18T10:10:29-05:00	Random link from the archives: https://web.archive.org/web/20190711105953/https://github.com/wttw/dox originally posted Thu Jul 11 10:59:53 EDT 2019/
+2019-12-18T11:10:28-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-explains-the-similarities-between-Friday-the-13th-1980-and-Phenomena-1980-Is-it-parallel-invention-shared-staff-shared-influences
+2019-12-18T12:10:47-05:00	What explains the similarities between Friday the 13th (1980) and Phenomena (1980)? Is it parallel invention, shared sta... https://www.quora.com/What-explains-the-similarities-between-Friday-the-13th-1980-and-Phenomena-1980-Is-it-parallel-invention-shared-staff-shared-influences
+2019-12-18T12:22:43-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-18T13:21:19-05:00	Band name of the day: universal fuck orgy
+2019-12-18T13:27:25-05:00	Holiday TV Alternatives: Claymation Christmas, An American Tail https://tedium.co/2019/12/17/holiday-tv-alternatives/
+2019-12-18T13:30:38-05:00	Deserts, Screens, and Empty Smiles: The Vast Wastelands of Jean Baudrillard’s ‘America’  https://wearethemutants.com/2018/08/02/deserts-screens-and-empty-smiles-the-vast-wastelands-of-jean-baudrillards-america/
+2019-12-18T13:31:31-05:00	Sunny nihilism: 'Since discovering I’m worthless my life has felt precious' | Life and style | The Guardian https://www.theguardian.com/lifeandstyle/2019/dec/18/sunny-nihilism-since-discovering-im-worthless-my-life-has-felt-precious
+2019-12-18T13:38:14-05:00	I’m the Duolingo Owl and I’m Tired of Your Bullshit - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/im-the-duolingo-owl-and-im-tired-of-your-bullshit
+2019-12-18T13:38:41-05:00	[ACC] Is Eating Meat A Net Harm? | Slate Star Codex https://slatestarcodex.com/2019/12/11/acc-is-eating-meat-a-net-harm/
+2019-12-18T13:40:14-05:00	Zone of Ceremony https://blog.ploeh.dk/2019/12/16/zone-of-ceremony/
+2019-12-18T14:10:36-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-lot-of-the-ideas-about-oo-that-are-mentioned-in-mr-scalfanis-essay-were-pushed-and-popularized-deb54a087c2c
+2019-12-18T14:10:36-05:00	Random link from the archives: https://web.archive.org/web/20181113002816/http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model.txt&sortOrder=Sort+by+Date&topic=Software+Design originally posted Tue Nov 13 00:28:16 EST 2018/
+2019-12-18T15:00:18-05:00	project I've started but will probably never finish: curses-based hypertext viewer and editor, 2-pane with transpointing windows & bidirectional links (but one-to-one targets), vim-like editing facilities, xanaduspace-style transclusion (including from personal permascrolls)
+2019-12-18T15:04:15-05:00	snowden can't profit from his book & therefore you should pirate it (and deny the US government those profits)
+2019-12-18T16:00:07-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/How-long-would-it-take-for-savings-on-shaving-supplies-to-equal-the-cost-of-laser-hair-removal-on-the-scalp-assuming-daily-shaving-would-particular-shaving-supplies-change-the-math-substantially
+2019-12-18T17:00:24-05:00	How long would it take for savings on shaving sup... https://www.quora.com/unanswered/How-long-would-it-take-for-savings-on-shaving-supplies-to-equal-the-cost-of-laser-hair-removal-on-the-scalp-assuming-daily-shaving-would-particular-shaving-supplies-change-the-math-substantially
+2019-12-18T17:22:50-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-18T18:10:47-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/yeah-i-havent-recommended-this-for-mcdonalds-before-because-i-think-that-the-case-for-food-is-a-377f17d10524
+2019-12-18T18:10:47-05:00	Random link from the archives: https://web.archive.org/web/20190620130854/https://www.polygon.com/2019/6/19/18683634/neon-genesis-evangelion-hideaki-anno-depression-shinji-anime-characters-movies originally posted Thu Jun 20 13:08:54 EDT 2019/
+2019-12-18T22:11:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/thank-you-for-being-prime-the-impossibly-beautiful-anime-hologram-stewardess-says-as-six-axis-53043ee52228
+2019-12-18T22:11:01-05:00	Random link from the archives: https://web.archive.org/web/20180111182252/http://weirdfictionreview.com/2018/01/machen-vandermeer-weird-landscape-avatar-evil/ originally posted Thu Jan 11 18:22:52 EST 2018/
+2019-12-18T22:22:57-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-18T23:41:08-05:00	Random link from the archives: https://web.archive.org/web/20190117092403/http://www.pewinternet.org/2019/01/16/facebook-algorithms-and-personal-data/ originally posted Thu Jan 17 09:24:03 EST 2019/
+2019-12-19T02:11:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/soylent-definitely-wins-when-the-choices-are-between-soylent-a-candy-bar-and-nothing-at-all-64a020d253ad
+2019-12-19T02:11:10-05:00	Random link from the archives: https://web.archive.org/web/20190903114133/https://qr.ae/TWyZ9H originally posted Tue Sep  3 11:41:33 EDT 2019/
+2019-12-19T02:41:03-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/How-did-HyperLook-HyperNeWS-compare-to-other-mid-1980s-hypertext-systems-in-terms-of-features-usability
+2019-12-19T03:23:04-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-19T03:41:15-05:00	How did HyperLook/HyperNeWS compare to other mid-1980s hypertext systems in terms of features & usability? - Quora https://www.quora.com/unanswered/How-did-HyperLook-HyperNeWS-compare-to-other-mid-1980s-hypertext-systems-in-terms-of-features-usability
+2019-12-19T03:41:17-05:00	Random link from the archives: https://web.archive.org/web/20170607111140/http://www.cs.virginia.edu/~robins/YouAndYourResearch.html originally posted Wed Jun  7 11:11:40 EDT 2017/
+2019-12-19T06:11:17-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-end-game-of-the-voice-ui-like-that-of-the-chat-ui-is-the-command-line-interface-d3fbef1aa532
+2019-12-19T06:11:17-05:00	Random link from the archives: https://web.archive.org/web/20190626151709/https://longreads.com/2019/06/21/nothing-kept-me-up-at-night-the-way-the-gorgon-stare-did/ originally posted Wed Jun 26 15:17:09 EDT 2019/
+2019-12-19T06:41:22-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-features-are-often-forgotten-or-ignored-in-discussions-about-Plan-9
+2019-12-19T07:41:24-05:00	Random link from the archives: https://web.archive.org/web/20170707103855/https://www.nytimes.com/2017/07/05/magazine/hated-by-the-right-mocked-by-the-left-who-wants-to-be-liberal-anymore.html originally posted Fri Jul  7 10:38:55 EDT 2017/
+2019-12-19T07:41:33-05:00	What features are often forgotten or ignored in discussions about Plan 9? - Quora https://www.quora.com/What-features-are-often-forgotten-or-ignored-in-discussions-about-Plan-9
+2019-12-19T08:23:11-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-19T10:11:24-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/punk-cosplay-3005b5703c31
+2019-12-19T10:11:24-05:00	Random link from the archives: https://web.archive.org/web/20190916114330/https://www.youtube.com/watch?v=n-Ej2EtE744 originally posted Mon Sep 16 11:43:30 EDT 2019/
+2019-12-19T10:41:40-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/When-Menuet64-became-proprietary-what-market-were-they-aiming-for-and-why-would-that-market-not-prefer-Kolibrios-or-legacy-MenuetOS
+2019-12-19T11:41:37-05:00	Random link from the archives: https://web.archive.org/web/20180309064001/https://www.theatlantic.com/technology/archive/2017/05/gratitude-for-invisible-systems/526344/ originally posted Fri Mar  9 06:40:01 EST 2018/
+2019-12-19T11:41:55-05:00	When Menuet64 became proprietary, what market were they aiming for (and why would that market not prefer Kolibri... https://www.quora.com/unanswered/When-Menuet64-became-proprietary-what-market-were-they-aiming-for-and-why-would-that-market-not-prefer-Kolibrios-or-legacy-MenuetOS
+2019-12-19T13:23:19-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-19T14:11:31-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/mr-rheingold-thank-you-for-reposting-all-of-these-ed5de6b10694
+2019-12-19T14:11:32-05:00	Random link from the archives: https://web.archive.org/web/20191209125301/https://www.versobooks.com/blogs/4507-the-future-will-be-bumpy originally posted Mon Dec  9 12:53:01 EST 2019/
+2019-12-19T14:42:03-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/How-does-the-Oberon-system-differ-from-PARCs-Mesa-project
+2019-12-19T15:41:46-05:00	Random link from the archives: https://web.archive.org/web/20190118120721/https://drs.is/post/fancy-tree-traversals/ originally posted Fri Jan 18 12:07:21 EST 2019/
+2019-12-19T18:11:40-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/web-design-over-time-has-gotten-less-and-less-connected-to-accessibility-utility-and-more-and-7b8e92f05280
+2019-12-19T18:11:40-05:00	Random link from the archives: https://web.archive.org/web/20190624122517/https://www.youtube.com/watch?v=C1rEtk0b4tw originally posted Mon Jun 24 12:25:17 EDT 2019/
+2019-12-19T18:23:27-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-19T18:42:16-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-parts-of-Englebarts-Augment-ARC-work-are-still-missing-from-modern-groupware-and-why-are-they-important
+2019-12-19T19:41:55-05:00	Random link from the archives: https://web.archive.org/web/20190909085911/https://austinkleon.com/2018/08/30/reading-with-a-pencil/ originally posted Mon Sep  9 08:59:11 EDT 2019/
+2019-12-19T19:42:27-05:00	What parts of Englebart's Augment/ARC work are still missing from modern groupware, and why are they important? - Quora https://www.quora.com/What-parts-of-Englebarts-Augment-ARC-work-are-still-missing-from-modern-groupware-and-why-are-they-important
+2019-12-19T22:11:52-05:00	Random link from the archives: https://web.archive.org/web/20191111115728/https://www.youtube.com/watch?v=csC5_tPVRpQ originally posted Mon Nov 11 11:57:28 EST 2019/
+2019-12-19T22:11:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/meditations-on-morality-d6d4bb51d9e0
+2019-12-19T22:42:41-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Why-are-so-many-of-the-influential-figures-in-the-history-of-media-theory-former-medievalists
+2019-12-19T22:53:06-05:00	Band name of the day: utility turkey
+2019-12-19T23:23:37-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-19T23:42:03-05:00	Random link from the archives: https://web.archive.org/web/20191001092916/http://boston.conman.org/2019/09/30.4 originally posted Tue Oct  1 09:29:16 EDT 2019/
+2019-12-19T23:43:04-05:00	Why are so many of the influential figures in the history of media theory former medievalists? - Quora https://www.quora.com/unanswered/Why-are-so-many-of-the-influential-figures-in-the-history-of-media-theory-former-medievalists
+2019-12-20T02:12:00-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/details-of-how-this-subscription-model-will-work-seem-scarce-196b4adcb17a
+2019-12-20T02:12:00-05:00	Random link from the archives: https://web.archive.org/web/20190819115458/https://learnui.design/blog/4-rules-intuitive-ux.html originally posted Mon Aug 19 11:54:58 EDT 2019/
+2019-12-20T02:43:14-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Who-is-the-pseudonymous-John-Carter-behind-the-Jack-Parsons-biography-Sex-and-Rockets
+2019-12-20T03:42:11-05:00	Random link from the archives: https://web.archive.org/web/20191122143455/http://nautil.us/issue/78/atmospheres/are-neural-networks-about-to-reinvent-physics originally posted Fri Nov 22 14:34:55 EST 2019/
+2019-12-20T03:43:25-05:00	Who is the pseudonymous 'John Carter' behind the Jack Parsons biography 'Sex and Rockets'? - Quora https://www.quora.com/unanswered/Who-is-the-pseudonymous-John-Carter-behind-the-Jack-Parsons-biography-Sex-and-Rockets
+2019-12-20T04:23:45-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-20T06:12:07-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-problem-with-meaning-fe391fb459b5
+2019-12-20T06:12:08-05:00	Random link from the archives: https://web.archive.org/web/20190408121431/https://github.com/flaque/quirk originally posted Mon Apr  8 12:14:31 EDT 2019/
+2019-12-20T06:43:32-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Was-Space-Runaway-Ideon-influenced-by-the-ideas-of-Willhelm-Reich
+2019-12-20T07:42:18-05:00	Random link from the archives: https://web.archive.org/web/20191114110123/https://www.instagram.com/p/B4Pj39tJ3qP/ originally posted Thu Nov 14 11:01:23 EST 2019/
+2019-12-20T07:43:41-05:00	Was Space Runaway Ideon influenced by the ideas of Willhelm Reich? - Quora https://www.quora.com/unanswered/Was-Space-Runaway-Ideon-influenced-by-the-ideas-of-Willhelm-Reich
+2019-12-20T09:23:58-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-20T10:12:21-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/yes-but-not-all-of-us-physically-assault-our-employees-and-then-are-lionized-for-it-54ca378e8a34
+2019-12-20T10:12:21-05:00	Random link from the archives: https://web.archive.org/web/20191104094259/https://www.ribbonfarm.com/2016/10/27/the-cyberpunk-sensibility/ originally posted Mon Nov  4 09:42:59 EST 2019/
+2019-12-20T10:43:49-05:00	Some quora questions I'd like answers for: https://www.quora.com/Which-ideas-from-Thinking-Fast-and-Slow-have-been-called-into-question-by-the-replication-crisis-or-failed-to-replicate-in-a-reliable-way
+2019-12-20T11:42:26-05:00	Random link from the archives: https://web.archive.org/web/20190531205645/https://www.youtube.com/watch?v=8Hmb5vbrgiQ originally posted Fri May 31 20:56:45 EDT 2019/
+2019-12-20T11:44:03-05:00	Which ideas from Thinking Fast and Slow have been called into question by the replication crisis (or failed to replic... https://www.quora.com/Which-ideas-from-Thinking-Fast-and-Slow-have-been-called-into-question-by-the-replication-crisis-or-failed-to-replicate-in-a-reliable-way
+2019-12-20T14:12:30-05:00	Random link from the archives: https://web.archive.org/web/20190116101151/https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss originally posted Wed Jan 16 10:11:51 EST 2019/
+2019-12-20T14:12:30-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-context-centric-culture-isnt-the-result-of-everybody-being-always-fair-but-the-result-of-most-be873cba3ca6
+2019-12-20T14:24:06-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-20T14:44:10-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-are-the-best-books-for-learning-about-cybernetics-systems-theory
+2019-12-20T15:42:33-05:00	Random link from the archives: https://web.archive.org/web/20191218133838/https://slatestarcodex.com/2019/12/11/acc-is-eating-meat-a-net-harm/ originally posted Wed Dec 18 13:38:38 EST 2019/
+2019-12-20T15:44:21-05:00	What are the best books for learning about cybernetics / systems theory? - Quora https://www.quora.com/What-are-the-best-books-for-learning-about-cybernetics-systems-theory
+2019-12-20T17:37:08-05:00	Celluloid Ghosts: Top Ten Lost Films - YouTube https://www.youtube.com/watch?v=NHBfbBp8hN8
+2019-12-20T18:12:37-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/we-should-kick-this-off-with-a-bang-by-writing-rp-fanfiction-in-the-form-of-a-listicle-of-rhyming-b8a53a912230
+2019-12-20T18:12:37-05:00	Random link from the archives: https://web.archive.org/web/20180322122422/https://www.believermag.com/issues/201802/?read=article_midwestern_gothic originally posted Thu Mar 22 12:24:22 EDT 2018/
+2019-12-20T18:44:29-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-ideas-in-computing-from-prior-to-1980-do-you-wish-were-more-influential-on-modern-computing
+2019-12-20T19:24:19-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-20T19:42:40-05:00	Random link from the archives: https://web.archive.org/web/20190315100402/https://www.gwern.net/Lithium originally posted Fri Mar 15 10:04:02 EDT 2019/
+2019-12-20T19:44:40-05:00	What ideas in computing from prior to 1980 do you wish were more influential on modern computing? - Quora https://www.quora.com/What-ideas-in-computing-from-prior-to-1980-do-you-wish-were-more-influential-on-modern-computing
+2019-12-20T22:12:44-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/heres-a-heuristic-if-a-task-is-made-significantly-easier-by-a-framework-it-shouldn-t-be-done-in-42544f4aa3f6
+2019-12-20T22:12:44-05:00	Random link from the archives: https://web.archive.org/web/20190523101641/https://github.com/jlevy/the-art-of-command-line originally posted Thu May 23 10:16:41 EDT 2019/
+2019-12-20T23:42:52-05:00	Random link from the archives: https://web.archive.org/web/20171012124606/https://github.com/eykd/plottoxml originally posted Thu Oct 12 12:46:06 EDT 2017/
+2019-12-21T00:24:32-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-21T02:12:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/to-be-sure-these-hollywood-formulations-are-male-centric-5dd91873b89d
+2019-12-21T02:12:52-05:00	Random link from the archives: https://web.archive.org/web/20190416102113/https://en.wikipedia.org/wiki/Gnome_sort originally posted Tue Apr 16 10:21:13 EDT 2019/
+2019-12-21T03:43:04-05:00	Random link from the archives: https://web.archive.org/web/20190902132635/https://liminal.earth/ originally posted Mon Sep  2 13:26:35 EDT 2019/
+2019-12-21T05:24:40-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-21T06:12:59-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/another-great-music-podcast-which-may-or-may-not-be-still-running-is-solipsistic-nation-it-734efbe8e76c
+2019-12-21T06:12:59-05:00	Random link from the archives: https://web.archive.org/web/20190814083920/https://wearethemutants.com/2019/08/06/the-posthuman-heart-of-captain-scarlet-and-the-mysterons/ originally posted Wed Aug 14 08:39:20 EDT 2019/
+2019-12-21T07:43:17-05:00	Random link from the archives: https://web.archive.org/web/20170707091006/http://planspace.org/20170705-word_vectors_and_sat_analogies/ originally posted Fri Jul  7 09:10:06 EDT 2017/
+2019-12-21T10:13:06-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/fantastic-as-always-maybe-even-better-this-time-4a8c7064e725
+2019-12-21T10:13:06-05:00	Random link from the archives: https://web.archive.org/web/20191201091045/https://github.com/lee2sman/pomelo originally posted Sun Dec  1 09:10:45 EST 2019/
+2019-12-21T10:24:47-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-21T11:43:25-05:00	Random link from the archives: https://web.archive.org/web/20190208095139/https://tedium.co/2019/02/07/bx-foundry-video-game-controllers/ originally posted Fri Feb  8 09:51:39 EST 2019/
+2019-12-21T13:27:01-05:00	Bad idea of the day: a four hundrecd page essay on the symbolic significance of Freddy being afraid of Dokken in the music video for Dream Warriors
+2019-12-21T13:53:48-05:00	Random link from the archives: https://web.archive.org/web/20181206125040/https://breakermag.com/john-mcafee-is-73-very-stoned-and-running-for-president/ originally posted Thu Dec  6 12:50:40 EST 2018/
+2019-12-21T14:13:13-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-best-description-of-it-is-probably-still-in-lickliders-man-computer-symbiosis-englebart-s-a03143bc81b7
+2019-12-21T14:13:13-05:00	Random link from the archives: https://web.archive.org/web/20190624111419/https://www.gwern.net/Timing originally posted Mon Jun 24 11:14:19 EDT 2019/
+2019-12-21T15:24:54-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-21T15:43:33-05:00	Random link from the archives: https://web.archive.org/web/20191108222423/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/computing-and-craft-among-the-end-users-bc9a0ba8c99e?source=friends_link&sk=d0796087b664c9139349d878d8a1a61d originally posted Fri Nov  8 22:24:23 EST 2019/
+2019-12-21T16:27:14-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/Was-Terry-Winograds-programming-system-A-described-in-Barstows-Interactive-Programming-Environments-ever-implemented-What-systems-were-influenced-by-Winograds-paper
+2019-12-21T17:27:29-05:00	Was Terry Winograd's programming system 'A' (described in Barstow's 'Interactiv... https://www.quora.com/unanswered/Was-Terry-Winograds-programming-system-A-described-in-Barstows-Interactive-Programming-Environments-ever-implemented-What-systems-were-influenced-by-Winograds-paper
+2019-12-21T17:53:55-05:00	Random link from the archives: https://web.archive.org/web/20181022105817/https://longreads.com/2018/10/18/review-of-winners-take-all/ originally posted Mon Oct 22 10:58:17 EDT 2018/
+2019-12-21T18:13:21-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/spoiler-alert-i-dont-hate-you-for-being-immune-from-spoilers-in-fact-to-the-extent-that-this-a68121b7961a
+2019-12-21T18:13:21-05:00	Random link from the archives: https://web.archive.org/web/20190606100514/https://www.theguardian.com/inequality/2019/jun/06/socialism-for-the-rich-the-evils-of-bad-economics originally posted Thu Jun  6 10:05:14 EDT 2019/
+2019-12-21T19:43:44-05:00	Random link from the archives: https://web.archive.org/web/20190628072145/https://www.theregister.co.uk/2019/06/28/ai_3d_simulations_universe/ originally posted Fri Jun 28 07:21:45 EDT 2019/
+2019-12-21T20:25:01-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-21T20:27:37-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/How-does-using-a-Canon-Cat-with-real-jump-keys-differ-from-using-the-internet-archives-Cat-emulator-and-how-was-using-the-Swyft-board-different
+2019-12-21T21:27:49-05:00	How does using a Canon Cat with real jump keys differ from using the internet archive's Cat emulator... https://www.quora.com/unanswered/How-does-using-a-Canon-Cat-with-real-jump-keys-differ-from-using-the-internet-archives-Cat-emulator-and-how-was-using-the-Swyft-board-different
+2019-12-21T21:54:02-05:00	Random link from the archives: https://web.archive.org/web/20170919100430/https://aeon.co/ideas/the-13th-century-revolution-that-made-modern-poetry-possible originally posted Tue Sep 19 10:04:30 EDT 2017/
+2019-12-21T22:13:28-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-tragedy-is-that-this-feature-is-easy-to-implement-if-you-work-for-medium-or-facebook-or-9f4e3636e421
+2019-12-21T22:13:29-05:00	Random link from the archives: https://web.archive.org/web/20190910100843/http://www.jezzamon.com/fourier/ originally posted Tue Sep 10 10:08:43 EDT 2019/
+2019-12-21T23:43:54-05:00	Random link from the archives: https://web.archive.org/web/20180528193401/https://www.youtube.com/watch?v=RJfurfb5_kw originally posted Mon May 28 19:34:01 EDT 2018/
+2019-12-22T00:28:01-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-parts-of-Deluze-Guattaris-A-Thousand-Plateaus-are-most-commonly-misunderstood-and-how-are-they-misunderstood
+2019-12-22T01:25:08-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-22T01:28:12-05:00	What parts of Deluze & Guattari's 'A Thousand Plateaus' are most commonly misunderstood, and how are they misunderstood? - Quora https://www.quora.com/unanswered/What-parts-of-Deluze-Guattaris-A-Thousand-Plateaus-are-most-commonly-misunderstood-and-how-are-they-misunderstood
+2019-12-22T01:54:09-05:00	Random link from the archives: https://web.archive.org/web/20191013233151/https://medium.com/p/the-definitive-guide-to-publishing-content-on-ipfs-ipns-dfe751f1e8d0 originally posted Sun Oct 13 23:31:51 EDT 2019/
+2019-12-22T02:13:36-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/orality-literacy-hyper-literacy-7cf4c779d943
+2019-12-22T02:13:37-05:00	Random link from the archives: https://web.archive.org/web/20191203142321/https://www.propublica.org/article/tinder-lets-known-sex-offenders-use-the-app-its-not-the-only-one originally posted Tue Dec  3 14:23:21 EST 2019/
+2019-12-22T03:44:01-05:00	Random link from the archives: https://web.archive.org/web/20181113052114/http://www.donhopkins.com/drupal/node/102 originally posted Tue Nov 13 05:21:14 EST 2018/
+2019-12-22T04:28:23-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-impact-has-the-Russian-cosmist-tradition-had-on-modern-Russian-political-philosophy
+2019-12-22T05:28:36-05:00	What impact has the Russian cosmist tradition had on modern Russian political philosophy? - Quora https://www.quora.com/What-impact-has-the-Russian-cosmist-tradition-had-on-modern-Russian-political-philosophy
+2019-12-22T05:54:16-05:00	Random link from the archives: https://web.archive.org/web/20190817152000/https://medium.com/p/attack-on-titan-horror-aesthetics-and-authoritarianism-e98f7325a893 originally posted Sat Aug 17 15:20:00 EDT 2019/
+2019-12-22T06:13:43-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/cowen-like-most-defenders-of-capitalism-seems-to-confuse-capitalism-with-free-markets-socialism-747a0bef045
+2019-12-22T06:13:44-05:00	Random link from the archives: https://web.archive.org/web/20181113002816/http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model.txt&sortOrder=Sort+by+Date&topic=Software+Design originally posted Tue Nov 13 00:28:16 EST 2018/
+2019-12-22T06:25:16-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-22T07:44:08-05:00	Random link from the archives: https://web.archive.org/web/20180213115837/https://blog.openai.com/discovering-types-for-entity-disambiguation/ originally posted Tue Feb 13 11:58:37 EST 2018/
+2019-12-22T08:28:49-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/How-do-systems-theorists-interested-in-government-deal-with-ashbys-law-of-requisite-variety
+2019-12-22T09:29:18-05:00	How do systems theorists interested in government deal with ashby's law of requisite variety? - Quora https://www.quora.com/unanswered/How-do-systems-theorists-interested-in-government-deal-with-ashbys-law-of-requisite-variety
+2019-12-22T09:54:23-05:00	Random link from the archives: https://web.archive.org/web/20190111094249/https://mastodon.social/@jk/593197 originally posted Fri Jan 11 09:42:49 EST 2019/
+2019-12-22T10:13:50-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-realize-that-your-post-isnt-meant-to-be-a-coherent-argument-but-the-only-way-we-can-tell-that-825cf2fb4463
+2019-12-22T10:13:51-05:00	Random link from the archives: https://web.archive.org/web/20181112175655/http://exple.tive.org/blarg/2018/11/09/the-evolution-of-open/ originally posted Mon Nov 12 17:56:55 EST 2018/
+2019-12-22T11:25:28-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-22T11:44:15-05:00	Random link from the archives: https://web.archive.org/web/20190727203249/https://www.youtube.com/watch?v=TGk-3VdcPPc originally posted Sat Jul 27 20:32:49 EDT 2019/
+2019-12-22T12:29:25-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-are-some-theoretically-or-formally-interesting-haunted-house-haunted-location-movies-i-e-having-a-unique-take-on-what-constitutes-haunting
+2019-12-22T13:29:37-05:00	What are some theoretically or formally interesting haunted house/haunted location movies (i.e., hav... https://www.quora.com/unanswered/What-are-some-theoretically-or-formally-interesting-haunted-house-haunted-location-movies-i-e-having-a-unique-take-on-what-constitutes-haunting
+2019-12-22T13:54:30-05:00	Random link from the archives: https://web.archive.org/web/20181020120444/https://www.youtube.com/watch?v=TT0r6-B5YHA originally posted Sat Oct 20 12:04:44 EDT 2018/
+2019-12-22T14:13:57-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/we-segregate-licensed-medical-doctors-based-on-their-licensing-and-do-not-allow-non-doctors-to-442e09e9f347
+2019-12-22T14:13:58-05:00	Random link from the archives: https://web.archive.org/web/20180514122349/https://www.youtube.com/watch?v=RnWp_kr4tfc originally posted Mon May 14 12:23:49 EDT 2018/
+2019-12-22T15:44:23-05:00	Random link from the archives: https://web.archive.org/web/20190617075259/https://www.conjuringarchive.com/ originally posted Mon Jun 17 07:52:59 EDT 2019/
+2019-12-22T16:25:37-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-22T16:29:44-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-horror-movies-about-sound-engineering-and-or-foley-would-you-recommend-other-than-LFO-and-Berberian-Sound-Studio
+2019-12-22T17:29:54-05:00	What horror movies about sound engineering and/or foley would you recommend (other than LFO and Berberian Sound Studio)? - Quora https://www.quora.com/unanswered/What-horror-movies-about-sound-engineering-and-or-foley-would-you-recommend-other-than-LFO-and-Berberian-Sound-Studio
+2019-12-22T17:54:38-05:00	Random link from the archives: https://web.archive.org/web/20180130145710/https://www.youtube.com/watch?v=-Bx0dEYiDYw originally posted Tue Jan 30 14:57:10 EST 2018/
+2019-12-22T18:14:06-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/market-myths-good-bad-and-bazaar-7fa0cbc8f646
+2019-12-22T18:14:10-05:00	Random link from the archives: https://web.archive.org/web/20171102145144/https://motherboard.vice.com/en_us/article/59ydmx/copyright-law-artificial-intelligence-bias originally posted Thu Nov  2 14:51:44 EDT 2017/
+2019-12-22T19:44:35-05:00	Random link from the archives: https://web.archive.org/web/20190104083513/https://stenci.la/blog/introducing-sheets/ originally posted Fri Jan  4 08:35:13 EST 2019/
+2019-12-22T20:30:02-05:00	Some quora questions I'd like answers for: https://www.quora.com/What-theories-of-plot-narrative-construction-conflict-with-the-heros-journey-and-the-aristotelian-model-of-drama
+2019-12-22T21:25:44-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-22T21:30:14-05:00	What theories of plot & narrative construction conflict with the hero's journey and the aristotelian model of drama? - Quora https://www.quora.com/What-theories-of-plot-narrative-construction-conflict-with-the-heros-journey-and-the-aristotelian-model-of-drama
+2019-12-22T21:54:45-05:00	Random link from the archives: https://web.archive.org/web/20190430092021/http://zge.us.to/txt/unix-harmful.html originally posted Tue Apr 30 09:20:21 EDT 2019/
+2019-12-22T22:14:32-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/its-very-strange-that-widespread-high-speed-internet-access-would-coincide-with-increasing-5038cf57597d
+2019-12-22T22:14:41-05:00	Random link from the archives: https://web.archive.org/web/20171225144316/https://www.youtube.com/watch?v=nBT3wH_0NGw originally posted Mon Dec 25 14:43:16 EST 2017/
+2019-12-22T23:44:44-05:00	Random link from the archives: https://web.archive.org/web/20181011073026/http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html originally posted Thu Oct 11 07:30:26 EDT 2018/
+2019-12-23T00:30:22-05:00	Some quora questions I'd like answers for: https://www.quora.com/unanswered/What-are-the-best-academic-studies-on-narrative-design-in-visual-novels-and-how-it-differs-from-linear-parser-IF-other-game-narratives
+2019-12-23T01:30:40-05:00	What are the best academic studies on narrative design in visual novels, and how it differs from linear, pars... https://www.quora.com/unanswered/What-are-the-best-academic-studies-on-narrative-design-in-visual-novels-and-how-it-differs-from-linear-parser-IF-other-game-narratives
+2019-12-23T01:54:52-05:00	Random link from the archives: https://web.archive.org/web/20180803103032/https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/ originally posted Fri Aug  3 10:30:32 EDT 2018/
+2019-12-23T02:14:39-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/ok-theres-a-pretty-big-gap-between-scheduling-the-announcement-of-a-leak-to-maximize-press-and-2aaea02a590f
+2019-12-23T02:14:48-05:00	Random link from the archives: https://web.archive.org/web/20181209121241/https://www.ribbonfarm.com/2018/07/13/hedonic-audit/ originally posted Sun Dec  9 12:12:41 EST 2018/
+2019-12-23T02:25:51-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-23T03:44:51-05:00	Random link from the archives: https://web.archive.org/web/20190124105059/https://codepen.io/tigt/post/the-web-is-made-of-edge-cases originally posted Thu Jan 24 10:50:59 EST 2019/
+2019-12-23T05:54:58-05:00	Random link from the archives: https://web.archive.org/web/20190911143312/https://github.com/nuno-faria/tiler originally posted Wed Sep 11 14:33:12 EDT 2019/
+2019-12-23T06:14:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/on-alternatives-b10732576d2d
+2019-12-23T06:14:55-05:00	Random link from the archives: https://web.archive.org/web/20170817075823/https://www.technologyreview.com/s/608580/eliminating-the-human/ originally posted Thu Aug 17 07:58:23 EDT 2017/
+2019-12-23T07:25:59-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-23T07:44:58-05:00	Random link from the archives: https://web.archive.org/web/20190711092601/https://www.sicpers.info/2019/07/the-challenges-of-teaching-software-engineering/ originally posted Thu Jul 11 09:26:01 EDT 2019/
+2019-12-23T09:55:06-05:00	Random link from the archives: https://web.archive.org/web/20180302092125/https://theoutline.com/post/3557/nikolas-cruz-josh-pillault-stopping-teenage-killers originally posted Fri Mar  2 09:21:25 EST 2018/
+2019-12-23T10:14:53-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/john-higgs-in-his-history-stranger-than-we-can-imagine-makes-the-argument-that-unintelligability-61c4980b4286
+2019-12-23T10:15:03-05:00	Random link from the archives: https://web.archive.org/web/20180505150128/https://www.youtube.com/watch?v=iY1QHpp6iEE originally posted Sat May  5 15:01:28 EDT 2018/
+2019-12-23T11:45:09-05:00	Random link from the archives: https://web.archive.org/web/20190617094737/https://www.monbiot.com/2019/04/30/the-problem-is-capitalism/ originally posted Mon Jun 17 09:47:37 EDT 2019/
+2019-12-23T12:26:06-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-23T13:55:13-05:00	Random link from the archives: https://web.archive.org/web/20181118153314/http://jehanne.io/2018/11/15/simplicity-awakes.html originally posted Sun Nov 18 15:33:14 EST 2018/
+2019-12-23T14:15:00-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/an-alternate-medium-style-guide-263e067f6481
+2019-12-23T14:15:10-05:00	Random link from the archives: https://web.archive.org/web/20180620103444/https://emshort.blog/2018/06/19/world-models-rendered-in-text/ originally posted Wed Jun 20 10:34:44 EDT 2018/
+2019-12-23T15:45:22-05:00	Random link from the archives: https://web.archive.org/web/20180526180721/http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/ originally posted Sat May 26 18:07:21 EDT 2018/
+2019-12-23T17:26:13-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-23T17:55:20-05:00	Random link from the archives: https://web.archive.org/web/20191219074130/https://www.quora.com/What-features-are-often-forgotten-or-ignored-in-discussions-about-Plan-9 originally posted Thu Dec 19 07:41:30 EST 2019/
+2019-12-23T18:07:22-05:00	DJ Cummerbund - All I Want For Christmas Is To Bury A Friend - YouTube https://www.youtube.com/watch?v=2cOntPkNnOs
+2019-12-23T18:15:07-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/did-somebody-unload-a-time-machine-from-1998-into-this-comment-thread-29a45befd91a
+2019-12-23T18:15:17-05:00	Random link from the archives: https://web.archive.org/web/20181012072803/https://dev.to/aspittel/intro-to-generative-art-2hi7 originally posted Fri Oct 12 07:28:03 EDT 2018/
+2019-12-23T19:24:29-05:00	The Battle of Ideas w/ Intellectual Dark Wave | Nightmare Tonight - YouTube https://www.youtube.com/watch?v=DTnHUK8b5UA
+2019-12-23T19:45:30-05:00	Random link from the archives: https://web.archive.org/web/20180723174255/https://soundcloud.com/user-569807420/simone-natale-deceitful-media-and-deceitful-mediums originally posted Mon Jul 23 17:42:55 EDT 2018/
+2019-12-23T21:55:27-05:00	Random link from the archives: https://web.archive.org/web/20191028132013/http://blog.danieljanus.pl/2019/10/07/web-of-documents/ originally posted Mon Oct 28 13:20:13 EDT 2019/
+2019-12-23T22:15:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-strongly-recommend-in-the-rare-cases-when-writing-html-by-hand-is-untenable-rolling-your-own-961b90e97a2e
+2019-12-23T22:15:25-05:00	Random link from the archives: https://web.archive.org/web/20180216124250/https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/ originally posted Fri Feb 16 12:42:50 EST 2018/
+2019-12-23T22:26:21-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-23T23:45:37-05:00	Random link from the archives: https://web.archive.org/web/20180802153511/http://slatestarcodex.com/2017/10/02/different-worlds/ originally posted Thu Aug  2 15:35:11 EDT 2018/
+2019-12-24T01:55:38-05:00	Random link from the archives: https://web.archive.org/web/20180425141218/https://youtu.be/o9pEzgHorH0 originally posted Wed Apr 25 14:12:18 EDT 2018/
+2019-12-24T02:15:23-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/peter-watts-and-p-zombies-bbe750aaca8c
+2019-12-24T02:15:33-05:00	Random link from the archives: https://web.archive.org/web/20190815100700/http://worrydream.com/refs/Hewitt-ActorModel.pdf originally posted Thu Aug 15 10:07:00 EDT 2019/
+2019-12-24T03:26:28-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-24T03:45:45-05:00	Random link from the archives: https://web.archive.org/web/20181031111417/https://aeon.co/essays/there-be-monsters-from-cabinets-of-curiosity-to-demons-within originally posted Wed Oct 31 11:14:17 EDT 2018/
+2019-12-24T05:55:46-05:00	Random link from the archives: https://web.archive.org/web/20190730121845/https://kylechayka.substack.com/p/algorithmic-dysphoria-when-the-recommendations originally posted Tue Jul 30 12:18:45 EDT 2019/
+2019-12-24T06:15:30-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/generally-speaking-the-best-solution-is-one-of-the-solutions-not-yet-explored-simply-because-it-f803726c5bf3
+2019-12-24T06:15:40-05:00	Random link from the archives: https://web.archive.org/web/20190820101900/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/you-dont-really-need-to-go-to-4chan-for-this-c6786130a774 originally posted Tue Aug 20 10:19:00 EDT 2019/
+2019-12-24T07:45:52-05:00	Random link from the archives: https://web.archive.org/web/20180302092125/https://theoutline.com/post/3557/nikolas-cruz-josh-pillault-stopping-teenage-killers originally posted Fri Mar  2 09:21:25 EST 2018/
+2019-12-24T08:26:36-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-24T09:55:53-05:00	Random link from the archives: https://web.archive.org/web/20190820140545/https://gizmodo.com/mark-zuckerberg-is-a-slumlord-1837375095 originally posted Tue Aug 20 14:05:45 EDT 2019/
+2019-12-24T10:15:37-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/microsoft-is-no-longer-actively-bad-the-way-it-was-under-ballmer-bd17c3bf43c6
+2019-12-24T10:15:48-05:00	Random link from the archives: https://web.archive.org/web/20190607131833/https://abad1dea.tumblr.com/post/182455506350/how-math-can-be-racist-giraffing originally posted Fri Jun  7 13:18:33 EDT 2019/
+2019-12-24T11:46:08-05:00	Random link from the archives: https://web.archive.org/web/20190410170111/https://www.youtube.com/watch?v=YsbrEOxVPcg originally posted Wed Apr 10 17:01:11 EDT 2019/
+2019-12-24T13:26:47-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-24T13:56:00-05:00	Random link from the archives: https://web.archive.org/web/20180516145532/https://www.jwz.org/blog/2008/03/most-positive-bignum/ originally posted Wed May 16 14:55:32 EDT 2018/
+2019-12-24T14:15:45-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/regarding-the-preferred-music-service-example-it-s-a-bit-funny-that-amazon-is-not-extending-the-a960a692bb65
+2019-12-24T14:15:56-05:00	Random link from the archives: https://web.archive.org/web/20180813095417/https://theoutline.com/post/5767/enya-very-intriguing-person originally posted Mon Aug 13 09:54:17 EDT 2018/
+2019-12-24T15:46:17-05:00	Random link from the archives: https://web.archive.org/web/20180809111535/https://rsnous.com/posts/notes-from-dynamicland-geokit/ originally posted Thu Aug  9 11:15:35 EDT 2018/
+2019-12-24T17:56:16-05:00	Random link from the archives: https://web.archive.org/web/20190905103207/https://www.fastcompany.com/90394171/do-you-live-in-a-soft-city-heres-why-you-probably-want-to originally posted Thu Sep  5 10:32:07 EDT 2019/
+2019-12-24T18:15:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/with-regard-to-sample-size-small-sample-sizes-in-studies-that-are-taken-at-face-value-is-an-issue-12c0b237d9a6
+2019-12-24T18:16:03-05:00	Random link from the archives: https://web.archive.org/web/20190409122132/https://techcrunch.com/2019/04/07/stuck-at-the-sushi-boat-bar-of-news/ originally posted Tue Apr  9 12:21:32 EDT 2019/
+2019-12-24T18:26:56-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-24T18:39:08-05:00	Bad idea of the day: a video game where you build a haunted house for NPCs (like the haunted house version of Sim Coaster)
+2019-12-24T19:46:24-05:00	Random link from the archives: https://web.archive.org/web/20190626103805/https://tedium.co/2019/06/25/html-email-limitations-design/ originally posted Wed Jun 26 10:38:05 EDT 2019/
+2019-12-24T21:49:33-05:00	Bad idea of the day: an inconvenience store, which sells only novelties and white-elephant gifts
+2019-12-24T21:56:25-05:00	Random link from the archives: https://web.archive.org/web/20191212102840/https://deadline.com/2019/12/the-illuminatus-trilogy-hivemind-and-brian-taylor-conspire-on-tv-series-1202805541/ originally posted Thu Dec 12 10:28:40 EST 2019/
+2019-12-24T22:16:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-develop-quite-a-bit-of-open-source-software-a79593753c37
+2019-12-24T22:16:12-05:00	Random link from the archives: https://web.archive.org/web/20190817002918/https://medium.com/p/tech-and-the-fake-market-tactic-8bd386e3d382 originally posted Sat Aug 17 00:29:18 EDT 2019/
+2019-12-24T23:27:05-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-24T23:46:32-05:00	Random link from the archives: https://web.archive.org/web/20170808101938/https://www.theatlantic.com/magazine/archive/2017/09/how-america-lost-its-mind/534231/?single_page=true originally posted Tue Aug  8 10:19:38 EDT 2017/
+2019-12-25T01:56:33-05:00	Random link from the archives: https://web.archive.org/web/20181127110846/https://www.sonniesedge.co.uk/posts/progressive-enhancement originally posted Tue Nov 27 11:08:46 EST 2018/
+2019-12-25T02:16:07-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/myths-of-competence-and-specialization-c5d27506c2bf
+2019-12-25T02:16:18-05:00	Random link from the archives: https://web.archive.org/web/20190813231723/https://medium.com/p/fake-assanges-drive-far-right-messages-604a8658bde8 originally posted Tue Aug 13 23:17:23 EDT 2019/
+2019-12-25T03:46:39-05:00	Random link from the archives: https://web.archive.org/web/20181012122725/https://www.youtube.com/watch?v=Qx0-pViyIDU originally posted Fri Oct 12 12:27:25 EDT 2018/
+2019-12-25T04:27:13-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-25T05:56:50-05:00	Random link from the archives: https://web.archive.org/web/20171110154947/http://www.filfre.net/2017/11/a-net-before-the-web-part-2-service-to-community/ originally posted Fri Nov 10 15:49:47 EST 2017/
+2019-12-25T06:16:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-hype-around-javascript-is-representative-of-a-more-general-and-widespread-problem-which-is-f953f93cd87d
+2019-12-25T06:16:25-05:00	Random link from the archives: https://web.archive.org/web/20191209125434/https://www.publicbooks.org/quit-playing-games-with-my-heart/ originally posted Mon Dec  9 12:54:34 EST 2019/
+2019-12-25T07:46:46-05:00	Random link from the archives: https://web.archive.org/web/20180803103032/https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/ originally posted Fri Aug  3 10:30:32 EDT 2018/
+2019-12-25T08:28:50-05:00	last night i literally had a dream about trying to figure out if any of the notebooks at CVS were worth buying & eventually deciding to leave without buying anything. this happens like 80% of the time i enter a store, and now i'm dreaming about it on christmas.
+2019-12-25T09:27:25-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-25T09:57:03-05:00	Random link from the archives: https://web.archive.org/web/20180625091005/https://www.theguardian.com/commentisfree/2018/jun/16/how-china-censors-internet-information originally posted Mon Jun 25 09:10:05 EDT 2018/
+2019-12-25T10:16:21-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/yeah-its-useful-as-a-rule-of-thumb-for-who-you-should-probably-be-extra-careful-not-to-mock-for-bf9be8738121
+2019-12-25T10:16:33-05:00	Random link from the archives: https://web.archive.org/web/20180801072607/https://pxlnv.com/blog/bullshit-web/ originally posted Wed Aug  1 07:26:07 EDT 2018/
+2019-12-25T11:46:53-05:00	Random link from the archives: https://web.archive.org/web/20190313102033/https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp originally posted Wed Mar 13 10:20:33 EDT 2019/
+2019-12-25T12:47:51-05:00	E Nomine Gator (Christmas hymns + alligator wrestling tips) - YouTube https://www.youtube.com/watch?v=ZsenaeSHBIs
+2019-12-25T13:13:34-05:00	Gridman & Superhuman Samurai Syber-Squad Are Back: Nostalgia Can Revive Anything | The Big Picture - YouTube https://www.youtube.com/watch?v=yYP8gSRY0jk
+2019-12-25T13:57:14-05:00	Random link from the archives: https://web.archive.org/web/20190108093636/https://georgianera.wordpress.com/2018/07/26/18th-century-business-women-trade-cards/ originally posted Tue Jan  8 09:36:36 EST 2019/
+2019-12-25T14:16:29-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-feel-like-some-of-this-material-is-covered-in-transactional-psychology-though-my-understanding-aa25c94ca795
+2019-12-25T14:16:39-05:00	Random link from the archives: https://web.archive.org/web/20191011100512/https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/ originally posted Fri Oct 11 10:05:12 EDT 2019/
+2019-12-25T14:27:35-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-25T15:47:06-05:00	Random link from the archives: https://web.archive.org/web/20191023091006/https://arstechnica.com/gaming/2019/10/fans-as-co-consiprators-how-community-built-reshaped-a-10-year-old-webcomic/ originally posted Wed Oct 23 09:10:06 EDT 2019/
+2019-12-25T17:57:26-05:00	Random link from the archives: https://web.archive.org/web/20180906082436/http://nathanmarz.com/blog/suffering-oriented-programming.html originally posted Thu Sep  6 08:24:36 EDT 2018/
+2019-12-25T18:16:36-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-trademark-issue-is-pretty-cut-and-dried-a-trademark-holder-must-show-due-diligence-in-88adaa107117
+2019-12-25T18:16:46-05:00	Random link from the archives: https://web.archive.org/web/20181001112608/https://www.kguttag.com/2018/09/26/magic-leap-review-part-1-the-terrible-view-through-diffraction-gratings/ originally posted Mon Oct  1 11:26:08 EDT 2018/
+2019-12-25T19:27:44-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-25T19:47:14-05:00	Random link from the archives: https://web.archive.org/web/20180216095615/https://kvond.files.wordpress.com/2009/06/how-mental-systems-believe.pdf originally posted Fri Feb 16 09:56:15 EST 2018/
+2019-12-25T21:57:39-05:00	Random link from the archives: https://web.archive.org/web/20190813082242/https://en.wikipedia.org/wiki/Ad_creep originally posted Tue Aug 13 08:22:42 EDT 2019/
+2019-12-25T22:16:43-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/any-solution-thats-ineffective-unless-100-of-the-population-is-morally-upright-is-unusable-a10a7a8c9ad
+2019-12-25T22:16:53-05:00	Random link from the archives: https://web.archive.org/web/20190704102142/https://www.youtube.com/watch?v=Sh_W1IHveTk originally posted Thu Jul  4 10:21:42 EDT 2019/
+2019-12-25T22:37:04-05:00	ATNAS | adult swim smalls - YouTube https://www.youtube.com/watch?v=oeXRifXT9Bk
+2019-12-25T23:47:22-05:00	Random link from the archives: https://web.archive.org/web/20180926095822/https://www.vox.com/the-goods/2018/9/25/17887796/facebook-ad-targeted-algorithm originally posted Wed Sep 26 09:58:22 EDT 2018/
+2019-12-26T00:27:51-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-26T01:57:47-05:00	Random link from the archives: https://web.archive.org/web/20181126122752/http://digg.com/2018/detective-pikachu-super-mario-bros-film-production-design originally posted Mon Nov 26 12:27:52 EST 2018/
+2019-12-26T02:16:50-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/labor-in-japan-7b2e7f4b712a
+2019-12-26T02:17:01-05:00	Random link from the archives: https://web.archive.org/web/20181214121741/https://www.youtube.com/watch?v=Mq44fE7b9GU originally posted Fri Dec 14 12:17:41 EST 2018/
+2019-12-26T03:47:33-05:00	Random link from the archives: https://web.archive.org/web/20180125114057/https://kottke.org/18/01/pixelized-16-bit-portrait-of-ben-franklin-from-the-1840s originally posted Thu Jan 25 11:40:57 EST 2018/
+2019-12-26T05:27:59-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-26T05:57:55-05:00	Random link from the archives: https://web.archive.org/web/20190815094013/https://losmanhorror.blogspot.com/2019/08/fake-horror-movies-previews-in-major.html originally posted Thu Aug 15 09:40:13 EDT 2019/
+2019-12-26T06:16:58-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-was-excited-for-the-haunting-of-hill-house-series-though-curious-how-they-were-going-to-turn-it-8e03a19e631e
+2019-12-26T06:17:08-05:00	Random link from the archives: https://web.archive.org/web/20180822101905/https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/ originally posted Wed Aug 22 10:19:05 EDT 2018/
+2019-12-26T07:47:41-05:00	Random link from the archives: https://web.archive.org/web/20190929120055/https://www.youtube.com/watch?v=sJhnmkM9VKg originally posted Sun Sep 29 12:00:55 EDT 2019/
+2019-12-26T09:58:13-05:00	Random link from the archives: https://web.archive.org/web/20171116112613/https://www.theguardian.com/technology/2017/nov/15/tim-berners-lee-world-wide-web-net-neutrality originally posted Thu Nov 16 11:26:13 EST 2017/
+2019-12-26T10:17:06-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/shirow-vs-o-a5d7615111b7
+2019-12-26T10:17:17-05:00	Random link from the archives: https://web.archive.org/web/20190909134708/https://www.ryanfrantz.com/posts/systems-thinking-in-practice.html originally posted Mon Sep  9 13:47:08 EDT 2019/
+2019-12-26T10:28:06-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-26T11:47:49-05:00	Random link from the archives: https://web.archive.org/web/20190930134805/https://mainichi.jp/english/articles/20190917/p2a/00m/0na/017000c originally posted Mon Sep 30 13:48:05 EDT 2019/
+2019-12-26T13:58:26-05:00	Random link from the archives: https://web.archive.org/web/20180604104455/https://www.salon.com/2018/06/02/1969-my-long-strange-winter-trip-with-john-perry-barlow-a-legend-in-the-making/?curator=MusicREDEF originally posted Mon Jun  4 10:44:55 EDT 2018/
+2019-12-26T14:17:18-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-hope-so-ccdd0a86392b
+2019-12-26T14:17:25-05:00	Random link from the archives: https://web.archive.org/web/20180208115341/http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html originally posted Thu Feb  8 11:53:41 EST 2018/
+2019-12-26T15:28:17-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-26T15:47:57-05:00	Random link from the archives: https://web.archive.org/web/20190123095119/https://fivethirtyeight.com/features/the-young-lefts-anti-capitalist-manifesto/ originally posted Wed Jan 23 09:51:19 EST 2019/
+2019-12-26T17:58:41-05:00	Random link from the archives: https://web.archive.org/web/20171017180111/http://www.rbc.ru/technology_and_media/17/10/2017/59e0c17d9a79470e05a9e6c1 originally posted Tue Oct 17 18:01:11 EDT 2017/
+2019-12-26T18:17:28-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/does-innovation-have-anything-to-do-with-commerce-3b958d218e41
+2019-12-26T18:17:32-05:00	Random link from the archives: https://web.archive.org/web/20190927104407/https://aeon.co/essays/for-aristotle-education-is-what-equips-us-for-a-better-life originally posted Fri Sep 27 10:44:07 EDT 2019/
+2019-12-26T18:19:56-05:00	today is boxing day. celebrate by casting to Object
+2019-12-26T18:20:20-05:00	today is boxing day. celebrate by grappling
+2019-12-26T19:48:10-05:00	Random link from the archives: https://web.archive.org/web/20170625153956/https://boingboing.net/2017/06/23/weird-raids.html originally posted Sun Jun 25 15:39:56 EDT 2017/
+2019-12-26T20:28:29-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-26T21:58:58-05:00	Random link from the archives: https://web.archive.org/web/20171115085151/https://io9.gizmodo.com/fight-club-author-chuck-palahniuk-has-the-best-clive-ba-1820432549 originally posted Wed Nov 15 08:51:51 EST 2017/
+2019-12-26T22:17:35-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/as-much-as-i-hate-to-rain-on-your-parade-im-afraid-i-can-t-agree-at-all-with-your-premises-6d88cb5c68d0
+2019-12-26T22:17:40-05:00	Random link from the archives: https://web.archive.org/web/20170830164354/https://qz.com/1062945/the-value-of-bad-ideas-according-to-a-scientist/ originally posted Wed Aug 30 16:43:54 EDT 2017/
+2019-12-26T23:48:40-05:00	Random link from the archives: https://web.archive.org/web/20190709091541/https://blog.trailofbits.com/2019/07/08/fuck-rsa/ originally posted Tue Jul  9 09:15:41 EDT 2019/
+2019-12-27T01:28:53-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-27T01:59:07-05:00	Random link from the archives: https://web.archive.org/web/20190404125312/https://www.tor.com/2019/03/28/the-deep-social-justice-roots-of-the-twilight-zone/ originally posted Thu Apr  4 12:53:12 EDT 2019/
+2019-12-27T02:17:43-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-always-thought-it-was-a-good-match-for-academia-particularly-philosophy-theology-literary-726b24428ca4
+2019-12-27T02:17:48-05:00	Random link from the archives: https://web.archive.org/web/20181209144225/https://techcrunch.com/2018/12/09/jira-is-an-antipattern/ originally posted Sun Dec  9 14:42:25 EST 2018/
+2019-12-27T03:48:48-05:00	Random link from the archives: https://web.archive.org/web/20171210184635/https://www.youtube.com/watch?v=H7zZYnFADxk originally posted Sun Dec 10 18:46:35 EST 2017/
+2019-12-27T05:59:18-05:00	Random link from the archives: https://web.archive.org/web/20180328144002/https://www.youtube.com/watch?v=2uYXI-5rkOo originally posted Wed Mar 28 14:40:02 EDT 2018/
+2019-12-27T06:18:05-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/fiction-generator-post-mortem-mythology-generation-d7548a08beac
+2019-12-27T06:18:07-05:00	Random link from the archives: https://web.archive.org/web/20170905103402/https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/ originally posted Tue Sep  5 10:34:02 EDT 2017/
+2019-12-27T06:29:02-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-27T07:48:57-05:00	Random link from the archives: https://web.archive.org/web/20190609154855/https://www.youtube.com/watch?v=UP091FeB-3o originally posted Sun Jun  9 15:48:55 EDT 2019/
+2019-12-27T09:59:34-05:00	Random link from the archives: https://web.archive.org/web/20191205160853/http://yosefk.com/blog/my-history-with-forth-stack-machines.html originally posted Thu Dec  5 16:08:53 EST 2019/
+2019-12-27T10:18:24-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/interacting-with-fiction-160350399934
+2019-12-27T10:18:24-05:00	Random link from the archives: https://web.archive.org/web/20190607091235/https://dave.autonoma.ca/blog/2019/06/06/web-of-knowledge/ originally posted Fri Jun  7 09:12:35 EDT 2019/
+2019-12-27T11:29:22-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-27T11:49:14-05:00	Random link from the archives: https://web.archive.org/web/20190522073309/https://kotaku.com/indie-developer-accused-of-plagiarism-says-it-was-an-in-1834902499 originally posted Wed May 22 07:33:09 EDT 2019/
+2019-12-27T13:59:50-05:00	Random link from the archives: https://web.archive.org/web/20180711145010/https://distill.pub/2017/aia/ originally posted Wed Jul 11 14:50:10 EDT 2018/
+2019-12-27T14:18:39-05:00	Random link from the archives: https://web.archive.org/web/20181121164453/https://longreads.com/2018/11/20/a-stimulus-plan-for-the-mutual-aid-economy/ originally posted Wed Nov 21 16:44:53 EST 2018/
+2019-12-27T14:18:39-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/sort-by-controversial-as-a-proxy-for-information-content-748bd7124b7a
+2019-12-27T15:50:39-05:00	Random link from the archives: https://web.archive.org/web/20180312110749/https://www.montag.wtf/buy-a-share-of-mike/ originally posted Mon Mar 12 11:07:49 EDT 2018/
+2019-12-27T16:30:06-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-27T18:06:00-05:00	Random link from the archives: https://web.archive.org/web/20180407143910/https://www.youtube.com/watch?v=ffllV6-aqWU originally posted Sat Apr  7 14:39:10 EDT 2018/
+2019-12-27T18:19:57-05:00	Random link from the archives: https://web.archive.org/web/20180618080054/https://github.com/nickolas360/markov-complete originally posted Mon Jun 18 08:00:54 EDT 2018/
+2019-12-27T18:24:47-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-way-to-the-hangins-that-spiders-liked-breaking-over-holloways-was-satisfyingly-gothic-in-d43814e19c05
+2019-12-27T19:53:09-05:00	Random link from the archives: https://web.archive.org/web/20180902111535/https://medium.com/p/evaluating-the-buzzfeed-dossier-by-a-former-intelligence-analyst-53d9611f1657 originally posted Sun Sep  2 11:15:35 EDT 2018/
+2019-12-27T21:24:46-05:00	Band name of the day: the fulfillment centre
+2019-12-27T21:31:58-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-27T21:40:48-05:00	Band name of the day: shiny metal robots
+2019-12-27T22:07:14-05:00	Random link from the archives: https://web.archive.org/web/20190208092926/http://dailynutmeg.com/2019/02/08/dan-gries-art-code-director/ originally posted Fri Feb  8 09:29:26 EST 2019/
+2019-12-27T22:21:13-05:00	Random link from the archives: https://web.archive.org/web/20190723182431/https://www.youtube.com/watch?v=inzsKlVR_N8 originally posted Tue Jul 23 18:24:31 EDT 2019/
+2019-12-27T22:26:14-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/for-a-couple-years-i-the-early-naughts-i-mostly-ran-dos-with-various-experimental-unusual-5edcd8173882
+2019-12-27T23:54:26-05:00	Random link from the archives: https://web.archive.org/web/20191031102318/https://phenomenalworld.org/miscellaneous/john-roemer originally posted Thu Oct 31 10:23:18 EDT 2019/
+2019-12-28T02:09:12-05:00	Random link from the archives: https://web.archive.org/web/20190705091654/https://slate.com/culture/2019/06/life-hacking-productivity-tech-silicon-valley-hacking-life-book-review.html originally posted Fri Jul  5 09:16:54 EDT 2019/
+2019-12-28T02:21:54-05:00	Random link from the archives: https://web.archive.org/web/20190114125709/https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making originally posted Mon Jan 14 12:57:09 EST 2019/
+2019-12-28T02:27:05-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-m-going-to-have-to-point-out-that-this-survey-will-be-biased-a435ce4c09fc
+2019-12-28T02:34:14-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-28T03:55:24-05:00	Random link from the archives: https://web.archive.org/web/20180909232243/https://medium.com/p/on-my-reading-of-slavoj-%C5%BEi%C5%BEek-3dfb569cd60e originally posted Sun Sep  9 23:22:43 EDT 2018/
+2019-12-28T06:09:41-05:00	Random link from the archives: https://web.archive.org/web/20171130095858/http://www.mondo2000.com/2017/11/29/high-tech-high-life-william-gibson-timothy-leary-conversation-1989/ originally posted Thu Nov 30 09:58:58 EST 2017/
+2019-12-28T06:22:52-05:00	Random link from the archives: https://web.archive.org/web/20180312115353/https://gkbrk.com/2018/03/writing-a-simple-ipfs-crawler/ originally posted Mon Mar 12 11:53:53 EDT 2018/
+2019-12-28T06:27:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/there-are-different-right-wing-tribes-with-distinct-values-991578d8b367
+2019-12-28T07:35:01-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-28T07:55:57-05:00	Random link from the archives: https://web.archive.org/web/20181120105457/https://homes.cs.washington.edu/~lijl/papers/eris-sosp17.pdf originally posted Tue Nov 20 10:54:57 EST 2018/
+2019-12-28T10:09:53-05:00	Random link from the archives: https://web.archive.org/web/20181206093218/https://www.theverge.com/2018/12/5/18126154/screen-time-smartphones-bad-health-risk-science-study-wrong-depression-anxiety originally posted Thu Dec  6 09:32:18 EST 2018/
+2019-12-28T10:23:02-05:00	Random link from the archives: https://web.archive.org/web/20180726130316/https://www.wired.com/story/guerrilla-wikipedia-editors-who-combat-conspiracy-theories/amp?__twitter_impression=true originally posted Thu Jul 26 13:03:16 EDT 2018/
+2019-12-28T10:28:03-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-for-one-appreciate-your-resistance-to-cutting-down-your-articles-60ea45c60b59
+2019-12-28T10:58:43-05:00	Public talk: Diary, Discourse and Demonetisation - YouTube https://www.youtube.com/watch?v=tKhSv5240Ys
+2019-12-28T11:09:22-05:00	The waxing moon is an appropriate time to set a glass of vodka on your altar and set it on fire as a sacrifice to THE  A L G O R I T H M.  During the waning moon, you may summon AXAXAS, Great President of Hell, to teach you SEO tips and the names of birds.
+2019-12-28T11:56:06-05:00	Random link from the archives: https://web.archive.org/web/20180110112232/https://www.polygon.com/2018/1/9/16851376/everything-best-games-2017-year-in-review originally posted Wed Jan 10 11:22:32 EST 2018/
+2019-12-28T12:35:16-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-28T14:10:08-05:00	Random link from the archives: https://web.archive.org/web/20181024101858/https://www.atlasobscura.com/articles/cemetery-soil-human-remains originally posted Wed Oct 24 10:18:58 EDT 2018/
+2019-12-28T14:23:09-05:00	Random link from the archives: https://web.archive.org/web/20190801112332/https://wiki.postgresql.org/wiki/Don%27t_Do_This originally posted Thu Aug  1 11:23:32 EDT 2019/
+2019-12-28T14:28:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-ideal-chatbot-is-not-a-butler-or-a-puppy-but-an-elder-god-10f243372e6f
+2019-12-28T14:38:57-05:00	Bad idea of the day: an RPG where you're just a handyman. There's no great evil or anything -- you just get better and better at doing progressively more complicated odd jobs by leveling up your craft skills, while developing a relationship with the townspeople and managing your reputation.
+2019-12-28T15:56:26-05:00	Random link from the archives: https://web.archive.org/web/20180529092825/http://cs.brown.edu/~sk/Publications/Papers/Published/pkf-teach-pl-exp-adv-think/ originally posted Tue May 29 09:28:25 EDT 2018/
+2019-12-28T17:35:30-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-28T17:54:07-05:00	Band name of the day: the liars club
+2019-12-28T18:10:22-05:00	Random link from the archives: https://web.archive.org/web/20181113074201/https://aeon.co/essays/the-role-of-history-in-a-society-afflicted-by-short-termism originally posted Tue Nov 13 07:42:01 EST 2018/
+2019-12-28T18:23:17-05:00	Random link from the archives: https://web.archive.org/web/20190731072146/https://tedium.co/2019/07/30/led-light-bulbs-longevity/ originally posted Wed Jul 31 07:21:46 EDT 2019/
+2019-12-28T18:28:21-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-only-response-i-can-think-of-for-this-is-that-while-putin-almost-certainly-wants-to-think-of-d56f7fa43528
+2019-12-28T19:57:25-05:00	Random link from the archives: https://web.archive.org/web/20190625113319/https://www.vice.com/en_us/article/d3q45v/bittorrent-usage-increases-netflix-streaming-sites originally posted Tue Jun 25 11:33:19 EDT 2019/
+2019-12-28T22:10:35-05:00	Random link from the archives: https://web.archive.org/web/20191120104847/http://diaryofdoctorlogic.blogspot.com/2016/11/why-do-we-teach-1st-year-philosophers.html originally posted Wed Nov 20 10:48:47 EST 2019/
+2019-12-28T22:23:31-05:00	Random link from the archives: https://web.archive.org/web/20181112154712/http://toastytech.com/guis/salto.html originally posted Mon Nov 12 15:47:12 EST 2018/
+2019-12-28T22:28:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/how-much-bad-ui-design-comes-from-a-focus-on-making-the-ui-consistent-with-underlying-code-that-was-5d18d52ba90e
+2019-12-28T22:35:38-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-28T23:57:38-05:00	Random link from the archives: https://web.archive.org/web/20180214183134/https://www.eff.org/deeplinks/2018/02/we-dont-need-new-laws-faked-videos-we-already-have-them originally posted Wed Feb 14 18:31:34 EST 2018/
+2019-12-29T02:10:47-05:00	Random link from the archives: https://web.archive.org/web/20171023120823/https://www.wired.com/story/botnik-ai-comedy-app/ originally posted Mon Oct 23 12:08:23 EDT 2017/
+2019-12-29T02:23:38-05:00	Random link from the archives: https://web.archive.org/web/20180829125455/http://brandon.invergo.net/news/2013-03-10-Anti-web-design-Manifesto.html originally posted Wed Aug 29 12:54:55 EDT 2018/
+2019-12-29T02:29:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/absolutely-b675e7c8cbad
+2019-12-29T03:35:49-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-29T03:57:47-05:00	Random link from the archives: https://web.archive.org/web/20191104085216/https://aeon.co/ideas/we-all-know-that-we-will-die-so-why-do-we-struggle-to-believe-it originally posted Mon Nov  4 08:52:16 EST 2019/
+2019-12-29T06:11:01-05:00	Random link from the archives: https://web.archive.org/web/20190710125014/http://www.dataorienteddesign.com/dodbook/ originally posted Wed Jul 10 12:50:14 EDT 2019/
+2019-12-29T06:23:47-05:00	Random link from the archives: https://web.archive.org/web/20190606105224/https://www.vox.com/the-highlight/2019/5/22/18273284/ai-algorithmic-bill-of-rights-accountability-transparency-consent-bias originally posted Thu Jun  6 10:52:24 EDT 2019/
+2019-12-29T06:29:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/it-s-kind-of-funny-that-your-way-of-dealing-with-branching-narratives-of-this-type-is-to-play-959b5f2f9c49
+2019-12-29T07:57:59-05:00	Random link from the archives: https://web.archive.org/web/20181024100803/https://www.archdaily.com/883414/the-experimental-city-of-the-future-that-never-got-built originally posted Wed Oct 24 10:08:03 EDT 2018/
+2019-12-29T08:36:07-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-29T10:11:14-05:00	Random link from the archives: https://web.archive.org/web/20171201160406/https://www.youtube.com/watch?v=OBmp6RONkEw originally posted Fri Dec  1 16:04:06 EST 2017/
+2019-12-29T10:23:56-05:00	Random link from the archives: https://web.archive.org/web/20190610140614/https://en.wikipedia.org/wiki/Futuro originally posted Mon Jun 10 14:06:14 EDT 2019/
+2019-12-29T10:29:24-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/bots-are-wonderful-8c890f179283
+2019-12-29T11:58:12-05:00	Random link from the archives: https://web.archive.org/web/20190429103307/https://archive.org/details/DouglasAdamsMegapode originally posted Mon Apr 29 10:33:07 EDT 2019/
+2019-12-29T13:36:17-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-29T13:36:30-05:00	Band name of the day: the classified directory of spontaenous phenomena
+2019-12-29T14:02:53-05:00	Band name of the day: endless genealogy
+2019-12-29T14:11:26-05:00	Random link from the archives: https://web.archive.org/web/20190130125057/https://tedium.co/2019/01/29/microsoft-msx-history/ originally posted Wed Jan 30 12:50:57 EST 2019/
+2019-12-29T14:24:03-05:00	Random link from the archives: https://web.archive.org/web/20190416115702/https://bostonreview.net/politics-philosophy-religion/geoffrey-wildanger-book-marx-arendt-never-finished originally posted Tue Apr 16 11:57:02 EDT 2019/
+2019-12-29T14:29:39-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/conditions-for-the-possibility-of-exit-c38ea186abf1
+2019-12-29T15:58:23-05:00	Random link from the archives: https://web.archive.org/web/20191011170659/https://www.youtube.com/watch?v=a2nuF9IXnkg originally posted Fri Oct 11 17:06:59 EDT 2019/
+2019-12-29T18:11:37-05:00	Random link from the archives: https://web.archive.org/web/20190606131955/https://www.gnu.org/software/hyperbole/ originally posted Thu Jun  6 13:19:55 EDT 2019/
+2019-12-29T18:24:11-05:00	Random link from the archives: https://web.archive.org/web/20190806082412/https://www.lesswrong.com/posts/FoJSa8mgLPT83g9e8/jeff-hawkins-on-neuromorphic-agi-within-20-years originally posted Tue Aug  6 08:24:12 EDT 2019/
+2019-12-29T18:29:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/right-on-dacb0120c54a
+2019-12-29T18:36:26-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-29T19:39:34-05:00	Band name of the day: saucer revue
+2019-12-29T19:58:33-05:00	Random link from the archives: https://web.archive.org/web/20181113105425/https://jods.mitpress.mit.edu/pub/issue3-case originally posted Tue Nov 13 10:54:25 EST 2018/
+2019-12-29T20:11:30-05:00	Band name of the day: endless everyday
+2019-12-29T21:29:15-05:00	Band name of the day: expensive static from outer space
+2019-12-29T22:11:51-05:00	Random link from the archives: https://web.archive.org/web/20190726115443/https://birthmoviesdeath.com/2018/03/14/collins-crypt-most-of-the-demons-sequels-dont-have-any-demons originally posted Fri Jul 26 11:54:43 EDT 2019/
+2019-12-29T22:24:20-05:00	Random link from the archives: https://web.archive.org/web/20190508090110/https://parametric.press/issue-01/unraveling-the-jpeg/ originally posted Wed May  8 09:01:10 EDT 2019/
+2019-12-29T22:29:55-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-you-want-to-get-a-job-in-tech-be-qualified-for-it-you-need-to-first-be-self-taught-and-then-6959fd5d767f
+2019-12-29T23:36:47-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-29T23:58:43-05:00	Random link from the archives: https://web.archive.org/web/20180409135752/https://zdware.com/2018/okcupid_removed_visitor_api/ originally posted Mon Apr  9 13:57:52 EDT 2018/
+2019-12-30T02:12:09-05:00	Random link from the archives: https://web.archive.org/web/20170602124926/https://aeon.co/ideas/how-cold-war-rivalry-helped-launch-the-chinese-computer?utm_source=Aeon+Newsletter&utm_campaign=2158247472-EMAIL_CAMPAIGN_2017_04_28&utm_medium=email&utm_term=0_411a82e59d-2158247472-68693017 originally posted Fri Jun  2 12:49:26 EDT 2017/
+2019-12-30T02:24:28-05:00	Random link from the archives: https://web.archive.org/web/20191209104308/http://tomstafford.staff.shef.ac.uk/truthandtrust/ originally posted Mon Dec  9 10:43:08 EST 2019/
+2019-12-30T02:30:02-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-perils-of-identity-7cd235e69ca2
+2019-12-30T03:58:56-05:00	Random link from the archives: https://web.archive.org/web/20180503090448/https://thebaffler.com/latest/i-dream-of-content-trash-webb originally posted Thu May  3 09:04:48 EDT 2018/
+2019-12-30T04:36:57-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-30T06:12:22-05:00	Random link from the archives: https://web.archive.org/web/20180216095615/https://kvond.files.wordpress.com/2009/06/how-mental-systems-believe.pdf originally posted Fri Feb 16 09:56:15 EST 2018/
+2019-12-30T06:24:35-05:00	Random link from the archives: https://web.archive.org/web/20180411075919/https://engineering.riotgames.com/news/taxonomy-tech-debt originally posted Wed Apr 11 07:59:19 EDT 2018/
+2019-12-30T06:30:09-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/while-i-agree-with-the-sentiment-i-think-you-misplace-the-blame-c35cde8a1841
+2019-12-30T07:59:09-05:00	Random link from the archives: https://web.archive.org/web/20190211115605/https://www.vulture.com/2019/02/the-matrix-keanu-reeves-invented-a-new-kind-of-action-star.html originally posted Mon Feb 11 11:56:05 EST 2019/
+2019-12-30T09:37:47-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-30T10:12:29-05:00	Random link from the archives: https://web.archive.org/web/20180803111208/https://jacobinmag.com/2018/08/sorry-to-bother-you-boots-riley-interview originally posted Fri Aug  3 11:12:08 EDT 2018/
+2019-12-30T10:24:44-05:00	Random link from the archives: https://web.archive.org/web/20190823080029/https://grover.allenai.org/ originally posted Fri Aug 23 08:00:29 EDT 2019/
+2019-12-30T10:30:16-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-winners-have-been-announced-https-medium-com-enkiv2-announcing-the-winners-of-the-2017-no-2fcef9022609
+2019-12-30T11:59:18-05:00	Random link from the archives: https://web.archive.org/web/20180417153955/https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops originally posted Tue Apr 17 15:39:55 EDT 2018/
+2019-12-30T14:24:54-05:00	Random link from the archives: https://web.archive.org/web/20180625084311/http://catern.com/posts/docker.html originally posted Mon Jun 25 08:43:11 EDT 2018/
+2019-12-30T14:30:24-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/early-modern-english-early-middle-english-sounds-like-chaucer-3878c08e0171
+2019-12-30T14:37:54-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-30T18:25:07-05:00	Random link from the archives: https://web.archive.org/web/20180625091005/https://www.theguardian.com/commentisfree/2018/jun/16/how-china-censors-internet-information originally posted Mon Jun 25 09:10:05 EDT 2018/
+2019-12-30T18:30:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/id-probably-start-with-jef-raskin-s-book-the-humane-interface-9267233aa1af
+2019-12-30T19:38:07-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-30T22:25:20-05:00	Random link from the archives: https://web.archive.org/web/20170705113947/https://kotaku.com/an-insider-s-look-at-working-in-the-anime-business-1796312543?curator=MediaREDEF originally posted Wed Jul  5 11:39:47 EDT 2017/
+2019-12-30T22:31:07-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/silicon-valley-hasnt-innovated-since-1978-f98f315f2bf
+2019-12-31T00:38:26-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-31T02:25:32-05:00	Random link from the archives: https://web.archive.org/web/20191212102339/https://xenogothic.com/2019/11/18/here-we-go-again/ originally posted Thu Dec 12 10:23:39 EST 2019/
+2019-12-31T02:31:18-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-is-not-no-ui-it-s-text-based-ui-c4e5991b7edb
+2019-12-31T05:38:43-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-31T06:25:45-05:00	Random link from the archives: https://web.archive.org/web/20180725081627/https://www.vox.com/culture/2018/7/24/17599132/james-gunn-fired-gamergate-guardians-of-the-galaxy originally posted Wed Jul 25 08:16:27 EDT 2018/
+2019-12-31T06:31:26-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/imagination-the-distribution-of-futurity-4540bf6b882e
+2019-12-31T10:25:56-05:00	Random link from the archives: https://web.archive.org/web/20180612091130/https://github.com/thosakwe/t2b originally posted Tue Jun 12 09:11:30 EDT 2018/
+2019-12-31T10:31:34-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/we-all-know-about-social-constructs-vs-reality-but-there-are-levels-of-spookiness-and-no-upper-3195cb290d6c
+2019-12-31T10:39:23-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-31T11:00:57-05:00	time for all you fuckers to plant trees tonight. you know what they say: new year, new yew
+2019-12-31T14:26:16-05:00	Random link from the archives: https://web.archive.org/web/20190818132052/https://medium.com/p/is-ai-riding-a-one-trick-pony-b9ed5a261da0 originally posted Sun Aug 18 13:20:52 EDT 2019/
+2019-12-31T14:31:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2019-no-budget-film-contest-d7eb339a3ed5
+2019-12-31T15:39:32-05:00	Manna for our Malices is 50% off from December 19th to January 1st for the #itchholidaysale https://itch.io/s/25237/holiday-sale-2019
+2019-12-31T15:51:44-05:00	software will eat itself
+2019-12-31T18:26:29-05:00	Random link from the archives: https://web.archive.org/web/20190219072640/https://lareviewofbooks.org/article/the-soviet-matrix-on-the-strugatsky-brothers-the-doomed-city originally posted Tue Feb 19 07:26:40 EST 2019/
+2019-12-31T18:31:53-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/how-to-become-steve-ballmer-implement-stack-ranking-throw-chairs-at-people-during-meetings-yell-42a241041926
+2019-12-31T22:26:49-05:00	Random link from the archives: https://web.archive.org/web/20191110164857/https://experiments.withgoogle.com/collection/digitalwellbeing originally posted Sun Nov 10 16:48:57 EST 2019/
+2019-12-31T22:32:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/in-defense-of-nuanced-understanding-of-the-enemy-in-a-networked-age-feat-zizek-vs-peterson-b712962c5737
+2020-01-01T02:27:08-05:00	Random link from the archives: https://web.archive.org/web/20180711143917/https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/ originally posted Wed Jul 11 14:39:17 EDT 2018/
+2020-01-01T02:32:27-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-you-want-a-professional-quality-development-machine-buy-a-2008-thinkpad-on-ebay-cost-is-about-ffb2e3db395a
+2020-01-01T06:27:22-05:00	Random link from the archives: https://web.archive.org/web/20170915111928/https://www.emptywheel.net/2017/09/14/software-is-a-long-con/ originally posted Fri Sep 15 11:19:28 EDT 2017/
+2020-01-01T06:32:34-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-wtf-awards-sketching-a-map-to-an-escape-from-steam-engine-time-1bc4bd29c2e4
+2020-01-01T10:27:35-05:00	Random link from the archives: https://web.archive.org/web/20180628110044/https://www.youtube.com/watch?v=3cP4X3OZcf8 originally posted Thu Jun 28 11:00:44 EDT 2018/
+2020-01-01T10:32:42-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/thats-part-of-it-3c733aea10f7
+2020-01-01T11:09:09-05:00	Miyazaki's Marxism - The Politics of Anime's Legendary Director - YouTube https://www.youtube.com/watch?v=UMXN6B-tqZM
+2020-01-01T14:27:50-05:00	Random link from the archives: https://web.archive.org/web/20170602124925/http://slatestarcodex.com/2017/05/25/those-modern-pathologies/ originally posted Fri Jun  2 12:49:25 EDT 2017/
+2020-01-01T14:32:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-thought-this-was-going-to-turn-into-a-full-rejection-of-the-representativeness-heuristic-and-was-dba5d6ebde9c
+2020-01-01T18:28:03-05:00	Random link from the archives: https://web.archive.org/web/20190507144053/https://mathics.github.io/ originally posted Tue May  7 14:40:53 EDT 2019/
+2020-01-01T18:33:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-mean-that-ideally-facebook-medium-and-youtube-wouldnt-be-websites-because-the-web-is-a-poor-640438dd6634
+2020-01-01T22:28:16-05:00	Random link from the archives: https://web.archive.org/web/20190810181504/https://medium.com/p/we-need-to-talk-about-reactionary-centrists-f0e6f8c4d58 originally posted Sat Aug 10 18:15:04 EDT 2019/
+2020-01-01T22:33:09-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-best-most-complete-technical-introduction-is-mine-c7ecc6e0534a
+2020-01-02T02:28:29-05:00	Random link from the archives: https://web.archive.org/web/20190129121232/http://www.vpri.org/pdf/tr2015002_oopsla15_babelsberg.pdf originally posted Tue Jan 29 12:12:32 EST 2019/
+2020-01-02T02:33:16-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/automation-philosophy-22b64b9941c4
+2020-01-02T06:12:35-05:00	Every Book I Read in 2017 – Sonya Ellen Mann https://www.sonyaellenmann.com/2018/01/every-book-i-read-2017.html
+2020-01-02T06:13:36-05:00	Cry, but everyone’s a bit older – shardcore http://www.shardcore.org/shardpress2019/2020/01/01/cry-but-everyones-a-bit-older/
+2020-01-02T06:28:42-05:00	Random link from the archives: https://web.archive.org/web/20181112174232/http://wiki.c2.com/?MorphicInterface originally posted Mon Nov 12 17:42:32 EST 2018/
+2020-01-02T06:33:23-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/as-much-as-im-loathe-to-heap-praise-on-second-life-linden-labs-i-think-they-at-least-got-this-8a4ed0a4d4a
+2020-01-02T07:42:31-05:00	today is National Returns Day. celebrate by rebirthing.
+2020-01-02T07:42:52-05:00	The Unwanted Economics of Christmas Returns https://melmagazine.com/en-us/story/the-unwanted-economics-of-christmas-returns
+2020-01-02T07:44:47-05:00	The answer to 'whatever happened to UFOs': everybody thinks they're drones now. https://gizmodo.com/the-baffling-case-of-colorados-mystery-drones-1840668928
+2020-01-02T07:53:32-05:00	The 84 biggest flops, fails, and dead dreams of the decade in tech - The Verge https://www.theverge.com/2019/12/20/21029499/decade-fails-flops-tech-science-culture-apple-google-data-kickstarter-2010-2019
+2020-01-02T07:54:19-05:00	Inside Documents Show How Amazon Chose Speed Over Safety in Building Its Delivery Network " ProPublica https://www.propublica.org/article/inside-documents-show-how-amazon-chose-speed-over-safety-in-building-its-delivery-network
+2020-01-02T08:08:39-05:00	fogus: Six works of Computer Science-Fiction http://blog.fogus.me/2015/04/27/six-works-of-computer-science-fiction/
+2020-01-02T08:17:32-05:00	136 Mindblowing & Groundbreaking Internet Videos https://kottke.org/19/12/136-mindblowing-groundbreaking-internet-videos
+2020-01-02T08:30:05-05:00	bellingcat - Guide To Using Reverse Image Search For Investigations - bellingcat https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/
+2020-01-02T08:34:09-05:00	Band name of the day: mimeolith
+2020-01-02T08:41:34-05:00	Brian Eno Day : Free Borrow & Streaming : Internet Archive https://archive.org/details/AM_1988_02_12_c2
+2020-01-02T08:43:38-05:00	Speculative Realism and Object-Oriented Ontology Grad Class : Timothy Morton : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/SpeculativeRealismAndObject-orientedOntologyGradClass
+2020-01-02T08:44:11-05:00	ULTRAMAN 1966 - YouTube https://www.youtube.com/playlist?list=PLrPL9dGQYDqDdxxdTtDZm0Y1ulR6DytWh
+2020-01-02T08:52:51-05:00	Technology and Preservation: Tedium in the Year 2020 https://tedium.co/2019/12/31/tedium-trends-2020/
+2020-01-02T08:56:33-05:00	White Plastic Devices: From Apple to Zire, A Century-Long Story https://tedium.co/2019/12/26/polycarbonate-white-plastic-devices-history/
+2020-01-02T09:02:11-05:00	Alternative Holiday Music: Bob Rivers, Stan Freberg, The Weather Girls https://tedium.co/2019/12/19/alternative-holiday-music/
+2020-01-02T09:04:03-05:00	Band name of the day: occult data collection agency
+2020-01-02T09:09:37-05:00	The story of the man who made Wolfenstein - Polygon https://www.polygon.com/features/2019/12/24/21029936/castle-wolfenstein-silas-warner
+2020-01-02T10:19:49-05:00	A 600-Mile Quest to Savor Japan’s Kissaten and Pizza Toast - Eater https://www.eater.com/2019/12/16/21003452/japan-kissaten-traditional-cafes-pizza-toast-travel
+2020-01-02T10:28:50-05:00	Random link from the archives: https://web.archive.org/web/20191023101941/https://archive.computerhistory.org/resources/access/text/2017/03/102726907-05-01-acc.pdf originally posted Wed Oct 23 10:19:41 EDT 2019/
+2020-01-02T10:33:31-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/youre-very-welcome-bd09a916affc
+2020-01-02T10:33:47-05:00	Philosophy Is a Public Service - Issue 79: Catalysts - Nautilus http://nautil.us/issue/79/catalysts/philosophy-is-a-public-service
+2020-01-02T10:39:09-05:00	The History of the Ralstonism Health Movement | Mental Floss https://www.mentalfloss.com/article/610426/ralstonism-history-health-movement
+2020-01-02T10:44:19-05:00	This Page is Designed to Last: A Manifesto for Preserving Content on the Web https://jeffhuang.com/designed_to_last/
+2020-01-02T10:54:55-05:00	Band name of the day: laurel reef
+2020-01-02T10:58:05-05:00	Band name of the day: deathzone
+2020-01-02T11:09:32-05:00	Lost in Summerland " The Atavist Magazine https://magazine.atavist.com/lost-in-summerland-lily-dale-psychics-mediums-spiritualism
+2020-01-02T12:11:20-05:00	The Open Book Feather | Hackaday.io https://hackaday.io/project/168761-the-open-book-feather?mc_cid=b4f1db6d9f
+2020-01-02T12:12:28-05:00	https://www.engineering.com/AdvancedManufacturing/ArticleID/19720/How-to-Select-the-Right-Pin-for-Mechanical-Assembly.aspx?mc_cid=b4f1db6d9f&mc_eid=c92bddb137
+2020-01-02T12:13:35-05:00	Carpentry Compiler https://grail.cs.washington.edu/projects/carpentrycompiler/?mc_cid=b4f1db6d9f&mc_eid=c92bddb137
+2020-01-02T13:10:08-05:00	What is monoculture? - Vox https://www.vox.com/the-goods/2019/12/17/21024439/monoculture-algorithm-netflix-spotify
+2020-01-02T13:30:23-05:00	Band name of the day: music for small speakers
+2020-01-02T14:29:06-05:00	Random link from the archives: https://web.archive.org/web/20190801135920/https://www.mythinking.rocks/WillMartin/rene_girard originally posted Thu Aug  1 13:59:20 EDT 2019/
+2020-01-02T14:33:40-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/on-infohazards-4dce89cb1c60
+2020-01-02T18:29:20-05:00	Random link from the archives: https://web.archive.org/web/20181113033030/http://doc.cat-v.org/inferno/4th_edition/kernel_debugging/ originally posted Tue Nov 13 03:30:30 EST 2018/
+2020-01-02T18:33:48-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-author-of-this-piece-managed-to-write-an-entire-article-about-the-concept-of-slack-without-once-5e38a32cb7a9
+2020-01-02T22:29:33-05:00	Random link from the archives: https://web.archive.org/web/20181004080003/https://medium.com/p/we-can-weaponize-fiction-but-how-do-we-monetize-truth-ef9ffb52299e originally posted Thu Oct  4 08:00:03 EDT 2018/
+2020-01-02T22:33:56-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/im-not-the-author-of-the-original-piece-f1d9ee4f142c
+2020-01-03T02:29:46-05:00	Random link from the archives: https://web.archive.org/web/20190801104334/https://ludzinc.blogspot.com/2019/07/easier-esp8266-development.html originally posted Thu Aug  1 10:43:34 EDT 2019/
+2020-01-03T02:34:03-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/congratulations-on-second-place-9d7cc652206a
+2020-01-03T05:12:21-05:00	call of duty: community welfare
+2020-01-03T06:29:57-05:00	Random link from the archives: https://web.archive.org/web/20180720082437/http://www.gregorybenford.com/extra/big-dumb-objects-and-cosmic-enigmas/ originally posted Fri Jul 20 08:24:37 EDT 2018/
+2020-01-03T06:34:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/some-less-modest-provisions-5d7efb4375f5
+2020-01-03T07:03:27-05:00	call of duty: country thoroughfare
+2020-01-03T07:27:41-05:00	The polygons of Another World http://fabiensanglard.net/another_world_polygons/index.html
+2020-01-03T07:28:09-05:00	The polygons of Another World: Amiga 500 http://fabiensanglard.net/another_world_polygons_amiga500/index.html
+2020-01-03T08:12:35-05:00	BBS: The Documentary Archive : Free Movies : Free Download, Borrow and Streaming : Internet Archive https://archive.org/details/bbs_documentary
+2020-01-03T08:15:22-05:00	THE INSULT FILE VERSION 6.13 http://www.guymacon.com/flame.html
+2020-01-03T10:30:10-05:00	Random link from the archives: https://web.archive.org/web/20181113032512/http://doc.cat-v.org/plan_9/4th_edition/papers/acid originally posted Tue Nov 13 03:25:12 EST 2018/
+2020-01-03T10:34:22-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/stories-i-wont-write-but-you-can-8a86a0321d3f
+2020-01-03T11:58:37-05:00	Software Security is a Programming Languages Issue - The PL Enthusiast http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/
+2020-01-03T12:01:51-05:00	The Smart, the Stupid, and the Catastrophically Scary: An Interview with an Anonymous Data Scientist https://logicmag.io/intelligence/interview-with-an-anonymous-data-scientist/
+2020-01-03T12:06:42-05:00	Hypertext Style: Cool URIs don't change. http://www.w3.org/Provider/Style/URI
+2020-01-03T12:07:51-05:00	Jef Raskin on "Intuitive Interfaces" https://www.asktog.com/papers/raskinintuit.html
+2020-01-03T12:33:07-05:00	ESP8266 - 1+ Year 18650 battery lifetime - Qball's Weblog https://blog.sarine.nl/2020/01/01/1-year-sensor.html
+2020-01-03T12:33:26-05:00	Craig Baldwin Experimental Filmmaker : Shaping San Francisco : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/craigbaldwinexperimentalfilmmaker/
+2020-01-03T13:44:27-05:00	This Is True History: One of the Internet’s Oldest Newsletters https://tedium.co/2020/01/02/this-is-true-randy-cassingham-interview/
+2020-01-03T13:51:59-05:00	Don't bet on an Expected Value https://lambdaclass.com/data_etudes/dont_bet_on_an_ev/
+2020-01-03T13:57:38-05:00	303 See Other https://www.nature.com/articles/d41586-019-03755-2
+2020-01-03T13:58:56-05:00	Limits, schlimits: It’s time to rethink how we teach calculus | Ars Technica https://arstechnica.com/science/2019/11/limits-schlimits-its-time-to-rethink-how-we-teach-calculus/
+2020-01-03T14:30:19-05:00	Random link from the archives: https://web.archive.org/web/20181030094329/https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext originally posted Tue Oct 30 09:43:29 EDT 2018/
+2020-01-03T14:34:29-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/pulp-media-is-a-goldmine-for-culture-for-the-same-reason-that-a-latrine-pit-is-a-goldmine-for-b36b9740ed67
+2020-01-03T18:30:31-05:00	Random link from the archives: https://web.archive.org/web/20190509141802/https://convai.huggingface.co/ originally posted Thu May  9 14:18:02 EDT 2019/
+2020-01-03T18:34:36-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/no-problem-33b1e47e9696
+2020-01-03T22:30:47-05:00	Random link from the archives: https://web.archive.org/web/20180918104447/https://twobithistory.org/2018/05/27/semantic-web.html originally posted Tue Sep 18 10:44:47 EDT 2018/
+2020-01-03T22:34:44-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/berners-lee-had-a-project-that-did-many-things-correctly-that-the-web-did-incorrectly-93c7175ae4ce
+2020-01-04T02:30:58-05:00	Random link from the archives: https://web.archive.org/web/20180921154355/https://medium.com/p/the-noise-at-the-end-of-the-world-91510465cec1 originally posted Fri Sep 21 15:43:55 EDT 2018/
+2020-01-04T02:34:50-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-think-we-need-to-apply-social-pressure-on-two-sides-against-people-who-dont-assume-interactions-642509fa77c9
+2020-01-04T06:31:09-05:00	Random link from the archives: https://web.archive.org/web/20180901231328/https://medium.com/p/dueling-credit-in-19th-century-f37fa509b4bf originally posted Sat Sep  1 23:13:28 EDT 2018/
+2020-01-04T06:34:57-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/a-second-issue-with-the-uber-for-model-is-that-it-s-a-tax-evasion-scheme-that-also-in-the-minds-f0e49937cdad
+2020-01-04T10:31:22-05:00	Random link from the archives: https://web.archive.org/web/20190910121545/https://aeon.co/ideas/our-illusory-sense-of-agency-has-a-deeply-important-social-purpose originally posted Tue Sep 10 12:15:45 EDT 2019/
+2020-01-04T10:35:04-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-interface-should-be-predictable-but-that-is-not-the-same-as-uniform-fef9254bf90f
+2020-01-04T14:31:35-05:00	Random link from the archives: https://web.archive.org/web/20190215072224/https://indieweb.org/POSSE originally posted Fri Feb 15 07:22:24 EST 2019/
+2020-01-04T14:35:14-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/alternatives-to-advertising-7af0e32b8a8e
+2020-01-04T17:00:08-05:00	YouTube https://www.youtube.com/watch?v=wZoHGAK3k-I
+2020-01-04T18:31:57-05:00	Random link from the archives: https://web.archive.org/web/20190812092400/https://www.edge.org/conversation/marvin_minsky-consciousness-is-a-big-suitcase originally posted Mon Aug 12 09:24:00 EDT 2019/
+2020-01-04T18:35:24-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-experiment-might-prove-an-interesting-basis-for-the-artistic-use-of-transclusion-f12cab7bf762
+2020-01-04T22:21:47-05:00	Band name of the day: the secret commonwealth
+2020-01-04T22:32:11-05:00	Random link from the archives: https://web.archive.org/web/20190530075704/https://github.com/alok/notational-fzf-vim originally posted Thu May 30 07:57:04 EDT 2019/
+2020-01-04T22:35:34-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/how-bots-were-born-from-spam-62f6c621351f
+2020-01-05T00:26:41-05:00	The planet weird folks have been noticing all the 93s in the hellier investigation but have seemingly not clued into all the 23s, which any good discordian would have noticed as a sign of a trickster entity early
+2020-01-05T02:32:20-05:00	Random link from the archives: https://web.archive.org/web/20190801115557/https://www.theverge.com/2019/7/19/20698192/instagram-moderation-tag-cleaners-digital-vandalism-gore-harassment-images-bianca-devins originally posted Thu Aug  1 11:55:57 EDT 2019/
+2020-01-05T02:35:42-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-we-can-do-this-and-its-certainly-technically-possible-we-can-break-siloization-by-doing-the-9757bae8a8f6
+2020-01-05T06:32:29-05:00	Random link from the archives: https://web.archive.org/web/20171128065434/https://sites.google.com/view/11khands originally posted Tue Nov 28 06:54:34 EST 2017/
+2020-01-05T06:35:49-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/ones-career-is-rarely-a-vocation-8b6926d7248a
+2020-01-05T10:32:41-05:00	Random link from the archives: https://web.archive.org/web/20190326090250/https://kottke.org/19/03/the-legend-of-nixon-a-data-driven-nes-soundscape originally posted Tue Mar 26 09:02:50 EDT 2019/
+2020-01-05T10:35:56-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-kind-of-thing-has-been-apples-mo-since-1982-4cc15fd29b8e
+2020-01-05T11:19:20-05:00	Review of High Weirdness: Drugs, Esoterica and Visionary Experience in the Seventies by Erik Davis | Dreamflesh https://dreamflesh.com/review/book/high-weirdness/
+2020-01-05T14:32:53-05:00	Random link from the archives: https://web.archive.org/web/20190829104741/https://www.theguardian.com/books/2019/aug/24/is-the-political-novel-dead originally posted Thu Aug 29 10:47:41 EDT 2019/
+2020-01-05T14:36:03-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-too-get-more-traffic-more-responses-on-quora-except-of-course-when-i-cross-promote-my-e9bcd335dadf
+2020-01-05T18:14:47-05:00	I don't know why, regardless of how low I set my distance window, dating sites mostly show me people from NYC. I'm not gonna drive three hours for a first date, & nobody's gonna drive 3 hours to meet me.
+2020-01-05T18:33:01-05:00	Random link from the archives: https://web.archive.org/web/20180220125409/https://social-epistemology.com/2018/02/13/deleting-the-human-clause-damien-williams/ originally posted Tue Feb 20 12:54:09 EST 2018/
+2020-01-05T18:36:10-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/worse-and-when-how-it-can-be-better-930ced76acea
+2020-01-05T22:33:10-05:00	Random link from the archives: https://web.archive.org/web/20190429192145/https://www.youtube.com/watch?v=6D7boOIHrc8 originally posted Mon Apr 29 19:21:45 EDT 2019/
+2020-01-05T22:36:18-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-d-be-interested-in-seeing-how-ebook-sales-trends-match-up-with-the-shift-from-epaper-to-oled-lcd-3b4e0849bec5
+2020-01-06T02:33:21-05:00	Random link from the archives: https://web.archive.org/web/20180905155609/https://www.youtube.com/watch?v=nC6wit4Epeo originally posted Wed Sep  5 15:56:09 EDT 2018/
+2020-01-06T02:36:25-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/perhaps-a-good-model-for-a-left-wing-game-if-we-take-seriously-the-idea-that-right-left-division-b60ee476acd1
+2020-01-06T06:33:32-05:00	Random link from the archives: https://web.archive.org/web/20191209134630/https://www.brightwalldarkroom.com/2017/02/15/death-is-the-curator-an-interview-with-guillermo-del-toro/ originally posted Mon Dec  9 13:46:30 EST 2019/
+2020-01-06T06:36:31-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/its-easy-for-automatic-habits-to-take-over-even-when-doing-things-that-seem-like-original-1fac3c56e33e
+2020-01-06T08:37:47-05:00	Why Cryptocurrency Matters https://www.sonyasupposedly.com/why-cryptocurrency-matters/
+2020-01-06T10:04:36-05:00	The 1972 Kera UFO Incident https://www.ufoinsight.com/the-1972-kera-ufo-incident/
+2020-01-06T10:26:39-05:00	(PDF) Subversion of Social Movements by Adversarial Agents https://www.researchgate.net/publication/263533674_Subversion_of_Social_Movements_by_Adversarial_Agents
+2020-01-06T10:29:56-05:00	A Response to Hello World | doxsey.net https://www.doxsey.net/blog/a-response-to-hello-world
+2020-01-06T10:33:41-05:00	Random link from the archives: https://web.archive.org/web/20180626152137/https://www.youtube.com/watch?v=D3jjVsm99Ec originally posted Tue Jun 26 15:21:37 EDT 2018/
+2020-01-06T10:36:38-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/you-re-complaining-that-a-free-vr-device-came-with-your-newspaper-even-though-by-no-means-do-you-6e0338be351e
+2020-01-06T12:28:53-05:00	Somebody's trying to brute force my blizzard account, and I don't know why. I don't have a credit card attached & I don't have any valuable characters. Also they are unaware of 2FA somehow?
+2020-01-06T12:43:37-05:00	chesterson's fence but for heresy. sometimes taboos are actually protecting you from infohazards and you don't know enough about them to recognize that you don't have the intellectual resilience to resist falling face-first into them.
+2020-01-06T12:54:36-05:00	The Wheel of Reincarnation http://www.cap-lore.com/Hardware/Wheel.html
+2020-01-06T12:57:16-05:00	Pavel Fatin  » Blog Archive   » Typing with pleasure - Blog about human and technology  https://pavelfatin.com/typing-with-pleasure/
+2020-01-06T12:58:04-05:00	Computer latency: 1977-2017 https://danluu.com/input-lag/
+2020-01-06T12:59:00-05:00	Terminal latency https://danluu.com/term-latency/
+2020-01-06T13:00:47-05:00	Algorithms interviews: theory vs. practice https://danluu.com/algorithms-interviews/
+2020-01-06T13:03:50-05:00	Notes on concurrency bugs https://danluu.com/concurrency-bugs/
+2020-01-06T13:08:23-05:00	How good are decisions? https://danluu.com/bad-decisions/
+2020-01-06T13:10:24-05:00	Band name of the day: the control group
+2020-01-06T13:21:39-05:00	Friend of a Friend: The Facebook That Could Have Been https://twobithistory.org/2020/01/05/foaf.html
+2020-01-06T13:29:29-05:00	The 100 Worst Ed-Tech Debacles of the Decade http://hackeducation.com/2019/12/31/what-a-shitshow
+2020-01-06T13:37:25-05:00	Our Neophobic, Conservative AI Overlords Want Everything to Stay the Same – BLARB http://blog.lareviewofbooks.org/provocations/neophobic-conservative-ai-overlords-want-everything-stay/
+2020-01-06T13:38:29-05:00	Systems, Mistakes, and the Sea › Robin Rendle https://www.robinrendle.com/essays/systems-mistakes-and-the-sea
+2020-01-06T13:40:51-05:00	Peak HN has been reached: https://news.ycombinator.com/item?id=21955258
+2020-01-06T14:33:53-05:00	Random link from the archives: https://web.archive.org/web/20200102083003/https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/ originally posted Thu Jan  2 08:30:03 EST 2020/
+2020-01-06T14:36:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/ok-ok-but-a-lot-of-these-things-are-still-toys-f0463803796c
+2020-01-06T18:34:04-05:00	Random link from the archives: https://web.archive.org/web/20170713090331/https://arstechnica.com/security/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/ originally posted Thu Jul 13 09:03:31 EDT 2017/
+2020-01-06T18:36:54-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-whole-programmers-are-a-special-genetically-superior-elite-of-deep-thinkers-meme-really-5929737e1094
+2020-01-06T20:01:58-05:00	world war tree
+2020-01-06T20:09:43-05:00	anti-jokes versus auntie-jokes
+2020-01-06T22:34:14-05:00	Random link from the archives: https://web.archive.org/web/20171017073538/https://github.com/saitogroup/Website_Phrase_Prompter originally posted Tue Oct 17 07:35:38 EDT 2017/
+2020-01-06T22:37:01-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/all-fat-middle-aged-white-guys-are-secretly-the-same-person-like-saint-gulik-9e5fd3fd65d1
+2020-01-07T02:34:25-05:00	Random link from the archives: https://web.archive.org/web/20191025153834/https://medium.com/p/design-psychology-aesthetic-usability-effect-494ed0f22571 originally posted Fri Oct 25 15:38:34 EDT 2019/
+2020-01-07T02:37:08-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/nope-changing-responsive-to-reactive-doesn-t-explain-why-we-d-specify-a-server-side-microsoft-1fcfb64e7be6
+2020-01-07T06:34:35-05:00	Random link from the archives: https://web.archive.org/web/20180418093207/https://crypto.stanford.edu/~blynn/c/apl.html originally posted Wed Apr 18 09:32:07 EDT 2018/
+2020-01-07T06:37:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-your-goal-is-to-find-out-how-people-on-reddit-actually-talk-about-it-rather-than-what-kind-of-8b2b4538e193
+2020-01-07T08:08:25-05:00	1923:  A Monthly Zine of Public Domain Treasures  https://1923.press/
+2020-01-07T08:08:40-05:00	The Music, Books & Films Liberated into the Public Domain in 2020: Rhapsody in Blue, The Magic Mountain, Sherlock, Jr., and More |  Open Culture http://www.openculture.com/2020/01/the-music-books-films-liberated-into-the-public-domain-in-2020.html
+2020-01-07T08:57:40-05:00	Tumblr rolling out an internet literacy initiative to help combat misinformation - The Verge https://www.theverge.com/2020/1/6/21048134/tumblr-misinformation-2020-election-cyberbullying-digital-literacy
+2020-01-07T08:58:51-05:00	Opinion: Science fiction and the unforeseeable future: In the 2020s, let’s imagine better things - The Globe and Mail https://www.theglobeandmail.com/opinion/article-science-fiction-and-the-unforeseeable-future-in-the-2020s-lets/
+2020-01-07T09:16:51-05:00	Cory Doctorow: Inaction is a Form of Action – Locus Online https://locusmag.com/2020/01/cory-doctorow-inaction-is-a-form-of-action/
+2020-01-07T09:19:53-05:00	Global Village Construction Set - Open Source Ecology https://wiki.opensourceecology.org/wiki/Global_Village_Construction_Set
+2020-01-07T09:29:49-05:00	List of fictional institutions - Wikipedia https://en.wikipedia.org/wiki/List_of_fictional_institutions
+2020-01-07T09:30:18-05:00	Unconventional computing - Wikipedia https://en.wikipedia.org/wiki/Unconventional_computing
+2020-01-07T09:31:45-05:00	Mr. Bernhardt: Weird Keyboards, Programmable Keyboards https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html
+2020-01-07T09:36:55-05:00	A Very Unlikely Chess Game | Slate Star Codex https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/
+2020-01-07T09:39:44-05:00	Thread by @JYSexton: All right. Let’s talk about Donald Trump, Jr posing with a gun adorned with crusader iconography as America teeters on the brink of a religi… https://threadreaderapp.com/thread/1214193844797018112.html
+2020-01-07T09:41:34-05:00	For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity - StarTribune.com http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/
+2020-01-07T09:42:29-05:00	Private equity, explained - Vox https://www.vox.com/the-goods/2020/1/6/21024740/private-equity-taylor-swift-toys-r-us-elizabeth-warren
+2020-01-07T10:34:46-05:00	Random link from the archives: https://web.archive.org/web/20181225111741/https://www.youtube.com/watch?v=UASTaTZAdO4 originally posted Tue Dec 25 11:17:41 EST 2018/
+2020-01-07T10:37:22-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/on-revolutionary-ideas-b7e1c3c7d21c
+2020-01-07T11:21:34-05:00	Linked Data - Design Issues http://www.w3.org/DesignIssues/LinkedData.html
+2020-01-07T12:08:37-05:00	Step one in understanding enough of a large undocumented codebase to make the changes you need before the deadline: use doxygen to produce bidirectional call graphs for everything. It cuts the time to trace execution through code by hours. Get good at finding & enabling these settings, because being thrown into large undocumented codebases on a deadline is your job now.
+2020-01-07T12:12:19-05:00	While you are still a student, take the opportunity to dive deep into things you find interesting & do things the hard way as a learning experience. Working full time means being ordered to cut corners & do things you know are wrong just because somebody up the chain read some hype, and then barely having enough energy to feed yourself once you finally get home.
+2020-01-07T12:23:42-05:00	I have a github sponsors page, in case anybody wants to throw money at me without actually influencing what I'm doing: https://github.com/sponsors/enkiv2
+2020-01-07T12:28:57-05:00	Technical writing tip: examples are no substitute for tables of possible operations or the explanations thereof. Examples are great when they happen to exactly match what the user already wants to do or when modifying them to match user need is trivial & obvious, but they don't work outside the happy path. If your tool is flexible, you MUST provide enough information for users to understand how to use your tool to do things you haven't imagined yet.
+2020-01-07T13:09:44-05:00	Today in nuanced counterarguments to obviously-stupid proposals: https://lobste.rs/s/q1tr7k/dreaming_data_checked_language
+2020-01-07T14:06:10-05:00	I have been using https://intrgr.com/ -- seems to be a reader mode + algorithmic recommendations based on plain TFIDF (not weighted by popularity). I have a sneaking suspicion that its recommendations will get more interesting when I'm no longer the most active person on it...
+2020-01-07T14:09:25-05:00	Disinformation For Hire: How A New Breed Of PR Firms Is Selling Lies Online https://www.buzzfeednews.com/article/craigsilverman/disinformation-for-hire-black-pr-firms
+2020-01-07T14:28:00-05:00	Old books worth reading | Lobsters https://lobste.rs/s/ro5gef/old_books_worth_reading
+2020-01-07T14:34:55-05:00	Random link from the archives: https://web.archive.org/web/20190226094515/https://kottke.org/19/02/cheap-tvs-and-exorbitant-education-modern-america-in-one-chart originally posted Tue Feb 26 09:45:15 EST 2019/
+2020-01-07T14:37:30-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/theres-a-difference-between-the-lake-woebegone-effect-and-the-dunning-kreuger-effect-f1f5a8053f22
+2020-01-07T18:29:26-05:00	Lightning in a Bottle - a M*A*S*H* Video Essay - YouTube https://www.youtube.com/watch?v=1a8l1QFHj5Q
+2020-01-07T18:35:03-05:00	Random link from the archives: https://web.archive.org/web/20191103154908/https://rhizome.org/editorial/2019/oct/04/salutations-fellow-kids/ originally posted Sun Nov  3 15:49:08 EST 2019/
+2020-01-07T18:37:37-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/microsoft-github-and-distributed-revision-control-c563b5e98d17
+2020-01-07T18:50:14-05:00	AI in Brainfuck - YouTube https://www.youtube.com/watch?v=qK0vmuQib8Y
+2020-01-07T19:29:08-05:00	nier apocrypha
+2020-01-07T19:29:29-05:00	blood tit: the motion picture
+2020-01-07T19:30:59-05:00	there's something to be said of the 'just fork it' approach to heresy in organized religion
+2020-01-07T19:44:04-05:00	child-of-academics culture is realizing only in your teenage years that normal people don't use the term 'deaccession' when talking about throwing stuff out
+2020-01-07T22:35:14-05:00	Random link from the archives: https://web.archive.org/web/20191203142441/https://aeon.co/essays/john-bergers-ways-of-seeing-and-his-search-for-home originally posted Tue Dec  3 14:24:41 EST 2019/
+2020-01-07T22:37:45-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/sorry-thats-my-canon-cat-article-i-meant-to-link-to-this-one-c88061628070
+2020-01-08T02:35:29-05:00	Random link from the archives: https://web.archive.org/web/20180117121903/https://www.wired.com/2010/02/atemporality-for-the-creative-artist/ originally posted Wed Jan 17 12:19:03 EST 2018/
+2020-01-08T02:37:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/joke-generating-ai-has-been-an-area-of-research-since-at-least-the-1970s-so-around-the-same-time-a1468ec7a84
+2020-01-08T06:35:44-05:00	Random link from the archives: https://web.archive.org/web/20180920131345/https://motherboard.vice.com/en_us/article/9kv9qd/the-joe-rogan-experience-is-a-safe-space-to-launder-bad-ideas originally posted Thu Sep 20 13:13:45 EDT 2018/
+2020-01-08T06:37:59-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/lots-of-people-dont-or-can-t-distinguish-between-knowing-how-to-solve-simple-problems-in-a-ac0f5f1ff0bf
+2020-01-08T07:49:37-05:00	How come all of a sudden (i.e., post-1999) all theatrical releases have to be good / competent / movie-shaped? Hershell Gordon Lewis got theatrical distribution, so why can't Niel Breen?
+2020-01-08T07:51:37-05:00	Band name of the day: insidious categorization and the bad philosophy it conceals
+2020-01-08T09:16:19-05:00	New #year's #resolution: #embrace #'personal #branding' #by #formatting #all #my #posts #like #this
+2020-01-08T09:49:57-05:00	Around the World in Rare and Beautiful Apples - Gastro Obscura https://www.atlasobscura.com/articles/unusual-apples
+2020-01-08T10:15:40-05:00	sea monster do monster
+2020-01-08T10:35:54-05:00	Random link from the archives: https://web.archive.org/web/20190510103021/https://www.atlasobscura.com/articles/bolivian-cave-ayahuasca-bundle originally posted Fri May 10 10:30:21 EDT 2019/
+2020-01-08T10:38:09-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/intellectual-property-is-the-strongest-its-ever-been-more-or-less-worldwide-1c2e91ed5447
+2020-01-08T10:58:00-05:00	Defunctionalization: Everybody Does It, Nobody Talks About It | SIGPLAN Blog https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/
+2020-01-08T11:12:39-05:00	why are koren helmet kits so expensive? a shakti is just fuckin' eight coils and an oscillator, right? that sounds like a suitable project for a ten year old.
+2020-01-08T11:34:41-05:00	A World Without Pain | The New Yorker https://www.newyorker.com/magazine/2020/01/13/a-world-without-pain
+2020-01-08T12:16:06-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/What-does-Zizek-mean-by-perversity
+2020-01-08T12:40:53-05:00	Why Modular Design Works Better for Consumers Than Businesses https://tedium.co/2020/01/07/modular-design-business-challenges/
+2020-01-08T12:42:30-05:00	The adversarial culture in philosophy does not serve the truth | Aeon Ideas https://aeon.co/ideas/the-adversarial-culture-in-philosophy-does-not-serve-the-truth
+2020-01-08T12:43:02-05:00	Band name of the day: moon tree
+2020-01-08T13:16:16-05:00	What does Zizek mean by perversity? - Quora https://www.quora.com/unanswered/What-does-Zizek-mean-by-perversity
+2020-01-08T13:27:22-05:00	Admired Designs https://people.cs.clemson.edu/~mark/admired_designs.html
+2020-01-08T13:28:31-05:00	Living in the Age of Software Fuckery " Medium https://web.archive.org/web/20160308032127/https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877
+2020-01-08T13:36:27-05:00	I tried Haskell for 5 years and here’s how it was – Meta Rabbit https://metarabbit.wordpress.com/2017/05/02/i-tried-haskell-for-5-years-and-heres-how-it-was/
+2020-01-08T14:16:24-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/Why-are-ultra-low-budget-theatrical-releases-so-much-more-rare-post-2000-than-they-were-during-the-80s-and-90s-Why-did-direct-to-streaming-kill-the-B-movie-when-direct-to-video-could-not
+2020-01-08T14:36:02-05:00	Random link from the archives: https://web.archive.org/web/20190115084346/https://slate.com/technology/2019/01/hopepunk-cyberpunk-solarpunk-science-fiction-broken.html originally posted Tue Jan 15 08:43:46 EST 2019/
+2020-01-08T14:38:15-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-great-and-terrible-thing-about-venture-backed-anything-is-that-they-dont-really-need-to-have-a-5d691353681d
+2020-01-08T15:16:37-05:00	Why are ultra-low-budget theatrical releases so much more... https://www.quora.com/unanswered/Why-are-ultra-low-budget-theatrical-releases-so-much-more-rare-post-2000-than-they-were-during-the-80s-and-90s-Why-did-direct-to-streaming-kill-the-B-movie-when-direct-to-video-could-not
+2020-01-08T16:16:44-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/How-dependent-is-New-Falcon-on-the-publishing-rights-to-Robert-Anton-Wilsons-catalogue
+2020-01-08T17:16:54-05:00	How dependent is New Falcon on the publishing rights to Robert Anton Wilson's catalogue? - Quora https://www.quora.com/unanswered/How-dependent-is-New-Falcon-on-the-publishing-rights-to-Robert-Anton-Wilsons-catalogue
+2020-01-08T17:33:47-05:00	"Go Down Moses"  by Louis Armstrong in major key - YouTube https://www.youtube.com/watch?v=LxtwU7olSHQ
+2020-01-08T17:55:38-05:00	Critics Should Be Curators - YouTube https://www.youtube.com/watch?v=EBStMXY26nI
+2020-01-08T18:17:03-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/Has-Twitter-seriously-considered-adopting-ActivityPub-federation
+2020-01-08T18:36:12-05:00	Random link from the archives: https://web.archive.org/web/20171017130418/https://niu.moe/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/98845026421268003 originally posted Tue Oct 17 13:04:18 EDT 2017/
+2020-01-08T18:38:23-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-think-we-can-tag-him-ev-williams-6bf3e70f0120
+2020-01-08T19:17:19-05:00	Has Twitter seriously considered adopting ActivityPub federation? - Quora https://www.quora.com/unanswered/Has-Twitter-seriously-considered-adopting-ActivityPub-federation
+2020-01-08T20:17:29-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/Why-hasnt-the-expanded-second-edition-of-Stafford-Beers-Brain-of-the-Firm-been-brought-back-into-print-What-would-be-involved-in-getting-a-reprint
+2020-01-08T21:17:44-05:00	Why hasn't the expanded second edition of Stafford Beer's Brain of the Firm been brought back int... https://www.quora.com/unanswered/Why-hasnt-the-expanded-second-edition-of-Stafford-Beers-Brain-of-the-Firm-been-brought-back-into-print-What-would-be-involved-in-getting-a-reprint
+2020-01-08T22:17:51-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/What-relationship-if-any-will-the-upcoming-Illuminatus-Trilogy-television-miniseries-have-to-the-stage-play-adaptation-of-the-same-material
+2020-01-08T22:36:21-05:00	Random link from the archives: https://web.archive.org/web/20181116200022/https://www.youtube.com/watch?v=YTJKfvZmDUM originally posted Fri Nov 16 20:00:22 EST 2018/
+2020-01-08T22:38:32-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/im-not-familiar-with-anything-nelson-might-have-written-on-the-storage-of-navigation-histories-ae7c9c325469
+2020-01-08T23:18:03-05:00	What relationship (if any) will the upcoming Illuminatus Trilogy television miniseries have to the stage... https://www.quora.com/unanswered/What-relationship-if-any-will-the-upcoming-Illuminatus-Trilogy-television-miniseries-have-to-the-stage-play-adaptation-of-the-same-material
+2020-01-09T00:18:13-05:00	Quora questions I'd like answered: https://www.quora.com/Why-havent-ubiquitous-phone-cameras-produced-a-boom-in-indie-cinema-the-way-cheap-compact-camcorders-did
+2020-01-09T01:18:27-05:00	Why haven't ubiquitous phone cameras produced a boom in indie cinema the way cheap & compact camcorders did? - Quora https://www.quora.com/Why-havent-ubiquitous-phone-cameras-produced-a-boom-in-indie-cinema-the-way-cheap-compact-camcorders-did
+2020-01-09T02:18:35-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/How-big-is-the-Japanese-film-indie-art-house-market
+2020-01-09T02:36:28-05:00	Random link from the archives: https://web.archive.org/web/20190605103333/https://www.citylab.com/life/2019/05/trash-cans-japan-garbage-bin-recycling-waste-tidying-up/589825/ originally posted Wed Jun  5 10:33:33 EDT 2019/
+2020-01-09T02:38:39-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-m-not-sure-i-buy-that-this-is-the-result-of-increased-usability-a9a1f9eab97d
+2020-01-09T03:18:48-05:00	How big is the Japanese film indie/art house market? - Quora https://www.quora.com/unanswered/How-big-is-the-Japanese-film-indie-art-house-market
+2020-01-09T04:18:56-05:00	Quora questions I'd like answered: https://www.quora.com/What-was-AUM-Shinrikyos-recruiting-strategy-How-did-they-attract-so-many-established-politicians-and-scientists
+2020-01-09T05:19:08-05:00	What was AUM Shinrikyo's recruiting strategy? How did they attract so many established politicians and scientists? - Quora https://www.quora.com/What-was-AUM-Shinrikyos-recruiting-strategy-How-did-they-attract-so-many-established-politicians-and-scientists
+2020-01-09T06:19:17-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/Whats-the-whole-story-of-the-beef-between-Hideaki-Anno-and-GAINAX-And-will-we-see-any-more-conflict-between-them-now-that-the-main-GAINAX-is-out-of-business
+2020-01-09T06:36:36-05:00	Random link from the archives: https://web.archive.org/web/20191015173235/https://medium.com/p/a-look-back-ridley-scotts-black-rain-a7ba33381fd2 originally posted Tue Oct 15 17:32:35 EDT 2019/
+2020-01-09T06:38:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/what-is-the-character-of-internet-technologies-89897f4bede6
+2020-01-09T07:19:31-05:00	What's the whole story of the beef between Hideaki Anno and GAINAX? And, will we see an... https://www.quora.com/unanswered/Whats-the-whole-story-of-the-beef-between-Hideaki-Anno-and-GAINAX-And-will-we-see-any-more-conflict-between-them-now-that-the-main-GAINAX-is-out-of-business
+2020-01-09T08:14:33-05:00	Error 406 - Not Acceptable https://philemonfoundation.org/alchemy/
+2020-01-09T08:19:39-05:00	Quora questions I'd like answered: https://www.quora.com/Do-names-in-anime-sound-weird-to-the-average-Japanese-person
+2020-01-09T08:29:59-05:00	Thread by @brooklynmarie: I’m going to explain why you’re seeing what some washed up old singer thinks all over the place. The way promotional sausage is made isnt pr… https://threadreaderapp.com/thread/1213619151169712130.html
+2020-01-09T08:33:44-05:00	intrgr https://intrgr.com/a/J8xGTzN0
+2020-01-09T09:19:50-05:00	Do names in anime sound weird to the average Japanese person? - Quora https://www.quora.com/Do-names-in-anime-sound-weird-to-the-average-Japanese-person
+2020-01-09T09:33:51-05:00	From Weird Dreams to Granny's Garden: a brief history of cursed video games | Games | The Guardian https://www.theguardian.com/games/2019/sep/06/weird-cursed-video-games-spectrum-commodore-playstation
+2020-01-09T09:35:42-05:00	Post-apocalyptic pastoral and post-industrial http://www.lazaruscorporation.co.uk/blogs/artists-notebook/posts/post-apocalyptic-pastoral-and-post-industrial
+2020-01-09T09:37:07-05:00	Media Aesthetics | A graduate seminar at UVic (Spring 2020) https://jentery.github.io/506/
+2020-01-09T09:38:03-05:00	Intellectual humility: the importance of knowing you might be wrong - Vox https://www.vox.com/science-and-health/2019/1/4/17989224/intellectual-humility-explained-psychology-replication
+2020-01-09T09:48:47-05:00	Keyset - Doug Engelbart Institute https://www.dougengelbart.org/content/view/273/309/
+2020-01-09T09:50:27-05:00	An Amuse-Bouche from APL History https://www.jsoftware.com/papers/mesh.htm
+2020-01-09T09:57:27-05:00	GitHub - gregfjohnson/aplette: This is a new take on an old language:  APL.  The goal is to pare APL down to its elegant essence.  This version of APL is oriented toward scripting within a Unix-style computing environment. https://github.com/gregfjohnson/aplette
+2020-01-09T10:14:12-05:00	How To Think Real Good | Meaningness https://meaningness.com/metablog/how-to-think
+2020-01-09T10:15:47-05:00	Review of ``Artificial Intelligence: A General Survey'' http://www-formal.stanford.edu/jmc/reviews/lighthill/lighthill.html
+2020-01-09T10:19:58-05:00	Quora questions I'd like answered: https://www.quora.com/What-unique-or-unusual-UI-ideas-did-Apollo-Domain-have
+2020-01-09T10:36:43-05:00	Random link from the archives: https://web.archive.org/web/20180915233248/https://medium.com/p/why-work-as-we-know-it-may-be-immoral-463ff6dfec1b originally posted Sat Sep 15 23:32:48 EDT 2018/
+2020-01-09T10:38:53-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/to-be-honest-the-closest-thing-to-an-interest-feed-as-you-describe-it-is-tumblr-not-because-it-ebb37f4e4cc6
+2020-01-09T11:09:08-05:00	Band name of the day: wonderbuttons
+2020-01-09T11:09:16-05:00	Band name of the day: solartime
+2020-01-09T11:18:16-05:00	article idea: pluralistic ignorance & diffusion of responsibility vs 'a million eyes makes all bugs disappear' in centrally-organized / corporate-sponsored open source projects
+2020-01-09T11:20:10-05:00	What unique or unusual UI ideas did Apollo/Domain have? - Quora https://www.quora.com/What-unique-or-unusual-UI-ideas-did-Apollo-Domain-have
+2020-01-09T11:43:22-05:00	bong-throwing anarchists
+2020-01-09T11:43:35-05:00	bomb-catching anarchists
+2020-01-09T11:44:42-05:00	The voice of sadness is censored as sick. What if it’s sane? | Aeon Essays https://aeon.co/essays/the-voice-of-sadness-is-censored-as-sick-what-if-its-sane
+2020-01-09T11:46:11-05:00	Kama muta: a new term for that warm, fuzzy feeling we all get | Aeon Ideas https://aeon.co/ideas/kama-muta-a-new-term-for-that-warm-fuzzy-feeling-we-all-get
+2020-01-09T11:59:55-05:00	A Decentralized Web Primer: Dat https://jsantell.com/decentralized-web-primer-dat
+2020-01-09T12:20:17-05:00	Quora questions I'd like answered: https://www.quora.com/Are-Peter-Straub-and-Stephen-King-still-close-friends-Do-they-plan-to-collaborate-again
+2020-01-09T12:34:02-05:00	Digital Demonology: The Historical Origins of Gaming’s Infernal Obsession | EGM https://egmnow.com/digital-demonology-the-historical-origins-of-gamings-infernal-obsession/
+2020-01-09T12:40:21-05:00	I like the feedback loop between physical architecture and social/cognitive architecture, but seriously, offices (and businesses) are the worst place to try to apply interesting experiments in this domain because the function of a business is to make good work unnecessary https://blog.fentress.com/blog/the-eudaimonia-machine-a-space-concept-for-the-21st-century
+2020-01-09T12:42:34-05:00	Bad idea of the day: use that lojban-to-prolog translator in conjunction with chat logs to produce a personal expert system
+2020-01-09T12:47:06-05:00	What Intellectual Progress Did I Make In The 2010s? | Slate Star Codex https://slatestarcodex.com/2020/01/08/what-intellectual-progress-did-i-make-in-the-2010s/
+2020-01-09T12:49:49-05:00	GitHub - sindresorhus/awesome-scifi: Sci-Fi worth consuming https://github.com/sindresorhus/awesome-scifi
+2020-01-09T12:59:32-05:00	Syd Mead: An interview with the artist who illustrated the urban future - Curbed https://www.curbed.com/2015/7/23/9937790/syd-mead-city-architecture-blade-runner-design-future
+2020-01-09T13:00:20-05:00	Stochastic rounding and privacy https://www.johndcook.com/blog/2019/11/25/stochastic-rounding-and-privacy/
+2020-01-09T13:02:05-05:00	A Glossary of Functional Programming – John A De Goes http://degoes.net/articles/fp-glossary
+2020-01-09T13:03:52-05:00	Tarot spread: https://i.imgur.com/rqmYq3W.png
+2020-01-09T13:20:26-05:00	Are Peter Straub and Stephen King still close friends? Do they plan to collaborate again? - Quora https://www.quora.com/Are-Peter-Straub-and-Stephen-King-still-close-friends-Do-they-plan-to-collaborate-again
+2020-01-09T14:19:52-05:00	Self-aggrandizing idiots like Steph Groom here are why Quora has such a bad reputation: https://www.quora.com/What-projects-come-closest-to-the-lineage-of-Jef-Raskins-Humane-Interface-Humane-Environment/answer/Steph-Groom-2?__filter__=all&__nsrc__=1&__sncid__=3868789706&__snid3__=6339485427
+2020-01-09T14:20:33-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/How-many-micromorts-is-not-being-unionized-worth
+2020-01-09T14:36:51-05:00	Random link from the archives: https://web.archive.org/web/20171113141949/https://arstechnica.com/science/2017/11/unusual-experiment-reveals-the-power-of-non-mainstream-media/ originally posted Mon Nov 13 14:19:49 EST 2017/
+2020-01-09T14:38:59-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/bruce-schneiers-book-liars-and-outliers-intersects-with-this-material-so-may-be-of-interest-984e970c168b
+2020-01-09T16:20:42-05:00	Quora questions I'd like answered: https://www.quora.com/Why-didnt-Carnival-of-Souls-spawn-a-whole-genre-the-way-Night-of-the-Living-Dead-did
+2020-01-09T16:57:45-05:00	Why I Love Bad Anime - YouTube https://www.youtube.com/watch?v=4UK_PdRWRYQ
+2020-01-09T17:27:16-05:00	I spent my vacation staying off the computer and reading / watching movies in order to try to re-seed my imagination so I could write better new stuff, but it backfired because I got out of the habit of writing & now it's tough to make myself write anything :(
+2020-01-09T18:20:55-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/What-movies-include-both-Matthew-Lillard-and-Nicholas-Cage
+2020-01-09T18:37:01-05:00	Random link from the archives: https://web.archive.org/web/20190313073707/http://blogs.discovermagazine.com/neuroskeptic/2015/10/21/the-selective-laziness-of-reasoning/#.XIjqJkfav0M originally posted Wed Mar 13 07:37:07 EDT 2019/
+2020-01-09T18:39:05-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/there-s-a-problem-with-people-recommending-smart-guns-they-clearly-haven-t-looked-at-the-4bb02b16fa14
+2020-01-09T20:21:05-05:00	Quora questions I'd like answered: https://www.quora.com/unanswered/What-internet-disinfo-bots-predate-Serdar-Argic
+2020-01-09T20:28:58-05:00	Just so you guys know, Shintaro Kago is doing comissions for portraits on his website for seventy-five bucks.
+2020-01-09T22:37:16-05:00	Random link from the archives: https://web.archive.org/web/20180717115208/https://aeon.co/essays/is-psychedelics-research-closer-to-theology-than-to-science originally posted Tue Jul 17 11:52:08 EDT 2018/
+2020-01-09T22:39:12-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/lack-of-political-sophistication-is-often-a-side-effect-of-being-sheltered-aca1a429ee3f
+2020-01-10T02:37:29-05:00	Random link from the archives: https://web.archive.org/web/20180309064001/https://www.theatlantic.com/technology/archive/2017/05/gratitude-for-invisible-systems/526344/ originally posted Fri Mar  9 06:40:01 EST 2018/
+2020-01-10T02:39:19-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/ok-but-what-do-you-gain-from-misrepresenting-the-papers-you-are-using-to-support-your-argument-as-5ceaafcf2e37
+2020-01-10T06:37:42-05:00	Random link from the archives: https://web.archive.org/web/20191103154457/https://medium.com/p/what-makes-software-good-943557f8a488 originally posted Sun Nov  3 15:44:57 EST 2019/
+2020-01-10T06:39:25-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/guidelines-for-future-hypertext-systems-647b6a10f7dd
+2020-01-10T07:38:09-05:00	You can really feel the engine rumbling beneath a Wyndham book. I think reading Out of the Deeps is the first time I've ever really understood the satisfaction of a strong plot.
+2020-01-10T09:50:13-05:00	The Bystander Effect in Open Source https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-bystander-effect-in-open-source-598430de16a7?sk=af9746e7b3b64233834f7d7e5fb21f2a
+2020-01-10T10:10:00-05:00	pollux oil
+2020-01-10T10:29:27-05:00	rubicated ruby
+2020-01-10T10:30:49-05:00	Hey, somebody finally gave me a real answer for why theatrical releases have gotten so conservative: https://www.quora.com/Why-are-ultra-low-budget-theatrical-releases-so-much-more-rare-post-2000-than-they-were-during-the-80s-and-90s-Why-did-direct-to-streaming-kill-the-B-movie-when-direct-to-video-could-not/all_comments/Mike-Schneider-30?__nsrc__=4&__snid3__=6347304932&comment_id=123738118&comment_type=2
+2020-01-10T10:37:50-05:00	Random link from the archives: https://web.archive.org/web/20190822090728/http://groups.csail.mit.edu/mac/users/rauch/misc/worktime/ originally posted Thu Aug 22 09:07:28 EDT 2019/
+2020-01-10T10:39:32-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/structural-typing-and-its-integration-with-prototype-oo-might-be-one-way-to-address-the-platypus-c9663c362c26
+2020-01-10T11:12:38-05:00	This Secretive Surveillance Company Is Selling Cops Cameras Hidden in Gravestones - VICE https://www.vice.com/en_us/article/qjdp95/this-secretive-surveillance-company-is-selling-cops-cameras-hidden-in-gravestones
+2020-01-10T11:36:39-05:00	If you take architectural brutalism seriously, then web brutalism should just mean you turn off CSS and javascript.
+2020-01-10T12:32:40-05:00	chip dip redemption
+2020-01-10T12:33:04-05:00	road dad redemption
+2020-01-10T12:33:27-05:00	jim jam redemption
+2020-01-10T12:44:34-05:00	A Note on Reading Big, Difficult Books... https://www.bradford-delong.com/2019/12/a-note-on-reading-big-difficult-books.html
+2020-01-10T12:47:02-05:00	How to read a(n academic)  paper: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+2020-01-10T12:53:52-05:00	Heartland Music: Direct TV Marketing for Music https://tedium.co/2020/01/09/heartland-music-direct-tv-marketing-history/
+2020-01-10T14:03:16-05:00	Working 9 to 5, not the way to make an academic living: observational analysis of manuscript and peer review submissions over time | The BMJ https://www.bmj.com/content/367/bmj.l6460
+2020-01-10T14:37:58-05:00	Random link from the archives: https://web.archive.org/web/20181206121103/https://www.theguardian.com/society/2018/dec/06/lsd-guides-psychedelic-assisted-psychotherapy originally posted Thu Dec  6 12:11:03 EST 2018/
+2020-01-10T14:39:39-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-is-why-i-always-say-that-if-we-want-an-idea-of-how-life-will-be-under-ubi-we-should-look-at-ca58be186075
+2020-01-10T14:41:03-05:00	I hate that we live in a world where this is necessary instead of, like, plan9. Fuck. https://github.com/crholm/qs
+2020-01-10T14:49:39-05:00	if your game doesn't have a manifesto you run the real risk of it being based off the unstated boring & problematic manifesto that people hold in their heads when they don't think very hard about intent. the whole 'themes come after writing and publishing' thing is really a kind of conservative attitude. there will be themes sure but they might be really shitty themes that you wouldn't agree with after some thought. why not pack in some more? why not have more than enough, just in case? over the top is fine. tacky is fine. too much is never enough. just make sure it's not lame and boring. if you are a lame and boring person and you trust your intuition to put in themes for you, you will have lame and boring themes. don't do that.
+2020-01-10T18:38:07-05:00	Random link from the archives: https://web.archive.org/web/20180831085022/http://staff.um.edu.mt/afra1/seminar/little-languages.pdf originally posted Fri Aug 31 08:50:22 EDT 2018/
+2020-01-10T18:39:46-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/what-people-get-wrong-about-xanadu-3e7503e49b0f
+2020-01-10T19:02:06-05:00	This is an angry rant but I'm proud of it. Read it before it gets me banned from the site. https://lobste.rs/s/zxzqpe/it_is_perfectly_ok_only_code_at_work_you_can#c_ylq7h4
+2020-01-10T19:34:38-05:00	if too many people start thinking that computers are ok just the way they are then computers will never become as great as they always could have been, and the idea of that upsets me.
+2020-01-10T20:32:30-05:00	Every three or four years some jerk invents a new square wheel and gets a lot of attention from people who were never told about the round ones. Meanwhile, tri-star wheel assemblies and ekranoplans are a wikipedia dive away. Sometimes I wonder if documenting alternatives is worth it, since if it took me so little effort to find something, anybody who finds my writing will already know about it or will have already decided to avoid it.
+2020-01-10T20:47:51-05:00	OK I'm a little drunk but I'm on the brink of crying because I wish computers were good. They can be good you guys. We can make computers good. Why aren't we making computers good.
+2020-01-10T22:38:19-05:00	Random link from the archives: https://web.archive.org/web/20180917113812/https://medium.com/p/the-art-of-the-title-7d0a859b9bfc originally posted Mon Sep 17 11:38:12 EDT 2018/
+2020-01-10T22:39:53-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/un-jobsifying-software-development-13da1895ac7f
+2020-01-11T02:38:30-05:00	Random link from the archives: https://web.archive.org/web/20190703094153/https://theoutline.com/post/7647/can-we-abolish-time originally posted Wed Jul  3 09:41:53 EDT 2019/
+2020-01-11T02:40:03-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/in-my-experience-96ac33b47bdb
+2020-01-11T06:38:45-05:00	Random link from the archives: https://web.archive.org/web/20181209175603/https://www.ribbonfarm.com/2018/10/18/unflattening-hobbes/ originally posted Sun Dec  9 17:56:03 EST 2018/
+2020-01-11T06:40:11-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/this-essay-feels-like-two-essays-combined-the-first-about-the-importance-of-erring-on-the-side-of-2359e393f6c7
+2020-01-11T10:38:58-05:00	Random link from the archives: https://web.archive.org/web/20181203101050/https://www.newyorker.com/magazine/2018/12/10/edward-goreys-enigmatic-world originally posted Mon Dec  3 10:10:50 EST 2018/
+2020-01-11T10:40:20-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-wish-i-could-recommend-this-article-multiple-times-dbbad1a478e6
+2020-01-11T14:39:15-05:00	Random link from the archives: https://web.archive.org/web/20171115125241/https://www.laphamsquarterly.org/roundtable/reach-out-and-touch-faith originally posted Wed Nov 15 12:52:41 EST 2017/
+2020-01-11T14:40:43-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-you-understood-this-essay-as-advocating-for-some-language-you-didnt-read-it-carefully-470b35984b3a
+2020-01-11T18:39:37-05:00	Random link from the archives: https://web.archive.org/web/20181103132205/https://www.youtube.com/watch?v=ENLWEfi0Tkg originally posted Sat Nov  3 13:22:05 EDT 2018/
+2020-01-11T18:40:52-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/i-always-maintain-that-a-good-thoughtful-well-constructed-review-of-a-very-flawed-work-is-more-5c9e040feebf
+2020-01-11T22:39:55-05:00	Random link from the archives: https://web.archive.org/web/20181003140242/https://tedium.co/2018/10/02/google-20th-anniversary-culture-importance/ originally posted Wed Oct  3 14:02:42 EDT 2018/
+2020-01-11T22:40:59-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/criticism-thats-primarily-transmitted-by-teachers-is-limited-in-scope-after-all-most-people-who-75843d172430
+2020-01-12T02:40:08-05:00	Random link from the archives: https://web.archive.org/web/20191011152931/https://medium.com/p/open-data-now-more-than-ever-8d1bfb3d5bd6 originally posted Fri Oct 11 15:29:31 EDT 2019/
+2020-01-12T02:41:06-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/warren-elliss-planetary-is-a-great-comic-good-to-read-along-with-grant-morrison-s-the-invisibles-c649a30d0c3e
+2020-01-12T06:40:21-05:00	Random link from the archives: https://web.archive.org/web/20191015084852/https://docubase.mit.edu/ originally posted Tue Oct 15 08:48:52 EDT 2019/
+2020-01-12T06:41:14-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/software-vs-capital-e8ab15b48390
+2020-01-12T10:40:35-05:00	Random link from the archives: https://web.archive.org/web/20190708105050/https://thebaffler.com/latest/the-power-and-the-noise-meyer originally posted Mon Jul  8 10:50:50 EDT 2019/
+2020-01-12T10:41:22-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/there-seems-to-be-the-assumption-that-fake-news-shouldnt-be-consumed-f78ff6257691
+2020-01-12T13:39:26-05:00	Making a Better Man With Home Improvement - YouTube https://www.youtube.com/watch?v=-vBe58OeJHQ
+2020-01-12T13:46:54-05:00	A Study on Spoilers - Impact on Viewer Enjoyment - YouTube https://www.youtube.com/watch?v=gcNuh_p6O18
+2020-01-12T14:40:49-05:00	Random link from the archives: https://web.archive.org/web/20190510201736/https://filmschoolrejects.com/phantom-of-the-paradise/ originally posted Fri May 10 20:17:36 EDT 2019/
+2020-01-12T14:41:31-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/theres-another-reason-why-bad-films-are-particularly-beloved-by-cinephiles-they-illustrate-by-8fff2cf389cb
+2020-01-12T14:48:20-05:00	metablog: Software-ICs, Binary Compatibility, and Objective-Swift https://blog.metaobject.com/2019/03/software-ics-binary-compatibility-and.html
+2020-01-12T14:57:22-05:00	metablog: What Alan Kay Got Wrong About Objects https://blog.metaobject.com/2019/11/what-alan-kay-got-wrong-about-objects.html
+2020-01-12T15:00:32-05:00	The A-Z of Death Stranding weirdness - Polygon https://www.polygon.com/2019/11/28/20987223/death-stranding-weird-playstation-4-sony-kojima-best
+2020-01-12T15:57:04-05:00	Cards Lacking Originality https://cardslackingoriginality.com/
+2020-01-12T16:03:04-05:00	En-ROADS https://en-roads.climateinteractive.org/scenario.html?v=2.7.6
+2020-01-12T16:40:27-05:00	how long until somebody re-dubs the CATS movie with entirely actual cat noises? (or alternately: only the speaking parts, or only the musical numbers)
+2020-01-12T16:45:46-05:00	Electric Zine Maker (early beta, be gentle, hug it often) by alienmelon https://alienmelon.itch.io/electric-zine-maker
+2020-01-12T18:41:08-05:00	Random link from the archives: https://web.archive.org/web/20180819134139/https://archive.org/details/hypercard_on-reading-hypertext originally posted Sun Aug 19 13:41:39 EDT 2018/
+2020-01-12T18:41:42-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/is-this-the-first-high-profile-example-of-a-unicode-homoglyph-attack-in-the-wild-6ef0093af788
+2020-01-12T18:51:44-05:00	Band name of the day: the condon report
+2020-01-12T19:44:15-05:00	Band name of the day: the burden of the frightening unknown
+2020-01-12T20:22:35-05:00	they should make a kolchak remake where he got laid off when the newspaper was bought by a hedge fund and now he's trying to make it as a paranormal blogger & podcaster
+2020-01-12T22:41:22-05:00	Random link from the archives: https://web.archive.org/web/20190815102755/https://newrepublic.com/article/154705/last-ayn-rand-acolytes originally posted Thu Aug 15 10:27:55 EDT 2019/
+2020-01-12T22:41:49-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/zizek-along-with-a-handful-of-other-figures-in-media-criticism-that-are-full-of-ideas-but-short-on-eea7190c3d19
+2020-01-13T02:41:33-05:00	Random link from the archives: https://web.archive.org/web/20190909131203/https://www.theguardian.com/commentisfree/2019/aug/27/jeffrey-epstein-science-mit-brockman originally posted Mon Sep  9 13:12:03 EDT 2019/
+2020-01-13T02:41:57-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/there-are-links-to-the-pdfs-of-the-three-generated-comics-in-the-third-to-last-paragraph-the-one-dfe38afac2f
+2020-01-13T06:41:40-05:00	Random link from the archives: https://web.archive.org/web/20180313182435/https://medium.com/dfrlab/the-russians-who-exposed-russias-trolls-72db132e3cd1 originally posted Tue Mar 13 18:24:35 EDT 2018/
+2020-01-13T06:42:04-05:00	https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/im-in-favor-of-breaking-down-artificial-barriers-that-make-modifying-applications-artificially-b7f401d52112
+2020-01-13T07:58:51-05:00	OSoMe: Social Media Observatory http://osome.iuni.iu.edu/tools/
+2020-01-13T08:50:40-05:00	10 great acid westerns | BFI https://www.bfi.org.uk/news-opinion/news-bfi/lists/10-great-acid-westerns
+2020-01-13T08:52:24-05:00	William Gibson: ‘I was losing a sense of how weird the real world was' | Books | The Guardian https://www.theguardian.com/books/2020/jan/11/william-gibson-i-was-losing-a-sense-of-how-weird-the-real-world-was
+2020-01-13T08:55:11-05:00	Band name of the day: haptic recon commando
+2020-01-13T08:56:30-05:00	GitHub - CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers: aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programm... https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+2020-01-13T08:59:02-05:00	The Price of Dominionist Theology  https://longreads.com/2020/01/10/the-price-of-dominionist-theology/
+2020-01-13T09:08:25-05:00	you know what's even more confusing than putting a giant photo of your own face above a post that's not about your face? putting a giant photo of a stranger's face there. even if it's good SEO, don't add an image to your post when it doesn't fucking clarify anything.
+2020-01-13T09:49:38-05:00	culture_shock.py · GitHub https://gist.github.com/rolux/48f1da6cf2bc6ca5833dbacbf852b348
+2020-01-13T10:33:26-05:00	How is a litre like an altercation?

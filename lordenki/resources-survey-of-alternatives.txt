@@ -241,6 +241,7 @@ http://pdos.csail.mit.edu/~kaashoek/papers/amsp.ps
 HURD
 https://blog.darknedgy.net/technology/2015/07/25/0/
 PLATO
+http://www.control-data.info/CybisRelease.html
 https://irata.online
 https://www.cyber1.org
 https://irata.online/assets/s0ascers-045c83081e9ada2008378c3ae6aa62564b213a71decf9fe04608909b91d20ad1.html
@@ -263,13 +264,14 @@ https://www.youtube.com/watch?v=1gPM3GqjMR4
 https://www.youtube.com/watch?v=hGKbRcvIZT8
 https://www.youtube.com/watch?v=9_o8q4Sp-w0
 https://www.youtube.com/watch?v=kV_vYkSmkxk
+https://www.youtube.com/watch?v=72nfrhXroo8
+https://www.youtube.com/watch?v=LabqeJEOQyI
+https://www.nngroup.com/articles/trip-report-hypertext-87/
 HyperLook / HyperTies / HyperNeWS / GoodNeWS
 http://www.art.net/~hopkins/Don/hyperlook/
 http://www.donhopkins.com/drupal/node/102
 https://www.youtube.com/watch?v=iuC_DDgQmsM
 https://www.youtube.com/watch?v=fZi4gUjaGAM
-https://www.youtube.com/watch?v=72nfrhXroo8
-https://www.youtube.com/watch?v=LabqeJEOQyI
 http://www.cs.umd.edu/hcil/hyperties/
 PERQ / ZOG / KMS / Sapphire / Expeditee
 http://www.digibarn.com/collections/systems/perqt2/index.html
