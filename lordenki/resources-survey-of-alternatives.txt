@@ -345,6 +345,7 @@ https://ecc-comp.blogspot.com/2014/12/homogeneous-operating-systems-are-better.h
 https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
 https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html
+https://blog.plover.com/Unix/tools.html
 General
 https://ironholds.org/resources/papers/anarchist_hci.pdf
 http://contemporary-home-computing.org/turing-complete-user/
@@ -372,6 +373,7 @@ https://www.hillelwayne.com/post/formally-specifying-uis/
 https://www.the-tls.co.uk/articles/public/spinoza-philosophy-freedom/
 http://dev.studiotheophilus.com/index.php/2018/01/14/ui-design-tips-for-visual-novels/
 http://www.oilshell.org/blog/2017/01/13.html
+https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell19unix-personal.pdf
 History
 https://pdfs.semanticscholar.org/7b93/785d1d84b06d36badb59a0c6b779d76743c5.pdf
 https://arstechnica.com/features/2005/05/gui/
