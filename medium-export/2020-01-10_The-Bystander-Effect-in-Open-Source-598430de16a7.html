@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>The Bystander Effect in Open Source</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">The Bystander Effect in Open Source</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+Big projects with thriving communities are how non-developers (and surprisingly many developers) picture open source, but it’s hard to…
+</section>
+<section data-field="body" class="e-content">
+<section name="2d05" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="1791" id="1791" class="graf graf--h3 graf--leading graf--title">The Bystander Effect in Open Source</h3><p name="ab73" id="ab73" class="graf graf--p graf-after--h3">Big projects with thriving communities are how non-developers (and surprisingly many developers) picture open source, but it’s hard to square these kinds of projects with ESR’s idea that source visibility &amp; the ability to submit patches results in a substantially greater number of fixed bugs. Certainly, these kinds of projects benefit core maintainers socially, and certainly, source visibility helps with organized audits &amp; makes it easier for individuals to fix bugs, on top of making drive-by fixes possible, but this conventionalized structure does not optimize for drive-by fixes.</p><p name="47c2" id="47c2" class="graf graf--p graf-after--p">When a project is large — especially when it is non-modular or when modules have complex interrelations — it takes a lot of effort just to understand things like project structure, dependency graphs, and control flow. These things need to be understood to a certain extent in order to produce a bug fix. If a project is visibly maintained — when it has a named maintainer &amp; a high commit rate, and especially if it has a community of active developers around it — there is the sense that fixing a bug is somebody else’s job. After all, the drive-by developer doesn’t already have deep knowledge of the codebase, while all these active contributors do.</p><p name="d43a" id="d43a" class="graf graf--p graf-after--p">On top of that, the drive-by developer isn’t necessarily aware of or comfortable with the social structure built around especially large projects: complex norms around code style and best practices (rarely shared between unrelated projects), formal and informal social hierarchies among developers, tacit knowledge that maintainer X is a jerk or caustic or that maintainer Y is generally OK but has a hangup about licenses or maintainer Z will reject any patch that has an enum in it due to early life trauma. Actually fixing the bug means learning all these things or dealing with a waste of time &amp; effort on both sides as the results of not learning them get negotiated. So the drive-by developer submits a bug report.</p><p name="1ab2" id="1ab2" class="graf graf--p graf-after--p">But wait! It gets worse! Because some bugs are really features. One must have an even deeper understanding of the code base and the community around it in order to determine whether some apparent bug is actually an intentional behavior, or <a href="https://www.gimpusers.com/forums/gimp-developer/21134-please-help" data-href="https://www.gimpusers.com/forums/gimp-developer/21134-please-help" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">an obscure joke kept for lore reasons</a>, or <a href="https://en.wikipedia.org/wiki/Leap_year_bug" data-href="https://en.wikipedia.org/wiki/Leap_year_bug" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">bug-for-bug compatibility with something else</a>, or the best of several bad possibilities necessitated by structural or dependency decisions made early in the project’s development. Or, it may be a perverse manifestation of some author or maintainer’s personal philosophy. So maybe even reporting the bug is a waste of everybody’s time. Checking would involve trying to find similar reported bugs &amp; reading the discussion around them, and the drive-by developer has better things to do than to read thirty pages of semi-related bug reports on the off chance that it’s been filed before and marked not-a-bug.</p><p name="26fc" id="26fc" class="graf graf--p graf-after--p">Reporting the bug might be a waste of time for other reasons as well. If I installed the application from my distribution’s package manager rather than building from source, <a href="https://www.jwz.org/blog/2016/04/i-would-like-debian-to-stop-shipping-xscreensaver/" data-href="https://www.jwz.org/blog/2016/04/i-would-like-debian-to-stop-shipping-xscreensaver/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">it might have been fixed upstream years ago</a>, or it might have actually been <a href="https://www.schneier.com/blog/archives/2008/05/random_number_b.html" data-href="https://www.schneier.com/blog/archives/2008/05/random_number_b.html" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">introduced by a distro maintainer</a>. Checking would require building from source, which would require getting the right versions of dev packages for all dependencies &amp; maybe building other things from source too, and the drive-by developer would do that as part of constructing a bug fix but is not willing to do that for a bug report.</p><p name="2756" id="2756" class="graf graf--p graf-after--p">The worst case scenario here looks like an apache project — the bane of all drive-by bug-fixes. Apache projects are typically former internal corporate projects that were at some point dumped on the apache foundation. Apache projects are big and tangled and have complex interdependencies. They often have decades of mailing list &amp; bug tracker discussion, involving the same approximately one hundred core developers whose tangled interpersonal history is preserved in bureaucratic amber. Apache projects are highly actively maintained, but not by anyone you know, and you have a hard time imagining the mind of a being who can fully understand the class hierarchy of some of these projects. The tangled weeds of apache projects are full of strange counterproductive decisions — slow code, counterintuitive behavior — protected by a dense web of complicated dependencies and tight coupling between seemingly unrelated classes. No mortal drive-by developer can contribute to an apache project and live — or at least, that’s the impression any drive-by developer gets upon investigating whether or not to fix (or even report) a bug for about ten minutes.</p><p name="01a0" id="01a0" class="graf graf--p graf-after--p">It’s possible to have a full-featured and complex project that is inviting to drive-by developers, though.</p><p name="47b6" id="47b6" class="graf graf--p graf-after--p">A project that looks unmaintained will encourage forks (which can be selectively merged — you don’t need to wait for a push request, and can simply grab good-looking diffs). Seemingly-unmaintained projects also are poison to corporate users (who are looking for somebody to do free labor &amp; who generally won’t contribute back changes made in-house), so while your code may get fewer users in total, those users it does get are more likely to be meaningful contributors.</p><p name="b4fb" id="b4fb" class="graf graf--p graf-after--p">A project that’s highly modular, and where the modules are simple and very loosely coupled, will be inviting to drive-by developers. Not only is identifying bugs easier, but the fact that identifying bugs will be easier is obvious before one even starts. There are fewer opportunities for complications like bugs-that-are-really-features, and those cases can be more easily explained.</p><p name="601f" id="601f" class="graf graf--p graf-after--p">If maintainers must be visible, a casual structure for talking to all the maintainers helps. Formalized bug tracking mechanisms lower the labor on maintainers to deal with large numbers of bugs by putting the onus on those filing the bugs to obey complex and often opaque rules. Such systems are absolutely necessary when you have hundreds or thousands of bug reports a day, but they make it impossible to say “hey, I noticed this weird behavior — do you guys already know about it?” in a way that doesn’t look like an atomized task on somebody’s plate.</p><p name="69b9" id="69b9" class="graf graf--p graf-after--p graf--trailing">A project that handles this quite well is my favorite linux distro, <a href="http://www.lunar-linux.org/" data-href="http://www.lunar-linux.org/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Lunar</a>. Despite being a full-featured linux distribution, Lunar is really just a handful of fairly-readable short shell scripts; the maintainers &amp; developers number less than ten and hang out on IRC. I do not use Lunar as my primary distribution (only because it lacks multilib support, which I very occasionally need for running binaries), but the environment and the community always feels like home, in part because I know that with only a little bit of effort I could not only have a complete understanding of the entire distro’s code &amp; its policies, but get to know everybody involved on a first name basis too. This kind of situation is only really possible because Lunar is fringe and its user base small, but I’ve seen plenty of projects with substantially smaller user bases that have substantially larger barriers to entry for casual contributors.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">John Ohno</a> on <a href="https://medium.com/p/598430de16a7"><time class="dt-published" datetime="2020-01-10T14:10:04.536Z">January 10, 2020</time></a>.</p><p><a href="https://medium.com/@enkiv2/the-bystander-effect-in-open-source-598430de16a7" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2020.</p></footer></article></body></html>
