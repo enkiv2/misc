@@ -39,6 +39,7 @@ https://www.youtube.com/watch?v=3ka4KY7TMTU
 http://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
 http://www.righto.com/2016/10/simulating-xerox-alto-with-contralto.html
 http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html
+https://lively-web.org/users/bert/Smalltalk-78.html
 https://github.com/livingcomputermuseum/ContrAlto
 http://toastytech.com/guis/salto.html
 http://toastytech.com/guis/salto2.html
