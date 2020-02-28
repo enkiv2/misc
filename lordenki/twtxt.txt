@@ -14631,3 +14631,162 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2020-02-22T18:54:22-05:00	How is a manga like a prototype?
 2020-02-22T19:10:48-05:00	Michael Tae Sweeney on Twitter: "A better world is possible:… " https://twitter.com/mtsw/status/1166198234663907328
 2020-02-22T19:37:49-05:00	Random link from the archives: https://web.archive.org/web/20190115090243/https://en.wikipedia.org/wiki/Cyberpunk_derivatives originally posted Tue Jan 15 09:02:43 EST 2019/
+2020-02-22T23:38:06-05:00	Random link from the archives: https://web.archive.org/web/20191118141822/https://courses.dcs.wisc.edu/wp/readinggerman/ originally posted Mon Nov 18 14:18:22 EST 2019/
+2020-02-23T03:38:20-05:00	Random link from the archives: https://web.archive.org/web/20181004200029/https://medium.com/p/10-terrible-things-about-adtech-35f7e7fcc1ad originally posted Thu Oct  4 20:00:29 EDT 2018/
+2020-02-23T05:54:36-05:00	How is a victory like a syndrome?
+2020-02-23T07:38:39-05:00	Random link from the archives: https://web.archive.org/web/20190806222135/https://medium.com/p/america-needs-a-u-s-space-corps-ab79bebe93eb originally posted Tue Aug  6 22:21:35 EDT 2019/
+2020-02-23T08:01:23-05:00	article idea: What Did The "Killer Micro" Kill?
+2020-02-23T08:32:24-05:00	pogocop
+2020-02-23T09:15:53-05:00	Gopher: When Adversarial Interoperability Burrowed Under the Gatekeepers' Fortresses | Electronic Frontier Foundation https://www.eff.org/deeplinks/2020/02/gopher-when-adversarial-interoperability-burrowed-under-gatekeepers-fortresses
+2020-02-23T09:22:38-05:00	What Is the Hardest Language in the World to Lipread?  - Atlas Obscura https://www.atlasobscura.com/articles/lipreading-around-the-world
+2020-02-23T09:51:14-05:00	sounds like "aphorisms against humanity" https://medium.com/i-challenge-you/wise-or-otherwise-aca66a3cd029
+2020-02-23T10:40:57-05:00	The Newton Application Architecture http://waltersmith.us/newton/COMPCON-Arch.pdf
+2020-02-23T10:51:09-05:00	An Essay About Essays – Hypertext Magazine https://www.hypertextmag.com/an-essay-about-essays/
+2020-02-23T10:53:43-05:00	Ramification of advice for copywriting / content marketing being applied to all nonnarrative nonfiction: you end up catering to a theoretical audience of people who don't care enough about the subject to pay attention, & inflate essays with repetition.
+2020-02-23T11:38:48-05:00	Random link from the archives: https://web.archive.org/web/20191104094336/https://web.archive.org/web/20160201002648/http://slatestarcodex.com/2016/01/30/staying-classy/ originally posted Mon Nov  4 09:43:36 EST 2019/
+2020-02-23T12:01:56-05:00	Submission for the 2020 No-Budget Film Contest starts July 4th, so now is a good time to start https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2020-02-23T13:01:14-05:00	Toward Semantic Foundations for Program Editors https://arxiv.org/pdf/1703.08694.pdf
+2020-02-23T15:39:01-05:00	Random link from the archives: https://web.archive.org/web/20181101121146/https://www.rifters.com/crawl/?p=8433 originally posted Thu Nov  1 12:11:46 EDT 2018/
+2020-02-23T16:54:50-05:00	How is a certainty like a prorogation?
+2020-02-23T19:39:15-05:00	Random link from the archives: https://web.archive.org/web/20190723140523/https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/ originally posted Tue Jul 23 14:05:23 EDT 2019/
+2020-02-23T23:39:28-05:00	Random link from the archives: https://web.archive.org/web/20190801105456/https://grimoire.ca/mysql/choose-something-else originally posted Thu Aug  1 10:54:56 EDT 2019/
+2020-02-24T03:39:37-05:00	Random link from the archives: https://web.archive.org/web/20190409114725/https://www.gwern.net/GPT-2 originally posted Tue Apr  9 11:47:25 EDT 2019/
+2020-02-24T03:54:59-05:00	How is a helper like a leadership?
+2020-02-24T07:39:49-05:00	Random link from the archives: https://web.archive.org/web/20200130101555/https://crimereads.com/on-the-casual-sociopathy-of-the-traditional-mystery/ originally posted Thu Jan 30 10:15:55 EST 2020/
+2020-02-24T07:57:39-05:00	You don't need to work on hard problems | benkuhn.net https://www.benkuhn.net/hard
+2020-02-24T08:23:20-05:00	Too Busy To Be Interesting
+2020-02-24T09:10:54-05:00	Bolshevism on Trial, a propaganda film from 1919, proves that the Democrats must nominate a crypto-Republican.. https://slate.com/culture/2020/02/sanders-wins-nevada-primary-but-bolshevism-on-trial-proves-he-should-not-be-the-nominee.html?via=rss_socialflow_twitter
+2020-02-24T10:07:10-05:00	Introduction to Sorting Networks https://hoytech.github.io/sorting-networks/
+2020-02-24T10:17:07-05:00	Band name of the day: necrotic power
+2020-02-24T10:31:16-05:00	Band name of the day: a taste for the categorical
+2020-02-24T10:41:07-05:00	'technology' doesn't want anything, but every individual technology has wants (i.e., biases and tendencies), & as a developer your most important ethical responsibility is to design these wants to be in line with a world worth living in.
+2020-02-24T10:59:51-05:00	Generative Design is Doomed to Fail - Daniel Davis " Daniel Davis https://www.danieldavis.com/generative-design-doomed-to-fail/
+2020-02-24T11:02:05-05:00	Submission for the 2020 No-Budget Film Contest starts July 4th, so now is a good time to start https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2020-02-24T11:40:03-05:00	Random link from the archives: https://web.archive.org/web/20180910122043/https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy originally posted Mon Sep 10 12:20:43 EDT 2018/
+2020-02-24T13:42:42-05:00	When done by somebody who knows how to write, academic writing is often transcendently good -- the author is freed to use all the rhetorical, informational, and creative weapons at their disposal, and dare readers to keep up. This isn't to say that academia isn't full of Curtis Yarvin style ill-formed crap -- just that McLuhan and Bertrand Russel also exist.
+2020-02-24T13:51:58-05:00	Fair Warning " Real Life https://reallifemag.com/fair-warning/
+2020-02-24T13:55:38-05:00	Vampires and Vampire-Hunting: Notes on the Sharp End of the Blogosphere – xenogothic https://xenogothic.com/2020/02/22/vampires-and-vampire-hunting-note-on-the-sharp-end-of-the-blogosphere/
+2020-02-24T14:15:00-05:00	Band name of the day: artisanal mining operation
+2020-02-24T14:23:34-05:00	The Bureau of Suspended Objects https://www.suspended-objects.org/?mc_cid=f14540f56a&mc_eid=c92bddb137
+2020-02-24T14:24:31-05:00	The Growth Ponzi Scheme — Strong Towns https://www.strongtowns.org/the-growth-ponzi-scheme?mc_cid=f14540f56a&mc_eid=c92bddb137
+2020-02-24T14:24:45-05:00	White Collar Crime Risk Zones https://whitecollar.thenewinquiry.com/?mc_cid=f14540f56a&mc_eid=c92bddb137
+2020-02-24T14:25:23-05:00	A new hash algorithm for Git [LWN.net] https://lwn.net/Articles/811068/
+2020-02-24T14:46:51-05:00	Same Virus, New Zombies: Towards a New Hauntology – xenogothic https://xenogothic.com/2020/02/19/same-virus-new-zombies-notes-on-a-new-hauntology/
+2020-02-24T14:55:12-05:00	How is an innocence like an inauguration?
+2020-02-24T15:40:19-05:00	Random link from the archives: https://web.archive.org/web/20171114080213/http://www.mondo2000.com/2017/11/08/semi-autonomous-software-agents-personal-perspective/ originally posted Tue Nov 14 08:02:13 EST 2017/
+2020-02-24T16:37:43-05:00	no dead time / no dead code / no live processes
+2020-02-24T19:40:33-05:00	Random link from the archives: https://web.archive.org/web/20170919094848/http://www.huckmagazine.com/perspectives/opinion-perspectives/mark-zuckerberg-president/ originally posted Tue Sep 19 09:48:48 EDT 2017/
+2020-02-24T23:40:49-05:00	Random link from the archives: https://web.archive.org/web/20170804074421/http://tedium.co/2017/08/03/early-computer-retailers-history/?utm_source=Tedium&utm_campaign=Tedium_08_03_2017&utm_medium=email originally posted Fri Aug  4 07:44:21 EDT 2017/
+2020-02-25T01:55:26-05:00	How is a Sister like an ultimatum?
+2020-02-25T03:41:03-05:00	Random link from the archives: https://web.archive.org/web/20190812092239/http://okmij.org/ftp/Computation/lightweight-static-guarantees.html originally posted Mon Aug 12 09:22:39 EDT 2019/
+2020-02-25T07:41:16-05:00	Random link from the archives: https://web.archive.org/web/20180504071550/https://rinzewind.org/blog-en/2018/how-to-send-local-files-to-chromecast-with-python.html originally posted Fri May  4 07:15:50 EDT 2018/
+2020-02-25T07:56:55-05:00	On Voice Coding https://dusty.phillips.codes/2020/02/15/on-voice-coding/
+2020-02-25T07:58:49-05:00	Donald Knuth Was Framed https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/
+2020-02-25T08:04:46-05:00	Weirding Diary: 11 https://www.ribbonfarm.com/2020/02/18/weirding-diary-11/
+2020-02-25T08:13:48-05:00	Band name of the day: the permaweird
+2020-02-25T08:14:30-05:00	Band name of the day: corvid-19
+2020-02-25T08:27:01-05:00	Glossary - MozillaWiki https://wiki.mozilla.org/Glossary
+2020-02-25T08:59:08-05:00	What's in your Jargon File? | Lobsters https://lobste.rs/s/tuinmc/what_s_your_jargon_file
+2020-02-25T09:23:47-05:00	Band name of the day: pretty howitzer
+2020-02-25T09:27:21-05:00	The Brilliant Avant-Garde Movie Posters of the Soviet Union - Flashbak https://flashbak.com/the-brilliant-avant-garde-movie-posters-of-the-soviet-union-424460/
+2020-02-25T09:30:00-05:00	This Is What Happens When You Overdose on LSD  - VICE https://www.vice.com/en_us/article/pkeqd8/what-happens-lsd-overdose
+2020-02-25T09:35:34-05:00	Open source licenses: What, which, and why | Ars Technica https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/
+2020-02-25T09:38:04-05:00	Fred Newman (philosopher) - Wikipedia https://en.wikipedia.org/wiki/Fred_Newman_(philosopher)
+2020-02-25T09:50:05-05:00	The 17th-Century Language that Divided Everything in the Universe into 40 Categories - Atlas Obscura https://www.atlasobscura.com/articles/the-17thcentury-language-that-divided-everything-in-the-universe-into-40-categories
+2020-02-25T09:51:55-05:00	House of the Century  https://longreads.com/2020/02/20/house-of-the-century/
+2020-02-25T10:02:15-05:00	Submission for the 2020 No-Budget Film Contest starts July 4th, so now is a good time to start https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2020-02-25T10:03:28-05:00	Band name of the day: curated instagram graffiti
+2020-02-25T10:04:03-05:00	Band name of the day: bomb city
+2020-02-25T10:07:44-05:00	Yuji Yokoo / mruby-dreamcast · GitLab https://gitlab.com/yujiyokoo/mruby-dreamcast
+2020-02-25T10:08:27-05:00	Modern, functional Common Lisp: Myths and tips https://ambrevar.xyz/modern-common-lisp/index.html
+2020-02-25T10:19:26-05:00	» Myst (or, The Drawbacks to Success) The Digital Antiquarian https://www.filfre.net/2020/02/myst-or-the-drawbacks-to-success/
+2020-02-25T10:21:54-05:00	Band name of the day: government cheesecake
+2020-02-25T11:01:24-05:00	The Nocturnus Archives: Invisible Networks #25: Connective Graffiti https://nocturnusarchives.blogspot.com/2020/02/invisible-networks-25-connective.html
+2020-02-25T11:01:58-05:00	The Nocturnus Archives: Invisible Networks #14: For Sale: Baby-Shoe-Coin https://nocturnusarchives.blogspot.com/2020/02/invisible-networks-14-for-sale-baby.html
+2020-02-25T11:41:24-05:00	Random link from the archives: https://web.archive.org/web/20190117153206/https://qr.ae/TUnafD originally posted Thu Jan 17 15:32:06 EST 2019/
+2020-02-25T12:44:46-05:00	What can we learn from the perennial philosophy of Aldous Huxley? | Aeon Essays https://aeon.co/essays/what-can-we-learn-from-the-perennial-philosophy-of-aldous-huxley
+2020-02-25T12:46:58-05:00	Band name of the day: disquietude
+2020-02-25T12:47:56-05:00	Band name of the day: organized lovelessness
+2020-02-25T12:48:12-05:00	Band name of the day: the age of noise
+2020-02-25T12:55:36-05:00	How is a posting like an intermission?
+2020-02-25T13:07:19-05:00	Newton Data Storage http://www.canicula.com/newton/prog/soups.htm
+2020-02-25T13:28:05-05:00	GitHub - reinderien/mimic: [ab]using Unicode to create tragedy https://github.com/reinderien/mimic
+2020-02-25T13:41:16-05:00	A Long-Form Manifesto https://long-form.com/
+2020-02-25T13:42:30-05:00	A Text Renaissance https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/
+2020-02-25T15:41:35-05:00	Random link from the archives: https://web.archive.org/web/20181211195835/https://www.youtube.com/watch?v=iP83GS8jBJc originally posted Tue Dec 11 19:58:35 EST 2018/
+2020-02-25T19:41:48-05:00	Random link from the archives: https://web.archive.org/web/20190723130954/https://www.theatlantic.com/magazine/archive/2019/08/how-walking-became-pedestrian-duncan-minshull-erling-kagge-walking/592792/ originally posted Tue Jul 23 13:09:54 EDT 2019/
+2020-02-25T20:29:57-05:00	When you have already considered and prepared for all the obvious risks, the biggest remaining risks are by definition non-obvious. How do you un-prune your decision tree? Or do you use a random process to leap blindly into hyperspace, landing somewhere you might not even be able to get to?
+2020-02-25T23:42:06-05:00	Random link from the archives: https://web.archive.org/web/20170804130620/http://tenyearsago.io/ originally posted Fri Aug  4 13:06:20 EDT 2017/
+2020-02-25T23:55:48-05:00	How is a downside like a nucleus?
+2020-02-26T03:42:31-05:00	Random link from the archives: https://web.archive.org/web/20190416084354/http://victor.se/bjorn/lispm.php originally posted Tue Apr 16 08:43:54 EDT 2019/
+2020-02-26T06:16:44-05:00	don't 'become more confident'. keep your confidence tied to your actual skill, & when all you are risking is a little time and energy (or the opinion of angry strangers who have nothing to do with you), do it anyway. becoming more confident just means being unable to figure out how to improve.
+2020-02-26T07:35:04-05:00	Ancient ‘megasites’ may reshape the history of the first cities | Science News https://www.sciencenews.org/article/ancient-urban-megasites-may-reshape-history-first-cities
+2020-02-26T07:38:15-05:00	10 Horror Movies Directed by Women You Maybe Haven't Seen - Bloody Disgusting https://bloody-disgusting.com/editorials/3604647/10-horror-movies-directed-women-maybe-havent-seen/
+2020-02-26T07:42:40-05:00	Random link from the archives: https://web.archive.org/web/20200117092053/https://reverb.com/news/6-echo-chambers-that-shaped-the-sound-of-popular-music originally posted Fri Jan 17 09:20:53 EST 2020/
+2020-02-26T08:46:01-05:00	i'm thinking of writing a medium piece along the lines of 'for better first drafts, write like a standup comic' but it's exactly the kind of hacky writing advice post i hate to see, so i don't have enough self-loathing to actually write it yet
+2020-02-26T09:02:22-05:00	Submission for the 2020 No-Budget Film Contest starts July 4th, so now is a good time to start https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2020-02-26T09:10:46-05:00	Exit the haunted forest " Increment: Software Architecture https://increment.com/software-architecture/exit-the-haunted-forest/
+2020-02-26T10:37:47-05:00	frankenstein's blanket
+2020-02-26T10:56:06-05:00	How is a variation like a violation?
+2020-02-26T11:16:43-05:00	gift game by Everest Pipkin https://everestpipkin.itch.io/gift-game
+2020-02-26T11:16:54-05:00	Minimal computing, slow internet, offline & alternative networks https://docs.google.com/document/d/e/2PACX-1vSBzlice6-E3BCFIofe2-ipxRGeU1rQcRrVNZP9vG58VbwZS9ClEQkrcHky7cI83d1XgBhVD104CbmP/pub
+2020-02-26T11:17:07-05:00	Decentralized networks and the bad landlord problem of the internet https://docs.google.com/document/d/e/2PACX-1vQm4aMDNujUW_QPfO5TVgZ7dJC4BxUPg9hyzIGqpfUW2gN8BTzeeBQXN-evKx1KMibKWeD9L8kZ3HHy/pub
+2020-02-26T11:20:03-05:00	Tunnel-in-the-Sky Displays – Sci-fi interfaces https://scifiinterfaces.com/2020/02/25/20063/amp/?__twitter_impression=true
+2020-02-26T11:42:47-05:00	Random link from the archives: https://web.archive.org/web/20191122143529/https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-3-a-renaissance-is-nigh/ originally posted Fri Nov 22 14:35:29 EST 2019/
+2020-02-26T12:25:22-05:00	Explain your thinking. Don't make it mysterious. | MetaFilter https://www.metafilter.com/185799/Explain-your-thinking-Dont-make-it-mysterious
+2020-02-26T12:26:49-05:00	How to help someone use a computer https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html
+2020-02-26T15:42:59-05:00	Random link from the archives: https://web.archive.org/web/20191012170517/https://www.youtube.com/watch?v=NIfy7WlccoY originally posted Sat Oct 12 17:05:17 EDT 2019/
+2020-02-26T19:12:17-05:00	Band name of the day: excess death contingency
+2020-02-26T19:15:28-05:00	Bad idea of the day: the MarxIsSim challenge, wherein you make a house modeled on Marx and Engels in The Sims 3
+2020-02-26T19:43:12-05:00	Random link from the archives: https://web.archive.org/web/20200211104328/https://github.com/brettkromkamp/contextualise originally posted Tue Feb 11 10:43:28 EST 2020/
+2020-02-26T21:56:13-05:00	How is a cabal like a medics?
+2020-02-26T23:43:20-05:00	Random link from the archives: https://web.archive.org/web/20190118111924/https://www.newstatesman.com/culture/books/2019/01/Spells-21st-Century-Occult-Poetry-review originally posted Fri Jan 18 11:19:24 EST 2019/
+2020-02-27T03:43:32-05:00	Random link from the archives: https://web.archive.org/web/20190416101532/https://bitbucket.org/jmcgrew/zilf/wiki/Home originally posted Tue Apr 16 10:15:32 EDT 2019/
+2020-02-27T06:55:25-05:00	Band name of the day: puppet crimes
+2020-02-27T07:00:33-05:00	Band name of the day: stealing season
+2020-02-27T07:03:18-05:00	Smithsonian Open Access | Smithsonian Institution https://www.si.edu/openaccess
+2020-02-27T07:03:29-05:00	Band name of the day: the brother earnings penalty
+2020-02-27T07:04:26-05:00	52 things I learned in 2019 - Kent Hendricks https://kenthendricks.com/52-things-i-learned-in-2019/
+2020-02-27T07:06:03-05:00	Band name of the day: a grand unified theory of urban living
+2020-02-27T07:06:47-05:00	Band name of the day: suspended in equilibrium
+2020-02-27T07:08:20-05:00	Band name of the day: the duration of embraces
+2020-02-27T07:08:58-05:00	52 things I learned in 2018 - Kent Hendricks https://kenthendricks.com/52-things-i-learned-in-2018/
+2020-02-27T07:12:39-05:00	If you believe in nihilism, do you believe in anything? | Aeon Essays https://aeon.co/essays/if-you-believe-in-nihilism-do-you-believe-in-anything
+2020-02-27T07:15:59-05:00	Prove It With Dynamite (tm)
+2020-02-27T07:18:32-05:00	Band name of the day: plant mines
+2020-02-27T07:25:39-05:00	Band name of the day: satanic planchette
+2020-02-27T07:25:50-05:00	Band name of the day: satanic planet
+2020-02-27T07:41:32-05:00	Band name of the day: flow trigger
+2020-02-27T07:43:40-05:00	Random link from the archives: https://web.archive.org/web/20181126060823/http://dreamcafe.com/2018/11/19/truth-as-a-vehicle-for-enhancing-fiction-fiction-as-a-vehicle-for-discovering-truth/ originally posted Mon Nov 26 06:08:23 EST 2018/
+2020-02-27T08:02:31-05:00	Submission for the 2020 No-Budget Film Contest starts July 4th, so now is a good time to start https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2020-02-27T08:03:15-05:00	Bad idea of the day: a word processor that shows the rate at which you're writing (words per minute), flashing red when you're below some configurable goal rate
+2020-02-27T08:56:28-05:00	How is an endangerment like a puberty?
+2020-02-27T09:22:59-05:00	Robots aren’t taking our jobs " they’re becoming our bosses - The Verge https://www.theverge.com/2020/2/27/21155254/automation-robots-unemployment-jobs-vs-human-google-amazon
+2020-02-27T09:24:14-05:00	TODAY IS UNDER CONSTRUCTION
+2020-02-27T09:38:15-05:00	The oil Bible of Dalton, Georgia: How a miracle fell apart. https://slate.com/human-interest/2020/02/oil-bible-dalton-georgia-trump-prophecy-evangelical-miracle.html
+2020-02-27T09:52:48-05:00	GitHub - kickscondor/fraidycat: Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page. https://github.com/kickscondor/fraidycat
+2020-02-27T10:29:06-05:00	Band name of the day: the vanguard of a new, more educated offender
+2020-02-27T10:31:25-05:00	Band name of the day: locutionary silence
+2020-02-27T10:33:06-05:00	Bulletin Board Systems: The VICE Exposé https://twobithistory.org/2020/02/02/bbs.html
+2020-02-27T11:03:52-05:00	Visual explanations of mathematics — Agile https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
+2020-02-27T11:32:42-05:00	Mathematics for the adventurous self-learner | Neil Sainsbury https://www.neilwithdata.com/mathematics-self-learner
+2020-02-27T11:32:54-05:00	An Intuitive Guide to Linear Algebra – BetterExplained https://betterexplained.com/articles/linear-algebra-guide/
+2020-02-27T11:43:49-05:00	Random link from the archives: https://web.archive.org/web/20181224091341/https://thirdeyepatch.wixsite.com/goatlarp originally posted Mon Dec 24 09:13:41 EST 2018/
+2020-02-27T12:54:22-05:00	The Revolution Will Be Dramatized  |  Tor.com https://www.tor.com/2020/02/26/the-revolution-will-be-dramatized/
+2020-02-27T15:44:01-05:00	Random link from the archives: https://web.archive.org/web/20170713090331/https://arstechnica.com/security/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/ originally posted Thu Jul 13 09:03:31 EDT 2017/
+2020-02-27T17:19:33-05:00	Band name of the day: rat model
+2020-02-27T17:32:59-05:00	Band name of the day: unrelentingly erotic
+2020-02-27T19:44:13-05:00	Random link from the archives: https://web.archive.org/web/20190617094737/https://www.monbiot.com/2019/04/30/the-problem-is-capitalism/ originally posted Mon Jun 17 09:47:37 EDT 2019/
+2020-02-27T19:56:47-05:00	I am once again asking you how a mediator is like a digress?
+2020-02-27T23:44:27-05:00	Random link from the archives: https://web.archive.org/web/20191011165937/https://www.youtube.com/watch?v=WCKgXMljZBk originally posted Fri Oct 11 16:59:37 EDT 2019/
+2020-02-28T03:44:35-05:00	Random link from the archives: https://web.archive.org/web/20180208115341/http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html originally posted Thu Feb  8 11:53:41 EST 2018/
+2020-02-28T06:57:00-05:00	I am once again asking you how a pessimism is like a demonstration?
+2020-02-28T07:02:39-05:00	Submission for the 2020 No-Budget Film Contest starts July 4th, so now is a good time to start https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/announcing-the-2020-no-budget-film-contest-b840149f2cf0
+2020-02-28T07:16:57-05:00	Manna for our Malices is 23% off on Steam from 3/3 to 3/6 for their midweek VN sale. https://store.steampowered.com/app/1013580/Manna_for_our_Malices/
+2020-02-28T07:44:42-05:00	Random link from the archives: https://web.archive.org/web/20181227141438/https://www.youtube.com/watch?v=FlynweLLpOY originally posted Thu Dec 27 14:14:38 EST 2018/
+2020-02-28T07:55:25-05:00	Aloha Point-of-Sale System History: Tech That’s Quietly Everywhere https://tedium.co/2020/02/27/aloha-pos-system-history/
+2020-02-28T07:57:17-05:00	Outdated Connectors, USB Hacks, and the Upcoming EU Regulations https://tedium.co/2020/02/25/mobile-cable-standards-history/
+2020-02-28T07:59:58-05:00	What Happens After You're Cancelled | emptywheel https://www.emptywheel.net/2020/02/19/what-happens-after-youre-cancelled/
+2020-02-28T09:10:30-05:00	Band name of the day: the angel-eaters
+2020-02-28T09:13:00-05:00	Band name of the day: rue crime
+2020-02-28T09:36:27-05:00	AttributeError http://fedireads-test.glitch.me/user/enkiv2
