@@ -1,14 +1,33 @@
-Fri Mar 06 12:55:10 2020
+Fri Mar 06 12:59:40 2020
 Windows-8-6.2.9200
 Ren'Py 7.1.3.1092
  
 
-Bootstrap to the start of init.init took 0.06s
-Early init took 0.01s
+Bootstrap to the start of init.init took 0.07s
+Early init took 0.00s
 Loader init took 0.02s
-Loading error handling took 0.09s
-Loading script took 1.16s
+Loading error handling took 0.02s
+Loading script took 0.08s
 Loading save slot metadata. took 0.01s
 Loading persistent took 0.00s
-
-File "game/options.rpy", line 213: indentation mismatch.
+Imported steam.
+Failed to initialize steam.
+Running init code took 1.49s
+Loading analysis data took 0.09s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.01s
+DPI scale factor: 1.000000
+Creating interface object took 0.05s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
