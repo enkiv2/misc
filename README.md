@@ -61,7 +61,9 @@ Utilities:
 * [fix_transmission.sh](fix_transmission.sh): set a parameter that sometimes causes transmission to fail to work with certain tracker/CDN combinations
 
 Games (in progress):
-
+* [Book of the Damned](Book%20of%20the%20Damned): taking place during the events of [Manna for our Malices](http://github.com/enkiv2/mannaforourmalices), this game follows young telepath Yumeji Misato as she is moved to a group home in Yomiyama by the leader of a UFO cult & deals with new friends, new enemies, and you, the player.
+* [Trilogy](Trilogy): after the events of [Manna for our Malices](http://github.com/enkiv2/mannaforourmalices) and [Book of the Damned](Book%20of%20the%20Damned), Akagi Ai and her friends get stuck in the rain with Yumeji Misato and Bruno Akane, and they tell ghost stories in this short non-interactive VN.
+* [Blood Ocean](Blood%20Ocean): a painter discovers that the dream-enhancing street drug Blood Ocean is not what it seems.
 
 Misc:
 
