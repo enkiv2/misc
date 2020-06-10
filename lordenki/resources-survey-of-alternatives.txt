@@ -27,6 +27,7 @@ https://archive.computerhistory.org/resources/access/text/2017/03/102726907-05-0
 https://www.computerhistory.org/collections/catalog/102726903
 Smalltalk / Self / Alto / Morphic / Mesa / Star
 http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html
+https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html
 http://history-computer.com/Library/Kay72.pdf
 http://www.digibarn.com/friends/butler-lampson/index.html
 https://guidebookgallery.org/articles/microelectronicsandthepersonalcomputer
@@ -40,6 +41,7 @@ http://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
 http://www.righto.com/2016/10/simulating-xerox-alto-with-contralto.html
 http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html
 https://lively-web.org/users/bert/Smalltalk-78.html
+https://github.com/dbanay/Smalltalk
 https://github.com/livingcomputermuseum/ContrAlto
 http://toastytech.com/guis/salto.html
 http://toastytech.com/guis/salto2.html
@@ -347,6 +349,7 @@ https://mkremins.github.io/blog/unix-not-acceptable-unix/
 http://cognitivemedium.com/tat/
 https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html
 https://blog.plover.com/Unix/tools.html
+https://www.expressionsofchange.org/reification-of-interaction/
 General
 https://ironholds.org/resources/papers/anarchist_hci.pdf
 http://contemporary-home-computing.org/turing-complete-user/

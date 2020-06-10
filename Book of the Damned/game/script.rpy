@@ -177,6 +177,12 @@ label start:
     comment "XXX Misato sleeps alone, and again, there's a banging in the hall. She asks the player for advice."
     comment "XXX If she decides to check, she discovers the black cat (Kuro) hunting at this point. She asks what to do, & if she plays with the cat she gets points toward cat affinity & towards affinity with Kuro."
 
+# Monologue (maybe from Kuroki?)
+# "Four years ago, the rest of the industrialized world caught up to Japan in our direct traffic with the true meaning of the end of history: the expectation of growth so permanent it becomes meaningless, except as a pressure on your shoulders, thumping thumping thumping as it asks to proclaim your belief in the unstated empty promise whose fulfillment is made impossible by the very logic that relies on it."
+
+# Setting details (maybe from Mina?)
+# The ring of mountains keeps the fog lingering within the bowl of Yomiyama proper, so whenever it rains, visibility remains low and brocken spectres are easily produced. This may have led to ideas about this valley being haunted or a favorite area of reality-warping Tengu.
+
 # Opening animation:
 # we see a UFO with a windowed onion-dome top spewing sparks across the night sky, toward a mountain that obscures the full moon.
 # cut to a character image of KUROKI on the left leaning against a stack of books, followed by SAFFYRE and SEYTON back to back on the right, SEYTON grinning while SAFFYRE pouts
@@ -202,6 +208,10 @@ label start:
 
 # LATER DREAM
 # a nordic-style alien removes his face to reveal he is a grey in a wig, then removes the grey face (a mask) to reveal an ape face, then removes that to reveal MISATO's face. he then says "you will see me two times."
+
+# LATER DREAM
+# BIG GIRL, a little girl whose flowery red dress takes up three quarters of the vertical height of the screen, appears. From under her dress, LITTLE MAN, a man in a David Byrne style 'big suit'. These are repeating dream characters who sometimes give advice.
+# To warn of some bad ends, BIG GIRL's dress becomes a mountain of hair (like the angagonist of MAZE).
 
 label drugged_scene:
 # Misato is summoned to Corto's penthouse. She is offered tea, and drinks it, as he monologues at her. She wonders why she's here.
