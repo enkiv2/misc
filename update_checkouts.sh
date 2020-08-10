@@ -1,9 +1,13 @@
 #!/usr/bin/env zsh
 
-for i in ~/code/*/ ; do
+rec() {
+for i in  "$@" ; do
 	echo
 	echo "$i"
 	cd "$i"
-	git pull || svn up
+	:|(git pull --all --no-edit || svn up || rec $i/*/)
 	echo
 done
+}
+
+rec ~/code/*/

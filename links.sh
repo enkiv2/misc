@@ -3,7 +3,7 @@
 
 function linkit() {
 	[ -z "$1" ] || (
-		url="$(echo $1 | sed 's/\([&?]\)utm_.*$//;s/\([&?]\)curator=.*$//')"
+		url="$(echo $1 | sed 's/\([&?]\)\(utm\|mc\)_.*$//;s/\([&?]\)curator=.*$//')"
 		grep -a -n -- "$url" ~/.linkit || (
 			(which mass_archive 2>&1 > /dev/null && mass_archive "$url")
 			export LC_ALL=en_US.UTF-8
