@@ -10,4 +10,7 @@ llex input files are separated into three seconds (which are separated by lines 
 * the RULES: this consists of lines beginning with patterns (which may contain embedded pattern names in braces) followed by an optional variable name list for captures (which is separated from the pattern by a tab) and definition lines, which are lua code blocks beginning with tabs.
 * the POSTSCRIPT: these are lines consisting of lua code, and are copied into the output after the rules. In this section, you may override the main() function or insert your own calls to llex()
 
+TODO:
+
+* refactor such that the main() function can be omitted & only the body of the llex() function kept, to ease with recursive embedding
 
