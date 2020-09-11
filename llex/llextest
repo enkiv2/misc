@@ -1,0 +1,10 @@
+	print("hello")
+DIGIT	(%d+)
+%%
+{DIGIT}-{DIGIT}-{DIGIT}	year, month, day
+	return year*365+month*12+day
+^%-%-(.*)$
+	print("ignored comment line")
+	return ""
+%%
+print("goodbye")
