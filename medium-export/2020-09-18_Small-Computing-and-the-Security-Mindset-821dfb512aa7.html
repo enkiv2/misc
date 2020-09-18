@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Small Computing and the Security Mindset</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">Small Computing and the Security Mindset</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+The story of modern computing is the story of the big-computing mindset (scale, centralization, elitism, and paternalism) infecting…
+</section>
+<section data-field="body" class="e-content">
+<section name="3648" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="8f02" id="8f02" class="graf graf--h3 graf--leading graf--title">Small Computing and the Security Mindset</h3><p name="3181" id="3181" class="graf graf--p graf-after--h3">The story of modern computing is the story of the big-computing mindset (scale, centralization, elitism, and paternalism) infecting everything it touches as programming becomes more of a profession than a craft. In the process, it creates edifices of practices — useful in big-computing situations — that get unthinkingly applied outside of their appropriate bounds, forcing small-computing projects into the strictures of big-computing design. One major domain where we must begin to think critically about the big- vs small-computing distinction is security.</p><p name="46d1" id="46d1" class="graf graf--p graf-after--p">Small-computing systems ought to be secure. After all, they are our most personal environments! They are our diaries and our artworks and our dream journals! But computer security, as it has become professionalized, has become more and more focused on big-computing environments, and good security practices in those environments are inimical to the basic tenets of small computing.</p><p name="369b" id="369b" class="graf graf--p graf-after--p">In a big-computing environment, valuable secrets (like credit card numbers) and desirable powers (like the ability to tweet on behalf of the president) are kept on a set of machines owned by a single entity (the corporation) on behalf of the ostensible owners of that information and power (particular end-users) and protected from illegitimate access (hacking/cracking) by an elite set of professionals (software engineers, ops teams, security consultants) who use their monopoly on legitimate access to certain power (superuser &amp; administrator privileges, commit access) to construct laws (security policies) that prohibit as many not-explicitly-allowed operations as possible. Because the adversaries are many, with infinite time and energy, and because the treasure is valuable, and because laws always have unseen loopholes, these elite professionals construct layers upon layers of rules to limit not only what users (legitimate or illegitimate) can do, but what kind of feedback they can receive.</p><p name="c145" id="c145" class="graf graf--p graf-after--p">This mentality has even made its way into language design: Java (and C++) have a rudimentary form of access control where members can be marked private, and good style in these languages is to mark all member data as private and write accessor functions, ostensibly in order to perform validity checks on proposed modification. This boilerplate is added rather than doing the sensible thing and creating custom metatables such that assignments are implicitly passed through an integrity check (as may be done in Python and Lua). Of course, such checks are rarely implemented, and they cannot distinguish between ‘authorized’ and ‘unauthorized’ calling-classes anyhow — while C++ has ‘friend classes’ that can modify private data directly, and both support using inheritance hierarchies to control data access, there is no granularity smaller than kin/friend versus outsider, so these access controls are borderline useless for everything besides the ad-hoc plugging failures of the type system and increasing the line count of codebases.</p><p name="c4c2" id="c4c2" class="graf graf--p graf-after--p">Systems that require big-computing style security exist. Problems that are best suited to those systems also exist — your bank ought to not only have big-computing style security, but ought to have substantially better security than it has. But, this model is not really sensible in many of the places it is used. For instance, Google Docs (which simulates a word processor with some limited support for simultaneous editing by multiple users) is locked into this model only because it is client-server, and a hypothetical local-first or peer-to-peer version should not be so professionalized and stratified; Microsoft Word, being a local application, has no legitimate excuse (though the real reason, as with most big-computing systems, is that unnecessary centralization is a very effective way to squeeze money out of users who don’t know any better).</p><p name="d95a" id="d95a" class="graf graf--p graf-after--p">When I use Google Docs, I can modify the javascript running on my browser, modify the cookies being sent to the server, and modify URL parameters. If I do something wrong, I will get an entirely unhelpful error message from inside the black box of the remote server. This is because, by failing to fall precisely in line with the Alphabet Corporation’s desired behavior, I have become an adversary, and adversaries cannot be given information that might help them do whatever they might want to do (since some of the things they might want to do is get, for instance, the credit card numbers of everyone who has ever bought an advertisement). Of course, Google engineers writing and maintaining Google Docs face the same situation. Outside of an adversarial situation, investigating a poorly-understood piece of code by poking it and interpreting error messages is called debugging, and part of the small computing ethos is that users should not be prevented from debugging.</p><p name="05d7" id="05d7" class="graf graf--p graf-after--p">The difference between big computing and small computing is, in essence, that in small computing, the user is never an adversary. This is because the running code is owned and controlled by the user. This goes beyond open source / free software (where the developer is no adversary, but the developer is an elite professional often working on behalf of a corporation inside a firewall, performing work that may well be detrimental to those who actually need to interact with its effects).</p><p name="bd41" id="bd41" class="graf graf--p graf-after--p">What kinds of structures befit a small-computing system in an environment where networking exists, and what security models are appropriate for these structures?</p><p name="8df4" id="8df4" class="graf graf--p graf-after--p">For one thing, a multi-user client-server model makes no sense. In a client-server model, whoever controls the single server functionally controls all clients. There is, therefore, incentive to hoard power by locking vital functionalities away on the shared server, making every client dependent — slowed by latency when online, shit out of luck when offline, and always under threat of sudden unilateral changes in policy or protocol.</p><p name="d853" id="d853" class="graf graf--p graf-after--p">Instead, we should look to peer to peer systems: direct for real-time communication, and offline-first store-and-forward schemes for everything else. Asymmetric encryption for key exchange and for signing still make sense here, as does hash-based content addressing for storage. Secure Scuttlebutt and IPFS are good models for what small-computing-oriented network technologies of the future might look like: fully distributed, yet resistant to the kinds of threats that regularly take down federated systems like ActivityPub and IRC, because all nodes are equal and all nodes replicate for each other (under cryptographically-enforced anti-spoofing measures).</p><p name="32c0" id="32c0" class="graf graf--p graf-after--p">What does a threat model for small-computing infrastructure look like?</p><p name="2535" id="2535" class="graf graf--p graf-after--p">Well, unlike in big-computing systems, a small-computing system does not (typically) have large numbers of highly motivated dedicated attackers. Fuzzy Bear isn’t APTing your grandma’s laptop, because your grandma’s laptop has nothing on it but christmas MIDIs and questionable nudes. Our threat is really from folks doing large-scale automated sweeps for low-hanging fruit. So, small-computing threat modeling looks like everyday opsec: use encryption, don’t give strangers direct access to private spaces and limit the spaces they do have access to, distinguish between sensitive and non-sensitive data, and protect the integrity of the system from outsiders. Protect the network-facing portion of your machine, while maximizing your own access to it.</p><p name="aa5a" id="aa5a" class="graf graf--p graf-after--p">In this context, technologies we absolutely do not need are: passwords, SSO, certificate authority hierarchies, name servers and host files, NAT firewalls, code signing, chroot jails, memory layout randomizers, executable symbol stripping, single-application containers, daemons running as ‘nobody’, web APIs for wrapping the web APIs around your web APIs, friend classes, and sudo.</p><p name="9477" id="9477" class="graf graf--p graf-after--p graf--trailing">Technologies we might want to look into: distributed hash tables, chord routing, merkel trees, functional languages, JIT, fast copy-on-write, network-aware cache eviction policies, split-brain countermeasures, transitive blocking, store and forward, message passing, microversioning, journaling, and image-based environments.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">John Ohno</a> on <a href="https://medium.com/p/821dfb512aa7"><time class="dt-published" datetime="2020-09-18T18:45:12.409Z">September 18, 2020</time></a>.</p><p><a href="https://medium.com/@enkiv2/small-computing-and-the-security-mindset-821dfb512aa7" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on September 18, 2020.</p></footer></article></body></html>
