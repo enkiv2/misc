@@ -34,17 +34,17 @@ for line in sys.stdin.readlines():
 				print(word)
 				if(not
 						((rot==0   and curs[0]+size[0]+off[0]<pgsz[0]) or
-						( rot==270  and curs[1]+size[0]+off[1]<pgsz[1]) or
-						( rot==180 and curs[0]-size[0]>off[0]      ) or
-						( rot==90 and curs[1]-size[0]>off[1]      ))):
+						( rot==270 and curs[1]+size[0]+off[1]<pgsz[1]) or
+						( rot==180 and curs[0]-size[0]>off[0]        ) or
+						( rot==90  and curs[1]-size[0]>off[1]        ))):
 						if rot==90: # rotate from left to top
-								off=(off[0], curs[1]-em)
+								off=(off[0], off[1]+curs[1]-em)
 								curs=(curs[0], 0)
 						elif rot==270: # rotate from right to bottom
 								pgsz=(pgsz[0], (off[1]+curs[1])-em)
 								curs=(curs[0], curs[1]-em*2)
 						elif rot==180: # rotate from bottom to left
-								off=(curs[0]-em, off[1])
+								off=(off[0]+curs[0]-em, off[1])
 								curs=(0, curs[1])
 						else: # rot=0 from top to right
 								pgsz=((off[0]+curs[0])-em, pgsz[1])
