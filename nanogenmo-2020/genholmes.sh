@@ -1,0 +1,1 @@
+sed "$(cat time.names | sed 's/^/s\/\\([^A-Za-z]\\)/;s/$/\\([^A-Za-z]\\)\/\\1then\\2\/gI\;/'; cat person.names | sed 's/^/s\/\\([^A-Za-z]\\)/;s/$/\\([^A-Za-z]\\)\/\\1them\\2\/gI\;/'; cat place.names | sed 's/^/s\/\\([^A-Za-z]\\)/;s/$/\\([^A-Za-z]\\)\/\\1there\\2\/gI\;/')" ~/stories/ebooks/holmes/*
