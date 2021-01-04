@@ -5,7 +5,7 @@ processLink() {
 	url="$(echo "$item" | cut -f 1)"
 	url2="https://web.archive.org/web/$date2/$url"
 	title="$(echo "$item" | cut -f 3-)"
-	template="Random link from the archives: \"$title\" $url2 originally posted $date"
+	template="Random link from the archives: \"$title\" $url2 originally retrieved $date"
 	if [ $(echo "$template" | wc -c) -gt 500 ]; then
 		template="Random link from the archives: \"$title\" $url2"
 		if [$(echo "$template" | wc -c) -gt 500 ]; then

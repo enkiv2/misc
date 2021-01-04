@@ -9,7 +9,7 @@ delay=$1 ; shift
 
 while : ; do
 	(for dir in "$@" ; do
-		find -type f $dir
+		find $dir -type f
 	done) | shuf | while read x ; do
 		feh --bg-max "$x" && sleep $delay
 	done
