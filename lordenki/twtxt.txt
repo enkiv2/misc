@@ -22222,3 +22222,371 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2021-01-04T04:25:47-05:00	Random link from the archives: "" https://web.archive.org/web/20200929185820/https://medium.com/p/is-this-pigeon-meme-a-think-piece-ba3880a1fda3 originally retrieved Tue Sep 29 18:58:20 EDT 2020
 2021-01-04T08:26:09-05:00	Random link from the archives: "" https://web.archive.org/web/20180904111707/https://medium.com/p/fueling-the-ai-gold-rush-7ae438505bc2 originally retrieved Tue Sep  4 11:17:07 EDT 2018
 2021-01-04T10:00:11-05:00	ron swansong
+2021-01-04T11:43:54-05:00	a book is a brick thrown through the window of the soul
+2021-01-04T11:55:33-05:00	TabFS https://omar.website/tabfs/
+2021-01-04T12:26:27-05:00	Random link from the archives: "" https://web.archive.org/web/20190616120842/https://about-buildings-and-cities.pinecast.co/episode/bdf63a598b5045d4/55-katsuhiro-otomo-s-akira-3-3-good-for-health-bad-for-education originally retrieved Sun Jun 16 12:08:42 EDT 2019
+2021-01-04T15:01:26-05:00	two concepts of legibility https://ideolalia.com/essays/two-concepts-of-legibility.html
+2021-01-04T15:13:58-05:00	Ditherpunk " The article I wish I had about monochrome image dithering " surma.dev https://surma.dev/things/ditherpunk/
+2021-01-04T16:26:45-05:00	Random link from the archives: "" https://web.archive.org/web/20200930183209/https://medium.com/p/i-can-speak-from-insider-knowledge-that-side-projects-are-absolutely-taken-into-account-with-bcfcec8f0336 originally retrieved Wed Sep 30 18:32:09 EDT 2020
+2021-01-05T00:27:24-05:00	Random link from the archives: "GitHub - antiboredom/videogrep: automatic video supercuts with python" https://web.archive.org/web/20200628104549/https://github.com/antiboredom/videogrep originally retrieved Sun Jun 28 10:45:49 EDT 2020
+2021-01-05T04:27:40-05:00	Random link from the archives: "Error 406 - Not Acceptable" https://web.archive.org/web/20181024123441/https://www.board-db.org/ originally retrieved Wed Oct 24 12:34:41 EDT 2018
+2021-01-05T08:27:57-05:00	Random link from the archives: "Towards an understanding of technical debt | Kellan Elliott-McCrea" https://web.archive.org/web/20190220124538/https://kellanem.com/notes/towards-an-understanding-of-technical-debt originally retrieved Wed Feb 20 12:45:38 EST 2019
+2021-01-05T11:19:09-05:00	GANksy #🎨 A.I. street artist https://vole.wtf/ganksy/
+2021-01-05T12:14:52-05:00	GitHub - ddj231/Handel: a small procedural programming language for writting songs in browser https://github.com/ddj231/Handel
+2021-01-05T12:18:10-05:00	Liminal Spaces may be the most 2020 of all trends https://www.earnestpettie.com/liminal-spaces-may-be-the-most-2020-of-all-trends/
+2021-01-05T12:28:12-05:00	Random link from the archives: "Time Is Meaningless Now - VICE" https://web.archive.org/web/20200422125746/https://www.vice.com/en_us/article/m7qyev/time-is-meaningless-now originally retrieved Wed Apr 22 12:57:46 EDT 2020
+2021-01-05T16:28:28-05:00	Random link from the archives: "" https://web.archive.org/web/20180220121913/http://veekaybee.github.io/2018/02/19/creating-a-twitter-art-bot/ originally retrieved Tue Feb 20 12:19:13 EST 2018
+2021-01-05T17:15:28-05:00	What the new science of narcissism says about narcissists | Psyche Ideas https://psyche.co/ideas/what-the-new-science-of-narcissism-says-about-narcissists
+2021-01-05T17:17:15-05:00	Keeping Tabs on your Abstractions https://anildash.com/2021/01/03/keeping-tabs-on-your-abstractions/
+2021-01-05T19:16:53-05:00	life under capitalism isn't just a kusoge; it's a gatcha
+2021-01-05T20:28:40-05:00	Random link from the archives: "The div that look different in every browser" https://web.archive.org/web/20180709160626/https://codepen.io/MartijnCuppens/pen/MXojmw originally retrieved Mon Jul  9 16:06:26 EDT 2018
+2021-01-06T00:28:49-05:00	Random link from the archives: "Are you really Facebook’s product? The history of a dangerous idea." https://web.archive.org/web/20180430082320/https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html originally retrieved Mon Apr 30 08:23:20 EDT 2018
+2021-01-06T04:28:56-05:00	Random link from the archives: "Cambridge Analytica is bad, but Palantir is fucking terrifying | The Outline" https://web.archive.org/web/20180416100526/https://theoutline.com/post/3978/peter-thiel-knows-you-ran-that-red-light originally retrieved Mon Apr 16 10:05:26 EDT 2018
+2021-01-06T08:29:10-05:00	Random link from the archives: "Is deep brain stimulation for better health worth the risk? | Aeon Essays" https://web.archive.org/web/20190814094010/https://aeon.co/essays/is-deep-brain-stimulation-for-better-health-worth-the-risk originally retrieved Wed Aug 14 09:40:10 EDT 2019
+2021-01-06T10:34:43-05:00	i'm getting to the point where i basically have heartburn all the time and the only thing to do about it is overthrow capitalism
+2021-01-06T12:29:25-05:00	Random link from the archives: "How To Design A Comic Book Page - YouTube" https://web.archive.org/web/20171126140654/https://www.youtube.com/watch?v=1dQEfL2BfUM&t=335s originally retrieved Sun Nov 26 14:06:54 EST 2017
+2021-01-06T15:46:53-05:00	Band name of the day: hogbeing
+2021-01-06T16:29:35-05:00	Random link from the archives: "Alex Schroeder: 2018-01-10 Encrypted Gopher" https://web.archive.org/web/20180411135618/https://alexschroeder.ch/wiki/2018-01-10_Encrypted_Gopher originally retrieved Wed Apr 11 13:56:18 EDT 2018
+2021-01-06T16:52:18-05:00	Band name of the day: nightmall
+2021-01-06T17:40:44-05:00	Band name of the day: farce acceleration
+2021-01-06T17:41:34-05:00	ASAF (All States Are Failed)
+2021-01-06T18:56:13-05:00	What can we learn from the lunar pandemic that never was? | Aeon Essays https://aeon.co/essays/what-can-we-learn-from-the-lunar-pandemic-that-never-was
+2021-01-06T18:59:54-05:00	Why Was Flash Doomed to Fail? Usability, Usability, Usability https://tedium.co/2021/01/01/adobe-flash-demise-history/
+2021-01-06T20:29:44-05:00	Random link from the archives: " America Without Family, God, or Patriotism - The Atlantic" https://web.archive.org/web/20190909135924/https://www.theatlantic.com/ideas/archive/2019/09/america-without-family-god-or-patriotism/597382/ originally retrieved Mon Sep  9 13:59:24 EDT 2019
+2021-01-07T00:29:52-05:00	Random link from the archives: "" https://web.archive.org/web/20200613212550/https://medium.com/p/why-do-adult-adoptions-abound-in-japans-business-world-e89ad32e00d7 originally retrieved Sat Jun 13 21:25:50 EDT 2020
+2021-01-07T04:30:00-05:00	Random link from the archives: "The World Wide Web Sucks - YouTube" https://web.archive.org/web/20170615091919/https://www.youtube.com/watch?v=tefielQeHZY originally retrieved Thu Jun 15 09:19:19 EDT 2017
+2021-01-07T08:30:14-05:00	Random link from the archives: "Thieves of Experience: How Google and Facebook Corrupted Capitalism - Los Angeles Review of Books" https://web.archive.org/web/20190117075433/https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/ originally retrieved Thu Jan 17 07:54:33 EST 2019
+2021-01-07T10:04:07-05:00	Mind and ass must be yoked together. One cannot be freed without the other.
+2021-01-07T11:30:06-05:00	Communicating with Interactive Articles https://distill.pub/2020/communicating-with-interactive-articles/
+2021-01-07T11:31:34-05:00	Plaintext HTTP in a Modern World - joshua stein https://jcs.org/2021/01/06/plaintext
+2021-01-07T12:30:24-05:00	Random link from the archives: "Sofar, So Bad | Liz Pelly" https://web.archive.org/web/20191118084755/https://thebaffler.com/salvos/sofar-so-bad-pelly originally retrieved Mon Nov 18 08:47:55 EST 2019
+2021-01-07T16:30:40-05:00	Random link from the archives: "" https://web.archive.org/web/20180809095043/https://www.smithsonianmag.com/science-nature/how-cats-conquered-world-180963749/ originally retrieved Thu Aug  9 09:50:43 EDT 2018
+2021-01-07T17:11:34-05:00	Band name of the day: vaginal deathcrab
+2021-01-07T18:11:37-05:00	How Higurashi Scares Us - YouTube https://www.youtube.com/watch?v=X7PSdnu5Q5Q
+2021-01-07T20:30:58-05:00	Random link from the archives: "The Fish Rots From The Head" https://web.archive.org/web/20200319065433/https://aelkus.github.io/problem/2020/03/18/collective originally retrieved Thu Mar 19 06:54:33 EDT 2020
+2021-01-08T00:31:10-05:00	Random link from the archives: "" https://web.archive.org/web/20190606112644/https://www.uibot.app/ originally retrieved Thu Jun  6 11:26:44 EDT 2019
+2021-01-08T04:31:21-05:00	Random link from the archives: "" https://web.archive.org/web/20200926152230/https://medium.com/p/the-riemann-hypothesis-explained-fa01c1f75d3f originally retrieved Sat Sep 26 15:22:30 EDT 2020
+2021-01-08T08:31:38-05:00	Random link from the archives: "The Web That Wasn't - YouTube" https://web.archive.org/web/20181113053656/https://www.youtube.com/watch?v=72nfrhXroo8 originally retrieved Tue Nov 13 05:36:56 EST 2018
+2021-01-08T09:21:25-05:00	Police Need Help Identifying Famous QAnon Guy Named Jake Angeli From Arizona https://www.vice.com/en/article/v7my83/police-need-help-identifying-famous-qanon-guy-named-jake-angeli-from-arizona
+2021-01-08T12:31:49-05:00	Random link from the archives: "Cerebralab Blog" https://web.archive.org/web/20200129085210/https://blog.cerebralab.com/If_Van_der_Waals_was_a_neural_network originally retrieved Wed Jan 29 08:52:10 EST 2020
+2021-01-08T13:33:24-05:00	Band name of the day: werewolf break
+2021-01-08T13:34:13-05:00	Band name of the day: synthetic flesh
+2021-01-08T16:31:57-05:00	Random link from the archives: "Legacy, Chronicle &amp; Every Other Reimagining of The Craft - YouTube" https://web.archive.org/web/20201031112916/https://www.youtube.com/watch?v=FeFswrz_TCY originally retrieved Sat 31 Oct 2020 11:29:16 AM EDT
+2021-01-08T20:32:17-05:00	Random link from the archives: "IF Magazine : Free Texts : Download &amp; Streaming : Internet Archive" https://web.archive.org/web/20180406084912/https://archive.org/details/ifmagazine originally retrieved Fri Apr  6 08:49:12 EDT 2018
+2021-01-09T00:32:43-05:00	Random link from the archives: "Why I love the Addams Family - YouTube" https://web.archive.org/web/20201027194437/https://www.youtube.com/watch?v=rscjklQX-CU originally retrieved Tue 27 Oct 2020 07:44:37 PM EDT
+2021-01-09T04:33:09-05:00	Random link from the archives: "PRINCIPLES OF ANARCHITECTURE &#8211; ALIENIST MANIFESTO" https://web.archive.org/web/20181105103117/https://alienistmanifesto.wordpress.com/2018/04/20/principles-of-architecture/ originally retrieved Mon Nov  5 10:31:17 EST 2018
+2021-01-09T08:33:32-05:00	Random link from the archives: "Open Source Game Clones" https://web.archive.org/web/20190606132229/https://osgameclones.com/ originally retrieved Thu Jun  6 13:22:29 EDT 2019
+2021-01-09T11:28:53-05:00	Band name of the day: discount cenobite warehouse
+2021-01-09T11:33:19-05:00	Band name of the day: functional wound
+2021-01-09T13:18:32-05:00	stop romanticizing love
+2021-01-09T20:21:35-05:00	Random link from the archives: "An opinionated history of programming languages | artagnon.com" https://web.archive.org/web/20201004143947/https://artagnon.com/articles/pl originally retrieved Sun Oct  4 14:39:47 EDT 2020
+2021-01-09T20:38:27-05:00	End of Evangelion but it's 2020 - YouTube https://www.youtube.com/watch?v=lM0uDH1wfTA
+2021-01-09T20:39:09-05:00	The Smallest Windows PC in 1995 Was Also a Phone! IBM Palm Top PC110 - YouTube https://www.youtube.com/watch?v=D-v6kyEDCNo
+2021-01-09T20:41:15-05:00	The Boogaloo Boys: A meme that kills people. - YouTube https://www.youtube.com/watch?v=9TMBhcOca1g
+2021-01-09T20:41:56-05:00	Twin Peaks: The Return - re:View (Part 2) - YouTube https://www.youtube.com/watch?v=19xIhMVZ5g4
+2021-01-10T00:21:44-05:00	Random link from the archives: "" https://web.archive.org/web/20200307022534/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/if-you-arent-a-part-of-the-partner-program-then-your-posts-are-not-behind-the-paywall-because-eb1046073eb5 originally retrieved Sat Mar  7 02:25:34 EST 2020
+2021-01-10T04:21:54-05:00	Random link from the archives: "Melancholy and Exclusion: On Reading Kafka during the Pandemic - 3:AM Magazine" https://web.archive.org/web/20200818130306/https://www.3ammagazine.com/3am/melancholy-and-exclusion-on-reading-kafka-during-the-pandemic/ originally retrieved Tue Aug 18 13:03:06 EDT 2020
+2021-01-10T08:22:03-05:00	Random link from the archives: "YouTube" https://web.archive.org/web/20200629213902/https://www.youtube.com/watch?v=K4VLPThmBoI originally retrieved Mon Jun 29 21:39:02 EDT 2020
+2021-01-10T11:24:36-05:00	Band name of the day: thrilling stagger
+2021-01-10T11:45:43-05:00	Band name of the day: second-hand meatballs
+2021-01-10T11:48:13-05:00	Band name of the day: superhabitable
+2021-01-10T11:59:35-05:00	King Arthur’s Camelot Castle Is Now Ground Zero for Brit QAnon https://news.yahoo.com/king-arthur-camelot-castle-now-095812548.html
+2021-01-10T12:22:11-05:00	Random link from the archives: "Predictions About Life in 2029, Based on 2019" https://web.archive.org/web/20191113104049/http://nymag.com/intelligencer/2019/11/2029-predictions-based-on-2019.html originally retrieved Wed Nov 13 10:40:49 EST 2019
+2021-01-10T13:30:54-05:00	Inside ‘Mondo 2000,’ the cyberpunk magazine that gave us a glimpse of the utopian future that never was https://www.documentjournal.com/2021/01/inside-mondo-2000-the-cyberpunk-magazine-that-gave-us-a-glimpse-of-the-utopian-future-that-never-was/
+2021-01-10T13:40:19-05:00	This Is Not a Game " Real Life https://reallifemag.com/this-is-not-a-game/
+2021-01-10T13:51:03-05:00	Band name of the day: corrupted play
+2021-01-10T14:07:11-05:00	The Signifying Regime in the Shadow of the Sign of the Sign
+2021-01-10T14:09:51-05:00	Should Regular Computers Use ECC Memory, Too? https://tedium.co/2021/01/06/error-correcting-code-memory-history/
+2021-01-10T14:30:31-05:00	Band name of the day: hour society
+2021-01-10T15:10:46-05:00	Band name of the day: funereal world of terror
+2021-01-10T16:22:21-05:00	Random link from the archives: "Pavement's "Harness Your Hopes" And Spotify's Algorithm - Stereogum" https://web.archive.org/web/20201201091234/https://www.stereogum.com/2105993/pavement-harness-your-hopes-spotify/columns/sounding-board/ originally retrieved Tue 01 Dec 2020 09:12:34 AM EST
+2021-01-10T20:06:54-05:00	Band name of the day: world of soup
+2021-01-10T20:09:09-05:00	Band name of the day: megacolon
+2021-01-10T20:22:30-05:00	Random link from the archives: "Introduction to Affect Theory: Brian Massumi &amp; Eve Sedgwick - YouTube" https://web.archive.org/web/20190211082219/https://www.youtube.com/watch?v=SeMS8QEYIQU originally retrieved Mon Feb 11 08:22:19 EST 2019
+2021-01-11T00:22:39-05:00	Random link from the archives: "FOSS isn&#8217;t capitalism &#8211; Gullickson Laboratories" https://web.archive.org/web/20180625160201/https://jjg.2soc.net/2018/06/13/foss-isnt-capitalism/ originally retrieved Mon Jun 25 16:02:01 EDT 2018
+2021-01-11T04:22:48-05:00	Random link from the archives: "" https://web.archive.org/web/20201004132918/https://medium.com/p/signkit-learn-using-machine-learning-to-converse-with-a-bot-in-american-sign-language-e122ae8da1b8 originally retrieved Sun Oct  4 13:29:18 EDT 2020
+2021-01-11T08:22:57-05:00	Random link from the archives: "The History and Idea of Communism - YouTube" https://web.archive.org/web/20190615090810/https://www.youtube.com/watch?v=PSEyijhqkCw originally retrieved Sat Jun 15 09:08:10 EDT 2019
+2021-01-11T10:37:58-05:00	Fisher"Yates shuffle - Wikipedia https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
+2021-01-11T10:42:57-05:00	Jane Street Tech Blog - How to shuffle a big dataset  https://blog.janestreet.com/how-to-shuffle-a-big-dataset/
+2021-01-11T12:23:05-05:00	Random link from the archives: "" https://web.archive.org/web/20200614122802/https://medium.com/p/easy-japanese-gains-attention-after-typhoon-hagibis-unseen-japan-32526512c5f0 originally retrieved Sun Jun 14 12:28:02 EDT 2020
+2021-01-11T14:26:14-05:00	Band name of the day: the excluded
+2021-01-11T14:26:24-05:00	Band name of the day: the counterbody
+2021-01-11T14:26:35-05:00	Band name of the day: the eating of the name
+2021-01-11T15:46:09-05:00	dos capitol
+2021-01-11T15:58:42-05:00	Every Deleted Parler Post, Many With Users' Location Data, Has Been Archived https://gizmodo.com/every-deleted-parler-post-many-with-users-location-dat-1846032466
+2021-01-11T16:23:13-05:00	Random link from the archives: "The Cyberpunk Sensibility" https://web.archive.org/web/20191104094259/https://www.ribbonfarm.com/2016/10/27/the-cyberpunk-sensibility/ originally retrieved Mon Nov  4 09:42:59 EST 2019
+2021-01-11T17:16:13-05:00	Band name of the day: bureaucratic love delusion
+2021-01-11T18:53:50-05:00	Similar Minds | The Point Magazine https://thepointmag.com/criticism/similar-minds-kate-manne/
+2021-01-11T18:57:21-05:00	'His life is a rebuke to cynicism': what five years without David Bowie has taught us | David Bowie | The Guardian https://www.theguardian.com/music/2021/jan/08/what-five-years-without-david-bowie-has-taught-us
+2021-01-11T20:23:21-05:00	Random link from the archives: "GitHub - Lyrics/lyrics: Open Lyrics Database" https://web.archive.org/web/20190506121943/https://github.com/Lyrics/lyrics originally retrieved Mon May  6 12:19:43 EDT 2019
+2021-01-11T21:50:22-05:00	my balogna has a first name, but it is carefully kept secret. wizards who know the balogna's name can control the balogna, including that already ingested. it is very dangerous to traffic in names.
+2021-01-11T22:00:51-05:00	Thread by @LiteraryMouse on Thread Reader App " Thread Reader App https://threadreaderapp.com/thread/1347873482550468609.html
+2021-01-11T22:07:22-05:00	To heal emotional inflammation, let distress inspire change | Psyche Ideas https://psyche.co/ideas/to-heal-emotional-inflammation-make-distress-your-change-agent
+2021-01-11T22:09:28-05:00	Is the sublime a hopelessly old-fashioned Euro-Romantic ideal? | Psyche Ideas https://psyche.co/ideas/is-the-sublime-a-hopelessly-old-fashioned-euro-romantic-ideal
+2021-01-11T22:11:08-05:00	Sudden amnesia showed me the self is a convenient fiction | Psyche Ideas https://psyche.co/ideas/sudden-amnesia-showed-me-the-self-is-a-convenient-fiction
+2021-01-11T22:11:54-05:00	Trauma unmakes the world of the self. Can stories repair it? | Psyche Ideas https://psyche.co/ideas/trauma-unmakes-the-world-of-the-self-can-stories-repair-it
+2021-01-11T22:14:03-05:00	More Than a Feeling " Real Life https://reallifemag.com/more-than-a-feeling/
+2021-01-12T00:23:32-05:00	Random link from the archives: "Escaping the Default Future When Writing Science Fiction  |  Tor.com" https://web.archive.org/web/20180823122728/https://www.tor.com/2018/08/16/escaping-the-default-future-when-writing-science-fiction/ originally retrieved Thu Aug 23 12:27:28 EDT 2018
+2021-01-12T04:23:40-05:00	Random link from the archives: "" https://web.archive.org/web/20191205161031/http://www.textfiles.com/bitsavers/pdf/apollo/AEGIS_Overview_1985.pdf originally retrieved Thu Dec  5 16:10:31 EST 2019
+2021-01-12T08:23:55-05:00	Random link from the archives: "" https://web.archive.org/web/20200619042352/https://medium.com/p/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b originally retrieved Fri Jun 19 04:23:52 EDT 2020
+2021-01-12T10:42:44-05:00	Call Me Maybe - An Analysis & Defence http://sootyempiric.blogspot.com/2021/01/call-me-maybe-analysis-defence.html
+2021-01-12T10:45:55-05:00	How the Insurgent and MAGA Right are Being Welded Together on the Streets of Washington D.C. - bellingcat https://www.bellingcat.com/news/americas/2021/01/05/how-the-insurgent-and-maga-right-are-being-welded-together-on-the-streets-of-washington-d-c/
+2021-01-12T10:47:39-05:00	A Seat at the Table: The State of International Horror in 2020 | Features | Roger Ebert https://www.rogerebert.com/features/a-seat-at-the-table-the-state-of-international-horror-in-2020
+2021-01-12T10:51:08-05:00	PG: Psycho Goreman - OFFICIAL TRAILER - YouTube https://www.youtube.com/watch?v=L4tizc0IAVQ
+2021-01-12T10:57:40-05:00	GitHub - opennars/Narjure: A Clojure implementation of the Non-Axiomatic Reasoning System proposed by Pei Wang. https://github.com/opennars/Narjure
+2021-01-12T11:46:52-05:00	Who Did J.K. Rowling Become? https://www.vulture.com/amp/article/who-did-j-k-rowling-become.html
+2021-01-12T12:03:36-05:00	Cameras and Lenses " Bartosz Ciechanowski https://ciechanow.ski/cameras-and-lenses/
+2021-01-12T12:12:30-05:00	Race Consciousness: Fascism and Frank Herbert’s “Dune” - Los Angeles Review of Books https://www.lareviewofbooks.org/article/race-consciousness-fascism-and-frank-herberts-dune/
+2021-01-12T12:19:32-05:00	Forgotten Anime Spotlight: Key the Metal Idol | SYFY WIRE https://www.syfy.com/syfywire/forgotten-anime-spotlight-key-the-metal-idol
+2021-01-12T12:24:05-05:00	Random link from the archives: "" https://web.archive.org/web/20180919154204/https://medium.com/p/what-do-we-mean-by-evidence-based-journalism-3fd7113102d3 originally retrieved Wed Sep 19 15:42:04 EDT 2018
+2021-01-12T12:28:15-05:00	Post-Contemporary Literature: 2020s and Beyond https://www.precursorpoets.com/post-contemporary-literature/
+2021-01-12T12:30:43-05:00	You Must Have an Aim, by G.I. Gurdjieff | Parabola Essay https://parabola.org/2018/01/31/you-must-have-an-aim-by-g-i-gurdjieff/
+2021-01-12T12:31:34-05:00	The Mystery of the Immaculate Concussion | GQ https://www.gq.com/story/cia-investigation-and-russian-microwave-attacks
+2021-01-12T12:34:10-05:00	Four years since the Mirai-Dyn attack… is the Internet safer? https://techxplore.com/news/2020-10-years-mirai-dyn-internet-safer.html
+2021-01-12T13:17:59-05:00	Japan's most famous writer committed suicide after a failed coup attempt " now, new photos add more layers to the hau... https://theconversation.com/japans-most-famous-writer-committed-suicide-after-a-failed-coup-attempt-now-new-photos-add-more-layers-to-the-haunting-act-151903
+2021-01-12T13:32:19-05:00	Donald Trump’s Operation Mindfuck – Evergreen Review https://evergreenreview.com/read/donald-trumps-operation-mindfuck/
+2021-01-12T16:24:20-05:00	Random link from the archives: "A history of the Amiga, part 12: Red vs. Blue | Ars Technica" https://web.archive.org/web/20180329102437/https://arstechnica.com/gadgets/2018/03/a-history-of-the-amiga-part-12-red-vs-blue/ originally retrieved Thu Mar 29 10:24:37 EDT 2018
+2021-01-12T19:08:30-05:00	Band name of the day: european fungus library
+2021-01-12T19:21:35-05:00	What happens now? - Charlie's Diary http://www.antipope.org/charlie/blog-static/2021/01/what-happens-now.html
+2021-01-12T20:24:48-05:00	Random link from the archives: "" https://web.archive.org/web/20201007085947/https://medium.com/p/why-elon-musk-is-wrong-about-ai-a093b83ac99a originally retrieved Wed Oct  7 08:59:47 EDT 2020
+2021-01-13T00:25:14-05:00	Random link from the archives: "In Defense of the Elevator Scene from Evangelion - YouTube" https://web.archive.org/web/20181227170158/https://www.youtube.com/watch?v=jNLA_TxBvi8 originally retrieved Thu Dec 27 17:01:58 EST 2018
+2021-01-13T04:25:37-05:00	Random link from the archives: "An Open Source License That Requires Users to Do No Harm | WIRED" https://web.archive.org/web/20191014105827/https://www.wired.com/story/open-source-license-requires-users-do-no-harm/ originally retrieved Mon Oct 14 10:58:27 EDT 2019
+2021-01-13T08:25:59-05:00	Random link from the archives: "" https://web.archive.org/web/20200303182000/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/the-project-ended-up-getting-cancelled-before-i-finished-retraining-the-model-on-all-us-grants-so-6ad0dc2c6bc1 originally retrieved Tue Mar  3 18:20:00 EST 2020
+2021-01-13T10:47:06-05:00	Band name of the day: real subsumption II
+2021-01-13T12:26:11-05:00	Random link from the archives: "" https://web.archive.org/web/20200309203012/https://medium.com/@<enkiv2 http://www.lord-enki.net/twtxt.txt>/john-higgs-in-his-history-stranger-than-we-can-imagine-makes-the-argument-that-unintelligability-61c4980b4286 originally retrieved Mon Mar  9 20:30:12 EDT 2020
+2021-01-13T16:26:19-05:00	Random link from the archives: "ALITA: BATTLE ANGEL (Escape to the Movies) - YouTube" https://web.archive.org/web/20190222194918/https://www.youtube.com/watch?v=8PNDmUO760w originally retrieved Fri Feb 22 19:49:18 EST 2019
+2021-01-13T18:13:46-05:00	You Can Now Easily Download All CIA UFO Documents to Date https://www.vice.com/en/article/pkdqjy/you-can-now-easily-download-all-cia-ufo-documents-to-date
+2021-01-13T20:26:28-05:00	Random link from the archives: "Control, Anatomy, and the Legacy of the Haunted House - YouTube" https://web.archive.org/web/20190906201926/https://www.youtube.com/watch?v=mexs39y0Imw originally retrieved Fri Sep  6 20:19:26 EDT 2019
+2021-01-14T00:26:37-05:00	Random link from the archives: "Extended Director’s Cut: Ted Nelson on Hypertext, Douglas Englebart, Xanadu and More - YouTube" https://web.archive.org/web/20180214184930/https://www.youtube.com/watch?v=i67rQdHuO-8 originally retrieved Wed Feb 14 18:49:30 EST 2018
+2021-01-14T04:26:47-05:00	Random link from the archives: "" https://web.archive.org/web/20200923143326/https://medium.com/p/the-world-is-on-a-collision-course-with-itself-e6f16ac1e8f originally retrieved Wed Sep 23 14:33:26 EDT 2020
+2021-01-14T08:27:01-05:00	Random link from the archives: "" https://web.archive.org/web/20200923060514/https://medium.com/p/i-used-gmail-auto-complete-and-now-i-know-im-worthless-6eddafd4142a originally retrieved Wed Sep 23 06:05:14 EDT 2020
+2021-01-14T12:23:33-05:00	Psychedelic Mushrooms Grew in a Man's Veins After He Injected Them https://gizmodo.com/psychedelic-mushrooms-grew-in-a-mans-veins-after-he-inj-1846044856
+2021-01-14T12:27:13-05:00	Random link from the archives: "" https://web.archive.org/web/20200923062819/https://medium.com/p/the-frantic-unprecedented-race-to-save-700-000-nsfw-tumblrs-for-posterity-ad03955dd231 originally retrieved Wed Sep 23 06:28:19 EDT 2020
+2021-01-14T12:28:59-05:00	The Hacker Who Archived Parler Explains How She Did It (and What Comes Next) https://www.vice.com/en/article/n7vqew/the-hacker-who-archived-parler-explains-how-she-did-it-and-what-comes-next
+2021-01-14T16:27:22-05:00	Random link from the archives: "Diminishing Returns — Real Life" https://web.archive.org/web/20171109082630/http://reallifemag.com/diminishing-returns/ originally retrieved Thu Nov  9 08:26:30 EST 2017
+2021-01-14T20:27:42-05:00	Random link from the archives: "Why Everyone Is Hating on IBM Watson—Including the People Who Helped Make It" https://web.archive.org/web/20170814130454/https://gizmodo.com/why-everyone-is-hating-on-watson-including-the-people-w-1797510888?utm_source=digg&utm_medium=email originally retrieved Mon Aug 14 13:04:54 EDT 2017
+2021-01-15T00:27:56-05:00	Random link from the archives: "" https://web.archive.org/web/20201003224938/https://medium.com/p/exploring-the-linguistics-behind-regular-expressions-596fab41146 originally retrieved Sat Oct  3 22:49:38 EDT 2020
+2021-01-15T04:28:05-05:00	Random link from the archives: "On Emergent Centralization &middot; Field Notes" https://web.archive.org/web/20180904101737/https://fieldnotes.resistant.tech/defensive-decentralization/ originally retrieved Tue Sep  4 10:17:37 EDT 2018
+2021-01-15T08:28:21-05:00	Random link from the archives: "" https://web.archive.org/web/20200929094130/https://medium.com/p/teens-are-flocking-to-youtube-to-study-7d09cb4b7293 originally retrieved Tue Sep 29 09:41:30 EDT 2020
+2021-01-15T12:03:01-05:00	CIA waker agents
+2021-01-15T12:15:06-05:00	The studio turning online teen fiction into Hollywood hits - The Verge https://www.theverge.com/2021/1/14/22215052/wattpad-authors-fanfiction-netflix-hulu-streaming-movies-romcom-teen-drama
+2021-01-15T12:19:40-05:00	Infovore » Towards a canon of “hypertext literature / interactive fiction / digital narrative” https://infovore.org/archives/2013/01/09/towards-a-canon-of-hypertext-literature-interactive-fiction-digital-narrative/
+2021-01-15T12:28:33-05:00	Random link from the archives: "It’s Time to Study AI on Its Own Terms" https://web.archive.org/web/20190429120942/http://nautil.us/issue/58/self/machine-behavior-needs-to-be-an-academic-discipline originally retrieved Mon Apr 29 12:09:42 EDT 2019
+2021-01-15T14:27:01-05:00	Band name of the day: lizard sex sattelite
+2021-01-15T14:27:43-05:00	Leave No Trace - Believer Magazine https://believermag.com/leave-no-trace/
+2021-01-15T16:28:43-05:00	Random link from the archives: "" https://web.archive.org/web/20201004191643/https://medium.com/p/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b originally retrieved Sun Oct  4 19:16:43 EDT 2020
+2021-01-15T20:28:54-05:00	Random link from the archives: "The First Church of Space Jesus: Unpatched exploits in the human biocomputer" https://web.archive.org/web/20200417170828/http://firstchurchofspacejesus.blogspot.com/2011/01/unpatched-exploits-in-human-biocomputer.html originally retrieved Fri Apr 17 17:08:28 EDT 2020
+2021-01-15T22:35:11-05:00	it's weird that the art in Higurashi Gou isn't actually that much better than Deen's version from 15 years ago...
+2021-01-16T00:29:09-05:00	Random link from the archives: "The cost of complete lead cleanup in the United States - Vox" https://web.archive.org/web/20190618130608/https://www.vox.com/policy-and-politics/2019/6/12/18661193/lead-pipes-paint-flint-michigan-usa-cost-fix?mc_cid=606462ce5e originally retrieved Tue Jun 18 13:06:08 EDT 2019
+2021-01-16T04:29:23-05:00	Random link from the archives: "Zarf Updates: What is ZIL anyway?" https://web.archive.org/web/20190419122333/http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html originally retrieved Fri Apr 19 12:23:33 EDT 2019
+2021-01-16T08:29:42-05:00	Random link from the archives: "" https://web.archive.org/web/20200613214856/https://medium.com/p/how-to-talk-to-a-rando-c12b75521c46 originally retrieved Sat Jun 13 21:48:56 EDT 2020
+2021-01-16T12:30:04-05:00	Random link from the archives: "An Anarchist Critique of Democracy" https://web.archive.org/web/20180731083741/https://libcom.org/library/anarchist-critique-democracy originally retrieved Tue Jul 31 08:37:41 EDT 2018
+2021-01-16T16:30:26-05:00	Random link from the archives: " Robert Macfarlane’s Underland: Review - The Atlantic" https://web.archive.org/web/20190723131939/https://www.theatlantic.com/magazine/archive/2019/07/robert-macfarlane-underland/590632/ originally retrieved Tue Jul 23 13:19:39 EDT 2019
+2021-01-16T20:30:45-05:00	Random link from the archives: "Voluntary Human Extinction Movement - Wikipedia" https://web.archive.org/web/20181203184117/https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement originally retrieved Mon Dec  3 18:41:17 EST 2018
+2021-01-17T00:31:03-05:00	Random link from the archives: "" https://web.archive.org/web/20200616031907/https://medium.com/p/build-tools-that-assist-not-mediate-6dad41547d19 originally retrieved Tue Jun 16 03:19:07 EDT 2020
+2021-01-17T04:31:21-05:00	Random link from the archives: "GitHub - paulfitz/mlsql: inferring sql queries from plain-text questions about tables" https://web.archive.org/web/20190607135236/https://github.com/paulfitz/mlsql originally retrieved Fri Jun  7 13:52:36 EDT 2019
+2021-01-17T08:31:43-05:00	Random link from the archives: "" https://web.archive.org/web/20180105102135/https://tedium.co/2018/01/04/internet-free-net-history originally retrieved Fri Jan  5 10:21:35 EST 2018
+2021-01-17T12:32:16-05:00	Random link from the archives: "OpenAI Trains Language Model, Mass Hysteria Ensues &#8211; Approximately Correct" https://web.archive.org/web/20190219095802/http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/ originally retrieved Tue Feb 19 09:58:02 EST 2019
+2021-01-17T16:32:41-05:00	Random link from the archives: "What the idea of civilisational ‘collapse’ says about history | Aeon Essays" https://web.archive.org/web/20171116105609/https://aeon.co/essays/what-the-idea-of-civilisational-collapse-says-about-history originally retrieved Thu Nov 16 10:56:09 EST 2017
+2021-01-17T19:05:32-05:00	301 Moved Permanently http://people.well.com/conf/inkwell.vue/topics/510/State-of-the-World-2021-page02.html#post36
+2021-01-17T19:21:12-05:00	melbi zei lojban https://la-lojban.github.io/melbi-zei-lojban/
+2021-01-17T20:33:04-05:00	Random link from the archives: "Drinking Mezcal With The Dead: Celebrating Día de los Muertos  |  Tor.com" https://web.archive.org/web/20191101134909/https://www.tor.com/2019/10/31/drinking-mezcal-with-the-dead-celebrating-dia-de-los-muertos/ originally retrieved Fri Nov  1 13:49:09 EDT 2019
+2021-01-18T00:33:18-05:00	Random link from the archives: "SF Book Review Index by Author | Science Fiction and Other Suspect Ruminations" https://web.archive.org/web/20200115103657/https://sciencefictionruminations.com/science-fiction-book-reviews-by-author/ originally retrieved Wed Jan 15 10:36:57 EST 2020
+2021-01-18T04:33:29-05:00	Random link from the archives: "We aren’t really in control so why worry about neurointerventions? | Aeon Ideas" https://web.archive.org/web/20190318092628/https://aeon.co/ideas/we-arent-really-in-control-so-why-worry-about-neurointerventions originally retrieved Mon Mar 18 09:26:28 EDT 2019
+2021-01-18T08:33:38-05:00	Random link from the archives: "" https://web.archive.org/web/20201001063048/https://medium.com/p/the-beam-needs-an-apl-y-language-6c5c998ba6d originally retrieved Thu Oct  1 06:30:48 EDT 2020
+2021-01-18T12:33:48-05:00	Random link from the archives: "Women speak out about Warren Ellis: 'Full and informed consent was impossible' | Books | The Guardian" https://web.archive.org/web/20200713103223/https://www.theguardian.com/books/2020/jul/13/women-speak-out-about-warren-ellis-transmetropolitan originally retrieved Mon Jul 13 10:32:23 EDT 2020
+2021-01-18T16:33:58-05:00	Random link from the archives: "Hyperpartisanship could destroy US democracy. - Vox" https://web.archive.org/web/20170907092441/https://www.vox.com/the-big-idea/2017/9/5/16227700/hyperpartisanship-identity-american-democracy-problems-solutions-doom-loop originally retrieved Thu Sep  7 09:24:41 EDT 2017
+2021-01-18T20:34:17-05:00	Random link from the archives: "" https://web.archive.org/web/20200312211908/https://medium.com/p/on-scraping-mastodon-dffd83139bc1 originally retrieved Thu Mar 12 21:19:08 EDT 2020
+2021-01-19T00:34:37-05:00	Random link from the archives: "302 Found" https://web.archive.org/web/20180620103712/https://worldwritable.com/https-worldwritable-com-natural-language-processing-for-programmers-world-models-b01943959830 originally retrieved Wed Jun 20 10:37:12 EDT 2018
+2021-01-19T04:34:53-05:00	Random link from the archives: "" https://web.archive.org/web/20190513125348/https://ryanfrantz.com/posts/failure-is-familiar-safety-is-surprising.html originally retrieved Mon May 13 12:53:48 EDT 2019
+2021-01-19T07:53:08-05:00	night of the living rooms
+2021-01-19T08:26:06-05:00	Covid on Mars - Charlie's Diary http://www.antipope.org/charlie/blog-static/2021/01/covid-on-mars.html
+2021-01-19T08:35:04-05:00	Random link from the archives: "Insights in Recent Hugo Data | Jake Chanenson" https://web.archive.org/web/20200827134032/https://jakec007.github.io/2020-09-01-insights-in-recent-hugo-data/ originally retrieved Thu Aug 27 13:40:32 EDT 2020
+2021-01-19T08:52:20-05:00	No Man’s Sky: Through A Screen, Dully – GlitchOut https://glitchout.game.blog/2020/12/07/no-mans-sky-through-a-screen-dully/
+2021-01-19T08:53:54-05:00	Boilerplate Advice https://www.ribbonfarm.com/2021/01/06/boilerplate-advice/
+2021-01-19T08:55:40-05:00	“Jootsing”: The Key to Creativity https://fs.blog/2021/01/jootsing/
+2021-01-19T08:59:42-05:00	In Japan, You Can Rent a Person To Do Nothing https://www.vice.com/en/article/v7mp8m/japan-unique-jobs-rent-person-do-nothing-shoji-morimoto
+2021-01-19T09:04:26-05:00	Total Life Reform | Political Research Associates https://www.politicalresearch.org/2020/11/09/total-life-reform
+2021-01-19T09:15:24-05:00	Center for a Stateless Society  » The Implications of Institutional Limits in a Complex World https://c4ss.org/content/53039
+2021-01-19T09:22:51-05:00	Band name of the day: total paranoia total awareness
+2021-01-19T09:28:16-05:00	Band name of the day: the violent nihilists
+2021-01-19T09:51:36-05:00	Band name of the day: the meat circuit
+2021-01-19T11:51:26-05:00	anime fansubs 2000 to 2010 «   Blog Archive « blog好き http://blogsuki.com/archives/2016/03/06/7053/
+2021-01-19T12:35:24-05:00	Random link from the archives: "How Marketing and Lobbying Built Thanksgiving Traditions" https://web.archive.org/web/20181123161200/https://tedium.co/2018/11/20/thanksgiving-history-corporate-roots/ originally retrieved Fri Nov 23 16:12:00 EST 2018
+2021-01-19T16:35:48-05:00	Random link from the archives: "" https://web.archive.org/web/20201011001742/https://medium.com/p/myth-is-our-mirror-26fceb559515 originally retrieved Sun Oct 11 00:17:42 EDT 2020
+2021-01-19T20:36:10-05:00	Random link from the archives: "YouTube" https://web.archive.org/web/20200629213902/https://www.youtube.com/watch?v=K4VLPThmBoI originally retrieved Mon Jun 29 21:39:02 EDT 2020
+2021-01-20T00:36:33-05:00	Random link from the archives: "Rejects from Tom's Ideas Board: The Early Years - YouTube" https://web.archive.org/web/20190626173056/https://www.youtube.com/watch?v=SborjlpiYtQ originally retrieved Wed Jun 26 17:30:56 EDT 2019
+2021-01-20T04:36:58-05:00	Random link from the archives: "The Biggest Psychological Experiment in History Is Running Now - Scientific American" https://web.archive.org/web/20200625134751/https://www.scientificamerican.com/interactive/the-biggest-psychological-experiment-in-history-is-running-now/ originally retrieved Thu Jun 25 13:47:51 EDT 2020
+2021-01-20T08:37:21-05:00	Random link from the archives: "" https://web.archive.org/web/20191012123111/https://medium.com/p/rant-the-shell-terminal-4f45bb29dac8 originally retrieved Sat Oct 12 12:31:11 EDT 2019
+2021-01-20T12:37:44-05:00	Random link from the archives: "90s CyberCafe Enamel Pin Set by Mary Safro &mdash; Kickstarter" https://web.archive.org/web/20190910100605/https://www.kickstarter.com/projects/cryoclaire/90s-cybercafe-enamel-pin-set originally retrieved Tue Sep 10 10:06:05 EDT 2019
+2021-01-20T16:38:06-05:00	Random link from the archives: "The cuteness of white noise" https://web.archive.org/web/20190927134045/http://writings.laurel.world/the-cuteness-of-white-noise/ originally retrieved Fri Sep 27 13:40:45 EDT 2019
+2021-01-20T19:50:53-05:00	Band name of the day: overcome by death
+2021-01-20T20:38:23-05:00	Random link from the archives: "BoJack Horseman: Being Human by Being Animal - YouTube" https://web.archive.org/web/20200416171101/https://www.youtube.com/watch?v=oG058g3f8Ik originally retrieved Thu Apr 16 17:11:01 EDT 2020
+2021-01-21T00:38:43-05:00	Random link from the archives: "Room 101: Bits of History, Words of Advice" https://web.archive.org/web/20200526102356/https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html originally retrieved Tue May 26 10:23:56 EDT 2020
+2021-01-21T04:39:06-05:00	Random link from the archives: "" https://web.archive.org/web/20181001155706/https://medium.com/p/the-big-lie-of-the-google-anti-diversity-manifesto-a-penis-makes-you-better-at-javascript-55ec8f894b78 originally retrieved Mon Oct  1 15:57:06 EDT 2018
+2021-01-21T08:39:28-05:00	Random link from the archives: "Loper OS &raquo; Why Hypercard Had to Die" https://web.archive.org/web/20180419112527/http://www.loper-os.org/?p=568 originally retrieved Thu Apr 19 11:25:27 EDT 2018
+2021-01-21T12:13:48-05:00	Band name of the day: infectious corpse
+2021-01-21T12:16:58-05:00	C++ Shanty | MeFi Music https://music.metafilter.com/8958/C-Shanty
+2021-01-21T12:17:56-05:00	Never been seen - Science Museum Group https://www.sciencemuseumgroup.org.uk/blog/never-been-seen/
+2021-01-21T12:36:03-05:00	Doxxing rioters leaves extremism researchers divided - Protocol " The people, power and politics of tech https://www.protocol.com/doxxing-capitol-rioters#toggle-gdpr
+2021-01-21T12:39:47-05:00	Random link from the archives: "Unflattening Hobbes" https://web.archive.org/web/20181209175603/https://www.ribbonfarm.com/2018/10/18/unflattening-hobbes/ originally retrieved Sun Dec  9 17:56:03 EST 2018
+2021-01-21T12:55:55-05:00	[2101.06535] Dissecting the Meme Magic: Understanding Indicators of Virality in Image Memes https://arxiv.org/abs/2101.06535
+2021-01-21T12:56:57-05:00	Duracell PowerCheck History: An Energizer of a Battery Patent Battle https://tedium.co/2021/01/20/on-battery-power-meter-history/
+2021-01-21T13:21:25-05:00	Bernie Is a Meme Because He’s Alone in the Swamp https://melmagazine.com/en-us/story/bernie-is-a-meme-because-hes-alone-in-the-swamp
+2021-01-21T13:26:37-05:00	‘My Way’ Has Always Been the Anthem of Despicable Men https://melmagazine.com/en-us/story/my-way-has-always-been-the-anthem-of-despicable-men
+2021-01-21T13:41:24-05:00	Sea shanties like the Wellerman are trending on TikTok - Vox https://www.vox.com/the-goods/2021/1/19/22233525/sea-shanty-tiktok-wellerman-song
+2021-01-21T13:42:24-05:00	Deleuze’s Body Without Organs Explained to Children — The Turnip Truck(s) http://www.theturnips.net/body/2018/4/22/deleuzes-body-without-organs-explained-to-children
+2021-01-21T16:40:04-05:00	Random link from the archives: "" https://web.archive.org/web/20201005234804/https://medium.com/p/your-data-is-being-manipulated-a7e31a83577b originally retrieved Mon Oct  5 23:48:04 EDT 2020
+2021-01-21T20:40:27-05:00	Random link from the archives: "The Messy Truth About Infiltrating Computer Supply Chains" https://web.archive.org/web/20190129120231/https://theintercept.com/2019/01/24/computer-supply-chain-attacks/ originally retrieved Tue Jan 29 12:02:31 EST 2019
+2021-01-21T21:50:35-05:00	children implies the existence of childstimpy
+2021-01-21T22:02:03-05:00	Nostalgia for Network Effects https://www.ribbonfarm.com/2021/01/21/nostalgia-for-network-effects/
+2021-01-21T22:02:10-05:00	Band name of the day: muscular backlash technician
+2021-01-22T00:40:50-05:00	Random link from the archives: "MathFiction : Alex Recommends..." https://web.archive.org/web/20190730123949/http://kasmana.people.cofc.edu/MATHFICT/readinglists.php originally retrieved Tue Jul 30 12:39:49 EDT 2019
+2021-01-22T04:41:13-05:00	Random link from the archives: "How yuppies hacked the original hacker ethos | Aeon Essays" https://web.archive.org/web/20180703075705/https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos originally retrieved Tue Jul  3 07:57:05 EDT 2018
+2021-01-22T08:41:36-05:00	Random link from the archives: "Kevlin Henney - Procedural Programming: It&#39;s Back? It Never Went Away - YouTube" https://web.archive.org/web/20180514144221/https://www.youtube.com/watch?v=otAcmD6XEEE originally retrieved Mon May 14 14:42:21 EDT 2018
+2021-01-22T11:36:49-05:00	no gas no brakes -- just rollin downhill
+2021-01-22T12:42:00-05:00	Random link from the archives: "" https://web.archive.org/web/20190211115605/https://www.vulture.com/2019/02/the-matrix-keanu-reeves-invented-a-new-kind-of-action-star.html originally retrieved Mon Feb 11 11:56:05 EST 2019
+2021-01-22T16:32:52-05:00	Please Stop Calling Things Archives |  https://www.historians.org/publications-and-directories/perspectives-on-history/january-2021/please-stop-calling-things-archives-an-archivists-plea
+2021-01-22T16:38:22-05:00	Band name of the day: the fear survey
+2021-01-22T18:25:25-05:00	order dungeons & chaos dragons
+2021-01-22T20:42:27-05:00	Random link from the archives: "Amazon&#039;s Mechanical Turk has Reinvented Research | JSTOR Daily" https://web.archive.org/web/20180515111815/https://daily.jstor.org/amazons-mechanical-turk-has-reinvented-research/ originally retrieved Tue May 15 11:18:15 EDT 2018
+2021-01-23T00:42:47-05:00	Random link from the archives: "Nmesh - Welcome To Warp Zone (Smash TV Trailer 2) - YouTube" https://web.archive.org/web/20191005203618/https://www.youtube.com/watch?v=KcU6eAZV474 originally retrieved Sat Oct  5 20:36:18 EDT 2019
+2021-01-23T04:43:05-05:00	Random link from the archives: "YouTube" https://web.archive.org/web/20200628153631/https://www.youtube.com/watch?v=Bat38vErWr4 originally retrieved Sun Jun 28 15:36:31 EDT 2020
+2021-01-23T08:43:25-05:00	Random link from the archives: "Welcome to AirSpace | The Verge" https://web.archive.org/web/20171025090424/https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification originally retrieved Wed Oct 25 09:04:24 EDT 2017
+2021-01-23T12:43:47-05:00	Random link from the archives: "" https://web.archive.org/web/20180220121913/http://veekaybee.github.io/2018/02/19/creating-a-twitter-art-bot/ originally retrieved Tue Feb 20 12:19:13 EST 2018
+2021-01-23T13:39:37-05:00	Random link from the archives: "Coronavirus Will Change the World Permanently. Here&rsquo;s How. - POLITICO" https://web.archive.org/web/20200320120231/https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579 originally retrieved Fri Mar 20 12:02:31 EDT 2020
+2021-01-23T17:39:49-05:00	Random link from the archives: "Picat" https://web.archive.org/web/20190130095732/http://picat-lang.org/ originally retrieved Wed Jan 30 09:57:32 EST 2019
+2021-01-23T21:39:56-05:00	Random link from the archives: "" https://web.archive.org/web/20200210104115/https://newrepublic.com/article/156024/degrowth-movement-cerbere-can-decreix-commune originally retrieved Mon Feb 10 10:41:15 EST 2020
+2021-01-24T01:40:05-05:00	Random link from the archives: "Deny and become: the radical ethos of negative capability | Aeon Essays" https://web.archive.org/web/20181107102111/https://aeon.co/essays/deny-and-become-the-radical-ethos-of-negative-capability originally retrieved Wed Nov  7 10:21:11 EST 2018
+2021-01-24T05:40:13-05:00	Random link from the archives: "" https://web.archive.org/web/20201009050418/https://medium.com/p/our-problem-isnt-fake-news-our-problems-are-trust-and-manipulation-5bfbcd716440 originally retrieved Fri Oct  9 05:04:18 EDT 2020
+2021-01-24T09:40:25-05:00	Random link from the archives: "" https://web.archive.org/web/20180918234128/https://medium.com/p/infrastructure-is-beautiful-cb0daa1aa76b originally retrieved Tue Sep 18 23:41:28 EDT 2018
+2021-01-24T11:50:20-05:00	why does minecraft even have combat? it's called minecraft, not strafewhack
+2021-01-24T13:40:33-05:00	Random link from the archives: "" https://web.archive.org/web/20190827063640/https://medium.com/p/on-post-modernism-cdbebe4b6dcd originally retrieved Tue Aug 27 06:36:40 EDT 2019
+2021-01-24T15:41:36-05:00	Metaculus https://www.metaculus.com/questions/
+2021-01-24T17:40:40-05:00	Random link from the archives: "" https://web.archive.org/web/20171128065434/https://sites.google.com/view/11khands originally retrieved Tue Nov 28 06:54:34 EST 2017
+2021-01-24T21:40:49-05:00	Random link from the archives: "The Definitive UFO Tape" https://web.archive.org/web/20200829194442/https://www.asktmk.com/talks/The+Definitive+UFO+Tape originally retrieved Sat Aug 29 19:44:42 EDT 2020
+2021-01-24T21:41:39-05:00	Bad News https://www.getbadnews.com/#intro
+2021-01-24T21:49:35-05:00	The Quietus | Features | Anniversary | Exploring Notions Of Decadence: Bowie's Station To Station, 45 Years On https://thequietus.com/articles/05047-david-bowie-station-to-station-review-anniversary
+2021-01-25T01:40:56-05:00	Random link from the archives: ":: Grey Lodge Occult Review :: Archives ::" https://web.archive.org/web/20190606100904/https://web.archive.org/web/20071012023520/https://www.greylodge.org/occultreview/idxs/completeidx.html originally retrieved Thu Jun  6 10:09:04 EDT 2019
+2021-01-25T05:41:04-05:00	Random link from the archives: "" https://web.archive.org/web/20200308173237/https://medium.com/p/theories-of-civilisation-25dbde39cc85 originally retrieved Sun Mar  8 17:32:37 EDT 2020
+2021-01-25T08:03:46-05:00	GitHub - sirnewton01/ghfs: 9p GitHub filesystem written in Go for use with Plan 9/p9p https://github.com/sirnewton01/ghfs
+2021-01-25T08:05:11-05:00	Halt and Catch Fire Syllabus - Halt and Catch Fire Syllabus https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/
+2021-01-25T09:41:12-05:00	Random link from the archives: "" https://web.archive.org/web/20200315213733/https://medium.com/p/preventing-the-death-of-the-dataframe-8bca1c0f83c8 originally retrieved Sun Mar 15 21:37:33 EDT 2020
+2021-01-25T09:58:04-05:00	双曲番 https://sokyokuban.com/
+2021-01-25T09:59:37-05:00	Everyone Talks About Insecure Randomness, But Nobody Does Anything About It https://www.airza.net/2020/11/09/everyone-talks-about-insecure-randomness-but-nobody-does-anything-about-it.html
+2021-01-25T10:24:31-05:00	Capitalism, Magick and the Law of Thelema https://thelemicunion.com/capitalism-magick-law-thelema/
+2021-01-25T10:24:59-05:00	Freud's "Instincts and their Vicissitudes" (1915) Summary https://listed.to/@simpolism/20745/freud-s-instincts-and-their-vicissitudes-1915-summary
+2021-01-25T13:41:20-05:00	Random link from the archives: "" https://web.archive.org/web/20200924005709/https://medium.com/p/paper-summary-synthesizing-robust-adversarial-examples-e01fb5b9a4a1 originally retrieved Thu Sep 24 00:57:09 EDT 2020
+2021-01-25T17:41:34-05:00	Random link from the archives: "" https://web.archive.org/web/20171231091636/http://worrydream.com/2017-12-30-alan/ originally retrieved Sun Dec 31 09:16:36 EST 2017
+2021-01-25T21:41:56-05:00	Random link from the archives: "" https://web.archive.org/web/20200919021653/https://medium.com/p/i-chatted-with-a-therapy-bot-to-ease-my-covid-fears-it-was-bizarre-ccd908264660 originally retrieved Sat Sep 19 02:16:53 EDT 2020
+2021-01-26T01:42:24-05:00	Random link from the archives: "Flip Flappers: The End of Psychosexuality - YouTube" https://web.archive.org/web/20190906194629/https://www.youtube.com/watch?v=yXVqNrEiqEo originally retrieved Fri Sep  6 19:46:29 EDT 2019
+2021-01-26T05:43:12-05:00	Random link from the archives: "Fear in the Furrows - BBC Sounds" https://web.archive.org/web/20200512153024/https://www.bbc.co.uk/sounds/play/m0009t4q?fbclid=IwAR0YgLHxV_06UGtGu1nf7pkhwsJdMKA_n6LmcsCiE6Q_P7Qif4Qmw0v69rk originally retrieved Tue May 12 15:30:24 EDT 2020
+2021-01-26T09:43:22-05:00	Random link from the archives: "The Women Who Knew Too Much | Niela Orr" https://web.archive.org/web/20190709104150/https://thebaffler.com/salvos/the-women-who-knew-too-much-orr originally retrieved Tue Jul  9 10:41:50 EDT 2019
+2021-01-26T10:30:34-05:00	Playing Games: Notes on Culture of Narcissism https://listed.to/@simpolism/20842/playing-games-notes-on-culture-of-narcissism
+2021-01-26T12:52:00-05:00	who else identified with dedalus as a kid?
+2021-01-26T13:43:35-05:00	Random link from the archives: "What Everyone Needs to Know about Russia Under Putin - FPRI&#39;s 2018 Champagne Brunch for Partners - YouTube" https://web.archive.org/web/20180514122349/https://www.youtube.com/watch?v=RnWp_kr4tfc originally retrieved Mon May 14 12:23:49 EDT 2018
+2021-01-26T17:43:44-05:00	Random link from the archives: "Think Again" https://web.archive.org/web/20180328090620/https://thinkagain.ought.org/ originally retrieved Wed Mar 28 09:06:20 EDT 2018
+2021-01-26T21:43:58-05:00	Random link from the archives: "gift game by Everest Pipkin" https://web.archive.org/web/20200226111637/https://everestpipkin.itch.io/gift-game originally retrieved Wed Feb 26 11:16:37 EST 2020
+2021-01-27T01:44:11-05:00	Random link from the archives: "AI Weirdness &bull; Court cases that sound like the weirdest fights" https://web.archive.org/web/20200401135520/https://aiweirdness.com/post/612669075940900864/court-cases-that-sound-like-the-weirdest-fights originally retrieved Wed Apr  1 13:55:20 EDT 2020
+2021-01-27T05:44:23-05:00	Random link from the archives: "" https://web.archive.org/web/20200611222914/https://medium.com/p/america-is-about-to-witness-the-biggest-labor-movement-its-seen-in-decades-3aa47f0edf52 originally retrieved Thu Jun 11 22:29:14 EDT 2020
+2021-01-27T09:44:34-05:00	Random link from the archives: "" https://web.archive.org/web/20200618121447/https://medium.com/p/hacker-video-games-are-experiencing-a-renaissance-eac333cf1ea2 originally retrieved Thu Jun 18 12:14:47 EDT 2020
+2021-01-27T11:58:13-05:00	How Reddit and WallStreetBets blew up GameStop’s stock - Vox https://www.vox.com/the-goods/22249458/gamestop-stock-wallstreetbets-reddit-citron
+2021-01-27T13:44:45-05:00	Random link from the archives: "Real Fantasy" https://web.archive.org/web/20191011124519/https://realfantasy.zone/ originally retrieved Fri Oct 11 12:45:19 EDT 2019
+2021-01-27T14:33:54-05:00	Information Society is like if KMFDM wrote nothing but breakup songs and critiques of capitalism, and I think that's maybe why they jam so hard. I like my bangers cheesy because it gives me requisite distance from my own reflected feelings.
+2021-01-27T14:51:41-05:00	how long until Arby's renames itself Blockchain GameStart Inc, gets billions in investment from Elon Musk and Paul Graham, and then completely crashes within 4 hours as a clip is leaked of the CEO repeatedly shouting the n-word while visibly experiencing diarheea on an all-hands zoom meeting he inexplicably decided to take from his gold-plated toilet?
+2021-01-27T16:41:56-05:00	How r/WallStreetBets gamed the stock of GameStop  - The Verge https://www.theverge.com/22251427/reddit-gamestop-stock-short-wallstreetbets-robinhood-wall-street
+2021-01-27T16:45:24-05:00	Band name of the day: cemetery birdwatch
+2021-01-27T17:45:10-05:00	Random link from the archives: "ArtStation - Tim Razumovsky" https://web.archive.org/web/20190106100627/https://www.artstation.com/timrazumovsky originally retrieved Sun Jan  6 10:06:27 EST 2019
+2021-01-27T21:45:34-05:00	Random link from the archives: "Vurt (Core Rulebook) &#8211; The Rat Hole" https://web.archive.org/web/20190109085434/http://therathole.ca/vurt-core-rulebook/ originally retrieved Wed Jan  9 08:54:34 EST 2019
+2021-01-28T01:46:11-05:00	Random link from the archives: "A Computational Understanding of ZFC Set Theory &#8211; Michael O. Church" https://web.archive.org/web/20190607095323/https://michaelochurch.wordpress.com/2019/04/28/a-computational-understanding-of-zfc-set-theory/ originally retrieved Fri Jun  7 09:53:23 EDT 2019
+2021-01-28T05:46:41-05:00	Random link from the archives: "VHS Will Not Die  | Connecticut Public Radio" https://web.archive.org/web/20190822103605/https://www.wnpr.org/post/vhs-will-not-die-0 originally retrieved Thu Aug 22 10:36:05 EDT 2019
+2021-01-28T09:47:02-05:00	Random link from the archives: "GitHub - mouse-reeve/fedireads: Social reading and reviewing, decentralized with ActivityPub" https://web.archive.org/web/20200220144156/https://github.com/mouse-reeve/fedireads originally retrieved Thu Feb 20 14:41:56 EST 2020
+2021-01-28T09:56:01-05:00	The Meme Economy: A Class Analysis of #STONKS - YouTube https://www.youtube.com/watch?v=BnUdiEMFtMg
+2021-01-28T09:56:09-05:00	Band name of the day: leftist day traders
+2021-01-28T11:31:52-05:00	The Michael Scott Theory of Social Class – alexdanco.com https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/amp/?__twitter_impression=true
+2021-01-28T11:46:59-05:00	Fourth-generation warfare - Wikipedia https://en.m.wikipedia.org/wiki/Fourth-generation_warfare
+2021-01-28T11:54:46-05:00	Sorcery as Parasitic Installation – Centre For Experimental Ontology https://centreforexperimentalontology.com/2021/01/24/sorcery-as-parasitic-installation/amp/?__twitter_impression=true
+2021-01-28T11:58:12-05:00	Notes on Inferiority https://listed.to/@simpolism/21574/notes-on-inferiority
+2021-01-28T12:56:27-05:00	Cheap Truth 1 - Page 1 https://fanac.org/fanzines/Cheap_Truth/Cheap_Truth01-01.html
+2021-01-28T13:07:07-05:00	What you eat, who you date, and how you shop are valuable details for the brokers behind India’s multimillion-dollar dark data economy - Rest of World https://restofworld.org/2020/all-the-data-fit-to-sell/
+2021-01-28T13:13:55-05:00	Cheap Truth 2 - Page 1 https://fanac.org/fanzines/Cheap_Truth/Cheap_Truth02-01.html
+2021-01-28T13:47:14-05:00	Random link from the archives: "How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?" https://web.archive.org/web/20191108093534/https://twobithistory.org/2019/11/06/doom-bsp.html?utm_source=digg&utm_medium=email originally retrieved Fri Nov  8 09:35:34 EST 2019
+2021-01-28T14:08:58-05:00	The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try. " ProPublica https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try
+2021-01-28T14:20:55-05:00	What A Time To Be In Decline | Hazlitt https://hazlitt.net/longreads/what-time-be-decline
+2021-01-28T14:41:26-05:00	Why Large Tech Companies Always Burn Power Users https://tedium.co/2021/01/27/power-users-history/
+2021-01-28T14:45:20-05:00	Cheap Truth 3 - Page 1 https://fanac.org/fanzines/Cheap_Truth/Cheap_Truth03-01.html
+2021-01-28T14:59:32-05:00	Band name of the day: the oldest dudes
+2021-01-28T16:47:27-05:00	all brakes no breaks
+2021-01-28T17:47:25-05:00	Random link from the archives: "" https://web.archive.org/web/20190512144521/https://languagelog.ldc.upenn.edu/nll/?p=42191 originally retrieved Sun May 12 14:45:21 EDT 2019
+2021-01-28T21:47:49-05:00	Random link from the archives: "" https://web.archive.org/web/20200616012342/https://medium.com/p/openai-wants-to-move-slow-and-not-break-anything-33be15dd2ea6 originally retrieved Tue Jun 16 01:23:42 EDT 2020
+2021-01-29T01:48:09-05:00	Random link from the archives: "" https://web.archive.org/web/20190517085140/http://rawilsonfans.de/en/discordian-bits-pieces/ originally retrieved Fri May 17 08:51:40 EDT 2019
+2021-01-29T05:48:31-05:00	Random link from the archives: "" https://web.archive.org/web/20200926180414/https://medium.com/p/yes-alexa-is-recording-mundane-details-of-your-life-and-its-creepy-as-hell-b0df03b32daf originally retrieved Sat Sep 26 18:04:14 EDT 2020
+2021-01-29T08:08:59-05:00	The Truth Cannot Be Copyrighted
+2021-01-29T08:12:50-05:00	Cheap Truth 4 - Page 1 https://fanac.org/fanzines/Cheap_Truth/Cheap_Truth04-01.html
+2021-01-29T08:43:28-05:00	Cheap Truth 5 - Page 1 https://fanac.org/fanzines/Cheap_Truth/Cheap_Truth05-01.html
+2021-01-29T08:57:16-05:00	How we made Typerighter, the Guardian’s style guide checker | Info | The Guardian https://www.theguardian.com/info/2021/jan/26/how-we-made-typerighter-the-guardians-style-guide-checker
+2021-01-29T09:01:58-05:00	Incremental improvement is useful and important, but you can incrementally improve your hammer all you want & it won't help much if you actually need to invent a screwdriver (or, worse, vice grips). The tech industry pays folks with bachelor's degrees 5 figures to hammer in screws and folks with master's degrees 6 figures to make the hammers heavier.
+2021-01-29T09:48:53-05:00	Random link from the archives: "" https://web.archive.org/web/20191106204659/https://medium.com/p/some-online-mobs-are-vicious-others-are-perfectly-rational-137e3f05900c originally retrieved Wed Nov  6 20:46:59 EST 2019
+2021-01-29T11:07:57-05:00	Stratton Oakmont, Inc. v. Prodigy Services Co. - Wikipedia https://en.wikipedia.org/wiki/Stratton_Oakmont,_Inc._v._Prodigy_Services_Co.
+2021-01-29T13:49:18-05:00	Random link from the archives: "China’s urban policy unit just met for the first time in 38 years. Here’s what it recommended | CityMetric" https://web.archive.org/web/20190225100523/https://www.citymetric.com/fabric/china-s-urban-policy-unit-just-met-first-time-38-years-here-s-what-it-recommended-1904 originally retrieved Mon Feb 25 10:05:23 EST 2019
+2021-01-29T17:50:19-05:00	Random link from the archives: "Algorithms interviews: theory vs. practice" https://web.archive.org/web/20200106130046/https://danluu.com/algorithms-interviews/ originally retrieved Mon Jan  6 13:00:46 EST 2020
+2021-01-29T19:00:22-05:00	After 7 months, I am back on SSB. Follow me at @Q6jeOaoJOdFq8/3oFaOYC6bKhaVCD3IIdpjG+7Fab2M=.ed25519 for daily link roundups etc
+2021-01-29T19:26:56-05:00	daniel radcliffe implies the existence of daniel squarecliffe
+2021-01-29T19:30:14-05:00	breakfast, or as the french call it, miniature lunch
+2021-01-29T20:16:31-05:00	society of the spirochette
+2021-01-29T21:50:43-05:00	Random link from the archives: "Wage Theft Is the Multibillion-Dollar Crime Almost No One Is Prosecuting | GQ" https://web.archive.org/web/20191111112317/https://www.gq.com/story/wage-theft originally retrieved Mon Nov 11 11:23:17 EST 2019
+2021-01-30T01:51:03-05:00	Random link from the archives: "AmOS: The Ambient Object System" https://web.archive.org/web/20210101211234/http://ambience.info.ucl.ac.be/about.html originally retrieved Fri 01 Jan 2021 09:12:34 PM EST
+2021-01-30T05:51:17-05:00	Random link from the archives: "Not Fuzz — The Atavist Magazine" https://web.archive.org/web/20170807192043/https://magazine.atavist.com/not-fuzz-police-impersonator-santa-monica-steve-farzam?utm_source=nextdraft&utm_medium=email originally retrieved Mon Aug  7 19:20:43 EDT 2017
+2021-01-30T09:51:35-05:00	Random link from the archives: "Amazon's Mechanical Turk: Horror Stories From the Inside" https://web.archive.org/web/20200129102323/https://gizmodo.com/horror-stories-from-inside-amazons-mechanical-turk-1840878041 originally retrieved Wed Jan 29 10:23:23 EST 2020
+2021-01-30T11:19:26-05:00	Agora https://anagora.org/@enki
+2021-01-30T13:24:49-05:00	Band name of the day: central computing hole
+2021-01-30T13:51:48-05:00	Random link from the archives: "" https://web.archive.org/web/20201006103651/https://medium.com/p/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199 originally retrieved Tue Oct  6 10:36:51 EDT 2020
+2021-01-30T14:03:03-05:00	Band name of the day: poetry batallion
+2021-01-30T16:17:43-05:00	trying to explain to somebody on SSB that 'mutual aid' doesn't mean 'capitalism' proves that idiots are not limited to twitter...
+2021-01-30T16:24:36-05:00	DESTROYING all arguments against raising the minimum wage in a BERSERKER FURY! - YouTube https://www.youtube.com/watch?v=MAfB8j8oYeY
+2021-01-30T17:52:12-05:00	Random link from the archives: "A Mass of Copyrighted Works Will Soon Enter the Public Domain - The Atlantic" https://web.archive.org/web/20180409101127/https://www.theatlantic.com/technology/archive/2018/04/copywritten-so-dont-copy-me/557420/ originally retrieved Mon Apr  9 10:11:27 EDT 2018
+2021-01-30T19:48:01-05:00	Band name of the day: sex mystery
+2021-01-30T21:52:26-05:00	Random link from the archives: "Generating Long-Term Structure in Songs and Stories" https://web.archive.org/web/20170816122641/https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn originally retrieved Wed Aug 16 12:26:41 EDT 2017
+2021-01-31T01:52:33-05:00	Random link from the archives: "" https://web.archive.org/web/20201007173053/https://medium.com/p/i-trained-an-lstm-neural-net-to-generate-hacker-news-submissions-9213e1225208 originally retrieved Wed Oct  7 17:30:53 EDT 2020
+2021-01-31T05:52:41-05:00	Random link from the archives: "I was a fast-food worker. Let me tell you about burnout. - Vox" https://web.archive.org/web/20190729092418/https://www.vox.com/the-highlight/2019/7/6/20681186/fast-food-worker-burnout originally retrieved Mon Jul 29 09:24:18 EDT 2019
+2021-01-31T11:00:16-05:00	exit through the ghost ship
+2021-01-31T13:44:02-05:00	Index of /public/Books/Occult_Library/ http://the-eye.eu/public/Books/Occult_Library/
+2021-01-31T13:52:57-05:00	Random link from the archives: "Why Tool AIs Want to Be Agent AIs: The Power of Agency - Gwern.net" https://web.archive.org/web/20190402120601/https://www.gwern.net/Tool-AI originally retrieved Tue Apr  2 12:06:01 EDT 2019
+2021-01-31T17:53:16-05:00	Random link from the archives: "" https://web.archive.org/web/20201001143811/https://medium.com/p/list-of-philosophical-razors-20215f540c9 originally retrieved Thu Oct  1 14:38:11 EDT 2020
+2021-01-31T18:32:52-05:00	where we're going, we don't need leaders
+2021-01-31T21:34:07-05:00	pick your trouble
+2021-01-31T21:53:28-05:00	Random link from the archives: "How a Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic - Atlas Obscura" https://web.archive.org/web/20170709093017/http://www.atlasobscura.com/articles/dog-telepathy originally retrieved Sun Jul  9 09:30:17 EDT 2017
+2021-02-01T01:53:48-05:00	Random link from the archives: "This wave of global protest is being led by the children of the financial crash | Jack Shenker | Opinion | The Guardian" https://web.archive.org/web/20191104095545/https://www.theguardian.com/commentisfree/2019/oct/29/global-protest-children-financial-crash-hong-kong-london originally retrieved Mon Nov  4 09:55:45 EST 2019
+2021-02-01T05:54:11-05:00	Random link from the archives: "" https://web.archive.org/web/20200613123442/https://medium.com/p/the-darwinian-science-behind-the-burnout-generation-30b4cc74449b originally retrieved Sat Jun 13 12:34:42 EDT 2020
+2021-02-01T08:49:01-05:00	Salt Fat Acid Defeat | Online Only | n+1 https://nplusonemag.com/online-only/online-only/salt-fat-acid-defeat/
+2021-02-01T08:54:51-05:00	A Model for Identity in Software - Christine Dodrill https://christine.website/blog/identity-model-software-2021-01-31
+2021-02-01T09:54:34-05:00	Random link from the archives: "The Definition of Iyashikei Isn't So Simple - YouTube" https://web.archive.org/web/20190724173320/https://www.youtube.com/watch?v=fHMw8J6bFqw originally retrieved Wed Jul 24 17:33:20 EDT 2019
+2021-02-01T12:43:43-05:00	The Women Who Read ‘Bad’ Male Authors Are Sick of Your Stereotypes https://melmagazine.com/en-us/story/the-women-who-read-the-bad-male-authors-are-sick-of-your-stereotypes
+2021-02-01T13:55:02-05:00	Random link from the archives: "" https://web.archive.org/web/20190226063256/https://www.smithsonianmag.com/history/legends-what-actually-lived-no-mans-land-between-world-war-i-trenches-180952513/ originally retrieved Tue Feb 26 06:32:56 EST 2019
+2021-02-01T14:32:18-05:00	Command Line Interface Guidelines https://clig.dev/
+2021-02-01T14:58:35-05:00	Band name of the day: carrion screaming
+2021-02-01T17:55:27-05:00	Random link from the archives: "" https://web.archive.org/web/20180920154259/https://medium.com/p/how-to-make-a-context-aware-bot-foursquares-big-bet-on-marsbot-c00d86d18eff originally retrieved Thu Sep 20 15:42:59 EDT 2018
+2021-02-01T21:55:51-05:00	Random link from the archives: "Where the Image Flows: How Sidewalk Labs&#8217; Public Relations Came to Dominate Journalism - Failed Architecture" https://web.archive.org/web/20191023090018/https://failedarchitecture.com/where-the-image-flows-how-sidewalk-labs-public-relations-came-to-dominate-journalism/ originally retrieved Wed Oct 23 09:00:18 EDT 2019
+2021-02-02T01:56:14-05:00	Random link from the archives: "A Q&amp;A with Rob Walker, Author of The Art of Noticing" https://web.archive.org/web/20190515133536/http://inthebooks.800ceoread.com/interviews/articles/the-art-of-noticing originally retrieved Wed May 15 13:35:36 EDT 2019
+2021-02-02T05:56:37-05:00	Random link from the archives: "The History of Unix, Rob Pike - YouTube" https://web.archive.org/web/20181118101134/https://www.youtube.com/watch?v=_2NI6t2r_Hs originally retrieved Sun Nov 18 10:11:34 EST 2018
+2021-02-02T08:40:41-05:00	Band name of the day: mezzotronix
+2021-02-02T09:56:53-05:00	Random link from the archives: "The Internet of Beefs" https://web.archive.org/web/20200120093835/https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/ originally retrieved Mon Jan 20 09:38:35 EST 2020
+2021-02-02T13:41:07-05:00	who the hell called it romcom and not romedy
+2021-02-02T13:57:03-05:00	Random link from the archives: "Discussing Isekai, Part 2: How Isekai Imagine Power - YouTube" https://web.archive.org/web/20190116135021/https://www.youtube.com/watch?v=NCJesuBHR-g originally retrieved Wed Jan 16 13:50:21 EST 2019
+2021-02-02T16:25:11-05:00	A Pennsylvania Mother’s Path to Insurrection | The New Yorker https://www.newyorker.com/news/news-desk/a-pennsylvania-mothers-path-to-insurrection-capitol-riot
+2021-02-02T16:48:48-05:00	Why Phoenix may be uninhabitable by the end of this century | Salon.com https://www.salon.com/2021/01/31/why-phoenix-may-be-uninhabitable-by-the-end-of-this-century/
+2021-02-02T16:57:07-05:00	Prosecraft: Linguistics for Literature http://prosecraft.io/
+2021-02-02T17:57:21-05:00	Random link from the archives: "/howto/ssb/scuttlebot" https://web.archive.org/web/20180606114939/https://transitiontech.ca/howto/ssb/scuttlebot originally retrieved Wed Jun  6 11:49:39 EDT 2018
+2021-02-02T21:57:46-05:00	Random link from the archives: "AHA 2020 - Becoming a Desk(top) Profession - Google Slides" https://web.archive.org/web/20200115102604/https://docs.google.com/presentation/d/1zLOTxijUgQhPy_xxKtuWBTpwdoDoRxoxNyXvMyHAFt8/edit#slide=id.p originally retrieved Wed Jan 15 10:26:04 EST 2020
+2021-02-03T01:58:11-05:00	Random link from the archives: "Inside Ilbe: How South Korea’s angry young men formed a powerful new alt-right movement" https://web.archive.org/web/20170919095939/https://mic.com/articles/184477/inside-ilbe-how-south-koreas-angry-young-men-formed-a-powerful-new-alt-right-movement originally retrieved Tue Sep 19 09:59:39 EDT 2017
+2021-02-03T05:58:34-05:00	Random link from the archives: "" https://web.archive.org/web/20200616062352/https://medium.com/p/the-art-of-giving-a-damn-9fd4c6d3eb6b originally retrieved Tue Jun 16 06:23:52 EDT 2020
+2021-02-03T09:58:59-05:00	Random link from the archives: "" https://web.archive.org/web/20200621123334/https://medium.com/p/the-history-of-philosophy-without-any-philosophy-42de6e07ee9e originally retrieved Sun Jun 21 12:33:34 EDT 2020
+2021-02-03T10:16:26-05:00	Most of the time I feel like I don't have deep knowledge of any subject, but when I hear normies talk about hypertext or magick I realize -- oh yeah, most people have a deep and abiding ignorance of this stuff, don't know who the fuck John Dee is, etc.
+2021-02-03T13:27:18-05:00	Cheap Truth 9 - Page 1 https://fanac.org/fanzines/Cheap_Truth/Cheap_Truth09-01.html
+2021-02-03T13:59:32-05:00	Random link from the archives: "Stretching Genre - A Haunting of Hill House Video Essay - YouTube" https://web.archive.org/web/20200228192642/https://www.youtube.com/watch?v=lSZVIW6zM9I originally retrieved Fri Feb 28 19:26:42 EST 2020
+2021-02-03T17:43:44-05:00	MOLOCH, whose SHITPOSTS are LEGAL, FINANCIAL, AND MEDICAL ADVICE
+2021-02-03T17:59:51-05:00	Random link from the archives: "" https://web.archive.org/web/20180727112044/http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html originally retrieved Fri Jul 27 11:20:44 EDT 2018
+2021-02-03T19:11:13-05:00	so long as we fail to solve any of the social problems of the early 1980s, cyberpunk will continue to get increasingly relevant
+2021-02-03T22:00:13-05:00	Random link from the archives: "A Witch’s Guide to Escape: A Practical Compendium of Portal Fantasies | Apex Magazine" https://web.archive.org/web/20200615191930/https://www.apex-magazine.com/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies/ originally retrieved Mon Jun 15 19:19:30 EDT 2020
+2021-02-04T02:00:37-05:00	Random link from the archives: "I Blocked Amazon, Facebook, Google, Microsoft, and Apple" https://web.archive.org/web/20190208093621/https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194 originally retrieved Fri Feb  8 09:36:21 EST 2019
+2021-02-04T10:01:23-05:00	Random link from the archives: "" https://web.archive.org/web/20200303191639/https://medium.com/p/utopia-as-practice-8b9d9368e989 originally retrieved Tue Mar  3 19:16:39 EST 2020
