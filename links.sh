@@ -31,7 +31,7 @@ function fmtlinks() {
 	echo "</html>"
 }
 function fmtlinksrss() {
-	tac ~/.linkit | head -n 23 | 
+	tac ~/.linkit | head -n 523 | iconv -c |  
 		awk '
 			BEGIN{
 				IFS=OFS=FS="\t"; 
@@ -43,14 +43,23 @@ function fmtlinksrss() {
 				print "<lastBuildDate>" strftime() "</lastBuildDate>"
 				print "<pubDate>" strftime() "</pubDate>"
 				print "<ttl>18000</ttl>"
-				print "</channel>\n"
 			} { 
+				datecmd = "date +\"%a, %d %B %Y\" -d \"" $2 "\""
+				datecmd | getline date
+				close(datecmd)
+				linkcmd = "echo \"" $1 "\" | recode utf8..html"
+				linkcmd | getline link
+				close(linkcmd)
+				title=$3
+				if(title=="") {
+					title=link
+				}
 				print "<item>"
-				print "<title>" $3 "</title>"
-				print "<description>" $3 "</description>"
-				print "<link>" $1 "</link>"
+				print "<title>" title "</title>"
+				print "<description>" title "</description>"
+				print "<link>" link "</link>"
 				print "<guid isPermaLink=\"true\">" $1 "</guid>"
-				print "<pubDate>" $2 "</pubDate>"
+				print "<pubDate>" date "</pubDate>"
 				print "</item>\n"
 			} END{ 
 				print "</channel>"
