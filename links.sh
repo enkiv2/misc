@@ -31,7 +31,7 @@ function fmtlinks() {
 	echo "</html>"
 }
 function fmtlinksrss() {
-	tac ~/.linkit | head -n 523 | iconv -c |  
+	tac ~/.linkit | iconv -c |  
 		awk '
 			BEGIN{
 				IFS=OFS=FS="\t"; 
@@ -47,6 +47,9 @@ function fmtlinksrss() {
 				datecmd = "date +\"%a, %d %B %Y\" -d \"" $2 "\""
 				datecmd | getline date
 				close(datecmd)
+				date2cmd = "date -d \"" date "\" +\"%Y%m%d%H%M%S\""
+				date2cmd | getline date2
+				close(date2cmd)
 				linkcmd = "echo \"" $1 "\" | recode utf8..html"
 				linkcmd | getline link
 				close(linkcmd)
@@ -58,7 +61,7 @@ function fmtlinksrss() {
 				print "<title>" title "</title>"
 				print "<description>" title "</description>"
 				print "<link>" link "</link>"
-				print "<guid isPermaLink=\"true\">" $1 "</guid>"
+				print "<guid isPermaLink=\"true\">https://web.archive.org/web/" date2 "/" link "</guid>"
 				print "<pubDate>" date "</pubDate>"
 				print "</item>\n"
 			} END{ 

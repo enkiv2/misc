@@ -22837,3 +22837,116 @@ wired: refering to all money including gold & fiat as 'imaginary internet points
 2021-02-24T07:50:58-05:00	GitHub - ssbc/sameas-spec https://github.com/ssbc/sameas-spec
 2021-02-24T07:53:42-05:00	Bad idea of the day: redraw American Gothic in the style of socialist realism instead of social realism
 2021-02-24T10:36:04-05:00	Random link from the archives: "Search" https://web.archive.org/web/20190115091318/https://qz.com/1519774/amazon-became-the-most-valuable-company-in-the-world-by-standing-for-nothing/ originally retrieved Tue Jan 15 09:13:18 EST 2019
+2021-02-24T13:21:34-05:00	Jonathan Lethem: Why Shirley Jackson is a Reader’s Writer ‹ Literary  Hub https://lithub.com/jonathan-lethem-why-shirley-jackson-is-a-readers-writer/
+2021-02-24T14:36:12-05:00	Random link from the archives: "" https://web.archive.org/web/20200612004742/https://medium.com/p/post-capitalist-desire-d8f047047858 originally retrieved Fri Jun 12 00:47:42 EDT 2020
+2021-02-24T18:36:38-05:00	Random link from the archives: "Welcome to IRATA.ONLINE - a PLATO Service for Retro Computing Enthusiasts" https://web.archive.org/web/20190611072318/https://irata.online/ originally retrieved Tue Jun 11 07:23:18 EDT 2019
+2021-02-24T20:26:48-05:00	Investigation of Conditions - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Conditions
+2021-02-24T20:35:32-05:00	Investigation of Coming and Going - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Coming_and_Going
+2021-02-24T20:51:00-05:00	Investigation of the Sense Organs - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_the_Sense_Organs
+2021-02-24T20:59:41-05:00	Investigation of the Aggregates - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_the_Aggregates
+2021-02-24T21:15:14-05:00	Investigation of the Elements - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_the_Elements
+2021-02-24T21:18:52-05:00	Investigation of Desire and the Desirous One - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Desire_and_the_Desirous_One
+2021-02-24T21:35:15-05:00	Investigation of Birth, Abiding and Perishing - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Birth,_Abiding_and_Perishing
+2021-02-24T21:38:53-05:00	Investigation of Act and Actor - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Act_and_Actor
+2021-02-24T21:46:21-05:00	Investigation of the Presence of Something Prior - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_the_Presence_of_Something_Prior
+2021-02-24T21:51:57-05:00	Investigation of Fire and Firewood - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Fire_and_Firewood
+2021-02-24T22:01:36-05:00	Band name of the day: cyclone of gore
+2021-02-24T22:02:33-05:00	Investigation of Extremes of Before and After - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Extremes_of_Before_and_After
+2021-02-24T22:17:58-05:00	Investigation of Anguish - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Anguish
+2021-02-24T22:28:28-05:00	Investigation of Samskaras - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Samskaras
+2021-02-24T22:36:50-05:00	Random link from the archives: "" https://web.archive.org/web/20200923084654/https://medium.com/p/what-money-can-teach-us-about-social-constructs-7307183f1ae4 originally retrieved Wed Sep 23 08:46:54 EDT 2020
+2021-02-24T22:49:56-05:00	Investigation of Connections - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Connections
+2021-02-24T22:53:26-05:00	Investigation of Essences - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Essences
+2021-02-24T23:21:33-05:00	Investigation of Actions and Fruits - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Actions_and_Fruits
+2021-02-24T23:30:11-05:00	SICStus Prolog - Constraint Logic Programming over Finite Domains https://sicstus.sics.se/sicstus/docs/3.7.1/html/sicstus_33.html
+2021-02-24T23:37:07-05:00	Investigation of Self and Things - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Self_and_Things
+2021-02-24T23:43:46-05:00	Investigation of Time - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Time
+2021-02-25T00:02:15-05:00	Investigation of Combination - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Combination
+2021-02-25T00:20:47-05:00	Investigation of Rising and Passing - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Rising_and_Passing
+2021-02-25T00:42:19-05:00	Investigation of the Tathagata - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_the_Tathagata
+2021-02-25T00:51:44-05:00	Investigation of Error - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Error
+2021-02-25T00:58:28-05:00	Investigation of the Ennobling Truths - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_the_Ennobling_Truths
+2021-02-25T01:05:13-05:00	Investigation of Nirvana - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Nirvana
+2021-02-25T01:19:54-05:00	Analysis of the Twelve Links of Becoming - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Analysis_of_the_Twelve_Links_of_Becoming
+2021-02-25T01:39:37-05:00	Investigation of Views - Rangjung Yeshe Wiki - Dharma Dictionnary http://rywiki.tsadra.org/index.php/Investigation_of_Views
+2021-02-25T02:36:58-05:00	Random link from the archives: "" https://web.archive.org/web/20200922113349/https://medium.com/p/separation-of-concerns-1d735b703a60 originally retrieved Tue Sep 22 11:33:49 EDT 2020
+2021-02-25T06:37:06-05:00	Random link from the archives: "n9n / apl · GitLab" https://web.archive.org/web/20200115092527/https://gitlab.com/n9n/apl originally retrieved Wed Jan 15 09:25:27 EST 2020
+2021-02-25T08:19:24-05:00	GitHub - cdiggins/cat-language: Cat - a statically typed functional stack-based programming language https://github.com/cdiggins/cat-language
+2021-02-25T08:22:16-05:00	The Blag " Logic And Graphics - Curry-Howard is overrated https://blag.cedeela.fr/curry-howard-scam/
+2021-02-25T08:23:39-05:00	Amulet version 1 https://text.bargains/amulet/
+2021-02-25T08:40:04-05:00	New Wave science fiction - Wikipedia https://en.wikipedia.org/wiki/New_Wave_science_fiction
+2021-02-25T08:42:45-05:00	The UX on this Small Child Is Terrible - McSweeney’s Internet Tendency https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible
+2021-02-25T08:45:29-05:00	Evidence of an impending breakup may exist in everyday conversation " months before either partner reali... https://theconversation.com/evidence-of-an-impending-breakup-may-exist-in-everyday-conversation-months-before-either-partner-realizes-their-relationship-is-tanking-154338
+2021-02-25T10:37:15-05:00	Random link from the archives: "The Legend of Nixon, a Data-Driven NES Soundscape" https://web.archive.org/web/20190326090250/https://kottke.org/19/03/the-legend-of-nixon-a-data-driven-nes-soundscape originally retrieved Tue Mar 26 09:02:50 EDT 2019
+2021-02-25T11:37:20-05:00	Bad idea of the day: a game where you play as the greek chorus
+2021-02-25T11:37:39-05:00	Bad idea of the day: sub liminal spaces
+2021-02-25T13:53:37-05:00	Doctor WHO (World Health Organization)
+2021-02-25T13:55:49-05:00	Band name of the day: the seige of the dream-city
+2021-02-25T14:37:23-05:00	Random link from the archives: "" https://web.archive.org/web/20181214092335/https://waypoint.vice.com/en_us/article/j5za97/artifact-isnt-a-game-on-steam-its-steam-in-a-game originally retrieved Fri Dec 14 09:23:35 EST 2018
+2021-02-25T18:31:25-05:00	GitHub - triska/clpfd: Constraint Logic Programming over Finite Domains https://github.com/triska/clpfd
+2021-02-25T18:37:33-05:00	Random link from the archives: "Gutenberg:The History and Philosophy of Project Gutenberg by Michael Hart - Gutenberg" https://web.archive.org/web/20180924114710/https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart originally retrieved Mon Sep 24 11:47:10 EDT 2018
+2021-02-25T19:12:20-05:00	Bad idea of the day: a computer RPG where you play as the DM for a group of AI roleplayers
+2021-02-25T19:38:41-05:00	Something About Plastic Love - Daft Punk/Maria Takeuchi Mashup (New Version) - YouTube https://www.youtube.com/watch?v=s02Gb8Wgc5c
+2021-02-25T20:03:08-05:00	https://enkiv2.medium.com/the-seige-of-the-dream-city-f86f3a30c2e4?sk=3002353293db0972314f72b8dc13a8ab
+2021-02-25T20:03:36-05:00	https://enkiv2.medium.com/the-moral-valence-of-technical-decisions-aadc1b307747?sk=76869868c9b83b21e8cd83cf209d8eb4
+2021-02-25T20:06:44-05:00	Technology without Industry | the singularity is nearer https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html
+2021-02-25T20:17:48-05:00	JoJo Pose and the Rise of the Anime Music Video - YouTube https://www.youtube.com/watch?v=MN2qxq3KhWI
+2021-02-25T22:37:51-05:00	Random link from the archives: "Lightweight Static Guarantees" https://web.archive.org/web/20190812092239/http://okmij.org/ftp/Computation/lightweight-static-guarantees.html originally retrieved Mon Aug 12 09:22:39 EDT 2019
+2021-02-26T02:38:12-05:00	Random link from the archives: "" https://web.archive.org/web/20190409074252/https://www.nytimes.com/2019/04/07/us/trash-pickers-san-francisco-zuckerberg.html originally retrieved Tue Apr  9 07:42:52 EDT 2019
+2021-02-26T06:38:39-05:00	Random link from the archives: "The Perfect Terror of the White Nightgown" https://web.archive.org/web/20200817100704/https://theattic.jezebel.com/the-perfect-terror-of-the-white-nightgown-1837707941 originally retrieved Mon Aug 17 10:07:04 EDT 2020
+2021-02-26T08:31:24-05:00	The Endless Life Cycle of Japanese City Pop | Pitchfork https://pitchfork.com/features/article/the-endless-life-cycle-of-japanese-city-pop/
+2021-02-26T08:45:46-05:00	Band name of the day: i miss the future
+2021-02-26T10:39:01-05:00	Random link from the archives: "" https://web.archive.org/web/20180621143108/https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source originally retrieved Thu Jun 21 14:31:08 EDT 2018
+2021-02-26T13:42:04-05:00	GitHub - rxi/microui: A tiny immediate-mode UI library https://github.com/rxi/microui
+2021-02-26T14:39:22-05:00	Random link from the archives: "The Bristol Hum: HOW TO BREAK A KETTLE" https://web.archive.org/web/20201107123905/https://bcwthebristolhum.blogspot.com/p/how-to-break-kettle.html originally retrieved Sat 07 Nov 2020 12:39:05 PM EST
+2021-02-26T15:09:15-05:00	have kyle mclachlan and jeffery combs ever worked together?
+2021-02-26T17:56:12-05:00	Steven Pinker & Human Nature: Nasty or Nice? - YouTube https://www.youtube.com/watch?v=beCAQafATPg
+2021-02-26T18:39:33-05:00	Random link from the archives: "Exploring the Cosmic Horror of The Beyond - YouTube" https://web.archive.org/web/20200217083244/https://www.youtube.com/watch?v=PRZOL7_BwNg originally retrieved Mon Feb 17 08:32:44 EST 2020
+2021-02-27T02:40:20-05:00	Random link from the archives: "This is what filter bubbles actually look like - MIT Technology Review" https://web.archive.org/web/20180823113055/https://www.technologyreview.com/s/611807/this-is-what-filter-bubbles-actually-look-like/ originally retrieved Thu Aug 23 11:30:55 EDT 2018
+2021-02-27T06:40:43-05:00	Random link from the archives: "" https://web.archive.org/web/20200618010552/https://medium.com/p/augmented-reality-greater-power-greater-responsibility-ad0b8b95f75b originally retrieved Thu Jun 18 01:05:52 EDT 2020
+2021-02-27T10:41:08-05:00	Random link from the archives: ""I Spent an Interesting Evening Recently with a Grain of Salt"" https://web.archive.org/web/20191116103459/https://web.archive.org/web/19961119143254/http://www.sincity.com/penn-n-teller/pcc/shaney.html originally retrieved Sat Nov 16 10:34:59 EST 2019
+2021-02-27T14:41:49-05:00	Random link from the archives: "Review of High Weirdness: Drugs, Esoterica and Visionary Experience in the Seventies by Erik Davis | Dreamflesh" https://web.archive.org/web/20200105111911/https://dreamflesh.com/review/book/high-weirdness/ originally retrieved Sun Jan  5 11:19:11 EST 2020
+2021-02-27T18:42:33-05:00	Random link from the archives: "History of UNIX Manpages" https://web.archive.org/web/20200529170508/https://manpages.bsd.lv/history.html originally retrieved Fri May 29 17:05:08 EDT 2020
+2021-02-27T21:29:05-05:00	ACTION BUTTON REVIEWS Tokimeki Memorial - YouTube https://www.youtube.com/watch?v=xb-DtICmPTY
+2021-02-27T22:42:56-05:00	Random link from the archives: "The Quietus | Features | Strange World Of... | The Strange World Of... Current 93" https://web.archive.org/web/20200706153756/https://thequietus.com/articles/25479-current-93-review-biography originally retrieved Mon Jul  6 15:37:56 EDT 2020
+2021-02-28T02:43:21-05:00	Random link from the archives: "" https://web.archive.org/web/20201001021608/https://medium.com/p/circular-dependencies-in-dependency-injection-403b790daebb originally retrieved Thu Oct  1 02:16:08 EDT 2020
+2021-02-28T06:43:44-05:00	Random link from the archives: "YouTube" https://web.archive.org/web/20200711123458/https://www.youtube.com/watch?v=0BIK6-5yRsI originally retrieved Sat Jul 11 12:34:58 EDT 2020
+2021-02-28T10:44:09-05:00	Random link from the archives: "How to tell the difference between persuasion and manipulation | Aeon Ideas" https://web.archive.org/web/20180927120953/https://aeon.co/ideas/how-to-tell-the-difference-between-persuasion-and-manipulation originally retrieved Thu Sep 27 12:09:53 EDT 2018
+2021-02-28T11:21:33-05:00	Alan Watts debate with Timothy Leary, Allen Ginsberg and Gary Snyder ( 1967 ) - YouTube https://www.youtube.com/watch?v=BX88FpE413M
+2021-02-28T14:44:42-05:00	Random link from the archives: "The Workforce Is About to Change Dramatically - The Atlantic" https://web.archive.org/web/20200809165358/https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/?utm_source=nextdraft&utm_medium=email originally retrieved Sun Aug  9 16:53:58 EDT 2020
+2021-02-28T16:28:15-05:00	How Fakku Pulled Classic Dating Game True Love '95 From Licensing Hell https://www.dailydot.com/irl/true-love-95-release-date-fakku/
+2021-02-28T16:31:04-05:00	The Secret History of Gainax: 1981-1992 – ZIMMERIT – Anime | Manga | Garage Kits | Doujinshi http://www.zimmerit.moe/secret-history-of-gainax/
+2021-02-28T16:32:22-05:00	can videogames be our friends? https://kotaku.com/can-videogames-be-our-friends-5395084/amp
+2021-02-28T18:45:11-05:00	Random link from the archives: "" https://web.archive.org/web/20201009203125/https://medium.com/p/musical-novelty-search-2177c2a249cc originally retrieved Fri Oct  9 20:31:25 EDT 2020
+2021-02-28T22:45:30-05:00	Random link from the archives: "How Protestantism influenced the making of modern science | Aeon Essays" https://web.archive.org/web/20191202082217/https://aeon.co/essays/how-protestantism-influenced-the-making-of-modern-science originally retrieved Mon Dec  2 08:22:17 EST 2019
+2021-03-01T02:45:50-05:00	Random link from the archives: "" https://web.archive.org/web/20180929155442/https://medium.com/p/games-can-help-us-understand-power-b115b452dd6 originally retrieved Sat Sep 29 15:54:42 EDT 2018
+2021-03-01T06:46:10-05:00	Random link from the archives: "How Does a Film Become Lost?" https://web.archive.org/web/20181012073058/https://tedium.co/2018/10/11/lost-and-found-film-history/ originally retrieved Fri Oct 12 07:30:58 EDT 2018
+2021-03-01T08:48:05-05:00	Scott Alexander read's somebody's version of The Grey Tribe from 1983 and rejects it: https://astralcodexten.substack.com/p/book-review-fussell-on-class?token=eyJ1c2VyX2lkIjoyMjk3MzIsInBvc3RfaWQiOjMyODYzNDY1LCJfIjoiTVh6QWsiLCJpYXQiOjE2MTQ2MDY0MTcsImV4cCI6MTYxNDYxMDAxNywiaXNzIjoicHViLTg5MTIwIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.Xx42PU7V8f_jzy0PS2edAA40LkWuh2mzox9j9bdLpkk&utm_source=substack&utm_medium=email&utm_content=share&action=share
+2021-03-01T10:46:22-05:00	Random link from the archives: "" https://web.archive.org/web/20200616071002/https://medium.com/p/four-questions-about-online-hate-speech-ae3e0a134472 originally retrieved Tue Jun 16 07:10:02 EDT 2020
+2021-03-01T10:54:58-05:00	mods are asleep, postrats
+2021-03-01T13:57:54-05:00	GitHub - osnr/tabssh: " ssh into browser tab. https://github.com/osnr/tabssh
+2021-03-01T14:02:47-05:00	Glass Walls — The Studio of James T. Green https://www.jamestgreen.com/thoughts/115
+2021-03-01T14:46:32-05:00	Random link from the archives: "Excavating, Archiving, Making Media Inscriptions // In and Beyond the Media Archaeology Lab | loriemerson" https://web.archive.org/web/20191022152300/https://loriemerson.net/2019/10/16/excavating-archiving-making-media-inscriptions-in-and-beyond-the-media-archaeology-lab/ originally retrieved Tue Oct 22 15:23:00 EDT 2019
+2021-03-01T18:46:42-05:00	Random link from the archives: "Twilight Zone theme: How the theme song for Jordan Peele’s reboot stacks up to versions by Korn, the Grateful Dead, and the Manhattan Transfer." https://web.archive.org/web/20190409072540/https://slate.com/culture/2019/04/twilight-zone-theme-jordan-peele-grateful-dead-korn-marius-constant-bernard-herrmann-manhattan-transfer.html?curator=MusicREDEF originally retrieved Tue Apr  9 07:25:40 EDT 2019
+2021-03-01T22:46:50-05:00	Random link from the archives: "spaced repetition &amp; Darwin&#8217;s golden rule &#8211; Mind Hacks" https://web.archive.org/web/20180406094153/https://mindhacks.com/2018/02/26/spaced-repetition-darwins-golden-rule/ originally retrieved Fri Apr  6 09:41:53 EDT 2018
+2021-03-02T02:46:59-05:00	Random link from the archives: "" https://web.archive.org/web/20200621201509/https://medium.com/p/silent-reading-parties-are-an-introverts-dream-7ff0e3f85993 originally retrieved Sun Jun 21 20:15:09 EDT 2020
+2021-03-02T06:47:08-05:00	Random link from the archives: "What happens now? - Charlie's Diary" https://web.archive.org/web/20210112192124/http://www.antipope.org/charlie/blog-static/2021/01/what-happens-now.html originally retrieved Tue 12 Jan 2021 07:21:24 PM EST
+2021-03-02T07:23:20-05:00	i would watch a live action Lupin III if it was made by the people who made the live action Cutie Honey and had the cast of the live action Kakegurui
+2021-03-02T10:47:27-05:00	Random link from the archives: "Not Pounded By Anything As I Practice Responsible Social Distancing | MetaFilter" https://web.archive.org/web/20200316081515/https://www.metafilter.com/186062/Not-Pounded-By-Anything-As-I-Practice-Responsible-Social-Distancing originally retrieved Mon Mar 16 08:15:15 EDT 2020
+2021-03-02T11:39:39-05:00	ACTION BUTTON REVIEWS DOOM - YouTube https://www.youtube.com/watch?v=38zduHkwGcc
+2021-03-02T12:03:34-05:00	The Utopian Promise of Self-Checkout Machines https://jacobinmag.com/2021/03/the-utopian-promise-of-self-checkout-machines
+2021-03-02T12:05:30-05:00	Storytelling — Harmon vs. McKee https://www.ribbonfarm.com/2021/02/16/storytelling-harmon-vs-mckee/
+2021-03-02T12:42:17-05:00	Can QAnon survive another 'Great Disappointment' on March 4? History suggests it might https://theconversation.com/can-qanon-survive-another-great-disappointment-on-march-4-history-suggests-it-might-155192
+2021-03-02T12:43:23-05:00	Edit - Home Brewed Text Editor https://c9x.me/edit/
+2021-03-02T12:46:29-05:00	Your Thinking Rate Is Fixed https://fs.blog/2021/03/thinking-rate-fixed/
+2021-03-02T12:56:10-05:00	Degaussing History: Why CRTs Are So Prone to Magnetic Interference https://tedium.co/2021/02/19/television-crt-degaussing-history/
+2021-03-02T13:23:25-05:00	https://www.quora.com/unanswered/If-you-set-fire-to-a-million-dollars-in-secret-how-long-would-it-take-for-the-value-of-all-of-the-other-money-in-the-world-to-adjust-to-this-change
+2021-03-02T13:23:55-05:00	https://www.quora.com/unanswered/What-author-unknown-to-science-fiction-literature-fandom-has-had-the-biggest-impact-on-the-genre-Extra-points-if-these-go-further-than-your-favorite-authors-favorite-author-like-Cordwainer-Smith
+2021-03-02T13:31:09-05:00	i live in the united states but today i spent 10 minutes trying to remember whether or not joe liberman and joe biden were the same person
+2021-03-02T14:47:43-05:00	Random link from the archives: "How did usury stop being a sin and become respectable finance? | Aeon Essays" https://web.archive.org/web/20170713083255/https://aeon.co/essays/how-did-usury-stop-being-a-sin-and-become-respectable-finance?utm_source=Aeon+Newsletter&utm_campaign=bdfe024e86-EMAIL_CAMPAIGN_2017_07_04&utm_medium=email&utm_term=0_411a82e59d-bdfe024e86-68693017 originally retrieved Thu Jul 13 08:32:55 EDT 2017
+2021-03-02T15:05:47-05:00	I Watched ALL of Lupin The 3rd (and regretted it) - YouTube https://www.youtube.com/watch?v=db-Rk6tAkGs
+2021-03-02T18:48:04-05:00	Random link from the archives: " Review: Duncan Minshull and Erling Kagge on Walking - The Atlantic" https://web.archive.org/web/20190723130954/https://www.theatlantic.com/magazine/archive/2019/08/how-walking-became-pedestrian-duncan-minshull-erling-kagge-walking/592792/ originally retrieved Tue Jul 23 13:09:54 EDT 2019
+2021-03-02T22:48:23-05:00	Random link from the archives: "Examining LinkedIn's Strange, Hilarious Evolution - InsideHook" https://web.archive.org/web/20200310104123/https://www.insidehook.com/article/how-linkedin-has-changed originally retrieved Tue Mar 10 10:41:23 EDT 2020
+2021-03-03T02:48:37-05:00	Random link from the archives: "GitHub - marciot/retroweb-salto-simulator-js: Modifications to the SALTO Simulator to allow for compilation to JavaScript via Emscripten" https://web.archive.org/web/20181112160300/https://github.com/marciot/retroweb-salto-simulator-js originally retrieved Mon Nov 12 16:03:00 EST 2018
+2021-03-03T06:48:58-05:00	Random link from the archives: "" https://web.archive.org/web/20200921022546/https://medium.com/p/the-world-would-be-a-better-place-without-the-rich-5e8fd163c780 originally retrieved Mon Sep 21 02:25:46 EDT 2020
+2021-03-03T10:49:19-05:00	Random link from the archives: "Over 20 years after AUM terror, cults in Japan still seeking to recruit youths - The Mainichi" https://web.archive.org/web/20190103093955/https://mainichi.jp/english/articles/20180727/p2a/00m/0na/022000c originally retrieved Thu Jan  3 09:39:55 EST 2019
