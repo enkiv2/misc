@@ -8,6 +8,7 @@ strings | tr '.' ' ' | sed "s/[^A-Za-z'][^A-Za-z']*/\n/g" | grep . | sort | uniq
 	torify w3m -dump "http://simple.m.wikipedia.org/wiki/$x" 
 	torify w3m -dump "https://everything2.com/?node=$x"
 	torify w3m -dump "https://www.gematrix.org/?word=$x&view_rude=on"
+  grep -i "$x" ~/stories/ebooks/gutenberg/*
 	sleep 23
 done
 
