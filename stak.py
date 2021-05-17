@@ -3,11 +3,30 @@
 from datetime import date
 import re, os, os.path, sys
 
-import tkinter, tkinter.ttk
-
 def dprint(s):
 		sys.stderr.write(s+"\n")
 		sys.stderr.flush()
+
+try:
+		from tkinter import *
+		try:
+				from tkinter.ttk import *
+				import tkinter.scrolledtext
+				from tkinter.tix import *
+		except:
+				dprint("Could not import ttk -- we will have old-style Tk widgets")
+except:
+		try:
+				from Tkinter import *
+				dprint("We are 2.x and using old Tk")
+				try:
+						from Tkinter.ttk import *
+				except:
+						dprint("Could not import ttk -- we will have old-style Tk widgets")
+		except:
+				dprint("Could not import Tk at all")
+				sys.exit(-1)
+						
 try:
 		import cPickle as pickle
 except:
@@ -138,9 +157,25 @@ class stack:
 				self.makeCardsResident(list(set(tmp)))
 
 
-myStack=stack()
-try:
-		myStack.loadIndex()
-except:
-		myStack.saveState()
+class StackViewer(Frame):
+		def __init__(self, master=None):
+				self.stack=stack()
+				try:
+						self.stack.loadIndex()
+				except:
+						self.stack.saveState()
+				super().__init__(master)
+				self.master = master
+				self.pack()
+				self.topBar=Frame(master=self)
+				self.tagSearchLabel=Label(master=self.topBar, text="Tag search")
+				self.tagSearchBar=Entry(master=self.topBar)
+				self.termSearchLabel=Label(master=self.topBar, text="Term search")
+				self.termSearchBar=Entry(master=self.topBar)
+				self.tagSearchLabel.pack()
+				self.tagSearchBar.pack()
+				self.termSearchLabel.pack()
+				self.termSearchBar.pack()
+				self.topBar.pack(side="top", expand="X")
+				
 
