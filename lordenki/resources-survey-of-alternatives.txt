@@ -10,6 +10,10 @@ https://blog.veitheller.de/Scheme_Macros_V:_Conditionals.html
 http://www.sicpdistilled.com/
 http://dump.mntmn.com/interim-paper/
 http://danmidwood.com/content/2014/11/21/animated-paredit.html
+https://archives.loomcom.com/genera/genera-install.html
+https://archive.org/details/lisploreguidetop00brom
+http://bitsavers.trailing-edge.com/pdf/symbolics/software/genera_8/Genera_Concepts.pdf
+http://bitsavers.trailing-edge.com/pdf/symbolics/software/genera_8/Genera_User_s_Guide.pdf
 Dataspace / Those Memex Dreams Again
 http://natecull.org/wordpress/2017/06/26/dataspace-0/
 http://natecull.org/wordpress/2017/07/05/dataspace-1/
