@@ -1,6 +1,7 @@
 #!/usr/bin/env zsh
 sbot publish --type post --text "$(
 	shuf -n 23 ~/.linkit | 
+  sed 's|//medium.com/|//scribe.rip/|g' |
 	awk '
 	BEGIN {
 		FS="\t"

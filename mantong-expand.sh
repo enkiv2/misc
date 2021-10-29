@@ -1,0 +1,1 @@
+caesar 11 | tr 'A-Z ' 'a-z*' | sed 's/a/ANIMAL /g;s/c/BE /g;s/c/CON /g;s/d/DE /g;s/e/ENERGY /g;s/f/FECUND /g;s/g/GENERATE /g;s/h/HUMAN /g;s/i/EGO /g;s/j/GENERATE /g;s/k/KINETIC /g;s/l/LIFE /g;s/m/ MAN/g;s/n/SEED /g;s/o/ORIFICE /g;s/p/POWER /g;s/q/QUEST /g;s/r/HORROR /g;s/s/SUN /g;s/t/GROWTH /g;s/u/YOU /g;s/v/VITAL /g;s/w/WILL /g;s/x/CONFLICT /g;s/y/WHY /g;s/z/ZERO /g'
