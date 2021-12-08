@@ -9,6 +9,7 @@ if [[ $(echo "$@" | wc -c) -gt 280 ]] ; then
 	echo "$@" | fmt -w 280 | tail -n +2 | while read -r x ; do
 		id=$(reply $id "$x")
 	done
+	echo $id
 else
 	t post "$@"
 fi
