@@ -2,14 +2,22 @@
 import sys
 import re
 
-global snippetdb, docByKw, docByTags, tf, wc, silent
+global snippetdb, docByKw, docByTags, docByTitle, docBySource, docByType
+global tf, wc
+global silent, sids, maxMenuItems
+
+maxMenuItems=15
 
 snippetdb={}
 docByKw={}
 docByTags={}
+docByTitle={}
+docBySource={}
+docByType={}
 tf={}
 wc=0
 silent=False
+sids=[]
 
 def dprint(s, flush=True, lnl=False, tnl=False):
 		if not silent:
@@ -24,7 +32,7 @@ def progress():
 		dprint(".")
 
 def snippetIngest(sid):	
-		global snippetdb, docByKw, docByTags, tf, wc
+		global snippetdb, docByTags, docByTitle
 		stype="text"
 		ssource="notes"
 		stitle="[no title]"
@@ -43,11 +51,23 @@ def snippetIngest(sid):
 						stags.append(line[2:].strip())
 				else:
 						scontent.append(line.strip())
+		if stitle in docByTitle:
+				docByTitle[stitle].append(sid)
+		else:
+				docByTitle[stitle]=[sid]
+		if ssource in docBySource:
+				docBySource[ssource].append(sid)
+		else:
+				docBySource[ssource]=[sid]
+		if stype in docByType:
+				docByType[stype].append(sid)
+		else:
+				docByType[stype]=[sid]
 		for tag in stags:
 				if tag in docByTags:
 						docByTags[tag].append(sid)
 				else:
-						docByTags=[sid]
+						docByTags[tag]=[sid]
 		snippetdb[sid]={"type":stype, "source":ssource, "title":stitle, "content":scontent, "tags":stags, "keywords":[]}
 		return snippetdb[sid]
 
@@ -127,7 +147,24 @@ def snippetTermFreqs():
 		dprint(str(("total keywords:", len(docByKw))), tnl=True)
 
 
+def escape(s):
+		return '"'+s.replace('"', '\\"')+'"'
+def wln(f, line="", tabPos=0):
+		f.write((tabPos*tab)+line+"\n")
+def wmheader(f, q="Navigate to:", tabs=1, nvl_mode=True):
+		menu="menu"
+		if nvl_mode:
+				menu="nvl_menu"
+		wln(f, menu+":", tabs)
+		wln(f, escape(q), tabs+1)
+def wmitem(f, title="[no title]", target="index", sfx="", tabs=1):
+		if sfx:
+				sfx=" "+sfx
+		wln(f, escape(title)+sfx+":", tabs+1)
+		wln(f, "jump "+target, tabs+2)
 
+def sid2label(s):
+			return "s"+s
 tab="    "
 audiotypes=["video", "audio"]
 texttypes=["text", "audio"]
@@ -135,19 +172,14 @@ imagetypes=["video", "image"]
 menuRedoAction={"video":"watch", "audio":"listen", "text":"read"}
 def snippet2rpy(sid):
 		global snippetdb, docByKw, docByTags
-		def escape(s):
-				return '"'+s.replace('"', '\\"')+'"'
-		def wln(f, line="", tabPos=0):
-				f.write((tabPos*tab)+line+"\n")
 
 		snippet=snippetdb[sid]
 		stype=snippet["type"]
 		stitle=snippet["title"]
+		ssource=snippet["source"]
 		tags=snippet["tags"]
 		keywords=snippet["keywords"]
 		content=snippet["content"]
-		def sid2label(s):
-				return "s"+s
 		def sid2char(s):
 				return "c"+s
 		def wjmp(f, s, tabs=3):
@@ -167,18 +199,16 @@ def snippet2rpy(sid):
 						wln(f)
 				wln(f, "define "+sid2char(sid)+" = Character("+escape(stitle)+", kind=nvl)")
 				wln(f)
-		def writeMenu(f, items, isTags):
+		def writeMenu(f, items, by):
+				lkBy={"tag": docByTags, "keyword": docByKw, "source": docBySource, "type": docByType}
 				if items:
-						lookup=docByKw
-						header="TAG"
-						if isTags:
-								lookup=docByTags
-								header="KEYWORD"
+						lookup=lkBy[by]
+						header=by.upper()
 						for item in items:
-								if item in lookup:
+								if item in lookup and len(lookup[item]) >1:
 										suffix=":"
 										tsuffix=" ("+stype+")"
-										if not (len(lookup[item])>1 and lookup[item][-1]!=sid):
+										if lookup[item][-1]==sid:
 												suffix=" if False:"
 												tsuffix+=" (trailhead)"
 										ss=lookup[item]
@@ -190,12 +220,13 @@ def snippet2rpy(sid):
 										wln(f, escape(header+": "+item+'-> '+stitle+' (no more matches found)')+" if False:", 2)
 										wjmp(f, sid)
 		def writeMenus(f):
-				wln(f, "nvl_menu:", 1)
-				wln(f, escape("Navigate to"), 2)
+				wmheader(f)
 				wln(f, escape(menuRedoAction.get(stype, "view").capitalize()+" again")+":", 2)
 				wjmp(f, sid)
-				writeMenu(f, tags, True)
-				writeMenu(f, keywords, False)
+				writeMenu(f, tags, "tag")
+				writeMenu(f, keywords, "keyword")
+				writeMenu(f, [ssource], "source")
+				writeMenu(f, [stype], "type")
 				wln(f, escape("Return to index")+":", 2)
 				wln(f, "jump index", 3)
 		def writeLabel(f):
@@ -231,6 +262,62 @@ def snippet2rpy(sid):
 		writeLabel(rf)
 		rf.close()
 
+def generateIndex(sids):
+		f=open("index.rpy", "w")
+		wln(f, "label index:")
+		wmheader(f, "Index")
+		wmitem(f, "By Tag", "tag_index")
+		wmitem(f, "By Keyword", "keyword_index")
+		wmitem(f, "By Title", "title_index")
+		wmitem(f, "By ID", "sid_index")
+		wln(f)
+		titles=[
+				(x, docByTitle[x][0]) 
+						for x in docByTitle.keys()													]
+		keywords=[
+				(snippets[docByKw[x][0]]["tfidf"][x], x, docByKw[x][0]) 
+						for x in docByKw.keys()															]
+		tags=[
+				(len(docByTags[x]), x, docByTags[x][0]) 
+						for x in docByTags.keys()														]
+		sources=[
+				(len(docBySource[x]), x, docBySource[x][0]) 
+						for x in docBySource.keys()														]
+		types=[
+				(len(docByType[x]), x, docByType[x][0]) 
+						for x in docByType.keys()														]
+		keywords.sort(); titles.sort(); tags.sort(); sources.sort(); types.sort()
+		lookup={
+				"sid": [(x, x) for x in sids],
+				"title":[(x[0], x[1]) for x in titles],
+				"keyword":[(x[1], x[2]) for x in keywords],
+				"tag":[(x[1], x[2]) for x in tags],
+				"source":[(x[1], x[2]) for x in sources],
+				"type":[(x[1], x[2]) for x in types]
+				}
+		def generateIndex_r(by, allOptions, offset=0):
+				wln(f, "label "+by+"_index"+str(offset)+":")
+				wmheader(f, "Index by "+by.capitalize())
+				options=allOptions[offset:]
+				if len(options)>maxMenuItems:
+						options=options[:maxMenuItems]
+				for option in options:
+						wmitem(f, option[0], sid2label(option[1]))
+				wmitem(f, "Return to index", "index")
+				if (len(allOptions)-offset)>maxMenuItems:
+						wmitem(f, "Next Page", by+"_index"+str(offset+1))
+						wln(f)
+						generateIndex_r(by, allOptions, offset+maxMenuItems)
+				wln(f)
+
+		for by in ["sid", "keyword", "tag", "title", "source"]:
+				wln(f, "label "+by+"_index:")
+				wln(f, "jump "+by+"_index0", 1)
+				wln(f)
+				generateIndex_r(by, lookup[by])
+		f.close()
+
+
 def processSnippets(sids):
 		dprint("Processing snippets...")
 		for sid in sids:
@@ -242,17 +329,21 @@ def processSnippets(sids):
 		for sid in sids:
 				snippet2rpy(sid)
 				progress()
+		dprint("\tDONE\nGenerating index...")
+		generateIndex(sids)
 		dprint("\tDONE", tnl=True)
 
 
+
 def main():
-		global silent
+		global silent, sids
 		sids=[]
 		if "-s" in sys.argv:
 				silent=True
 				sys.argv.remove("-s")
 		if len(sys.argv)>1:
 				sids=sys.argv[1:]
+		sids.sort()
 		print(sids)
 		processSnippets(sids)
 
