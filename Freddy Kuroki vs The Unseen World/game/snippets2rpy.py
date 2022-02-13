@@ -132,6 +132,7 @@ tab="    "
 audiotypes=["video", "audio"]
 texttypes=["text", "audio"]
 imagetypes=["video", "image"]
+menuRedoAction={"video":"watch", "audio":"listen", "text":"read"}
 def snippet2rpy(sid):
 		global snippetdb, docByKw, docByTags
 		def escape(s):
@@ -165,35 +166,43 @@ def snippet2rpy(sid):
 								lookup=docByTags
 								header="KEYWORD"
 						for item in items:
-								if item in lookup and len(lookup[item])>1 and lookup[item][-1]!=sid:
+								if item in lookup:
+										suffix=":"
+										if not (len(lookup[item])>1 and lookup[item][-1]!=sid):
+												suffix=" if False:"
 										ss=lookup[item]
 										s=ss[ss.index(sid)+1]
 										title=snippetdb[s]["title"]
-										wln(f, escape(header+': '+tag+'-> '+title)+":", 2)
+										wln(f, escape(header+': '+tag+'-> '+title)+suffix, 2)
 										wln(f, "jump l"+s, 3)
 		def writeMenus(f):
 				wln(f, "nvl_menu:", 1)
+				wln(f, escape("Navigate to"), 2)
+				wln(f, escape(menuRedoAction.get(stype, "view").capitalize()+" again")+":", 2)
+				wln(f, "jump l"+sid, 3)
 				writeMenu(f, tags, True)
 				writeMenu(f, keywords, False)
+				wln(f, escape("Return to index")+":", 2)
+				wln(f, "jump index", 3)
 		def writeLabel(f):
 				wln(rf, "label l"+sid)
-				if stype in texttypes:
-						i=0
-						for l in content:
+				i=0
+				if stype=="video":
+						wln(f, "nvl "+escape(snippet["title"] + " (video) ("+str(len(snippet["content"]))+" clips)"), 1)
+				for l in content:
+						if l:
+								print(escape(l))
 								if stype=="audio":
 										wln(f, "stop sound", 1)
 										wln(f, "play sound s"+sid+"_"+str(i), 1)
-								i+=1
-								wln(f, tab+"c"+sid+" "+escape(l)+"\n")
-				elif stype=="video":
-						wln(f, "nvl "+escape(snippet["title"] + " (video) ("+str(len(snippet["content"]))+" clips)"), 1)
-						i=0
-						for l in content:
-								if l:
+								if stype in texttypes:
+										wln(f, tab+"c"+sid+" "+escape(l)+"\n")
+								elif stype=="video":
 										if(len(snippet["content"])>1):
 												i+=1
 												wln(f, "nvl "+escape(snippet["title"] + " (clip "+str(i)+"/"+str(len(snippet["content"]))+")"), 1)
 										wln(f, "renpy.movie_cutscene("+escape(l)+")", 1)
+								i+=1
 				if tags:
 							wln(f, "c"+sid+" "+escape("Tags: "+(", ".join(tags))), 1)
 				if keywords:
