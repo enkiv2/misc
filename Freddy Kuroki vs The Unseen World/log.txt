@@ -1,0 +1,33 @@
+Sat Feb 12 21:30:55 2022
+Linux-5.4.0-65-generic-x86_64-with-Ubuntu-20.04-focal
+Ren'Py 7.3.5.606
+ 
+
+Bootstrap to the start of init.init took 0.18s
+Early init took 0.02s
+Loader init took 0.01s
+Loading error handling took 0.49s
+Loading script took 3.81s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.38s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/john/.renpy/backups/Freddy Kuroki vs The Unseen World':
+Dump and make backups. took 0.15s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.42s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.02s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.15s
