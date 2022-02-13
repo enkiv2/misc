@@ -136,7 +136,7 @@ def snippet2rpy(sid):
 		global snippetdb, docByKw, docByTags
 		def escape(s):
 				return '"'+s.replace('"', '\\"')+'"'
-		def wln(f, line, tabPos=0):
+		def wln(f, line="", tabPos=0):
 				f.write((tabPos*tab)+line+"\n")
 
 		snippet=snippetdb[sid]
@@ -149,14 +149,14 @@ def snippet2rpy(sid):
 				wln(f, "# "+tab+"sid: "+sid)
 				for item in snippet:
 						wln(f, "# "+tab+item+": "+escape(str(snippet[item])))
-				wln(f, "")
+				wln(f)
 		def writeTop(f):
 				if stype in audiotypes:
 						wln(f, "stop sound")
 						wln(f, "stop music")
-				if stype in texttypes:
-						wln(f, "define c"+sid+' = Character("'+snippet["title"]+'", kind=nvl)')
-				wln(f, "")
+						wln(f)
+				wln(f, "define c"+sid+' = Character("'+snippet["title"]+'", kind=nvl)')
+				wln(f)
 		def writeMenu(f, items, isTags):
 				if items:
 						lookup=docByKw
@@ -179,7 +179,7 @@ def snippet2rpy(sid):
 				wln(rf, "label l"+sid)
 				if stype in texttypes:
 						i=0
-						for l in snippet["content"]:
+						for l in content:
 								if stype=="audio":
 										wln(f, "stop sound", 1)
 										wln(f, "play sound s"+sid+"_"+str(i), 1)
@@ -188,7 +188,7 @@ def snippet2rpy(sid):
 				elif stype=="video":
 						wln(f, "nvl "+escape(snippet["title"] + " (video) ("+str(len(snippet["content"]))+" clips)"), 1)
 						i=0
-						for l in snippet["content"]:
+						for l in content:
 								if l:
 										if(len(snippet["content"])>1):
 												i+=1
@@ -199,6 +199,7 @@ def snippet2rpy(sid):
 				if keywords:
 							wln(f, "c"+sid+" "+escape("Keywords: "+(", ".join(keywords))), 1)
 				writeMenus(f)
+				wln(f)
 
 
 		rf=open("snippet_"+sid+".rpy", "w")
