@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Generating Interesting Stories</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">Generating Interesting Stories</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+The problem of generating interesting long-form text (whether fiction or non-fiction) is a problem of information density: people do not…
+</section>
+<section data-field="body" class="e-content">
+<section name="6aa5" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="a39b" id="a39b" class="graf graf--h3 graf--leading graf--title">Generating Interesting Stories</h3><p name="5ab2" id="5ab2" class="graf graf--p graf-after--h3">The problem of generating interesting long-form text (whether fiction or non-fiction) is a problem of information density: people do not like to be told things they already know (or can guess), particularly at length, nor do they generally find the strain of interpreting content that’s too informationally-dense interesting for long. There’s a relatively narrow window of novelty that a piece of text must stay inside for most people to put up with it (and when we go outside that window, there are often motivations outside of interest: we may be daring ourselves to put up with a difficult text out of masochism or pride, or we may need to learn something that isn’t explained in a more accessible way elsewhere). This pattern repeats at multiple levels: not only must we be careful with the novelty of our content, but we must also keep interest with a particular ratio of familiar and unfamiliar words, variation in sentence length and structure, and even changes in tone. Few human writers can maximize all these things successfully; those who can are considered geniuses. So, can a machine?</p><p name="a373" id="a373" class="graf graf--p graf-after--p">Historically, the best-performing text-generators have depended heavily on framing: in some traditions of writing (for instance, modernist or postmodern prose, or symbolist poetry) there is an expectation that the work itself will remain vague and the reader will put more effort into determining how to interpret it, even on an object level. Putting aside the fact that general audiences often do not want to do this much work (particularly for an unproven reward), these generators often have an underlying pattern to their output that is distractingly noticeable at the scale of tens of thousands of words. In other words, on different levels of structure, they are simultaneously too novel and not novel enough.</p><p name="92f0" id="92f0" class="graf graf--p graf-after--p">When humans talk to each other (even in broadcast contexts, where direct interaction and iteration is not possible), we employ a set of tricks to keep interest — Grice’s maxims. These maxims are related to good faith communication and interpretation, and they are built on top of theory of mind. The speaker is expected to limit themselves to saying important, meaningful, and relevant things — and the listener is expected to interpret the things the speaker says as important, meaningful, and relevant, even if those attributes are not immediately apparent. To do this effectively, the speaker must have a model of what the listener knows and does not know, and then find a minimal set of statements to communicate both the main point the speaker is making and the supporting details necessary for that main point to make sense.</p><p name="7ba8" id="7ba8" class="graf graf--p graf-after--p">Machines, as a rule, do not have a complete and accurate theory of mind. There are no artificial general intelligences yet (as far as I am aware). However, just as computers can generate text that’s meaningful and comprehensible to humans without human-level representation, they can also simulate some of the pertinent parts of a theory of mind without one. There are several freely-available “common-sense” ontologies (all incomplete, of course) — notably CYC — that document general-knowledge relationships like “water is wet”.</p><p name="d853" id="d853" class="graf graf--p graf-after--p">A system can begin to implement a rudimentary form of Grice’s maxims by having a pair of ontologies. One ontology, corresponding to the assumed audience, will be a general-knowledge ontology (perhaps adapted to a particular audience). The other ontology will have additional specialist details added: in the context of nonfiction, it might be an expert system, while in the case of fiction you might instead have the details of an imaginary world and its events. A human may then choose a salient high-level statement that the ontology would treat as true (i.e., the lede). Given this lede, the system can use a planning algorithm to determine a set of relations found in the expert ontology that support this lede, finishing as soon as it reaches the point that it is only working with relations found in the general-knowledge ontology. Once this set of ancestors is found, the definitions can be then written out in reverse order: this is the predicate-logic representation of a possible complete explanation, containing only ideas that the reader is expected to find novel. This structure also minimizes digression: we may follow several paths, but each path is essentially a lemma — a totally linear series of new ideas that follow from each other — and each lemma is necessitated by some new idea that requires all of them.</p><p name="a26d" id="a26d" class="graf graf--p graf-after--p">Constructing human-readable sentences out of propositions, predicates, and facts in first order logic is a matter unrelated to the construction of the content of an explanation, and can be done as a second pass. Templating maps naturally to this problem, and random selection of a large library of applicable templates may be sufficient to produce enough stylistic novelty to keep genuinely-new content from being boring to read (although it may be necessary to make this pass a little smarter — to produce more stylistic variation by grouping together contiguous chunks of propositions and turning them into single structures; for instance, multiple facts should generally be turned into a list, and a short lemma may be turned into a parenthetical aside).</p><p name="59ea" id="59ea" class="graf graf--p graf-after--p">An even better system might be made than this. We can imagine a system that, rather than having two ontologies, has a single ontology where relationships are scored based on the likelihood the reader knows them. “Water is wet” will get a 1.0, some secret and occulted truth that only the database is aware of will get a 0.0, and things like “the Norman Invasion began in 1066” and “quarks can have a state called charm” will be somewhere in between. We can then find pathways through the predicate database that are ascending in obviousness, omit ones above some threshold, and determine how terse the templates we use for various ideas based on this obviousness score. That way, an audience with a variety of levels of knowledge can be accommodated.</p><p name="d7c9" id="d7c9" class="graf graf--p graf-after--p graf--trailing">If we know something about potential audiences, we can go even further. People usually learn things in blocks: someone who already knows one fact will often (though not always) know the things it depends upon. So, we can work from an incomplete set of obviousness scores and calculate those scores based on information about what the reader already knows, setting the obviousness score for a fact and all its prerequisites to near 1. This also allows us to segment output based on possible things the reader might know: “if you know how to calculate derivatives, skip to section C; if you can integrate over a complex plane, skip to section F”.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">John Ohno</a> on <a href="https://medium.com/p/b6d1ef5e33ec"><time class="dt-published" datetime="2021-09-02T09:03:39.549Z">September 2, 2021</time></a>.</p><p><a href="https://medium.com/@enkiv2/generating-interesting-stories-b6d1ef5e33ec" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on February 14, 2022.</p></footer></article></body></html>
