@@ -3,7 +3,7 @@ html, a, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	color: #ff7700;
 	background-color: #000000;
 }
-tr, td, ul, ol {
+tr, td, ul, ol, span {
 	border-color: #ff7700;
 	outline: 1px solid #ff7700;
 	padding-top: 5px;
@@ -18,5 +18,10 @@ a {
 a:hover{
 	color: #000000;
 	background-color: #ff7700;
+}
+
+img {
+	filter: sepia(85%) saturate(2328%) hue-rotate(359deg);
+
 }
 
