@@ -30,6 +30,11 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+In 1985, Fyodor 'Freddie' Kuroki purchased a Macintosh and began transplanting his extensive UFO case files to an experimental hypertext system that one of his graduate students at Warwick had written. This system, called HyperNote, was never made commercially available, but Kuroki continued to intermittently maintain and extend it for his own use. When he died in 2013, his estate was donated to Keio University's library archives. In 2016, a group of graduate student researchers ported the Hypernote database to work on modern computers, and gave it the name Kuroki had (in a 1968 lecture) jokingly claimed would be the title of his magnum opus, {i}Freddie Kuroki vs The Unseen World{/i}.
+
+We have tried to make the experience of using this database as close as possible to actually using Kuroki's HyperNote database at the time of his death. As a result, features like searching and bookmarks, which would normally be expected from a modern corpus exploration tool in any digital humanities project, have not been added. After all, this is not merely an archive of Kuroki's notes but a snapshot of the way he worked with those notes (and, because he did much of the maintenance on the software himself, a demonstration of his workflow and which features he valued).
+
+While Kuroki has mostly been forgotten by UFOlogy, he stood beside Keel and Vallee for three decades after the great flap of 1952, and while he moved out of the spotlight to focus on his academic interests in the 1980s (finishing his doctorate in linguistics in 1984 and bringing his own unauthorized translations of french theory to the United States before Massoumi), as this database shows, he continued researching forteana until his death.
 """)
 
 
