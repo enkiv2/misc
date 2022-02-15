@@ -6,7 +6,7 @@ global snippetdb, docBy
 global tf, wc
 global silent, sids, maxMenuItems
 
-maxMenuItems=15
+maxMenuItems=10
 
 snippetdb={}
 docBy={}
