@@ -254,8 +254,8 @@ def snippet2rpy(sid):
 				wln(f, "label "+sid2label(sid)+":")
 				wln(f, "nvl clear", 1)
 				i=0
-				if stype=="video":
-						wln(f, "nvl "+escape(snippet["title"] + " (🎦 video) ("+str(len(snippet["content"]))+" clips)"), 1)
+				if stype in imagetypes:
+						wln(f, "nvl "+escape(snippet["title"] + " ("+stype+" "+typeIcons[stype]+") ("+str(len(snippet["content"]))+" clips)"), 1)
 				for l in content:
 						if l:
 								if stype in texttypes:
@@ -264,11 +264,15 @@ def snippet2rpy(sid):
 										wsay(f, fmtl.pop(0))
 										while fmtl:
 												wln(f, "extend "+escape(fmtl.pop(0)), 1)
-								elif stype=="video":
+								elif stype in imagetypes:
 										if(len(snippet["content"])>1):
-												i+=1
 												wln(f, "nvl "+escape(snippet["title"] + " (clip "+str(i)+"/"+str(len(snippet["content"]))+")"), 1)
-										wln(f, "renpy.movie_cutscene("+escape(l)+")", 1)
+										if stype=="video":
+												wln(f, "renpy.movie_cutscene("+escape(l)+")", 1)
+										elif stype=="image":
+												wln(f, "show "+escape(l), 1)
+												wln(f, "pause", 1)
+												wln(f, "hide "+escape(l), 1)
 								i+=1
 				if stype=="audio":
 						wln(f, "$ SetVoiceMute("+escape(sid)+", True)", 1)
@@ -319,10 +323,13 @@ def generateIndex(sids):
 				if len(options)>maxMenuItems:
 						options=options[:maxMenuItems]
 				for option in options:
-						wmitem(f, option[0], sid2label(option[1]))
+						st=snippetdb[option[1]]["type"]
+						wmitem(f, option[0]+" ("+st+" "+typeIcons[st]+")", sid2label(option[1]))
 				wmitem(f, "⏎ Return to index", "index")
+				if offset>0:
+						wmitem(f, "← Prev Page", by+"_index"+str(offset+1))
 				if (len(allOptions)-offset)>maxMenuItems:
-						wmitem(f, "Next Page", by+"_index"+str(offset+1))
+						wmitem(f, "Next Page →", by+"_index"+str(offset+1))
 						wln(f)
 						generateIndex_r(by, allOptions, offset+maxMenuItems)
 				wln(f)
