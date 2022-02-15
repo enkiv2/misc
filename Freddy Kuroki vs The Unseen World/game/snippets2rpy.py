@@ -214,7 +214,9 @@ def snippet2rpy(sid):
 						wln(f)
 				wln(f, "define "+sid2char(sid)+" = Character("+escape(stitle)+", kind=nvl, voice_tag="+escape(sid)+")")
 				if stype=="audio":
-						wln(f, "SetVoiceMute("+escape(sid)+")")
+						wln(f, "$ SetVoiceMute("+escape(sid)+", False)")
+				else:
+						wln(f, "$ SetVoiceMute("+escape(sid)+", True)")
 				wln(f)
 		def writeMenu(f, items, by):
 				if items:
@@ -266,7 +268,7 @@ def snippet2rpy(sid):
 										wln(f, "renpy.movie_cutscene("+escape(l)+")", 1)
 								i+=1
 				if stype=="audio":
-						wln(f, "SetVoiceMute("+escape(sid)+")", 1)
+						wln(f, "$ SetVoiceMute("+escape(sid)+", True)", 1)
 				if tags:
 							wsay(f, "Tags: "+(", ".join(tags)))
 				if keywords:
@@ -300,7 +302,7 @@ def generateIndex(sids):
 		lookup={
 				"sid": [(x, x) for x in sids],
 				"title":sortHelper("title", lambda x: x),
-				"keyword":sortHelper("keyword", lambda x: snippets[docBy["keyword"][x][0]]["tfidf"][x]),
+				"keyword":sortHelper("keyword", lambda x: snippetdb[docBy["keyword"][x][0]]["tfidf"][x]),
 				"tag":sortHelper("tag"),
 				"source":sortHelper("source"),
 				"type":sortHelper("type")
