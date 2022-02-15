@@ -171,6 +171,7 @@ audiotypes=["video", "audio"]
 texttypes=["text", "audio"]
 imagetypes=["video", "image"]
 menuRedoAction={"video":"watch", "audio":"listen", "text":"read"}
+hyperRe=re.compile("\[([^\] ]*)\]")
 def snippet2rpy(sid):
 		global snippetdb, docBy
 
@@ -192,6 +193,8 @@ def snippet2rpy(sid):
 							l=l[idx+1:]
 				lines.append(l)
 				return lines
+		def replaceHyperLinks(l):
+			return hyperRe.sub("{a=jump:s\\1}\\1{/a}",l)	
 		def sid2char(s):
 				return "c"+s
 		def wjmp(f, s, tabs=3):
@@ -251,6 +254,7 @@ def snippet2rpy(sid):
 				for l in content:
 						if l:
 								if stype in texttypes:
+										l=replaceHyperLinks(l)
 										fmtl=fmt(l)
 										wsay(f, fmtl.pop(0))
 										while fmtl:
