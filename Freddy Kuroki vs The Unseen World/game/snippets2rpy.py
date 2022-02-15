@@ -2,8 +2,12 @@
 import sys, os
 import re
 
-import pycorpora
-stopwords=pycorpora.words.stopwords.en["stopWords"]
+stopwords=[]
+try:
+		import pycorpora
+		stopwords=pycorpora.words.stopwords.en["stopWords"]
+except:
+		print("""Could not find stopwords, so will not filter them. Do you have pycorpora installed? Try:\n\tpip3 install pycorpora --install-option="--corpora-zip-url=https://github.com/dariusk/corpora/archive/master.zip"\n""")
 
 global snippetdb, docBy
 global tf, wc
