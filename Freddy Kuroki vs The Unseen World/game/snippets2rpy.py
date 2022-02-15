@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys
+import sys, os
 import re
 
 global snippetdb, docBy
@@ -378,6 +378,10 @@ def main():
 				sys.argv.remove("-s")
 		if len(sys.argv)>1:
 				sids=sys.argv[1:]
+		else:
+				for item in os.listdir("snippets/"):
+						if len(item)>4 and item[-4:]==".txt":
+								sids.append(item[:-4])
 		sids.sort()
 		print(sids)
 		processSnippets(sids)
