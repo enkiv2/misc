@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import sys
 import re
 
@@ -73,7 +73,7 @@ def snippetIngest(sid):
 
 def snippetTermFreqs():
 		global snippetdb, docBy, wc
-		sids=snippetdb.keys()
+		sids=list(snippetdb.keys())
 		sids.sort()
 		wordRe=re.compile("([a-z0-9][a-z0-9]*)")
 		avg_df=0
@@ -104,7 +104,7 @@ def snippetTermFreqs():
 		avg_df=avg_df/len(snippetdb) # global average frequency within a document
 
 		ax=0
-		for word in tf.keys():
+		for word in list(tf.keys()):
 				if tf[word]==1:
 						del tf[word]
 				else:
@@ -170,6 +170,7 @@ tab="    "
 audiotypes=["video", "audio"]
 texttypes=["text", "audio"]
 imagetypes=["video", "image"]
+typeIcons={"text":"🖹", "video":"🎦", "audio":"🕩", "image":"🖾"}
 menuRedoAction={"video":"watch", "audio":"listen", "text":"read"}
 hyperRe=re.compile("\[([^\] ]*)\]")
 def snippet2rpy(sid):
@@ -225,13 +226,15 @@ def snippet2rpy(sid):
 						for item in items:
 								if item in lookup and len(lookup[item]) >1:
 										suffix=":"
-										tsuffix=" ("+stype+")"
+										tsuffix=""
 										if lookup[item][-1]==sid:
-												suffix=" if False:"
-												tsuffix+=" (trailhead)"
+												#suffix=" if False:"
+												tsuffix+=" (trailhead ↥)"
 										ss=lookup[item]
 										s=ss[(ss.index(sid)+1)%len(ss)]
 										title=snippetdb[s]["title"]
+										st=snippetdb[s]["type"]
+										tsuffix+=" ("+st+" "+typeIcons[st]+")"
 										wln(f, escape(header+': '+item+'-> '+title+tsuffix)+suffix, 2)
 										wjmp(f, s)
 								else:
@@ -239,20 +242,20 @@ def snippet2rpy(sid):
 										wjmp(f, sid)
 		def writeMenus(f):
 				wmheader(f)
-				wln(f, escape(menuRedoAction.get(stype, "view").capitalize()+" again")+":", 2)
+				wln(f, escape("↻ "+menuRedoAction.get(stype, "view").capitalize()+" again")+":", 2)
 				wjmp(f, sid)
 				writeMenu(f, tags, "tag")
 				writeMenu(f, keywords, "keyword")
 				writeMenu(f, [ssource], "source")
 				writeMenu(f, [stype], "type")
-				wln(f, escape("Return to index")+":", 2)
+				wln(f, escape("⏎ Return to index")+":", 2)
 				wln(f, "jump index", 3)
 		def writeLabel(f):
 				wln(f, "label "+sid2label(sid)+":")
 				wln(f, "nvl clear", 1)
 				i=0
 				if stype=="video":
-						wln(f, "nvl "+escape(snippet["title"] + " (video) ("+str(len(snippet["content"]))+" clips)"), 1)
+						wln(f, "nvl "+escape(snippet["title"] + " (🎦 video) ("+str(len(snippet["content"]))+" clips)"), 1)
 				for l in content:
 						if l:
 								if stype in texttypes:
@@ -317,7 +320,7 @@ def generateIndex(sids):
 						options=options[:maxMenuItems]
 				for option in options:
 						wmitem(f, option[0], sid2label(option[1]))
-				wmitem(f, "Return to index", "index")
+				wmitem(f, "⏎ Return to index", "index")
 				if (len(allOptions)-offset)>maxMenuItems:
 						wmitem(f, "Next Page", by+"_index"+str(offset+1))
 						wln(f)
