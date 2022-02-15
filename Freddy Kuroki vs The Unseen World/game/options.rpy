@@ -51,7 +51,7 @@ define build.name = "FreddyKurokivsTheUnseenWorld"
 ## default. Setting one of these to False will hide the appropriate mixer.
 
 define config.has_sound = True
-define config.has_music = True
+define config.has_music = False
 define config.has_voice = True
 
 
@@ -77,23 +77,23 @@ define config.has_voice = True
 
 ## Entering or exiting the game menu.
 
-define config.enter_transition = dissolve
-define config.exit_transition = dissolve
+define config.enter_transition = slideright
+define config.exit_transition = slideleft
 
 
 ## Between screens of the game menu.
 
-define config.intra_transition = dissolve
+define config.intra_transition = squares
 
 
 ## A transition that is used after a game has been loaded.
 
-define config.after_load_transition = None
+define config.after_load_transition = irisin
 
 
 ## Used when entering the main menu after the game has ended.
 
-define config.end_game_transition = None
+define config.end_game_transition = irisout
 
 
 ## A variable to set the transition used when the game starts does not exist.
