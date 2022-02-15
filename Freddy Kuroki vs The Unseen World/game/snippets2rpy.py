@@ -152,6 +152,7 @@ def escape(s):
 def wln(f, line="", tabPos=0):
 		f.write((tabPos*tab)+line+"\n")
 def wmheader(f, q="Navigate to:", tabs=1, nvl_mode=True):
+		wln(f, "nvl clear", tabs)
 		menu="menu"
 		if nvl_mode:
 				menu="menu (nvl=True)"

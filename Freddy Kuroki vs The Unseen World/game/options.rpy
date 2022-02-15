@@ -151,6 +151,11 @@ define config.save_directory = "FreddyKurokivsTheUnseenWorld-1644719412"
 
 define config.window_icon = "gui/window_icon.png"
 
+## Misc ########################################################################
+##
+## This section contains miscellaneous configuration settings
+
+define config.menu_include_disabled = True
 
 ## Build configuration #########################################################
 ##
