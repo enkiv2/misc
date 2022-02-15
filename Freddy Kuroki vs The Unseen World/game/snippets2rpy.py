@@ -165,7 +165,7 @@ def wmitem(f, title="[no title]", target="index", sfx="", tabs=1):
 		wln(f, "jump "+target, tabs+2)
 
 def sid2label(s):
-			return "s"+s
+			return "s"+s.replace("-", "_")
 tab="    "
 audiotypes=["video", "audio"]
 texttypes=["text", "audio"]
@@ -197,7 +197,7 @@ def snippet2rpy(sid):
 		def replaceHyperLinks(l):
 			return hyperRe.sub("{a=jump:s\\1}\\1{/a}",l)	
 		def sid2char(s):
-				return "c"+s
+				return "c"+s.replace("-", "_")
 		def wjmp(f, s, tabs=3):
 				wln(f, "jump "+sid2label(s), tabs)
 		def wsay(f, l, s=sid, tabs=1):
