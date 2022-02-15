@@ -190,7 +190,7 @@ def snippet2rpy(sid):
 							idx=l.rfind(" ")
 							while idx>80:
 									idx=l[:idx].rfind(" ")
-							lines.append(l[:idx]+"\\n{nw}")
+							lines.append(l[:idx]+"{nw}\\n")
 							l=l[idx+1:]
 				lines.append(l)
 				return lines
@@ -256,12 +256,23 @@ def snippet2rpy(sid):
 				i=0
 				if stype in imagetypes:
 						wln(f, "nvl "+escape(snippet["title"] + " ("+stype+" "+typeIcons[stype]+") ("+str(len(snippet["content"]))+" clips)"), 1)
+				first=True
 				for l in content:
-						if l:
+						if not l:
+								if stype=="text":
+										wsay(f, "\\n")
+										first=True
+						else:
 								if stype in texttypes:
 										l=replaceHyperLinks(l)
+										if stype=="text":
+												l+="{nw}"
 										fmtl=fmt(l)
-										wsay(f, fmtl.pop(0))
+										if(first or stype=="audio"):
+												wsay(f, fmtl.pop(0))
+												first=False
+										else:
+												wln(f, "extend "+escape("{nw}\\n"), 1)
 										while fmtl:
 												wln(f, "extend "+escape(fmtl.pop(0)), 1)
 								elif stype in imagetypes:

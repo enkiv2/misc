@@ -1,0 +1,21 @@
+Type: text
+Source: HyperNote User's Manual
+Title: About HyperNote
+HyperNote is a hypermedia editor and browser for the Macintosh, written in 1985 by Evian Beck and August Spare.
+
+A HyperNote database is composed of snippets, which have titles, identifiers (called SIDs), and data types.
+
+august 1985 added image support -K
+august 1985 added index-by-type -K
+september 1985 data type icons -K
+october 1985 audio clip support -EB
+october 1985 audio icon -K
+january 1986 add index-by-source -K
+june 1987 port to amiga, increase max display size -K
+feb 1991 video support -K
+feb 1991 increase max audio length -K
+jan 1993 increase max database size -K
+mar 1995 windows port -K
+aug 1997 tried to custom trails support but gave up -K
+feb 2002 cross-compile windows and osx -K
+

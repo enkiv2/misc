@@ -1,7 +1,6 @@
 Type: audio
 Source: case notes
 Title: Hypnotic regression session with C, 1st April 1957
-
 K: This is my third hypnotic regression with subject C, regarding his 1952 experience.
 
 K: Are you comfortable?
