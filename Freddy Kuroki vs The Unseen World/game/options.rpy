@@ -156,6 +156,7 @@ define config.window_icon = "gui/window_icon.png"
 ## This section contains miscellaneous configuration settings
 
 define config.menu_include_disabled = True
+define config.auto_voice = "audio/{id}.mp3"
 
 ## Build configuration #########################################################
 ##

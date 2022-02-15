@@ -209,7 +209,9 @@ def snippet2rpy(sid):
 						wln(f, "stop sound")
 						wln(f, "stop music")
 						wln(f)
-				wln(f, "define "+sid2char(sid)+" = Character("+escape(stitle)+", kind=nvl)")
+				wln(f, "define "+sid2char(sid)+" = Character("+escape(stitle)+", kind=nvl, voice_tag="+escape(sid)+")")
+				if stype=="audio":
+						wln(f, "SetVoiceMute("+escape(sid)+")")
 				wln(f)
 		def writeMenu(f, items, by):
 				if items:
@@ -248,9 +250,6 @@ def snippet2rpy(sid):
 						wln(f, "nvl "+escape(snippet["title"] + " (video) ("+str(len(snippet["content"]))+" clips)"), 1)
 				for l in content:
 						if l:
-								if stype=="audio":
-										wln(f, "stop sound", 1)
-										wln(f, "play sound s"+sid+"_"+str(i), 1)
 								if stype in texttypes:
 										fmtl=fmt(l)
 										wsay(f, fmtl.pop(0))
@@ -262,6 +261,8 @@ def snippet2rpy(sid):
 												wln(f, "nvl "+escape(snippet["title"] + " (clip "+str(i)+"/"+str(len(snippet["content"]))+")"), 1)
 										wln(f, "renpy.movie_cutscene("+escape(l)+")", 1)
 								i+=1
+				if stype=="audio":
+						wln(f, "SetVoiceMute("+escape(sid)+")", 1)
 				if tags:
 							wsay(f, "Tags: "+(", ".join(tags)))
 				if keywords:
