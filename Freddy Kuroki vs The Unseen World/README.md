@@ -11,3 +11,4 @@ The snippet format is line-based and consists of headers, content, and tags -- c
 
 Some headers are meaningful to [snippets2rpy](game/snippets2rpy.py); for instance, the `Type` header controls how content is interpreted (with `text` and `audio` types processing content as text, rendering it onscreen based on type-specific rules and processing it to generate keywords, while the `video` and `image` types treat content as a series of paths).
 
+Binaries can be downloaded from [itch.io](https://enkiv2.itch.io/freddy-kuroki-vs-the-unseen-world).
