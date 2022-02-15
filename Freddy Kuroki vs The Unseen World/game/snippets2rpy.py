@@ -2,6 +2,9 @@
 import sys, os
 import re
 
+import pycorpora
+stopwords=pycorpora.words.stopwords.en["stopWords"]
+
 global snippetdb, docBy
 global tf, wc
 global silent, sids, maxMenuItems
@@ -105,7 +108,7 @@ def snippetTermFreqs():
 
 		ax=0
 		for word in list(tf.keys()):
-				if tf[word]==1:
+				if tf[word]==1 or word in stopwords:
 						del tf[word]
 				else:
 						ax+=tf[word]
