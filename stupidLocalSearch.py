@@ -4,7 +4,7 @@ import re
 try:
 		import cPickle as pickle
 except:
-		print("Could not find cpickle; falling back to pickle")
+		sys.stderr.write("Could not find cpickle; falling back to pickle\n")
 		import pickle
 
 stopwords=[]
@@ -12,7 +12,7 @@ try:
 		import pycorpora
 		stopwords=pycorpora.words.stopwords.en["stopWords"]
 except:
-		print("""Could not find stopwords, so will not filter them. Do you have pycorpora installed? Try:\n\tpip3 install pycorpora --install-option="--corpora-zip-url=https://github.com/dariusk/corpora/archive/master.zip"\n""")
+		sys.stderr.write("""Could not find stopwords, so will not filter them. Do you have pycorpora installed? Try:\n\tpip3 install pycorpora --install-option="--corpora-zip-url=https://github.com/dariusk/corpora/archive/master.zip"\n""")
 
 
 global db, db_ctime
@@ -30,12 +30,12 @@ max_kw=100
 def dprint(s, flush=True, lnl=False, tnl=False):
 		if not silent:
 				if(lnl):
-						sys.stdout.write("\n")
-				sys.stdout.write(s)
+						sys.stderr.write("\n")
+				sys.stderr.write(s)
 				if(tnl):
-						sys.stdout.write("\n")
+						sys.stderr.write("\n")
 				if(flush):
-						sys.stdout.flush()
+						sys.stderr.flush()
 def progress():
 		dprint(".")
 
