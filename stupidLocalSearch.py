@@ -74,14 +74,15 @@ def termFreqs():
 								else:
 										stf[word]=1
 								i+=1
-				wc+=i
 				snippet["tf"]=stf
-				# Calculate average frequency for terms in this document
-				df=0
-				for w in stf:
-						df+=stf[w]
-				df=(1.0*df)/i
-				avg_df+=df
+				if i>0:
+						wc+=i
+						# Calculate average frequency for terms in this document
+						df=0
+						for w in stf:
+								df+=stf[w]
+						df=(1.0*df)/i
+						avg_df+=df
 		avg_df=avg_df/len(db) # global average frequency within a document
 
 		ax=0
@@ -130,10 +131,13 @@ def loadDb(fatal=True):
 
 def process(fnames):
 		global db, db_ctime
-		loadDb(false)
+		loadDb(False)
 		dprint("Processing files...")
 		for fname in fnames:
-				ingest(fname)
+				try:
+						ingest(fname)
+				except UnicodeDecodeError:
+						dprint("?")
 		dprint("\tDONE\nCalculating term frequencies...")
 		termFreqs()
 		dprint("\tDONE\nWriting database...")
