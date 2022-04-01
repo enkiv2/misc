@@ -26,6 +26,6 @@ processLink() {
 (while : ; do 
 	post "$(shuf -n 1 ~/.linkit | processLink)" 
 	sleep 4h
-	#sleep 23m
+	sleep 23m
 done 2>&1) > /dev/null 
 

@@ -152,8 +152,8 @@ def stat():
 				kw=db[f]["keywords"]
 				kw=[(db[f]["tfidf"][k], k, db[f]["tf"][k]) for k in kw]
 				kw.sort(reverse=True)
-				if len(kw)>5:
-						kw=kw[:5]
+				if len(kw)>100:
+						kw=kw[:100]
 				for k in kw:
 						print("\t".join([k[1], str(k[0]), str(k[2])]))
 				print("")

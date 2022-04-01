@@ -104,9 +104,9 @@ function uploadBadIdeas() {
 	scp ~/ideas.html $1
 }
 function uploadlinks() {
-	fmtlinks > ~/index.html
+	fmtlinks > ~/links.html
 	fmtlinksrss > ~/feed.rss
-	scp ~/index.html $1
+	scp ~/links.html $1
 	scp ~/feed.rss $(echo $1 | sed 's/\/[^\/]*$//')
 }
 
