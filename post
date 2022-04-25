@@ -2,6 +2,6 @@
 args="$@"
 tpost "$args"
 yes | twtxt tweet "$args"
-#echo -e "toot -v $args\nu" | tootstream
+echo -e "toot -v $args\nu" | ~/.local/bin/tootstream
 #sbot publish --type post --text "$args"
 
