@@ -10,6 +10,8 @@
 \usepackage{rotating}
 \usepackage{listings} % Source code formatting and highlighting
 \usepackage{fancyhdr}
+\usepackage{quotchap}
+% Marginal notes
 \usepackage{marginnote}
 \renewcommand{\marginfont}{\tiny}
 % Bibliography setup

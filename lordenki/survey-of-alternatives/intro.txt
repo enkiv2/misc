@@ -1,6 +1,9 @@
+\begin{savequote}
+"Ideas are always reusable, because they have been usable before[...] The history of ideas should never be continuous; it should be wary of resemblances, but also of descents and filiations; it should be content to mark the thresholds through which an idea passes, the journeys it takes that change its nature or object." 
+\qauthor{Giles Deluze and Felix Guattari, A Thousand Plateaus. \footnote{This is from Brian Massumi's translation.}}
+\end{savequote}
 # Introduction
 
-"Ideas are always reusable, because they have been usable before[...] The history of ideas should never be continuous; it should be wary of resemblances, but also of descents and filiations; it should be content to mark the thresholds through which an idea passes, the journeys it takes that change its nature or object." - Giles Deluze and Felix Guattari, A Thousand Plateaus. \footnote{This is from Brian Massumi's translation.}
 
 The book you have before you is in some ways a companion piece to my earlier essay collection, Big and Small Computing. You will not need to read that book in order to understand this one, but doing so will illuminate why I consider a book like this one necessary, and I hope that the two of them together will be worth more than either one alone. Where that book is three quarters manifesto and polemic, this one is intended to be three quarters concrete technical information. Where that book focuses on what computing could be, this one focuses on already-existing systems. What they have in common is a focus on alternatives: systems that deviate from nigh-omnipresent norms and challenge our expectations of how a computer needs to operate. This book is a bestiary of alien forms, positioned to infect you.
 
