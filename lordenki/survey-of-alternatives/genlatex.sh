@@ -2,14 +2,17 @@
 (
 cat prefix.latex
 cat gloss.txt | sed 's/\(^.*\): \(.*\)$/\\newglossaryentry{\1}{name={\1},description={\2}}/'
+
 echo '\\begin{document}'
 cat frontmatter.latex
+
 echo '\\mainmatter'
 echo '\\begin{sidewaysfigure}
 	\\includesvg[width=5in]{gui_evolution}
 \\caption{The evolution of user interfaces, showing the flow of ideas between related projects}
 \\end{sidewaysfigure}'
-)> book.latex
+
+echo "% Main body: chapters"
 for i in intro.txt chapter*.txt ; do 
 	pandoc -f markdown -t latex $i -o $i.latex
 	sed -i 's/\\section{/\\chapter{/;s/\\subsection{/\\section{/' $i.latex
@@ -21,9 +24,11 @@ for i in intro.txt chapter*.txt ; do
 	cut -d: -f 1 < gloss.txt | tr 'A-Z' 'a-z' | grep . | while read x ; do
 		sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $i.latex
 	done
-	cat $i.latex >> book.latex
+	cat $i.latex 
 done
-echo '\\chapter{Appendix A: Resources}' >> book.latex
+
+echo "% Appendices"
+echo '\\chapter{Appendix A: Resources}' 
 (
 	echo '\\marginnote{The live version of this appendix is available from \\textless \\url{https://www.lord-enki.net/resources-survey-of-alternatives.html} \\textgreater}'
   first=""
@@ -39,10 +44,12 @@ echo '\\chapter{Appendix A: Resources}' >> book.latex
 			echo '\\tightlist'
 		fi
 	done )> resources.latex
-cat resources.latex >> book.latex
-echo '\\chapter{Appendix B: Further Reading}' >> book.latex
-cat further_reading.txt >> book.latex
-cat backmatter.latex >> book.latex
+cat resources.latex
+echo '\\chapter{Appendix B: Further Reading}'
+cat further_reading.txt
+cat backmatter.latex
+)> book.latex
+
 echo "R" | pdflatex book.latex 
 biber book
 echo "R" | pdflatex book.latex 
