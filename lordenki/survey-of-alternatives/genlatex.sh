@@ -6,7 +6,7 @@ echo '\\begin{document}'
 cat frontmatter.latex
 echo '\\mainmatter'
 echo '\\begin{sidewaysfigure}
-	\\includesvg[width=8.5in]{gui_evolution}
+	\\includesvg[width=5in]{gui_evolution}
 \\caption{The evolution of user interfaces, showing the flow of ideas between related projects}
 \\end{sidewaysfigure}'
 )> book.latex
