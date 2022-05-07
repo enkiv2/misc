@@ -42,11 +42,7 @@ echo '\\chapter{Appendix A: Resources}' >> book.latex
 cat resources.latex >> book.latex
 echo '\\chapter{Appendix B: Further Reading}' >> book.latex
 cat further_reading.txt >> book.latex
-echo '\\printglossaries' >> book.latex
-echo '\\glsall' >> book.latex
-echo '\\printbibliography' >> book.latex
-echo '\\printindex' >> book.latex
-echo '\\end{document}' >> book.latex
+cat backmatter.latex >> book.latex
 echo "R" | pdflatex book.latex 
 biber book
 echo "R" | pdflatex book.latex 
