@@ -1,12 +1,6 @@
 #!/usr/bin/env zsh
 
-function genLatex() {
-	cat prefix.latex
-	cat gloss.txt | sed 's/\(^.*\): \(.*\)$/\\newglossaryentry{\1}{name={\1},description={\2}}/'
-
-	echo '\\begin{document}'
-	cat frontmatter.latex
-
+function genLatexMain() {
 	echo '\\mainmatter'
 	echo '\\begin{sidewaysfigure}
 		\\includesvg[width=5in]{gui_evolution}
@@ -27,27 +21,44 @@ function genLatex() {
 		done
 		cat $i.latex 
 	done
+}
 
+function genLatexResources() {
+	echo '\\marginnote{The live version of this appendix is available from \\textless \\url{https://www.lord-enki.net/resources-survey-of-alternatives.html} \\textgreater}'
+	first=""
+	cat ../resources-survey-of-alternatives.txt | while read x ; do 
+		if echo "$x" | grep -q '://' ; then
+			echo '\\item'
+			echo '  \\textless \\url{'"$x"'} \\textgreater'
+		else 
+			[ -z "$first" ] || echo '\\end{itemize}'
+			first="no"
+			echo '\\section{'"$x"'}'
+			echo '\\begin{itemize}'
+			echo '\\tightlist'
+		fi
+	done 
+}
+
+function genLatexAppendices() {
 	echo "% Appendices"
 	echo '\\chapter{Appendix A: Resources}' 
-	(
-		echo '\\marginnote{The live version of this appendix is available from \\textless \\url{https://www.lord-enki.net/resources-survey-of-alternatives.html} \\textgreater}'
-		first=""
-		cat ../resources-survey-of-alternatives.txt | while read x ; do 
-			if echo "$x" | grep -q '://' ; then
-				echo '\\item'
-				echo '  \\textless \\url{'"$x"'} \\textgreater'
-			else 
-				[ -z "$first" ] || echo '\\end{itemize}'
-				first="no"
-				echo '\\section{'"$x"'}'
-				echo '\\begin{itemize}'
-				echo '\\tightlist'
-			fi
-		done )> resources.latex
-	cat resources.latex
+	genLatexResources
+
 	echo '\\chapter{Appendix B: Further Reading}'
 	cat further_reading.txt
+}
+
+function genLatex() {
+	cat prefix.latex
+	cat gloss.txt | sed 's/\(^.*\): \(.*\)$/\\newglossaryentry{\1}{name={\1},description={\2}}/'
+
+	echo '\\begin{document}'
+	cat frontmatter.latex
+
+	genLatexMain
+	genLatexAppendices
+
 	cat backmatter.latex
 }
 
