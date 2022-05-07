@@ -11,7 +11,7 @@
 \usepackage{listings} % Source code formatting and highlighting
 \usepackage{fancyhdr}
 \usepackage{marginnote}
-\renewcommand{\\marginfont}{\\tiny}
+\renewcommand{\marginfont}{\tiny}
 % Bibliography setup
 \usepackage{imakeidx}
 \usepackage[backend=biber,

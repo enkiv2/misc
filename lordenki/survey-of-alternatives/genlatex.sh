@@ -1,28 +1,10 @@
 #!/usr/bin/env zsh
 (
 cat prefix.latex
-cat gloss.latex
 cat gloss.txt | sed 's/\(^.*\): \(.*\)$/\\newglossaryentry{\1}{name={\1},description={\2}}/'
-echo '\\begin{document}
-\\frontmatter
-\\author{John Ohno}\\title{Interfaces and Systems: A Survey of Alternatives}
-\\def\\secondpage{\\clearpage\\null\\vfill
-\\pagestyle{empty}
-\\begin{minipage}[b]{0.9\\textwidth}
-\\footnotesize\\raggedright
-\\setlength{\\parskip}{0.5\\baselineskip}
-Copyright \\copyright 2018--\\the\\year\\ John Ohno\\par
-All rites reversed
-\\end{minipage}
-\\vspace*{2\\baselineskip}
-\\cleardoublepage
-\\rfoot{\\thepage}}
-\\maketitle{}\\newpage{}\\secondpage
-\\newpage{}
-\\tableofcontents{}
-\\listoffigures
-\\listoftables
-\\mainmatter'
+echo '\\begin{document}'
+cat frontmatter.latex
+echo '\\mainmatter'
 echo '\\begin{sidewaysfigure}
 	\\includesvg[width=8.5in]{gui_evolution}
 \\caption{The evolution of user interfaces, showing the flow of ideas between related projects}

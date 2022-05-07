@@ -1,0 +1,18 @@
+\frontmatter
+\author{John Ohno}\title{Interfaces and Systems: A Survey of Alternatives}
+\def\secondpage{\clearpage\null\vfill
+\pagestyle{empty}
+\begin{minipage}[b]{0.9\textwidth}
+\footnotesize\raggedright
+\setlength{\parskip}{0.5\baselineskip}
+Copyright \copyright 2018--\the\year\ John Ohno\par
+All rites reversed
+\end{minipage}
+\vspace*{2\baselineskip}
+\cleardoublepage
+\rfoot{\thepage}}
+\maketitle{}\newpage{}\secondpage
+\newpage{}
+\tableofcontents{}
+\listoffigures
+\listoftables
