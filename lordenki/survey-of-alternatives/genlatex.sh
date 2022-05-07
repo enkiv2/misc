@@ -1,5 +1,19 @@
 #!/usr/bin/env zsh
 
+function genLatexChapter() {
+	pandoc -f markdown -t latex $1 -o $1.latex
+	sed -i 's/\\section{/\\chapter{/;s/\\subsection{/\\section{/' $1.latex
+	sed -i 's/\\hypertarget{.*$//;s/\(\\label{.*}\)}/\1/' $1.latex
+	sed -i 's/\(Big and Small Computing\)/\\textit{\1}\\cite{bigandsmallcomputing}/' $1.latex
+	cut -d: -f 1 < gloss.txt | grep . | while read x ; do
+		sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $1.latex
+	done
+	cut -d: -f 1 < gloss.txt | tr 'A-Z' 'a-z' | grep . | while read x ; do
+		sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $1.latex
+	done
+	cat $1.latex 
+}
+
 function genLatexMain() {
 	echo '\\mainmatter'
 	echo '\\begin{sidewaysfigure}
@@ -8,18 +22,8 @@ function genLatexMain() {
 	\\end{sidewaysfigure}'
 
 	echo "% Main body: chapters"
-	for i in intro.txt chapter*.txt ; do 
-		pandoc -f markdown -t latex $i -o $i.latex
-		sed -i 's/\\section{/\\chapter{/;s/\\subsection{/\\section{/' $i.latex
-		sed -i 's/\\hypertarget{.*$//;s/\(\\label{.*}\)}/\1/' $i.latex
-		sed -i 's/\(Big and Small Computing\)/\\textit{\1}\\cite{bigandsmallcomputing}/' $i.latex
-		cut -d: -f 1 < gloss.txt | grep . | while read x ; do
-			sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $i.latex
-		done
-		cut -d: -f 1 < gloss.txt | tr 'A-Z' 'a-z' | grep . | while read x ; do
-			sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $i.latex
-		done
-		cat $i.latex 
+	for i in intro.txt chapter*.txt ; do
+		genLatexChapter $i  
 	done
 }
 
