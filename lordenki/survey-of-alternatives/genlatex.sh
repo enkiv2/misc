@@ -3,7 +3,9 @@
 hyperlinkpackage="[breaklinks]{hyperref}" 	# for ebook use only -- does not reliably break long links, so KDP will reject for print books
 hyperlinkpackage="[hypens]{url}"						# for print book use only -- does not make links clickable
 
-echo '\\documentclass{memoir}
+echo '\\documentclass[500paper]{kdp} % 5x8 inches
+\\usepackage{geometry}
+\\usepackage{layout}
 \\usepackage{amsmath} % Advanced math typesetting
 \\usepackage[utf8]{inputenc} % Unicode support (Umlauts etc.)
 \\usepackage'"$hyperlinkpackage"'
@@ -13,11 +15,13 @@ echo '\\documentclass{memoir}
 \\usepackage{listings} % Source code formatting and highlighting
 \\usepackage{fancyhdr}
 \\usepackage{marginnote}
+\\renewcommand{\\marginfont}{\\tiny}
 \\usepackage{imakeidx}
 \\usepackage[backend=biber,
 style=alphabetic,
 sorting=ynt
 ]{biblatex}
+\\usepackage{xurl}
 \\usepackage[toc]{glossaries}'
 echo '\\makeglossaries
 \\glsnoexpandfields
@@ -52,6 +56,7 @@ echo '\\begin{sidewaysfigure}
 for i in intro.txt chapter*.txt ; do 
 	pandoc -f markdown -t latex $i -o $i.latex
 	sed -i 's/\\section{/\\chapter{/;s/\\subsection{/\\section{/' $i.latex
+	sed -i 's/\\hypertarget{.*$//;s/\(\\label{.*}\)}/\1/' $i.latex
 	sed -i 's/\(Big and Small Computing\)/\\textit{\1}\\cite{bigandsmallcomputing}/' $i.latex
 	cut -d: -f 1 < gloss.txt | grep . | while read x ; do
 		sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $i.latex
@@ -62,7 +67,12 @@ for i in intro.txt chapter*.txt ; do
 	cat $i.latex >> book.latex
 done
 echo '\\chapter{Appendix A: Resources}' >> book.latex
-pandoc -f html -t latex <(cat ../resources-survey-of-alternatives.html | iconv -t "utf-8//IGNORE" | sed 's/<li>/\n<li>/g;s/<\/ul>\(.*\)<ul>$/<\/ul><h1>\1<\/h1><ul>/;s/href="\([^"]*\)">\([^>]*\)>/href="\1">\2><br>\&lt;\1\&gt;/') >> book.latex
+cat ../resources-survey-of-alternatives.html | iconv -t "utf-8//IGNORE" | sed '
+	s/<li>/\n<li>/g;
+	s/<\/ul>\(.*\)<ul>$/<\/ul><h1>\1<\/h1><ul>/;
+	s/href="\([^"]*\)">\([^>]*\)>/href="\1">\2><br><br>\&lt;<pre>\1<\/pre>\&gt;/' > resources.html
+pandoc -f html -t latex resources.html | sed 's/\\hypertarget{.*$//;s/\(\\label{.*}\)}/\1/' > resources.latex
+cat resources.latex >> book.latex
 echo '\\chapter{Appendix B: Further Reading}' >> book.latex
 cat further_reading.txt >> book.latex
 echo '\\printglossaries' >> book.latex
@@ -79,5 +89,5 @@ biber book
 echo "R" | pdflatex book.latex 
 rm -f *.{bbl,blg,glo,idx,ilg,ind,ist,log,run.xml,toc,aux,bcf,glg,gls,lof,lot}
 rm -f *.out
-rm -f *.latex
+#rm -f *.latex
 #xpdf book.pdf
