@@ -1,6 +1,6 @@
 \begin{savequote}
 "Ideas are always reusable, because they have been usable before[...] The history of ideas should never be continuous; it should be wary of resemblances, but also of descents and filiations; it should be content to mark the thresholds through which an idea passes, the journeys it takes that change its nature or object." 
-\qauthor{Giles Deleuze and Felix Guattari, A Thousand Plateaus. \footnote{This is from Brian Massumi's translation.}}
+\qauthor{Giles Deleuze and Felix Guattari, A Thousand Plateaus \footnote{This is from Brian Massumi's translation.}}
 \end{savequote}
 # Introduction
 
