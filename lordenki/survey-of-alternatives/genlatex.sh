@@ -29,14 +29,14 @@ echo '\\chapter{Appendix A: Resources}' >> book.latex
   first=""
 	cat ../resources-survey-of-alternatives.txt | while read x ; do 
 		if echo "$x" | grep -q '://' ; then
-			echo "\\item"
-			echo "  \\\\textless \\\\url{$x} \\\\textgreater"
+			echo '\\item'
+			echo '  \\textless \\url{'"$x"'} \\textgreater'
 		else 
-      [ -z "$first" ] || echo "\\\\end{itemize}"
+      [ -z "$first" ] || echo '\\end{itemize}'
       first="no"
-			echo "\\section{$x}"
-			echo "\\\\begin{itemize}"
-			echo "\\\\tightlist"
+			echo '\\section{'"$x"'}'
+			echo '\\begin{itemize}'
+			echo '\\tightlist'
 		fi
 	done )> resources.latex
 cat resources.latex >> book.latex
