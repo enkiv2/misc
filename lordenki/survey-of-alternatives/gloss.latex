@@ -1,0 +1,5 @@
+% Glossary setup
+\makeglossaries
+\glsnoexpandfields
+\makeindex[intoc]
+\addbibresource{bibliography.bib}

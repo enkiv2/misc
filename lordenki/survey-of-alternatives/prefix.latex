@@ -1,0 +1,27 @@
+\documentclass[500paper]{kdp} % 5x8 inches
+\usepackage{geometry}
+\usepackage{layout}
+\usepackage{amsmath} % Advanced math typesetting
+\usepackage[utf8]{inputenc} % Unicode support (Umlauts etc.)
+%\usepackage[breaklinks]{hyperref} % for ebook use only -- does not reliably break long links, so KDP will reject for print books
+\usepackage[hypens]{url}          % for print book use only -- does not make links clickable
+\usepackage{graphicx} % Add pictures to your document
+\usepackage{svg}
+\usepackage{rotating}
+\usepackage{listings} % Source code formatting and highlighting
+\usepackage{fancyhdr}
+\usepackage{marginnote}
+\renewcommand{\\marginfont}{\\tiny}
+% Bibliography setup
+\usepackage{imakeidx}
+\usepackage[backend=biber,
+style=alphabetic,
+sorting=ynt
+]{biblatex}
+\usepackage{xurl} % split URLs
+% Glossary setup
+\usepackage[toc]{glossaries}
+\makeglossaries
+\glsnoexpandfields
+\makeindex[intoc]
+\addbibresource{bibliography.bib}

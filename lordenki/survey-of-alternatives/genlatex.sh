@@ -1,32 +1,7 @@
 #!/usr/bin/env zsh
 (
-hyperlinkpackage="[breaklinks]{hyperref}" 	# for ebook use only -- does not reliably break long links, so KDP will reject for print books
-hyperlinkpackage="[hypens]{url}"						# for print book use only -- does not make links clickable
-
-echo '\\documentclass[500paper]{kdp} % 5x8 inches
-\\usepackage{geometry}
-\\usepackage{layout}
-\\usepackage{amsmath} % Advanced math typesetting
-\\usepackage[utf8]{inputenc} % Unicode support (Umlauts etc.)
-\\usepackage'"$hyperlinkpackage"'
-\\usepackage{graphicx} % Add pictures to your document
-\\usepackage{svg}
-\\usepackage{rotating}
-\\usepackage{listings} % Source code formatting and highlighting
-\\usepackage{fancyhdr}
-\\usepackage{marginnote}
-\\renewcommand{\\marginfont}{\\tiny}
-\\usepackage{imakeidx}
-\\usepackage[backend=biber,
-style=alphabetic,
-sorting=ynt
-]{biblatex}
-\\usepackage{xurl}
-\\usepackage[toc]{glossaries}'
-echo '\\makeglossaries
-\\glsnoexpandfields
-\\makeindex[intoc]
-\\addbibresource{bibliography.bib}'
+cat prefix.latex
+cat gloss.latex
 cat gloss.txt | sed 's/\(^.*\): \(.*\)$/\\newglossaryentry{\1}{name={\1},description={\2}}/'
 echo '\\begin{document}
 \\frontmatter
