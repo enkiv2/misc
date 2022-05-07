@@ -1,0 +1,4 @@
+# TempleOS
+\marginnote{Terry Davis' colorful personal life is beyond the scope of this document. It is covered in detail in \cite{knudsentempleos}.}
+
+TempleOS was written by Terry Davis.
