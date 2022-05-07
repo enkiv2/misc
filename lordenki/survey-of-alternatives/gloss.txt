@@ -2,3 +2,4 @@ typescript: a text-based interface that interleaves code and output, such as a c
 LEAP: search-oriented navigation of documents. [From Jef Raskin's work on Swyft and the Canon Cat. No relation to the federated card catalog system for municipal libraries of the same name.]
 WIMP: a system with overlapping windows, clickable icons, and drop-down menus, navigated with a mouse [Acronym for "Windows Icons Menus Pointers"]
 REPL: see \index{typescript}\gls{typescript} [Acronym for "Read Evaluate Print Loop"]
+homogeneous system: a system that uses a single consistent language for system programming, high level programming, and interaction. [I have taken this from \cite{homogeneous}]
