@@ -67,11 +67,20 @@ for i in intro.txt chapter*.txt ; do
 	cat $i.latex >> book.latex
 done
 echo '\\chapter{Appendix A: Resources}' >> book.latex
-cat ../resources-survey-of-alternatives.html | iconv -t "utf-8//IGNORE" | sed '
-	s/<li>/\n<li>/g;
-	s/<\/ul>\(.*\)<ul>$/<\/ul><h1>\1<\/h1><ul>/;
-	s/href="\([^"]*\)">\([^>]*\)>/href="\1">\2><br><br>\&lt;<pre>\1<\/pre>\&gt;/' > resources.html
-pandoc -f html -t latex resources.html | sed 's/\\hypertarget{.*$//;s/\(\\label{.*}\)}/\1/' > resources.latex
+(
+  first=""
+	cat ../resources-survey-of-alternatives.txt | while read x ; do 
+		if echo "$x" | grep -q '://' ; then
+			echo "\\item"
+			echo "  \\\\textless \\\\url{$x} \\\\textgreater{}"
+		else 
+      [ -z "$first" ] || echo "\\\\end{itemize}"
+      first="no"
+			echo "\\section{$x}"
+			echo "\\\\begin{itemize}"
+			echo "\\\\tightlist"
+		fi
+	done )> resources.latex
 cat resources.latex >> book.latex
 echo '\\chapter{Appendix B: Further Reading}' >> book.latex
 cat further_reading.txt >> book.latex
