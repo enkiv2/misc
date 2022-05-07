@@ -1,0 +1,5 @@
+\printglossaries
+\glsall
+\printbibliography
+\printindex
+\end{document}
