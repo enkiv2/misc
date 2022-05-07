@@ -68,11 +68,12 @@ for i in intro.txt chapter*.txt ; do
 done
 echo '\\chapter{Appendix A: Resources}' >> book.latex
 (
+	echo '\\marginnote{The live version of this appendix is available from \\textless \\url{https://www.lord-enki.net/resources-survey-of-alternatives.html} \\textgreater}'
   first=""
 	cat ../resources-survey-of-alternatives.txt | while read x ; do 
 		if echo "$x" | grep -q '://' ; then
 			echo "\\item"
-			echo "  \\\\textless \\\\url{$x} \\\\textgreater{}"
+			echo "  \\\\textless \\\\url{$x} \\\\textgreater"
 		else 
       [ -z "$first" ] || echo "\\\\end{itemize}"
       first="no"
