@@ -36,6 +36,9 @@ function getLength() {
 function floor() {
 	echo "$@" | cut -d. -f 1
 }
+function ceil() {
+	floor $(($1+0.5))
+}
 function skip() {
 	i=0
 	while read x ; do
@@ -386,7 +389,7 @@ function main() {
 	current_clips=0
 	lastmerge=1
 	dprint 1 "Total length: $total_length"
-	while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
+	while [[ `floor $current_secs` -lt `ceil $total_length` ]] ; do
 		echo "$current_secs seconds / $total_length seconds completed"
 		extractRandomClip
 	done
