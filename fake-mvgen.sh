@@ -227,6 +227,29 @@ function teardown() {
 	rm ~/.${pid}-sources
 }
 
+function wrap() {
+	cmd=$1 ; shift
+	$cmd "$@" 1>&2
+}
+
+function quiet_wrap() {
+	dl=$1
+	shift
+	if [[ "$dl" -le "$DEBUGLEVEL" ]] ; then
+		wrap "$@"
+	else
+		wrap "$@" 2>/dev/null
+	fi
+}
+
+function mplayer_wrap() {
+	quiet_wrap 2 mplayer "$@"
+}
+
+function mencoder_wrap() {
+	quiet_wrap 2 mencoder "$@"
+}
+
 function main() {
 
 	process_args "$@"
@@ -246,7 +269,8 @@ function main() {
 			st=$(( RANDOM%(sl-clip_length) ))
 			end=$((1+clip_length))
 			pushd ~/.$$-clip
-			mplayer -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+			dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
+			mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
 			frame_count=$(ls | wc -l)
 			if [[ $frame_count -eq 0 ]] ; then continue ; fi
 			frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
@@ -275,7 +299,7 @@ function main() {
 				done
 				rm -f ~/.$$-temp
 			fi
-			mencoder -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
+			mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 			popd
 			rm -f ~/.$$-cliplist
 			rm -f ~/.$$-clip/*
@@ -285,10 +309,10 @@ function main() {
 				lastmerge=$current_clips
 				cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 				if [[ -e ~/.$$-clip.avi ]] ; then
-					mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
+					mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
 					mv ~/.$$-clip-new.avi ~/.$$-clip.avi
 				else
-					mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+					mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 				fi
 				for item in $cliplist ; do rm $item ; done
 				unsetopt SH_WORD_SPLIT
@@ -300,14 +324,14 @@ function main() {
 	setopt SH_WORD_SPLIT
 	cliplist=$(i=$lastmerge ; while [[ $i < $((current_clips + 1)) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 	if [[ -e ~/.$$-clip.avi ]] ; then
-		mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
+		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
 		mv ~/.$$-clip-new.avi ~/.$$-clip.avi
 	else
-		mencoder -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 	fi
 	for item in $cliplist ; do rm $item ; done
 	unsetopt SH_WORD_SPLIT
-	mencoder -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
+	mencoder_wrap -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
 	teardown
 }
 
