@@ -1,7 +1,8 @@
 #!/usr/bin/env zsh
 
+cmdname=$0
 function help() {
-	echo "Usage: $0 audiofile fps cps outfile source_directory [source_directory...]"
+	echo "Usage: $cmdname audiofile fps cps outfile source_directory [source_directory...]"
 	exit 1
 }
 
