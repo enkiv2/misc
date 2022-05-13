@@ -271,41 +271,41 @@ function extractRandomClip() {
 		frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
 		frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
 		if [[ $frame_ratio -gt 1 ]] ; then
-			ls | skip $frame_ratio > ~/.$$-cliplist
+			ls | skip $frame_ratio > ~/.${pid}-cliplist
 		elif [[ $frame_ratio_i -gt 1 ]] ; then
-			ls | dup $frame_ratio_i > ~/.$$-cliplist
+			ls | dup $frame_ratio_i > ~/.${pid}-cliplist
 		else
 			ls > ~/.$$-cliplist
 		fi
 		
 		applyFilters	
 
-		frames=$(wc -l < ~/.$$-cliplist)
+		frames=$(wc -l < ~/.${pid}-cliplist)
 		current_frame=$((current_frame + frames))
 		current_clips=$((current_clips + 1))
 		current_secs=$((current_secs + clip_length)) 
 		delta=$(floor $(( current_secs*fps - current_frame )) )
 		if [ $delta -gt 0 ] ; then
 			i=0
-			thing="$(tail -n 1 ~/.$$-cliplist)"
+			thing="$(tail -n 1 ~/.${pid}-cliplist)"
 			while [[ $i -lt $delta ]] ; do
-				echo "$thing" >> ~/.$$-cliplist
+				echo "$thing" >> ~/.${pid}-cliplist
 				i=$((i+1))
 			done
 			rm -f ~/.$$-temp
 		fi
-		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
+		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi $(cat ~/.${pid}-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 		popd
-		rm -f ~/.$$-cliplist
-		rm -f ~/.$$-clip/*
+		rm -f ~/.${pid}-cliplist
+		rm -f ~/.${pid}-clip/*
 		check=$(floor $((current_clips % 10)) )
 		if [[ $check -eq 0 ]] ; then
 			setopt SH_WORD_SPLIT
 			lastmerge=$current_clips
 			cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
 			if [[ -e ~/.$$-clip.avi ]] ; then
-				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
-				mv ~/.$$-clip-new.avi ~/.$$-clip.avi
+				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi $cliplist
+				mv ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi
 			else
 				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 			fi
@@ -313,7 +313,7 @@ function extractRandomClip() {
 			unsetopt SH_WORD_SPLIT
 		fi
 	else
-		echo "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
+		dprint 1 "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
 	fi
 }
 
