@@ -257,8 +257,13 @@ function extractClip() {
 	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
 }
 
+function areWeUsingFrames() {
+	[[ ${#enabled_filters} -gt 0 ]]
+	true
+}
+
 function checkFramesOK() {
-	[[ ${#enabled_filters} -eq 0 ]] || [[ $(ls $1 | wc -l) -gt 0 ]]
+	[[ ! areWeUsingFrames ]] || [[ $(ls $1 | wc -l) -gt 0 ]]
 }
 function normalizeFrames() {
 	frame_count=$(ls | wc -l)
@@ -275,6 +280,25 @@ function normalizeFrames() {
 	applyFilters	
 }
 
+function frames2Clip() {
+	frames=$(wc -l < ~/.${pid}-cliplist)
+	current_frame=$((current_frame + frames))
+	delta=$(floor $(( current_secs*fps - current_frame )) )
+	if [ $delta -gt 0 ] ; then
+		i=0
+		thing="$(tail -n 1 ~/.${pid}-cliplist)"
+		while [[ $i -lt $delta ]] ; do
+			echo "$thing" >> ~/.${pid}-cliplist
+			i=$((i+1))
+		done
+		rm -f ~/.$$-temp
+	fi
+	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi $(cat ~/.${pid}-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
+	popd
+	rm -f ~/.${pid}-cliplist
+	rm -f ~/.${pid}-clip/*
+}
+
 function extractRandomClip() {
 	pushd ~/.${pid}-clip
 	source=$(shuf -n 1 < ~/.$$-sources)
@@ -289,25 +313,10 @@ function extractRandomClip() {
 		else
 			continue
 		fi
-
-		frames=$(wc -l < ~/.${pid}-cliplist)
-		current_frame=$((current_frame + frames))
+		frames2Clip
 		current_clips=$((current_clips + 1))
 		current_secs=$((current_secs + clip_length)) 
-		delta=$(floor $(( current_secs*fps - current_frame )) )
-		if [ $delta -gt 0 ] ; then
-			i=0
-			thing="$(tail -n 1 ~/.${pid}-cliplist)"
-			while [[ $i -lt $delta ]] ; do
-				echo "$thing" >> ~/.${pid}-cliplist
-				i=$((i+1))
-			done
-			rm -f ~/.$$-temp
-		fi
-		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi $(cat ~/.${pid}-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
-		popd
-		rm -f ~/.${pid}-cliplist
-		rm -f ~/.${pid}-clip/*
+
 		check=$(floor $((current_clips % 10)) )
 		if [[ $check -eq 0 ]] ; then
 			setopt SH_WORD_SPLIT
