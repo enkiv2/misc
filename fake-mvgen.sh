@@ -257,6 +257,24 @@ function extractClip() {
 	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
 }
 
+function checkFramesOK() {
+	[[ ${#enabled_filters} -eq 0 ]] || [[ $(ls $1 | wc -l) -gt 0 ]]
+}
+function normalizeFrames() {
+	frame_count=$(ls | wc -l)
+	frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
+	frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
+	if [[ $frame_ratio -gt 1 ]] ; then
+		ls | skip $frame_ratio > ~/.${pid}-cliplist
+	elif [[ $frame_ratio_i -gt 1 ]] ; then
+		ls | dup $frame_ratio_i > ~/.${pid}-cliplist
+	else
+		ls > ~/.$$-cliplist
+	fi
+	
+	applyFilters	
+}
+
 function extractRandomClip() {
 	pushd ~/.${pid}-clip
 	source=$(shuf -n 1 < ~/.$$-sources)
@@ -266,19 +284,11 @@ function extractRandomClip() {
 	if [[ $sl2 -gt $cl ]] ; then
 		st=$(( RANDOM%(sl-clip_length) ))
 		extractClip $st $source
-		frame_count=$(ls | wc -l)
-		if [[ $frame_count -eq 0 ]] ; then continue ; fi
-		frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
-		frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
-		if [[ $frame_ratio -gt 1 ]] ; then
-			ls | skip $frame_ratio > ~/.${pid}-cliplist
-		elif [[ $frame_ratio_i -gt 1 ]] ; then
-			ls | dup $frame_ratio_i > ~/.${pid}-cliplist
+		if checkFramesOK ; then
+			normalizeFrames
 		else
-			ls > ~/.$$-cliplist
+			continue
 		fi
-		
-		applyFilters	
 
 		frames=$(wc -l < ~/.${pid}-cliplist)
 		current_frame=$((current_frame + frames))
