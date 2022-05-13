@@ -222,9 +222,9 @@ function initial_setup() {
 }
 
 function teardown() {
-	rm ~/.$$-clip.avi
-	rmdir ~/.$$-clip
-	rm ~/.$$-sources
+	rm ~/.${pid}-clip.avi
+	rmdir ~/.${pid}-clip
+	rm ~/.${pid}-sources
 }
 
 function main() {
