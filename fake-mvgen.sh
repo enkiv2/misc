@@ -1,12 +1,20 @@
 #!/usr/bin/env zsh
 
+available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
+enabled_filters=(randomColorScene randomZoom)
 cmdname=$0
 pid=$$
 function help() {
-	echo "Usage: $cmdname audiofile fps cps outfile source_directory [source_directory...]"
+	echo "Usage: $cmdname audiofile fps cps outfile [options...] source_directory [source_directory...]"
+	echo "Options:"
+  echo "  Filter options:"
+  for filter in $available_filters ; do 
+		def="(default $([[ ${enabled_filters[(ie)$filter]} -le ${#enabled_filters} ]] && echo "ON" || echo "OFF"))"
+		echo "    +filter_$filter\tUse $filter filter $def"
+		echo "    -filter_$filter\tDo not use $filter filter"
+  done
 	exit 1
 }
-
 
 
 function getLength() {
@@ -121,6 +129,13 @@ function filter_randomZoom() {
 	fi
 }
 
+function applyFilters() {
+	for filter in $enabled_filters ; do
+		echo "Filtering with $filter"
+		filter_$filter
+	done
+}
+
 function process_args() {
 	[[ $# -lt 5 ]] && help
 	[[ "$1" == "-h" ]] && help
@@ -130,7 +145,46 @@ function process_args() {
 	export cps=$3
 	export outfile=$4
 	shift ; shift ; shift ; shift
-
+  
+	while `echo $1 | grep -q '^[-+]'` ; do
+		opt=$1
+		shift
+		if [[ "$opt" == "--" ]] ; then 
+			continue
+		fi
+		echo "Found option $opt"
+		if `echo "$opt" | grep -q '^[-+]filter_'` ; then	
+			filter=$(echo $opt | cut -d_ -f 2-)
+			echo "Filter name: $filter"
+			if `echo $opt | grep -q '^+filter_'` ; then
+				if [[ ${available_filters[(ie)$filter]} -le ${#available_filters} ]] ; then
+					if [[ ${enabled_filters[(ie)$filter]} -le ${#enabled_filters} ]] ; then
+						echo "Filter already enabled: $filter"
+					else
+						enabled_filters+=($filter)
+					fi
+				else
+					echo "Unknown filter: $filter"
+					help
+				fi
+			elif `echo $opt | grep -q '^-filter_'`; then
+				if [[ ${available_filters[(ie)$filter]} -le ${#available_filters} ]] ; then
+					if [[ ${enabled_filters[(ie)$filter]} -le ${#enabled_filters} ]]  ; then
+						filters_to_remove=($filter)
+						enabled_filters=(${enabled_filters:|filters_to_remove})
+					else
+						echo "Filter already disabled: $filter"
+					fi
+				else
+					echo "Unknown filter: $filter"
+					help
+				fi
+			fi
+		fi
+	done
+	echo "Enabled filters: $enabled_filters"
+	export enabled_filters
+#  exit
 	initial_setup "$@"
 }
 
@@ -148,6 +202,12 @@ function initial_setup() {
 	for i in "$@" ; do
 		find "$@"
 	done > ~/.${pid}-sources
+}
+
+function teardown() {
+	rm ~/.$$-clip.avi
+	rmdir ~/.$$-clip
+	rm ~/.$$-sources
 }
 
 function main() {
@@ -182,9 +242,7 @@ function main() {
 				ls > ~/.$$-cliplist
 			fi
 			
-			# filters go here
-			filter_randomColorScene
-			filter_randomZoom
+			applyFilters	
 
 			frames=$(wc -l < ~/.$$-cliplist)
 			current_frame=$((current_frame + frames))
@@ -233,9 +291,7 @@ function main() {
 	for item in $cliplist ; do rm $item ; done
 	unsetopt SH_WORD_SPLIT
 	mencoder -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
-	rm ~/.$$-clip.avi
-	rmdir ~/.$$-clip
-	rm ~/.$$-sources
+	teardown
 }
 
 main "$@"
