@@ -250,6 +250,13 @@ function mencoder_wrap() {
 	quiet_wrap 2 mencoder "$@"
 }
 
+function extractClip() {
+	st=$1 ; source=$2
+	end=$((1+clip_length))
+	dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
+	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+}
+
 function main() {
 
 	process_args "$@"
@@ -267,10 +274,8 @@ function main() {
 		cl=$(floor $((clip_length*1000)) )
 		if [[ $sl2 -gt $cl ]] ; then
 			st=$(( RANDOM%(sl-clip_length) ))
-			end=$((1+clip_length))
-			pushd ~/.$$-clip
-			dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
-			mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+			pushd ~/.${pid}-clip
+			extractClip $st $source
 			frame_count=$(ls | wc -l)
 			if [[ $frame_count -eq 0 ]] ; then continue ; fi
 			frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
