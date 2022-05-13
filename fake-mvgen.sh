@@ -266,7 +266,6 @@ function mencoder_wrap() {
 
 function areWeUsingFrames() {
 	[[ ${#enabled_filters} -gt 0 ]]
-	true
 }
 
 function checkFramesOK() {
@@ -339,7 +338,7 @@ function extractClip() {
 		fi
 	else
 		dprint 1 "No frames"
-		# TODO: handle directly when we do not have filters
+		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi -ss $st -endpos $end "$source"
 		clipExtractSuccess
 	fi
 }
