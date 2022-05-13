@@ -1,6 +1,7 @@
 #!/usr/bin/env zsh
 
 cmdname=$0
+pid=$$
 function help() {
 	echo "Usage: $cmdname audiofile fps cps outfile source_directory [source_directory...]"
 	exit 1
@@ -129,19 +130,23 @@ function filter_randomZoom() {
 	fi
 }
 
-total_length=$(getLength $audiofile)
-total_frames=$(( ($total_length*1.0) * $fps ))
-total_clips=$(( ($total_length*1.0) / $cps ))
-clip_length=$(( 1.0/cps ))
-clip_frames=$(floor $(( 0.5 + ( (1.0*fps) / cps ) )) )
+function initial_setup() {
 
-resolution="640:480"
+	export total_length=$(getLength $audiofile)
+	export total_frames=$(( ($total_length*1.0) * $fps ))
+	export total_clips=$(( ($total_length*1.0) / $cps ))
+	export clip_length=$(( 1.0/cps ))
+	export clip_frames=$(floor $(( 0.5 + ( (1.0*fps) / cps ) )) )
 
-mkdir ~/.$$-clip
+	export resolution="640:480"
 
-for i in "$@" ; do
-	find "$@"
-done > ~/.$$-sources
+	mkdir ~/.${pid}-clip
+	for i in "$@" ; do
+		find "$@"
+	done > ~/.${pid}-sources
+}
+
+initial_setup "$@"
 
 current_secs=0
 current_frame=0
