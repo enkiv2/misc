@@ -22,6 +22,10 @@ function help() {
 		dprint 0  "    +filter_$filter\tUse $filter filter $def"
 		dprint 0  "    -filter_$filter\tDo not use $filter filter $def"
   done
+	dprint 0 "    -nofilters\tDo not use any filters"
+	dprint 0 "  -v\tVerbosity level 1"
+	dprint 0 "  -vv\tVerbosity level 2"
+	dprint 0 "  -vvv\tVerbosity level 3"
 	exit 1
 }
 
@@ -199,6 +203,10 @@ function process_args() {
 			export DEBUGLEVEL=1
 		elif [[ "$opt" == "-vv" ]] ; then
 			export DEBUGLEVEL=2
+		elif [[ "$opt" == "-vvv" ]] ; then
+			export DEBUGLEVEL=3
+		elif [[ "$opt" == "-nofilters" ]] ; then
+			export enabled_filters=()
 		else
 			dprint 0 "Unknown option: $opt"
 			help
@@ -263,29 +271,6 @@ function clip2Frames() {
 	popd
 }
 
-function extractClip() {
-	clipdir=~/.${pid}-clip
-	st=$1 ; source=$2
-	end=$((1+clip_length))
-	dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
-	if [[ areWeUsingFrames ]] ; then
-		clip2Frames $st $end $source $clipdir
-		if checkFramesOK $clipdir ; then
-			normalizeFrames $clipdir
-			applyFilters	$clipdir
-			frames2Clip
-		else
-			dprint 1 "Frames not OK"
-			continue
-		fi
-		rm -f ~/.${pid}-cliplist
-		rm -f ~/.${pid}-clip/*
-	else
-		dprint 1 "No frames"
-		# TODO: handle directly when we do not have filters
-	fi
-}
-
 function areWeUsingFrames() {
 	[[ ${#enabled_filters} -gt 0 ]]
 	true
@@ -325,6 +310,41 @@ function frames2Clip() {
 	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi $(cat ~/.${pid}-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 }
 
+function frameCleanup() {
+	rm -f ~/.${pid}-cliplist
+	rm -f $1/*
+}
+
+function clipExtractSuccess() {
+		export current_clips=$((current_clips + 1))
+		export current_secs=$((current_secs + clip_length)) 
+}
+
+function extractClip() {
+	clipdir=~/.${pid}-clip
+	st=$1 ; source=$2
+	end=$((1+clip_length))
+	dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
+	if [[ areWeUsingFrames ]] ; then
+		clip2Frames $st $end $source $clipdir
+		if checkFramesOK $clipdir ; then
+			normalizeFrames $clipdir
+			applyFilters	$clipdir
+			frames2Clip
+			frameCleanup $clipdir
+			clipExtractSuccess
+		else
+			dprint 1 "Frames not OK"
+			extractRandomClip
+		fi
+	else
+		dprint 1 "No frames"
+		# TODO: handle directly when we do not have filters
+		clipExtractSuccess
+	fi
+}
+
+
 function extractRandomClip() {
 	source=$(shuf -n 1 < ~/.$$-sources)
 	sl=$(floor $(getLength "$source"))
@@ -333,8 +353,6 @@ function extractRandomClip() {
 	if [[ $sl2 -gt $cl ]] ; then
 		st=$(( RANDOM%(sl-clip_length) ))
 		extractClip $st $source
-		export current_clips=$((current_clips + 1))
-		export current_secs=$((current_secs + clip_length)) 
 
 		check=$(floor $((current_clips % 10)) )
 		if [[ $check -eq 0 ]] ; then
