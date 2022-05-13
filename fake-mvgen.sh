@@ -71,41 +71,42 @@ function randomColor() {
 	echo "#${red}${green}${blue}"
 }
 
-function filter_randomColorScene() {
-	# random color scene
-	color="$(randomColor)"
-	dprint 2 "Coloring scene: $color"
+function convertFilterHelper() {
+	func=$1
+	desc=$2
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( convert $item -fill "$color" -tint 110 ${item}-2.jpeg &&
-		mv ${item}{-2.jpeg,} ) &
+		( 
+			setopt SH_WORD_SPLIT
+			convert $item $($func) ${item}-2.jpeg && mv ${item}{-2.jpeg,}
+			unsetopt SH_WORD_SPLIT
+		)&
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
-			dprint 2 "Waiting for color correction to finish on batch...\c"
+			dprint 2 "Waiting for $desc to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
 			i=0
 		fi
 	done; wait
 }
+
+function rcs() {
+	color=$1
+	[[ -z "$color" ]] && color="$(randomColor)"
+	echo "-fill $color -tint 110"
+}
+
+function filter_randomColorScene() {
+	# random color scene
+	color="$(randomColor)"
+	dprint 2 "Coloring scene: $color"
+	convertFilterHelper "rcs $color" "color correction"
+}
 function filter_randomColorFrame() {
 	# random color scene
-	i=0
-	for item in $(cat ~/.$$-cliplist) ; do
-		(
-			rm -f ${item}-2.jpeg
-			convert $item -fill "$(randomColor)" -tint 110 ${item}-2.jpeg &&
-				mv ${item}{-2.jpeg,} 
-		) &
-		i=$((i+1)
-		)
-		if [[ $i -gt 20 ]] ; then
-			dprint 2 "Waiting for color correction to finish on batch...\c"
-			wait
-			dprint 2 "\tdone"
-			i=0
-		fi
-	done; wait
+	dprint 2 "Coloring scene: $color"
+	convertFilterHelper rcs "color correction"
 }
 function filter_zoomIn() {
 	dprint 2 "Zooming in on scene"
