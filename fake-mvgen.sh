@@ -4,14 +4,23 @@ available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
 enabled_filters=(randomColorScene randomZoom)
 cmdname=$0
 pid=$$
+
+DEBUGLEVEL=0
+
+function dprint() {
+	if [[ $1 -le $DEBUGLEVEL ]] ; then
+		shift
+		echo "$@" > /dev/stderr
+	fi
+}
 function help() {
-	echo "Usage: $cmdname audiofile fps cps outfile [options...] source_directory [source_directory...]"
-	echo "Options:"
-  echo "  Filter options:"
+	dprint 0  "Usage: $cmdname audiofile fps cps outfile [options...] source_directory [source_directory...]"
+	dprint 0  "Options:"
+  dprint 0  "  Filter options:"
   for filter in $available_filters ; do 
 		def="(default $([[ ${enabled_filters[(ie)$filter]} -le ${#enabled_filters} ]] && echo "ON" || echo "OFF"))"
-		echo "    +filter_$filter\tUse $filter filter $def"
-		echo "    -filter_$filter\tDo not use $filter filter"
+		dprint 0  "    +filter_$filter\tUse $filter filter $def"
+		dprint 0  "    -filter_$filter\tDo not use $filter filter $def"
   done
 	exit 1
 }
@@ -58,16 +67,16 @@ function randomColor() {
 function filter_randomColorScene() {
 	# random color scene
 	color="$(randomColor)"
-	echo "Coloring scene: $color"
+	dprint 2 "Coloring scene: $color"
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
 		( convert $item -fill "$color" -tint 110 ${item}-2.jpeg &&
 		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
-			echo "Waiting for color correction to finish on batch...\c"
+			dprint 2 "Waiting for color correction to finish on batch...\c"
 			wait
-			echo "\tdone"
+			dprint 2 "\tdone"
 			i=0
 		fi
 	done; wait
@@ -80,15 +89,15 @@ function filter_randomColorFrame() {
 		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
-			echo "Waiting for color correction to finish on batch...\c"
+			dprint 2 "Waiting for color correction to finish on batch...\c"
 			wait
-			echo "\tdone"
+			dprint 2 "\tdone"
 			i=0
 		fi
 	done; wait
 }
 function filter_zoomIn() {
-	echo "Zooming in on scene"
+	dprint 2 "Zooming in on scene"
 	count=$(wc -l < ~/.$$-cliplist)
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
@@ -97,15 +106,15 @@ function filter_zoomIn() {
 		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
-			echo "Waiting for zoom to finish on batch...\c"
+			dprint 2 "Waiting for zoom to finish on batch...\c"
 			wait
-			echo "\tdone"
+			dprint 2 "\tdone"
 			i=0
 		fi
 	done; wait
 }
 function filter_zoomOut() {
-	echo "Zooming out on scene"
+	dprint 2 "Zooming out on scene"
 	count=$(wc -l < ~/.$$-cliplist)
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
@@ -114,9 +123,9 @@ function filter_zoomOut() {
 		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
 		if [[ $i -gt 20 ]] ; then
-			echo "Waiting for zoom to finish on batch...\c"
+			dprint 2 "Waiting for zoom to finish on batch...\c"
 			wait
-			echo "\tdone"
+			dprint 2 "\tdone"
 			i=0
 		fi
 	done; wait
@@ -131,7 +140,7 @@ function filter_randomZoom() {
 
 function applyFilters() {
 	for filter in $enabled_filters ; do
-		echo "Filtering with $filter"
+		dprint 1 "Filtering with $filter"
 		filter_$filter
 	done
 }
@@ -152,14 +161,14 @@ function process_args() {
 		if [[ "$opt" == "--" ]] ; then 
 			continue
 		fi
-		echo "Found option $opt"
+		dprint 2 "Found option $opt"
 		if `echo "$opt" | grep -q '^[-+]filter_'` ; then	
 			filter=$(echo $opt | cut -d_ -f 2-)
-			echo "Filter name: $filter"
+			dprint 2 "Filter name: $filter"
 			if `echo $opt | grep -q '^+filter_'` ; then
 				if [[ ${available_filters[(ie)$filter]} -le ${#available_filters} ]] ; then
 					if [[ ${enabled_filters[(ie)$filter]} -le ${#enabled_filters} ]] ; then
-						echo "Filter already enabled: $filter"
+						dprint 2 "Filter already enabled: $filter"
 					else
 						enabled_filters+=($filter)
 					fi
@@ -173,16 +182,24 @@ function process_args() {
 						filters_to_remove=($filter)
 						enabled_filters=(${enabled_filters:|filters_to_remove})
 					else
-						echo "Filter already disabled: $filter"
+						dprint 2 "Filter already disabled: $filter"
 					fi
 				else
-					echo "Unknown filter: $filter"
+					dprint 0 "Unknown filter: $filter"
 					help
 				fi
 			fi
+		elif [[ "$opt" == "-v" ]] ; then
+			export DEBUGLEVEL=1
+		elif [[ "$opt" == "-vv" ]] ; then
+			export DEBUGLEVEL=2
+		else
+			dprint 0 "Unknown option: $opt"
+			help
 		fi
 	done
-	echo "Enabled filters: $enabled_filters"
+	dprint 1 "Enabled filters: $enabled_filters"
+	dprint 2 "DEBUGLEVEL: $DEBUGLEVEL"
 	export enabled_filters
 #  exit
 	initial_setup "$@"
@@ -218,7 +235,7 @@ function main() {
 	current_frame=0
 	current_clips=0
 	lastmerge=1
-	echo "Total length: $total_length"
+	dprint 1 "Total length: $total_length"
 	while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 		echo "$current_secs seconds / $total_length seconds completed"
 		source=$(shuf -n 1 < ~/.$$-sources)
