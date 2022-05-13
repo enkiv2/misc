@@ -1,5 +1,14 @@
 #!/usr/bin/env zsh
 
+function help() {
+	echo "Usage: $0 audiofile fps cps outfile source_directory [source_directory...]"
+	exit 1
+}
+
+[[ $# -lt 5 ]] && help
+[[ "$1" -eq "-h" ]] && help
+
+
 audiofile=$1
 fps=$2
 cps=$3
