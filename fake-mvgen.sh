@@ -85,9 +85,13 @@ function filter_randomColorFrame() {
 	# random color scene
 	i=0
 	for item in $(cat ~/.$$-cliplist) ; do
-		( rm -f ${item}-2.jpeg ; convert $item -fill "$(randomColor)" -tint 110 ${item}-2.jpeg &&
-		mv ${item}{-2.jpeg,} ) &
-		i=$((i+1))
+		(
+			rm -f ${item}-2.jpeg
+			convert $item -fill "$(randomColor)" -tint 110 ${item}-2.jpeg &&
+				mv ${item}{-2.jpeg,} 
+		) &
+		i=$((i+1)
+		)
 		if [[ $i -gt 20 ]] ; then
 			dprint 2 "Waiting for color correction to finish on batch...\c"
 			wait
@@ -139,10 +143,12 @@ function filter_randomZoom() {
 }
 
 function applyFilters() {
+	pushd $1
 	for filter in $enabled_filters ; do
 		dprint 1 "Filtering with $filter"
 		filter_$filter
 	done
+	popd
 }
 
 function process_args() {
@@ -250,11 +256,34 @@ function mencoder_wrap() {
 	quiet_wrap 2 mencoder "$@"
 }
 
+function clip2Frames() {
+	pushd $4
+	st=$1 ; end=$2 ; source=$3
+	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+	popd
+}
+
 function extractClip() {
+	clipdir=~/.${pid}-clip
 	st=$1 ; source=$2
 	end=$((1+clip_length))
 	dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
-	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+	if [[ areWeUsingFrames ]] ; then
+		clip2Frames $st $end $source $clipdir
+		if checkFramesOK $clipdir ; then
+			normalizeFrames $clipdir
+			applyFilters	$clipdir
+			frames2Clip
+		else
+			dprint 1 "Frames not OK"
+			continue
+		fi
+		rm -f ~/.${pid}-cliplist
+		rm -f ~/.${pid}-clip/*
+	else
+		dprint 1 "No frames"
+		# TODO: handle directly when we do not have filters
+	fi
 }
 
 function areWeUsingFrames() {
@@ -263,21 +292,21 @@ function areWeUsingFrames() {
 }
 
 function checkFramesOK() {
-	[[ ! areWeUsingFrames ]] || [[ $(ls $1 | wc -l) -gt 0 ]]
+	[[ $(ls $1 | wc -l) -gt 0 ]]
 }
 function normalizeFrames() {
-	frame_count=$(ls | wc -l)
+	frame_count=$(ls $1 | wc -l)
 	frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
 	frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
-	if [[ $frame_ratio -gt 1 ]] ; then
-		ls | skip $frame_ratio > ~/.${pid}-cliplist
-	elif [[ $frame_ratio_i -gt 1 ]] ; then
-		ls | dup $frame_ratio_i > ~/.${pid}-cliplist
-	else
-		ls > ~/.$$-cliplist
-	fi
-	
-	applyFilters	
+	ls $1/* | (
+		if [[ $frame_ratio -gt 1 ]] ; then
+			skip $frame_ratio
+		elif [[ $frame_ratio_i -gt 1 ]] ; then
+			dup $frame_ratio_i
+		else
+			cat
+		fi
+	) > ~/.${pid}-cliplist
 }
 
 function frames2Clip() {
@@ -294,13 +323,9 @@ function frames2Clip() {
 		rm -f ~/.$$-temp
 	fi
 	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi $(cat ~/.${pid}-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
-	popd
-	rm -f ~/.${pid}-cliplist
-	rm -f ~/.${pid}-clip/*
 }
 
 function extractRandomClip() {
-	pushd ~/.${pid}-clip
 	source=$(shuf -n 1 < ~/.$$-sources)
 	sl=$(floor $(getLength "$source"))
 	sl2=$(floor $((sl*1000)) )
@@ -308,14 +333,8 @@ function extractRandomClip() {
 	if [[ $sl2 -gt $cl ]] ; then
 		st=$(( RANDOM%(sl-clip_length) ))
 		extractClip $st $source
-		if checkFramesOK ; then
-			normalizeFrames
-		else
-			continue
-		fi
-		frames2Clip
-		current_clips=$((current_clips + 1))
-		current_secs=$((current_secs + clip_length)) 
+		export current_clips=$((current_clips + 1))
+		export current_secs=$((current_secs + clip_length)) 
 
 		check=$(floor $((current_clips % 10)) )
 		if [[ $check -eq 0 ]] ; then
