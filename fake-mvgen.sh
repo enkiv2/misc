@@ -343,6 +343,21 @@ function extractClip() {
 	fi
 }
 
+function mergeClips() {
+		dprint 1 "Merging clips"
+		setopt SH_WORD_SPLIT
+		export lastmerge=$current_clips
+		export cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
+		if [[ -e ~/.$$-clip.avi ]] ; then
+			mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi $cliplist
+			mv ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi
+		else
+			mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+		fi
+		for item in $cliplist ; do rm -f $item ; done
+		unsetopt SH_WORD_SPLIT
+}
+
 
 function extractRandomClip() {
 	source=$(shuf -n 1 < ~/.$$-sources)
@@ -355,17 +370,7 @@ function extractRandomClip() {
 
 		check=$(floor $((current_clips % 10)) )
 		if [[ $check -eq 0 ]] ; then
-			setopt SH_WORD_SPLIT
-			lastmerge=$current_clips
-			cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
-			if [[ -e ~/.$$-clip.avi ]] ; then
-				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi $cliplist
-				mv ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi
-			else
-				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
-			fi
-			for item in $cliplist ; do rm $item ; done
-			unsetopt SH_WORD_SPLIT
+			mergeClips
 		fi
 	else
 		dprint 1 "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
@@ -385,16 +390,8 @@ function main() {
 		echo "$current_secs seconds / $total_length seconds completed"
 		extractRandomClip
 	done
-	setopt SH_WORD_SPLIT
-	cliplist=$(i=$lastmerge ; while [[ $i < $((current_clips + 1)) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
-	if [[ -e ~/.$$-clip.avi ]] ; then
-		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
-		mv ~/.$$-clip-new.avi ~/.$$-clip.avi
-	else
-		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
-	fi
-	for item in $cliplist ; do rm $item ; done
-	unsetopt SH_WORD_SPLIT
+	mergeClips
+	dprint 1 "Creating final video"
 	mencoder_wrap -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
 	teardown
 }
