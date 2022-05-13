@@ -7,15 +7,6 @@ function help() {
 	exit 1
 }
 
-[[ $# -lt 5 ]] && help
-[[ "$1" == "-h" ]] && help
-
-
-audiofile=$1
-fps=$2
-cps=$3
-outfile=$4
-shift ; shift ; shift ; shift
 
 
 function getLength() {
@@ -130,6 +121,19 @@ function filter_randomZoom() {
 	fi
 }
 
+function process_args() {
+	[[ $# -lt 5 ]] && help
+	[[ "$1" == "-h" ]] && help
+
+	export audiofile=$1
+	export fps=$2
+	export cps=$3
+	export outfile=$4
+	shift ; shift ; shift ; shift
+
+	initial_setup "$@"
+}
+
 function initial_setup() {
 
 	export total_length=$(getLength $audiofile)
@@ -146,7 +150,7 @@ function initial_setup() {
 	done > ~/.${pid}-sources
 }
 
-initial_setup "$@"
+process_args "$@"
 
 current_secs=0
 current_frame=0
