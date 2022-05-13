@@ -393,7 +393,7 @@ function main() {
 	current_clips=0
 	lastmerge=1
 	dprint 1 "Total length: $total_length"
-	while [[ `floor $current_secs` -lt $(($(ceil $total_length)+1)) ]] ; do
+	while [[ `floor $current_secs` -le `ceil $total_length` ]] ; do
 		echo "$current_secs seconds / $total_length seconds completed"
 		extractRandomClip
 	done
