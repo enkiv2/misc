@@ -264,13 +264,6 @@ function mencoder_wrap() {
 	quiet_wrap 2 mencoder "$@"
 }
 
-function clip2Frames() {
-	pushd $4
-	st=$1 ; end=$2 ; source=$3
-	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
-	popd
-}
-
 function areWeUsingFrames() {
 	[[ ${#enabled_filters} -gt 0 ]]
 	true
@@ -292,6 +285,13 @@ function normalizeFrames() {
 			cat
 		fi
 	) > ~/.${pid}-cliplist
+}
+
+function clip2Frames() {
+	pushd $4
+	st=$1 ; end=$2 ; source=$3
+	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+	popd
 }
 
 function frames2Clip() {
