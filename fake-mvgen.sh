@@ -257,6 +257,66 @@ function extractClip() {
 	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
 }
 
+function extractRandomClip() {
+	pushd ~/.${pid}-clip
+	source=$(shuf -n 1 < ~/.$$-sources)
+	sl=$(floor $(getLength "$source"))
+	sl2=$(floor $((sl*1000)) )
+	cl=$(floor $((clip_length*1000)) )
+	if [[ $sl2 -gt $cl ]] ; then
+		st=$(( RANDOM%(sl-clip_length) ))
+		extractClip $st $source
+		frame_count=$(ls | wc -l)
+		if [[ $frame_count -eq 0 ]] ; then continue ; fi
+		frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
+		frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
+		if [[ $frame_ratio -gt 1 ]] ; then
+			ls | skip $frame_ratio > ~/.$$-cliplist
+		elif [[ $frame_ratio_i -gt 1 ]] ; then
+			ls | dup $frame_ratio_i > ~/.$$-cliplist
+		else
+			ls > ~/.$$-cliplist
+		fi
+		
+		applyFilters	
+
+		frames=$(wc -l < ~/.$$-cliplist)
+		current_frame=$((current_frame + frames))
+		current_clips=$((current_clips + 1))
+		current_secs=$((current_secs + clip_length)) 
+		delta=$(floor $(( current_secs*fps - current_frame )) )
+		if [ $delta -gt 0 ] ; then
+			i=0
+			thing="$(tail -n 1 ~/.$$-cliplist)"
+			while [[ $i -lt $delta ]] ; do
+				echo "$thing" >> ~/.$$-cliplist
+				i=$((i+1))
+			done
+			rm -f ~/.$$-temp
+		fi
+		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
+		popd
+		rm -f ~/.$$-cliplist
+		rm -f ~/.$$-clip/*
+		check=$(floor $((current_clips % 10)) )
+		if [[ $check -eq 0 ]] ; then
+			setopt SH_WORD_SPLIT
+			lastmerge=$current_clips
+			cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
+			if [[ -e ~/.$$-clip.avi ]] ; then
+				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
+				mv ~/.$$-clip-new.avi ~/.$$-clip.avi
+			else
+				mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+			fi
+			for item in $cliplist ; do rm $item ; done
+			unsetopt SH_WORD_SPLIT
+		fi
+	else
+		echo "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
+	fi
+}
+
 function main() {
 
 	process_args "$@"
@@ -268,63 +328,7 @@ function main() {
 	dprint 1 "Total length: $total_length"
 	while [[ `floor $current_secs` -lt `floor $total_length` ]] ; do
 		echo "$current_secs seconds / $total_length seconds completed"
-		source=$(shuf -n 1 < ~/.$$-sources)
-		sl=$(floor $(getLength "$source"))
-		sl2=$(floor $((sl*1000)) )
-		cl=$(floor $((clip_length*1000)) )
-		if [[ $sl2 -gt $cl ]] ; then
-			st=$(( RANDOM%(sl-clip_length) ))
-			pushd ~/.${pid}-clip
-			extractClip $st $source
-			frame_count=$(ls | wc -l)
-			if [[ $frame_count -eq 0 ]] ; then continue ; fi
-			frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
-			frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
-			if [[ $frame_ratio -gt 1 ]] ; then
-				ls | skip $frame_ratio > ~/.$$-cliplist
-			elif [[ $frame_ratio_i -gt 1 ]] ; then
-				ls | dup $frame_ratio_i > ~/.$$-cliplist
-			else
-				ls > ~/.$$-cliplist
-			fi
-			
-			applyFilters	
-
-			frames=$(wc -l < ~/.$$-cliplist)
-			current_frame=$((current_frame + frames))
-			current_clips=$((current_clips + 1))
-			current_secs=$((current_secs + clip_length)) 
-			delta=$(floor $(( current_secs*fps - current_frame )) )
-			if [ $delta -gt 0 ] ; then
-				i=0
-				thing="$(tail -n 1 ~/.$$-cliplist)"
-				while [[ $i -lt $delta ]] ; do
-					echo "$thing" >> ~/.$$-cliplist
-					i=$((i+1))
-				done
-				rm -f ~/.$$-temp
-			fi
-			mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.$$-clip-${current_clips}.avi $(cat ~/.$$-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
-			popd
-			rm -f ~/.$$-cliplist
-			rm -f ~/.$$-clip/*
-			check=$(floor $((current_clips % 10)) )
-			if [[ $check -eq 0 ]] ; then
-				setopt SH_WORD_SPLIT
-				lastmerge=$current_clips
-				cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
-				if [[ -e ~/.$$-clip.avi ]] ; then
-					mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip-new.avi ~/.$$-clip.avi $cliplist
-					mv ~/.$$-clip-new.avi ~/.$$-clip.avi
-				else
-					mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
-				fi
-				for item in $cliplist ; do rm $item ; done
-				unsetopt SH_WORD_SPLIT
-			fi
-		else
-			echo "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
-		fi
+		extractRandomClip
 	done
 	setopt SH_WORD_SPLIT
 	cliplist=$(i=$lastmerge ; while [[ $i < $((current_clips + 1)) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
