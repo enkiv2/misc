@@ -7,7 +7,7 @@ function help() {
 }
 
 [[ $# -lt 5 ]] && help
-[[ "$1" -eq "-h" ]] && help
+[[ "$1" == "-h" ]] && help
 
 
 audiofile=$1
