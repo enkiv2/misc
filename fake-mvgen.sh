@@ -326,7 +326,7 @@ function extractClip() {
 	clipdir=~/.${pid}-clip
 	st=$1 ; source=$2
 	end=$((1+clip_length))
-	dprint 1 "Getting clip: $(echo st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
+	dprint 1 "Getting clip: $(echo $st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
 	if [[ areWeUsingFrames ]] ; then
 		clip2Frames $st $end $source $clipdir
 		if checkFramesOK $clipdir ; then
@@ -350,7 +350,11 @@ function mergeClips() {
 	dprint 1 "Merging clips"
 	setopt SH_WORD_SPLIT
 	export lastmerge=$current_clips
-	export cliplist=$(i=$(floor $((current_clips-9)) ) ; while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done )
+	export cliplist=$(
+		i=$(floor $((current_clips-9)) )
+		if [[ $i -lt 0 ]] ; then i=0 ; fi
+		while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done 
+	)
 	if [[ -e ~/.$$-clip.avi ]] ; then
 		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi $cliplist
 		mv ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi
@@ -389,7 +393,7 @@ function main() {
 	current_clips=0
 	lastmerge=1
 	dprint 1 "Total length: $total_length"
-	while [[ `floor $current_secs` -lt `ceil $total_length` ]] ; do
+	while [[ `floor $current_secs` -lt $(($(ceil $total_length)+1)) ]] ; do
 		echo "$current_secs seconds / $total_length seconds completed"
 		extractRandomClip
 	done
