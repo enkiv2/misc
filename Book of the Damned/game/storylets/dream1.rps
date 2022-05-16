@@ -1,6 +1,7 @@
 Name: first_dream
 Scene: dream
-- time_night = 1
+- time_dream = 1
++ dreamed = 1
 # FIRST DREAM
 # an image of the doorknob appears, and then a face fades in on it
 scene doorknob
