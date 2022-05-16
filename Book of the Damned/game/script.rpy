@@ -196,12 +196,6 @@ label start:
 # "BOOK of the DAMNED" shines and then drips like blood.
 # cut to tv static
 
-# FIRST DREAM
-# an image of the doorknob appears, and then a face fades in on it
-# THE HERMIT appears in rider-waite style facing a human-sized box. he turns to the camera, becoming a crone
-# the front of the box opens to reveal a dismembered corpse floating in some kind of fluid
-# the corpse focuses its eyes and begins to speak: "without love you have nothing. your garden shall be sown with asphodel."
-# in later dream, this sequence repeats but the corpse and the hermit both fade into MISATO's face.
 
 # DREAM IF CAT AFFINITY LOW
 # sillhouette: a conquerer on horseback, with a cat held aloft skewered on his sword (like the statue in Val Lewton's Cat People); he himself becomes skewered with numerous swords, sprouting from inside himself
