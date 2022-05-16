@@ -110,15 +110,36 @@ def writeQualityDB():
 				wln(f, "define "+q+" = 0")
 		f.close()
 
+def wcond(f, cond, body, elsebody=None, tabs=1):
+		wln(f, "if "+cond+":", tabs)
+		for line in body:
+				wln(f, line, tabs+1)
+		if elsebody:
+				wln(f, "else:", tabs)
+				for line in elsebody:
+						wln(f, line, tabs+1)
+def inlineify(lines):
+		return ["$ "+l for l in lines]
+def wcase(f, p, qs):
+		for q in qs:
+				wcond(f, p+" == "+q, qs[q])
+
 def writeIndex(sids):
 		global storyletdb
 		f=open("storyletindex.rpy", "w")
 		writeHeader(f, "Storylet Index")
+		wln(f, "label storylet_entry:")
+		wcond(f, "dreamed > 0", inlineify(["day +=1", "day_of_week +=1", "time_of_day = 0", "time_dream = 0"]))
+		wcond(f, "day_of_week > 6", inlineify(["day_of_week = 0"]))
+		wcond(f, "day_of_week > 0 and day_of_week < 6", inlineify(["school_day = 1"]), inlineify(["school_day = 0"]))
+		wln(f, "jump storylet_index", 1)
+		wln(f)
 		wln(f, "label storylet_index:")
 		for sid in sids:
 				storylet=storyletdb[sid]
 				wln(f, "if "+(" and ".join(storylet["preconditions"]))+":", 1)
 				wln(f, "jump "+storylet["name"], 2)
+		wln(f, escape("Ran out of storylets!"), 1)
 		wln(f)
 		f.close()
 
