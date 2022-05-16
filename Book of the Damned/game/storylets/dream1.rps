@@ -15,14 +15,14 @@ scene hermit
 with fade
 pause 1
 scene hermit turn
-with fade
+with dissolve
 pause 1
 scene hermit crone
-with fade
+with dissolve
 pause 1
 # the front of the box opens to reveal a dismembered corpse floating in some kind of fluid
 scene hermitbox opened
-with fade
+with dissolve
 pause 1
 # the corpse focuses its eyes and begins to speak: "without love you have nothing. your garden shall be sown with asphodel."
 "Floating corpse" "Without love you have nothing. Your garden shall be sown with asphodel."

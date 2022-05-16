@@ -9,7 +9,7 @@ global silent, sids
 maxMenuItems=10
 
 storyletdb={}
-qualities=[]
+qualities=["day", "day_of_week", "school_day", "time_of_day"]
 silent=False
 sids=[]
 
