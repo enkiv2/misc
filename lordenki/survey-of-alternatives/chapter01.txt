@@ -1,3 +1,7 @@
+\begin{savequote}
+"[L]et your science be human"
+\qauthor{David Hume, An Enquiry Concerning Human Understanding}
+\end{savequote}
 # Cutting the Gordian Knot: Menuet and Kolibrios
 
 Menuet (also known as MenuetOS) is an operating system first released in the year 2000. Its user interface resembles a conventional WIMP GUI, but it is unique in that its executable format is designed to cater directly to this interface, making it (from the perspective of developers) highly vertically integrated.
