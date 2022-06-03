@@ -6,10 +6,10 @@ function genLatexChapter() {
 	sed -i 's/\\hypertarget{.*$//;s/\(\\label{.*}\)}/\1/' $1.latex
 	sed -i 's/\(Big and Small Computing\)/\\textit{\1}\\cite{bigandsmallcomputing}/' $1.latex
 	cut -d: -f 1 < gloss.txt | grep . | while read x ; do
-		sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $1.latex
+		sed -i "s/\\($x\\)/\\\\index{$x}\\\\gls{$x}/g" $1.latex
 	done
 	cut -d: -f 1 < gloss.txt | tr 'A-Z' 'a-z' | grep . | while read x ; do
-		sed -i "s/$x/\\\\index{$x}\\\\gls{$x}/g" $1.latex
+		sed -i "s/\\($x\\)/\\\\index{$x}\\\\gls{$x}\\1/g" $1.latex
 	done
 	cat $1.latex 
 }
