@@ -159,7 +159,7 @@ label start:
     "..."
     mimi "... I've got one."
     "Akane puts her foot back down, leans in, and nods."
-    mimi "This one is called... The Lazarus Pose."
+    mimi "This one is called... {b}{k=2}The Lazarus Pose{/k}{/b}."
     call story_start
     call lazarus_pose
     call story_end
@@ -179,7 +179,7 @@ label start:
     ai "Good, because I don't have one yet."
     "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
     akane "For the benefit of the summer storm society..."
-    akane "The House On Foulness" with vpunch
+    akane "{b}{k=2}The House On Foulness{/k}{/b}" with vpunch
     call story_start
     call house_on_foulness
     call story_end
@@ -208,7 +208,7 @@ label start:
     misato "..."
     mimi "..."
     ai "..."
-    aoi "She Awaited The Turkeys"
+    aoi "{b}{k=2}She Awaited The Turkeys{/k}{/b}"
     call story_start
     call turkeys
     call story_end
