@@ -44,13 +44,18 @@ label story_end:
     scene blowout
     pause 0.5
     scene black
-    play music "sfx/344430__babuababua__light-rain.mp3"
+    call rain
     pause 0.1
+    return
+
+label rain:
+    play music "sfx/344430__babuababua__light-rain.mp3" volume 0.25
     return
 
 label start:
     quote "\"I’ve given up fiction. Or in a way I haven’t. I am convinced that everything is fiction; so here I am in the same old line.\""
     quote "- Charles Fort, in private communication with Theodore Dreiser"
+    stop music
     nvl clear
     scene black
     quote "June 22nd, 2012"
@@ -64,12 +69,13 @@ label start:
     ai "Ow!" with vpunch
     "Ai turns to whisper in Mimi's ear."
     ai "{fast}Ow!{nw}"
+    play music "sfx/344430__babuababua__light-rain.mp3" volume 0.5 fadein 5.0
     extend " {size=-10}{i}You didn't have to do that; it's not my fault!{/i}{/size}"
     mimi "{size=-10}{i}Sure it is! If you were honest with her, she wouldn't keep doing it!{/i}{/size}"
     aoi "Hey~~~ What are you whispering about~~ {size=-10}{i}I wanna hear secrets too~~~~~{/i}{/size}"
     "Aoi pauses and holds her hand up."
-    play music "sfx/344430__babuababua__light-rain.mp3"
     scene street rain 1
+    play music "sfx/344430__babuababua__light-rain.mp3" volume 1.5 fadein 5.0
     aoi "Hau~~ It's raining~~~"
     "Aoi runs in wide lazy circles, trying to catch raindrops on her tongue."
     aoi "Hahahaha!"
@@ -80,6 +86,7 @@ label start:
     mimi "If it keeps up, this dress is gonna get soaked."
     ai "Aoi's already is -- look."
     "Mimi looks, and then turns away, blushing."
+    play music "sfx/344430__babuababua__light-rain.mp3" volume 1.5
     scene street rain 2
     mimi "It's getting worse..."
     ai "Yeah... I don't think there's anywhere up here to shelter, but if we keep going straight, we should reach the train station."
@@ -98,6 +105,7 @@ label start:
     scene dagashi outside
     ai "Who gives a flying fuck? It's open, and I'm wetter than a witch's cunt already, so let's go in."
     "The three of them go inside, into the dark."
+    call rain
     scene black
     pause
     scene dagashi outside
@@ -109,8 +117,10 @@ label start:
     scene dagashi outside 4
     pause
     scene black
-    play sound "sfx/248237__jarredgibb__match-strike-and-light-01.wav"
-    pause 0.1
+    play sound "sfx/match_strike.wav" volume 10.0
+    pause 3
+    stop sound
+    play sound "sfx/match_light.wav" volume 10.0
     scene flame
     pause 0.1
     scene flame2
