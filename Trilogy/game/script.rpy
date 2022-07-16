@@ -51,10 +51,20 @@ label start:
     mimi "I don't remember this being here..."
     scene dagashi outside
     ai "Who gives a flying fuck? I'm wetter than a witch's cunt already, so let's go in."
-    comment "The three of them go inside, into the dark."
-    comment "Suddenly, a burst of flame appears, and we see Akane's face illuminated, before a candle is lit."
+    "The three of them go inside, into the dark."
+    scene black
+    pause 1
+    scene flame
+    "Suddenly, a burst of flame appears!"
+    scene flame akane
+    "A face is illuminated by a match,"
+    scene flame candle akane
+    "and a candle is lit."
+    scene dagashi inside
     comment "In the dimly illuminated room, Akane and Misato are visible."
     misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Greetings!" # How to translate "Gokigenyou"? "Greetings" seems to have the wrong connotations.
+    "Akane puts the candle down on the table."
+    scene dagashi inside candle 1
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
     akane "Yo."
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
