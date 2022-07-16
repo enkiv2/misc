@@ -40,6 +40,7 @@ label story_end:
     nvl clear
     scene black
     pause 0.5
+    play sound "sfx/499020__16fthumaf__04-extinguishing-of-candle.wav"
     scene blowout
     pause 0.5
     scene black
@@ -107,6 +108,7 @@ label start:
     scene dagashi outside 4
     pause
     scene black
+    play sound "sfx/248237__jarredgibb__match-strike-and-light-01.wav"
     pause 0.1
     scene flame
     pause 0.1
