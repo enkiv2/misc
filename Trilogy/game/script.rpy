@@ -37,8 +37,10 @@ label story_start:
 label story_end:
     stop music
     nvl clear
+    scene black
+    pause 0.5
     scene blowout
-    pause 0.1
+    pause 0.5
     scene black
     play music "sfx/344430__babuababua__light-rain.mp3"
     pause 0.1
@@ -59,9 +61,9 @@ label start:
     mimi "..."
     ai "Ow!"
     "Ai turns to whisper in Mimi's ear."
-    ai "{small}You didn't have to do that; it's not my fault!{/small}"
-    mimi "{small}Sure it is! If you were honest with her, she wouldn't keep doing it!{/small}"
-    aoi "Hey~~~ What are you whispering about~~ {small}I wanna hear secrets too~~~~~{/small}"
+    ai "{size=-10}{i}You didn't have to do that; it's not my fault!{/i}{/size}"
+    mimi "{size=-10}{i}Sure it is! If you were honest with her, she wouldn't keep doing it!{/i}{/size}"
+    aoi "Hey~~~ What are you whispering about~~ {size=-10}{i}I wanna hear secrets too~~~~~{/i}{/size}"
     "Aoi pauses and holds her hand up."
     play music "sfx/344430__babuababua__light-rain.mp3"
     scene street rain 1
@@ -81,9 +83,9 @@ label start:
     mimi "That's like half a mile away!"
     ai "The nearest shelter in the other direction is further."
     mimi "... Why did I ever agree to window-shopping in the rainy season?"
-    ai "{small}To see Aoi in her new dress and boots.{/small}"
+    ai "{size=-10}{i}To see Aoi in her new dress and boots.{/i}{/size}"
     mimi "..."
-    mimi "{small}Fair enough.{/small}"
+    mimi "{size=-10}{i}Fair enough.{/i}{/size}"
     ai "Come on, Aoi. We're gonna go up the street and look for shelter."
     aoi "Awww~ I was having fun..."
     ai "You won't be having much fun when you're recovering from a head cold."
@@ -93,6 +95,16 @@ label start:
     scene dagashi outside
     ai "Who gives a flying fuck? It's open, and I'm wetter than a witch's cunt already, so let's go in."
     "The three of them go inside, into the dark."
+    scene black
+    pause
+    scene dagashi outside
+    pause 0.5
+    scene dagashi outside 2
+    pause 0.5
+    scene dagashi outside 3
+    pause 0.5
+    scene dagashi outside 4
+    pause
     scene black
     pause 0.1
     scene flame
@@ -108,8 +120,8 @@ label start:
     scene dagashi interior dim
     comment "In the dimly illuminated room, Akane and Misato are visible."
     misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Greetings!" # How to translate "Gokigenyou"? "Greetings" seems to have the wrong connotations.
-    "Akane puts the candle down on the table."
     scene dagashi interior candle 1
+    "Akane puts the candle down on the table."
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
     akane "Yo."
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
@@ -148,17 +160,63 @@ label start:
     call lazarus_pose
     call story_end
     scene dagashi interior candle 2
-    comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
+    ai "Well, that was a Mimi story if I ever heard one."
+    misato "How so?"
+    ai "Who else would tell a scary story with a journalist protagonist?"
+    akane "Dario Argento."
+    ai "Ok, well who else would tell it in the form of a newspaper article?"
+    akane "Bram Stoker."
+    "..."
+    akane "Or Stephen King."
+    "..."
+    misato "..."
+    misato "Okay, who's next?"
+    akane "I'll go."
+    ai "Good, because I don't have one yet."
+    "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
+    akane "For the benefit of the summer storm society..."
+    akane "The House On Foulness"
     call story_start
     call house_on_foulness
     call story_end
     scene dagashi interior candle 1
-    comment "XXX various characters comment on the story, and then Aoi goes last, with SHE AWAITED THE TURKEYS"
+    aoi "So what happened to the little wormies? Are they okay??"
+    akane "The worms always prevail in the end."
+    aoi "But the fire?"
+    mimi "Worms are like insects -- they produce lots of young so that losing a couple isn't a big deal."
+    "Aoi pauses, a pensive look on her face."
+    aoi "I still think that it might hurt."
+    misato "You're a very kind person, aren't you, miss Tomoe?"
+    aoi "hehehe~"
+    "..."
+    ai "Ok, so I still don't have any--"
+    aoi "I'll go next!"
+    ai "You'll g..."
+    misato "You have something?"
+    aoi "Yeah, I got all..."
+    "Aoi grimaces, trying to think of the word."
+    aoi "{fast}Yeah, I got all...{nw}"
+    extend " inspired~~~"
+    akane "I wanna hear this..."
+    mimi "I'm looking forward to it!"
+    aoi "This one is called..."
+    akane "..."
+    misato "..."
+    mimi "..."
+    ai "..."
+    aoi "She Awaited The Turkeys"
     call story_start
     call turkeys
     call story_end
+    stop music fadeout 10.0
     scene dagashi interior dim
-    comment "XXX various characters comment on the story"
+    misato "Well that was..."
+    mimi "... grim."
+    aoi "heh heh~"
+    ai "Yeah! You really got the spirit of the exercise!"
+    "Akane stared blankly at the wall."
+    "Misato caught her eye."
+    stop music
     jump end
 
 
@@ -459,5 +517,20 @@ label turkeys:
     return
 
 label end:
-    comment "XXX Akane is the first to notice that the rain had let up. They all leave, having thoroughly freaked themselves out."
+    misato "Hey..."
+    akane "The rain stopped."
+    ai "Good. It's gotten dark and creepy in here."
+    ai "I feel like spiders are crawling all over my arms."
+    mimi "Too much information."
+    "Aoi stood up suddenly and bolted for the door."
+    aoi "Wheee~~~"
+    "The others followed more slowly, yawning and stretching."
+    scene dagashi outside
+    pause
+    scene street daylight
+    pause 0.1
+    scene dagashi outside 4
+    pause 0.1
+    scene street daylight
+    "Everyone turned around to look, but the old dagashi shop was gone."
     return
