@@ -27,6 +27,7 @@ image dagashi interior candle 1 = "dagashi interior candle 1.png"
 image dagashi interior candle 2 = "dagashi interior candle 2.png"
 image dagashi interior candle 3 = "dagashi interior candle 3.png"
 
+
 label story_start:
     stop music
     nvl clear
@@ -220,6 +221,17 @@ label start:
     jump end
 
 
+image newspaper = "newspaper.png"
+image rocket = "rocket.png"
+image twitter = "twitter.png"
+image siberia = "siberia.png"
+image hole = "hole.png"
+image daisychain = "daisychain.png"
+image hole3 = "hole3.png"
+image sat = "sat.png"
+image cold_war = "coldwar.png"
+image ancient_aliens = "ancientaliens.png"
+
 label lazarus_pose:
     scene black
     quote  "THE LAZARUS POSE"
@@ -253,7 +265,7 @@ label lazarus_pose:
     quote  "{font=uwch.ttf}I modified the drone firmware so that each drone could act as a signal repeater for the next one in the chain.{/font}"
     quote  "{font=uwch.ttf}I also added a ping function as a means of estimating depth, although with slow microcontrollers like those in the drones there's a margin of error of about 2\%.{/font}"
     nvl clear
-    scene  hole2
+    scene  daisychain
     quote  "{font=uwch.ttf}My daisy chain of drones demonstrated that the square extended straight down about 200 feet, with some indication of shear stress on the edges for the first 25 feet below the rockhead.{/font}"
     quote  "{font=uwch.ttf}After 200 feet, the space opened up: my drone's cameras, radar, and sonar all couldn't find edges.{/font}"
     quote  "{font=uwch.ttf}There wasn't much to see, other than a lot of dust.{/font}"
@@ -262,7 +274,6 @@ label lazarus_pose:
     nvl clear
     scene  hole3
     quote  "{font=uwch.ttf}From the perspective of the tip of the cone, I could see a vast grid of similar cones in all directions.{/font}"
-    scene  hole_collapse
     quote  "{font=uwch.ttf}However, the lead cone (and others) began to move; tremors made the building I was staying in become unstable, and I had to flee.{/font}"
     quote  "{font=uwch.ttf}Unfortunately, my recordings were lost when the building collapsed on top of my computer, during the square's closure.{/font}"
     nvl clear
