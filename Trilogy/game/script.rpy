@@ -4,16 +4,46 @@ define comment = Character("COMMENT") # XXX delete this before launch
 define ai    = Character("Akagi Ai")
 define aoi   = Character("Tomoe Aoi")
 define mimi  = Character("Yamada Mimi")
-define misa  = Character("Umeji Misato")
+define misato  = Character("Umeji Misato")
 define akane = Character("Akane")
+
+image street daylight = "street daylight.png"
+
+label story_start:
+    stop music
+    nvl clear
+    scene black
+    return
+
+label story_end:
+    nvl clear
+    scene black
+    play music "sfx/344430__babuababua__light-rain.mp3"
+    return
 
 label start:
     quote "\"I’ve given up fiction. Or in a way I haven’t. I am convinced that everything is fiction; so here I am in the same old line.\""
     extend "- Charles Fort, in private communication with Theodore Dreiser"
+    scene street daylight
     play music "sfx/344430__babuababua__light-rain.mp3"
     comment "XXX opening scene: Ai, Mimi, and Aoi are window-shopping on their way home from school, and it begins to rain. They take shelter in an abandoned building, & find that Misato and Akane have done the same. Akane must be introduced to the group."
     comment "XXX Because the rain is not letting up, Akane suggests they spend the time telling scary stories."
     comment "XXX Mimi goes first, with THE LAZARUS POSE"
+    call story_start
+    call lazarus_pose
+    call story_end
+    comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
+    call story_start
+    call house_on_foulness
+    call story_end
+    comment "XXX various characters comment on the story, and then Aoi goes last, with SHE AWAITED THE TURKEYS"
+    call story_start
+    call turkeys
+    call story_end
+    comment "XXX various characters comment on the story"
+    jump end
+
+
 label lazarus_pose:
     scene black
     quote  "THE LAZARUS POSE"
@@ -78,7 +108,8 @@ label lazarus_pose:
     scene  ancient_aliens
     quote "{font=uwch.ttf}Who were the figures in this ancient drama?We have been presented with a mystery whose clues will be inaccessible for the forseeable future.{/font}"
     nvl clear
-    comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
+    return
+
 label house_on_foulness:
     scene black
     quote  "THE HOUSE ON FOULNESS"
@@ -254,7 +285,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}This is the last letter I will write.{/font}"
     quote  "{font=AquilineTwo.ttf}In the morning, before Mrs Grant comes, I will take my shovel to London to finish the Marsten dynasty.{/font}"
     nvl clear
-    comment "XXX various characters comment on the story, and then Aoi goes last, with SHE AWAITED THE TURKEYS"
+    return
 
 label turkeys:
     scene black
@@ -307,7 +338,7 @@ label turkeys:
     nvl clear
     quote  "{font=JIANGKRIK.otf}She awaited the turkeys.{/font}"
     nvl clear
-    comment "XXX various characters comment on the story"
+    return
 
 label end:
     comment "XXX Akane is the first to notice that the rain had let up. They all leave, having thoroughly freaked themselves out."
