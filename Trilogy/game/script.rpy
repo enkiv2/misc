@@ -159,7 +159,7 @@ label start:
     "..."
     mimi "... I've got one."
     "Akane puts her foot back down, leans in, and nods."
-    mimi "This one is called... {b}{k=2}The Lazarus Pose{/k}{/b}."
+    mimi "This one is called... {b}{k=2}T{size=-5}HE{/size} L{size=-5}AZARUS{/size} P{size=-5}OSE{/size}{/k}{/b}."
     call story_start
     call lazarus_pose
     call story_end
@@ -179,7 +179,7 @@ label start:
     ai "Good, because I don't have one yet."
     "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
     akane "For the benefit of the summer storm society..."
-    akane "{b}{k=2}The House On Foulness{/k}{/b}" with vpunch
+    akane "{b}{k=2}T{size=-5}HE{/size} H{size=-5}OUSE{/size} {size=-5}ON{/size} F{size=-5}OULNESS{/size}{/k}{/b}" with vpunch
     call story_start
     call house_on_foulness
     call story_end
@@ -208,7 +208,7 @@ label start:
     misato "..."
     mimi "..."
     ai "..."
-    aoi "{b}{k=2}She Awaited The Turkeys{/k}{/b}"
+    aoi "{b}{k=2}S{size=-6}HE{/size} A{size=-6}WAITED{/size} {size=-6}THE{/size} T{size=-7}URKEYS{/size}{/k}{/b}"
     call story_start
     call turkeys
     call story_end
@@ -237,7 +237,7 @@ image ancient_aliens = "ancientaliens.png"
 
 label lazarus_pose:
     scene black
-    quote  "THE LAZARUS POSE"
+    quote  "T{size=-5}HE{/size} L{size=-5}AZARUS{/size} P{size=-5}OSE{/size}"
     nvl clear
     scene  newspaper
     quote  "{font=uwch.ttf}February 23, 2025{/font}"
@@ -302,7 +302,7 @@ label lazarus_pose:
 
 label house_on_foulness:
     scene black
-    quote  "THE HOUSE ON FOULNESS"
+    quote  "T{size=-5}HE{/size} H{size=-5}OUSE{/size} {size=-5}ON{/size} F{size=-5}OULNESS{/size}"
     nvl clear
     quote  "{font=AquilineTwo.ttf}2nd April, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Dearest Mary,{/font}"
@@ -479,7 +479,7 @@ label house_on_foulness:
 
 label turkeys:
     scene black
-    quote "SHE AWAITED THE TURKEYS"
+    quote "S{size=-5}HE{/size} A{size=-5}WAITED{/size} {size=-5}THE{/size} T{size=-5}URKEYS{/size}"
     nvl clear
     quote "{font=JIANGKRIK.otf}The load-bearing wall groaned behind her. She would need to move again soon.{/font}"
     nvl clear
