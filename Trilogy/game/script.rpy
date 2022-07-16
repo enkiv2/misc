@@ -21,6 +21,7 @@ image flame3 = "match light 1.png"
 image flame4 = "match light 2.png"
 image flame5 = "match light 3.png"
 image flame6 = "light two candles.png"
+image blowout = "candle blown out.png"
 image dagashi interior dim = "dagashi interior dim.png"
 image dagashi interior candle 1 = "dagashi interior candle 1.png"
 image dagashi interior candle 2 = "dagashi interior candle 2.png"
@@ -30,12 +31,17 @@ label story_start:
     stop music
     nvl clear
     scene black
+    pause 0.1
     return
 
 label story_end:
+    stop music
     nvl clear
+    scene blowout
+    pause 0.1
     scene black
     play music "sfx/344430__babuababua__light-rain.mp3"
+    pause 0.1
     return
 
 label start:
