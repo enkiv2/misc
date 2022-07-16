@@ -8,6 +8,13 @@ define misato  = Character("Umeji Misato")
 define akane = Character("Akane")
 
 image street daylight = "street daylight.png"
+image street rain 1 = "street rain1.png"
+image street rain 2 = "street rain2.png"
+image street rain dagashi = "street rain dagashi 1.png"
+image dagashi outside = "dagashi outside.png"
+image dagashi outside 2 = "dagashi outside 2.png"
+image dagashi outside 3 = "dagashi outside 3.png"
+image dagashi outside 4 = "dagashi outside 4.png"
 
 label story_start:
     stop music
@@ -24,11 +31,62 @@ label story_end:
 label start:
     quote "\"I’ve given up fiction. Or in a way I haven’t. I am convinced that everything is fiction; so here I am in the same old line.\""
     extend "- Charles Fort, in private communication with Theodore Dreiser"
+    nvl clear
+    scene black
+    quote "June 22nd, 2012"
     scene street daylight
+    comment "Ai, Mimi, and Aoi are out window-shopping during their summer vacation."
+    comment "Aoi is running around, looking in all the windows, but periodically coming back to cuddle Ai as the three of them walk down the street."
+    comment "Each time Aoi cuddles Ai, Mimi elbows Ai painfully in the ribs from the other side."
+    comment "Aoi suddenly notices a raindrop, and it quickly begins to rain."
     play music "sfx/344430__babuababua__light-rain.mp3"
-    comment "XXX opening scene: Ai, Mimi, and Aoi are window-shopping on their way home from school, and it begins to rain. They take shelter in an abandoned building, & find that Misato and Akane have done the same. Akane must be introduced to the group."
-    comment "XXX Because the rain is not letting up, Akane suggests they spend the time telling scary stories."
-    comment "XXX Mimi goes first, with THE LAZARUS POSE"
+    scene street rain 1
+    comment "Aoi runs around, jumping in the rapidly-forming puddles."
+    comment "Ai and Mimi discuss whether or not to seek shelter."
+    scene street rain 2
+    comment "The rain becomes much heavier."
+    comment "Neither Ai nor Mimi think there is anywhere to shelter on this street, but all three run forward to look."
+    comment "They find a dagashi shop, apparently closed and abandoned."
+    scene street rain dagashi
+    mimi "I don't remember this being here..."
+    scene dagashi outside
+    ai "Who gives a flying fuck? I'm wetter than a witch's cunt already, so let's go in."
+    comment "The three of them go inside, into the dark."
+    comment "Suddenly, a burst of flame appears, and we see Akane's face illuminated, before a candle is lit."
+    comment "In the dimly illuminated room, Akane and Misato are visible."
+    misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Greetings!" # How to translate "Gokigenyou"? "Greetings" seems to have the wrong connotations.
+    misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
+    akane "Yo."
+    mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
+    akane "Just Akane. Like Madonna." # Would she reference Madonna here? What is a more character-appropriate celebrity who goes by a single name?
+    ai "..."
+    misato "... These girls are in my class at the Academy."
+    "Misato turned to Aoi, who has been darting all over the room looking at all the candy, then turns to Ai."
+    misato "Akane and I live together."
+    ai "..."
+    mimi "..."
+    "Mimi fidgets with her skirt."
+    aoi "Oh!"
+    "A pile of candles fall to the floor with a crash, and everyone looks to Aoi."
+    aoi "Sorry~"
+    "Ai goes over to help Aoi put them back, and after a moment, Mimi joins."
+    misato "... Geez, this rain really isn't letting up, isn't it?"
+    "..."
+    akane "I have an idea!"
+    "All eyes look to Akane, who has one booted foot on the table."
+    akane "Hyaku-monogatari!"
+    aoi "Hyaku-whatsit?"
+    mimi "You mean, scary stories?"
+    ai "Well, it is still fucking hot, despite the rain. It'd be nice to have something spooky to chill our bones."
+    misato "That's brilliant, Akane. It'll pass the time, and we can get to know each other a little better."
+    aoi "But we don't have time for a hundred..."
+    akane "How about..."
+    "Akane lights two more candles from the first."
+    akane "... just three?"
+    "..."
+    mimi "... I've got one."
+    "Akane puts her foot back down, leans in, and nods."
+    mimi "This one is called... The Lazarus Pose."
     call story_start
     call lazarus_pose
     call story_end
