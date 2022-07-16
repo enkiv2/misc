@@ -40,7 +40,7 @@ label story_end:
 
 label start:
     quote "\"I’ve given up fiction. Or in a way I haven’t. I am convinced that everything is fiction; so here I am in the same old line.\""
-    extend "- Charles Fort, in private communication with Theodore Dreiser"
+    quote "- Charles Fort, in private communication with Theodore Dreiser"
     nvl clear
     scene black
     quote "June 22nd, 2012"
