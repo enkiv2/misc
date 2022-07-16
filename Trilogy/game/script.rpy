@@ -120,16 +120,16 @@ label start:
     scene flame4
     "A face is illuminated by a match,"
     scene flame5
-    "and a candle is lit."
+    extend "and a candle is lit."
     scene dagashi interior dim
     comment "In the dimly illuminated room, Akane and Misato are visible."
-    misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Greetings!" # How to translate "Gokigenyou"? "Greetings" seems to have the wrong connotations.
+    misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Good day to you all!"
     scene dagashi interior candle 1
     "Akane puts the candle down on the table."
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
     akane "Yo."
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
-    akane "Just Akane. Like Madonna." # Would she reference Madonna here? What is a more character-appropriate celebrity who goes by a single name?
+    akane "Just Akane. Like Danzig."
     ai "..."
     misato "... These girls are in my class at the Academy."
     "Misato turned to Aoi, who has been darting all over the room looking at all the candy, then turns to Ai."
@@ -143,7 +143,7 @@ label start:
     "Ai goes over to help Aoi put them back, and after a moment, Mimi joins."
     misato "... Geez, this rain really isn't letting up, isn't it?"
     "..."
-    akane "I have an idea!"
+    akane "I have an idea!" with vpunch
     "All eyes look to Akane, who has one booted foot on the table."
     akane "Hyaku-monogatari!"
     aoi "Hyaku-whatsit?"
@@ -179,7 +179,7 @@ label start:
     ai "Good, because I don't have one yet."
     "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
     akane "For the benefit of the summer storm society..."
-    akane "The House On Foulness"
+    akane "The House On Foulness" with vpunch
     call story_start
     call house_on_foulness
     call story_end
