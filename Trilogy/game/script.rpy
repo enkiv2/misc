@@ -15,6 +15,16 @@ image dagashi outside = "dagashi outside.png"
 image dagashi outside 2 = "dagashi outside 2.png"
 image dagashi outside 3 = "dagashi outside 3.png"
 image dagashi outside 4 = "dagashi outside 4.png"
+image flame = "match1.png"
+image flame2 = "match2.png"
+image flame3 = "match light 1.png"
+image flame4 = "match light 2.png"
+image flame5 = "match light 3.png"
+image flame6 = "light two candles.png"
+image dagashi interior dim = "dagashi interior dim.png"
+image dagashi interior candle 1 = "dagashi interior candle 1.png"
+image dagashi interior candle 2 = "dagashi interior candle 2.png"
+image dagashi interior candle 3 = "dagashi interior candle 3.png"
 
 label story_start:
     stop music
@@ -53,18 +63,22 @@ label start:
     ai "Who gives a flying fuck? I'm wetter than a witch's cunt already, so let's go in."
     "The three of them go inside, into the dark."
     scene black
-    pause 1
+    pause 0.1
     scene flame
+    pause 0.1
+    scene flame2
     "Suddenly, a burst of flame appears!"
-    scene flame akane
+    scene flame3
+    pause 0.1
+    scene flame4
     "A face is illuminated by a match,"
-    scene flame candle akane
+    scene flame5
     "and a candle is lit."
-    scene dagashi inside
+    scene dagashi interior dim
     comment "In the dimly illuminated room, Akane and Misato are visible."
     misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Greetings!" # How to translate "Gokigenyou"? "Greetings" seems to have the wrong connotations.
     "Akane puts the candle down on the table."
-    scene dagashi inside candle 1
+    scene dagashi interior candle 1
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
     akane "Yo."
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
@@ -91,8 +105,10 @@ label start:
     misato "That's brilliant, Akane. It'll pass the time, and we can get to know each other a little better."
     aoi "But we don't have time for a hundred..."
     akane "How about..."
+    scene flame6
     "Akane lights two more candles from the first."
     akane "... just three?"
+    scene dagashi interior candle 3
     "..."
     mimi "... I've got one."
     "Akane puts her foot back down, leans in, and nods."
@@ -100,14 +116,17 @@ label start:
     call story_start
     call lazarus_pose
     call story_end
+    scene dagashi interior candle 2
     comment "XXX various characters comment on the story, and then Akane goes next, with THE HOUSE ON FOULNESS"
     call story_start
     call house_on_foulness
     call story_end
+    scene dagashi interior candle 1
     comment "XXX various characters comment on the story, and then Aoi goes last, with SHE AWAITED THE TURKEYS"
     call story_start
     call turkeys
     call story_end
+    scene dagashi interior dim
     comment "XXX various characters comment on the story"
     jump end
 
