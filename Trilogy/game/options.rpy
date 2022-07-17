@@ -78,11 +78,7 @@ Concept, script, and programming by {a=http://www.lord-enki.net/}John Ohno{/a}
 
 'She Awaited the Turkeys' has previously been featured on The Signal
 
-{b}Art{/b}
-Art assets: John Ohno
-
-{b}Music{/b}
-{a=http://infocalypse.nfshost.com}Infocalypse{/a}
+{a=call:credits}See all credits{/a}
 
 {/i}""")
 
