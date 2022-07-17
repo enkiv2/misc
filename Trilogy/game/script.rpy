@@ -583,10 +583,10 @@ label credits:
         def creditize_anchors(s, color):
             return anchor_end.sub("{/color}\\1", anchor_start.sub("\\1"+color, s))
 
-        def creditize(s, cps=5, color="#fff"):
+        def creditize(s, cps=20, color="#fff"):
             cps="{cps="+str(cps)+"}"
             color="{color="+str(color)+"}"
-            return cps+color+creditize_anchors(s, color)+"{/cps}{/color}"
+            return cps+color+creditize_anchors(s, color)+"{/cps}{/color}{w=1.0}{nw}"
 
         def doubleMojoSplash(cps=2):
             def colorize(s, colors=["f00", "fa0", "ff0", "0f0", "00f", "f0f", "fff", "f00", "0f0", "ff0", "f0f", "fff"]):
