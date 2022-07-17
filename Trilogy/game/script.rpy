@@ -607,6 +607,7 @@ label credits:
                 renpy.scene()
                 renpy.show("black")
                 renpy.with_statement(dissolve)
+            centered(creditize("A part of the {color=#0f0}Yomiyama FLAP{/color} series"))
             doubleMojoSplash()
             achievement.grant("Complete")
             centered(creditize("If you liked this game, please leave a {color=#0f0}rating{/color} or {color=#0f0}review{/color}! The exposure produced by reviews is vital to support small projects like this one.", cps=40))
