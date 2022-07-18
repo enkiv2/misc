@@ -62,10 +62,14 @@ label start:
     quote "June 22nd, 2012"
     scene street daylight
     ai "Shiiiit it's hottttt~~"
+    show mimi smug at left
     mimi "That's because you're wearing a leather jacket..."
+    show aoi akimbo at right
     "Aoi looks at them from her position crouched at the shop window and skips back over."
+    show aoi hearteyes at right
     aoi "I like the jacket~"
     "Aoi grabs Ai's arm proprietarily and nuzzles her shoulder."
+    show mimi angry at left
     mimi "..."
     ai "Ow!" with vpunch
     "Ai turns to whisper in Mimi's ear."
@@ -73,33 +77,48 @@ label start:
     play music "sfx/344430__babuababua__light-rain.mp3" volume 0.5 fadein 5.0
     extend " {size=-10}{i}You didn't have to do that; it's not my fault!{/i}{/size}"
     mimi "{size=-10}{i}Sure it is! If you were honest with her, she wouldn't keep doing it!{/i}{/size}"
-    aoi "Hey~~~ What are you whispering about~~ {size=-10}{i}I wanna hear secrets too~~~~~{/i}{/size}"
+    show aoi akimbo at right
+    aoi "Hey~~~ What are you whispering about~~"
+    show aoi blush at right
+    extend " {size=-10}{i}I wanna hear secrets too~~~~~{/i}{/size}"
+    show aoi at right
     "Aoi pauses and holds her hand up."
     scene street rain 1
     play music "sfx/344430__babuababua__light-rain.mp3" volume 1.5 fadein 5.0
+    show aoi blush at right
     aoi "Hau~~ It's raining~~~"
+    hide aoi
     "Aoi runs in wide lazy circles, trying to catch raindrops on her tongue."
     aoi "Hahahaha!"
     "She sees a puddle, steadies herself dizzily, and crouches. Then, she sprints toward it and jumps, with a big splash!"
     aoi "Wheee~"
+    show mimi pensive
     mimi "Should we find some cover?"
     ai "Nah, let her have her fun."
     mimi "If it keeps up, this dress is gonna get soaked."
     ai "Aoi's already is -- look."
+    show mimi angry
     "Mimi looks, and then turns away, blushing."
     play music "sfx/344430__babuababua__light-rain.mp3" volume 1.5
     scene street rain 2
+    show mimi
     mimi "It's getting worse..."
     ai "Yeah... I don't think there's anywhere up here to shelter, but if we keep going straight, we should reach the train station."
+    show mimi angry
     mimi "That's like half a mile away!"
     ai "The nearest shelter in the other direction is further."
+    show mimi
     mimi "... Why did I ever agree to window-shopping in the rainy season?"
     ai "{size=-10}{i}To see Aoi in her new dress and boots.{/i}{/size}"
+    show mimi pensive
     mimi "..."
+    show mimi
     extend " {size=-10}{i}Fair enough.{/i}{/size}"
     ai "Come on, Aoi. We're gonna go up the street and look for shelter."
+    show aoi akimbo at right
     aoi "Awww~ I was having fun..."
     ai "You won't be having much fun when you're recovering from a head cold."
+    show aoi blush at right
     aoi "Alright~~"
     scene street rain dagashi
     mimi "I don't remember this being here..."
@@ -133,31 +152,46 @@ label start:
     scene flame5
     extend "and a candle is lit."
     scene dagashi interior dim
-    comment "In the dimly illuminated room, Akane and Misato are visible."
+    show akane
+    show misato at right
     misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Good day to you all!"
     scene dagashi interior candle 1
     "Akane puts the candle down on the table."
+    show misato
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
+    show akane at right
     akane "Yo."
+    show mimi at left
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
     akane "Just Akane. Like Danzig."
     ai "..."
     misato "... These girls are in my class at the Academy."
+    hide mimi
+    show aoi at left
     "Misato turned to Aoi, who has been darting all over the room looking at all the candy, then turns to Ai."
+    hide aoi
     misato "Akane and I live together."
     ai "..."
+    show mimi at left
     mimi "..."
     "Mimi fidgets with her skirt."
+    hide mimi
+    show aoi at left
     aoi "Oh!"
     "A pile of candles fall to the floor with a crash, and everyone looks to Aoi."
+    show aoi akimbo at left
     aoi "Sorry~"
     "Ai goes over to help Aoi put them back, and after a moment, Mimi joins."
     misato "... Geez, this rain really isn't letting up, isn't it?"
     "..."
+    scene dagashi interior candle 1
+    show akane
     akane "I have an idea!" with vpunch
     "All eyes look to Akane, who has one booted foot on the table."
     akane "Hyaku-monogatari!"
+    show aoi at left
     aoi "Hyaku-whatsit?"
+    show mimi at right
     mimi "You mean, scary stories?"
     ai "Well, it is still fucking hot, despite the rain. It'd be nice to have something spooky to chill our bones."
     misato "That's brilliant, Akane. It'll pass the time, and we can get to know each other a little better."
@@ -168,7 +202,9 @@ label start:
     akane "... just three?"
     scene dagashi interior candle 3
     "..."
+    show mimi
     mimi "... I've got one."
+    show akane at right
     "Akane puts her foot back down, leans in, and nods."
     mimi "This one is called... {b}{k=2}T{size=-5}HE{/size} L{size=-5}AZARUS{/size} P{size=-5}OSE{/size}{/k}{/b}."
     call story_start
