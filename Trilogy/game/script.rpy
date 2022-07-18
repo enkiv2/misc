@@ -1,9 +1,9 @@
 ﻿define quote   = nvl_narrator
 define comment = Character("COMMENT") # XXX delete this before launch
 
-define ai    = Character("Akagi Ai")
-define aoi   = Character("Tomoe Aoi")
-define mimi  = Character("Yamada Mimi")
+define ai    = Character("Akagi Ai", color="#000000")
+define aoi   = Character("Tomoe Aoi", color="#0000af")
+define mimi  = Character("Yamada Mimi", color="#ff7777")
 define misato  = Character("Umeji Misato")
 define akane = Character("Akane")
 
