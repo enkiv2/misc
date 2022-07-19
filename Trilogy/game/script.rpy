@@ -71,6 +71,7 @@ label start:
     "Aoi grabs Ai's arm proprietarily and nuzzles her shoulder."
     show mimi angry at left
     mimi "..."
+    play sound "sfx/114683__qat__whack02.mp3"
     ai "Ow!" with vpunch
     "Ai turns to whisper in Mimi's ear."
     ai "{fast}Ow!{nw}"
@@ -186,6 +187,7 @@ label start:
     "..."
     scene dagashi interior candle 1
     show akane
+    play sound "sfx/114683__qat__whack02.mp3"
     akane "I have an idea!" with vpunch
     "All eyes look to Akane, who has one booted foot on the table."
     akane "Hyaku-monogatari!"
@@ -226,6 +228,7 @@ label start:
     ai "Good, because I don't have one yet."
     "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
     akane "For the benefit of the summer storm society..."
+    play sound "sfx/114683__qat__whack02.mp3"
     akane "{b}{k=2}T{size=-5}HE{/size} H{size=-5}OUSE{/size} {size=-5}ON{/size} F{size=-5}OULNESS{/size}{/k}{/b}" with vpunch
     call story_start
     call house_on_foulness
@@ -649,7 +652,11 @@ label credits:
             centered(creditize("If you liked this game, please leave a {color=#0f0}rating{/color} or {color=#0f0}review{/color}! The exposure produced by reviews is vital to support small projects like this one.", cps=40))
 
 
-        sfx=[["babuababua", "344430", "light rain.mp3"], ["JarredGibb", "248237", "Match - Strike and Light 01.wav"], ["16FThumaF", "499020", "04_Extinguishing of a candle.wav"]]
+        sfx=[["babuababua", "344430", "light rain.mp3"], 
+             ["JarredGibb", "248237", "Match - Strike and Light 01.wav"], 
+             ["16FThumaF",  "499020", "04_Extinguishing of a candle.wav"],
+             ["Qat",        "114683", "whack02.mp3"]
+        ]
         sfx_url = ["http://freesound.org/people/"+x[0]+"/" for x in sfx]
         sfx_url2 = [sfx_url[x]+"/sounds/"+sfx[x][1]+"/" for x in range(0, len(sfx))]
         sfx_credit = ["{a="+sfx_url2[x]+"}\""+sfx[x][2]+"\"{/a} by {a="+sfx_url[x]+"}{i}"+sfx[x][0]+"{/i} of Freesound.org" for x in range(0, len(sfx))]
