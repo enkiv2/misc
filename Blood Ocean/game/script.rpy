@@ -56,6 +56,7 @@ label start:
     call dream
     stop music
     scene black
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 0.1
     pause
     scene studio 2
     pause
@@ -91,6 +92,7 @@ label start:
     pause
     stop music
     scene black
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 0.2
     pause
     scene studio 3
     pause
