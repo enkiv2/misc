@@ -1,16 +1,20 @@
 ﻿# The script of the game goes in this file.
 
 label dream:
+    play music "sfx/531015__noted451__ocean-waves.wav"
     scene nameless city
     "At the end of the nameless city,"
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 2
     scene silver gate
     extend " the silver gate."
     scene silver thread
     "Into the silver gate,"
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 3
     scene silver_key
     extend " the silver key."
     scene silver gate 2
     "Beyond the silver gate,"
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 4
     scene silver gate 3
     extend " the blood ocean."
     return
@@ -19,6 +23,7 @@ label dream:
 
 label start:
     call dream
+    stop music
     scene black
     pause
     scene studio 1
@@ -49,6 +54,7 @@ label start:
     scene black
     pause
     call dream
+    stop music
     scene black
     pause
     scene studio 2
@@ -80,8 +86,10 @@ label start:
     pause
     call dream
     pause
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 6
     scene silver gate 4
     pause
+    stop music
     scene black
     pause
     scene studio 3
@@ -118,11 +126,16 @@ label start:
     pause
     call dream
     pause
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 6
     scene silver gate 4
     pause
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 8
     scene silver gate 5
     "Tom Shepherd" "I have made contact with outsideness."
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 10
     scene silver gate 6
     "Tom Shepherd" "I have freed the blood ocean."
+    play music "sfx/531015__noted451__ocean-waves.wav" volume 20
     scene silver gate 7
+    pause
     return
