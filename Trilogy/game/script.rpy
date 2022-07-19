@@ -179,6 +179,7 @@ label start:
     hide mimi
     show aoi at left
     aoi "Oh!"
+    play sound "sfx/114683__qat__whack02.mp3"
     "A pile of candles fall to the floor with a crash, and everyone looks to Aoi."
     show aoi akimbo at left
     aoi "Sorry~"
@@ -652,8 +653,8 @@ label credits:
             centered(creditize("If you liked this game, please leave a {color=#0f0}rating{/color} or {color=#0f0}review{/color}! The exposure produced by reviews is vital to support small projects like this one.", cps=40))
 
 
-        sfx=[["babuababua", "344430", "light rain.mp3"], 
-             ["JarredGibb", "248237", "Match - Strike and Light 01.wav"], 
+        sfx=[["babuababua", "344430", "light rain.mp3"],
+             ["JarredGibb", "248237", "Match - Strike and Light 01.wav"],
              ["16FThumaF",  "499020", "04_Extinguishing of a candle.wav"],
              ["Qat",        "114683", "whack02.mp3"]
         ]
