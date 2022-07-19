@@ -13,6 +13,7 @@ label dream:
     "Beyond the silver gate,"
     scene silver gate 3
     extend " the blood ocean."
+    return
 
 # The game starts here.
 
@@ -48,6 +49,17 @@ label start:
     scene black
     pause
     call dream
+    scene black
+    pause
+    scene studio 2
+    pause
+    scene empty vial
+    pause
+    scene studio 2
+    pause
+    scene coat
+    pause
+    scene konbini
     "TV" "... Shephard had modifications in preparation for his trip. These experimental cybernetic enhancements, at the limits of space medi..."
     "Clerk" "Can I help you?"
     "I nod to the clerk."
