@@ -153,17 +153,18 @@ label start:
     scene flame5
     extend "and a candle is lit."
     scene dagashi interior dim
-    show akane
+    show akane surprised
     show misato at right
     misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Good day to you all!"
     scene dagashi interior candle 1
     "Akane puts the candle down on the table."
     show misato
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
-    show akane at right
+    show akane smirk at right
     akane "Yo."
     show mimi at left
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
+    show akane grin at right
     akane "Just Akane. Like Danzig."
     ai "..."
     misato "... These girls are in my class at the Academy."
@@ -172,6 +173,7 @@ label start:
     "Misato turned to Aoi, who has been darting all over the room looking at all the candy, then turns to Ai."
     hide aoi
     misato "Akane and I live together."
+    show akane smile blush at right
     ai "..."
     show mimi at left
     mimi "..."
@@ -187,7 +189,7 @@ label start:
     misato "... Geez, this rain really isn't letting up, isn't it?"
     "..."
     scene dagashi interior candle 1
-    show akane
+    show akane grin
     play sound "sfx/114683__qat__whack02.mp3"
     akane "I have an idea!" with vpunch
     "All eyes look to Akane, who has one booted foot on the table."
@@ -207,7 +209,7 @@ label start:
     "..."
     show mimi
     mimi "... I've got one."
-    show akane at right
+    show akane smile at right
     "Akane puts her foot back down, leans in, and nods."
     mimi "This one is called... {b}{k=2}T{size=-5}HE{/size} L{size=-5}AZARUS{/size} P{size=-5}OSE{/size}{/k}{/b}."
     call story_start
@@ -215,19 +217,28 @@ label start:
     call story_end
     scene dagashi interior candle 2
     ai "Well, that was a Mimi story if I ever heard one."
+    show misato
     misato "How so?"
     ai "Who else would tell a scary story with a journalist protagonist?"
+    show akane smirk at right
     akane "Dario Argento."
     ai "Ok, well who else would tell it in the form of a newspaper article?"
+    show akane smile at right
     akane "Bram Stoker."
     "..."
+    show akane grin at right
     akane "Or Stephen King."
     "..."
     misato "..."
+    show akane blush at right
     misato "Okay, who's next?"
+    show akane smile at right
     akane "I'll go."
+    hide misato
     ai "Good, because I don't have one yet."
+    hide akane
     "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
+    show akane grin
     akane "For the benefit of the summer storm society..."
     play sound "sfx/114683__qat__whack02.mp3"
     akane "{b}{k=2}T{size=-5}HE{/size} H{size=-5}OUSE{/size} {size=-5}ON{/size} F{size=-5}OULNESS{/size}{/k}{/b}" with vpunch
@@ -235,41 +246,62 @@ label start:
     call house_on_foulness
     call story_end
     scene dagashi interior candle 1
+    show aoi akimbo
     aoi "So what happened to the little wormies? Are they okay??"
+    show akane grin at right
     akane "The worms always prevail in the end."
     aoi "But the fire?"
+    show mimi scoop at left
     mimi "Worms are like insects -- they produce lots of young so that losing a couple isn't a big deal."
     "Aoi pauses, a pensive look on her face."
     aoi "I still think that it might hurt."
+    hide mimi
+    hide akane
+    show misato at right
     misato "You're a very kind person, aren't you, miss Tomoe?"
     aoi "hehehe~"
     "..."
     ai "Ok, so I still don't have any--"
+    show aoi
     aoi "I'll go next!"
     ai "You'll g..."
     misato "You have something?"
+    show aoi blush
     aoi "Yeah, I got all..."
+    show aoi akimbo
     "Aoi grimaces, trying to think of the word."
+    show aoi blush
     aoi "{fast}Yeah, I got all...{nw}"
     extend " inspired~~~"
     akane "I wanna hear this..."
     mimi "I'm looking forward to it!"
+    show aoi
     aoi "This one is called..."
     akane "..."
     misato "..."
     mimi "..."
     ai "..."
-    aoi "{b}{k=2}S{size=-6}HE{/size} A{size=-6}WAITED{/size} {size=-6}THE{/size} T{size=-7}URKEYS{/size}{/k}{/b}"
+    show aoi akimbo
+    aoi "{b}{k=2}S{size=-6}HE{/size} A{size=-6}WAITED{/size} {size=-6}THE{/size} T{size=-7}URKEYS{/size}{/k}{/b}!"
     call story_start
     call turkeys
     call story_end
     stop music fadeout 10.0
     scene dagashi interior dim
+    show misato at right
     misato "Well that was..."
+    show mimi at left
     mimi "... grim."
+    show aoi blush
     aoi "heh heh~"
     ai "Yeah! You really got the spirit of the exercise!"
+    hide mimi
+    hide aoi
+    hide misato
+    show akane at left
     "Akane stared blankly at the wall."
+    show misato at right
+    show akane blush smirk at left
     "Misato caught her eye."
     stop music
     jump end
@@ -583,11 +615,17 @@ label turkeys:
 
 label end:
     misato "Hey..."
+    show akane smile at left
     akane "The rain stopped."
     ai "Good. It's gotten dark and creepy in here."
     ai "I feel like spiders are crawling all over my arms."
+    hide misato
+    show mimi angry at right
     mimi "Too much information."
+    hide akane
+    show aoi hearteyes
     "Aoi stood up suddenly and bolted for the door."
+    hide aoi
     aoi "Wheee~~~"
     "The others followed more slowly, yawning and stretching."
     scene dagashi outside
