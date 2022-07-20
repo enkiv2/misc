@@ -74,12 +74,14 @@ label start:
     mimi "..."
     play sound "sfx/114683__qat__whack02.mp3"
     ai "Ow!" with vpunch
+    show ai concerned
     "Ai turns to whisper in Mimi's ear."
     ai "{fast}Ow!{nw}"
     play music "sfx/344430__babuababua__light-rain.mp3" volume 0.5 fadein 5.0
     extend " {size=-10}{i}You didn't have to do that; it's not my fault!{/i}{/size}"
     mimi "{size=-10}{i}Sure it is! If you were honest with her, she wouldn't keep doing it!{/i}{/size}"
     show aoi akimbo at right
+    show ai smirk
     aoi "Hey~~~ What are you whispering about~~"
     show aoi blush at right
     extend " {size=-10}{i}I wanna hear secrets too~~~~~{/i}{/size}"
@@ -96,8 +98,10 @@ label start:
     aoi "Wheee~"
     show mimi pensive
     mimi "Should we find some cover?"
+    show ai smilebig at right
     ai "Nah, let her have her fun."
     mimi "If it keeps up, this dress is gonna get soaked."
+    show ai silly at right
     ai "Aoi's already is -- look."
     show mimi angry
     "Mimi looks, and then turns away, blushing."
@@ -105,22 +109,26 @@ label start:
     scene street rain 2
     show mimi
     mimi "It's getting worse..."
+    show ai concerned at right
     ai "Yeah... I don't think there's anywhere up here to shelter, but if we keep going straight, we should reach the train station."
     show mimi angry
     mimi "That's like half a mile away!"
+    show ai smirk at right
     ai "The nearest shelter in the other direction is further."
     show mimi
     mimi "... Why did I ever agree to window-shopping in the rainy season?"
+    show ai silly at right
     ai "{size=-10}{i}To see Aoi in her new dress and boots.{/i}{/size}"
     show mimi pensive
     mimi "..."
     show mimi
     extend " {size=-10}{i}Fair enough.{/i}{/size}"
     ai "Come on, Aoi. We're gonna go up the street and look for shelter."
-    show aoi akimbo at right
+    show aoi akimbo at left
     aoi "Awww~ I was having fun..."
+    show ai smile at right
     ai "You won't be having much fun when you're recovering from a head cold."
-    show aoi blush at right
+    show aoi blush at left
     aoi "Alright~~"
     scene street rain dagashi
     mimi "I don't remember this being here..."
