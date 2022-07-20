@@ -61,6 +61,7 @@ label start:
     scene black
     quote "June 22nd, 2012"
     scene street daylight
+    show ai
     ai "Shiiiit it's hottttt~~"
     show mimi smug at left
     mimi "That's because you're wearing a leather jacket..."
