@@ -61,6 +61,7 @@ label start:
     scene black
     quote "June 22nd, 2012"
     scene street daylight
+    show ai
     ai "Shiiiit it's hottttt~~"
     show mimi smug at left
     mimi "That's because you're wearing a leather jacket..."
@@ -73,12 +74,14 @@ label start:
     mimi "..."
     play sound "sfx/114683__qat__whack02.mp3"
     ai "Ow!" with vpunch
+    show ai concerned
     "Ai turns to whisper in Mimi's ear."
     ai "{fast}Ow!{nw}"
     play music "sfx/344430__babuababua__light-rain.mp3" volume 0.5 fadein 5.0
     extend " {size=-10}{i}You didn't have to do that; it's not my fault!{/i}{/size}"
     mimi "{size=-10}{i}Sure it is! If you were honest with her, she wouldn't keep doing it!{/i}{/size}"
     show aoi akimbo at right
+    show ai smirk
     aoi "Hey~~~ What are you whispering about~~"
     show aoi blush at right
     extend " {size=-10}{i}I wanna hear secrets too~~~~~{/i}{/size}"
@@ -95,8 +98,10 @@ label start:
     aoi "Wheee~"
     show mimi pensive
     mimi "Should we find some cover?"
+    show ai smilebig at right
     ai "Nah, let her have her fun."
     mimi "If it keeps up, this dress is gonna get soaked."
+    show ai silly at right
     ai "Aoi's already is -- look."
     show mimi angry
     "Mimi looks, and then turns away, blushing."
@@ -104,22 +109,26 @@ label start:
     scene street rain 2
     show mimi
     mimi "It's getting worse..."
+    show ai concerned at right
     ai "Yeah... I don't think there's anywhere up here to shelter, but if we keep going straight, we should reach the train station."
     show mimi angry
     mimi "That's like half a mile away!"
+    show ai smirk at right
     ai "The nearest shelter in the other direction is further."
     show mimi
     mimi "... Why did I ever agree to window-shopping in the rainy season?"
+    show ai silly at right
     ai "{size=-10}{i}To see Aoi in her new dress and boots.{/i}{/size}"
     show mimi pensive
     mimi "..."
     show mimi
     extend " {size=-10}{i}Fair enough.{/i}{/size}"
     ai "Come on, Aoi. We're gonna go up the street and look for shelter."
-    show aoi akimbo at right
+    show aoi akimbo at left
     aoi "Awww~ I was having fun..."
+    show ai smile at right
     ai "You won't be having much fun when you're recovering from a head cold."
-    show aoi blush at right
+    show aoi blush at left
     aoi "Alright~~"
     scene street rain dagashi
     mimi "I don't remember this being here..."
@@ -153,17 +162,18 @@ label start:
     scene flame5
     extend "and a candle is lit."
     scene dagashi interior dim
-    show akane
+    show akane surprised
     show misato at right
     misato "Oh, Akagi-san! And Yamada-san, and Tomoe-san too! Good day to you all!"
     scene dagashi interior candle 1
     "Akane puts the candle down on the table."
     show misato
     misato "Akane, this is Akagi Ai-san in the jacket, and Yamada Mimi-san, and Tomoe Aoi-san in the pretty dress."
-    show akane at right
+    show akane smirk at right
     akane "Yo."
     show mimi at left
     mimi "Pleased to meet you, miss... I'm sorry, I didn't catch your full name."
+    show akane grin at right
     akane "Just Akane. Like Danzig."
     ai "..."
     misato "... These girls are in my class at the Academy."
@@ -172,6 +182,7 @@ label start:
     "Misato turned to Aoi, who has been darting all over the room looking at all the candy, then turns to Ai."
     hide aoi
     misato "Akane and I live together."
+    show akane smile blush at right
     ai "..."
     show mimi at left
     mimi "..."
@@ -187,7 +198,7 @@ label start:
     misato "... Geez, this rain really isn't letting up, isn't it?"
     "..."
     scene dagashi interior candle 1
-    show akane
+    show akane grin
     play sound "sfx/114683__qat__whack02.mp3"
     akane "I have an idea!" with vpunch
     "All eyes look to Akane, who has one booted foot on the table."
@@ -207,7 +218,7 @@ label start:
     "..."
     show mimi
     mimi "... I've got one."
-    show akane at right
+    show akane smile at right
     "Akane puts her foot back down, leans in, and nods."
     mimi "This one is called... {b}{k=2}T{size=-5}HE{/size} L{size=-5}AZARUS{/size} P{size=-5}OSE{/size}{/k}{/b}."
     call story_start
@@ -215,19 +226,28 @@ label start:
     call story_end
     scene dagashi interior candle 2
     ai "Well, that was a Mimi story if I ever heard one."
+    show misato
     misato "How so?"
     ai "Who else would tell a scary story with a journalist protagonist?"
+    show akane smirk at right
     akane "Dario Argento."
     ai "Ok, well who else would tell it in the form of a newspaper article?"
+    show akane smile at right
     akane "Bram Stoker."
     "..."
+    show akane grin at right
     akane "Or Stephen King."
     "..."
     misato "..."
+    show akane blush at right
     misato "Okay, who's next?"
+    show akane smile at right
     akane "I'll go."
+    hide misato
     ai "Good, because I don't have one yet."
+    hide akane
     "Akane stands up, looming over them, and puts one foot on the desk again, leaning in."
+    show akane grin
     akane "For the benefit of the summer storm society..."
     play sound "sfx/114683__qat__whack02.mp3"
     akane "{b}{k=2}T{size=-5}HE{/size} H{size=-5}OUSE{/size} {size=-5}ON{/size} F{size=-5}OULNESS{/size}{/k}{/b}" with vpunch
@@ -235,41 +255,62 @@ label start:
     call house_on_foulness
     call story_end
     scene dagashi interior candle 1
+    show aoi akimbo
     aoi "So what happened to the little wormies? Are they okay??"
+    show akane grin at right
     akane "The worms always prevail in the end."
     aoi "But the fire?"
+    show mimi scoop at left
     mimi "Worms are like insects -- they produce lots of young so that losing a couple isn't a big deal."
     "Aoi pauses, a pensive look on her face."
     aoi "I still think that it might hurt."
+    hide mimi
+    hide akane
+    show misato at right
     misato "You're a very kind person, aren't you, miss Tomoe?"
     aoi "hehehe~"
     "..."
     ai "Ok, so I still don't have any--"
+    show aoi
     aoi "I'll go next!"
     ai "You'll g..."
     misato "You have something?"
+    show aoi blush
     aoi "Yeah, I got all..."
+    show aoi akimbo
     "Aoi grimaces, trying to think of the word."
+    show aoi blush
     aoi "{fast}Yeah, I got all...{nw}"
     extend " inspired~~~"
     akane "I wanna hear this..."
     mimi "I'm looking forward to it!"
+    show aoi
     aoi "This one is called..."
     akane "..."
     misato "..."
     mimi "..."
     ai "..."
-    aoi "{b}{k=2}S{size=-6}HE{/size} A{size=-6}WAITED{/size} {size=-6}THE{/size} T{size=-7}URKEYS{/size}{/k}{/b}"
+    show aoi akimbo
+    aoi "{b}{k=2}S{size=-6}HE{/size} A{size=-6}WAITED{/size} {size=-6}THE{/size} T{size=-7}URKEYS{/size}{/k}{/b}!"
     call story_start
     call turkeys
     call story_end
     stop music fadeout 10.0
     scene dagashi interior dim
+    show misato at right
     misato "Well that was..."
+    show mimi at left
     mimi "... grim."
+    show aoi blush
     aoi "heh heh~"
     ai "Yeah! You really got the spirit of the exercise!"
+    hide mimi
+    hide aoi
+    hide misato
+    show akane at left
     "Akane stared blankly at the wall."
+    show misato at right
+    show akane blush smirk at left
     "Misato caught her eye."
     stop music
     jump end
@@ -374,6 +415,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}There is no ferry out, and no dock on the other side.{/font}"
     quote  "{font=AquilineTwo.ttf}I will be taking that bridge in the morning.{/font}"
     nvl clear
+    scene house day
     quote  "{font=AquilineTwo.ttf}4th April, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}At long last, I have arrived at the estate proper — just as the maid was leaving.{/font}"
@@ -390,12 +432,14 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I introduced myself to the children — the maid is the only other member of the household staff, and she sleeps in town, and meanwhile, the master of the house is still involved in his work in London — and got to preparing meals for them.{/font}"
     quote  "{font=AquilineTwo.ttf}Although the kitchen has been cleaned, the pantry is emptied of anything that could be eaten without cooking — I wonder how long the children have been fending for themselves here.{/font}"
     nvl clear
+    scene house night
     quote  "{font=AquilineTwo.ttf}5th April, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Dearest Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}My bedroom is cold and drafty during the night, and gusts of wind kept me awake late, but when finally I fell asleep I dreamt of good times with you before the war.{/font}"
     quote  "{font=AquilineTwo.ttf}Paris was not the only foolish youthful promise we made in the woods that summer! I had forgotten all the others.{/font}"
     quote  "{font=AquilineTwo.ttf}I don't know what prompted all those memories to return.{/font}"
     nvl clear
+    scene house day
     quote  "{font=AquilineTwo.ttf}I awoke early, my cold and drafty room becoming hot and stale shortly after sunrise, and so I was able to catch the maid, a Mrs Grant, before she left.{/font}"
     quote  "{font=AquilineTwo.ttf}She informed me that the reason there is no ferry and no dock here is that the tides would smash them against the island — and from the sounds I heard last night, I believe it!{/font}"
     nvl clear
@@ -446,6 +490,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}The activity, in this heat, must have been too much for Terence.{/font}"
     quote  "{font=AquilineTwo.ttf}Around sundown, I went to call them in, and only Anna came.{/font}"
     quote  "{font=AquilineTwo.ttf}I asked where Terence was and she said, \"still on the rocks\".{/font}"
+    scene house night
     quote  "{font=AquilineTwo.ttf}I let him play for a little while longer, but darkness fell quicker than I expected, so I gathered up a lamp & went out to look for him.{/font}"
     nvl clear
     quote  "{font=AquilineTwo.ttf}I found him laid out on one of the stone steps, the water line up to his ears, flushed and warm to the touch, & carried him in.{/font}"
@@ -454,6 +499,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I tended to his fever with cool, damp rags, until Anna told me \"Mama said use the paracetamol\".{/font}"
     quote  "{font=AquilineTwo.ttf}I did, and his fever broke, though he didn't wake up.{/font}"
     nvl clear
+    scene house rain
     quote  "{font=AquilineTwo.ttf}April 6th, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}Last night, below the gusts of wind, the waves against the rocks, and the groans of the shifting house, I thought I heard a soft, clear voice as I fell asleep.{/font}"
@@ -466,6 +512,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I noticed his skin was a little greasy & that he was beginning to develop pimples on his cheeks.{/font}"
     quote  "{font=AquilineTwo.ttf}He is an adolescent after all, but I hadn't noticed these things earlier in the week, even when ensuring his face and hands were properly washed for supper.{/font}"
     nvl clear
+    scene house day
     quote  "{font=AquilineTwo.ttf}I told Mrs Grant about Anna's strange prescription, and she looked slightly disturbed.{/font}"
     quote  "{font=AquilineTwo.ttf}She said, \"Anna never called her mother ‘Mama'.\"{/font}"
     quote  "{font=AquilineTwo.ttf}After all, she had never had a mother.{/font}"
@@ -480,6 +527,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}After Mrs Grant left, Anna continued ordering me about — \"Mama says fill the bathtub with cold water\", \"Mama says take in all the towels off the line\".{/font}"
     quote  "{font=AquilineTwo.ttf}I played along.{/font}"
     nvl clear
+    scene house night
     quote  "{font=AquilineTwo.ttf}I must have tired myself out, because I found myself dozing before the stove late in the evening, after I would have normally gone to bed.{/font}"
     quote  "{font=AquilineTwo.ttf}I heard a creaking above me, and a pair of soft voices from the radiator.{/font}"
     nvl clear
@@ -499,15 +547,19 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}The rambler went on and on like this, and I tried to transcribe more, but the more closely I listen to the echoes in the radiator, the sleepier I get.{/font}"
     quote  "{font=AquilineTwo.ttf}Perhaps I, too, have become feverish and delirious? I will finish this letter and go to bed.{/font}"
     nvl clear
+    scene house rain
     quote  "{font=AquilineTwo.ttf}April 7th, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}Late last night, awakened by Terence's cries, I discovered the meaning of Anna's preparations.{/font}"
     quote  "{font=AquilineTwo.ttf}His fever had gotten worse — far worse — and he was squirming, his muscles spasming.{/font}"
+    scene tub
     quote  "{font=AquilineTwo.ttf}I remembered that the tub was still full of cold water, and being unable to get him to swallow the paracetamol, I carried him there.{/font}"
+    scene tub2
     quote  "{font=AquilineTwo.ttf}But, as soon as his torso was submerged, it split open like a pomegranite, white pips floating to the surface.{/font}"
     quote  "{font=AquilineTwo.ttf}His skin was a thin shell, muscle eaten away and full of small holes, with nothing inside but bones and these squirming white worms that now rushed out.{/font}"
     quote  "{font=AquilineTwo.ttf}They burbled under the skin on his unsubmerged limbs and face, while the others floated or clung to the edges of the tub.{/font}"
     nvl clear
+    scene house rain
     quote  "{font=AquilineTwo.ttf}I heard the front door open, and the worms began evacuating his body, pouring out of the tub onto a line of fresh, dry towels laid out on the floor — a pathway to the doorway, where Anna stood in her nightgown in the pouring rain.{/font}"
     quote  "{font=AquilineTwo.ttf}I watched them march out, down the steps, and into the moonlit marsh clay, which had risen up above the water line.{/font}"
     quote  "{font=AquilineTwo.ttf}The worms scattered out, created each a tiny hole, and dove in.{/font}"
@@ -521,6 +573,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I was naive to hold on so tightly to a youthful promise.{/font}"
     quote  "{font=AquilineTwo.ttf}Paris is the domain of the Bluebeard of Gambais now, not some glamorous fantasy land of Byronic heroes and symbolist poets.{/font}"
     nvl clear
+    scene house fire
     quote  "{font=AquilineTwo.ttf}I took a shovel from the root cellar and destroyed Anna while she slept.{/font}"
     quote  "{font=AquilineTwo.ttf}Tonight, when the sun sets and your twisted, infected body can move again, I will do the same to you.{/font}"
     quote  "{font=AquilineTwo.ttf}This is the last letter I will write.{/font}"
@@ -532,12 +585,14 @@ label turkeys:
     scene black
     quote "S{size=-5}HE{/size} A{size=-5}WAITED{/size} {size=-5}THE{/size} T{size=-5}URKEYS{/size}"
     nvl clear
+    scene room
     quote "{font=JIANGKRIK.otf}The load-bearing wall groaned behind her. She would need to move again soon.{/font}"
     nvl clear
     quote "{font=JIANGKRIK.otf}Houses used to last a lot longer.{/font}"
     quote "{font=JIANGKRIK.otf}This was the third in as many weeks, and she had put off leaving for longer than was wise: the previous tenants had left furniture, and she had almost convinced herself that the smell of rotting carrion was actually the nearby sewage treatment facility.{/font}"
     nvl clear
     quote  "{font=JIANGKRIK.otf}Taking a claw hammer from the pocket of her mangled overalls, she peeled some of the boards back from the doorjam.{/font}"
+    scene tub3
     quote  "{font=JIANGKRIK.otf}Covering her body with a plastic tub, she pushed her way through three or four feet of bloodied feathers and claws.{/font}"
     nvl clear
     quote  "{font=JIANGKRIK.otf}The smell no longer bothered her, but without the tub she would be smothered before she could be crushed, and the tub provided valuable protection from the rain of small winged bodies as she made her way to her next shelter.{/font}"
@@ -563,6 +618,7 @@ label turkeys:
     nvl clear
     quote  "{font=JIANGKRIK.otf}As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe.{/font}"
     nvl clear
+    scene room
     quote  "{font=JIANGKRIK.otf}She pushed the door closed, reinforcing it with boards and nails with a practiced ease.{/font}"
     quote  "{font=JIANGKRIK.otf}Then, satisfied, she turned around to survey the rest of the building.{/font}"
     quote  "{font=JIANGKRIK.otf}But, the back end of the house had already collapsed: she must have already stayed here!{/font}"
@@ -583,11 +639,17 @@ label turkeys:
 
 label end:
     misato "Hey..."
+    show akane smile at left
     akane "The rain stopped."
     ai "Good. It's gotten dark and creepy in here."
     ai "I feel like spiders are crawling all over my arms."
+    hide misato
+    show mimi angry at right
     mimi "Too much information."
+    hide akane
+    show aoi hearteyes
     "Aoi stood up suddenly and bolted for the door."
+    hide aoi
     aoi "Wheee~~~"
     "The others followed more slowly, yawning and stretching."
     scene dagashi outside
