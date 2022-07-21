@@ -585,12 +585,14 @@ label turkeys:
     scene black
     quote "S{size=-5}HE{/size} A{size=-5}WAITED{/size} {size=-5}THE{/size} T{size=-5}URKEYS{/size}"
     nvl clear
+    scene room
     quote "{font=JIANGKRIK.otf}The load-bearing wall groaned behind her. She would need to move again soon.{/font}"
     nvl clear
     quote "{font=JIANGKRIK.otf}Houses used to last a lot longer.{/font}"
     quote "{font=JIANGKRIK.otf}This was the third in as many weeks, and she had put off leaving for longer than was wise: the previous tenants had left furniture, and she had almost convinced herself that the smell of rotting carrion was actually the nearby sewage treatment facility.{/font}"
     nvl clear
     quote  "{font=JIANGKRIK.otf}Taking a claw hammer from the pocket of her mangled overalls, she peeled some of the boards back from the doorjam.{/font}"
+    scene tub3
     quote  "{font=JIANGKRIK.otf}Covering her body with a plastic tub, she pushed her way through three or four feet of bloodied feathers and claws.{/font}"
     nvl clear
     quote  "{font=JIANGKRIK.otf}The smell no longer bothered her, but without the tub she would be smothered before she could be crushed, and the tub provided valuable protection from the rain of small winged bodies as she made her way to her next shelter.{/font}"
@@ -616,6 +618,7 @@ label turkeys:
     nvl clear
     quote  "{font=JIANGKRIK.otf}As she pushed through a front door, she felt an unusually large thump on her tub: a hawk, maybe.{/font}"
     nvl clear
+    scene room
     quote  "{font=JIANGKRIK.otf}She pushed the door closed, reinforcing it with boards and nails with a practiced ease.{/font}"
     quote  "{font=JIANGKRIK.otf}Then, satisfied, she turned around to survey the rest of the building.{/font}"
     quote  "{font=JIANGKRIK.otf}But, the back end of the house had already collapsed: she must have already stayed here!{/font}"
