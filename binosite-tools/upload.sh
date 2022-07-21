@@ -6,12 +6,8 @@ function upload() {
 	scp -r "$@" accela_miniaturebinoculars@ssh.phx.nearlyfreespeech.net:/home/public/ 
 }
 
-parts="$@"
-if [ -z $parts ]; then
-	parts=part?
-fi
 
-for i in $parts ; do
+for i in "$@" ; do
 	upload $i || (
 		echo "Upload failed for $i ; retrying (try 2)..."
 		upload $i || (
@@ -27,5 +23,6 @@ for i in $parts ; do
 			)
 		)
 	)
+done
 
 [ -z $failed ] || ( echo "Failed: $failed" ; exit 1 )
