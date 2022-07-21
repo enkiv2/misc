@@ -415,6 +415,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}There is no ferry out, and no dock on the other side.{/font}"
     quote  "{font=AquilineTwo.ttf}I will be taking that bridge in the morning.{/font}"
     nvl clear
+    scene house day
     quote  "{font=AquilineTwo.ttf}4th April, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}At long last, I have arrived at the estate proper — just as the maid was leaving.{/font}"
@@ -431,12 +432,14 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I introduced myself to the children — the maid is the only other member of the household staff, and she sleeps in town, and meanwhile, the master of the house is still involved in his work in London — and got to preparing meals for them.{/font}"
     quote  "{font=AquilineTwo.ttf}Although the kitchen has been cleaned, the pantry is emptied of anything that could be eaten without cooking — I wonder how long the children have been fending for themselves here.{/font}"
     nvl clear
+    scene house night
     quote  "{font=AquilineTwo.ttf}5th April, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Dearest Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}My bedroom is cold and drafty during the night, and gusts of wind kept me awake late, but when finally I fell asleep I dreamt of good times with you before the war.{/font}"
     quote  "{font=AquilineTwo.ttf}Paris was not the only foolish youthful promise we made in the woods that summer! I had forgotten all the others.{/font}"
     quote  "{font=AquilineTwo.ttf}I don't know what prompted all those memories to return.{/font}"
     nvl clear
+    scene house day
     quote  "{font=AquilineTwo.ttf}I awoke early, my cold and drafty room becoming hot and stale shortly after sunrise, and so I was able to catch the maid, a Mrs Grant, before she left.{/font}"
     quote  "{font=AquilineTwo.ttf}She informed me that the reason there is no ferry and no dock here is that the tides would smash them against the island — and from the sounds I heard last night, I believe it!{/font}"
     nvl clear
@@ -487,6 +490,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}The activity, in this heat, must have been too much for Terence.{/font}"
     quote  "{font=AquilineTwo.ttf}Around sundown, I went to call them in, and only Anna came.{/font}"
     quote  "{font=AquilineTwo.ttf}I asked where Terence was and she said, \"still on the rocks\".{/font}"
+    scene house night
     quote  "{font=AquilineTwo.ttf}I let him play for a little while longer, but darkness fell quicker than I expected, so I gathered up a lamp & went out to look for him.{/font}"
     nvl clear
     quote  "{font=AquilineTwo.ttf}I found him laid out on one of the stone steps, the water line up to his ears, flushed and warm to the touch, & carried him in.{/font}"
@@ -495,6 +499,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I tended to his fever with cool, damp rags, until Anna told me \"Mama said use the paracetamol\".{/font}"
     quote  "{font=AquilineTwo.ttf}I did, and his fever broke, though he didn't wake up.{/font}"
     nvl clear
+    scene house rain
     quote  "{font=AquilineTwo.ttf}April 6th, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}Last night, below the gusts of wind, the waves against the rocks, and the groans of the shifting house, I thought I heard a soft, clear voice as I fell asleep.{/font}"
@@ -507,6 +512,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I noticed his skin was a little greasy & that he was beginning to develop pimples on his cheeks.{/font}"
     quote  "{font=AquilineTwo.ttf}He is an adolescent after all, but I hadn't noticed these things earlier in the week, even when ensuring his face and hands were properly washed for supper.{/font}"
     nvl clear
+    scene house day
     quote  "{font=AquilineTwo.ttf}I told Mrs Grant about Anna's strange prescription, and she looked slightly disturbed.{/font}"
     quote  "{font=AquilineTwo.ttf}She said, \"Anna never called her mother ‘Mama'.\"{/font}"
     quote  "{font=AquilineTwo.ttf}After all, she had never had a mother.{/font}"
@@ -521,6 +527,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}After Mrs Grant left, Anna continued ordering me about — \"Mama says fill the bathtub with cold water\", \"Mama says take in all the towels off the line\".{/font}"
     quote  "{font=AquilineTwo.ttf}I played along.{/font}"
     nvl clear
+    scene house night
     quote  "{font=AquilineTwo.ttf}I must have tired myself out, because I found myself dozing before the stove late in the evening, after I would have normally gone to bed.{/font}"
     quote  "{font=AquilineTwo.ttf}I heard a creaking above me, and a pair of soft voices from the radiator.{/font}"
     nvl clear
@@ -540,15 +547,19 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}The rambler went on and on like this, and I tried to transcribe more, but the more closely I listen to the echoes in the radiator, the sleepier I get.{/font}"
     quote  "{font=AquilineTwo.ttf}Perhaps I, too, have become feverish and delirious? I will finish this letter and go to bed.{/font}"
     nvl clear
+    scene house rain
     quote  "{font=AquilineTwo.ttf}April 7th, 1919{/font}"
     quote  "{font=AquilineTwo.ttf}Mary,{/font}"
     quote  "{font=AquilineTwo.ttf}Late last night, awakened by Terence's cries, I discovered the meaning of Anna's preparations.{/font}"
     quote  "{font=AquilineTwo.ttf}His fever had gotten worse — far worse — and he was squirming, his muscles spasming.{/font}"
+    scene tub
     quote  "{font=AquilineTwo.ttf}I remembered that the tub was still full of cold water, and being unable to get him to swallow the paracetamol, I carried him there.{/font}"
+    scene tub2
     quote  "{font=AquilineTwo.ttf}But, as soon as his torso was submerged, it split open like a pomegranite, white pips floating to the surface.{/font}"
     quote  "{font=AquilineTwo.ttf}His skin was a thin shell, muscle eaten away and full of small holes, with nothing inside but bones and these squirming white worms that now rushed out.{/font}"
     quote  "{font=AquilineTwo.ttf}They burbled under the skin on his unsubmerged limbs and face, while the others floated or clung to the edges of the tub.{/font}"
     nvl clear
+    scene house rain
     quote  "{font=AquilineTwo.ttf}I heard the front door open, and the worms began evacuating his body, pouring out of the tub onto a line of fresh, dry towels laid out on the floor — a pathway to the doorway, where Anna stood in her nightgown in the pouring rain.{/font}"
     quote  "{font=AquilineTwo.ttf}I watched them march out, down the steps, and into the moonlit marsh clay, which had risen up above the water line.{/font}"
     quote  "{font=AquilineTwo.ttf}The worms scattered out, created each a tiny hole, and dove in.{/font}"
@@ -562,6 +573,7 @@ label house_on_foulness:
     quote  "{font=AquilineTwo.ttf}I was naive to hold on so tightly to a youthful promise.{/font}"
     quote  "{font=AquilineTwo.ttf}Paris is the domain of the Bluebeard of Gambais now, not some glamorous fantasy land of Byronic heroes and symbolist poets.{/font}"
     nvl clear
+    scene house fire
     quote  "{font=AquilineTwo.ttf}I took a shovel from the root cellar and destroyed Anna while she slept.{/font}"
     quote  "{font=AquilineTwo.ttf}Tonight, when the sun sets and your twisted, infected body can move again, I will do the same to you.{/font}"
     quote  "{font=AquilineTwo.ttf}This is the last letter I will write.{/font}"
