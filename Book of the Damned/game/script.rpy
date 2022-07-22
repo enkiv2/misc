@@ -186,7 +186,7 @@ label start:
     scene tarot
     comment "XXX tarot scene goes here: Akane reads spread, and Misato reads her mind about some of the meanings she is too polite to explain."
     scene akane bedroom
-    play sound "sfx/175039__makofox__phone-vibrate.wav"
+    play sound "sfx/175039__makofox__phone-vibrate.mp3"
     pause
     show cellphone
     stop sound
