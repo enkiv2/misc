@@ -91,7 +91,7 @@ for i in part?/Page*.htm; do
 
 	#echo;  echo "Repair ($i)..."
 
-	sed -i 's|CAN YOU REPAIR THESE?|<a href="/part3/Page18076.htm">CAN YOU REPAIR THESE?</a>|g' $i ; printf .
+	sed -i 's|CAN YOU REPAIR THESE\?|<a href="/part3/Page18076.htm">CAN YOU REPAIR THESE?</a>|g' $i ; printf .
 	sed -i 's|REPAIR SEIZED OCULARS IF|<a href="/part3/Page18378.htm">REPAIR SEIZED OCULARS IF</a>|g' $i ; printf .
 	sed -i 's|COLLIMATE AND REPAIR CF|<a href="/part3/Page18719.htm">COLLIMATE AND REPAIR CF</a>|g' $i ; printf .
 
@@ -129,7 +129,7 @@ for i in part?/Page*.htm; do
 	sed -i 's|OTHER BINOCULARS #8|<a href="/part5/Page3090.htm">OTHER BINOCULARS #8</a>|g' $i ; printf .
 	sed -i 's|OTHER BINOCULARS #9|<a href="/part5/Page4508.htm">OTHER BINOCULARS #9</a>|g' $i ; printf .
 	sed -i 's|BINOCULARS CATALOGS #10|<a href="/part6/Page1464.htm">BINOCULAR CATALOGS #10</a>|g' $i ; printf .
-	sed -i 's|BINOCULARS CATALOGS #1\([^0]\)|<a href="/part6/Page21320.htm">BINOCULAR CATALOGS #01</a>1|g' $i ; printf .
+	sed -i 's|BINOCULARS CATALOGS #1\([^0]\)|<a href="/part6/Page21320.htm">BINOCULAR CATALOGS #01</a>\1|g' $i ; printf .
 	sed -i 's|BINOCULARS CATALOGS #2|<a href="/part6/Page22377.htm">BINOCULAR CATALOGS #02</a>|g' $i ; printf .
 	sed -i 's|BINOCULARS CATALOGS #3|<a href="/part6/Page4115.htm">BINOCULAR CATALOGS #03</a>|g' $i ; printf .
 	sed -i 's|BINOCULARS CATALOGS #4|<a href="/part6/Page1604.htm">BINOCULAR CATALOGS #04</a>|g' $i ; printf .
