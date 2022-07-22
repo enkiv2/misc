@@ -56,12 +56,7 @@ label march15:
     n "Someone must have been hired to clean all the crevices in the past few weeks, probably as part of opening it up as a dormitory."
     scene door night
     n "Misato knocked on the ornate door, but no answer came."
-    menu:
-        "Try the knob.":
-            $ pass
-        "Wait.":
-            $ pass
-    call staticIn
+    $ prefMenu({"doNothing":["try the knob", 1], "doNothing2":["wait", 1]})
     scene door night
     misato "{i}Who is that?{/i}"
     $ name = renpy.input("Name: ")

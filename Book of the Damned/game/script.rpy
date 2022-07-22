@@ -1,19 +1,19 @@
-﻿#      March 2012       
-# Su Mo Tu We Th Fr Sa  
-#              1  2  3  
-#  4  5  6  7  8  9 10  
-# 11 12 13 14 15 16 17  
-# 18 19 20 21 22 23 24  
-# 25 26 27 28 29 30 31  
-#                       
-#      April 2012       
-# Su Mo Tu We Th Fr Sa  
-#  1  2  3  4  5  6  7  
-#  8  9 10 11 12 13 14  
-# 15 16 17 18 19 20 21  
-# 22 23 24 25 26 27 28  
-# 29 30                 
-                      
+﻿#      March 2012
+# Su Mo Tu We Th Fr Sa
+#              1  2  3
+#  4  5  6  7  8  9 10
+# 11 12 13 14 15 16 17
+# 18 19 20 21 22 23 24
+# 25 26 27 28 29 30 31
+#
+#      April 2012
+# Su Mo Tu We Th Fr Sa
+#  1  2  3  4  5  6  7
+#  8  9 10 11 12 13 14
+# 15 16 17 18 19 20 21
+# 22 23 24 25 26 27 28
+# 29 30
+
 init python:
     from random import Random
     random=Random()
@@ -41,12 +41,13 @@ init python:
         if not keys:
             keys=list(itemDict.keys())
         for k in keys:
-            menuPairs.append([itemDict[k][0], k])
+            menuPairs.append([itemDict[k][0].capitalize(), k])
             weightDict[k]=itemDict[k][1]
         sel2=randomByPref(weightDict)
         if debugMode:
-            debug("Misato's selection: "+sel2)
+            comment("Misato's selection: "+sel2)
         sel=renpy.display_menu(menuPairs)
+        renpy.call("staticIn")
         if random.randint(0, trust_player) <= 50 and not persistent.override_judgement:
             if sel!=sel2:
                 misato("{i}I'm not going to do that. Instead, I will "+itemDict[sel2][0]+".{/i}")
@@ -95,6 +96,12 @@ label staticOut:
     pause 0.1
     return
 
+label doNothing:
+    $ pass
+label doNothing2:
+    $ pass
+
+
 label phone:
     play sound "sfx/175039__makofox__phone-vibrate.mp3"
     pause
@@ -122,9 +129,3 @@ label start:
 
 # Setting details (maybe from Mina?)
 # The ring of mountains keeps the fog lingering within the bowl of Yomiyama proper, so whenever it rains, visibility remains low and brocken spectres are easily produced. This may have led to ideas about this valley being haunted or a favorite area of reality-warping Tengu.
-
-
-
-
-
-
