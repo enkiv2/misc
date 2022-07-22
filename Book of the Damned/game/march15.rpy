@@ -201,6 +201,7 @@ label march15:
             stop sound fadeout 1
             "Kuro gets up and dashes into the darkness at the other end of the hall."
             $ cat_affinity += 2
+            scene black
             "Misato gets up and sneaks back into bed."
             akane "{size=-5}Mrruh?{/size}"
             extend "... {size=-7}Yuuko-cha{/size}{size=-10}n{/size}"
