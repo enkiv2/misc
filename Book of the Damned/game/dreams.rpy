@@ -1,5 +1,15 @@
+label dreamIn:
+    stop music fadeout 2.0
+    scene dream with fade 2.0
+    play music "music/Infocalypse_-_The_Heads_Sprang_Up__Featuring_The_Dixie_Flatline_.mp3" volume 0.23 fadein 2.0
+    return
+label dreamOut:
+    stop music fadeout 1.0
+    scene black with dissolve 1.0
+    return
+
 label dream1:
-    scene dream
+    call dreamIn
     # FIRST DREAM
     # an image of the doorknob appears, and then a face fades in on it
     scene doorknob
@@ -25,10 +35,11 @@ label dream1:
     # the corpse focuses its eyes and begins to speak: "without love you have nothing. your garden shall be sown with asphodel."
     "Floating corpse" "Without love you have nothing. Your garden shall be sown with asphodel."
     # in later dream, this sequence repeats but the corpse and the hermit both fade into MISATO's face.
+    call dreamOut
     return
 
 label dream2:
-    scene dream
+    call dreamIn
     # FIRST DREAM
     # an image of the doorknob appears, and then a face fades in on it
     scene doorknob
@@ -57,6 +68,7 @@ label dream2:
     scene hermitbox misatoface
     with dissolve
     pause 1
+    call dreamOut
     return
 
 
