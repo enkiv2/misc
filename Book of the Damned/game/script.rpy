@@ -186,8 +186,10 @@ label start:
     scene tarot
     comment "XXX tarot scene goes here: Akane reads spread, and Misato reads her mind about some of the meanings she is too polite to explain."
     scene akane bedroom
-    play sound "sfx/txtmsg.wav"
+    play sound "sfx/175039__makofox__phone-vibrate.wav"
+    pause
     show cellphone
+    stop sound
     mina_phone "Fun fact: the house you're staying in was built in 1939!"
     scene akane bedroom
     akane "Your sister?"
