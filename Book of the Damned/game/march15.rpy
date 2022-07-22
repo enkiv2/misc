@@ -183,6 +183,7 @@ label march15:
             misato "{size=-10}Oh!~{/size}"
             "Misato kneels."
             misato "{size=-10}What's your name, little one?{/size}"
+            play sound "sfx/563746__kim-kimovna__cat-01.mp3"
             "She reaches her hand out, and the cat sniffs."
             $ cat_affinity += 1
             misato "{size=-10}How did you even get in here?{/size}"
@@ -197,6 +198,7 @@ label march15:
             "Kuro ignores this, lost in the ecstasy of belly scritches."
             $ cat_affinity += 4
             misato "{size=-10}I'd better go back to bed now. You make sure to eat up all the critters!{/size}"
+            stop sound fadeout 1
             "Kuro gets up and dashes into the darkness at the other end of the hall."
             $ cat_affinity += 2
             "Misato gets up and sneaks back into bed."
