@@ -31,3 +31,45 @@ define trust_aoi=0
 
 # phone versions, for people we talk to on the phone
 define mina_phone = Character("Umeji Mina (SMS)", what_prefix="{k=1.5}", what_suffix="{/k}") # TODO: replace with monospace font
+
+init -2 python:
+    class generateAffinityContent:
+        def __call__(self):
+            def bargraph(pct):
+                pct=min(pct, 100)
+                color="#f00"
+                if pct>25:
+                    color="#0f0"
+                    if pct>75:
+                        color="#00f"
+                bar="#"*(int(pct/10))
+                bar+=(" "*(10-int(pct/10)))
+                return "{color="+color+"}"+bar+" "+str(pct)+"%{/color}"
+
+            ret=[]
+            ret.append("Player: "+bargraph(trust_player)+"%")
+            ret.append("")
+            ret.append("Akane: "+bargraph(trust_akane)+"%")
+            ret.append("Yuuko: "+bargraph(trust_yuuko)+"%")
+            ret.append("Miko: "+bargraph(trust_miko)+"%")
+            ret.append("Hanabi: "+bargraph(trust_hanabi)+"%")
+            ret.append("Hikari: "+bargraph(trust_hikari)+"%")
+            ret.append("Akiko: "+bargraph(trust_akiko)+"%")
+            ret.append("")
+            ret.append("Mina: "+bargraph(trust_mina)+"%")
+            ret.append("Kuroki: "+bargraph(trust_kuroki)+"%")
+            ret.append("Ai: "+bargraph(trust_ai)+"%")
+            ret.append("Aoi: "+bargraph(trust_aoi)+"%")
+            ret.append("")
+            ret.append("Cats: "+bargraph(cat_affinity)+"%")
+            return "\n".join(ret)
+        def __str__(self):
+            self.call()
+
+screen affinity:
+    tag menu
+    use game_menu(_("Affinity"), scroll="viewport"):
+        style_prefix "about"
+        vbox:
+            label _("Affinity:")
+            label (generateAffinityContent()())
