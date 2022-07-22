@@ -32,44 +32,238 @@ define trust_aoi=0
 # phone versions, for people we talk to on the phone
 define mina_phone = Character("Umeji Mina (SMS)", what_prefix="{k=1.5}", what_suffix="{/k}") # TODO: replace with monospace font
 
-init -2 python:
-    class generateAffinityContent:
-        def __call__(self):
-            def bargraph(pct):
-                pct=min(pct, 100)
-                color="#f00"
-                if pct>25:
-                    color="#0f0"
-                    if pct>75:
-                        color="#00f"
-                bar="#"*(int(pct/10))
-                bar+=(" "*(10-int(pct/10)))
-                return "{color="+color+"}"+bar+" "+str(pct)+"%{/color}"
+init -5 python:
+    style.red_bar = Style(style.default)
+    style.red_bar.left_bar = Frame("gui/bar/left.png")
+    style.red_bar.right_bar = Frame("gui/bar/right.png")
 
-            ret=[]
-            ret.append("Player: "+bargraph(trust_player)+"%")
-            ret.append("")
-            ret.append("Akane: "+bargraph(trust_akane)+"%")
-            ret.append("Yuuko: "+bargraph(trust_yuuko)+"%")
-            ret.append("Miko: "+bargraph(trust_miko)+"%")
-            ret.append("Hanabi: "+bargraph(trust_hanabi)+"%")
-            ret.append("Hikari: "+bargraph(trust_hikari)+"%")
-            ret.append("Akiko: "+bargraph(trust_akiko)+"%")
-            ret.append("")
-            ret.append("Mina: "+bargraph(trust_mina)+"%")
-            ret.append("Kuroki: "+bargraph(trust_kuroki)+"%")
-            ret.append("Ai: "+bargraph(trust_ai)+"%")
-            ret.append("Aoi: "+bargraph(trust_aoi)+"%")
-            ret.append("")
-            ret.append("Cats: "+bargraph(cat_affinity)+"%")
-            return "\n".join(ret)
-        def __str__(self):
-            self.call()
+    style.blue_bar = Style(style.default)
+    style.blue_bar.left_bar = Frame("gui/bar/left_blue.png")
+    style.blue_bar.right_bar = Frame("gui/bar/right_blue.png")
+
+    style.green_bar = Style(style.default)
+    style.green_bar.left_bar = Frame("gui/bar/left_green.png")
+    style.green_bar.right_bar = Frame("gui/bar/right_green.png")
+
+    style.red_bar_big = Style(style.default)
+    style.red_bar_big.left_bar = Frame("gui/bar/left.png")
+    style.red_bar_big.right_bar = Frame("gui/bar/right.png")
+
+    style.blue_bar_big = Style(style.default)
+    style.blue_bar_big.left_bar = Frame("gui/bar/left_blue.png")
+    style.blue_bar_big.right_bar = Frame("gui/bar/right_blue.png")
+
+    style.green_bar_big = Style(style.default)
+    style.green_bar_big.left_bar = Frame("gui/bar/left_green.png")
+    style.green_bar_big .right_bar = Frame("gui/bar/right_green.png")
+
+    for item in [style.red_bar, style.blue_bar, style.green_bar]:
+        item.xmaximum=319
+        item.ymaximum=24
+    for item in [style.red_bar_big, style.blue_bar_big, style.green_bar_big]:
+        item.xmaximum=639
+        item.ymaximum=24
+
+
 
 screen affinity:
     tag menu
     use game_menu(_("Affinity"), scroll="viewport"):
         style_prefix "about"
-        vbox:
-            label _("Affinity:")
-            label (generateAffinityContent()())
+        frame:
+            style_group "pref"
+            has vbox
+            label _("Affinity")
+            $ avg_affinity = (trust_player+trust_akane+trust_yuuko+trust_miko+trust_hanabi+trust_hikari+trust_akiko+cat_affinity+trust_mina+trust_kuroki+trust_ai+trust_aoi)/11
+            bar xsize 639:
+                if avg_affinity>=25:
+                    if avg_affinity>=75:
+                        style "green_bar_big"
+                    else:
+                        style "blue_bar_big"
+                else:
+                    style "red_bar_big"
+                value avg_affinity
+                range 100
+            hbox:
+                frame xsize 800:
+                    style_group "pref"
+                    has vbox
+                    label _("Player")
+                    bar xsize 639:
+                        if trust_player>=25:
+                            if trust_player>=75:
+                                style "green_bar_big"
+                            else:
+                                style "blue_bar_big"
+                        else:
+                            style "red_bar_big"
+                        value trust_player
+                        range 100
+            vbox:
+                hbox:
+                    frame:
+                        style_group "pref"
+                        has vbox
+                        label _("Residents")
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Akane")
+                            bar:
+                                if trust_akane>=25:
+                                    if trust_akane>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_akane
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Yuuko")
+                            bar:
+                                if trust_yuuko>=25:
+                                    if trust_yuuko>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_yuuko
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Miko")
+                            bar:
+                                if trust_miko>=25:
+                                    if trust_miko>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_miko
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Hanabi")
+                            bar:
+                                if trust_hanabi>=25:
+                                    if trust_hanabi>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_hanabi
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Hikari")
+                            bar:
+                                if trust_hikari>=25:
+                                    if trust_hikari>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_hikari
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Akiko")
+                            bar:
+                                if trust_akiko>=25:
+                                    if trust_akiko>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_akiko
+                                range 100
+                    frame:
+                        style_group "pref"
+                        has vbox
+                        label _("Non-Residents")
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Mina")
+                            bar:
+                                if trust_mina>=25:
+                                    if trust_mina>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_mina
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Kuroki")
+                            bar:
+                                if trust_kuroki>=25:
+                                    if trust_kuroki>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_kuroki
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Ai")
+                            bar:
+                                if trust_ai>=25:
+                                    if trust_ai>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_ai
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Aoi")
+                            bar:
+                                if trust_aoi>=25:
+                                    if trust_aoi>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_aoi
+                                range 100
+                    frame:
+                        style_group "pref"
+                        has vbox
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Cats")
+                            bar:
+                                if cat_affinity>=25:
+                                    if cat_affinity>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value cat_affinity
+                                range 100
