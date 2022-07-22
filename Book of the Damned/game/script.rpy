@@ -27,8 +27,7 @@
         return random.choice(coll)
 
 label static:
-    stop music
-    play music "sfx/static.wav"
+    play music "sfx/static.mp3"
     scene static1
     pause 0.1
     scene static2

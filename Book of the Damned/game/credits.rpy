@@ -7,8 +7,8 @@ label credits:
         name2url={
             "John Ohno": "http://www.lord-enki.net",
             "Ryusei": "http://glitch.social/@ryusei",
-						"Cryptovexillologist": "http://mastodon.social/@cryptovexillologist",
-						"Infocalypse":"http://infocalypse.nfshost.com"
+            "Cryptovexillologist": "http://mastodon.social/@cryptovexillologist",
+            "Infocalypse":"http://infocalypse.nfshost.com"
         }
         def creditize_names(n):
             if type(n) == list:

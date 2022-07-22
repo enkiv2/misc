@@ -1,11 +1,13 @@
 label dreamIn:
-    stop music fadeout 2.0
-    scene dream with fade 2.0
+    stop music fadeout 1.0
+    scene dream
+    with fade
     play music "music/Infocalypse_-_The_Heads_Sprang_Up__Featuring_The_Dixie_Flatline_.mp3" volume 0.23 fadein 2.0
     return
 label dreamOut:
     stop music fadeout 1.0
-    scene black with dissolve 1.0
+    scene black
+    with dissolve
     return
 
 label dream1:

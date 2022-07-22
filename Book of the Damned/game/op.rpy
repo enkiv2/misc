@@ -1,5 +1,5 @@
 label OP:
-  play music "music/An Anonymous Benefactor - Progression 5 (TV size).mp3"
+    play music "music/An Anonymous Benefactor - Progression 5 (TV size).mp3"
     # Opening animation:
     # we see a UFO with a windowed onion-dome top spewing sparks across the night sky, toward a mountain that obscures the full moon.
     # cut to a character image of KUROKI on the left leaning against a stack of books, followed by SAFFYRE and SEYTON back to back on the right, SEYTON grinning while SAFFYRE pouts
