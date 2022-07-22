@@ -205,6 +205,7 @@ label start:
     comment "XXX The group talks about how Corto isn't there yet. They start helping each other move in. Hanabi has keys to various rooms, & distributes them. They work together to make a big meal, using a hot plate in a closet and some cans, and eat it while sitting on the floor in the nave."
     comment "XXX Misato sleeps alone, and again, there's a banging in the hall. She asks the player for advice."
     comment "XXX If she decides to check, she discovers the black cat (Kuro) hunting at this point. She asks what to do, & if she plays with the cat she gets points toward cat affinity & towards affinity with Kuro."
+    return
 
 # Monologue (maybe from Kuroki?)
 # "Four years ago, the rest of the industrialized world caught up to Japan in our direct traffic with the true meaning of the end of history: the expectation of growth so permanent it becomes meaningless, except as a pressure on your shoulders, thumping thumping thumping as it asks to proclaim your belief in the unstated empty promise whose fulfillment is made impossible by the very logic that relies on it."
