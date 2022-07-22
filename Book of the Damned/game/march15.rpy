@@ -33,7 +33,9 @@ label march15:
     misato "What do you see?"
     kuroki "You have an interesting path ahead of you. Your talents won't be enough, though they will be vital."
     misato "{i}What is this, fortune-telling?{/i}"
-    kuroki "Forgive an old man his eccentricities. Oh, this looks like my destination! It has been a pleasure to meet you, even if our meeting has been short."
+    kuroki "Forgive an old man his eccentricities."
+    stop music fadeout 10
+    extend " Oh, this looks like my destination! It has been a pleasure to meet you, even if our meeting has been short."
     hide kuroki
     n "The driver let him out by a police box, and then turned around and continued in the other direction."
     "Taxi driver" "{i}all these layabouts expecting me to go out of my way at least i'm getting paid for it who is this guy anyway paying all the guys to drive all the way out to yomiyama even takashi his wife doesn't even know about all the drinking even though i'm sure she suspects and this geezer who does he think he is talking all fancy in my car anyway he didn't impress such a pretty girl all drenched in her uniform but maybe it's a slip no stockings and panties with a hole in the crotch{/i}"
@@ -148,9 +150,13 @@ label march15:
     scene black
     "Misato slid under the covers as well."
     "..."
+    play sound "sfx/114683__qat__whack02.mp3" volume 0.1
     "{size=-10}bang{/size}"
+    play sound "sfx/114683__qat__whack02.mp3" volume 0.5
     extend " {size=-5}bang{/size}"
+    play sound "sfx/114683__qat__whack02.mp3" volume 0.8
     extend " {size=-2}thwap{/size}"
+    play sound "sfx/114683__qat__whack02.mp3" volume 0.2
     extend " {size=-7}snap{/size}"
     misato "{size=-10}Akane-san, is that...{/size}"
     "She's fast asleep."
@@ -169,6 +175,7 @@ label march15:
             "Misato sneaks quietly out of bed and inches the door open."
             scene hall short night dim
             "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
+            play sound "sfx/114683__qat__whack02.mp3" volume 0.5
             "There's something moving in the shadows."
             hide window
             show kuro
