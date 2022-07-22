@@ -750,6 +750,7 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
                     textbutton _("Adult content") action ToggleField(persistent, "skip_NSFW")
+                    textbutton _("Opening animation") action ToggleField(persistent, "skip_OP")
                 vbox:
                     style_prefix "check"
                     label _("Override")

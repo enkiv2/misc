@@ -118,6 +118,7 @@ label phone:
     return
 
 label start:
+    call OP
     window hide
     scene black
     centered "{color=#fff}{cps=15}\"Witchcraft always has a hard time, until it becomes established and changes its name.\"{/cps}{/color}"

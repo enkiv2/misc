@@ -1,4 +1,6 @@
 label OP:
+    if persistent.skip_OP:
+        return
     play music "music/An Anonymous Benefactor - Progression 5 (TV size).mp3"
     # Opening animation:
     # we see a UFO with a windowed onion-dome top spewing sparks across the night sky, toward a mountain that obscures the full moon.
@@ -12,4 +14,5 @@ label OP:
     # underneath, "by Double Mojo" in rainbow
     # "BOOK of the DAMNED" shines and then drips like blood.
     # cut to tv static
+    call staticIn
     return
