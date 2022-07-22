@@ -5,6 +5,7 @@ define n = Character("", what_prefix="{i}", what_suffix="{/i}")
 # residents
 define misato = Character("Umeji Misato") # room 4
 define trust_player=0
+define name=""
 define akane = Character("Akane") # room 3
 define trust_akane=5
 define yuuko = Character("Hinamori Yuuko") # room 2
@@ -89,7 +90,10 @@ screen affinity:
                 frame xsize 800:
                     style_group "pref"
                     has vbox
-                    label _("Player")
+                    if name!="":
+                        label _(name)
+                    else:
+                        label _("Player")
                     bar xsize 639:
                         if trust_player>=25:
                             if trust_player>=75:
