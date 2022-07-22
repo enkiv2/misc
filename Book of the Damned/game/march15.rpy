@@ -129,7 +129,74 @@ label march15:
     akane "Oh yeah?"
     misato "Apparently this place was built in 1939."
     akane "It feels older than that..."
-    comment "XXX they talk for a while & then eventually go to sleep. In the middle of the night, Misato wakes to the sound of banging outside the door. She reaches out for Akane, who is sleeping too heavily to wake. She reaches out with her mind, but can't sense a human consciousness outside the door. She talks to the player as a paniced distraction. Eventually the noise goes away, and she falls asleep. (Ref: Haunting of Hill House dog scene.)"
+    misato "Western-style houses always feel a little old-fashioned, right?"
+    akane "I guess they wouldn't build them here unless they seemed... ornate. And ornate houses are old-fashioned."
+    misato "Gee, the sound of the rain on a copper roof, though..."
+    akane "Puts you practically to sleep, doesn't it?"
+    misato "Yeah..."
+    akane "I was drifting off when you came, to be honest."
+    akane "You can have the bed for tonight; I'll sleep on the floor."
+    misato "No way! It's your bed."
+    akane "Then... we can share it?"
+    extend " {size=-5}We're both girls, after all...{/size}"
+    misato "... I'd like that."
+    "Akane slides in under the covers, and scoots close to the wall to make space."
+    akane "Could you get the light? It's the button next to the door."
+    "Misato pressed it."
+    scene black
+    "Misato slid under the covers as well."
+    "..."
+    "{size=-10}bang{/size}"
+    extend " {size=-5}bang{/size}"
+    extend " {size=-2}thwap{/size}"
+    extend " {size=-7}snap{/size}"
+    misato "{size=-10}Akane-san, is that...{/size}"
+    "She's fast asleep."
+    misato "{i}What could that possibly be?{/i}"
+    misato "{i}Hey...{/i}"
+    extend "{i} Hey [name], are you there?{/i}"
+    menu:
+        "Yes":
+            $ pass
+        "No":
+            misato "{i}Very funny.{/i}"
+    misato "{i}I can't sense a human presence beyond that door, but there's some kind of noise. What should I do?{/i}"
+    menu:
+        "Check it out":
+            misato "... {i}Okay, I guess so.{/i}"
+            "Misato sneaks quietly out of bed and inches the door open."
+            scene hall short night dim
+            "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
+            "There's something moving in the shadows."
+            hide window
+            show kuro
+            pause
+            misato "{size=-10}Oh!~{/size}"
+            "Misato kneels."
+            misato "{size=-10}What's your name, little one?{/size}"
+            "She reaches her hand out, and the cat sniffs."
+            $ cat_affinity += 1
+            misato "{size=-10}How did you even get in here?{/size}"
+            "She scratches the cat's chin and it purrs and rolls over."
+            $ cat_affinity += 1
+            misato "{size=-10}You're so hard to see in the shadows there! Were you playing with a bug?{/size}"
+            "The cat pauses and stares at a point on the wall."
+            misato "{size=-10}Such a fierce hunter! You're doing such a good job, policing the critters here!{/size}"
+            "The cat goes back to purring and rolling."
+            $ cat_affinity += 2
+            misato "{size=-10}You must be a stray, living here since before the house was fixed up. Since you've got black fur, I'll call you Kuro!{/size}"
+            "Kuro ignores this, lost in the ecstasy of belly scritches."
+            $ cat_affinity += 4
+            misato "{size=-10}I'd better go back to bed now. You make sure to eat up all the critters!{/size}"
+            "Kuro gets up and dashes into the darkness at the other end of the hall."
+            $ cat_affinity += 2
+            "Misato gets up and sneaks back into bed."
+            akane "{size=-5}Mrruh?{/size}"
+            extend "... {size=-7}Yuuko-cha{/size}{size=-10}n{/size}"
+            "Akane smiles in her sleep and rolls over."
+        "Ignore it":
+            misato "... {i}I guess that's for the best. It might be dangerous."
+            $ trust_player += 1
     call dream1
     call march16
     return
