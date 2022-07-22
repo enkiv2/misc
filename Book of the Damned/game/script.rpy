@@ -17,30 +17,58 @@
 init python:
     from random import Random
     random=Random()
-    def adjustLikelihoodByPreference(r, item, pref):
-        pref=int(pref*r)
-        if pref==0: return []
-        elif pref>0: return [item]*pref
+    def randomByPref(weightDict):
+        keys=list(weightDict.keys())
+        ax=[]
+        ax2=0
+        for k in keys:
+            ax2+=weightDict[k]
+            ax.append(ax2)
+        sel=random.randint(0, ax2)
+        for i in range(0, len(ax)):
+            if sel<=ax[i]:
+                return keys[i]
+
+    def prefMenu(itemDict, best=None, worst=None, trustIncrement=5, keys=None):
+        """
+            itemDict should be a dictionary of the form:
+                {
+                    "label": ["human-readable description", weight],
+                }
+        """
+        weightDict={}
+        menuPairs=[]
+        if not keys:
+            keys=list(itemDict.keys())
+        for k in keys:
+            menuPairs.append([itemDict[k][0], k])
+            weightDict[k]=itemDict[k][1]
+        sel2=randomByPref(weightDict)
+        if debugMode:
+            debug("Misato's selection: "+sel2)
+        sel=renpy.display_menu(menuPairs)
+        if random.randint(0, trust_player) <= 50 and not persistent.override_judgement:
+            if sel!=sel2:
+                misato("{i}I'm not going to do that. Instead, I will "+itemDict[sel2][0]+".{/i}")
+                if sel==worst:
+                    trust_player-=trust_increment
+                    trust_player=max(trust_player, 0)
+                elif sel2==worst:
+                    trust_player+=trust_increment
+                elif sel==best:
+                    trust_player+=trust_increment
+            else:
+                misato("{i}That's exactly what I was thinking...{/i}")
+                trust_player+=1
+                if sel==worst:
+                    trust_player-=trust_increment
+                    trust_player=max(trust_player, 0)
+                elif sel==best:
+                    trust_player+=trust_increment
+            sel=sel2
         else:
-            ax=[]
-            for i in range(0, r):
-                if i!=item:
-                    ax+=adjustLikelihoodByPreference(r, i, -1*pref)
-            return ax
-    def randomByPref(r, selected=-1, selPref=0, pref=[]):
-        coll=[]
-        if len(pref)==0:
-            coll=range(0, r)
-        else:
-            if len(pref)<r:
-                for i in range(len(pref)-1, r):
-                    pref[i]=1
-            for i in range(0, r):
-                coll+=adjustLikelihoodByPreference(r, i, pref[i])
-        if(selected>=0):
-            if(selPref!=0):
-                coll+=adjustLikelihoodByPreference(r, selected, selPref)
-        return random.choice(coll)
+            misato("{i}OK, I trust you on this one.{/i}")
+        renpy.call(sel)
 
 label static:
     play music "sfx/static.mp3"
