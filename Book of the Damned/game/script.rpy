@@ -197,16 +197,6 @@ label start:
 # cut to tv static
 
 
-# DREAM IF CAT AFFINITY LOW
-# sillhouette: a conquerer on horseback, with a cat held aloft skewered on his sword (like the statue in Val Lewton's Cat People); he himself becomes skewered with numerous swords, sprouting from inside himself
-
-# LATER DREAM
-# a nordic-style alien removes his face to reveal he is a grey in a wig, then removes the grey face (a mask) to reveal an ape face, then removes that to reveal MISATO's face. he then says "you will see me two times."
-
-# LATER DREAM
-# BIG GIRL, a little girl whose flowery red dress takes up three quarters of the vertical height of the screen, appears. From under her dress, LITTLE MAN, a man in a David Byrne style 'big suit'. These are repeating dream characters who sometimes give advice.
-# To warn of some bad ends, BIG GIRL's dress becomes a mountain of hair (like the angagonist of MAZE).
-
 label misato_and_akane_love_scene:
     akane "But how did you know?"
     misato "Can you keep a secret?"
