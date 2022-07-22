@@ -1,7 +1,7 @@
 label credits:
     window hide
     scene black with dissolve
-    play music "sfx/344430__babuababua__light-rain.mp3"
+    play music "music/Infocalypse_-_The_Malibu.mp3"
     init python:
         import re
         name2url={
