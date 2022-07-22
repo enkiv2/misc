@@ -61,19 +61,19 @@ Akagi Ai (17) - Protagonist of Manna for our Malices, a high school Junior, obse
 Tomoe Aoi (16) - Ai's childhood friend, the daughter of scientists at nearby Yomiyama Polytechnic
 
 The Fujinomiya sisters:
-                     
-{space=100}Shironeko (18) - the eldest, a slacker who has been held back a year 
+
+{space=100}Shironeko (18) - the eldest, a slacker who has been held back a year
 {space=110}because of a habit of blowing off homework
-                     
-{space=100}Kuroneko (17) - Also a junior, she is an academic overachiever and a 
+
+{space=100}Kuroneko (17) - Also a junior, she is an academic overachiever and a
 {space=110}skilled violin player
-                     
-{space=100}Koneko (16) - Despite being a freshman, she is the star of the 
+
+{space=100}Koneko (16) - Despite being a freshman, she is the star of the
 {space=110}Yomiyama track team
 
 Yamada Mimi (17) - Another classmate of Ai's, she handles the school newspaper
 
-The cats: Kuro (4), a short-haired black cat, and Aka (2), a smaller long-haired ginger cat. Other cats are seen but not named. 
+The cats: Kuro (4), a short-haired black cat, and Aka (2), a smaller long-haired ginger cat. Other cats are seen but not named.
 {/i}
 
 {b}Cultural and Localization Notes{/b}{i}
@@ -169,7 +169,7 @@ define config.has_voice = True
 ## the player is at the main menu. This file will continue playing into the
 ## game, until it is stopped or another file is played.
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "music/Infocalypse_-_The_Malibu.mp3"
 
 
 ## Transitions #################################################################
