@@ -39,6 +39,7 @@ label march15:
     "Taxi driver" "{i}all these layabouts expecting me to go out of my way at least i'm getting paid for it who is this guy anyway paying all the guys to drive all the way out to yomiyama even takashi his wife doesn't even know about all the drinking even though i'm sure she suspects and this geezer who does he think he is talking all fancy in my car anyway he didn't impress such a pretty girl all drenched in her uniform but maybe it's a slip no stockings and panties with a hole in the crotch{/i}"
     misato "How much longer?"
     "Taxi driver" "Only a few minutes. Oh look, it's clearing up, just in time."
+    play music "sfx/344430__babuababua__light-rain.mp3" volume 0.1
     n "The rain began to let up, and by the time it finally stopped there were only a few drops here and there."
     "Taxi driver" "You'll have to walk the rest of the way up to the house. This path is not accessible to cars."
     misato "Thank you."
@@ -79,6 +80,7 @@ label march15:
     misato "O-- Oh..."
     misato "I'm Umeji Misato. Pleased to meet you."
     akane "Umeji-san, huh?"
+    play music "sfx/344430__babuababua__light-rain.mp3" fadein 60
     misato "I wonder... Is my sister here yet? Umeji Miko. We're both staying here."
     akane "Sorry to say, you're the second to arrive."
     misato "Then even the Master---"
