@@ -108,19 +108,23 @@ label start:
     "Taxi driver" "You'll have to walk the rest of the way up to the house. This path is not accessible to cars."
     misato "Thank you."
     n "She got out of the car and grabbed her bag."
-    scene moonlit house path entrance
+    scene path entrance night
     n "Even though it was night, the moon was bright enough in the now-clear sky that she didn't need to pull out her phone for illumination."
-    scene moonlit house path
+    scene path night
     n "Nevertheless, thick fog gathered around her heels, and the chill made her wish she had worn leggings."
-    scene moonlit house
-    n "The building rose out of the fog, in the center of a clearing surrounded by trees. It was old, and western-style, but clearly well-maintained: the elaborate stonework had no grime, let alone moss. Someone must have been hired to clean all the crevices in the past few weeks, probably as part of opening it up as a dormitory."
-    scene moonlit door
+    scene mansion night
+    n "The building rose out of the fog, in the center of a clearing surrounded by trees."
+    n "It was old, and western-style, but clearly well-maintained: the elaborate stonework had no grime, let alone moss."
+    n "Someone must have been hired to clean all the crevices in the past few weeks, probably as part of opening it up as a dormitory."
+    scene door night
     n "Misato knocked on the ornate door, but no answer came."
     menu:
         "Try the knob.":
             $ pass
         "Wait.":
             $ pass
+    call staticIn
+    scene door night
     misato "{i}Who is that?{/i}"
     $ name = renpy.input("Name: ")
     misato "{i}Who the fuck is [name]?!{/i}"
