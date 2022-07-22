@@ -35,6 +35,22 @@ label static:
     pause 0.1
     stop music
     return
+label staticIn:
+    call static
+    scene static_in
+    pause 0.1
+    scene black
+    pause 0.1
+    scene white
+    pause 0.1
+    return
+label staticOut:
+    call static
+    scene static_out
+    pause 0.1
+    scene black
+    pause 0.1
+    return
 
 label start:
     window hide
@@ -49,6 +65,7 @@ label start:
     extend "{color=#fff}{cps=20}\nBelow the surface of this town, a great deal of machinery was in motion.{/cps}{/color}"
     centered "{color=#fff}{b}PART 1{/b}: {i}Wild Talents{/i}{/color}"
     centered "{color=#fff}{b}15th March, 2012{/b}{/color}"
+    call staticIn
     window show
     scene taxi rain
     "Taxi driver" "They sure picked a bad night to move you in, didn't they, miss?"
@@ -171,8 +188,8 @@ label start:
     comment "XXX tarot scene goes here: Akane reads spread, and Misato reads her mind about some of the meanings she is too polite to explain."
     scene akane bedroom
     play sound "sfx/txtmsg.wav"
-    scene cellphone
-    mina "Fun fact: the house you're staying in was built in 1939!"
+    show cellphone
+    mina_phone "Fun fact: the house you're staying in was built in 1939!"
     scene akane bedroom
     akane "Your sister?"
     misato "My other sister. She likes to send me trivia."
@@ -337,4 +354,5 @@ label true_end:
     "Akane laced her fingers between Misato's gingerly."
     kuroki "Suit yourselves! Ok, everybody else, just move the banana crates wherever to make room--"
     hanabi "... Wait... why are there bananas..."
-    
+    call staticOut
+    call credits

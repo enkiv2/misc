@@ -1,6 +1,6 @@
 # special
 define quote = nvl_narrator
-define comment = Character("COMMENT") # XXX delete this before launch
+define comment = Character("COMMENT") # XXX delete this before release
 define n = Character("", what_prefix="{i}", what_suffix="{/i}")
 # residents
 define misato = Character("Umeji Misato") # room 4
@@ -29,3 +29,5 @@ define trust_ai=0
 define aoi = Character("Tomoe Aoi")
 define trust_aoi=0
 
+# phone versions, for people we talk to on the phone
+define mina_phone = Character("Umeji Mina (SMS)", what_prefix="{k=1.5}", what_suffix="{/k}") # TODO: replace with monospace font
