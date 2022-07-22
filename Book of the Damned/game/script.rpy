@@ -25,6 +25,17 @@
             if(selPref!=0):
                 coll+=adjustLikelihoodByPreference(r, selected, selPref)
         return random.choice(coll)
+
+label static:
+    stop music
+    play music "sfx/static.wav"
+    scene static1
+    pause 0.1
+    scene static2
+    pause 0.1
+    stop music
+    return
+
 label start:
     window hide
     scene black
