@@ -51,6 +51,13 @@ label staticOut:
     pause 0.1
     return
 
+label phone:
+    play sound "sfx/175039__makofox__phone-vibrate.mp3"
+    pause
+    show cellphone
+    stop sound
+    return
+
 label start:
     window hide
     scene black
@@ -186,10 +193,7 @@ label start:
     scene tarot
     comment "XXX tarot scene goes here: Akane reads spread, and Misato reads her mind about some of the meanings she is too polite to explain."
     scene akane bedroom
-    play sound "sfx/175039__makofox__phone-vibrate.mp3"
-    pause
-    show cellphone
-    stop sound
+    call phone
     mina_phone "Fun fact: the house you're staying in was built in 1939!"
     scene akane bedroom
     akane "Your sister?"
