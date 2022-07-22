@@ -36,6 +36,7 @@ init python:
                     "label": ["human-readable description", weight],
                 }
         """
+        global trust_player
         weightDict={}
         menuPairs=[]
         if not keys:
@@ -46,29 +47,31 @@ init python:
         sel2=randomByPref(weightDict)
         if debugMode:
             comment("Misato's selection: "+sel2)
+            misato("I want to "+itemDict[sel2][0])
         sel=renpy.display_menu(menuPairs)
-        renpy.call("staticIn")
+        if debugMode:
+            comment("Player's selection: "+sel)
         if random.randint(0, trust_player) <= 50 and not persistent.override_judgement:
             if sel!=sel2:
-                misato("{i}I'm not going to do that. Instead, I will "+itemDict[sel2][0]+".{/i}")
+                renpy.say(misato, "{i}I'm not going to do that. Instead, I will "+itemDict[sel2][0]+".{/i}")
                 if sel==worst:
-                    trust_player-=trust_increment
+                    trust_player-=trustIncrement
                     trust_player=max(trust_player, 0)
                 elif sel2==worst:
-                    trust_player+=trust_increment
+                    trust_player+=trustIncrement
                 elif sel==best:
-                    trust_player+=trust_increment
+                    trust_player+=trustIncrement
             else:
-                misato("{i}That's exactly what I was thinking...{/i}")
+                renpy.say(misato, "{i}That's exactly what I was thinking...{/i}")
                 trust_player+=1
                 if sel==worst:
                     trust_player-=trust_increment
                     trust_player=max(trust_player, 0)
                 elif sel==best:
-                    trust_player+=trust_increment
+                    trust_player+=trustIncrement
             sel=sel2
         else:
-            misato("{i}OK, I trust you on this one.{/i}")
+            renpy.say(misato, "{i}OK, I trust you on this one.{/i}")
         renpy.call(sel)
 
 label static:
@@ -98,8 +101,13 @@ label staticOut:
 
 label doNothing:
     $ pass
+    return
 label doNothing2:
     $ pass
+    return
+label snark:
+    misato "{i}Very funny...{/i}"
+    return
 
 
 label phone:

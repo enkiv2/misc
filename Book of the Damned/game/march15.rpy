@@ -57,6 +57,7 @@ label march15:
     scene door night
     n "Misato knocked on the ornate door, but no answer came."
     $ prefMenu({"doNothing":["try the knob", 1], "doNothing2":["wait", 1]})
+    call staticIn
     scene door night
     misato "{i}Who is that?{/i}"
     $ name = renpy.input("Name: ")
@@ -164,48 +165,46 @@ label march15:
         "No":
             misato "{i}Very funny.{/i}"
     misato "{i}I can't sense a human presence beyond that door, but there's some kind of noise. What should I do?{/i}"
-    menu:
-        "Check it out":
-            misato "... {i}Okay, I guess so.{/i}"
-            "Misato sneaks quietly out of bed and inches the door open."
-            scene hall short night dim
-            "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
-            play sound "sfx/114683__qat__whack02.mp3" volume 0.5
-            "There's something moving in the shadows."
-            hide window
-            show kuro
-            pause
-            misato "{size=-10}Oh!~{/size}"
-            "Misato kneels."
-            misato "{size=-10}What's your name, little one?{/size}"
-            play sound "sfx/563746__kim-kimovna__cat-01.mp3"
-            "She reaches her hand out, and the cat sniffs."
-            $ cat_affinity += 1
-            misato "{size=-10}How did you even get in here?{/size}"
-            "She scratches the cat's chin and it purrs and rolls over."
-            $ cat_affinity += 1
-            misato "{size=-10}You're so hard to see in the shadows there! Were you playing with a bug?{/size}"
-            "The cat pauses and stares at a point on the wall."
-            misato "{size=-10}Such a fierce hunter! You're doing such a good job, policing the critters here!{/size}"
-            "The cat goes back to purring and rolling."
-            $ cat_affinity += 2
-            misato "{size=-10}You must be a stray, living here since before the house was fixed up. Since you've got black fur, I'll call you Kuro!{/size}"
-            "Kuro ignores this, lost in the ecstasy of belly scritches."
-            $ cat_affinity += 4
-            misato "{size=-10}I'd better go back to bed now. You make sure to eat up all the critters!{/size}"
-            stop sound fadeout 1
-            "Kuro gets up and dashes into the darkness at the other end of the hall."
-            $ cat_affinity += 2
-            scene black
-            "Misato gets up and sneaks back into bed."
-            akane "{size=-5}Mrruh?{/size}"
-            extend "... {size=-7}Yuuko-cha{/size}{size=-10}n{/size}"
-            "Akane smiles in her sleep and rolls over."
-        "Ignore it":
-            misato "... {i}I guess that's for the best. It might be dangerous."
-            $ trust_player += 1
+    $ prefMenu({"findCatsInHallway":["check it out", 2], "doNothing":["ignore it", 1]}, best="findCatsInHallway", worst="doNothing")
     call dream1
     call march16
+    return
+
+label findCatsInHallway:
+    "Misato sneaks quietly out of bed and inches the door open."
+    scene hall short night dim
+    "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
+    play sound "sfx/114683__qat__whack02.mp3" volume 0.5
+    "There's something moving in the shadows."
+    hide window
+    show kuro
+    pause
+    misato "{size=-10}Oh!~{/size}"
+    "Misato kneels."
+    misato "{size=-10}What's your name, little one?{/size}"
+    play sound "sfx/563746__kim-kimovna__cat-01.mp3"
+    "She reaches her hand out, and the cat sniffs."
+    $ cat_affinity += 1
+    misato "{size=-10}How did you even get in here?{/size}"
+    "She scratches the cat's chin and it purrs and rolls over."
+    $ cat_affinity += 1
+    misato "{size=-10}You're so hard to see in the shadows there! Were you playing with a bug?{/size}"
+    "The cat pauses and stares at a point on the wall."
+    misato "{size=-10}Such a fierce hunter! You're doing such a good job, policing the critters here!{/size}"
+    "The cat goes back to purring and rolling."
+    $ cat_affinity += 2
+    misato "{size=-10}You must be a stray, living here since before the house was fixed up. Since you've got black fur, I'll call you Kuro!{/size}"
+    "Kuro ignores this, lost in the ecstasy of belly scritches."
+    $ cat_affinity += 4
+    misato "{size=-10}I'd better go back to bed now. You make sure to eat up all the critters!{/size}"
+    stop sound fadeout 1
+    "Kuro gets up and dashes into the darkness at the other end of the hall."
+    $ cat_affinity += 2
+    scene black
+    "Misato gets up and sneaks back into bed."
+    akane "{size=-5}Mrruh?{/size}"
+    extend "... {size=-7}Yuuko-cha{/size}{size=-10}n{/size}"
+    "Akane smiles in her sleep and rolls over."
     return
 
 label tarot:
