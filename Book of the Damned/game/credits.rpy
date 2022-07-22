@@ -58,7 +58,10 @@ label credits:
              ["babuababua", "344430", "light rain.mp3"],
              ["JarredGibb", "248237", "Match - Strike and Light 01.wav"],
              ["16FThumaF",  "499020", "04_Extinguishing of a candle.wav"],
-             ["Qat",        "114683", "whack02.mp3"]
+             ["Qat",        "114683", "whack02.mp3"],
+             ["MissOzzy",   "171220", "Miecio the cat.mp3"],
+             ["nakhas",     "341547", "cat grooming.mp3"],
+             ["Kim Kimovna", "563746", "cat-01.mp3"]
         ]
         sfx_url = ["http://freesound.org/people/"+x[0]+"/" for x in sfx]
         sfx_url2 = [sfx_url[x]+"/sounds/"+sfx[x][1]+"/" for x in range(0, len(sfx))]
