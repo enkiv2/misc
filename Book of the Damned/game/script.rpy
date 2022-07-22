@@ -116,11 +116,11 @@ label start:
             $ pass
     misato "{i}Who is that?{/i}"
     $ name = renpy.input("Name: ")
-    misato "{i}Who the fuck is ${name}?!{/i}"
+    misato "{i}Who the fuck is [name]?!{/i}"
     extend "{i} ...wait. You can hear me?{/i}"
     extend "{i} Are you another telepath? Where are you?{/i}"
     n "The door opened."
-    scene nave evening
+    scene nave
     show akane at right
     "Strange girl" "Hi, are you another guest?"
     show misato at left
