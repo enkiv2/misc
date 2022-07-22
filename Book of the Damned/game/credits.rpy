@@ -54,6 +54,7 @@ label credits:
 
         sfx=[
              ["InspectorJ", "400402", "Rain, Car Interior, A.wav"],
+             ["MakoFox",    "175039", "Phone vibrate.wav"],
              ["babuababua", "344430", "light rain.mp3"],
              ["JarredGibb", "248237", "Match - Strike and Light 01.wav"],
              ["16FThumaF",  "499020", "04_Extinguishing of a candle.wav"],
