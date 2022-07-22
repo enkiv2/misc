@@ -185,18 +185,7 @@ label start:
     akane "What talents?"
     misato "{i}I guess she's not the one who was in my head...{/i}"
     misato "My sunny personality, I guess."
-    akane "Are you interested in fortune telling and stuff?"
-    n "She pulled out a deck of cards."
-    akane "I could read your cards for you!"
-    misato "Sounds fun."
-    akane "But first you must cross my hand with silverrrrr~"
-    extend "  kidding! You have to cut the deck though. With your left hand."
-    n "Misato cut the deck."
-    akane "Here we go."
-    n "Akane put cards down one after another on the comforter between them, making a sort of pattern."
-    scene tarot
-    comment "XXX tarot scene goes here: Akane reads spread, and Misato reads her mind about some of the meanings she is too polite to explain."
-    scene akane bedroom
+    call tarot
     call phone
     mina_phone "Fun fact: the house you're staying in was built in 1939!"
     scene akane bedroom
@@ -213,6 +202,44 @@ label start:
     comment "XXX The group talks about how Corto isn't there yet. They start helping each other move in. Hanabi has keys to various rooms, & distributes them. They work together to make a big meal, using a hot plate in a closet and some cans, and eat it while sitting on the floor in the nave."
     comment "XXX Misato sleeps alone, and again, there's a banging in the hall. She asks the player for advice."
     comment "XXX If she decides to check, she discovers the black cat (Kuro) hunting at this point. She asks what to do, & if she plays with the cat she gets points toward cat affinity & towards affinity with Kuro."
+    return
+
+label tarot:
+    akane "Are you interested in fortune telling and stuff?"
+    n "She pulled out a deck of cards."
+    akane "I could read your cards for you!"
+    misato "Sounds fun."
+    akane "But first you must cross my hand with silverrrrr~"
+    extend "  kidding! You have to cut the deck though. With your left hand."
+    n "Misato cut the deck."
+    akane "Here we go."
+    n "Akane put cards down one after another on the comforter between them, making a sort of pattern."
+    scene tarot1
+    akane "Hmm... I'm a little rusty with the Rider-Waite-Smith, since I usually use the Thoth deck, but that's in a box somewhere..."
+    akane "The Devil generally means feeling constrained by material forces."
+    akane "But, see how the chains are loose? The two of them could escape at any time if they believed in themselves."
+    akane "In other words, the constraints only {b}feel{/b} material, but actually, they are illusions!"
+    akane "This card is a mirror image of the L.. of the Lovers. And some people think the only difference between them is perspective."
+    "Akane bounced slightly on her knee, and then hurriedly drew the next card."
+    scene tarot2
+    akane "So this position represents the present, and this card makes a lot of sense here."
+    akane "The Fool is somebody who is starting off on a journey into the unknown."
+    akane "The Fool doesn't know enough to have preconceptions, and this allows her to embrace all sorts of possibilities!"
+    akane "And now, for the future..."
+    "Akane drew the next card."
+    scene tarot3
+    akane "..."
+    akane "{i}oshitoshitoshit{/i}"
+    akane "..."
+    akane "OK, so, this card, The Tower, means that something gets destroyed."
+    akane "Usually it's a negative card, but not always. Some things need to be destroyed in order for other things to grow!"
+    akane "..."
+    akane "This is a really strange spread, altogether. It's unusual to get all trumps."
+    akane "Getting all major arcana like this is the tarot equivalent of somebody yelling at you. Like, the deck thinks it's really important."
+    scene akane bedroom
+    "Akane hurriedly shuffled the three cards back into the deck."
+    akane "It looks like you're gonna have an eventful stay!"
+    "..."
     return
 
 # Monologue (maybe from Kuroki?)
