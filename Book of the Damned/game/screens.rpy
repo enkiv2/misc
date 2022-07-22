@@ -750,6 +750,13 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
                     textbutton _("Adult content") action ToggleField(persistent, "skip_NSFW")
+                vbox:
+                    style_prefix "check"
+                    label _("Override")
+                    text _("By default, whether or not Misato takes your advice depends upon your player affinity score:")
+                    text _("In other words, as you make good decisions, she trusts you more and will be more likely to follow your judgement in the future.")
+                    text _("If you want her to simply trust you, then you can override her judgement here.")
+                    textbutton _("Override Misato") action ToggleField(persistent, "override_judgement")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
