@@ -83,10 +83,28 @@ label cat_affinity_low_dream:
     call dreamOut
     return
 
+label dream3:
+    call dreamIn
+    # a nordic-style alien removes his face to reveal he is a grey in a wig,
+    scene nordic
+    with dissolve
+    pause 1
+    scene nordic grey
+    with dissolve
+    pause 1
+    # then removes the grey face (a mask) to reveal an ape face,
+    scene nordic ape
+    with dissolve
+    pause 1
+    # then removes that to reveal MISATO's face.
+    scene nordic misato
+    with dissolve
+    pause 1
+    "Space Brother" "If you do good, you will see me two times. If you do bad, you will see me three times."
+    call dreamOut
+    return
 
 # LATER DREAM
-# a nordic-style alien removes his face to reveal he is a grey in a wig, then removes the grey face (a mask) to reveal an ape face, then removes that to reveal MISATO's face. he then says "you will see me two times."
-
-# LATER DREAM
-# BIG GIRL, a little girl whose flowery red dress takes up three quarters of the vertical height of the screen, appears. From under her dress, LITTLE MAN, a man in a David Byrne style 'big suit'. These are repeating dream characters who sometimes give advice.
+# BIG GIRL, a little girl whose flowery red dress takes up three quarters of the vertical height of the screen, appears.
+# From under her dress, LITTLE MAN, a man in a David Byrne style 'big suit'. These are repeating dream characters who sometimes give advice.
 # To warn of some bad ends, BIG GIRL's dress becomes a mountain of hair (like the angagonist of MAZE).
