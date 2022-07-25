@@ -4,6 +4,8 @@ define persistent.override_judgement = False # i.e., control Misato with your ch
 
 define debugMode = False
 
+define day = 0
+
 define akane_route_achieved = False
 define hanabi_route_achieved = False
 define yuuko_route_achieved = False

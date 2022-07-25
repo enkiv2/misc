@@ -3,6 +3,7 @@ label march16:
     scene white with dissolve
     scene black with dissolve
     centered "{color=#fff}{b}15th March, 2012{/b}{/color}"
+    $ day = 1
     call staticIn
     window show
     comment "XXX Upon waking, Misato & Akane talk about the noise. Akane says (quote from Vampire Doll, re: old houses)."

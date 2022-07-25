@@ -325,6 +325,7 @@ screen navigation():
         textbutton _("About") action ShowMenu("about")
         textbutton _("Dramatis Personae") action ShowMenu("dramatisPersonae")
         textbutton _("Encyclopedia") action ShowMenu("encyclopedia")
+        textbutton _("Calendar") action ShowMenu("calendar")
 
         if renpy.variant("pc"):
 

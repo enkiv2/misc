@@ -1,20 +1,4 @@
-﻿#      March 2012
-# Su Mo Tu We Th Fr Sa
-#              1  2  3
-#  4  5  6  7  8  9 10
-# 11 12 13 14 15 16 17
-# 18 19 20 21 22 23 24
-# 25 26 27 28 29 30 31
-#
-#      April 2012
-# Su Mo Tu We Th Fr Sa
-#  1  2  3  4  5  6  7
-#  8  9 10 11 12 13 14
-# 15 16 17 18 19 20 21
-# 22 23 24 25 26 27 28
-# 29 30
-
-init python:
+﻿init python:
     from random import Random
     random=Random()
     def randomByPref(weightDict):
@@ -73,6 +57,63 @@ init python:
         else:
             renpy.say(misato, "{i}OK, I trust you on this one.{/i}")
         renpy.call(sel)
+
+init -2 python:
+    class generateCalendar:
+        header="Su Mo Tu We Th Fr Sa"
+        monthStarts=[5, 0, 3]
+        monthNames=["March", "April", "May"]
+        monthLengths=[31, 30, 31]
+        def isDay(self, idx, d, current):
+            conv=0
+            if idx:
+                for i in range(0, idx):
+                    conv+=self.monthLengths[i]
+            return (conv+d)==(current+15)
+        def printMonth(self, idx, current):
+            ret=[self.monthNames[idx]+" 2012", self.header]
+            line=[]
+            d=0
+            if self.monthStarts[idx]:
+                for i in range(0, self.monthStarts[idx]-1):
+                    line.append("  ")
+                while d<=(7-self.monthStarts[idx]):
+                    d+=1
+                    line.append(str(d).rjust(2))
+                    if self.isDay(idx, d, current):
+                        line[-1]="{b}"+line[-1]+"{/b}"
+                    if (idx==0 and d>=15) or (idx==1) or (idx==2 and d==1):
+                        line[-1]="{a=jump:"+(self.monthNames[idx].lower())+str(d)+"}{font=fonts/JackInput.TTF}"+line[-1]+"{/font}{/a}"
+                ret.append(" ".join(line))
+                line=[]
+            while d<self.monthLengths[idx]:
+                for i in range(0, 7):
+                    d+=1
+                    if d>=self.monthLengths[idx]:
+                        line.append("  ")
+                    else:
+                        line.append(str(d).rjust(2))
+                        if self.isDay(idx, d, current):
+                            line[-1]="{b}"+line[-1]+"{/b}"
+                        if (idx==0 and d>=15) or (idx==1) or (idx==2 and d==1):
+                            line[-1]="{a=jump:"+(self.monthNames[idx].lower())+str(d)+"}{font=fonts/JackInput.TTF}"+line[-1]+"{/font}{/a}"
+                ret.append(" ".join(line))
+                line=[]
+            return "\n".join(ret)
+        def __call__(self):
+            global day
+            return "\n\n".join([self.printMonth(i, day) for i in range(0, len(self.monthNames))])
+
+        def __str__(self):
+            return self.call()
+
+screen calendar:
+    tag menu
+    use game_menu(_("Calendar"), scroll="viewport"):
+        style_prefix "about"
+        vbox:
+            label _("Calendar:")
+            label ("{font=fonts/JackInput.TTF}"+generateCalendar()()+"{/font}")
 
 label static:
     play music "sfx/static.mp3"

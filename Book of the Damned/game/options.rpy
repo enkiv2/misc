@@ -30,21 +30,8 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
-{b}Introduction{/b}
-
 {i}Book of the Damned is a mystery set in the small town of Yomiyama. It takes place prior to and during the events of {/i}Manna for our Malices{i} and prior to the events of {/i}Trilogy{i}.{/i}
-
-
-{b}Credits{/b}{i}
-
-Concept, script, and programming by {a=http://www.lord-enki.net/}John Ohno{/a}
-
-{b}Art{/b}
-Art assets: John Ohno
-
-{b}Music{/b}
-{a=http://infocalypse.nfshost.com}Infocalypse{/a}
-{/i}""")
+""")
 
 
 ## A short name for the game used for executables and directories in the built
