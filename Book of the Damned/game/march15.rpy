@@ -175,6 +175,7 @@ label march15:
     misato "{i}I can't sense a human presence beyond that door, but there's some kind of noise. What should I do?{/i}"
     $ prefMenu({"findCatsInHallway":["check it out", 2], "doNothing":["ignore it", 1]}, best="findCatsInHallway", worst="doNothing")
     call dream1
+    $ achievement.grant("The Ides of March")
     call march16
     return
 

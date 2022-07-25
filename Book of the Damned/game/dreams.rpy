@@ -8,6 +8,7 @@ label dreamOut:
     stop music fadeout 1.0
     scene black
     with dissolve
+    $ checkAchievements()
     return
 
 label dream1:
