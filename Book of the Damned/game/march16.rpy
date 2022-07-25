@@ -2,7 +2,7 @@ label march16:
     window hide
     scene white with dissolve
     scene black with dissolve
-    centered "{color=#fff}{b}15th March, 2012{/b}{/color}"
+    centered "{color=#fff}{b}16th March, 2012{/b}{/color}"
     $ day = 1
     call staticIn
     window show

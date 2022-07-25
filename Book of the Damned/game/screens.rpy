@@ -262,6 +262,9 @@ screen quick_menu():
             textbutton _("Q.Load") action QuickLoad()
             textbutton _("Prefs") action ShowMenu('preferences')
             textbutton _("Affinity") action ShowMenu('affinity')
+            textbutton _("D. P.") action ShowMenu('dramatisPersonae')
+            textbutton _("Cyc") action ShowMenu('encyclopedia')
+            textbutton _("Cal") action ShowMenu('calendar')
 
 
 ## This code ensures that the quick_menu screen is displayed in-game, whenever
