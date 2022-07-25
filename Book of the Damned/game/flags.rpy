@@ -31,11 +31,14 @@ init python:
     achievement.register("Hikari route", stat_max=100)
     achievement.register("Akiko route", stat_max=100)
     achievement.register("Harem route", stat_max=100)
+    achievement.register("Your garden has been sown with asphodel.")
 
     achievement.register("Jellicle")
+    achievement.register("A cat just walked over my grave.")
     achievement.register("Moja sestra? Moja sestra.")
     achievement.register("Heaviside layer")
 
+    achievement.register("Bad end")
     achievement.register("Complete")
 
     def checkAchievements():
@@ -88,7 +91,7 @@ init python:
         else:
             achievement.progress("Jellicle", cat_affinity)
 
-        if achievement.has("Akane route") and achievement.has("Yuuko route") and achievement.has("Miko route") and achievement.has("Mina route"), and achievement.has("Hikari route") and achievement.has("Akiko route") and achievement.has("Jellicle"):
+        if achievement.has("Akane route") and achievement.has("Yuuko route") and achievement.has("Miko route") and achievement.has("Mina route") and achievement.has("Hikari route") and achievement.has("Akiko route") and achievement.has("Jellicle"):
             harem_route_allowed = True
 
         if harem_route_allowed:

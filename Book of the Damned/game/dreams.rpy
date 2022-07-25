@@ -74,9 +74,12 @@ label dream2:
     call dreamOut
     return
 
+label cat_affinity_low_dream:
+    # DREAM IF CAT AFFINITY LOW
+    comment "sillhouette: a conquerer on horseback, with a cat held aloft skewered on his sword (like the statue in Val Lewton's Cat People);"
+    comment "he himself becomes skewered with numerous swords, sprouting from inside himself"
+    $ achievement.grant("A cat just walked over my grave.")
 
-# DREAM IF CAT AFFINITY LOW
-# sillhouette: a conquerer on horseback, with a cat held aloft skewered on his sword (like the statue in Val Lewton's Cat People); he himself becomes skewered with numerous swords, sprouting from inside himself
 
 # LATER DREAM
 # a nordic-style alien removes his face to reveal he is a grey in a wig, then removes the grey face (a mask) to reveal an ape face, then removes that to reveal MISATO's face. he then says "you will see me two times."

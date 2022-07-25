@@ -158,6 +158,17 @@ label phone:
     stop sound
     return
 
+label badEnd:
+    call staticOut
+    "I'm sorry, [name]. Umeji Misato has died, and your connection to her was severed."
+    "It is still possible to restart the cyranoid daemon and connect to an earlier time point."
+    $ achievement.grant("Bad end")
+    if trust_akane < 25  and  trust_hanabi < 25 and trust_yuuko < 25 and trust_miko < 25 and trust_mina < 25 and trust_hikari < 25 and trust_akiko < 25:
+        $ achievement.grant("Your garden has been sown with asphodel.")
+    $ achievement.sync()
+    $ renpy.quit(relaunch=True)
+    return
+
 label start:
     call OP
     window hide

@@ -6,7 +6,7 @@ label drugged_scene:
     comment "She begins to hallucinate: her vision gets slightly fuzzy, she begins to see tiny figures marching along the edge of the teacup,  it morphs into a desert landscape, etc."
     if cat_affinity >= 75:
         comment "If cat affinity is high enough, this transitions to a Louis Wain style of cats marching in, and Misato wakes up downstairs. She later discovers Corto has been mauled."
-        achievement.grant("Moja sestra? Moja sestra.")
+        $ achievement.grant("Moja sestra? Moja sestra.")
     else:
         comment "Otherwise, there is a warped & delirious perception of Misato's violation and murder"
         comment "initially, with increasingly dark imagery:"
@@ -15,5 +15,6 @@ label drugged_scene:
         comment "after this, we get description --"
         comment "(extremely vague: shapes pressing on her, a warm feeling lapping at her neck as she feels like she's floating, followed by the game announcing her death)."
         comment "death is followed by tv static animation"
-        call staticOut
-        achievement.grant("Heaviside layer")
+        $ achievement.grant("Heaviside layer")
+        call badEnd
+        return
