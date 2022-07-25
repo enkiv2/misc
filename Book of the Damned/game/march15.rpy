@@ -185,7 +185,7 @@ label findCatsInHallway:
     "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
     play sound "sfx/114683__qat__whack02.mp3" volume 0.5
     "There's something moving in the shadows."
-    hide window
+    window hide
     show kuro
     pause
     misato "{size=-10}Oh!~{/size}"
