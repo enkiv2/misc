@@ -108,17 +108,85 @@ label dream3:
 
 init python:
     dreamStatements={
-        "loneliness":[],
-        "akane":[],
-        "hanabi":[],
-        "yuuko":[],
-        "miko":[],
-        "mina":[],
-        "hikari":[],
-        "akiko":[],
-        "player":[],
-        "kuroki":[],
-        "cats":[]
+        "loneliness":[
+            "I like the darkness. It's friendly.",
+            "Persephone's grey garland's roots are edible, but not nourishing. It is a food for ghosts.",
+            "I have to watch her when she's in the room. I have to touch her when she's near.",
+            "The snow is dead, grasping.",
+            "Marriage? Marriage is how girls get eaten.",
+            "This head is getting crowded, but there's room for one more.",
+            "The company says the line was cut. They found it dragging, at a crossroads.",
+            "It's the only time she can wear her wedding gown."
+        ],
+        "akane":[
+            "Ah, I've been expecting you. The french girl. I knew you'd come.",
+            "He speaks only romanian. I'm very attached to him.",
+            "I once read that names that start with the letter 'A' are the names of asps.",
+            "It all seems so absurd... So fantastic.",
+            "Steak? No. No steak."
+        ],
+        "hanabi":[
+            "Flames bloom on the sides of my face.",
+            "The game is a foot. The weapon is an arm.",
+            "In the drawing room, with a pen."
+        ],
+        "yuuko":[
+            "She tried to go, but her feet are missing.",
+            "The moon, once wan, is now rugose."
+        ],
+        "miko":[
+            "She comes to my window, to tell me the news of the forest.",
+            "Hot-stepping asphalt and electricity.",
+            "We have trained him wrong on purpose, as a joke.",
+            "I'm sorry, my sweet.",
+            "Where is my skin?"
+        ],
+        "mina":[
+            "I would think for you, but this scar marks me as unclean.",
+            "Are you coming? Everybody's coming...",
+            "He kept calling me Lucy. Can you believe that?"
+        ],
+        "hikari":[
+            "What about ant rights? What about plant rights?",
+            "Can you turn it off? It's hurting my eyes.",
+            "Miss? We're needed.",
+            "Too many christmas trees..."
+        ],
+        "akiko":[
+            "Is this going to be the story of the little girl, who lived down the lane?",
+            "Your sister knows, or what's in her...",
+            "I slipped... I think this is going to stain.",
+            "The tea is bitter like medicine."
+        ],
+        "player":[
+            "Naturally, I have always depended upon the kindness of strangers.",
+            "People from other worlds have minds that are unknowable.",
+            "There is now a mockery of the moon.",
+            "It's a kind of influencing machine, like an air loom."
+        ],
+        "kuroki":[
+            "He was saying, make a rhizome with a minority literature.",
+            "There are piles of dictionaries.",
+            "Quandum ubique, quandum semper, quandum ad omnibus creditur est.",
+            "Belief is the enemy.",
+            "If the control system is to be subverted, one must first become indiscernible."
+        ],
+        "cats":[
+            "You can fool anybody, but you can't fool a cat. They seem to know who's not right.",
+            "She never lied to us, my sister.",
+            "Are you riding with me?",
+            "We have an agreement, you know. I scratch their backs. They don't scratch mine.",
+            "Any cat can open a door, but only a witch cat can close one.",
+            "Bright eyes. Bright eyes, sharp little teeth.",
+            "Don't you know? Mice live underground, like worms, in tunnels.",
+            "No. I was thinking of an animal."
+        ],
+        "aoi":[
+            "A pale flower...",
+            "She reproduces through budding.",
+            "She reproduces through burning.",
+            "They are suspended by the long bones, but it doesn't last. Then they don't have any insides."
+        ]
     }
     def dreamStatementLookup(about):
         return renpy.random.choice(dreamStatements[about])
@@ -142,7 +210,7 @@ label generalDream:
         pause 1
         show little man
         pause 1
-        $ about = randomByPref({"player":(100-min(trust_player, 100)), "kuroki":(100-min(trust_kuroki, 100)), "aoi":(100-min(trust_aoi, 100))})
+        $ about = randomByPref({"player":(100-min(trust_player, 100)), "kuroki":(100-min(trust_kuroki, 100)), "aoi":(100-min(trust_aoi, 100)), "cats":(100-min(cat_affinity, 100))})
     if selectedCharacter == "Black Deer":
         scene black deer
         with dissolve
