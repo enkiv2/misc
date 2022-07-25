@@ -23,6 +23,7 @@ init python:
     achievement.register("Walpurgisnacht")
     achievement.register("May flowers")
 
+    achievement.register("Goth GF") # has sex with Akane
     achievement.register("Akane route", stat_max=100)
     achievement.register("Hanabi route", stat_max=100)
     achievement.register("Yuuko route", stat_max=100)
