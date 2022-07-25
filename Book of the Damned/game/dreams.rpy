@@ -75,10 +75,13 @@ label dream2:
     return
 
 label cat_affinity_low_dream:
+    call dreamIn
     # DREAM IF CAT AFFINITY LOW
     comment "sillhouette: a conquerer on horseback, with a cat held aloft skewered on his sword (like the statue in Val Lewton's Cat People);"
     comment "he himself becomes skewered with numerous swords, sprouting from inside himself"
     $ achievement.grant("A cat just walked over my grave.")
+    call dreamOut
+    return
 
 
 # LATER DREAM

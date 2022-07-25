@@ -148,12 +148,12 @@ label march15:
     extend " {size=-5}We're both girls, after all...{/size}"
     $ trust_akane += 1
     misato "... I'd like that."
-    "Akane slides in under the covers, and scoots close to the wall to make space."
+    n "Akane slides in under the covers, and scoots close to the wall to make space."
     akane "Could you get the light? It's the button next to the door."
     "Misato pressed it."
     scene black
-    "Misato slid under the covers as well."
-    "..."
+    n "Misato slid under the covers as well."
+    n "..."
     play sound "sfx/114683__qat__whack02.mp3" volume 0.1
     "{size=-10}bang{/size}"
     play sound "sfx/114683__qat__whack02.mp3" volume 0.5
@@ -163,7 +163,7 @@ label march15:
     play sound "sfx/114683__qat__whack02.mp3" volume 0.2
     extend " {size=-7}snap{/size}"
     misato "{size=-10}Akane-san, is that...{/size}"
-    "She's fast asleep."
+    n "She's fast asleep."
     misato "{i}What could that possibly be?{/i}"
     misato "{i}Hey...{/i}"
     extend "{i} Hey [name], are you there?{/i}"
@@ -180,40 +180,40 @@ label march15:
     return
 
 label findCatsInHallway:
-    "Misato sneaks quietly out of bed and inches the door open."
+    n "Misato sneaks quietly out of bed and inches the door open."
     scene hall short night dim
-    "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
+    n "The hallway is dimly illuminated by the moonlight filtering in through the drawn curtains."
     play sound "sfx/114683__qat__whack02.mp3" volume 0.5
-    "There's something moving in the shadows."
+    n "There's something moving in the shadows."
     window hide
     show kuro
     pause
     misato "{size=-10}Oh!~{/size}"
-    "Misato kneels."
+    n "Misato kneels."
     misato "{size=-10}What's your name, little one?{/size}"
     play sound "sfx/563746__kim-kimovna__cat-01.mp3"
-    "She reaches her hand out, and the cat sniffs."
+    n "She reaches her hand out, and the cat sniffs."
     $ cat_affinity += 1
     misato "{size=-10}How did you even get in here?{/size}"
-    "She scratches the cat's chin and it purrs and rolls over."
+    n "She scratches the cat's chin and it purrs and rolls over."
     $ cat_affinity += 1
     misato "{size=-10}You're so hard to see in the shadows there! Were you playing with a bug?{/size}"
-    "The cat pauses and stares at a point on the wall."
+    n "The cat pauses and stares at a point on the wall."
     misato "{size=-10}Such a fierce hunter! You're doing such a good job, policing the critters here!{/size}"
-    "The cat goes back to purring and rolling."
+    n "The cat goes back to purring and rolling."
     $ cat_affinity += 2
     misato "{size=-10}You must be a stray, living here since before the house was fixed up. Since you've got black fur, I'll call you Kuro!{/size}"
-    "Kuro ignores this, lost in the ecstasy of belly scritches."
+    n "Kuro ignores this, lost in the ecstasy of belly scritches."
     $ cat_affinity += 4
     misato "{size=-10}I'd better go back to bed now. You make sure to eat up all the critters!{/size}"
     stop sound fadeout 1
-    "Kuro gets up and dashes into the darkness at the other end of the hall."
+    n "Kuro gets up and dashes into the darkness at the other end of the hall."
     $ cat_affinity += 2
     scene black
-    "Misato gets up and sneaks back into bed."
+    n "Misato gets up and sneaks back into bed."
     akane "{size=-5}Mrruh?{/size}"
     extend "... {size=-7}Yuuko-cha{/size}{size=-10}n{/size}"
-    "Akane smiles in her sleep and rolls over."
+    n "Akane smiles in her sleep and rolls over."
     return
 
 label tarot:
@@ -233,14 +233,14 @@ label tarot:
     akane "In other words, the constraints only {b}feel{/b} material, but actually, they are illusions!"
     $ trust_akane += 1
     akane "This card is a mirror image of the L.. of the Lovers. And some people think the only difference between them is perspective."
-    "Akane bounced slightly on her knee, and then hurriedly drew the next card."
+    n "Akane bounced slightly on her knee, and then hurriedly drew the next card."
     scene tarot2
     akane "So this position represents the present, and this card makes a lot of sense here."
     akane "The Fool is somebody who is starting off on a journey into the unknown."
     akane "The Fool doesn't know enough to have preconceptions, and this allows her to embrace all sorts of possibilities!"
     $ trust_akane += 1
     akane "And now, for the future..."
-    "Akane drew the next card."
+    n "Akane drew the next card."
     scene tarot3
     akane "..."
     akane "{i}oshitoshitoshit{/i}"
@@ -252,7 +252,7 @@ label tarot:
     akane "This is a really strange spread, altogether. It's unusual to get all trumps."
     akane "Getting all major arcana like this is the tarot equivalent of somebody yelling at you. Like, the deck thinks it's really important."
     scene akane bedroom
-    "Akane hurriedly shuffled the three cards back into the deck."
+    n "Akane hurriedly shuffled the three cards back into the deck."
     akane "It looks like you're gonna have an eventful stay!"
-    "..."
+    n "..."
     return
