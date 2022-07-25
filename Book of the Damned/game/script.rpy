@@ -107,7 +107,7 @@ init -2 python:
         def __str__(self):
             return self.call()
 
-screen calendar:
+screen calendar():
     tag menu
     use game_menu(_("Calendar"), scroll="viewport"):
         style_prefix "about"

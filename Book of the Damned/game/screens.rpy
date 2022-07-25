@@ -584,7 +584,7 @@ style about_text is gui_text
 style about_label_text:
     size gui.label_text_size
 
-screen encyclopedia:
+screen encyclopedia():
     tag menu
     use game_menu(_("Encyclopedia"), scroll="viewport"):
         style_prefix "about"

@@ -98,7 +98,7 @@ The cats:
         def __str__(self):
             self.call()
 
-screen dramatisPersonae:
+screen dramatisPersonae():
     tag menu
     use game_menu(_("Dramatis Personae"), scroll="viewport"):
         style_prefix "about"
@@ -143,7 +143,7 @@ init -5 python:
 
 
 
-screen affinity:
+screen affinity():
     tag menu
     use game_menu(_("Affinity"), scroll="viewport"):
         style_prefix "about"

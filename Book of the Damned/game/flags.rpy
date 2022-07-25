@@ -1,6 +1,6 @@
-define persistent.skip_NSFW = False
-define persistent.skip_OP = False
-define persistent.override_judgement = False # i.e., control Misato with your choices, rather than having her choose based on trust_player
+default persistent.skip_NSFW = False
+default persistent.skip_OP = False
+default persistent.override_judgement = False # i.e., control Misato with your choices, rather than having her choose based on trust_player
 
 define debugMode = False
 
