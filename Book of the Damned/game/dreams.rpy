@@ -123,7 +123,8 @@ init python:
             "He speaks only romanian. I'm very attached to him.",
             "I once read that names that start with the letter 'A' are the names of asps.",
             "It all seems so absurd... So fantastic.",
-            "Steak? No. No steak."
+            "Steak? No. No steak.",
+            "Radiation, yes indeed."
         ],
         "hanabi":[
             "Flames bloom on the sides of my face.",
@@ -132,7 +133,8 @@ init python:
         ],
         "yuuko":[
             "She tried to go, but her feet are missing.",
-            "The moon, once wan, is now rugose."
+            "The moon, once wan, is now rugose.",
+            "Too large for a dismissal. And there is a moon."
         ],
         "miko":[
             "She comes to my window, to tell me the news of the forest.",
@@ -169,7 +171,8 @@ init python:
             "There are piles of dictionaries.",
             "Quandum ubique, quandum semper, quandum ad omnibus creditur est.",
             "Belief is the enemy.",
-            "If the control system is to be subverted, one must first become indiscernible."
+            "If the control system is to be subverted, one must first become indiscernible.",
+            "He's just trying to warn you about {k=2}the bridge{/k}."
         ],
         "cats":[
             "You can fool anybody, but you can't fool a cat. They seem to know who's not right.",
@@ -215,7 +218,7 @@ label generalDream:
         scene black deer
         with dissolve
         pause 1
-        $ about = randomByPref({"player":(100-min(trust_player, 100)), "cats":(100-min(cat_affinity, 100)), "loneliness":25})
+        $ about = randomByPref({"player":(100-min(trust_player, 100)), "cats":(110-min(cat_affinity, 100)), "loneliness":25})
     $ renpy.say(selectedCharacter, dreamStatementLookup(about))
     call dreamOut
     return
