@@ -35,47 +35,6 @@ define gui.about = _p("""
 {i}Book of the Damned is a mystery set in the small town of Yomiyama. It takes place prior to and during the events of {/i}Manna for our Malices{i} and prior to the events of {/i}Trilogy{i}.{/i}
 
 
-{b}Dramatis Personae{/b}{i}
-Umeji Misato (17) - our protagonist, and the eldest of the 3 Umeji sisters. She is half french and half japanese. Her french mother joined Corto before meeting her father, a businessman who left the family when he left the cult. She is a telepath. She maintains the image of a polite 'nice girl' of good breeding.
-
-Umeji Miko (16) - the middle child. Though she doesn't remember it clearly, she was once possessed by a fox. She loves kung-fu movies, and is a skilled martial artist.
-
-Umeji Mina (14) - the awkward and bookish youngest Umeji sister. She has not been invited to the compound in Yomiyama.
-
-Bruno Akane (17) - half italian (on her father's side), she is self-conscious about her name. She loves 60s and 70s italian horror cinema.
-
-Tamaya Hanabi (17) - Akane's friend since childhood. She is obsessed with classic detective fiction.
-
-Asahara Hikari (17) - her abiding interest is 60s spy-fi.
-
-Hinamori Yuuko (17) - her abiding interest is in ghost stories and weird fiction.
-
-Ikuhara Akiko (17) - quiet, athletic, tall, androgyne, and mysterious. She likes to swim laps.
-
-Fyodor Federov Kuroki (72) - a self-described 'combat etymologist'.
-
-Corto (62) - formerly a french tennis announcer, he pivoted into cult leader by staging a mystical experience on live television during an intensely-anticipated match. He recognizes that his time is coming to an end
-
-Akagi Ai (17) - Protagonist of Manna for our Malices, a high school Junior, obsessed with 70s anime and manga (in particular, bancho and sukeban series)
-
-Tomoe Aoi (16) - Ai's childhood friend, the daughter of scientists at nearby Yomiyama Polytechnic
-
-The Fujinomiya sisters:
-
-{space=100}Shironeko (18) - the eldest, a slacker who has been held back a year
-{space=110}because of a habit of blowing off homework
-
-{space=100}Kuroneko (17) - Also a junior, she is an academic overachiever and a
-{space=110}skilled violin player
-
-{space=100}Koneko (16) - Despite being a freshman, she is the star of the
-{space=110}Yomiyama track team
-
-Yamada Mimi (17) - Another classmate of Ai's, she handles the school newspaper
-
-The cats: Kuro (4), a short-haired black cat, and Aka (2), a smaller long-haired ginger cat. Other cats are seen but not named.
-{/i}
-
 {b}Cultural and Localization Notes{/b}{i}
 
 The {/i}Yomiyama{i} series is set in Japan, and while I am not Japanese, I have made an effort to keep cultural elements accurate or to justify any inaccuracies I found necessary for the sake of storytelling. This means that some things mentioned in the story will not necessarily be familiar to western audiences (and while this story is very much set in the kind of warped version of Japan seen in anime, readers may nevertheless be confused).

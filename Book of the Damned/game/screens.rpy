@@ -323,6 +323,7 @@ screen navigation():
             textbutton _("Main Menu") action MainMenu()
 
         textbutton _("About") action ShowMenu("about")
+        textbutton _("Dramatis Personae") action ShowMenu("dramatisPersonae")
 
         if renpy.variant("pc"):
 
