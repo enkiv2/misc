@@ -83,8 +83,8 @@ label march15:
     misato "I wonder... Is my sister here yet? Umeji Miko. We're both staying here."
     akane "Sorry to say, you're the second to arrive."
     misato "Then even the Master---"
-    akane "Yup! I got here yesterday, and so special arrangements were made for me, but until Yuuko gets here nobody else can even move into their rooms."
-    misato "Yuuko?"
+    akane "Yup! I got here yesterday, and so special arrangements were made for me, but until Hanabi gets here nobody else can even move into their rooms."
+    misato "Hanabi?"
     akane "She and I went to school together, back in Shibuya. She's acting as the house mother, so she's got all the room keys."
     misato "I suppose the Master shouldn't be bothered with such a task..."
     akane "Apparently he has the whole second floor to himself, which means that those two staircases are his too."
@@ -212,7 +212,7 @@ label findCatsInHallway:
     scene black
     n "Misato gets up and sneaks back into bed."
     akane "{size=-5}Mrruh?{/size}"
-    extend "... {size=-7}Yuuko-cha{/size}{size=-10}n{/size}"
+    extend "... {size=-7}Hana-cha{/size}{size=-10}n{/size}"
     n "Akane smiles in her sleep and rolls over."
     return
 
