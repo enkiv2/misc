@@ -75,6 +75,7 @@ label march15:
     akane "It is!"
     misato "But we just met..."
     akane "I go by only one name. Like Gackt."
+    $ trust_akane += 1
     misato "O-- Oh..."
     misato "I'm Umeji Misato. Pleased to meet you."
     akane "Umeji-san, huh?"
@@ -87,12 +88,14 @@ label march15:
     akane "She and I went to school together, back in Shibuya. She's acting as the house mother, so she's got all the room keys."
     misato "I suppose the Master shouldn't be bothered with such a task..."
     akane "Apparently he has the whole second floor to himself, which means that those two staircases are his too."
+    $ trust_akane += 1
     akane "Here, why don't you come to my room until Yuuko shows? She's probably delayed by the storm."
     misato "This is an awfully oddly laid-out building. Where are the rooms?"
     scene house map
     akane "Apparently it's laid out like a church, or a cathedral, or something. Those doors to the left and right there lead to short hallways that lead to longer hallways against the left and right side of the building."
     akane "The rooms are off those long hallways."
     akane "Mine is on the left hand side, the first door on the left: room 3."
+    $ trust_akane += 1
     scene hall short night
     akane "The electric system here is old-fashioned, so you'll have to get an adapter if you want to charge your phone."
     scene hall long night
@@ -105,6 +108,7 @@ label march15:
     akane "Can you keep a secret?"
     misato "Of course."
     akane "I don't really believe in that stuff."
+    $ trust_akane += 1
     akane "The Master has been good to my mother, and she's very dedicated to him because of that. But I'm skeptical."
     misato "I'm the same way. My mother grew up in the town where he was first contacted, and she's been following him for a long time."
     akane "Your mother is french?"
@@ -112,12 +116,14 @@ label march15:
     akane "My mother is the japanese one."
     misato "Oh..."
     akane "My surname... Actually, it's Bruno. You understand why I don't..."
+    $ trust_akane += 1
     misato "Of course. Sometimes it's hard to be halfu."
     akane "My father is italian, so it's a little bit easier for me to pass, so long as people don't know my surname."
     misato "I understand."
     misato "Hey, I met this old guy on the way over and he said something strange to me."
     misato "He said I \"have an interesting path ahead of me\", and that my \"talents\" won't be enough."
     akane "What talents?"
+    $ trust_akane += 1
     misato "{i}I guess she's not the one who was in my head...{/i}"
     misato "My sunny personality, I guess."
     call tarot
@@ -136,9 +142,11 @@ label march15:
     misato "Yeah..."
     akane "I was drifting off when you came, to be honest."
     akane "You can have the bed for tonight; I'll sleep on the floor."
+    $ trust_akane += 1
     misato "No way! It's your bed."
     akane "Then... we can share it?"
     extend " {size=-5}We're both girls, after all...{/size}"
+    $ trust_akane += 1
     misato "... I'd like that."
     "Akane slides in under the covers, and scoots close to the wall to make space."
     akane "Could you get the light? It's the button next to the door."
@@ -222,12 +230,14 @@ label tarot:
     akane "The Devil generally means feeling constrained by material forces."
     akane "But, see how the chains are loose? The two of them could escape at any time if they believed in themselves."
     akane "In other words, the constraints only {b}feel{/b} material, but actually, they are illusions!"
+    $ trust_akane += 1
     akane "This card is a mirror image of the L.. of the Lovers. And some people think the only difference between them is perspective."
     "Akane bounced slightly on her knee, and then hurriedly drew the next card."
     scene tarot2
     akane "So this position represents the present, and this card makes a lot of sense here."
     akane "The Fool is somebody who is starting off on a journey into the unknown."
     akane "The Fool doesn't know enough to have preconceptions, and this allows her to embrace all sorts of possibilities!"
+    $ trust_akane += 1
     akane "And now, for the future..."
     "Akane drew the next card."
     scene tarot3
@@ -236,6 +246,7 @@ label tarot:
     akane "..."
     akane "OK, so, this card, The Tower, means that something gets destroyed."
     akane "Usually it's a negative card, but not always. Some things need to be destroyed in order for other things to grow!"
+    $ trust_akane += 1
     akane "..."
     akane "This is a really strange spread, altogether. It's unusual to get all trumps."
     akane "Getting all major arcana like this is the tarot equivalent of somebody yelling at you. Like, the deck thinks it's really important."
