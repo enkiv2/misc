@@ -1,10 +1,12 @@
 label dreamIn:
+    window hide
     stop music fadeout 1.0
     scene dream
     with fade
     play music "music/Infocalypse_-_The_Heads_Sprang_Up__Featuring_The_Dixie_Flatline_.mp3" volume 0.23 fadein 2.0
     return
 label dreamOut:
+    window hide
     stop music fadeout 1.0
     scene black
     with dissolve
@@ -101,6 +103,52 @@ label dream3:
     with dissolve
     pause 1
     "Space Brother" "If you do good, you will see me two times. If you do bad, you will see me three times."
+    call dreamOut
+    return
+
+init python:
+    dreamStatements={
+        "loneliness":[],
+        "akane":[],
+        "hanabi":[],
+        "yuuko":[],
+        "miko":[],
+        "mina":[],
+        "hikari":[],
+        "akiko":[],
+        "player":[],
+        "kuroki":[],
+        "cats":[]
+    }
+    def dreamStatementLookup(about):
+        return renpy.random.choice(dreamStatements[about])
+
+define selectedCharacter = ""
+define about = ""
+label generalDream:
+    call dreamIn
+    $ selectedCharacter = randomByPref({"Big Girl":((trust_akane + trust_hanabi + trust_yuuko + trust_miko + trust_mina + trust_hikari + trust_akiko) / 7), "Little Man":(trust_player+trust_kuroki)/2, "Black Deer":(cat_affinity+trust_player)/2})
+    if selectedCharacter == "Little Man" or selectedCharacter == "Big Girl":
+        scene big girl
+        with dissolve
+        pause 1
+        $ about = randomByPref({"akane":(100-min(trust_akane, 100)), "hanabi":(100-min(trust_hanabi, 100)), "yuuko":(100-min(trust_yuuko, 100)), "miko":(100-min(trust_miko, 100)), "hikari":(100-min(trust_hikari, 100)), "akiko":(100-min(trust_akiko, 100)), "loneliness":25})
+        $ renpy.say("Big Girl", dreamStatementLookup(about))
+        $ about = randomByPref({"akane":(100-min(trust_akane, 100)), "hanabi":(100-min(trust_hanabi, 100)), "yuuko":(100-min(trust_yuuko, 100)), "miko":(100-min(trust_miko, 100)), "hikari":(100-min(trust_hikari, 100)), "akiko":(100-min(trust_akiko, 100)), "loneliness":25})
+        window hide
+    if selectedCharacter == "Little Man":
+        scene big girl door open
+        with dissolve
+        pause 1
+        show little man
+        pause 1
+        $ about = randomByPref({"player":(100-min(trust_player, 100)), "kuroki":(100-min(trust_kuroki, 100)), "aoi":(100-min(trust_aoi, 100))})
+    if selectedCharacter == "Black Deer":
+        scene black deer
+        with dissolve
+        pause 1
+        $ about = randomByPref({"player":(100-min(trust_player, 100)), "cats":(100-min(cat_affinity, 100)), "loneliness":25})
+    $ renpy.say(selectedCharacter, dreamStatementLookup(about))
     call dreamOut
     return
 
