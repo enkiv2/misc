@@ -6,7 +6,7 @@ label true_end:
     corto "Ahh, Umeji. Come, sit down. {i}How the hell did she get in anyway? Was the cat thing a fluke?{/i}"
     misato "I think not. We've decided that we're leaving."
     misato "All of us."
-    corto "{i}Mouthy brat{/i} Umeji, I understand you have some contraband. A lighter, I believe?"
+    corto "{i}Mouthy brat{/i} Umeji, I understand you have some contraband. A lighter, I believe?" # XXX where was I planning to have her get the lighter from?
     n "Misato says nothing."
     corto "And that furthermore, you girls have been engaging in... unnatural... activities."
     misato "I prefer to call them supernatural."

@@ -131,12 +131,17 @@ init python:
         "hanabi":[
             "Flames bloom on the sides of my face.",
             "The game is a foot. The weapon is an arm.",
-            "In the drawing room, with a pen."
+            "In the drawing room, with a pen.",
+            "Whatsoever is impossible, is curtains."
         ],
         "yuuko":[
             "She tried to go, but her feet are missing.",
             "The moon, once wan, is now rugose.",
-            "Too large for a dismissal. And there is a moon."
+            "Too large for a dismissal. And there is a moon.",
+            "There's an owl caught in the engine.",
+            "He had powers beyond the world of men.",
+            "The corpse collectors always come when someone is doomed to meet his fate.",
+            "The outbreak will make a tremendous occasion of Thursday night."
         ],
         "miko":[
             "She comes to my window, to tell me the news of the forest.",
@@ -148,7 +153,8 @@ init python:
         "mina":[
             "I would think for you, but this scar marks me as unclean.",
             "Are you coming? Everybody's coming...",
-            "He kept calling me Lucy. Can you believe that?"
+            "He kept calling me Lucy. Can you believe that?",
+            "The flair says they're NPOV."
         ],
         "hikari":[
             "What about ant rights? What about plant rights?",
@@ -201,7 +207,7 @@ define selectedCharacter = ""
 define about = ""
 label generalDream:
     call dreamIn
-    $ selectedCharacter = randomByPref({"Big Girl":((trust_akane + trust_hanabi + trust_yuuko + trust_miko + trust_mina + trust_hikari + trust_akiko) / 7), "Little Man":(trust_player+trust_kuroki)/2, "Black Deer":(cat_affinity+trust_player)/2})
+    $ selectedCharacter = randomByPref({"Big Girl":(100-min(100, ((trust_akane + trust_hanabi + trust_yuuko + trust_miko + trust_mina + trust_hikari + trust_akiko) / 7))), "Little Man":(100-min(100, (trust_player+trust_kuroki)/2)), "Black Deer":(100-min(100, (cat_affinity+trust_player)/2))})
     if selectedCharacter == "Little Man" or selectedCharacter == "Big Girl":
         scene big girl
         with dissolve
