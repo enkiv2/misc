@@ -180,8 +180,7 @@ label march15:
     $ prefMenu({"findCatsInHallway":["check it out", 2], "doNothing":["ignore it", 1]}, best="findCatsInHallway", worst="doNothing")
     call dream1
     $ achievement.grant("The Ides of March")
-    call march16
-    return
+    jump march16
 
 label findCatsInHallway:
     n "Misato sneaks quietly out of bed and inches the door open."

@@ -182,8 +182,7 @@ label start:
     extend "{color=#fff}{cps=20}\nDespite investigation, many mysteries remain.{/cps}{/color}"
     extend "{color=#fff}{cps=20}\nBelow the surface of this town, a great deal of machinery was in motion.{/cps}{/color}"
     centered "{color=#fff}{b}PART 1{/b}: {i}Wild Talents{/i}{/color}"
-    call march15
-    return
+    jump march15
 
 # Monologue (maybe from Kuroki?)
 # "Four years ago, the rest of the industrialized world caught up to Japan in our direct traffic with the true meaning of the end of history: the expectation of growth so permanent it becomes meaningless, except as a pressure on your shoulders, thumping thumping thumping as it asks to proclaim your belief in the unstated empty promise whose fulfillment is made impossible by the very logic that relies on it."
