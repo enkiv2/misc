@@ -257,7 +257,9 @@ init python:
             "Is this going to be the story of the little girl, who lived down the lane?",
             "Your sister knows, or what's in her...",
             "I slipped... I think this is going to stain.",
-            "The tea is bitter like medicine."
+            "The tea is bitter like medicine.",
+            "Light, and water...",
+            "The acre where the waves meet the shore..."
         ],
         "player":[
             "Naturally, I have always depended upon the kindness of strangers.",
@@ -272,7 +274,9 @@ init python:
             "Belief is the enemy.",
             "If the control system is to be subverted, one must first become indiscernible.",
             "He's just trying to warn you about {k=2}the bridge{/k}.",
-            "The basis of reality is fairy tales."
+            "The basis of reality is fairy tales.",
+            "Beneath your feet, they remember lemuria.",
+            "Garbage time is running."
         ],
         "cats":[
             "You can fool anybody, but you can't fool a cat. They seem to know who's not right.",
