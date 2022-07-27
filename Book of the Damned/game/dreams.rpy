@@ -235,7 +235,12 @@ init python:
             "I would think for you, but this scar marks me as unclean.",
             "Are you coming? Everybody's coming...",
             "He kept calling me Lucy. Can you believe that?",
-            "The flair says they're NPOV."
+            "The flair says they're NPOV.",
+            "What mighty contests rise from trivial things.",
+            "Upon coming across a discussion that is borderline lame, thrust.",
+            "I might inadvertently become useful.",
+            "Was Chopin French?",
+            "Is it a name or just a system?"
         ],
         "hikari":[
             "What about ant rights? What about plant rights?",
