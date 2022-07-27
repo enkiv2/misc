@@ -89,7 +89,11 @@ label march15:
     misato "I suppose the Master shouldn't be bothered with such a task..."
     akane "Apparently he has the whole second floor to himself, which means that those two staircases are his too."
     $ trust_akane += 1
-    akane "Here, why don't you come to my room until Yuuko shows? She's probably delayed by the storm."
+    misato "It's odd... When I came down the path, lights were shining through that big stained-glass window on the second floor."
+    akane "Maybe the moon reflected off something?"
+    misato "Or maybe whoever prepared the place for us accidentally left some lights on... I suppose it doesn't really matter, since we can't get up there anyway."
+    n "..."
+    akane "Here, why don't you come to my room until Hanabi shows? She's probably delayed by the storm."
     misato "This is an awfully oddly laid-out building. Where are the rooms?"
     scene house map
     akane "Apparently it's laid out like a church, or a cathedral, or something. Those doors to the left and right there lead to short hallways that lead to longer hallways against the left and right side of the building."

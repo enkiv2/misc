@@ -116,7 +116,9 @@ init python:
             "Marriage? Marriage is how girls get eaten.",
             "This head is getting crowded, but there's room for one more.",
             "The company says the line was cut. They found it dragging, at a crossroads.",
-            "It's the only time she can wear her wedding gown."
+            "It's the only time she can wear her wedding gown.",
+            "You may think of me as a clingy sort of woman, but I was always waiting for your call.",
+            "Comb me smooth, stroke my head, and thou shalt have my cockle-bread."
         ],
         "akane":[
             "Ah, I've been expecting you. The french girl. I knew you'd come.",
@@ -182,7 +184,8 @@ init python:
             "Any cat can open a door, but only a witch cat can close one.",
             "Bright eyes. Bright eyes, sharp little teeth.",
             "Don't you know? Mice live underground, like worms, in tunnels.",
-            "No. I was thinking of an animal."
+            "No. I was thinking of an animal.",
+            "Oh! A furry little man. What are you doing out here?"
         ],
         "aoi":[
             "A pale flower...",
