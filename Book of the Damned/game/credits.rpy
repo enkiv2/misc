@@ -1,7 +1,7 @@
 label credits:
     window hide
     scene black with dissolve
-    play music "music/Infocalypse_-_The_Malibu.mp3"
+    play music "music/Infocalypse_-_Paranoiac_Critical__Ancient_and_Accepted_mix_.mp3"
     init python:
         import re
         name2url={
