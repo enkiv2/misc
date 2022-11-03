@@ -1,4 +1,4 @@
-# Chapter 1 “Separation Perfected”
+# “Separation Perfected”
 
 But certainly for the present age, which prefers the sign to the thing
 signified, the copy to the original, representation to reality, the appearance
@@ -342,7 +342,7 @@ life.
 The spectacle is capital to such a degree of accumulation that it becomes an
 image.
 
-# Chapter 2 “Commodity as Spectacle”
+# “Commodity as Spectacle”
 
 The commodity can only be understood in its undistorted essence when it becomes
 the universal category of society as a whole. Only in this context does the
@@ -584,7 +584,7 @@ workers’ direct possession of every aspect of their activity. Its opposite is
 the society of the spectacle, where the commodity contemplates itself in a
 world it has created.
 
-# Chapter 3 “Unity and Division Within Appearance”
+# “Unity and Division Within Appearance”
 
 A lively new polemic about the concepts “one divides into two” and “two fuse
 into one” is unfolding on the philosophical front in this country. This debate
@@ -863,7 +863,7 @@ profound rationality is also what nourishes the irrationality of hierarchic
 exploitation and repression. What creates the abstract power of society creates
 its concrete unfreedom.
 
-# Chapter 4 “The Proletariat as Subject and as Representation”
+# “The Proletariat as Subject and as Representation”
 
 The equal right of all to the goods and enjoyment of this world, the
 destruction of all authority, the negation of all moral restraints – these, at
@@ -1866,7 +1866,7 @@ the revolutionary project to become visibly what it already was essentially.
 Revolutionary theory is now the enemy of all revolutionary ideology and knows
 it.
 
-# Chapter 5 “Time and History”
+# “Time and History”
 
 O, gentlemen, the time of life is short!... And if we live, we live to tread on
 kings.
@@ -2250,7 +2250,7 @@ Therefore the time officially affirmed over the entire expanse of the globe as
 the general time of society refers only to the specialized interests which
 constitute it and is no more than a particular time.
 
-# Chapter 6 “Spectacular Time”
+# “Spectacular Time”
 
 We have nothing that is ours except time, which even those without a roof can
 enjoy.
@@ -2449,7 +2449,7 @@ of communism which suppresses “all that exists independently of individuals.�
 The world already possesses the dream of a time whose consciousness it must now
 possess in order to actually live it.
 
-# Chapter 7 “The Organization of Territory”.
+# “The Organization of Territory”.
 
 And he who becomes master of a city used to being free and does not destroy her
 can expect to be destroyed by her, because always she has as pretext in
@@ -2643,7 +2643,7 @@ And the power of the Councils which can be effective only if it transforms
 existing conditions in their entirety, cannot assign itself a smaller task if
 it wants to be recognized and to recognize itself in its world.
 
-# Chapter 8 “Negation and Consumption Within Culture”
+# “Negation and Consumption Within Culture”
 
 Do you seriously think we shall live long enough to see a political revolution?
 – we, the contemporaries of these Germans? My friend, you believe what you want
@@ -3091,7 +3091,7 @@ well as its poetry, and in that it no longer separates itself from the critique
 of the social totality. This unified theoretical critique goes alone to meet
 unified social practice.
 
-# Chapter 9 “Ideology Materialized”
+# “Ideology Materialized”
 
 Self-consciousness exists in itself and for itself, in that, and by the fact
 that it exists for another self-consciousness; that is to say, it is only by
