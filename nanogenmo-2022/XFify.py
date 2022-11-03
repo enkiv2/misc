@@ -9,6 +9,7 @@ pageSizeIn=(4.5, 7)
 
 pageSizePx=(int(pageSizeIn[0]*DPI), int(pageSizeIn[1]*DPI))
 candidates=[]
+default_font=ImageFont.load_default()
 
 def pickCandidate():
 		random.shuffle(candidates)
@@ -48,6 +49,73 @@ def layoutSectionHeader(headerName, color):
 						if i<len(headerName):
 								pages.append(newPage())
 		return pages
+
+def wrapLines(para, maxwidth):
+		lines=[]
+		words=para.split(" ")
+		while len(words)>0:
+				i=0
+				while default_font.getbbox(" ".join(words[:i]))[0]<maxWidth:
+						i+=1
+				i-=1
+				if i>0:
+						lines.append(" ".join(words[:i]))
+						words=words[i:]
+				else:
+						raise Exception
+		return lines
+
+
+def layoutPageRect(paras, bbox):
+		img=Image.new("RGBA", bbox, "#ffff")
+		offset=0
+		p=0
+		while p<len(paras):
+				para=paras[p]
+				line_bbox=default_font.getbbox(para)
+				if line_bbox[1]+offset>=bbox[1]:
+						return (img, paras[p:])
+				if line_bbox[0]>bbox[0]:
+						lines=[]
+						try:
+								lines=wrapLines(para, bbox[0])
+						except:
+								return (img, paras[p:])
+						(img2, paras2)=layoutPageRect(lines, (bbox[0]+offset, bbox[1]))
+						img.paste(img2, (0, offset, img2.size[0], img2.size[1]+offset))
+						offset+=img2.size[1]
+						if paras2:
+								paras[p]=" ".join(paras2)
+						else:
+								p+=1
+				else:
+						ImageDraw.Draw(img).text((offset, 0), para, font=default_font, color="#000000")
+						offset+=line_bbox[1]
+						p+=1
+		return (img, [])
+
+
+
+
+def layoutSectionBody(body, color):
+		pages=[newPage()]
+		illuminatedLetter=rubicate(pickCandidate(), color, body[0], int(pageSizePx[1]/2))
+		pages[-1].paste(illuminatedLetter, (0, 0, illuminatedLetter.size[0], illuminatedLetter.size[1]))
+		paras=body[1:].split("\n")
+		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]))
+		pages[-1].paste(img, (illuminatedLetter.size[0], 0, illuminatedLetter.size[0]+img.size[0], img.size[1]))
+		if remainder:
+				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetterSize[1]))
+				pages[-1].paste(img, (0, illuminatedLetter.size[1], img.size[0], illuminatedLetter.size[1]+img.size[1]))
+				while remainder:
+						pages.append(newPage())
+						(img, remainder)=layoutPageRect(remainder, pageSizePx)
+						pages[-1].paste(img, (0, 0, img.size[0], img.size[1]))
+		return pages
+
+def layoutSection(headerName, body, color):
+		return layoutSectionHeader(headerName, color)+layoutSectionBody(body, color)
+
 
 def writePages(pages):
 		for i in range(0, len(pages)):
@@ -91,4 +159,5 @@ if __name__=="__main__":
 										candidates.append(pfx+"/"+sfx)
 				else:
 						candidates.append(path)
-		writePages(layoutSectionHeader("SPECTACLE", (255, 0, 0)))
+		#writePages(layoutSection("SPECTACLE", "The history of civilization is the history of class struggle. The spectacle is not an accumulation of images or a relation between images but a relation between people mediated by images.", (255, 0, 0)))
+		writePages(layoutSectionBody("The history of civilization is the history of class struggle. The spectacle is not an accumulation of images or a relation between images but a relation between people mediated by images.", (255, 0, 0)))
