@@ -17,7 +17,7 @@ def risoify(sourceImage, color=None, invert=False):
 				merged=ImageChops.invert(merged)
 		return merged
 
-def rubicate(sourceImage, color, string):
+def rubicate(sourceImage, color, string, maxHeight=None):
 		font=ImageFont.truetype("Akira Expanded Demo.ttf", sourceImage.size[1])
 		mask=Image.new("1", sourceImage.size, color=1)
 		ImageDraw.Draw(mask).text((0, 0), string, font=font)
@@ -25,9 +25,12 @@ def rubicate(sourceImage, color, string):
 		bottom=risoify(sourceImage, color, False)
 		bottom.paste(top, mask=mask)
 		bottom=bottom.crop(font.getbbox(string))
+		if maxHeight and bottom.size[1]>maxHeight:
+				ratio=(1.0*maxHeight)/bottom.size[1]
+				bottom=bottom.resize((int(bottom.size[0]*ratio), maxHeight))
 		return bottom
 
 if __name__=="__main__":
 		sourceImage=Image.open(sys.argv[1]).convert("RGB")
-		merged=rubicate(sourceImage, (255, 0, 0), "X")
+		merged=rubicate(sourceImage, (255, 0, 0), "X", 200)
 		merged.save("merged.png")
