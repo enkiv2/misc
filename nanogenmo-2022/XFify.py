@@ -104,7 +104,7 @@ def layoutPageRect(paras, bbox):
 										p+=1
 						else:
 							d=ImageDraw.Draw(img)
-							d.text((1, offset), para, font=default_font, color="#000")
+							d.text((1, offset), para, font=default_font, fill="#000")
 							offset+=line_bbox[1]
 							p+=1
 							print((para, line_bbox, bbox, offset), flush=True)
