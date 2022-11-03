@@ -61,14 +61,17 @@ def wrapLines(para, maxwidth):
 		words=para.split(" ")
 		while len(words)>0:
 				i=0
-				while default_font.getbbox(" ".join(words[:i]))[3]<maxWidth:
+				while default_font.getbbox(" ".join(words[:i]))[2]<maxwidth and i<len(words):
 						i+=1
 				i-=1
 				if i>0:
 						lines.append(" ".join(words[:i]))
 						words=words[i:]
 				else:
-						raise Exception
+						print(f"ERROR: could not word wrap word: `{words[0]}`")
+						lines.append(words[0])
+						words=words[1:]
+						# raise Exception
 		return lines
 
 
@@ -89,9 +92,12 @@ def layoutPageRect(paras, bbox):
 						if line_bbox[0]>bbox[0]:
 								lines=[]
 								try:
+										print("Trying to wrap lines", (para, bbox[0]))
 										lines=wrapLines(para, bbox[0])
 								except:
 										print("ERROR: could not wrap", line_bbox, bbox)
+										if bbox[0]==pageSizePx[0]:
+												raise
 										return (img, paras[p:])
 								print(">>>> WRAPPING >>>")
 								(img2, paras2)=layoutPageRect(lines, (bbox[0]+offset, bbox[1]))
@@ -136,9 +142,11 @@ def layoutSection(headerName, body, color):
 		return layoutSectionHeader(headerName, color)+layoutSectionBody(body, color)
 
 
-def writePages(pages):
+def writePages(pages, offset=0):
 		for i in range(0, len(pages)):
-				pages[i].save(f"page{i:05d}.png")
+				p=offset+i
+				pages[i].save(f"page{p:05d}.png")
+		return offset+len(pages)
 
 
 # Mimic the risograph-like monochrome style of the illustrations in the XF
@@ -180,19 +188,18 @@ if __name__=="__main__":
 						candidates.append(path)
 		#writePages(layoutSection("SPECTACLE", "The history of civilization is the history of class struggle. The spectacle is not an accumulation of images or a relation between images but a relation between people mediated by images.", (255, 0, 0)))
 		#writePages(layoutSectionBody("The history of civilization is the history of class struggle. The spectacle is not an accumulation of images or a relation between images but a relation between people mediated by images.", (255, 0, 0)))
-		pages=[]
 		section=[]
 		header=""
 		colors=[(255, 0, 0), (0, 255, 0), (0, 0, 255), (255, 255, 0), (0, 255, 255), (255, 0, 255)]
 		i=0
+		offset=0
 		for line in sys.stdin.readlines():
 				if line[0]=="#":
 						if section:
-								pages+=layoutSection(header, "\n".join(section), colors[i%len(colors)])
+								offset=writePages(layoutSection(header, "\n".join(section), colors[i%len(colors)]), offset)
 								section=[]
 								i+=1
 						header=line[2:]
 				else:
 						section.append(line)
-		pages+=layoutSection(header, "\n".join(section), colors[i%len(colors)])
-		writePages(pages)
+		writePages(layoutSection(header, "\n".join(section), colors[i%len(colors)]), offset)
