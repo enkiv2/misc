@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # -*- coding: utf8 -*-
 import sys, os
 from PIL import Image, ImageOps, ImageFont, ImageDraw

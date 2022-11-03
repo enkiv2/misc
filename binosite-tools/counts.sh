@@ -6,4 +6,4 @@ function grepcount() {
 scp accela_miniaturebinoculars@ssh.phx.nearlyfreespeech.net:/home/logs/access_log .
 echo "Count: $(grepcount '\.htm')"
 echo "PDF count: $(grepcount '\.pdf')"
-echo "JB/JE manufacturer code list count: $(grepcount '\.htm')"
+echo "JB/JE manufacturer code list count: $(grepcount 'Page289\.htm')"

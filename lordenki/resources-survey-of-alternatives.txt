@@ -77,12 +77,17 @@ https://commandcenter.blogspot.com/2019/01/notes-from-1984-trip-to-xerox-parc.ht
 http://www.vpri.org/pdf/tr2003001_croq_collab.pdf
 http://www.vpri.org/pdf/tr2004002_croq_men.pdf
 http://blog.rfox.eu/Bystroushaak%20s%20blog/English%20section/Moldable%20tools%20a%20book%20and%20a%20movement.html
+https://www.youtube.com/watch?v=CCx6Nj_Hr1g
 Oberon
 http://www.projectoberon.com/
 http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
 https://github.com/schierlm/oberon-risc-emu-enhanced
 https://miasap.se/obnc/
 https://miasap.se/obnc/oberon-report.html
+https://portal.mozz.us/gemini/gemini.ctrl-c.club/~stack/gemlog/2022-08-29.oberon.gmi
+https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/
+https://wiki.alopex.li/WirthEvolution
+https://www.youtube.com/watch?v=OJGnpmnXR5w
 Lillith / Kronos
 http://bitsavers.org/pdf/eth/lilith/
 http://cfbsoftware.com/modula2/
@@ -122,6 +127,7 @@ http://www.osnews.com/story/23796/Recreational_Programming_With_LoseThos
 https://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/
 https://www.256kilobytes.com/index.php/content/show/1939/biography-of-terry-a-davis-the-greatest-programmer-to-ever-live
 https://www.youtube.com/watch?v=UCgoxQCf5Jg
+https://www.youtube.com/watch?v=3ooWtNtKFcs
 Menuet / Kolibrios
 http://www.informit.com/articles/article.aspx?p=768380&seqNum=5
 http://www.osnews.com/story/1385/Comparing-MenuetOS-SkyOS-and-AtheOS/
@@ -172,6 +178,7 @@ http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_M
 http://www.folklore.org/StoryView.py?project=Macintosh&story=The_Grand_Unified_Model_The_Finder.txt&sortOrder=Sort+by+Date&topic=Software+Design
 http://www.folklore.org/StoryView.py?project=Macintosh&story=Desk_Ornaments.txt&sortOrder=Sort+by+Date&topic=Software+Design
 https://www.v68k.org/advanced-mac-substitute/
+https://www.youtube.com/watch?v=eonmQ9dkevE
 Hypertalk / Hypercard
 http://lexnet.bravepages.com/HTMLJS.htm
 https://www.nytimes.com/1987/08/18/science/peripherals-it-s-well-hypercard.html
@@ -190,6 +197,8 @@ https://www.haiku-os.org/docs/HIG/index.xml
 https://www.haiku-os.org/blog/humdinger/2017-11-05_scripting_the_gui_with_hey/
 https://osvoyager.wordpress.com/2018/11/30/what-makes-beos-and-haiku-unique/
 https://www.youtube.com/watch?v=cjriSNgFHsM
+https://www.youtube.com/watch?v=0BWFE5sqsqc
+https://www.youtube.com/watch?v=9QAB_q0HlGI
 Apollo / AEGIS / Domain
 https://wiki.mamedev.org/index.php/Driver:Apollo
 http://www.textfiles.com/bitsavers/pdf/apollo/AEGIS_Overview_1985.pdf
@@ -234,6 +243,7 @@ https://github.com/jvburnes/node9
 https://bitbucket.org/inferno-os/inferno-os/
 http://www.vitanuova.com/inferno/downloads.html
 http://tryinferno.reverso.be/
+https://www.youtube.com/watch?v=rTQe3W37RBA
 Sprite / Amoeba
 https://en.m.wikipedia.org/wiki/Sprite_(operating_system)
 https://github.com/OSPreservProject/sprite/
