@@ -276,7 +276,9 @@ init python:
             "He's just trying to warn you about {k=2}the bridge{/k}.",
             "The basis of reality is fairy tales.",
             "Beneath your feet, they remember lemuria.",
-            "Garbage time is running."
+            "Garbage time is running.",
+            "We come from anywhere.",
+            "It cannot be intelligent, because it does not attack us."
         ],
         "cats":[
             "You can fool anybody, but you can't fool a cat. They seem to know who's not right.",
@@ -294,6 +296,12 @@ init python:
             "She reproduces through budding.",
             "She reproduces through burning.",
             "They are suspended by the long bones, but it doesn't last. Then they don't have any insides."
+        ],
+        "mimi":[
+            "The ears have walls..."
+        ],
+        "shironeko":[
+            "Whatever happened to poor old George oblique stroke XR40?"
         ]
     }
     def dreamStatementLookup(about):
@@ -303,7 +311,7 @@ define selectedCharacter = ""
 define about = ""
 label generalDream:
     call dreamIn
-    $ selectedCharacter = randomByPref({"Big Girl":(100-min(100, ((trust_akane + trust_hanabi + trust_yuuko + trust_miko + trust_mina + trust_hikari + trust_akiko) / 7))), "Little Man":(100-min(100, (trust_player+trust_kuroki)/2)), "Black Deer":(100-min(100, (cat_affinity+trust_player)/2))})
+    $ selectedCharacter = randomByPref({"Big Girl":(100-min(100, ((trust_akane + trust_hanabi + trust_yuuko + trust_miko + trust_mina + trust_hikari + trust_akiko) / 7))), "Little Man":(100-min(100, (trust_player+trust_kuroki)/2)), "Black Deer":(100-min(100, (cat_affinity+trust_player)/2)), "Guardian of the Dream":(100-min(100, cat_affinity)), "Hermes":(100-min(100, (trust_mimi+trust_shironeko)/2))})
     if selectedCharacter == "Little Man" or selectedCharacter == "Big Girl":
         scene big girl
         with dissolve
@@ -324,6 +332,16 @@ label generalDream:
         with dissolve
         pause 1
         $ about = randomByPref({"player":(100-min(trust_player, 100)), "cats":(110-min(cat_affinity, 100)), "loneliness":25})
+    if selectedCharacter == "Guardian of the Dream":
+        scene guardian of the dream
+        with dissolve
+        pause 1
+        $ about = randomByPref({"cats":(100-min(cat_affinity, 100)), "loneliness":25})
+    if selectedCharacter == "Hermes":
+        scene hermes
+        with dissolve
+        pause 1
+        $ about = randomByPref({"mimi":(100-min(trust_mimi, 100)), "shironeko":(100-min(trust_shironeko, 100)), "loneliness":(100-min((trust_mimi+trust_shironeko)/2, 100))})
     $ renpy.say(selectedCharacter, dreamStatementLookup(about))
     call dreamOut
     return

@@ -29,6 +29,10 @@ define ai = Character("Akagi Ai")
 define trust_ai=0
 define aoi = Character("Tomoe Aoi")
 define trust_aoi=0
+define mimi = Character("Yamada Mimi")
+define trust_mimi=0
+define shironeko = Character("Fujinomiya Shironeko")
+define trust_shironeko=0
 
 # phone versions, for people we talk to on the phone
 define mina_phone = Character("Umeji Mina (SMS)", what_prefix="{k=1.5}", what_suffix="{/k}") # TODO: replace with monospace font
@@ -151,7 +155,7 @@ screen affinity():
             style_group "pref"
             has vbox
             label _("Affinity")
-            $ avg_affinity = (trust_player+trust_akane+trust_yuuko+trust_miko+trust_hanabi+trust_hikari+trust_akiko+cat_affinity+trust_mina+trust_kuroki+trust_ai+trust_aoi)/11
+            $ avg_affinity = (trust_player+trust_akane+trust_yuuko+trust_miko+trust_hanabi+trust_hikari+trust_akiko+cat_affinity+trust_mina+trust_kuroki+trust_ai+trust_aoi+trust_mimi+trust_shironeko)/13
             bar xsize 639:
                 if avg_affinity>=25:
                     if avg_affinity>=75:
@@ -329,6 +333,34 @@ screen affinity():
                                 else:
                                     style "red_bar"
                                 value trust_aoi
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Mimi")
+                            bar:
+                                if trust_mimi>=25:
+                                    if trust_mimi>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_mimi
+                                range 100
+                        frame:
+                            style_group "pref"
+                            has vbox
+                            label _("Shironeko")
+                            bar:
+                                if trust_shironeko>=25:
+                                    if trust_shironeko>=75:
+                                        style "green_bar"
+                                    else:
+                                        style "blue_bar"
+                                else:
+                                    style "red_bar"
+                                value trust_shironeko
                                 range 100
                     frame:
                         style_group "pref"
