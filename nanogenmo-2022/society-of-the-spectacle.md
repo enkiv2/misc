@@ -8,13 +8,13 @@ that the highest degree of illusion comes to be the highest degree of
 sacredness.
 Feuerbach, Preface to the second edition of The Essence of Christianity
 
-# 1.
+>> 1.
 
 In societies where modern conditions of production prevail, all of life
 presents itself as an immense accumulation of spectacles. Everything that was
 directly lived has moved away into a representation.
 
-# 2.
+>> 2.
 
 The images detached from every aspect of life fuse in a common stream in which
 the unity of this life can no longer be reestablished. Reality considered
@@ -24,7 +24,7 @@ in the world of the autonomous image, where the liar has lied to himself. The
 spectacle in general, as the concrete inversion of life, is the autonomous
 movement of the non-living.
 
-# 3.
+>> 3.
 
 The spectacle presents itself simultaneously as all of society, as part of
 society, and as instrument of unification. As a part of society it is
@@ -33,19 +33,19 @@ Due to the very fact that this sector is separate, it is the common ground of
 the deceived gaze and of false consciousness, and the unification it achieves
 is nothing but an official language of generalized separation.
 
-# 4.
+>> 4.
 
 The spectacle is not a collection of images, but a social relation among
 people, mediated by images.
 
-# 5.
+>> 5.
 
 The spectacle cannot be understood as an abuse of the world of vision, as a
 product of the techniques of mass dissemination of images. It is, rather, a
 Weltanschauung which has become actual, materially translated. It is a world
 vision which has become objectified.
 
-# 6.
+>> 6.
 
 The spectacle grasped in its totality is both the result and the project of the
 existing mode of production. It is not a supplement to the real world, an
@@ -59,7 +59,7 @@ conditions and goals. The spectacle is also the permanent presence of this
 justification, since it occupies the main part of the time lived outside of
 modern production.
 
-# 7.
+>> 7.
 
 Separation is itself part of the unity of the world, of the global social
 praxis split up into reality and image. The social practice which the
@@ -69,7 +69,7 @@ making the spectacle appear as its goal. The language of the spectacle consists
 of signs of the ruling production, which at the same time are the ultimate goal
 of this production.
 
-# 8.
+>> 8.
 
 One cannot abstractly contrast the spectacle to actual social activity: such a
 division is itself divided. The spectacle which inverts the real is in fact
@@ -80,11 +80,11 @@ fixed this way has no other basis than its passage into the opposite: reality
 rises up within the spectacle, and the spectacle is real. This reciprocal
 alienation is the essence and the support of the existing society.
 
-# 9.
+>> 9.
 
 In a world which really is topsy-turvy, the true is a moment of the false.
 
-# 10.
+>> 10.
 
 The concept of spectacle unifies and explains a great diversity of apparent
 phenomena. The diversity and the contrasts are appearances of a socially
@@ -94,7 +94,7 @@ affirmation of all human life, namely social life, as mere appearance. But the
 critique which reaches the truth of the spectacle exposes it as the visible
 negation of life, as a negation of life which has become visible.
 
-# 11.
+>> 11.
 
 To describe the spectacle, its formation, its functions and the forces which
 tend to dissolve it, one must artificially distinguish certain inseparable
@@ -105,7 +105,7 @@ spectacle. But the spectacle is nothing other than the sense of the total
 practice of a social-economic formation, its use of time. It is the historical
 movement in which we are caught.
 
-# 12.
+>> 12.
 
 The spectacle presents itself as something enormously positive, indisputable
 and inaccessible. It says nothing more than “that which appears is good, that
@@ -113,35 +113,35 @@ which is good appears. The attitude which it demands in principle is passive
 acceptance which in fact it already obtained by its manner of appearing without
 reply, by its monopoly of appearance.
 
-# 13.
+>> 13.
 
 The basically tautological character of the spectacle flows from the simple
 fact that its means are simultaneously its ends. It is the sun which never sets
 over the empire of modern passivity. It covers the entire surface of the world
 and bathes endlessly in its own glory.
 
-# 14.
+>> 14.
 
 The society which rests on modern industry is not accidentally or superficially
 spectacular, it is fundamentally spectaclist. In the spectacle, which is the
 image of the ruling economy, the goal is nothing, development everything. The
 spectacle aims at nothing other than itself.
 
-# 15.
+>> 15.
 
 As the indispensable decoration of the objects produced today, as the general
 expose of the rationality of the system, as the advanced economic sector which
 directly shapes a growing multitude of image-objects, the spectacle is the main
 production of present-day society.
 
-# 16.
+>> 16.
 
 The spectacle subjugates living men to itself to the extent that the economy
 has totally subjugated them. It is no more than the economy developing for
 itself. It is the true reflection of the production of things, and the false
 objectification of the producers.
 
-# 17.
+>> 17.
 
 The first phase of the domination of the economy over social life brought into
 the definition of all human realization the obvious degradation of being into
@@ -152,7 +152,7 @@ ultimate function. At the same time all individual reality has become social
 reality directly dependent on social power and shaped by it. It is allowed to
 appear only to the extent that it is not.
 
-# 18.
+>> 18.
 
 Where the real world changes into simple images, the simple images become real
 beings and effective motivations of hypnotic behavior. The spectacle, as a
@@ -166,7 +166,7 @@ which escapes reconsideration and correction by their work. It is the opposite
 of dialogue. Wherever there is independent representation, the spectacle
 reconstitutes itself.
 
-# 19.
+>> 19.
 
 The spectacle inherits all the weaknesses of the Western philosophical project
 which undertook to comprehend activity in terms of the categories of seeing;
@@ -175,7 +175,7 @@ rationality which grew out of this thought. The spectacle does not realize
 philosophy, it philosophizes reality. The concrete life of everyone has been
 degraded into a speculative universe.
 
-# 20.
+>> 20.
 
 Philosophy, the power of separate thought and the thought of separate power,
 could never by itself supersede theology. The spectacle is the material
@@ -187,21 +187,21 @@ but shelters within itself its absolute denial, its fallacious paradise. The
 spectacle is the technical realization of the exile of human powers into a
 beyond; it is separation perfected within the interior of man.
 
-# 21.
+>> 21.
 
 To the extent that necessity is socially dreamed, the dream becomes necessary.
 The spectacle is the nightmare of imprisoned modern society which ultimately
 expresses nothing more than its desire to sleep. The spectacle is the guardian
 of sleep.
 
-# 22.
+>> 22.
 
 The fact that the practical power of modern society detached itself and built
 an independent empire in the spectacle can be explained only by the fact that
 this practical power continued to lack cohesion and remained in contradiction
 with itself.
 
-# 23.
+>> 23.
 
 The oldest social specialization, the specialization of power, is at the root
 of the spectacle. The spectacle is thus a specialized activity which speaks for
@@ -209,7 +209,7 @@ all the others. It is the diplomatic representation of hierarchic society to
 itself, where all other expression is banned. Here the most modern is also the
 most archaic.
 
-# 24.
+>> 24.
 
 The spectacle is the existing order’s uninterrupted discourse about itself, its
 laudatory monologue. It is the self-portrait of power in the epoch of its
@@ -233,7 +233,7 @@ administration. The generalized cleavage of the spectacle is inseparable from
 the modern State, namely from the general form of cleavage within society, the
 product of the division of social labor and the organ of class domination.
 
-# 25.
+>> 25.
 
 Separation is the alpha and omega of the spectacle. The institutionalization of
 the social division of labor, the formation of classes, had given rise to a
@@ -255,7 +255,7 @@ the independent movement of machines; and working for an ever-expanding market.
 All community and all critical sense are dissolved during this movement in
 which the forces that could grow by separating are not yet reunited.
 
-# 26.
+>> 26.
 
 With the generalized separation of the worker and his products, every unitary
 view of accomplished activity and all direct personal communication among
@@ -265,7 +265,7 @@ communication become the exclusive attribute of the system’s management. The
 success of the economic system of separation is the proletarianization of the
 world.
 
-# 27.
+>> 27.
 
 Due to the success of separate production as production of the separate, the
 fundamental experience which in primitive societies is attached to a central
@@ -281,7 +281,7 @@ is in no way a liberation within labor, nor a liberation from the world shaped
 by this labor. None of the activity lost in labor can be regained in the
 submission to its result.
 
-# 28.
+>> 28.
 
 The economic system founded on isolation is a circular production of isolation.
 The technology is based on isolation, and the technical process isolates in
@@ -290,7 +290,7 @@ spectacular system are also its weapons for a constant reinforcement of the
 conditions of isolation of “lonely crowds.” The spectacle constantly
 rediscovers its own assumptions more concretely.
 
-# 29.
+>> 29.
 
 The spectacle originates in the loss of the unity of the world, and the
 gigantic expansion of the modern spectacle expresses the totality of this loss:
@@ -303,7 +303,7 @@ spectators together is no more than an irreversible relation at the very center
 which maintains their isolation. The spectacle reunites the separate, but
 reunites it as separate.
 
-# 30.
+>> 30.
 
 The alienation of the spectator to the profit of the contemplated object (which
 is the result of his own unconscious activity) is expressed in the following
@@ -314,7 +314,7 @@ to the active man appears in the fact that his own gestures are no longer his
 but those of another who represents them to him. This is why the spectator
 feels at home nowhere, because the spectacle is everywhere.
 
-# 31.
+>> 31.
 
 The worker does not produce himself; he produces an independent power. The
 success of this production, its abundance, returns to the producer as an
@@ -323,21 +323,21 @@ to him with the accumulation of his alienated products. The spectacle is the
 map of this new world, a map which exactly covers its territory. The very
 powers which escaped us show themselves to us in all their force.
 
-# 32.
+>> 32.
 
 The spectacle within society corresponds to a concrete manufacture of
 alienation. Economic expansion is mainly the expansion of this specific
 industrial production. What grows with the economy in motion for itself can
 only be the very alienation which was at its origin.
 
-# 33.
+>> 33.
 
 Separated from his product, man himself produces all the details of his world
 with ever increasing power, and thus finds himself ever more separated from his
 world. The more his life is now his product, the more he is separated from his
 life.
 
-# 34.
+>> 34.
 
 The spectacle is capital to such a degree of accumulation that it becomes an
 image.
@@ -355,7 +355,7 @@ reinforced by the way in which his activity becomes less and less active and
 more and more contemplative.
 Lukacs, History and Class Consciousness
 
-# 35.
+>> 35.
 
 In the essential movement of the spectacle, which consists of taking up all
 that existed in human activity in a fluid state so as to possess it in a
@@ -365,7 +365,7 @@ commodity, who knows so well how to seem at first glance something trivial and
 obvious, while on the contrary it is so complex and so full of metaphysical
 subtleties.
 
-# 36.
+>> 36.
 
 This is the principle of commodity fetishism, the domination of society by
 “intangible as well as tangible things,” which reaches its absolute fulfillment
@@ -373,14 +373,14 @@ in the spectacle, where the tangible world is replaced by a selection of images
 which exist above it, and which simultaneously impose themselves as the
 tangible par excellence.
 
-# 37.
+>> 37.
 
 The world at once present and absent which the spectacle makes visible is the
 world of the commodity dominating all that is lived. The world of the commodity
 is thus shown for what it is, because its movement is identical to the
 estrangement of men among themselves and in relation to their global product.
 
-# 38.
+>> 38.
 
 The loss of quality so evident at all levels of spectacular language, from the
 objects it praises to the behavior it regulates, merely translates the
@@ -389,7 +389,7 @@ commodity-form is through and through equal to itself, the category of the
 quantitative. The quantitative is what the commodity-form develops, and it can
 develop only within the quantitative.
 
-# 39.
+>> 39.
 
 This development which excludes the qualitative is itself, as development,
 subject to qualitative change: the spectacle indicates that it has crossed the
@@ -398,7 +398,7 @@ points, but is already true on the universal scale which is the original
 context of the commodity, a context which its practical movement, encompassing
 the Earth as a world market, has verified.
 
-# 40.
+>> 40.
 
 The development of productive forces has been the real unconscious history
 which built and modified the conditions of existence of human groups as
@@ -427,7 +427,7 @@ itself, in fact acquires the totality of socially permissible efforts and
 projects as its servants. The abundance of commodities, namely, of commodity
 relations, can be nothing more than increased survival.
 
-# 41.
+>> 41.
 
 The commodity’s domination was at first exerted over the economy in an occult
 manner; the economy itself, the material basis of social life, remained
@@ -440,7 +440,7 @@ the commodity appears in fact as a power which comes to occupy social life. It
 is then that political economy takes shape, as the dominant science and the
 science of domination.
 
-# 42.
+>> 42.
 
 The spectacle is the moment when the commodity has attained the total
 occupation of social life. Not only is the relation to the commodity visible
@@ -460,7 +460,7 @@ science of domination must in turn specialize: it fragments itself into
 sociology, psychotechnics, cybernetics, semiology, etc., watching over the
 self-regulation of every level of the process.
 
-# 43.
+>> 43.
 
 Whereas in the primitive phase of capitalist accumulation, “political economy
 sees in the proletarian only the worker” who must receive the minimum
@@ -477,7 +477,7 @@ political economy can and must dominate these spheres as political economy.
 Thus the “perfected denial of man” has taken charge of the totality of human
 existence.
 
-# 44.
+>> 44.
 
 The spectacle is a permanent opium war which aims to make people identify goods
 with commodities and satisfaction with survival that increases according to its
@@ -486,7 +486,7 @@ this is because it continues to contain privation. If there is nothing beyond
 increasing survival, if there is no point where it might stop growing, this is
 not because it is beyond privation, but because it is enriched privation.
 
-# 45.
+>> 45.
 
 Automation, the most advanced sector of modern industry as well as the model
 which perfectly sums up its practice, drives the commodity world toward the
@@ -500,7 +500,7 @@ are a eulogy to the current commodities; the additional forces which are
 mobilized just happen to be suitable for the organization of redundant labor
 required by the artificial needs for such commodities.
 
-# 46.
+>> 46.
 
 Exchange value could arise only as an agent of use value, but its victory by
 means of its own weapons created the conditions for its autonomous domination.
@@ -510,7 +510,7 @@ identified with all possible use and reduced use to the mercy of exchange.
 Exchange value is the condottiere of use value who ends up waging the war for
 himself.
 
-# 47.
+>> 47.
 
 The tendency of use value to fall, this constant of capitalist economy,
 develops a new form of privation within increased survival: the new privation
@@ -524,14 +524,14 @@ increased survival. The real consumer becomes a consumer of illusions. The
 commodity is this factually real illusion, and the spectacle is its general
 manifestation.
 
-# 48.
+>> 48.
 
 In the inverted reality of the spectacle, use value (which was implicitly
 contained in exchange value) must now be explicitly proclaimed precisely
 because its factual reality is eroded by the overdeveloped commodity economy
 and because counterfeit life requires a pseudo-justification.
 
-# 49.
+>> 49.
 
 The spectacle is the other side of money: it is the general abstract equivalent
 of all commodities. Money dominated society as the representation of general
@@ -544,7 +544,7 @@ already exchanged for the totality of abstract representation. The spectacle is
 not only the servant of pseudo-use, it is already in itself the pseudo-use of
 life.
 
-# 50.
+>> 50.
 
 At the moment of economic abundance, the concentrated result of social labor
 becomes visible and subjugates all reality to appearance, which is now its
@@ -552,7 +552,7 @@ product. Capital is no longer the invisible center which directs the mode of
 production: its accumulation spreads it all the way to the periphery in the
 form of tangible objects. The entire expanse of society is its portrait.
 
-# 51.
+>> 51.
 
 The victory of the autonomous economy must at the same time be its defeat. The
 forces which it has unleashed eliminate the economic necessity which was the
@@ -566,7 +566,7 @@ which unknowingly depended on it. “All that is conscious wears out. What is
 unconscious remains unalterable. But once freed, does it not fall to ruins in
 turn?” (Freud).
 
-# 52.
+>> 52.
 
 As soon as society discovers that it depends on the economy, the economy, in
 fact, depends on society. This subterranean force, which grew until it appeared
@@ -576,7 +576,7 @@ society. The subject’s possible existence depends on the outcome of the class
 struggle which shows itself to be the product and the producer of the economic
 foundation of history.
 
-# 53.
+>> 53.
 
 The consciousness of desire and the desire for consciousness are identically
 the project which, in its negative form, seeks the abolition of classes, the
@@ -599,7 +599,7 @@ diametrically opposed. This polemic is a reflection, on the ideological level,
 of the acute and complex class struggle taking place in China and in the world.
 Red Flag, (Peking), 21 September 1964
 
-# 54.
+>> 54.
 
 The spectacle, like modern society, is at once unified and divided. Like
 society, it builds its unity on the disjunction. But the contradiction, when it
@@ -607,13 +607,13 @@ emerges in the spectacle, is in turn contradicted by a reversal of its meaning,
 so that the demonstrated division is unitary, while the demonstrated unity is
 divided.
 
-# 55.
+>> 55.
 
 The struggle of powers constituted for the management of the same
 socio-economic system is disseminated as the official contradiction but is in
 fact part of the real unity–on a world scale as well as within every nation.
 
-# 56.
+>> 56.
 
 The spectacular sham struggles of rival forms of separate power are at the same
 time real in that they translate the unequal and antagonistic development of
@@ -630,7 +630,7 @@ truth of the uniqueness of all these specific sectors resides in the universal
 system that contains them: the unique movement that makes the planet its field,
 capitalism.
 
-# 57.
+>> 57.
 
 The society which carries the spectacle does not dominate the underdeveloped
 regions by its economic hegemony alone. It dominates them as the society of the
@@ -645,7 +645,7 @@ certain totalitarian specializations of communication and administration when
 viewed locally, but when viewed in terms of the functioning of the entire
 system these specializations merge in a world division of spectacular tasks.
 
-# 58.
+>> 58.
 
 The division of spectacular tasks preserves the entirety of the existing order
 and especially the dominant pole of its development. The root of the spectacle
@@ -653,7 +653,7 @@ is within the abundant economy the source of the fruits which ultimately take
 over the spectacular market despite the ideological-police protectionist
 barriers of local spectacles aspiring to autarchy.
 
-# 59.
+>> 59.
 
 Under the shimmering diversions of the spectacle, banalization dominates modern
 society the world over and at every point where the developed consumption of
@@ -666,7 +666,7 @@ spectacular rebellion; this reflects the simple fact that dissatisfaction
 itself became a commodity as soon as economic abundance could extend production
 to the processing of such raw materials.
 
-# 60.
+>> 60.
 
 The celebrity, the spectacular representation of a living human being, embodies
 this banality by embodying the image of a possible role. Being a star means
@@ -682,7 +682,7 @@ pseudo-star; in another a star of consumption gets elected as a pseudo-power
 over the lived. But just as the activities of the star are not really global,
 they are not really varied.
 
-# 61.
+>> 61.
 
 The agent of the spectacle placed on stage as a star is the opposite of the
 individual, the enemy of the individual in himself as well as in others.
@@ -703,7 +703,7 @@ admirable people in whom the system personifies itself are well known for not
 being what they are; they became great men by stooping below the reality of the
 smallest individual life, and everyone knows it.
 
-# 62.
+>> 62.
 
 False choice in spectacular abundance, a choice which lies in the juxtaposition
 of competing and complimentary spectacles and also in the juxtaposition of
@@ -721,7 +721,7 @@ way the property of those who are now young, but of the economic system, of the
 dynamism of capitalism. Things rule and are young; things confront and replace
 one another.
 
-# 63.
+>> 63.
 
 What hides under the spectacular oppositions is a unity of misery. Behind the
 masks of total choice, different forms of the same alienation confront each
@@ -731,7 +731,7 @@ necessities of the particular stage of misery which it denies and supports. In
 both cases, the spectacle is nothing more than an image of happy unification
 surrounded by desolation and fear at the tranquil center of misery.
 
-# 64.
+>> 64.
 
 The concentrated spectacle belongs essentially to bureaucratic capitalism, even
 though it may be imported as a technique of state power in mixed backward
@@ -756,7 +756,7 @@ exploitation that primitive accumulation accelerated by terror really is. If
 every Chinese must learn Mao, and thus be Mao, it is because he can be nothing
 else. Wherever the concentrated spectacle rules, so does the police.
 
-# 65.
+>> 65.
 
 The diffuse spectacle accompanies the abundance of commodities, the undisturbed
 development of modern capitalism. Here every individual commodity is justified
@@ -772,7 +772,7 @@ can directly touch only a succession of fragments of this commodity happiness,
 fragments in which the quality attributed to the whole is obviously missing
 every time.
 
-# 66.
+>> 66.
 
 Every given commodity fights for itself, cannot acknowledge the others, and
 attempts to impose itself everywhere as if it were the only one. The spectacle,
@@ -785,7 +785,7 @@ world. Thus, by means of a ruse of commodity logic, what’s specific in the
 commodity wears itself out in the fight while the commodity-form moves toward
 its absolute realization.
 
-# 67.
+>> 67.
 
 The satisfaction which no longer comes from the use of abundant commodities is
 now sought in the recognition of their value as commodities: the use of
@@ -807,7 +807,7 @@ fervent exaltation similar to the ecstasies of the convulsions and miracles of
 the old religious fetishism. The only use which remains here is the fundamental
 use of submission.
 
-# 68.
+>> 68.
 
 The pseudo-need imposed by modern consumption clearly cannot be opposed by any
 genuine need or desire which is not itself shaped by society and its history.
@@ -816,7 +816,7 @@ of social needs. Its mechanical accumulation liberates unlimited artificiality,
 in the face of which living desire is helpless. The cumulative power of
 independent artificiality sows everywhere the falsification of social life.
 
-# 69.
+>> 69.
 
 In the image of the society happily unified by consumption, real division is
 only suspended until the next non-accomplishment in consumption. Every single
@@ -833,7 +833,7 @@ its other consumers. It reveals its essential poverty (which naturally comes to
 it from the misery of its production) too late. But by then another object
 already carries the justification of the system and demands to be acknowledged.
 
-# 70.
+>> 70.
 
 The fraud of satisfaction exposes itself by being replaced, by following the
 change of products and of the general conditions of production. That which
@@ -845,14 +845,14 @@ avowal of the previous lie. The fall of every figure with totalitarian power
 reveals the illusory community which had approved him unanimously, and which
 had been nothing more than an agglomeration of solitudes without illusions.
 
-# 71.
+>> 71.
 
 What the spectacle offers as eternal is based on change and must change with
 its base. The spectacle is absolutely dogmatic and at the same time cannot
 really achieve any solid dogma. Nothing stops for the spectacle; this condition
 is natural to it, yet completely opposed to its inclination.
 
-# 72.
+>> 72.
 
 The unreal unity proclaimed by the spectacle masks the class division on which
 the real unity of the capitalist made of production rests. What obliges the
@@ -871,7 +871,7 @@ bottom, are the raison d’etre of the March 18th insurrection and the charter o
 the fearsome organization that furnished it with an army.
 Enquete parlementaire sur l’insurrection du 18 mars
 
-# 73.
+>> 73.
 
 The real movement which suppresses existing conditions rules over society from
 the moment of the bourgeoisie’s victory in the economy, and visibly after the
@@ -879,7 +879,7 @@ political translation of this victory. The development of productive forces
 shatters the old relations of production and all static order turns to dust.
 Whatever was absolute becomes historical.
 
-# 74.
+>> 74.
 
 By being thrown into history, by having to participate in the labor and
 struggles which make up history, men find themselves obliged to view their
@@ -890,7 +890,7 @@ history has unfolded as the very object of history. The subject of history can
 be none other than the living producing himself, becoming master and possessor
 of his world which is history, and existing as consciousness of his game.
 
-# 75.
+>> 75.
 
 The class struggles of the long revolutionary epoch inaugurated by the rise of
 the bourgeoisie, develop together with the thought of history, the dialectic,
@@ -898,7 +898,7 @@ the thought which no longer stops to look for the meaning of what is, but rises
 to a knowledge of the dissolution of all that is, and in its movement dissolves
 all separation.
 
-# 76.
+>> 76.
 
 Hegel no longer had to interpret the world, but the transformation of the
 world. By only interpreting the transformation, Hegel is only the philosophical
@@ -925,13 +925,13 @@ renouncing it, since in order to speak, it must presuppose that this total
 history to which it has reduced everything is already complete, and that the
 only tribunal where the judgment of truth could be given is closed.
 
-# 77.
+>> 77.
 
 When the proletariat demonstrates by its own existence, through acts, that this
 thought of history is not forgotten, the exposure of the conclusion is at the
 same time the confirmation of the method.
 
-# 78.
+>> 78.
 
 The thought of history can be saved only by becoming practical thought; and the
 practice of the proletariat as a revolutionary class cannot be less than
@@ -940,7 +940,7 @@ theoretical currents of the revolutionary workers’ movement grew out of a
 critical confrontation with Hegelian thought–Stirner and Bakunin as well as
 Marx.
 
-# 79.
+>> 79.
 
 The inseparability of Marx’s theory from the Hegelian method is itself
 inseparable from the revolutionary character of this theory, namely from its
@@ -958,7 +958,7 @@ relic of the antithetical Hegelian dialectic from which Marx, no less than
 Engels, could never completely free himself. In those times of general
 effervescence, this was all the more fatal to him.”
 
-# 80.
+>> 80.
 
 The inversion carried out by Marx to “recover through transfer” the thought of
 the bourgeois revolutions does not trivially consist of putting the materialist
@@ -981,7 +981,7 @@ political economy is the first act of this end of prehistory: “Of all the
 instruments of production the greatest productive power is the revolutionary
 class itself.”
 
-# 81.
+>> 81.
 
 What closely links Marx’s theory with scientific thought is the rational
 understanding of the forces which really operate in society. But Marx’s theory
@@ -990,7 +990,7 @@ only by superseding it: what is in question is an understanding of struggle,
 and not of law. “We know only one science: the science of history” (The German
 Ideology).
 
-# 82.
+>> 82.
 
 The bourgeois epoch, which wants to give a scientific foundation to history,
 overlooks the fact that this available science needed a historical foundation
@@ -1008,7 +1008,7 @@ science of society, cannot itself be scientific. The revolutionary viewpoint of
 a movement which thinks it can dominate current history by means of scientific
 knowledge remains bourgeois.
 
-# 83.
+>> 83.
 
 The utopian currents of socialism, although themselves historically grounded in
 the critique of the existing social organization, can rightly be called utopian
@@ -1038,7 +1038,7 @@ happy destiny which is constantly postulated “plays in their social science a
 role analogous to the role of inertia in rational” (Materiaux pour une theorie
 du proletariat).
 
-# 84.
+>> 84.
 
 The deterministic-scientific facet in Marx’s thought was precisely the gap
 through which the process of “ideologization” penetrated, during his own
@@ -1061,7 +1061,7 @@ critiques of particular disciplines, principally the critique of the
 fundamental science of bourgeois society, political economy. It is this
 mutilation, later accepted as definitive, which has constituted “marxism.”
 
-# 85.
+>> 85.
 
 The weakness of Marx’s theory is naturally the weakness of the revolutionary
 struggle of the proletariat of his time. The working class did not set off the
@@ -1073,14 +1073,14 @@ itself. The scientific justifications Marx elaborated about the future
 development of the working class and the organizational practice that went with
 them became obstacles to proletarian consciousness at a later stage.
 
-# 86.
+>> 86.
 
 All the theoretical insufficiencies of content as well as form of exposition of
 the scientific defense of proletarian revolution can be traced to the
 identification of the proletariat with the bourgeoisie from the standpoint of
 the revolutionary seizure of power.
 
-# 87.
+>> 87.
 
 By grounding the proof of the scientific validity of proletarian power on
 repeated past attempts, Marx obscured his historical thought, from the
@@ -1114,7 +1114,7 @@ other classes.” Here the socio-political foundations of the modern spectacle
 are already established, negatively defining the proletariat as the only
 pretender to historical life.
 
-# 88.
+>> 88.
 
 The only two classes which effectively correspond to Marx’s theory, the two
 pure classes towards which the entire analysis of Capital leads, the
@@ -1133,7 +1133,7 @@ instrument. No ideology can help the proletariat disguise its partial goals as
 general goals, because the proletariat cannot preserve any partial reality
 which is really its own.
 
-# 89.
+>> 89.
 
 If Marx, in a given period of his participation in the struggle of the
 proletariat, expected too much from scientific forecasting, to the point of
@@ -1150,7 +1150,7 @@ the “tendentious conclusions” of his own objective analysis, and by the iron
 of the “perhaps” with reference to the extra-scientific choices imposed on him,
 at the same time shows the methodological key to the fusion of the two aspects.
 
-# 90.
+>> 90.
 
 The fusion of knowledge and action must be realized in the historical struggle
 itself, in such a way that each of these terms guarantees the truth of the
@@ -1179,7 +1179,7 @@ theoretically. The soviet was not a theoretical discovery; yet its existence in
 practice was already the highest theoretical truth of the International
 Workingmen’s Association.
 
-# 91.
+>> 91.
 
 The first successes of the struggle of the International led it to free itself
 from the confused influences of the dominant ideology which survived in it. But
@@ -1214,7 +1214,7 @@ Iberian Anarchist Federation faithfully served one or the other of these
 ideologies; and everywhere the result was very different from what had been
 desired.
 
-# 92.
+>> 92.
 
 The strength and the weakness of the real anarchist struggle resides in its
 viewing the goal of proletarian revolution as immediately present (the
@@ -1247,7 +1247,7 @@ that ideas must become practice, but it leaves the historical terrain by
 assuming that the adequate forms for this passage to practice have already been
 found and will never change.
 
-# 93.
+>> 93.
 
 The anarchists, who distinguish themselves explicitly from the rest of the
 workers’ movement by their ideological conviction, reproduce this separation of
@@ -1265,7 +1265,7 @@ nourished a permanent separation among anarchists at the moment of common
 decision, as is shown by an infinity of anarchist insurrections in Spain,
 confined and destroyed on a local level.
 
-# 94.
+>> 94.
 
 The illusion entertained more or less explicitly by genuine anarchism is the
 permanent imminence of an instantaneously accomplished revolution which will
@@ -1283,7 +1283,7 @@ demi-victories of the revolution, or even to defend them. Its known leaders
 became ministers and hostages of the bourgeois State which destroyed the
 revolution only to lose the civil war.
 
-# 95.
+>> 95.
 
 The “orthodox Marxism” of the Second International is the scientific ideology
 of the socialist revolution: it identifies its whole truth with objective
@@ -1303,7 +1303,7 @@ recognize that for Marx and for the revolutionary proletariat the unitary
 thought of history was in no way distinct from the practical attitude to be
 adopted, regularly became victims of the practice they adopted.
 
-# 96.
+>> 96.
 
 The ideology of the social-democratic organization gave power to professors who
 educated the working class, and the form of organization which was adopted was
@@ -1323,7 +1323,7 @@ economically this reformism which it tolerated politically (in the legalistic
 agitation of the social-democrats). But such an antagonism, guaranteed by their
 science, was constantly belied by history.
 
-# 97.
+>> 97.
 
 Bernstein, the social-democrat furthest from political ideology and most openly
 attached to the methodology of bourgeois science, had the honesty to want to
@@ -1344,7 +1344,7 @@ himself a precursor of the socialist representation which soon after confronted
 the Russian proletariat as its absolute enemy; he even formulated exactly the
 same program for this new alienation: “Socialism means working a lot”.
 
-# 98.
+>> 98.
 
 Lenin, as a Marxist thinker, was no more than a consistent and faithful
 Kautskyist who applied the revolutionary ideology of “orthodox Marxism” to
@@ -1358,7 +1358,7 @@ case unable to offer such opportunities which are based on an advanced stage of
 bourgeois power). It therefore became the profession of the absolute management
 of society.
 
-# 99.
+>> 99.
 
 With the war and the collapse of the social-democratic international in the
 face of the war, the authoritarian ideological radicalism of the Bolsheviks
@@ -1370,7 +1370,7 @@ model, so that they could “speak Russian” to the ruling class. Lenin did not
 reproach the Marxism of the Second International for being a revolutionary
 ideology, but for ceasing to be one.
 
-# 100.
+>> 100.
 
 The historical moment when Bolshevism triumphed for itself in Russia and when
 social-democracy fought victoriously for the old world marks the inauguration
@@ -1378,7 +1378,7 @@ of the state of affairs which is at the heart of the domination of the modern
 spectacle: the representation of the working class radically opposes itself to
 the working class.
 
-# 101.
+>> 101.
 
 “In all previous revolutions,” wrote Rosa Luxemburg in Rote Fahne of December
 21, 1918, “the combatants faced each other directly: class against class,
@@ -1396,7 +1396,7 @@ longer be posed “openly and honestly.” The revolutionary representation of t
 proletariat had at this stage become both the main factor and the central
 result of the general falsification of society.
 
-# 102.
+>> 102.
 
 The organization of the proletariat on the Bolshevik model which emerged from
 Russian backwardness and from the abandonment of revolutionary struggle by the
@@ -1412,7 +1412,7 @@ over representation and defense of workers’ power, the Bolshevik party
 justified itself and became what it was: the party of the proprietors of the
 proletariat (essentially eliminating earlier forms of property).
 
-# 103.
+>> 103.
 
 During twenty years of unresolved theoretical debate, the varied tendencies of
 Russian social-democracy had examined all the conditions for the liquidation of
@@ -1445,7 +1445,7 @@ conclusion (the logic of which Stalin later extended to a complete division of
 the world): “Here or there with a rifle, but not with opposition. ... We’ve had
 enough opposition.”
 
-# 104.
+>> 104.
 
 After Kronstadt, the bureaucracy–sole proprietor of a State
 Capitalism–consolidated its power internally by means of a temporary alliance
@@ -1476,7 +1476,7 @@ ruling class. While in one of Stalin’s prisons, Anton Ciliga observed that
 “technical questions of organization turned out to be social questions”(Lenin
 and the Revolution).
 
-# 105.
+>> 105.
 
 Revolutionary ideology, the coherence of the separate, of which Leninism
 represents the greatest voluntaristic attempt, supervising a reality which
@@ -1490,7 +1490,7 @@ context has not economically transformed the world, as has capitalism which
 reached the stage of abundance; it has merely transformed perception by means
 of the police.
 
-# 106.
+>> 106.
 
 The totalitarian-ideological class in power is the power of a topsy-turvy
 world: the stranger it is, the more it claims not to exist, and its force
@@ -1502,7 +1502,7 @@ invisible to consciousness; as a result all social life becomes insane. The
 social organization of the absolute lie flows from this fundamental
 contradiction.
 
-# 107.
+>> 107.
 
 Stalinism was the reign of terror within the bureaucratic class itself. The
 terrorism at the base of this class’s power must also strike this class because
@@ -1537,7 +1537,7 @@ power of efficacy–in the destructive violence which he exerts against the Self
 of his subjects, the contrasting others.” Just as he is the power that defines
 the terrain of domination, he is “the power which ravages this terrain.”
 
-# 108.
+>> 108.
 
 When ideology, having become absolute through the possession of absolute power,
 changes from partial knowledge into totalitarian falsehood, the thought of
@@ -1559,7 +1559,7 @@ bureaucracy cannot resolve the question of agriculture the way capitalism had
 done, it is ultimately inferior to capitalism in industrial production, planned
 from the top and based on unreality and generalized falsehood.
 
-# 109.
+>> 109.
 
 Between the two world wars, the revolutionary workers’ movement was annihilated
 by the joint action of the Stalinist bureaucracy and of fascist totalitarianism
@@ -1585,7 +1585,7 @@ form of preserving the capitalist order, it usually had to leave the front of
 the stage to the great roles played by the capitalist States; it is eliminated
 by stronger and more rational forms of the same order.
 
-# 110.
+>> 110.
 
 Now that the Russian bureaucracy has finally succeeded in doing away with the
 remains of bourgeois property which hampered its rule over the economy, in
@@ -1613,7 +1613,7 @@ that this abundance carries its implicit ideology within itself, and is usually
 accompanied by an indefinitely extended freedom of spectacular false choices, a
 pseudo-freedom which remains irreconcilable with the bureaucratic ideology.
 
-# 111.
+>> 111.
 
 At the present moment of its development, the bureaucracy’s title to
 ideological property is already collapsing internationally. The power which
@@ -1639,7 +1639,7 @@ labor within the spectacle comes to an end when the pseudo-revolutionary role
 in turn divides. The spectacular element of the collapse of the workers’
 movement will itself collapse.
 
-# 112.
+>> 112.
 
 The Leninist illusion has no contemporary base outside of the various
 Trotskyist tendencies. Here the identification of the proletarian project with
@@ -1680,7 +1680,7 @@ party program.” The real party whose imaginary portrait Lukacs had
 inopportunely drawn was coherent for only one precise and partial task: to
 seize State power.
 
-# 113.
+>> 113.
 
 The neo-Leninist illusion of present-day Trotskyism, constantly exposed by the
 reality of modern bourgeois as well as bureaucratic capitalist societies,
@@ -1721,7 +1721,7 @@ contains the perspective of its historical defeat: by accumulating capital it
 accumulates a proletariat and thus creates its own negation in a country where
 it did not yet exist.
 
-# 114.
+>> 114.
 
 In this complex and terrible development which has carried the epoch of class
 struggles toward new conditions, the proletariat of the industrial countries
@@ -1753,7 +1753,7 @@ righting of a particular wrong. It cannot recognize itself in the righting of a
 large number of wrongs either, but only in the absolute wrong of being
 relegated to the margin of life.
 
-# 115.
+>> 115.
 
 The new signs of negation multiplying in the economically developed countries,
 signs which are misunderstood and falsified by spectacular arrangement, already
@@ -1769,7 +1769,7 @@ army reappear on this battleground which was altered and yet remains the same,
 they follow a new “General Ludd” who, this time, urges them to destroy the
 machines of permitted consumption.
 
-# 116.
+>> 116.
 
 “The political form at last discovered in which the economic emancipation of
 labor could be realized” has in this century acquired a clear outline in the
@@ -1790,14 +1790,14 @@ against contemplation: his consciousness is equal to the practical organization
 which it undertakes because this consciousness is itself inseparable from
 coherent intervention in history.
 
-# 117.
+>> 117.
 
 In the power of the Councils, which must internationally supplant all other
 power, the proletarian movement is its own product and this product is the
 producer himself. He is to himself his own goal. Only there is the spectacular
 negation of life negated in its turn.
 
-# 118.
+>> 118.
 
 The appearance of the Councils was the highest reality of the proletarian
 movement in the first quarter of this century, a reality which was not seen or
@@ -1809,14 +1809,14 @@ knows that this is the only milieu where it can exist, can now recognize this
 reality, no longer at the periphery of what is ebbing, but at the center of
 what is rising.
 
-# 119.
+>> 119.
 
 A revolutionary organization existing before the power of the Councils (it will
 find its own farm through struggle), for all these historical reasons, already
 knows that it does not represent the working class. It must recognize itself as
 no more than a radical separation from the world of separation.
 
-# 120.
+>> 120.
 
 The revolutionary organization is the coherent expression of the theory of
 praxis entering into non-unilateral communication with practical struggles, in
@@ -1825,7 +1825,7 @@ generalization of communication and of coherence in these struggles. At the
 revolutionary moment of dissolution of social separation, this organization
 must recognize its own dissolution as a separate organization.
 
-# 121.
+>> 121.
 
 The revolutionary organization can be nothing less than a unitary critique of
 society, namely a critique which does not compromise with any form of separate
@@ -1840,7 +1840,7 @@ organization is the recognition and self-appropriation of the coherence of its
 critique by all its members, a coherence which must be proved in the critical
 theory as such and in the relation between the theory and practical activity.
 
-# 122.
+>> 122.
 
 When constantly growing capitalist alienation at all levels makes it
 increasingly difficult for workers to recognize and name their own misery,
@@ -1848,7 +1848,7 @@ forcing them to face the alternative of rejecting the totality of their misery
 or nothing, the revolutionary organization has to learn that it can no longer
 combat alienation with alienated forms.
 
-# 123.
+>> 123.
 
 Proletarian revolution depends entirely on the condition that, for the first
 time, theory as intelligence of human practice be recognized and lived by the
@@ -1861,7 +1861,7 @@ social life in which this class was already in power). The very development of
 class society to the stage of spectacular organization of non-life thus leads
 the revolutionary project to become visibly what it already was essentially.
 
-# 124.
+>> 124.
 
 Revolutionary theory is now the enemy of all revolutionary ideology and knows
 it.
@@ -1872,7 +1872,7 @@ O, gentlemen, the time of life is short!... And if we live, we live to tread on
 kings.
 Shakespeare, Henry IV, Part I
 
-# 125.
+>> 125.
 
 Man, “the negative being who is only to the extent that he suppresses Being,”
 is identical to time. Man’s appropriation of his own nature is at the same time
@@ -1886,7 +1886,7 @@ historical form. The temporalization of man as effected through the mediation
 of a society is equivalent to a humanization of time. The unconscious movement
 of time manifests itself and becomes true within historical consciousness.
 
-# 126.
+>> 126.
 
 Properly historical movement, although still hidden, begins in the slow and
 intangible formation of the “real nature of man,” this “nature born within
@@ -1900,7 +1900,7 @@ conscious of time devotes itself to negating it because it sees in time not
 what passes, but only what returns. A static society organizes time in terms of
 its immediate experience of nature, on the model of cyclical time.
 
-# 127.
+>> 127.
 
 Cyclical time already dominates the experience of nomadic populations because
 they find the same conditions repeated at every moment of their journey: Hegel
@@ -1917,7 +1917,7 @@ of the same here on earth. Myth is the unitary construction of the thought
 which guarantees the entire cosmic order surrounding the order which this
 society has in fact already realized within its frontiers.
 
-# 128.
+>> 128.
 
 The social appropriation of time, the production of man by human labor,
 develops within a society divided into classes. The power which constituted
@@ -1939,7 +1939,7 @@ that which they never wanted and against which they thought themselves
 protected. But by way of this detour returns the human negative anxiety which
 had been at the very origin of the entire development that had fallen asleep.
 
-# 129.
+>> 129.
 
 Cyclical time in itself is time without conflict. But conflict is installed
 within this infancy of time: history first struggles to be history in the
@@ -1947,7 +1947,7 @@ practical activity of masters. This history superficially creates the
 irreversible; its movement constitutes precisely the time it uses up within the
 interior of the inexhaustible time of cyclical society.
 
-# 130.
+>> 130.
 
 “Frozen societies” are those which slowed down their historical activity to the
 limit and maintained in constant equilibrium their opposition to the natural
@@ -1961,7 +1961,7 @@ possibilities are identified for all time, has no external limit other than the
 fear of falling back into formless animality. Here, in order to remain human,
 men must remain the same.
 
-# 131.
+>> 131.
 
 The birth of political power which seems to be related to the last great
 technological revolutions (like iron smelting), at the threshold of a period
@@ -1978,7 +1978,7 @@ and transmitted directly among the living: an impersonal memory, the memory of
 the administration of society. “Writings are the thoughts of the State;
 archives are its memory” (Novalis).
 
-# 132.
+>> 132.
 
 The chronicle is the expression of the irreversible time of power and also the
 instrument that preserves the voluntaristic progression of this time from its
@@ -2004,7 +2004,7 @@ guarantee the permanence of cyclical time mythically, as in the seasonal rites
 of Chinese emperors, they themselves achieved a relative liberation from
 cyclical time.
 
-# 133.
+>> 133.
 
 The dry unexplained chronology of divine power speaking to its servants, which
 wants to be understood only as the earthly execution of the commandments of
@@ -2018,7 +2018,7 @@ within it the memorable as well as the menace of forgetting: “Herodotus of
 Halicarnassus here presents the results of his study, so that time may not
 abolish the works of men...”
 
-# 134.
+>> 134.
 
 Reasoning about history is inseparably reasoning about power. Greece was the
 moment when power and its change were discussed and understood, the democracy
@@ -2036,7 +2036,7 @@ in unifying itself in the face of invasion–or even in unifying the calendars o
 its independent cities. In Greece historical time became conscious, but not yet
 conscious of itself.
 
-# 135.
+>> 135.
 
 After the disappearance of the locally favorable conditions known to the Greek
 communities, the regression of western historical thought was not accompanied
@@ -2046,7 +2046,7 @@ Roman State, appeared semi-historical religions which became fundamental
 factors in the new consciousness of time, and in the new armor of separate
 power.
 
-# 136.
+>> 136.
 
 The monotheistic religions were a compromise between myth and history, between
 cyclical time which still dominated production and irreversible time where
@@ -2069,7 +2069,7 @@ which cyclical time returned and abolished itself. Bossuet will still say: “An
 by means of the time that passes we enter into the eternity which does not
 pass.”
 
-# 137.
+>> 137.
 
 The Middle Ages, this incomplete mythical world whose perfection lay outside
 it, is the moment when cyclical time, which still regulates the greater part of
@@ -2098,7 +2098,7 @@ experimentation which forever destroyed all mythical organization of the
 cosmos–slowly revealed itself as the unknown work of this epoch when the great
 official historical undertaking of this world collapsed with the Crusades.
 
-# 138.
+>> 138.
 
 During the decline of the Middle Ages, the irreversible time which invades
 society is experienced by the consciousness attached to the ancient order in
@@ -2134,7 +2134,7 @@ society or of the way to lead its own struggle: because it lacked these
 conditions of unity in its action and consciousness, it expressed its project
 and led its wars with the imagery of an earthly paradise.
 
-# 139.
+>> 139.
 
 The new possession of historical life, the Renaissance, which finds its past
 and its legitimacy in Antiquity, carries with it a joyous rupture with
@@ -2149,7 +2149,7 @@ Medici considered by Burckhardt to be the expression of “the very spirit of th
 Renaissance” is the eulogy which this fragile feast of history pronounces on
 itself: “How beautiful the spring of life which vanishes so quickly.”
 
-# 140.
+>> 140.
 
 The constant movement of monopolization of historical life by the State of the
 absolute monarchy, transitional form toward complete domination by the
@@ -2170,7 +2170,7 @@ the irreversible temporal game of the nobles is consumed in their last lost
 battles, the wars of the Fronde and the rising of the Scotch for
 Charles-Edward. The world’s foundation has changed.
 
-# 141.
+>> 141.
 
 The victory of the bourgeoisie is the victory of profoundly historical time,
 because this is the time of economic production which transforms society,
@@ -2187,7 +2187,7 @@ its unconscious, but this still cannot be brought to light and remains
 unconscious. This blind prehistory, a new fatality dominated by no one, is all
 that the commodity economy democratized.
 
-# 142.
+>> 142.
 
 The history which is present in all the depths of society tends to be lost at
 the surface. The triumph of irreversible time is also its metamorphosis into
@@ -2200,7 +2200,7 @@ the earlier cyclical time had supported a growing part of historical time lived
 by individuals and groups, the domination of the irreversible time of
 production tends, socially, to eliminate this lived time.
 
-# 143.
+>> 143.
 
 Thus the bourgeoisie made known to society and imposed on it an irreversible
 historical time, but kept its use from society. “There was history, but there
@@ -2217,7 +2217,7 @@ center of its revolutionary project; and every attempt (thwarted until now) to
 realize this project marks a point of possible departure for new historical
 life.
 
-# 144.
+>> 144.
 
 The irreversible time of the bourgeoisie in power at first presented itself
 under its own name, as an absolute origin, Year One of the Republic. But the
@@ -2233,7 +2233,7 @@ which also expresses itself in the presentation of time: its own calendar
 abandoned, its irreversible time returns to unwind within the Christian era
 whose succession it continues.
 
-# 145.
+>> 145.
 
 With the development of capitalism, irreversible time is unified on a world
 scale. Universal history becomes a reality because the entire world is gathered
@@ -2243,7 +2243,7 @@ itself. What appears the world over as the same day is the time of economic
 production cut up into equal abstract fragments. Unified irreversible time is
 the time of the world market and, as a corollary, of the world spectacle.
 
-# 146.
+>> 146.
 
 The irreversible time of production is first of all the measure of commodities.
 Therefore the time officially affirmed over the entire expanse of the globe as
@@ -2256,7 +2256,7 @@ We have nothing that is ours except time, which even those without a roof can
 enjoy.
 Baltasar Gracian, Oraculo Manual y Arte de Prudencia
 
-# 147.
+>> 147.
 
 The time of production, commodity-time, is an infinite accumulation of
 equivalent intervals. It is the abstraction of irreversible time, all of whose
@@ -2266,13 +2266,13 @@ social domination by commodity-time, “time is everything, man is nothing; he i
 at most the carcass of time” (Poverty of Philosophy). This is time devalued,
 the complete inversion of time as “the field of human development.”
 
-# 148.
+>> 148.
 
 The general time of human non-development also exists in the complementary form
 of consumable time which returns as pseudo-cyclical time to the daily life of
 the society based on this determined production.
 
-# 149.
+>> 149.
 
 Pseudo-cyclical time is actually no more than the consumable disguise of the
 commodity-time of production. It contains the essential properties of
@@ -2281,7 +2281,7 @@ the qualitative dimension. But being the by-product of this time which aims to
 retard concrete daily life and to keep it retarded, it must be charged with
 pseudo-valuations and appear in a sequence of falsely individualized moments.
 
-# 150.
+>> 150.
 
 Pseudo-cyclical time is the time of consumption of modern economic survival, of
 increased survival, where daily life continues to be deprived of decision and
@@ -2292,7 +2292,7 @@ societies. Pseudo-cyclical time leans on the natural remains of cyclical time
 and also uses it to compose new homologous combinations: day and night, work
 and weekly rest, the recurrence of vacations.
 
-# 151.
+>> 151.
 
 Pseudo-cyclical time is a time transformed by industry. The time which has its
 basis in the production of commodities is itself a consumable commodity which
@@ -2304,7 +2304,7 @@ of socially organized time. “A product which already exists in a form which
 makes it suitable for consumption can nevertheless in its turn become a raw
 material for another product” (Capital).
 
-# 152.
+>> 152.
 
 In its most advanced sector, concentrated capitalism orients itself towards the
 sale of “completely equipped” blocks of time, each one constituting a single
@@ -2318,7 +2318,7 @@ commodity, which can obviously circulate only because of the increased poverty
 of the corresponding realities, just as obviously fits among the pilot-articles
 of modernized sales techniques by being payable on credit.
 
-# 153.
+>> 153.
 
 Consumable pseudo-cyclical time is spectacular time, both as the time of
 consumption of images in the narrow sense, and as the image of consumption of
@@ -2338,7 +2338,7 @@ reserved for living, it is still the spectacle that is to be seen and
 reproduced, becoming ever more intense. What was represented as genuine life
 reveals itself simply as more genuinely spectacular life.
 
-# 154.
+>> 154.
 
 The epoch which displays its time to itself as essentially the sudden return of
 multiple festivities is also an epoch without festivals. What was, in cyclical
@@ -2350,7 +2350,7 @@ by the promise of a new deception. In the spectacle, the lower the use value of
 modern survival-time, the more highly it is exalted. The reality of time has
 been replaced by the advertisement of time.
 
-# 155.
+>> 155.
 
 While the consumption of cyclical time in ancient societies was consistent with
 the real labor of those societies, the pseudo-cyclical consumption of the
@@ -2359,14 +2359,14 @@ its production. While cyclical time was the time of immobile illusion, really
 lived, spectacular time is the time of self-changing reality, lived in
 illusion.
 
-# 156.
+>> 156.
 
 What is constantly new in the process of production of things is not found in
 consumption, which remains the expanded repetition of the same. In spectacular
 time, since dead labor continues to dominate living labor, the past dominates
 the present.
 
-# 157.
+>> 157.
 
 Another side of the deficiency of general historical life is that individual
 life as yet has no history. The pseudo-events which rush by in spectacular
@@ -2380,20 +2380,20 @@ concept, without critical access to its own past which has been recorded
 nowhere. It is not communicated. It is not understood and is forgotten to the
 profit of the false spectacular memory of the unmemorable.
 
-# 158.
+>> 158.
 
 The spectacle, as the present social organization of the paralysis of history
 and memory, of the abandonment of history built on the foundation of historical
 time, is the false consciousness of time.
 
-# 159.
+>> 159.
 
 The preliminary condition required for propelling workers to the status of
 “free” producers and consumers of commodity time was the violent expropriation
 of their own time. The spectacular return of time became possible only after
 this first dispossession of the producer.
 
-# 160.
+>> 160.
 
 The irreducibly biological element which remains in labor, both in the
 dependence on the natural cycle of waking and sleep and in the existence of
@@ -2414,7 +2414,7 @@ all and put to the most mediocre uses, could never acquire the durable and
 cumulative reality of financial capital. This social absence of death is
 identical to the social absence of life.
 
-# 161.
+>> 161.
 
 Time, as Hegel showed, is the necessary alienation, the environment where the
 subject realizes himself by losing himself, where he becomes other in order to
@@ -2425,13 +2425,13 @@ activity it takes from him, separates him first of all from his own time. It is
 this surmountable social alienation that has prohibited and petrified the
 possibilities and risks of the living alienation of time.
 
-# 162.
+>> 162.
 
 Under the visible fashions which disappear and reappear on the trivial surface
 of contemplated pseudo-cyclical time, the grand style of the age is always
 located in what is oriented by the obvious and secret necessity of revolution.
 
-# 163.
+>> 163.
 
 The natural basis of time, the actual experience of the flow of time, becomes
 human and social by existing for man. The restricted condition of human
@@ -2444,7 +2444,7 @@ groups, a model in which independent federated times are simultaneously
 present. It is the program of a total realization, within the context of time,
 of communism which suppresses “all that exists independently of individuals.”
 
-# 164.
+>> 164.
 
 The world already possesses the dream of a time whose consciousness it must now
 possess in order to actually live it.
@@ -2459,7 +2459,7 @@ done or foreseen, unless citizens are disunited or dispersed, they do not
 forget that name and those institutions...
 Machiavelli, The Prince
 
-# 165.
+>> 165.
 
 Capitalist production has unified space, which is no longer bounded by external
 societies. This unification is at the same time an extensive and intensive
@@ -2470,18 +2470,18 @@ preserved the quality of craft production, also had to destroy the autonomy and
 quality of places. This power of homogenization is the heavy artillery which
 brought down all Chinese walls.
 
-# 166.
+>> 166.
 
 In order to become ever more identical to itself, to get as close as possible
 to motionless monotony, the free space of the commodity is henceforth
 constantly modified and reconstructed.
 
-# 167.
+>> 167.
 
 This society which eliminates geographical distance reproduces distance
 internally as spectacular separation.
 
-# 168.
+>> 168.
 
 Tourism, human circulation considered as consumption, a by-product of the
 circulation of commodities, is fundamentally nothing more than the leisure of
@@ -2490,7 +2490,7 @@ different places is already in itself the guarantee of their equivalence. The
 same modernization that removed time from the voyage also removed from it the
 reality of space.
 
-# 169.
+>> 169.
 
 The society that molds all of its surroundings has developed a special
 technique for shaping its very territory, the solid ground of this collection
@@ -2498,21 +2498,21 @@ of tasks. Urbanism is capitalism’s seizure of the natural and human
 environment; developing logically into absolute domination, capitalism can and
 must now remake the totality of space into its own setting.
 
-# 170.
+>> 170.
 
 The capitalist need which is satisfied by urbanism in the form of a visible
 freezing of life can be expressed in Hegelian terms as the absolute
 predominance of “the peaceful coexistence of space” over “the restless becoming
 in the passage of time.”
 
-# 171.
+>> 171.
 
 If all the technical forces of capitalism must be understood as tools for the
 making of separations, in the case of urbanism we are dealing with the
 equipment at the basis of these technical forces, with the treatment of the
 ground that suits their deployment, with the very technique of separation.
 
-# 172.
+>> 172.
 
 Urbanism is the modern fulfillment of the uninterrupted task which safeguards
 class power: the preservation of the atomization of workers who had been
@@ -2535,7 +2535,7 @@ cell. The widespread use of receivers of the spectacular message enables the
 individual to fill his isolation with the dominant images–images which derive
 their power precisely from this isolation.
 
-# 173.
+>> 173.
 
 For the first time a new architecture, which in all previous epochs had been
 reserved for the satisfaction of the ruling classes, is directly aimed at the
@@ -2551,7 +2551,7 @@ lag in the conscious domination of this power, are displayed as clearly by
 urbanism as by problems of thermonuclear armament or of birth control (where
 the possibility of manipulating heredity has already been reached).
 
-# 174.
+>> 174.
 
 The present is already the time of the self-destruction of the urban milieu.
 The explosion of cities which cover the countryside with “formless masses of
@@ -2568,7 +2568,7 @@ them as soon as they in turn become overburdened secondary centers. But the
 technical organization of consumption is only the first element of the general
 dissolution which has led the city to the point of consuming itself.
 
-# 175.
+>> 175.
 
 Economic history, which developed entirely around the opposition between town
 and country, has reached a level of success which simultaneously cancels out
@@ -2581,7 +2581,7 @@ existing urban reality should have been surmounted, is visible in the eclectic
 melange of their decayed elements which cover the most industrially advanced
 zones.
 
-# 176.
+>> 176.
 
 Universal history was born in cities and reached maturity at the moment of the
 decisive victory of city over country. To Marx, one of the greatest
@@ -2596,7 +2596,7 @@ liquidate the city is thus merely another expression of the delay in the
 subordination of the economy to historical consciousness and in the unification
 of society reassuming the powers that were detached from it.
 
-# 177.
+>> 177.
 
 “The countryside shows the exact opposite: isolation and separation” (German
 Ideology). Urbanism destroys cities and reestablishes a pseudo-countryside
@@ -2621,7 +2621,7 @@ history, which must be liberated in the cities, has not yet been liberated,
 that the forces of historical absence begin to compose their own exclusive
 landscape.
 
-# 178.
+>> 178.
 
 History, which threatens this twilight world, is also the force which could
 subject space to lived time. Proletarian revolution is the critique of human
@@ -2633,7 +2633,7 @@ without the reintroduction of an exclusive attachment to the land, thus
 bringing back the reality of the voyage and of life understood as a voyage
 which contains its entire meaning within itself.
 
-# 179.
+>> 179.
 
 The greatest revolutionary idea concerning urbanism is not itself urbanistic,
 technological or esthetic. It is the decision to reconstruct the entire
@@ -2655,7 +2655,7 @@ never stop (and you must concede that the censorship prevents no one from
 stopping) celebrating the freedom and national happiness that we enjoy...
 Ruge to Marx, March 1843.
 
-# 180.
+>> 180.
 
 In the historical society divided into classes, culture is the general sphere
 of knowledge and of representations of the lived; which is to say that culture
@@ -2673,7 +2673,7 @@ the history of the revelation of its inadequacy, as a march toward its
 self-suppression. Culture is the locus of the search for lost unity. In this
 search for unity, culture as a separate sphere is obliged to negate itself.
 
-# 181.
+>> 181.
 
 The struggle between tradition and innovation, which is the principle of
 internal cultural development in historical societies, can be carried on only
@@ -2682,7 +2682,7 @@ by nothing other than the total historical movement which, by becoming
 conscious of its totality, tends to supersede its own cultural presuppositions
 and moves toward the suppression of all separation.
 
-# 182.
+>> 182.
 
 The growth of knowledge about society, which includes the understanding of
 history as the heart of culture, derives from itself an irreversible knowledge,
@@ -2697,21 +2697,21 @@ own boundaries. The lack of rationality of separate culture is the element
 which condemns it to disappear, because within it the victory of the rational
 is already present as a requirement.
 
-# 183.
+>> 183.
 
 Culture grew out of the history which abolished the way of life of the old
 world, but as a separate sphere it is still no more than perceptible
 intelligence and communication, which remain partial in a partially historical
 society. It is the sense of a world which hardly makes sense.
 
-# 184.
+>> 184.
 
 The end of cultural history manifests itself on two opposite sides: the project
 of its supersession in total history, and the organization of its preservation
 as a dead object in spectacular contemplation. One of these movements has
 linked its fate to social critique, the other to the defense of class power.
 
-# 185.
+>> 185.
 
 The two sides of the end of culture–in all the aspects of knowledge as well as
 in all the aspects of perceptible representations exist in a unified manner in
@@ -2724,7 +2724,7 @@ the critical self-destruction of society’s former common language confronts it
 artificial recomposition in the commodity spectacle, the illusory
 representation of the non-lived.
 
-# 186.
+>> 186.
 
 When society loses the community of the society of myth, it must lose all the
 references of a really common language until the time when the rifts within the
@@ -2736,7 +2736,7 @@ experiences the movement that dominates the history of the entirety of separate
 culture. The affirmation of its independence is the beginning of its
 disintegration.
 
-# 187.
+>> 187.
 
 The loss of the language of communication is positively expressed by the modern
 movement of decomposition of all art, its formal annihilation. This movement
@@ -2748,14 +2748,14 @@ rediscovered in praxis, which unifies direct activity and its language. The
 problem is to actually possess the community of dialogue and the game with time
 which have been represented by poetico-artistic works.
 
-# 188.
+>> 188.
 
 When art, become independent, depicts its world in dazzling colors, a moment of
 life has grown old and it cannot be rejuvenated with dazzling colors. It can
 only be evoked as a memory. The greatness of art begins to appear only at the
 dusk of life.
 
-# 189.
+>> 189.
 
 The historical time which invades art expressed itself first of all in the
 sphere of art itself, starting with the baroque. Baroque is the art of a world
@@ -2797,7 +2797,7 @@ moments of art can be admitted equally, because they no longer suffer from the
 loss of their specific conditions of communication in the current general loss
 of the conditions of communication.
 
-# 190.
+>> 190.
 
 As a negative movement which seeks the supersession of art in a historical
 society where history is not yet lived, art in the epoch of its dissolution is
@@ -2806,7 +2806,7 @@ The more grandiose its reach, the more its true realization is beyond it. This
 art is perforce avant-garde, and it is not. Its avant-garde is its
 disappearance.
 
-# 191.
+>> 191.
 
 Dadaism and surrealism are the two currents which mark the end of modern art.
 They are contemporaries, though only in a relatively conscious manner, of the
@@ -2822,7 +2822,7 @@ critical position later elaborated by the Situationists has shown that the
 suppression and the realization of art are inseparable aspects of a single
 supersession of art.
 
-# 192.
+>> 192.
 
 Spectacular consumption which preserves congealed past culture, including the
 recuperated repetition of its negative manifestations, openly becomes in the
@@ -2848,7 +2848,7 @@ a “personality well integrated in the group,” a tendency described by Americ
 sociologists (Riesman, Whyte, etc.). It is the same project everywhere: a
 restructuring without community.
 
-# 193.
+>> 193.
 
 When culture becomes nothing more than a commodity, it must also become the
 star commodity of the spectacular society. Clark Kerr, one of the foremost
@@ -2859,7 +2859,7 @@ second half of this century culture will be the driving force in the
 development of the economy, a role played by the automobile in the first half
 of this century, and by railroads in the second half of the previous century.
 
-# 194.
+>> 194.
 
 All the branches of knowledge, which continue to develop as the thought of the
 spectacle, have to justify a society without justification, and constitute a
@@ -2867,7 +2867,7 @@ general science of false consciousness. This thought is completely conditioned
 by the fact that it cannot and will not investigate its own material basis in
 the spectacular system.
 
-# 195.
+>> 195.
 
 The system’s thought, the thought of the social organization of appearance, is
 itself obscured by the generalized sub-communication which it defends. It does
@@ -2877,7 +2877,7 @@ without response, are absolutely corrupted by their experience of contempt and
 of the success of contempt; and they find their contempt confirmed by their
 knowledge of the contemptible man, who the spectator really is.
 
-# 196.
+>> 196.
 
 Within the specialized thought of the spectacular system, a new division of
 tasks takes place to the extent that the improvement of this system itself
@@ -2890,7 +2890,7 @@ amnesia of historical practice. Nevertheless, the false despair of
 non-dialectical critique and the false optimism of pure advertising of the
 system are identical in that they are both submissive thought.
 
-# 197.
+>> 197.
 
 The sociology which began, first in the United States, to focus discussion on
 the living conditions brought about by present development, compiled a great
@@ -2905,7 +2905,7 @@ will, even if genuine, ends up blaming only the external consequences of the
 system, yet thinks itself critical, forgetting the essentially apologetic
 character of its assumptions and method.
 
-# 198.
+>> 198.
 
 Those who denounce the absurdity or the perils of incitement to waste in the
 society of economic abundance do not understand the purpose of waste. They
@@ -2919,7 +2919,7 @@ that the commodity itself made the laws whose “honest” application leads to 
 distinct reality of private life and to its subsequent reconquest by the social
 consumption of images.
 
-# 199.
+>> 199.
 
 Boorstin describes the excesses of a world which has become foreign to us as if
 they were excesses foreign to our world. But the “normal” basis of social life,
@@ -2931,7 +2931,7 @@ the real human life he speaks of is for him in the past, including the past of
 religious resignation. The truth of this society is nothing other than the
 negation of this society.
 
-# 200.
+>> 200.
 
 The sociology which thinks that an industrial rationality functioning
 separately can be isolated from the whole of social life can go so far as to
@@ -2948,7 +2948,7 @@ Because history itself haunts modern society like a spectre, pseudo-histories
 are constructed at every level of consumption of life in order to preserve the
 threatened equilibrium of present frozen time.
 
-# 201.
+>> 201.
 
 The assertion of the definitive stability of a short period of frozen
 historical time is the undeniable basis, proclaimed consciously and
@@ -2963,7 +2963,7 @@ context–only because the academic imagination of minor functionaries, easily
 overwhelmed and completely entrenched in the awestruck celebration of the
 existing system, flatly reduces all reality to the existence of the system.
 
-# 202.
+>> 202.
 
 In order to understand “structuralist” categories, one must keep in mind, as
 with every historical social science, that the categories express forms as well
@@ -2982,7 +2982,7 @@ serves to prove the transhistorical validity of the society of the spectacle;
 it is on the contrary the society of the spectacle imposing itself as massive
 reality which serves to prove the cold dream of structuralism.
 
-# 203.
+>> 203.
 
 The critical concept of spectacle can undoubtedly also be vulgarized into a
 commonplace hollow formula of sociologico-political rhetoric to explain and
@@ -3004,7 +3004,7 @@ without a rigorous practice it is certain that the obscure and difficult path
 of critical theory must also be the lot of the practical movement acting on the
 scale of society.
 
-# 204.
+>> 204.
 
 Critical theory must be communicated in its own language. It is the language of
 contradiction, which must be dialectical in form as it is in content. It is
@@ -3012,14 +3012,14 @@ critique of the totality and historical critique. It is not “the nadir of
 writing” but its inversion. It is not a negation of style, but the style of
 negation.
 
-# 205.
+>> 205.
 
 In its very style. the exposition of dialectical theory is a scandal and an
 abomination in terms of the rules and the corresponding tastes of the dominant
 language, because when it uses existing concrete concepts it is simultaneously
 aware of their rediscovered fluidity, their necessary destruction.
 
-# 206.
+>> 206.
 
 This style which contains its own critique must express the domination of the
 present critique over its entire past. The very mode of exposition of
@@ -3048,13 +3048,13 @@ and that in a new continuation to this pamphlet, if I ever write it, I intend
 to name the object by its real name and to clothe the problem in historical
 attire.”
 
-# 207.
+>> 207.
 
 Ideas improve. The meaning of words participates in the improvement. Plagiarism
 is necessary. Progress implies it. It embraces an author’s phrase, makes use of
 his expressions, erases a false idea, and replaces it with the right idea.
 
-# 208.
+>> 208.
 
 Diversion is the opposite of quotation, of the theoretical authority which is
 always falsified by the mere fate of having become a quotation a fragment torn
@@ -3068,7 +3068,7 @@ contrary, its own coherence, in itself and with the applicable facts, can
 confirm the former core of truth which it brings out. Diversion has grounded
 its cause on nothing external to its own truth as present critique.
 
-# 209.
+>> 209.
 
 What openly presents itself as diverted in theoretical form, denying the
 durable autonomy of the sphere of the theoretically expressed by introducing
@@ -3077,13 +3077,13 @@ existing order, reminds us that the existence of theory is nothing in itself,
 and that it can know itself only through historical action and the historical
 correction which is its real counterpart.
 
-# 210.
+>> 210.
 
 Only the real negation of culture can preserve its meaning. It can no longer be
 cultural. Thus it is what in some way remains at the level of culture, but with
 a completely different meaning.
 
-# 211.
+>> 211.
 
 In the language of contradiction, the critique of culture presents itself as a
 unified critique in that it dominates the whole of culture, its knowledge as
@@ -3098,7 +3098,7 @@ that it exists for another self-consciousness; that is to say, it is only by
 being acknowledged or “recognized.”
 Hegel, The Phenomenology of Mind
 
-# 212.
+>> 212.
 
 Ideology is the basis of the thought of a class society in the conflict-laden
 course of history. Ideological facts were never a simple chimaera, but rather a
@@ -3109,7 +3109,7 @@ concrete success of autonomized economic production in practice confounds
 social reality with an ideology which has tailored all reality in terms of its
 model.
 
-# 213.
+>> 213.
 
 When ideology, the abstract will and the illusion of the universal, is
 legitimized by the universal abstraction and the effective dictatorship of
@@ -3124,7 +3124,7 @@ Materialized ideology itself has no name, just as it has no expressible
 historical program. This is another way of saying that the history of
 ideologies is over.
 
-# 214.
+>> 214.
 
 Ideology, whose whole internal logic led to “total ideology” in Mannheim’s
 sense the despotism of the fragment which imposes itself as pseudo-knowledge of
@@ -3133,7 +3133,7 @@ spectacle of non-history. Its completion is also its disintegration throughout
 society. With the practical disintegration of this society, ideology–the final
 unreason that blocks access to historical life–must disappear.
 
-# 215.
+>> 215.
 
 The spectacle is ideology par excellence, because it exposes and manifests in
 its fullness the essence of all ideological systems: the impoverishment,
@@ -3148,7 +3148,7 @@ real need produced by political economy, and the only need it produces”
 life the principle which Hegel (in the Realphilosophie of Jena) conceives as
 the principle of money: it is “the life of what is dead, moving within itself.”
 
-# 216.
+>> 216.
 
 In opposition to the project summarized in the Theses on Feuerbach (the
 realization of philosophy in praxis which supersedes the opposition between
@@ -3161,7 +3161,7 @@ automatically the masters of social life. Reciprocally, the dreamed activity of
 idealism is equally fulfilled in the spectacle, through the technical mediation
 of signs and signals-which ultimately materialize an abstract ideal.
 
-# 217.
+>> 217.
 
 The parallel between ideology and schizophrenia, established by Gabel (La
 Fausse Conscience) must be placed in this economic process of materialization
@@ -3174,7 +3174,7 @@ consciousness of encounter, the “illusion of encounter.” In a society where 
 one can any longer be recognized by others, every individual becomes unable to
 recognize his own reality. Ideology is at home; separation has built its world.
 
-# 218.
+>> 218.
 
 “In clinical charts of schizophrenia,” says Gabel, “the decay of the dialectic
 of totality (with dissociation as its extreme form) and the decay of the
@@ -3186,7 +3186,7 @@ commodities and the politics of their commodities. The spectacle, in its
 entirety, is his “mirror image.” Here the stage is set with the false exit of
 generalized autism.
 
-# 219.
+>> 219.
 
 The spectacle obliterates the boundaries between self and world by crushing the
 self besieged by the presence-absence of the world and it obliterates the
@@ -3201,7 +3201,7 @@ fundamental dispossession. In the terms applied by Gabel to a completely
 different pathological level, “the abnormal need for representation here
 compensates for a tortuous feeling of being on the margin of existence.”
 
-# 220.
+>> 220.
 
 If the logic of false consciousness cannot know itself truly, the search for
 critical truth about the spectacle must simultaneously be a true critique. It
@@ -3213,7 +3213,7 @@ or trashy pseudo-revolutionary common actions. Thus madness reappears in the
 very posture which pretends to fight it. Conversely, the critique which goes
 beyond the spectacle must know how to wait.
 
-# 221.
+>> 221.
 
 Emancipation from the material bases of inverted truth this is what the
 self-emancipation of our epoch consists of. This “historical mission of
