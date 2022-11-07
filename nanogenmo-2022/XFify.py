@@ -75,7 +75,9 @@ def wrapLines(para, maxwidth):
 		return lines
 
 
-def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000"):
+def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000", invert=False):
+		if invert:
+				(bgcolor, fgcolor) = (fgcolor, bgcolor)
 		img=Image.new("RGB", bbox, bgcolor)
 		offset=1
 		p=0
@@ -119,8 +121,11 @@ def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000"):
 
 
 
-def layoutSectionBody(body, color):
-		pages=[newPage(color)]
+def layoutSectionBody(body, color, invert=False):
+		if invert:
+				pages=[newPage("#fff")]
+		else:
+				pages=[newPage(color)]
 		body=body.strip()
 		illuminatedLetter=rubicate(pickCandidate(), color, body[0], int(pageSizePx[1]/2))
 		while illuminatedLetter.size[0]>pageSizePx[0]/2:
@@ -128,21 +133,24 @@ def layoutSectionBody(body, color):
 		pages[-1].paste(illuminatedLetter, (0, 0, illuminatedLetter.size[0], illuminatedLetter.size[1]))
 		paras=body[1:].split("\n")
 		print(body[0])
-		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff")
+		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff", invert=invert)
 		pages[-1].paste(img, (illuminatedLetter.size[0], 0, illuminatedLetter.size[0]+img.size[0], img.size[1]))
 		if remainder:
-				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff")
+				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff", invert=invert)
 				pages[-1].paste(img, (0, illuminatedLetter.size[1], img.size[0], illuminatedLetter.size[1]+img.size[1]))
 				while remainder:
 						print("==== NEW PAGE ===")
-						pages.append(newPage(color))
-						(img, remainder)=layoutPageRect(remainder, pageSizePx, bgcolor=color, fgcolor="#fff")
+						if invert:
+								pages=[newPage("#fff")]
+						else:
+								pages=[newPage(color)]
+						(img, remainder)=layoutPageRect(remainder, pageSizePx, bgcolor=color, fgcolor="#fff", invert=invert)
 						pages[-1].paste(img, (0, 0, img.size[0], img.size[1]))
 		return pages
 
-def layoutSection(headerName, body, color):
+def layoutSection(headerName, body, color, invert=False):
 		print("---- SECTION ----")
-		return layoutSectionHeader(headerName, color)+layoutSectionBody(body, color)
+		return layoutSectionHeader(headerName, color)+layoutSectionBody(body, color, invert)
 
 
 def writePages(pages, offset=0):
@@ -203,7 +211,7 @@ if __name__=="__main__":
 		for line in sys.stdin.readlines():
 				if line[0]=="#":
 						if section:
-								offset=writePages(layoutSection(header, "\n".join(section), colors[i%len(colors)]), offset)
+								offset=writePages(layoutSection(header, "\n".join(section), colors[i%len(colors)], invert=random.choice([True, False])), offset)
 								section=[]
 								i+=1
 						header=line[2:]
