@@ -100,7 +100,7 @@ def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000"):
 												raise
 										return (img, paras[p:])
 								print(">>>> WRAPPING >>>")
-								(img2, paras2)=layoutPageRect(lines, (bbox[0]+offset, bbox[1]))
+								(img2, paras2)=layoutPageRect(lines, (bbox[0]+offset, bbox[1]), bgcolor=bgcolor, fgcolor=fgcolor)
 								img.paste(img2, (0, offset, img2.size[0], img2.size[1]+offset))
 								offset+=img2.size[1]
 								print("<<<< WRAPPING <<<<")
@@ -128,10 +128,10 @@ def layoutSectionBody(body, color):
 		pages[-1].paste(illuminatedLetter, (0, 0, illuminatedLetter.size[0], illuminatedLetter.size[1]))
 		paras=body[1:].split("\n")
 		print(body[0])
-		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]))
+		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]), bgcolor=color)
 		pages[-1].paste(img, (illuminatedLetter.size[0], 0, illuminatedLetter.size[0]+img.size[0], img.size[1]))
 		if remainder:
-				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]))
+				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]), bgcolor=color)
 				pages[-1].paste(img, (0, illuminatedLetter.size[1], img.size[0], illuminatedLetter.size[1]+img.size[1]))
 				while remainder:
 						print("==== NEW PAGE ===")
