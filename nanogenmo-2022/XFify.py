@@ -128,15 +128,15 @@ def layoutSectionBody(body, color):
 		pages[-1].paste(illuminatedLetter, (0, 0, illuminatedLetter.size[0], illuminatedLetter.size[1]))
 		paras=body[1:].split("\n")
 		print(body[0])
-		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]), bgcolor=color)
+		(img, remainder)=layoutPageRect(paras, (pageSizePx[0]-illuminatedLetter.size[0], illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff")
 		pages[-1].paste(img, (illuminatedLetter.size[0], 0, illuminatedLetter.size[0]+img.size[0], img.size[1]))
 		if remainder:
-				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]), bgcolor=color)
+				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff")
 				pages[-1].paste(img, (0, illuminatedLetter.size[1], img.size[0], illuminatedLetter.size[1]+img.size[1]))
 				while remainder:
 						print("==== NEW PAGE ===")
 						pages.append(newPage(color))
-						(img, remainder)=layoutPageRect(remainder, pageSizePx, bgcolor=color)
+						(img, remainder)=layoutPageRect(remainder, pageSizePx, bgcolor=color, fgcolor="#fff")
 						pages[-1].paste(img, (0, 0, img.size[0], img.size[1]))
 		return pages
 
