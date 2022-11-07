@@ -78,6 +78,8 @@ def wrapLines(para, maxwidth):
 def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000", invert=False):
 		if invert:
 				(bgcolor, fgcolor) = (fgcolor, bgcolor)
+		if bgcolor==(255, 255, 0) or fgcolor==(255, 255, 0):
+				fgcolor="#000"
 		img=Image.new("RGB", bbox, bgcolor)
 		offset=1
 		p=0
