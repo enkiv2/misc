@@ -87,6 +87,7 @@ def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000", invert=False):
 				para=paras[p]
 				if not para:
 						p+=1
+						offset+=default_font.getbbox("l")[3]
 				else:
 						print(default_font.getbbox(para))
 						line_bbox=default_font.getbbox(para)[2:]
@@ -228,9 +229,6 @@ if __name__=="__main__":
 						for h in header.split():
 								offset=writePages(layoutSectionHeader(h, colors[i%len(colors)]), offset)
 						i+=1
-				elif line[0]==">":
-						offset=writePages(layoutSectionBody("\n".join(section), colors[i%len(colors)], invert), offset)
-						section=[line]
 				else:
 						section.append(line)
 		offset=writePages(layoutSectionBody("\n".join(section), colors[i%len(colors)], invert), offset)
