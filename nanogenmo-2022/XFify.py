@@ -31,7 +31,7 @@ def layoutSectionHeader(headerName, color):
 		pages=[newPage(color)]
 		maxHeight=int(pageSizePx[1]/2)
 		minHeight=int(pageSizePx[1]/3)
-		headerName=headerName.replace(" ", "")
+		headerName=headerName.replace(" ", "").replace('"', "").replace('“', "").replace('”', "")
 
 		i=0
 		while i<len(headerName):
