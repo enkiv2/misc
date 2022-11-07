@@ -43,7 +43,8 @@ def layoutSectionHeader(headerName, color):
 				print(headerName[i], flush=True)
 				i+=1
 				xoff=int((pageSizePx[0]-chunk.size[0])/2)
-				pages[-1].paste(chunk, (xoff, 0, xoff+chunk.size[0], chunk.size[1]))
+				yoff=int((maxHeight-chunk.size[1])/2)
+				pages[-1].paste(chunk, (xoff, yoff, xoff+chunk.size[0], yoff+chunk.size[1]))
 				if i<len(headerName):
 						chunk=rubicate(pickCandidate(), color, headerName[i], maxHeight)
 						height=chunk.size[1]
@@ -53,7 +54,8 @@ def layoutSectionHeader(headerName, color):
 						print(headerName[i], flush=True)
 						i+=1
 						xoff=int((pageSizePx[0]-chunk.size[0])/2)
-						pages[-1].paste(chunk, (xoff, maxHeight, xoff+chunk.size[0], maxHeight+chunk.size[1]))
+						yoff=int((maxHeight-chunk.size[1])/2)
+						pages[-1].paste(chunk, (xoff, yoff+maxHeight, xoff+chunk.size[0], maxHeight+yoff+chunk.size[1]))
 						if i<len(headerName):
 								pages.append(newPage(color))
 		return pages
