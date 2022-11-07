@@ -23,12 +23,12 @@ def pickCandidate():
 						pass
 		return bg
 
-def newPage():
-		return Image.new("RGB", pageSizePx, "#ffff")
+def newPage(color="#ffff"):
+		return Image.new("RGB", pageSizePx, color)
 
 alpha="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 def layoutSectionHeader(headerName, color):
-		pages=[newPage()]
+		pages=[newPage(color)]
 		maxHeight=int(pageSizePx[1]/2)
 		minHeight=int(pageSizePx[1]/3)
 		headerName=headerName.replace(" ", "")
@@ -53,7 +53,7 @@ def layoutSectionHeader(headerName, color):
 						i+=1
 						pages[-1].paste(chunk, (0, maxHeight, chunk.size[0], maxHeight+chunk.size[1]))
 						if i<len(headerName):
-								pages.append(newPage())
+								pages.append(newPage(color))
 		return pages
 
 def wrapLines(para, maxwidth):
@@ -120,7 +120,7 @@ def layoutPageRect(paras, bbox):
 
 
 def layoutSectionBody(body, color):
-		pages=[newPage()]
+		pages=[newPage(color)]
 		body=body.strip()
 		illuminatedLetter=rubicate(pickCandidate(), color, body[0], int(pageSizePx[1]/2))
 		while illuminatedLetter.size[0]>pageSizePx[0]:
@@ -135,7 +135,7 @@ def layoutSectionBody(body, color):
 				pages[-1].paste(img, (0, illuminatedLetter.size[1], img.size[0], illuminatedLetter.size[1]+img.size[1]))
 				while remainder:
 						print("==== NEW PAGE ===")
-						pages.append(newPage())
+						pages.append(newPage(color))
 						(img, remainder)=layoutPageRect(remainder, pageSizePx)
 						pages[-1].paste(img, (0, 0, img.size[0], img.size[1]))
 		return pages
