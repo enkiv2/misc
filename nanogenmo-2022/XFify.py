@@ -91,7 +91,7 @@ def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000", invert=False):
 				para=paras[p]
 				if not para:
 						p+=1
-						line_bbox=default_font.get_bbox("l")[2:]
+						line_bbox=default_font.getbbox("l")[2:]
 						if line_bbox[1]+offset>=bbox[1]:
 								print("==== END OF PAGE ====")
 								return (img, paras[p:])
