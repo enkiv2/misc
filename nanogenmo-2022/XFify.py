@@ -75,8 +75,8 @@ def wrapLines(para, maxwidth):
 		return lines
 
 
-def layoutPageRect(paras, bbox):
-		img=Image.new("RGB", bbox, "#fff")
+def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000"):
+		img=Image.new("RGB", bbox, bgcolor)
 		offset=1
 		p=0
 		while p<len(paras):
@@ -110,7 +110,7 @@ def layoutPageRect(paras, bbox):
 										p+=1
 						else:
 							d=ImageDraw.Draw(img)
-							d.text((1, offset), para, font=default_font, fill="#000")
+							d.text((1, offset), para, font=default_font, fill=fgcolor)
 							offset+=line_bbox[1]
 							p+=1
 							print((para, line_bbox, bbox, offset), flush=True)
@@ -136,7 +136,7 @@ def layoutSectionBody(body, color):
 				while remainder:
 						print("==== NEW PAGE ===")
 						pages.append(newPage(color))
-						(img, remainder)=layoutPageRect(remainder, pageSizePx)
+						(img, remainder)=layoutPageRect(remainder, pageSizePx, bgcolor=color)
 						pages[-1].paste(img, (0, 0, img.size[0], img.size[1]))
 		return pages
 
