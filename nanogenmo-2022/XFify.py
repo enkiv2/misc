@@ -150,7 +150,11 @@ def layoutSectionBody(body, color, invert=False):
 
 def layoutSection(headerName, body, color, invert=False):
 		print("---- SECTION ----")
-		return layoutSectionHeader(headerName, color)+layoutSectionBody(body, color, invert)
+		headers=headerName.split()
+		pages=[]
+		for header in headers:
+				pages+=layoutSectionHeader(header, color)
+		return pages+layoutSectionBody(body, color, invert)
 
 
 def writePages(pages, offset=0):
