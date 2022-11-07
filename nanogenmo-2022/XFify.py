@@ -88,6 +88,9 @@ def layoutPageRect(paras, bbox, bgcolor="#fff", fgcolor="#000", invert=False):
 				if not para:
 						p+=1
 						offset+=default_font.getbbox("l")[3]
+						if line_bbox[1]+offset>=bbox[1]:
+								print("==== END OF PAGE ====")
+								return (img, paras[p:])
 				else:
 						print(default_font.getbbox(para))
 						line_bbox=default_font.getbbox(para)[2:]
@@ -141,14 +144,16 @@ def layoutSectionBody(body, color, invert=False):
 		if remainder:
 				(img, remainder)=layoutPageRect(remainder, (pageSizePx[0], pageSizePx[1]-illuminatedLetter.size[1]), bgcolor=color, fgcolor="#fff", invert=invert)
 				pages[-1].paste(img, (0, illuminatedLetter.size[1], img.size[0], illuminatedLetter.size[1]+img.size[1]))
+				print("remainder", remainder)
 				while remainder:
 						print("==== NEW PAGE ===")
 						if invert:
-								pages=[newPage("#fff")]
+								pages+=[newPage("#fff")]
 						else:
-								pages=[newPage(color)]
+								pages+=[newPage(color)]
 						(img, remainder)=layoutPageRect(remainder, pageSizePx, bgcolor=color, fgcolor="#fff", invert=invert)
 						pages[-1].paste(img, (0, 0, img.size[0], img.size[1]))
+						print("remainder", remainder)
 		return pages
 
 def layoutSection(headerName, body, color, invert=False):
@@ -218,7 +223,7 @@ if __name__=="__main__":
 		for line in "SOCIETY OF THE SPECTACLE BY GUY DEBORD".split():
 				offset=writePages(layoutSectionHeader(line, colors[i%len(colors)]), offset)
 				i+=1
-		offset=writePages(layoutSectionBody("Translation: Red/Black, 1977", colors[i%len(colors)]), offset)
+		offset=writePages(layoutSectionBody("Society of the Spectacle\n\nBy Guy Debord\n\nTranslation: Red/Black, 1977\n\nTranscription: Greg Adargo\n\nFormatting: John Ohno (XFify)\nFormatting inspired by the XenoFeminist Manifesto", colors[i%len(colors)]), offset)
 		for line in sys.stdin.readlines():
 				if line[0]=="#":
 						if section:
