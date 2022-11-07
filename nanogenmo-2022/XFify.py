@@ -221,10 +221,16 @@ if __name__=="__main__":
 		for line in sys.stdin.readlines():
 				if line[0]=="#":
 						if section:
-								offset=writePages(layoutSection(header, "\n".join(section), colors[i%len(colors)], invert=random.choice([True, False])), offset)
+								offset=writePages(layoutSectionBody("\n".join(section), colors[i%len(colors)], invert), offset)
 								section=[]
-								i+=1
 						header=line[2:]
+						invert=random.choice([True, False])
+						for h in header.split():
+								offset=writePages(layoutSectionHeader(h, colors[i%len(colors)]), offset)
+						i+=1
+				elif line[0]==">":
+						offset=writePages(layoutSectionBody("\n".join(section), colors[i%len(colors)], invert), offset)
+						section=[line]
 				else:
 						section.append(line)
-		writePages(layoutSection(header, "\n".join(section), colors[i%len(colors)]), offset)
+		offset=writePages(layoutSectionBody("\n".join(section), colors[i%len(colors)], invert), offset)
