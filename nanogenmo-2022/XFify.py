@@ -208,6 +208,10 @@ if __name__=="__main__":
 		colors=[(255, 0, 0), (0, 255, 0), (0, 0, 255), (255, 255, 0), (0, 255, 255), (255, 0, 255)]
 		i=0
 		offset=0
+		for line in "SOCIETY OF THE SPECTACLE BY GUY DEBORD".split():
+				offset=writePages(layoutSectionHeader(line, colors[i%len(colors)]), offset)
+				i+=1
+		offset=writePages(layoutSectionBody("Translation: Red/Black, 1977", colors[i%len(colors)]), offset)
 		for line in sys.stdin.readlines():
 				if line[0]=="#":
 						if section:
