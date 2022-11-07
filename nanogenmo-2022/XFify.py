@@ -134,7 +134,7 @@ def layoutSectionBody(body, color, invert=False):
 				pages=[newPage(color)]
 		body=body.strip()
 		illuminatedLetter=rubicate(pickCandidate(), color, body[0], int(pageSizePx[1]/2))
-		while illuminatedLetter.size[0]>pageSizePx[0]/2:
+		while illuminatedLetter.size[0]>pageSizePx[0]*3/4:
 				illuminatedLetter=rubicate(pickCandidate(), color, body[0], int(pageSizePx[1]/2))
 		pages[-1].paste(illuminatedLetter, (0, 0, illuminatedLetter.size[0], illuminatedLetter.size[1]))
 		paras=body[1:].split("\n")
