@@ -168,6 +168,10 @@ def risoify(sourceImage, color=None, invert=False):
 
 def rubicate(sourceImage, color, string, maxHeight=None):
 		font=ImageFont.truetype("Akira Expanded Demo.ttf", sourceImage.size[1])
+		font_bbox=font.getbbox(text)[2:]
+		if font_bbox[0]>sourceImage.size[0]:
+				ratio=(1.0*font_bbox[1])/font_bbox[0]
+				font=ImageFont.truetype("Akira Expanded Demo.ttf", int(sourceImage.size[0]*ratio))
 		mask=Image.new("1", sourceImage.size, color=1)
 		ImageDraw.Draw(mask).text((0, 0), string, font=font)
 		top=risoify(sourceImage, color, True)
