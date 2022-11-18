@@ -35,7 +35,7 @@ function help() {
 
 
 function getLength() {
-	(mplayer -vo null -ao null -identify -frames 0 "$@" | grep LENGTH | sed 's/^.*=//' )2>/dev/null
+	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep LENGTH || echo 0) | sed 's/^.*=//' )2>/dev/null
 }
 function floor() {
 	echo "$@" | cut -d. -f 1
@@ -232,7 +232,7 @@ function process_args() {
 }
 
 function print_summary() {
-  dprint 0 "================================================================================"
+	dprint 0 "================================================================================"
 	dprint 0 "= Audio file: \"$audiofile\""
 	dprint 0 "= Target clip length: $clip_length seconds ($cps clips per second)"
 	dprint 0 "= Minimum source clip length: $minimum_clip_length seconds"
@@ -241,7 +241,47 @@ function print_summary() {
 		dprint 0 "= \t$i"
 	done
 	dprint 0 "= $(wc -l ~/.${pid}-sources) sources"
-  dprint 0 "================================================================================"
+	dprint 0 "================================================================================"
+	if [[ $(wc -l ~/.${pid}-sources | cut -d\  -f 1) -lt 1 ]] ; then
+		dprint 0 "ERROR: No suitable sources; exiting."
+		exit 1
+	fi
+}
+
+function print_if_long_enough() {
+			dprint 2 "File: $1" 
+			l=$(getLength "$1")
+			dprint 2 "Clip length: $l" 
+			l=$(floor $((l*1000)))
+			if [[ $l -gt $ml ]] ; then
+				echo "$1"
+				dprint 0 -e ".\c"
+			else
+				dprint 0 -e "-\c"
+			fi
+
+}
+
+function get_file_line() {
+	head -n $1 "$2" | tail -n 1
+}
+
+function remove_short_sources() {
+	num_sources="$(wc -l ~/.${pid}-sources | cut -d\  -f 1)"
+	dprint 0 "Total sources: $(wc -l ~/.${pid}-sources)"
+	dprint 0 "Removing sources less than $minimum_clip_length seconds long..."
+	ml=$((minimum_clip_length * 1000))
+	ml=$(floor $ml)
+	dprint 0 "Minimum clip length: $ml ms"
+	i=0
+	while [[ $i -lt num_sources ]] ; do
+		x="$(get_file_line $i ~/.${pid}-sources)"
+		print_if_long_enough "$x"
+		i=$((i+1))
+	done > ~/.${pid}-sources2
+	mv ~/.${pid}-sources{2,}
+	dprint 0 ""
+	dprint 0 "Current sources: $(wc -l ~/.${pid}-sources)"
 }
 
 function initial_setup() {
@@ -261,7 +301,8 @@ function initial_setup() {
 	for i in "$@" ; do
 		find "$@" -type f
 	done > ~/.${pid}-sources
-  print_summary
+	remove_short_sources
+	print_summary
 }
 
 function teardown() {
@@ -393,20 +434,14 @@ function mergeClips() {
 
 
 function extractRandomClip() {
+	source=$(shuf -n 1 < ~/.$$-sources)
 	sl=$(floor $(getLength "$source"))
-	sl2=$(floor $((sl*1000)) )
-	cl=$(floor $((minimum_clip_length*1000)) )
-	dprint 2 "This clip size: $sl ; Target clip size: $clip_length ; Minimum clip size: $minimum_clip_length"
-	if [[ $sl2 -gt $cl ]] ; then
-		st=$(( RANDOM%(sl-clip_length) ))
-		extractClip $st $source
+	st=$(( RANDOM%(sl-clip_length) ))
+	extractClip $st $source
 
-		check=$(floor $((current_clips % 10)) )
-		if [[ $check -eq 0 ]] ; then
-			mergeClips
-		fi
-	else
-		dprint 1 "Clip too small: $((cl/1000)) > $sl on file \"${source}\"; skipping"
+	check=$(floor $((current_clips % 10)) )
+	if [[ $check -eq 0 ]] ; then
+		mergeClips
 	fi
 }
 
