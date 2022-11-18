@@ -68,7 +68,8 @@ function dup() {
 	while read x ; do
 		i=0
 		while [[ $i -lt $1 ]] ; do
-			echo "$x"
+			cp "$x" "${x}_${i}.jpg"
+			echo "${x}_${i}.jpg"
 			i=$((i+1))
 		done
 	done
@@ -145,14 +146,17 @@ function zoomFilterHelper() {
 	xsz=$(echo $resolution | cut -d: -f 1)
 	ysz=$(echo $resolution | cut -d: -f 2)
 	delta=$(calculateDelta $xsz $ysz)
+	dprint 2 "Calculated delta: $delta"
+	dprint 2 "Count: $count"
 	delta=$((delta/count))
-	i=0
+	dprint 2 "Delta: $delta"
+	j=1
 	for item in $($cmd $dir/cliplist | uniq) ; do
-		dprint 0 "Item: $item"
+		dprint 2 "i*delta: $((j*delta))"
 		( 
-			convertHelper $item -crop $(( xsz-(2*i*delta) ))x$(( ysz-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage 
+			convertHelper $item -crop $(( xsz-(2*j*delta) ))x$(( ysz-(2*j*delta) ))+$((j*delta))+$((j*delta)) +repage 
 		) &
-		i=$((i+1))
+		j=$((j+1))
 		if [[ $i -gt $parallelism ]] ; then
 			dprint 2 "Waiting for zoom to finish on batch...\c"
 			wait
@@ -160,6 +164,7 @@ function zoomFilterHelper() {
 			i=0
 		fi
 	done; wait
+	exit 1
 }
 function filter_zoomIn() {
 	dprint 0 "Zooming in on scene"
@@ -387,7 +392,7 @@ function normalizeFrames() {
 		else
 			cat
 		fi
-	) > $dir/cliplist
+	)  > $dir/cliplist
 }
 
 function clip2Frames() {
