@@ -4,6 +4,8 @@ available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
 enabled_filters=(randomColorScene randomZoom)
 minimum_clip_length=0
 parallelism=0
+resolution="640:480"
+
 cmdname=$0
 pid=$$
 dir=~/.fake-mvgen/${pid}
@@ -33,6 +35,7 @@ function help() {
 	dprint 0 "  Misc options:"
 	dprint 0 "    -m length\tSpecify minimum clip length in seconds (default 1/cps)"
 	dprint 0 "    -p threads\tSpecify parallelism (default: $parallelism)"
+	dprint 0 "    -r res\tSpecify output resolution (default: $resolution)"
 	exit 1
 }
 
@@ -235,6 +238,9 @@ function process_args() {
 		elif [[ "$opt" == "-p" ]] ; then
 			export parallelism=$1
 			shift
+		elif [[ "$opt" == "-r" ]] ; then
+			export resolution=$1
+			shift
 		else
 			dprint 0 "Unknown option: $opt"
 			help
@@ -259,7 +265,8 @@ function print_summary() {
 	dprint 0 "= $(wc -l $dir/sources) sources"
   dprint 0 "= Enabled filters: $enabled_filters"
 	dprint 0 "= Temp dir: $dir"
-	drpint 0 "= Number of threads: $parallelism"
+	dprint 0 "= Number of threads: $parallelism"
+	dprint 0 "= Output resolution: $resolution"
 	dprint 0 "================================================================================"
 	if [[ $(wc -l $dir/sources | cut -d\  -f 1) -lt 1 ]] ; then
 		dprint 0 "ERROR: No suitable sources; exiting."
@@ -313,7 +320,6 @@ function initial_setup() {
 	fi
 	export clip_frames=$(floor $(( 0.5 + ( (1.0*fps) / cps ) )) )
 
-	export resolution="640:480"
 
 	mkdir -p $dir/clip
 	for i in "$@" ; do
