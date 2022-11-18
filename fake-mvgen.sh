@@ -90,7 +90,6 @@ function convertHelper() {
 	rm -f ${item}-2.jpeg
 	dprint 0 "Running shell command: " convert "$item" "$@" "${item}-2.jpeg"
 	convert "$item" "$@" "${item}-2.jpeg"
-	dprint 0 "convert finished"
 	[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
 }
 
@@ -131,14 +130,27 @@ function filter_randomColorFrame() {
 	dprint 2 "Coloring scene: $color"
 	convertFilterHelper rcs "color correction"
 }
-function filter_zoomIn() {
-	dprint 2 "Zooming in on scene"
+function calculateDelta() {
+	# currently: 1/3rd of the smaller coordinate
+	sz=$1
+	if [[ $sz -lt $2 ]]; then
+		sz=$2
+	fi
+	echo $(floor $((sz/3)))
+	
+}
+function zoomFilterHelper() {
+	cmd=$1
 	count=$(wc -l < $dir/cliplist)
-	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
+	xsz=$(echo $resolution | cut -d: -f 1)
+	ysz=$(echo $resolution | cut -d: -f 2)
+	delta=$(calculateDelta $xsz $ysz)
+	delta=$((delta/count))
 	i=0
-	for item in $(cat $dir/cliplist) ; do
+	for item in $($cmd $dir/cliplist | uniq) ; do
+		dprint 0 "Item: $item"
 		( 
-			convertHelper $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage 
+			convertHelper $item -crop $(( xsz-(2*i*delta) ))x$(( ysz-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage 
 		) &
 		i=$((i+1))
 		if [[ $i -gt $parallelism ]] ; then
@@ -149,23 +161,13 @@ function filter_zoomIn() {
 		fi
 	done; wait
 }
+function filter_zoomIn() {
+	dprint 0 "Zooming in on scene"
+	zoomFilterHelper cat
+}
 function filter_zoomOut() {
 	dprint 2 "Zooming out on scene"
-	count=$(wc -l < $dir/cliplist)
-	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
-	i=0
-	for item in $(tac $dir/cliplist) ; do
-		(
-			convertHelper $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage
-		) &
-		i=$((i+1))
-		if [[ $i -gt $parallelism ]] ; then
-			dprint 2 "Waiting for zoom to finish on batch...\c"
-			wait
-			dprint 2 "\tdone"
-			i=0
-		fi
-	done; wait
+	zoomFilterHelper tac
 }
 function filter_randomZoom() {
 	if [[ $((RANDOM%2)) -gt 0 ]] ; then
@@ -325,7 +327,7 @@ function initial_setup() {
 	export total_frames=$(( ($total_length*1.0) * $fps ))
 	export total_clips=$(( ($total_length*1.0) / $cps ))
 	export clip_length=$(( 1.0/cps )) 
-	if [[ $minimum_clip_length -lt $(floor $clip_length) ]] ; then
+	if [[ $((minimum_clip_length*1000)) -lt $(floor $((clip_length*1000))) ]] ; then
 		export minimum_clip_length=$clip_length
 	fi
 	export clip_frames=$(floor $(( 0.5 + ( (1.0*fps) / cps ) )) )
