@@ -2,6 +2,7 @@
 
 available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
 enabled_filters=(randomColorScene randomZoom)
+minimum_clip_length=0
 cmdname=$0
 pid=$$
 
@@ -16,16 +17,19 @@ function dprint() {
 function help() {
 	dprint 0  "Usage: $cmdname audiofile fps cps outfile [options...] source_directory [source_directory...]"
 	dprint 0  "Options:"
-  dprint 0  "  Filter options:"
-  for filter in $available_filters ; do 
+	dprint 0  "  Filter options:"
+	for filter in $available_filters ; do 
 		def="(default $([[ ${enabled_filters[(ie)$filter]} -le ${#enabled_filters} ]] && echo "ON" || echo "OFF"))"
 		dprint 0  "    +filter_$filter\tUse $filter filter $def"
 		dprint 0  "    -filter_$filter\tDo not use $filter filter $def"
-  done
+	done
 	dprint 0 "    -nofilters\tDo not use any filters"
 	dprint 0 "  -v\tVerbosity level 1"
 	dprint 0 "  -vv\tVerbosity level 2"
 	dprint 0 "  -vvv\tVerbosity level 3"
+	dprint 0 "  -m length"
+	dprint 0 "     or                      \tSpecify minimum clip length in seconds (default 1/cps)"
+	dprint 0 "  -minimum_clip_length length"
 	exit 1
 }
 
@@ -168,7 +172,7 @@ function process_args() {
 	export cps=$3
 	export outfile=$4
 	shift ; shift ; shift ; shift
-  
+	
 	while `echo $1 | grep -q '^[-+]'` ; do
 		opt=$1
 		shift
@@ -211,6 +215,10 @@ function process_args() {
 			export DEBUGLEVEL=3
 		elif [[ "$opt" == "-nofilters" ]] ; then
 			export enabled_filters=()
+		elif [[ "$opt" == "-m" ]] ; then
+			export minimum_clip_length=$1
+			dprint 1 "Minimum clip length: $minimum_clip_length"
+			shift
 		else
 			dprint 0 "Unknown option: $opt"
 			help
@@ -228,15 +236,26 @@ function initial_setup() {
 	export total_length=$(getLength $audiofile)
 	export total_frames=$(( ($total_length*1.0) * $fps ))
 	export total_clips=$(( ($total_length*1.0) / $cps ))
-	export clip_length=$(( 1.0/cps ))
+	export clip_length=$(( 1.0/cps )) 
+	if [[ $minimum_clip_length -lt $(floor $clip_length) ]] ; then
+		export minimum_clip_length=$clip_length
+	fi
 	export clip_frames=$(floor $(( 0.5 + ( (1.0*fps) / cps ) )) )
 
 	export resolution="640:480"
 
 	mkdir ~/.${pid}-clip
 	for i in "$@" ; do
-		find "$@"
+		find "$@" -type f
 	done > ~/.${pid}-sources
+	dprint 0 "Audio file: \"$audiofile\""
+	dprint 0 "Target clip length: $clip_length seconds ($cps clips per second)"
+	dprint 0 "Minimum source clip length: $minimum_clip_length seconds"
+	dprint 0 "Source directories: "
+	for i in "$@" ; do
+		dprint 0 "\t$i"
+	done
+	dprint 0 "$(wc -l ~/.${pid}-sources) sources"
 }
 
 function teardown() {
@@ -368,10 +387,10 @@ function mergeClips() {
 
 
 function extractRandomClip() {
-	source=$(shuf -n 1 < ~/.$$-sources)
 	sl=$(floor $(getLength "$source"))
 	sl2=$(floor $((sl*1000)) )
-	cl=$(floor $((clip_length*1000)) )
+	cl=$(floor $((minimum_clip_length*1000)) )
+	dprint 2 "This clip size: $sl ; Target clip size: $clip_length ; Minimum clip size: $minimum_clip_length"
 	if [[ $sl2 -gt $cl ]] ; then
 		st=$(( RANDOM%(sl-clip_length) ))
 		extractClip $st $source
@@ -381,7 +400,7 @@ function extractRandomClip() {
 			mergeClips
 		fi
 	else
-		dprint 1 "Clip too small: $clip_length > $sl on file \"$source\"; skipping"
+		dprint 1 "Clip too small: $((cl/1000)) > $sl on file \"${source}\"; skipping"
 	fi
 }
 
