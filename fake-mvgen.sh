@@ -35,7 +35,7 @@ function help() {
 
 
 function getLength() {
-	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep LENGTH || echo 0) | sed 's/^.*=//' )2>/dev/null
+	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
 }
 function floor() {
 	echo "$@" | cut -d. -f 1
@@ -436,6 +436,11 @@ function mergeClips() {
 function extractRandomClip() {
 	source=$(shuf -n 1 < ~/.$$-sources)
 	sl=$(floor $(getLength "$source"))
+	while [[ $(floor $((sl*1000))) -lt $(floor $((minimum_clip_length * 1000))) ]] ; do	
+		source=$(shuf -n 1 < ~/.$$-sources)
+		sl=$(floor $(getLength "$source"))
+	done
+
 	st=$(( RANDOM%(sl-clip_length) ))
 	extractClip $st $source
 
