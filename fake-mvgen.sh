@@ -5,6 +5,7 @@ enabled_filters=(randomColorScene randomZoom)
 minimum_clip_length=0
 cmdname=$0
 pid=$$
+dir=~/.fake-mvgen/${pid}
 
 DEBUGLEVEL=0
 
@@ -240,9 +241,9 @@ function print_summary() {
 	for i in "$@" ; do
 		dprint 0 "= \t$i"
 	done
-	dprint 0 "= $(wc -l ~/.${pid}-sources) sources"
+	dprint 0 "= $(wc -l $dir/sources) sources"
 	dprint 0 "================================================================================"
-	if [[ $(wc -l ~/.${pid}-sources | cut -d\  -f 1) -lt 1 ]] ; then
+	if [[ $(wc -l $dir/sources | cut -d\  -f 1) -lt 1 ]] ; then
 		dprint 0 "ERROR: No suitable sources; exiting."
 		exit 1
 	fi
@@ -267,21 +268,21 @@ function get_file_line() {
 }
 
 function remove_short_sources() {
-	num_sources="$(wc -l ~/.${pid}-sources | cut -d\  -f 1)"
-	dprint 0 "Total sources: $(wc -l ~/.${pid}-sources)"
+	num_sources="$(wc -l ${dir}/sources | cut -d\  -f 1)"
+	dprint 0 "Total sources: $num_sources"
 	dprint 0 "Removing sources less than $minimum_clip_length seconds long..."
 	ml=$((minimum_clip_length * 1000))
 	ml=$(floor $ml)
 	dprint 0 "Minimum clip length: $ml ms"
 	i=0
 	while [[ $i -lt num_sources ]] ; do
-		x="$(get_file_line $i ~/.${pid}-sources)"
+		x="$(get_file_line $i $dir/sources)"
 		print_if_long_enough "$x"
 		i=$((i+1))
-	done > ~/.${pid}-sources2
-	mv ~/.${pid}-sources{2,}
+	done > $dir/sources2
+	mv $dir/sources{2,}
 	dprint 0 ""
-	dprint 0 "Current sources: $(wc -l ~/.${pid}-sources)"
+	dprint 0 "Current sources: $(wc -l $dir/sources)"
 }
 
 function initial_setup() {
@@ -297,18 +298,16 @@ function initial_setup() {
 
 	export resolution="640:480"
 
-	mkdir ~/.${pid}-clip
+	mkdir -p $dir/clip
 	for i in "$@" ; do
 		find "$@" -type f
-	done > ~/.${pid}-sources
+	done > $dir/sources
 	remove_short_sources
 	print_summary
 }
 
 function teardown() {
-	rm ~/.${pid}-clip.avi
-	rmdir ~/.${pid}-clip
-	rm ~/.${pid}-sources
+	rm -rf $dir
 }
 
 function wrap() {
@@ -353,7 +352,7 @@ function normalizeFrames() {
 		else
 			cat
 		fi
-	) > ~/.${pid}-cliplist
+	) > $dir/cliplist
 }
 
 function clip2Frames() {
@@ -364,23 +363,23 @@ function clip2Frames() {
 }
 
 function frames2Clip() {
-	frames=$(wc -l < ~/.${pid}-cliplist)
+	frames=$(wc -l < $dir/cliplist)
 	current_frame=$((current_frame + frames))
 	delta=$(floor $(( current_secs*fps - current_frame )) )
 	if [ $delta -gt 0 ] ; then
 		i=0
-		thing="$(tail -n 1 ~/.${pid}-cliplist)"
+		thing="$(tail -n 1 $dir/cliplist)"
 		while [[ $i -lt $delta ]] ; do
-			echo "$thing" >> ~/.${pid}-cliplist
+			echo "$thing" >> $dir/cliplist
 			i=$((i+1))
 		done
 		rm -f ~/.$$-temp
 	fi
-	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi $(cat ~/.${pid}-cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
+	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o $dir/clip-${current_clips}.avi $(cat $dir/cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 }
 
 function frameCleanup() {
-	rm -f ~/.${pid}-cliplist
+	rm -f $dir/cliplist
 	rm -f $1/*
 }
 
@@ -390,7 +389,7 @@ function clipExtractSuccess() {
 }
 
 function extractClip() {
-	clipdir=~/.${pid}-clip
+	clipdir=$dir/clip
 	st=$1 ; source=$2
 	end=$((1+clip_length))
 	dprint 1 "Getting clip: $(echo $st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
@@ -408,7 +407,7 @@ function extractClip() {
 		fi
 	else
 		dprint 1 "No frames"
-		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o ~/.${pid}-clip-${current_clips}.avi -ss $st -endpos $end "$source"
+		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o $dir/clip-${current_clips}.avi -ss $st -endpos $end "$source"
 		clipExtractSuccess
 	fi
 }
@@ -423,8 +422,8 @@ function mergeClips() {
 		while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done 
 	)
 	if [[ -e ~/.$$-clip.avi ]] ; then
-		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi $cliplist
-		mv ~/.${pid}-clip-new.avi ~/.${pid}-clip.avi
+		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o $dir/clip-new.avi $dir/clip.avi $cliplist
+		mv $dir/clip-new.avi $dir/clip.avi
 	else
 		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
 	fi
@@ -434,7 +433,7 @@ function mergeClips() {
 
 
 function extractRandomClip() {
-	source=$(shuf -n 1 < ~/.$$-sources)
+	source=$(shuf -n 1 < $dir/sources)
 	sl=$(floor $(getLength "$source"))
 	while [[ $(floor $((sl*1000))) -lt $(floor $((minimum_clip_length * 1000))) ]] ; do	
 		source=$(shuf -n 1 < ~/.$$-sources)
