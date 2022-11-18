@@ -3,8 +3,9 @@
 available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
 enabled_filters=(randomColorScene randomZoom)
 minimum_clip_length=0
+parallelism=0
 cmdname=$0
-pid=$$:A
+pid=$$
 dir=~/.fake-mvgen/${pid}
 
 DEBUGLEVEL=0
@@ -31,6 +32,7 @@ function help() {
 	dprint 0 "    -vvv\tVerbosity level 3"
 	dprint 0 "  Misc options:"
 	dprint 0 "    -m length\tSpecify minimum clip length in seconds (default 1/cps)"
+	dprint 0 "    -p threads\tSpecify parallelism (default: $parallelism)"
 	exit 1
 }
 
@@ -76,6 +78,15 @@ function randomColor() {
 	echo "#${red}${green}${blue}"
 }
 
+function convertHelper() {
+	item="$1" ; shift
+	rm -f ${item}-2.jpeg
+	dprint 0 "Running shell command: " convert "$item" "$@" "${item}-2.jpeg"
+	convert "$item" "$@" "${item}-2.jpeg"
+	dprint 0 "convert finished"
+	[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
+}
+
 function convertFilterHelper() {
 	func=$1
 	desc=$2
@@ -83,17 +94,17 @@ function convertFilterHelper() {
 	for item in $(cat $dir/cliplist) ; do
 		( 
 			setopt SH_WORD_SPLIT
-			convert $item $($func) ${item}-2.jpeg && mv ${item}{-2.jpeg,}
+			convertHelper $item $($func)
 			unsetopt SH_WORD_SPLIT
-		)&
+		)  &
 		i=$((i+1))
-		if [[ $i -gt 20 ]] ; then
+		if [[ $i -gt $parallelism ]] ; then
 			dprint 2 "Waiting for $desc to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
 			i=0
 		fi
-	done; wait
+	done ; wait
 }
 
 function rcs() {
@@ -119,10 +130,11 @@ function filter_zoomIn() {
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
 	for item in $(cat $dir/cliplist) ; do
-		( rm -f ${item}-2.jpeg ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.jpeg &&
-		mv ${item}{-2.jpeg,} ) &
+		( 
+			convertHelper $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage 
+		) &
 		i=$((i+1))
-		if [[ $i -gt 20 ]] ; then
+		if [[ $i -gt $parallelism ]] ; then
 			dprint 2 "Waiting for zoom to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
@@ -136,10 +148,11 @@ function filter_zoomOut() {
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
 	for item in $(tac $dir/cliplist) ; do
-		( rm -f ${item}-2.jpeg ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.jpeg &&
-		mv ${item}{-2.jpeg,} ) &
+		(
+			convertHelper $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage
+		) &
 		i=$((i+1))
-		if [[ $i -gt 20 ]] ; then
+		if [[ $i -gt $parallelism ]] ; then
 			dprint 2 "Waiting for zoom to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
@@ -218,7 +231,9 @@ function process_args() {
 			export enabled_filters=()
 		elif [[ "$opt" == "-m" ]] ; then
 			export minimum_clip_length=$1
-			dprint 1 "Minimum clip length: $minimum_clip_length"
+			shift
+		elif [[ "$opt" == "-p" ]] ; then
+			export parallelism=$1
 			shift
 		else
 			dprint 0 "Unknown option: $opt"
@@ -243,6 +258,8 @@ function print_summary() {
 	done
 	dprint 0 "= $(wc -l $dir/sources) sources"
   dprint 0 "= Enabled filters: $enabled_filters"
+	dprint 0 "= Temp dir: $dir"
+	drpint 0 "= Number of threads: $parallelism"
 	dprint 0 "================================================================================"
 	if [[ $(wc -l $dir/sources | cut -d\  -f 1) -lt 1 ]] ; then
 		dprint 0 "ERROR: No suitable sources; exiting."
@@ -274,7 +291,6 @@ function remove_short_sources() {
 	dprint 0 "Removing sources less than $minimum_clip_length seconds long..."
 	ml=$((minimum_clip_length * 1000))
 	ml=$(floor $ml)
-	dprint 0 "Minimum clip length: $ml ms"
 	i=0
 	while [[ $i -lt num_sources ]] ; do
 		x="$(get_file_line $i $dir/sources)"
@@ -374,7 +390,6 @@ function frames2Clip() {
 			echo "$thing" >> $dir/cliplist
 			i=$((i+1))
 		done
-		rm -f $dir/temp
 	fi
 	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o $dir/clip-${current_clips}.avi $(cat $dir/cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 }
@@ -397,6 +412,7 @@ function extractClip() {
 	if [[ areWeUsingFrames ]] ; then
 		clip2Frames $st $end $source $clipdir
 		if checkFramesOK $clipdir ; then
+			dprint 1 "Clipdir=$clipdir ; $(ls $clipdir/* | wc -l) frames"
 			normalizeFrames $clipdir
 			applyFilters	$clipdir
 			frames2Clip
