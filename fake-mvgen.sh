@@ -231,6 +231,19 @@ function process_args() {
 	initial_setup "$@"
 }
 
+function print_summary() {
+  dprint 0 "================================================================================"
+	dprint 0 "= Audio file: \"$audiofile\""
+	dprint 0 "= Target clip length: $clip_length seconds ($cps clips per second)"
+	dprint 0 "= Minimum source clip length: $minimum_clip_length seconds"
+	dprint 0 "= Source directories: "
+	for i in "$@" ; do
+		dprint 0 "= \t$i"
+	done
+	dprint 0 "= $(wc -l ~/.${pid}-sources) sources"
+  dprint 0 "================================================================================"
+}
+
 function initial_setup() {
 
 	export total_length=$(getLength $audiofile)
@@ -248,14 +261,7 @@ function initial_setup() {
 	for i in "$@" ; do
 		find "$@" -type f
 	done > ~/.${pid}-sources
-	dprint 0 "Audio file: \"$audiofile\""
-	dprint 0 "Target clip length: $clip_length seconds ($cps clips per second)"
-	dprint 0 "Minimum source clip length: $minimum_clip_length seconds"
-	dprint 0 "Source directories: "
-	for i in "$@" ; do
-		dprint 0 "\t$i"
-	done
-	dprint 0 "$(wc -l ~/.${pid}-sources) sources"
+  print_summary
 }
 
 function teardown() {
