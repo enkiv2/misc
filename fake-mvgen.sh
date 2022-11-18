@@ -25,12 +25,12 @@ function help() {
 		dprint 0  "    -filter_$filter\tDo not use $filter filter $def"
 	done
 	dprint 0 "    -nofilters\tDo not use any filters"
-	dprint 0 "  -v\tVerbosity level 1"
-	dprint 0 "  -vv\tVerbosity level 2"
-	dprint 0 "  -vvv\tVerbosity level 3"
-	dprint 0 "  -m length"
-	dprint 0 "     or                      \tSpecify minimum clip length in seconds (default 1/cps)"
-	dprint 0 "  -minimum_clip_length length"
+	dprint 0 "  Verbosity options:"
+	dprint 0 "    -v\tVerbosity level 1"
+	dprint 0 "    -vv\tVerbosity level 2"
+	dprint 0 "    -vvv\tVerbosity level 3"
+	dprint 0 "  Misc options:"
+	dprint 0 "    -m length\tSpecify minimum clip length in seconds (default 1/cps)"
 	exit 1
 }
 
@@ -242,6 +242,7 @@ function print_summary() {
 		dprint 0 "= \t$i"
 	done
 	dprint 0 "= $(wc -l $dir/sources) sources"
+  dprint 0 "= Enabled filters: $enabled_filters"
 	dprint 0 "================================================================================"
 	if [[ $(wc -l $dir/sources | cut -d\  -f 1) -lt 1 ]] ; then
 		dprint 0 "ERROR: No suitable sources; exiting."
