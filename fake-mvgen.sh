@@ -5,6 +5,8 @@ enabled_filters=(randomColorScene randomZoom)
 minimum_clip_length=0
 parallelism=0
 resolution="640:480"
+fps=24
+cps=4
 
 cmdname=$0
 pid=$$
@@ -19,7 +21,7 @@ function dprint() {
 	fi
 }
 function help() {
-	dprint 0  "Usage: $cmdname audiofile fps cps outfile [options...] source_directory [source_directory...]"
+	dprint 0  "Usage: $cmdname audiofile outfile [options...] source_directory [source_directory...]"
 	dprint 0  "Options:"
 	dprint 0  "  Filter options:"
 	for filter in $available_filters ; do 
@@ -33,9 +35,11 @@ function help() {
 	dprint 0 "    -vv\tVerbosity level 2"
 	dprint 0 "    -vvv\tVerbosity level 3"
 	dprint 0 "  Misc options:"
-	dprint 0 "    -m length\tSpecify minimum clip length in seconds (default 1/cps)"
+	dprint 0 "    -m length\tSpecify minimum clip length in seconds (default 1/cps = $((1.0/cps)))"
 	dprint 0 "    -p threads\tSpecify parallelism (default: $parallelism)"
 	dprint 0 "    -r res\tSpecify output resolution (default: $resolution)"
+	dprint 0 "    -fps rate\tSpecify output frame rate (default: $fps)"
+	dprint 0 "    -cps rate\tSpecify number of source clips per second of output (default: $cps)"
 	exit 1
 }
 
@@ -181,14 +185,12 @@ function applyFilters() {
 }
 
 function process_args() {
-	[[ $# -lt 5 ]] && help
+	[[ $# -lt 3 ]] && help
 	[[ "$1" == "-h" ]] && help
 
 	export audiofile=$1
-	export fps=$2
-	export cps=$3
-	export outfile=$4
-	shift ; shift ; shift ; shift
+	export outfile=$2
+	shift ; shift
 	
 	while `echo $1 | grep -q '^[-+]'` ; do
 		opt=$1
@@ -241,6 +243,12 @@ function process_args() {
 		elif [[ "$opt" == "-r" ]] ; then
 			export resolution=$1
 			shift
+		elif [[ "$opt" == "-fps" ]] ; then
+			export fps=$1
+			shift
+		elif [[ "$opt" == "-cps" ]] ; then
+			export cps=$1
+			shift
 		else
 			dprint 0 "Unknown option: $opt"
 			help
@@ -267,6 +275,8 @@ function print_summary() {
 	dprint 0 "= Temp dir: $dir"
 	dprint 0 "= Number of threads: $parallelism"
 	dprint 0 "= Output resolution: $resolution"
+	dprint 0 "=   FPS:             $fps"
+	dprint 0 "=   CPS:             $cps"
 	dprint 0 "================================================================================"
 	if [[ $(wc -l $dir/sources | cut -d\  -f 1) -lt 1 ]] ; then
 		dprint 0 "ERROR: No suitable sources; exiting."
