@@ -4,7 +4,7 @@ available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
 enabled_filters=(randomColorScene randomZoom)
 minimum_clip_length=0
 cmdname=$0
-pid=$$
+pid=$$:A
 dir=~/.fake-mvgen/${pid}
 
 DEBUGLEVEL=0
@@ -80,7 +80,7 @@ function convertFilterHelper() {
 	func=$1
 	desc=$2
 	i=0
-	for item in $(cat ~/.$$-cliplist) ; do
+	for item in $(cat $dir/cliplist) ; do
 		( 
 			setopt SH_WORD_SPLIT
 			convert $item $($func) ${item}-2.jpeg && mv ${item}{-2.jpeg,}
@@ -115,10 +115,10 @@ function filter_randomColorFrame() {
 }
 function filter_zoomIn() {
 	dprint 2 "Zooming in on scene"
-	count=$(wc -l < ~/.$$-cliplist)
+	count=$(wc -l < $dir/cliplist)
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
-	for item in $(cat ~/.$$-cliplist) ; do
+	for item in $(cat $dir/cliplist) ; do
 		( rm -f ${item}-2.jpeg ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.jpeg &&
 		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
@@ -132,10 +132,10 @@ function filter_zoomIn() {
 }
 function filter_zoomOut() {
 	dprint 2 "Zooming out on scene"
-	count=$(wc -l < ~/.$$-cliplist)
+	count=$(wc -l < $dir/cliplist)
 	delta=$((200/count))	# hard-code to zoom to middle 240x80 pixel square, on 640x480 image
 	i=0
-	for item in $(tac ~/.$$-cliplist) ; do
+	for item in $(tac $dir/cliplist) ; do
 		( rm -f ${item}-2.jpeg ; convert $item -crop $(( 640-(2*i*delta) ))x$(( 480-(2*i*delta) ))+$((i*delta))+$((i*delta)) +repage ${item}-2.jpeg &&
 		mv ${item}{-2.jpeg,} ) &
 		i=$((i+1))
@@ -373,7 +373,7 @@ function frames2Clip() {
 			echo "$thing" >> $dir/cliplist
 			i=$((i+1))
 		done
-		rm -f ~/.$$-temp
+		rm -f $dir/temp
 	fi
 	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o $dir/clip-${current_clips}.avi $(cat $dir/cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 }
@@ -419,13 +419,13 @@ function mergeClips() {
 	export cliplist=$(
 		i=$(floor $((current_clips-9)) )
 		if [[ $i -lt 0 ]] ; then i=0 ; fi
-		while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo ~/.$$-clip-$i.avi ; i=$((i+1)) ; done 
+		while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo $dir/clip-$i.avi ; i=$((i+1)) ; done 
 	)
-	if [[ -e ~/.$$-clip.avi ]] ; then
+	if [[ -e $dir/clip.avi ]] ; then
 		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o $dir/clip-new.avi $dir/clip.avi $cliplist
 		mv $dir/clip-new.avi $dir/clip.avi
 	else
-		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o ~/.$$-clip.avi $cliplist
+		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o $dir/clip.avi $cliplist
 	fi
 	for item in $cliplist ; do rm -f $item ; done
 	unsetopt SH_WORD_SPLIT
@@ -436,7 +436,7 @@ function extractRandomClip() {
 	source=$(shuf -n 1 < $dir/sources)
 	sl=$(floor $(getLength "$source"))
 	while [[ $(floor $((sl*1000))) -lt $(floor $((minimum_clip_length * 1000))) ]] ; do	
-		source=$(shuf -n 1 < ~/.$$-sources)
+		source=$(shuf -n 1 < $dir/sources)
 		sl=$(floor $(getLength "$source"))
 	done
 
@@ -464,7 +464,7 @@ function main() {
 	done
 	mergeClips
 	dprint 1 "Creating final video"
-	mencoder_wrap -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" ~/.$$-clip.avi
+	mencoder_wrap -quiet -oac pcm -ovc lavc -audiofile "$audiofile" -vf scale=$resolution -o "$outfile" $dir/clip.avi
 	teardown
 }
 
