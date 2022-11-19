@@ -3,7 +3,7 @@
 available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
 enabled_filters=(randomColorScene randomZoom)
 minimum_clip_length=0
-parallelism=0
+parallelism=20
 resolution="640:480"
 fps=24
 cps=4
