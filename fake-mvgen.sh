@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
-available_filters=(randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
-enabled_filters=(randomColorScene randomZoom)
+available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
+enabled_filters=(mat randomColorScene randomZoom)
 minimum_clip_length=0
 parallelism=20
 resolution="640:480"
@@ -108,6 +108,7 @@ function randomColor() {
 	echo "#${red}${green}${blue}"
 }
 
+
 function convertHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
@@ -134,6 +135,16 @@ function convertFilterHelper() {
 			i=0
 		fi
 	done ; wait
+}
+
+function mat() {
+	res=$(echo $resolution | sed 's/:/x/')
+	echo "-resize $res -background black -gravity center -extent $res"
+}
+
+function filter_mat() {
+	dprint 2 "mat filter"
+	convertFilterHelper "mat" "mat"
 }
 
 function rcs() {
@@ -408,7 +419,12 @@ function normalizeFrames() {
 function clip2Frames() {
 	pushd $4
 	st=$1 ; end=$2 ; source=$3
-	mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+	if [[ ${enabled_filters[(ie)mat]} -le ${#enabled_filters} ]] ; then
+		dprint 2 "mat filter enabled: disabling vf scale"
+		mplayer_wrap -quiet -ao null -vo jpeg -ss $st -endpos $end "$source"
+	else
+		mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+	fi
 	popd
 }
 
