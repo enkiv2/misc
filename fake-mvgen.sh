@@ -47,6 +47,28 @@ function help() {
 function getLength() {
 	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
 }
+function getFPS() {
+	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_VIDEO_FPS=[0-9\.]*$' || echo 0) | sed 's/^ID_VIDEO_FPS*=//;s/\..*$//' )2>/dev/null
+}
+function convertLength() {
+	len=$1
+	this_fps=$2 
+	if [[ $this_fps -lt $fps ]] ; then
+		len=$(( (len*fps)/this_fps ))
+	fi
+	echo $len
+}
+function convertLengthInverse() {
+	len=$1
+	this_fps=$2
+	if [[ $this_fps -lt $fps ]] ; then
+		len=$(( (len*this_fps)/fps ))
+	fi
+	echo $len
+}
+function getLengthAdjusted() {
+	convertLength $(getLength "$@") $(getFPS "$@")
+}
 function floor() {
 	echo "$@" | cut -d. -f 1
 }
@@ -89,7 +111,7 @@ function randomColor() {
 function convertHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
-	dprint 0 "Running shell command: " convert "$item" "$@" "${item}-2.jpeg"
+	dprint 2 "Running shell command: " convert "$item" "$@" "${item}-2.jpeg"
 	convert "$item" "$@" "${item}-2.jpeg"
 	[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
 }
@@ -164,10 +186,9 @@ function zoomFilterHelper() {
 			i=0
 		fi
 	done; wait
-	exit 1
 }
 function filter_zoomIn() {
-	dprint 0 "Zooming in on scene"
+	dprint 2 "Zooming in on scene"
 	zoomFilterHelper cat
 }
 function filter_zoomOut() {
@@ -378,21 +399,10 @@ function areWeUsingFrames() {
 }
 
 function checkFramesOK() {
-	[[ $(ls $1 | wc -l) -gt 0 ]]
+	[[ $(ls $1 | wc -l) -ge $clip_frames ]]
 }
 function normalizeFrames() {
-	frame_count=$(ls $1 | wc -l)
-	frame_ratio=$(floor $(( (1.0*frame_count) / clip_frames )) )
-	frame_ratio_i=$(floor $(( (1.0*clip_frames) / frame_count )) )
-	ls $1/* | (
-		if [[ $frame_ratio -gt 1 ]] ; then
-			skip $frame_ratio
-		elif [[ $frame_ratio_i -gt 1 ]] ; then
-			dup $frame_ratio_i
-		else
-			cat
-		fi
-	)  > $dir/cliplist
+	ls $1/* | head -n $clip_frames > $dir/cliplist
 }
 
 function clip2Frames() {
@@ -429,19 +439,20 @@ function clipExtractSuccess() {
 
 function extractClip() {
 	clipdir=$dir/clip
-	st=$1 ; source=$2
-	end=$((1+clip_length))
+	st=$1 ; cl=$2 ; source=$3
+	end=$((1+cl))
 	dprint 1 "Getting clip: $(echo $st | sed 's/\.$//')s:$(echo $((st+end)) | sed 's/\.$//')s of \"$source\"..."
 	if [[ areWeUsingFrames ]] ; then
 		clip2Frames $st $end $source $clipdir
 		if checkFramesOK $clipdir ; then
-			dprint 1 "Clipdir=$clipdir ; $(ls $clipdir/* | wc -l) frames"
+			dprint 2 "Clipdir=$clipdir ; $(ls $clipdir/* | wc -l) frames"
 			normalizeFrames $clipdir
 			applyFilters	$clipdir
 			frames2Clip
 			frameCleanup $clipdir
 			clipExtractSuccess
 		else
+			dprint 2 "Clipdir=$clipdir ; $(ls $clipdir/* | wc -l) frames"
 			dprint 1 "Frames not OK"
 			extractRandomClip
 		fi
@@ -474,14 +485,28 @@ function mergeClips() {
 
 function extractRandomClip() {
 	source=$(shuf -n 1 < $dir/sources)
-	sl=$(floor $(getLength "$source"))
+	if [[ areWeUsingFrames ]] ; then
+		lenCmd=getLengthAdjusted
+	else
+		lenCmd=getLength
+	fi
+	sl=$(floor $($lenCmd "$source"))
 	while [[ $(floor $((sl*1000))) -lt $(floor $((minimum_clip_length * 1000))) ]] ; do	
 		source=$(shuf -n 1 < $dir/sources)
-		sl=$(floor $(getLength "$source"))
+		sl=$(floor $($lenCmd "$source"))
 	done
+	cl=$clip_length
+	if [[ areWeUsingFrames ]] ; then
+		targetFPS=$(getFPS "$source")
+		cl=$(convertLength $cl $targetFPS)
+	fi	
 
-	st=$(( RANDOM%(sl-clip_length) ))
-	extractClip $st $source
+	st=$(( RANDOM%(sl-cl) ))
+	if [[ areWeUsingFrames ]] ; then
+		st=$(convertLengthInverse $st $targetFPS)
+	fi
+	dprint 2 "st: $st cl: $cl length: $(getLength "$source") fps: $(getFPS "$source")"
+	extractClip $st $cl $source
 
 	check=$(floor $((current_clips % 10)) )
 	if [[ $check -eq 0 ]] ; then
