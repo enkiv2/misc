@@ -410,10 +410,10 @@ function areWeUsingFrames() {
 }
 
 function checkFramesOK() {
-	[[ $(ls $1 | wc -l) -ge $clip_frames ]]
+	[[ $(find $1 -type f | wc -l) -ge $clip_frames ]]
 }
 function normalizeFrames() {
-	ls $1/* | head -n $clip_frames > $dir/cliplist
+	find $1 -type f | head -n $clip_frames > $dir/cliplist
 }
 
 function clip2Frames() {
@@ -461,14 +461,14 @@ function extractClip() {
 	if [[ areWeUsingFrames ]] ; then
 		clip2Frames $st $end $source $clipdir
 		if checkFramesOK $clipdir ; then
-			dprint 2 "Clipdir=$clipdir ; $(ls $clipdir/* | wc -l) frames"
+			dprint 2 "Clipdir=$clipdir ; $(find $clipdir -type f | wc -l) frames"
 			normalizeFrames $clipdir
 			applyFilters	$clipdir
 			frames2Clip
 			frameCleanup $clipdir
 			clipExtractSuccess
 		else
-			dprint 2 "Clipdir=$clipdir ; $(ls $clipdir/* | wc -l) frames"
+			dprint 2 "Clipdir=$clipdir ; $(find $clipdir -type f | wc -l) frames"
 			dprint 1 "Frames not OK"
 			extractRandomClip
 		fi
