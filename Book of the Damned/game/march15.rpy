@@ -13,6 +13,7 @@ label march15:
     "Taxi driver" "{i}such a pretty young girl not so many fares are so pretty girls these days grow up so fast did i remember to shut that upstairs window it sure is pouring too bad she isn't wearing white soaked already no no she would need to beg first what's that van doing there sure is an old one he's wet{/i}"
     n "Misato looked out the window."
     scene van rain splash
+    n "There was a man stranded by the side of the road, by a van."
     misato "Driver, pick up that man please."
     "Taxi driver" "Understood."
     scene taxi rain
@@ -48,7 +49,6 @@ label march15:
     n "She got out of the car and grabbed her bag."
     scene path entrance night
     n "Even though it was night, the moon was bright enough in the now-clear sky that she didn't need to pull out her phone for illumination."
-    scene path night
     n "Nevertheless, thick fog gathered around her heels, and the chill made her wish she had worn leggings."
     scene mansion night
     n "The building rose out of the fog, in the center of a clearing surrounded by trees."
