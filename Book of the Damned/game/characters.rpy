@@ -6,11 +6,11 @@ define n = Character("", what_prefix="{i}", what_suffix="{/i}")
 define misato = Character("Umeji Misato") # room 4
 define trust_player=0
 define name=""
-define akane = Character("Akane") # room 3
+define akane = Character("Akane") # room 1
 define trust_akane=0
 define yuuko = Character("Hinamori Yuuko") # room 2
 define trust_yuuko=0
-define miko = Character("Umeji Miko") # room 1
+define miko = Character("Umeji Miko") # room 3
 define trust_miko=25
 define hanabi = Character("Tamaya Hanabi") # room 8
 define trust_hanabi=0
@@ -53,12 +53,12 @@ The Umeji Sisters:
 
 {space=75}Umeji Miko (16) - the middle child. Though she doesn't remember it
 {space=80}clearly, she was once possessed by a fox. She loves kung-fu movies,
-{space=80}and is a skilled martial artist. She stays in room #1.
+{space=80}and is a skilled martial artist. She stays in room #3.
 
 {space=75}Umeji Mina (14) - the awkward and bookish youngest Umeji sister.
 {space=80}She has not been invited to the compound in Yomiyama.
 
-Bruno Akane (17) - half italian (on her father's side), she is self-conscious about her name. She loves 60s and 70s italian horror cinema. She stays in room #3.
+Bruno Akane (17) - half italian (on her father's side), she is self-conscious about her name. She loves 60s and 70s italian horror cinema. She stays in room #1.
 
 Tamaya Hanabi (17) - Akane's friend since childhood. She is obsessed with classic detective fiction. She stays in room #8.
 
