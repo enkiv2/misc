@@ -98,7 +98,7 @@ label march15:
     scene house map
     akane "Apparently it's laid out like a church, or a cathedral, or something. Those doors to the left and right there lead to short hallways that lead to longer hallways against the left and right side of the building."
     akane "The rooms are off those long hallways."
-    akane "Mine is on the left hand side, the first door on the left: room 3."
+    akane "Mine is on the left hand side, the first door on the left: room 1."
     $ trust_akane += 1
     scene hall short night
     akane "The electric system here is old-fashioned, so you'll have to get an adapter if you want to charge your phone."
