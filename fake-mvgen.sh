@@ -449,8 +449,7 @@ function remove_short_sources_parallel() {
 		remove_short_sources_r $endpt $startpt > $dir/sources_job_$i &
 		i=$((i+1))
 	done ; wait
-	i=0
-	while [[ $i -lt $num_jobs ]]; do
+	for i in {0..$((num_jobs-1))} ; do
 		dshell 2 cat $dir/sources_job_$i
 		i=$((i+1))
 	done
