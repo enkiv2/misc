@@ -441,17 +441,14 @@ function remove_short_sources_parallel() {
 	fi
 	sources_per_job=$((num_sources/num_jobs))
 	dprint 0 "Checking length of $num_sources sources in $num_jobs batches of $sources_per_job sources each."
-	i=0
-	while [[ $i -lt $num_jobs ]] ; do
+	for i in {0..$((num_jobs-1))} ; do
 		startpt=$((i*sources_per_job))
 		endpt=$((sources_per_job+startpt))
 		dprint 2 "remove_short_sources_r $endpt $startpt > $dir/sources_job_$i &"
 		remove_short_sources_r $endpt $startpt > $dir/sources_job_$i &
-		i=$((i+1))
 	done ; wait
 	for i in {0..$((num_jobs-1))} ; do
 		dshell 2 cat $dir/sources_job_$i
-		i=$((i+1))
 	done
 	leftovers_start=$((num_jobs*sources_per_job))
 	if [[ $leftovers_start -lt $num_sources ]] ; then
