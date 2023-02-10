@@ -20,6 +20,13 @@ function dprint() {
 		echo "$@" > /dev/stderr
 	fi
 }
+
+function dshell() {
+	d=$1 ; shift
+	dprint $d "Running shell command: " "$@"
+	"$@"
+}
+
 function help() {
 	dprint 0  "Usage: $cmdname audiofile outfile [options...] source_directory [source_directory...]"
 	dprint 0  "Options:"
@@ -111,13 +118,13 @@ function randomColor() {
 function convertCompositeHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
-	dprint 2 "Running shell command: " convert "$item" "$@" "png32:${item}-2.png"
-	convert "$item" "$@" "png32:${item}-2.png"
-	[[ -e ${item}-2.jpg ]] && {
-		dprint 2 "Running shell command: " composite ${item}-2.png ${item} ${item}-2.jpeg
-		composite ${item}-2.png ${item} ${item}-2.jpeg
+	convert "$item" "png32:${item}.png"
+	dshell 2 convert "$item" "$@" "png32:${item}-2.png"
+	[[ -e ${item}-2.png ]] && {
+		dshell 2 composite ${item}-2.png ${item}.png ${item}-3.png
+		dshell 2 convert ${item}-3.png ${item}-2.jpeg
 		[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
-		[[ -e ${item}-2.png ]] && rm ${item}-2.png
+		rm -f ${item}.png ${item}-2.png ${item}-3.png
 	}
 }
 
@@ -142,11 +149,11 @@ function convertCompositeFilterHelper() {
 }
 
 function mirrorh() {
-	echo "-flop -alpha set -channel Alpha -evaluate set 50%"
+	echo "-flop -matte -channel A +level 0,50% +channel"
 }
 
 function mirrorv() {
-	echo "-flip -alpha set -channel Alpha -evaluate set 50%"
+	echo "-flip -matte -channel A +level 0,50% +channel"
 }
 
 function filter_mirrorh() {
