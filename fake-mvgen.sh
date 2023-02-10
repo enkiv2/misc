@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom fliph flipv mirrorh mirrorv kaleid)
+available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom fliph flipv mirrorh mirrorv kaleid randomFilter)
 enabled_filters=(mat)
 minimum_clip_length=0
 parallelism=20
@@ -294,6 +294,13 @@ function filter_randomZoom() {
 	else
 		filter_zoomOut
 	fi
+}
+
+function filter_randomFilter() {
+	num_filters=${#available_filters}
+	i=$((RANDOM%num_filters+1))
+	filter=${available_filters[i]}
+	filter_$filter
 }
 
 function applyFilters() {
