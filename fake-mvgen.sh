@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
 available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom fliph flipv mirrorh mirrorv kaleid)
-enabled_filters=(mat randomColorScene randomZoom)
+enabled_filters=(mat)
 minimum_clip_length=0
 parallelism=20
 resolution="640:480"
