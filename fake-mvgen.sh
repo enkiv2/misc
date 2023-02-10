@@ -423,18 +423,56 @@ function get_file_line() {
 	head -n $1 "$2" | tail -n 1
 }
 
+function remove_short_sources_r() {
+	num_sources=$1
+	i=$2
+	while [[ $i -le num_sources ]] ; do
+		x="$(get_file_line $i $dir/sources)"
+		print_if_long_enough "$x"
+		i=$((i+1))
+	done
+}
+
+function remove_short_sources_parallel() {
+	num_sources=$1
+	num_jobs=$parallelism
+	if [[ $num_jobs -gt $num_sources ]]; then
+		num_jobs=$num_sources
+	fi
+	sources_per_job=$((num_sources/num_jobs))
+	dprint 0 "Checking length of $num_sources sources in $num_jobs batches of $sources_per_job sources each."
+	i=0
+	while [[ $i -lt $num_jobs ]] ; do
+		dprint 0 "remove_short_sources_r $sources_per_job $((i*sources_per_job)) > $dir/sources_job_$i &"
+		remove_short_sources_r $sources_per_job $((i*sources_per_job)) > $dir/sources_job_$i &
+		i=$((i+1))
+	done ; wait
+	i=0
+	while [[ $i -lt $num_jobs ]]; do
+		cat $dir/sources_job_$i
+		i=$((i+1))
+	done
+	leftovers_start=$((num_jobs*sources_per_job))
+	if [[ $leftovers_start -lt $num_sources ]] ; then
+		leftovers=$((num_sources-leftovers_start))
+		dprint 0 "leftovers_start: $leftovers_start, leftovers: $leftovers, num_sources: $num_sources"
+		remove_short_sources_r $((num_jobs*sources_per_job)) $leftovers
+	fi
+	
+}
+
 function remove_short_sources() {
 	num_sources="$(wc -l ${dir}/sources | cut -d\  -f 1)"
 	dprint 0 "Total sources: $num_sources"
 	dprint 0 "Removing sources less than $minimum_clip_length seconds long..."
 	ml=$((minimum_clip_length * 1000))
 	ml=$(floor $ml)
-	i=0
-	while [[ $i -lt num_sources ]] ; do
-		x="$(get_file_line $i $dir/sources)"
-		print_if_long_enough "$x"
-		i=$((i+1))
-	done > $dir/sources2
+	if [[ $parallelism -gt 0 ]]; then
+		remove_short_sources_parallel $num_sources
+	else
+		remove_short_sources_r $num_sources 0 
+	fi > $dir/sources2
+	exit 1
 	mv $dir/sources{2,}
 	dprint 0 ""
 	dprint 0 "Current sources: $(wc -l $dir/sources)"
