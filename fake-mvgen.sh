@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom)
+available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom fliph flipv mirrorh mirrorv kaleid)
 enabled_filters=(mat randomColorScene randomZoom)
 minimum_clip_length=0
 parallelism=20
@@ -108,6 +108,63 @@ function randomColor() {
 	echo "#${red}${green}${blue}"
 }
 
+function convertCompositeHelper() {
+	item="$1" ; shift
+	rm -f ${item}-2.jpeg
+	dprint 2 "Running shell command: " convert "$item" "$@" "png32:${item}-2.png"
+	convert "$item" "$@" "png32:${item}-2.png"
+	[[ -e ${item}-2.jpg ]] && {
+		dprint 2 "Running shell command: " composite ${item}-2.png ${item} ${item}-2.jpeg
+		composite ${item}-2.png ${item} ${item}-2.jpeg
+		[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
+		[[ -e ${item}-2.png ]] && rm ${item}-2.png
+	}
+}
+
+function convertCompositeFilterHelper() {
+	func=$1
+	desc=$2
+	i=0
+	for item in $(cat $dir/cliplist) ; do
+		( 
+			setopt SH_WORD_SPLIT
+			convertCompositeHelper $item $($func)
+			unsetopt SH_WORD_SPLIT
+		)  &
+		i=$((i+1))
+		if [[ $i -gt $parallelism ]] ; then
+			dprint 2 "Waiting for $desc to finish on batch...\c"
+			wait
+			dprint 2 "\tdone"
+			i=0
+		fi
+	done ; wait
+}
+
+function mirrorh() {
+	echo "-flop -alpha set -channel Alpha -evaluate set 50%"
+}
+
+function mirrorv() {
+	echo "-flip -alpha set -channel Alpha -evaluate set 50%"
+}
+
+function filter_mirrorh() {
+	dprint 2 "horizontal mirror filter"
+	convertCompositeFilterHelper "mirrorh" "mirrorh"
+}
+
+function filter_mirrorv() {
+	dprint 2 "vertical mirror filter"
+	convertCompositeFilterHelper "mirrorv" "mirrorv"
+}
+
+function filter_kaleid() {
+	dprint 2 "kaleidoscope filter"
+	convertCompositeFilterHelper "mirrorh" "mirrorh"
+	convertCompositeFilterHelper "mirrorv" "mirrorv"
+}
+	
 
 function convertHelper() {
 	item="$1" ; shift
@@ -145,6 +202,24 @@ function mat() {
 function filter_mat() {
 	dprint 2 "mat filter"
 	convertFilterHelper "mat" "mat"
+}
+
+function fliph() {
+	echo "-flop"
+}
+
+function filter_fliph() {
+	dprint 2 "horizontal flip filter"
+	convertFilterHelper "fliph" "fliph"
+}
+
+function flipv() {
+	echo "-flip"
+}
+
+function filter_flipv() {
+	dprint 2 "vertical flip filter"
+	convertFilterHelper "flipv" "flipv"
 }
 
 function rcs() {
