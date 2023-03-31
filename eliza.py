@@ -828,13 +828,18 @@ def initialize_syns():
 												s.append(norm_lemma_name(l))
 								s.append(w)
 								syns[w]=s
+								for ww in s:
+										syns[ww]=s+[w]
+										syns[ww].remove(ww)
+				for w in syns:
 						if has_tracery:
-								grammar_rules["SYN_"+w.upper()]=syns[w]
+								grammar_rules["SYN_"+w.upper().replace(" ", "_")]=syns[w]
 		dprint("Done initializing synonyms.", 1)
 
 common_swaps = {
-		"father": ["mother", "sister", "brother", "uncle", "aunt"], 
-
+		"father": ["mother", "sister", "brother", "uncle", "aunt"],
+}
+common_swaps2 = { # swaps that do not need to be applied consistently, and instead work more like synonyms
 		"i don't":["do i not"],
 		"don't you": ["do you not"], 
 		"don't":["do not"], 
@@ -854,23 +859,34 @@ common_swaps = {
 		"similarities":["connections", "links"],
 		"loves":["likes"],
 		"is like":["is similar to", "is the same as"],
+		"hello":["hi", "howdy", "how do you do"],
 }
-def initialize_common_swaps():
-		dprint("Initializing swaps...", 1)
-		keys = list(common_swaps.keys())
+
+def initialize_swap_helper(structure):
+		keys = list(structure.keys())
 		for k in keys:
-				vals = common_swaps[k]
+				vals = structure[k]
 				for v in vals:
-						common_swaps[v]=list(set([k]+common_swaps.get(v, [])))
+						structure[v]=list(set([k]+structure.get(v, [])+structure.get(k, [])))
 		if has_tracery:
-				for k in common_swaps.keys():
-						grammar_rules["SWAP_"+k.upper()]=common_swaps[k]
+				for k in structure.keys():
+						grammar_rules["SWAP_"+k.upper().replace(" ", "_")]=structure[k]
+		return structure
+		
+
+def initialize_common_swaps():
+		global common_swaps, common_swaps2
+		dprint("Initializing swaps...", 1)
+		common_swaps_2=initialize_swap_helper(common_swaps2)
+		common_swaps = initialize_swap_helper(common_swaps)
+		common_swaps, ct=dict_merge(common_swaps, common_swaps2)
 		dprint("Done initializing swaps.", 1)
+		dprint("common_swaps="+str(common_swaps), -1)
 
 def found_kws(s, kws):
 		matched=[]
 		for kw in kws:
-				if s.find(kw)>=0:
+				if s.lower().find(kw.lower())>=0:
 						matched.append(kw)
 		return matched
 
@@ -895,26 +911,32 @@ def expand_syns(s, use_tracery=False):
 def expand_swaps(s, use_tracery=False):
 		return expand_kw_dict(s, common_swaps, use_tracery, "SWAP")
 
+def expand_swaps2(s, use_tracery=False):
+		return expand_kw_dict(s, common_swaps2, use_tracery, "SWAP")
+
 def expand_str(s, use_tracery=False):
 		expanded = []
 		if has_nltk:
 				expanded = expand_syns(s, use_tracery)
-		expanded+=expand_swaps(s)
+		expanded+=expand_swaps2(s)
 		return expanded
 
-chunkpat=re.compile("([A-Za-z]+|[^A-Za-z]*)")
+chunkpat=re.compile("([A-Za-z_-]+|[^A-Za-z_-]*)")
 def replace_words(s, kw, subst):
+		kw=kw.lower()
+		if subst[0]=="#" and subst[-1]=="#":
+				subst=subst.replace(" ", "_")
 		if kw.find(" "):
-				p=re.compile("([^A-Za-z])("+kw+")([^A-Za-z])")
-				p2=re.compile("^("+kw+")([^A-Za-z])")
-				p3=re.compile("([^A-Za-z])("+kw+")$")
+				p=re.compile("([^A-Za-z_-])("+kw+")([^A-Za-z_-])")
+				p2=re.compile("^("+kw+")([^A-Za-z_-])")
+				p3=re.compile("([^A-Za-z_-])("+kw+")$")
 				return p.sub("\\1"+subst+"\\3", 
 						p2.sub(subst+"\\2", 
 								p3.sub("\\1"+subst, s)))
 		chunks=chunkpat.split(s)
 		ret=[]
 		for c in chunks:
-				if c==kw:
+				if c.lower()==kw:
 						ret.append(subst)
 				else:
 						ret.append(c)
@@ -941,7 +963,16 @@ def expand_key(k):
 				for kw in kws:
 						expanded, ct=dict_merge(expanded, expand_kw_reflexive(kk, kw, common_swaps, rules))
 						merge_count+=ct
-		return expanded, merge_count
+		expanded2={}
+		for key in expanded:
+				ax=[]
+				for t in expanded[key]:
+						ax+=expand_kw_dict(t, common_swaps2, has_tracery, 'SWAP')
+						ax+=expand_kw_dict(t, syns, has_tracery, 'SYN')
+						dprint("String \""+t+"\" has been expanded to "+str(ax), -1)
+				expanded2[key]=list(set(ax))
+		expanded, ct = dict_merge(expanded, expanded2)
+		return expanded, merge_count+ct
 
 expand_value_cache={}
 def expand_value(v):
