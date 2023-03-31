@@ -899,7 +899,7 @@ def expand_rule(k):
 		return ct
 
 def expand_rules(merge_count=0, ttl=10):
-		rules["*?"]=list(set(rules.get("*?", [])+default_responses))
+		rules["*?x"]=list(set(rules.get("*?x", [])+default_responses))
 		rule_keys = list(rules.keys())
 		ct=0
 		for k in rule_keys:
