@@ -55,7 +55,6 @@ def interact(prompt, rules, default_responses):
 				try:
 						# Remove the punctuation from the input and convert to upper-case
 						# to simplify matching.
-						print("hello", flush=True)
 						input = remove_punct(raw_input(prompt).upper())
 						if not input:
 								continue
@@ -86,7 +85,7 @@ def respond(rules, input, default_responses):
 
 		# When rules are found, choose one and one of its responses at random.
 		# If no rule applies, we use the default rule.
-		responses, replacements =	{}, {}
+		responses, replacements =	[], {}
 		if matching_rules:
 				responses, replacements = random.choice(matching_rules)
 		responses.extend(default_responses)
