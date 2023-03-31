@@ -72,11 +72,12 @@ except AttributeError as e:
 DEBUGLEVEL=0
 log=open("eliza.log", "w+")
 
-def dprint(value, debug=0):
+def dprint(value, debug=0, nl=True):
 		if debug<=DEBUGLEVEL:
 				sys.stderr.write(value)
-				sys.stderr.write("\t\tdebug="+str(debug)+" <= DEBUGLEVEL="+str(DEBUGLEVEL))
-				sys.stderr.write("\n")
+				if nl:
+						sys.stderr.write("\t\tdebug="+str(debug)+" <= DEBUGLEVEL="+str(DEBUGLEVEL))
+						sys.stderr.write("\n")
 				sys.stderr.flush()
 
 def wlog(value):
@@ -106,6 +107,19 @@ def interact(prompt, rules, default_responses):
 				wlog(resp)
 				print(resp)
 
+def dprint_matching_rules(matching_rules, debug=1):
+		dprint("Matching rules:\n", debug, False)
+		for item in matching_rules:
+				(transforms, replacements, pat) = item
+				dprint("\t\""+str(pat)+"\"\n", debug, False)
+				dprint("\t\tTransforms:\n", debug, False)
+				for t in transforms:
+						dprint("\t\t\t\""+t+"\"\n", debug, False)
+				dprint("\n\t\tReplacements:\n", debug, False)
+				for r in replacements:
+						dprint("\t\t\t\""+r+"\"\n", debug, False)
+		dprint("Total matching rules: "+str(len(matching_rules)), debug)
+				
 
 def respond(rules, s, default_responses):
 		"""Respond to an input sentence according to the given rules."""
@@ -118,15 +132,17 @@ def respond(rules, s, default_responses):
 				pattern = pattern.split()
 				replacements = match_pattern(pattern, s)
 				if replacements:
-						matching_rules.append((transforms, replacements))
+						matching_rules.append((transforms, replacements, pattern))
 						num_transforms+=len(transforms)
 						num_replacements+=len(replacements)
 
 		# When rules are found, choose one and one of its responses at random.
 		# If no rule applies, we use the default rule.
 		dprint("There are "+str(len(matching_rules))+" matching rules with a total of "+str(num_transforms)+" transforms and "+str(num_replacements)+" replacements")
-		matching_rules.append((default_responses, {}))
-		responses, replacements = random.choice(matching_rules)
+		matching_rules.append((default_responses, {}, "DEFAULT"))
+		dprint_matching_rules(matching_rules, 0)
+		responses, replacements, pat = random.choice(matching_rules)
+		dprint("selected pattern \""+str(pat)+"\"")
 		dprint("responses = "+str(responses))
 		response = random.choice(responses)
 		if has_tracery:
@@ -748,7 +764,7 @@ def initialize_tracery():
 				grammar = tracery.Grammar(grammar_rules)
 				dprint("Tracery initialized.", 1)
 
-need_syns = ["glad", "sad", "happy", "depressed"]
+need_syns = ["glad", "sad", "happy", "depressed", "hello", "goodbye"]
 syns = {}
 def norm_lemma_name(l):
 		name=l.name().replace("_ ", " ")
@@ -946,7 +962,7 @@ def main():
 				initialize_syns()
 		initialize_common_swaps()
 		dprint("Done initializing.", 1)
-		interact('> ', postprocess_rules(), default_responses)
+		interact('> ', postprocess_rules(), list([x.upper() for x in default_responses]))
 		log.close()
 
 if __name__ == '__main__':
