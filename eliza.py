@@ -810,7 +810,7 @@ def initialize_tracery():
 				grammar = tracery.Grammar(grammar_rules)
 				dprint("Tracery initialized.", 1)
 
-need_syns = ["glad", "sad", "happy", "depressed", "hello", "goodbye"]
+need_syns = ["glad", "sad", "happy", "depressed", "hello", "goodbye", "explain", "rephrase", "feel", "certain", "sure", "understand", "continue", "think", "thinking"]
 syns = {}
 def norm_lemma_name(l):
 		name=l.name().replace("_", " ")
@@ -832,7 +832,29 @@ def initialize_syns():
 								grammar_rules["SYN_"+w.upper()]=syns[w]
 		dprint("Done initializing synonyms.", 1)
 
-common_swaps = {"father": ["mother"]}
+common_swaps = {
+		"father": ["mother", "sister", "brother", "uncle", "aunt"], 
+
+		"i don't":["do i not"],
+		"don't you": ["do you not"], 
+		"don't":["do not"], 
+		"aren't you":["are you not"],
+		"aren't":["are not"],
+		"i'm not":["i am not"],
+		"i'm":["i am"],
+		"i can't":["can i not"],
+		"you can't":["can you not"],
+
+		"continue":["go on"], 
+		"dream":["fantasy", "reverie", "vision"], 
+		"dreams":["fantasies", "reveries", "visions"], 
+		"want":["need", "desire"],
+		"wants":["needs", "desires"],
+		"similarity":["connection", "link"],
+		"similarities":["connections", "links"],
+		"loves":["likes"],
+		"is like":["is similar to", "is the same as"],
+}
 def initialize_common_swaps():
 		dprint("Initializing swaps...", 1)
 		keys = list(common_swaps.keys())
@@ -877,10 +899,18 @@ def expand_str(s, use_tracery=False):
 		expanded = []
 		if has_nltk:
 				expanded = expand_syns(s, use_tracery)
+		expanded+=expand_swaps(s)
 		return expanded
 
 chunkpat=re.compile("([A-Za-z]+|[^A-Za-z]*)")
 def replace_words(s, kw, subst):
+		if kw.find(" "):
+				p=re.compile("([^A-Za-z])("+kw+")([^A-Za-z])")
+				p2=re.compile("^("+kw+")([^A-Za-z])")
+				p3=re.compile("([^A-Za-z])("+kw+")$")
+				return p.sub("\\1"+subst+"\\3", 
+						p2.sub(subst+"\\2", 
+								p3.sub("\\1"+subst, s)))
 		chunks=chunkpat.split(s)
 		ret=[]
 		for c in chunks:
@@ -1006,10 +1036,10 @@ def dprint_rules(debug=0, structure=None):
 def postprocess_rules():
 		# We need the rules in a list containing elements of the following form:
 		# `(input pattern, [output pattern 1, output pattern 2, ...]`
-		dprint("Ruleset size before expansion: "+rule_size_summary(), 0)
+		dprint("Ruleset size before expansion: "+rule_size_summary(), -1)
 		expand_rules()
-		dprint("Ruleset size after expansion: "+rule_size_summary(), 0)
-		dprint_rules(0)
+		dprint("Ruleset size after expansion: "+rule_size_summary(), -1)
+		dprint_rules(-1)
 		initialize_tracery()
 		dprint("Postprocessing rules..",1)
 		rules_list = []
