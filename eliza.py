@@ -70,7 +70,7 @@ except AttributeError as e:
 		letters = string.ascii_letters
 
 
-DEBUGLEVEL=0
+DEBUGLEVEL=-1
 log=open("eliza.log", "w+")
 
 def dprint(value, debug=0, nl=True):
