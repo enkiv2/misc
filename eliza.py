@@ -32,6 +32,7 @@ import random
 import string
 import sys
 import json
+import re
 
 try:
 		import tracery
@@ -726,7 +727,7 @@ def dict_merge(p, q):
 		dirty_count=0
 		for k,v in q.items():
 				temp=list(set(v+p.get(k, [])))
-				if p[k] != temp:
+				if p.get(k, []) != temp:
 						dirty_count+=1
 				p[k]=temp
 		return p, dirty_count
@@ -762,7 +763,7 @@ def initialize_syns():
 								s.append(w)
 								syns[w]=s
 						if has_tracery:
-								grammar_rules["SYN_"+w]=syns[w]
+								grammar_rules["SYN_"+w.upper()]=syns[w]
 		dprint("Done initializing synonyms.")
 
 common_swaps = {"father": ["mother"]}
@@ -775,7 +776,7 @@ def initialize_common_swaps():
 						common_swaps[v]=list(set([k]+common_swaps.get(v, [])))
 		if has_tracery:
 				for k in common_swaps.keys():
-						grammar_rules["SWAP_"+k]=common_swaps[k]
+						grammar_rules["SWAP_"+k.upper()]=common_swaps[k]
 		dprint("Done initializing swaps.")
 
 def found_kws(s, kws):
@@ -785,19 +786,19 @@ def found_kws(s, kws):
 						matched.append(kw)
 		return matched
 
-def expand_kw(s, kw, use_tracery=False, tracery_pfx=""):
+def expand_kw(s, kw, struct, use_tracery=False, tracery_pfx=""):
 		expanded=[]
 		if use_tracery:
-				expanded.append(s.replace(kw, "#"+tracery_pfx+"_"+kw+"#"))
+				expanded.append(replace_words(s, kw, "#"+tracery_pfx+"_"+kw.upper()+"#"))
 		else:
 				for v in struct.get(kw, []):
-						expanded.append(s.replace(kw, v))
+						expanded.append(replace_words(s, kw, v))
 		return expanded
 
 def expand_kw_dict(s, struct, use_tracery=False, tracery_pfx=""):
 		expanded = []
 		for kw in found_kws(s, struct.keys()):
-				expanded.extend(expand_kw(s, kw, use_tracery, tracery_pfx))
+				expanded.extend(expand_kw(s, kw, struct, use_tracery, tracery_pfx))
 		return list(set(expanded))
 
 def expand_syns(s, use_tracery=False):
@@ -812,13 +813,24 @@ def expand_str(s, use_tracery=False):
 				expanded = expand_syns(s, use_tracery)
 		return expanded
 
+chunkpat=re.compile("([A-Za-z]+|[^A-Za-z]*)")
+def replace_words(s, kw, subst):
+		chunks=chunkpat.split(s)
+		ret=[]
+		for c in chunks:
+				if c==kw:
+						ret.append(subst)
+				else:
+						ret.append(c)
+		return "".join(ret)
+
 def expand_kw_reflexive(key, kw, kw_struct, val_struct):
 		expanded={}
 		for subst in kw_struct[kw]:
-				k=key.replace(kw, subst)
+				k=replace_words(key, kw, subst)
 				vals=[]
 				for v in val_struct[key]:
-						vals.append(v.replace(kw, subst))
+						vals.append(replace_words(v, kw, subst))
 				expanded[k]=list(set(vals))
 		return expanded
 
@@ -840,9 +852,10 @@ def expand_value(v):
 		return expanded
 
 def expand_values(v):
+		dprint("expand_values("+str(v)+") type(v)="+str(type(v)))
 		expanded=[]
 		for vv in v:
-				expanded.extend(expand_value(v))
+				expanded.extend(expand_value(vv))
 		return list(set(expanded))
 
 def expand_rule_keys(k):
@@ -853,16 +866,24 @@ def expand_rule_keys(k):
 		return expanded_keys, merge_count
 
 def expand_rule_values(k):
-		vals=expand_values(rules.get(k, []))
-		temp=list(set(vals+rules.get(k, [])))
-		dirty=True
-		if temp == rules.get(k, []):
-				dirty=False
-		rules[k]=temp
-		return dirty
+		if k in rules and len(rules[k])>0:
+				vals=expand_values(rules.get(k, []))
+				temp=list(set(vals+rules.get(k, [])))
+				dirty=True
+				if temp == rules.get(k, []):
+					dirty=False
+				rules[k]=temp
+				return dirty
+		return False
 
 def expand_rule(k):
+		dprint("expand_rule("+str(k)+")")
+		if k in rules:
+				dprint("len(rules[\""+str(k)+"\"])="+str(len(rules[k])))
+		else:
+				dprint("rules[\""+str(k)+"\"] is not defined")
 		expanded_keys, ct=expand_rule_keys(k)
+		dprint("Key \""+k+"\" has been expanded into "+str(len(expanded_keys))+" new unique keys, with "+str(ct)+" total substituions")
 		for item in expanded_keys:
 				if expand_rule_values(item):
 						ct+=1
@@ -871,8 +892,10 @@ def expand_rule(k):
 def expand_rules(merge_count=0, ttl=10):
 		rule_keys = list(rules.keys())
 		ct=0
+		dprint("Running expand_rule("+str(merge_count)+", "+str(ttl)+")...")
 		for k in rule_keys:
 				ct+=expand_rule(k)
+		dprint("expand_rule() produced "+str(ct)+" rule expansions for "+str(len(rule_keys))+" rules")
 		merge_count+=ct
 		if ct>0 and ttl>0:
 				return expand_rules(merge_count, ttl-1)
