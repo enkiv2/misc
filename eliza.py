@@ -107,8 +107,8 @@ def interact(prompt, rules, default_responses):
 				wlog(resp)
 				print(resp)
 
-def dprint_matching_rules(matching_rules, debug=1):
-		dprint("Matching rules:\n", debug, False)
+def dprint_matching_rules(matching_rules, s, debug=1):
+		dprint("Matching rules for input \""+str(s)+"\":\n", debug, False)
 		for item in matching_rules:
 				(transforms, replacements, pat) = item
 				dprint("\t\""+str(pat)+"\"\n", debug, False)
@@ -140,8 +140,8 @@ def respond(rules, s, default_responses):
 		# If no rule applies, we use the default rule.
 		dprint("There are "+str(len(matching_rules))+" matching rules with a total of "+str(num_transforms)+" transforms and "+str(num_replacements)+" replacements")
 		matching_rules.append((default_responses, {}, "DEFAULT"))
-		dprint_matching_rules(matching_rules, 0)
-		responses, replacements, pat = random.choice(matching_rules)
+		dprint_matching_rules(matching_rules, s, 0)
+		(responses, replacements, pat) = random.choice(matching_rules)
 		dprint("selected pattern \""+str(pat)+"\"")
 		dprint("responses = "+str(responses))
 		response = random.choice(responses)
@@ -940,12 +940,30 @@ def rule_size_summary():
 		num_rules, num_options = rule_size()
 		return str(num_rules)+" rules and a total of "+str(num_options)+" options, averaging "+str(1.0*num_options/num_rules)+" options per rule"
 
+def dprint_rule(k, v, debug=0):
+		dprint("\t\""+str(k)+"\":\n", debug, False)
+		for vv in v:
+				dprint("\t\t\""+str(vv)+"\"\n", debug, False)
+def dprint_rules(debug=0, structure=None):
+		if structure==None:
+				structure=rules
+				dprint("Unprocessed rules: \n", debug, False)
+				for key in structure:
+						dprint_rule(key, rules[key], debug)
+		else:
+				dprint("Processed rules: \n", debug, False)
+				for item in structure:
+						dprint_rule(*item, debug)
+		dprint("Total: "+str(len(structure))+" rules", debug)
+				
+
 def postprocess_rules():
 		# We need the rules in a list containing elements of the following form:
 		# `(input pattern, [output pattern 1, output pattern 2, ...]`
-		dprint("Ruleset size before expansion: "+rule_size_summary(), 1)
+		dprint("Ruleset size before expansion: "+rule_size_summary(), 0)
 		expand_rules()
-		dprint("Ruleset size after expansion: "+rule_size_summary(), 1)
+		dprint("Ruleset size after expansion: "+rule_size_summary(), 0)
+		dprint_rules(0)
 		initialize_tracery()
 		dprint("Postprocessing rules..",1)
 		rules_list = []
@@ -954,6 +972,7 @@ def postprocess_rules():
 				pattern = remove_punct(str(pattern.upper())) # kill unicode
 				transforms = [str(t).upper() for t in transforms]
 				rules_list.append((pattern, transforms))
+		dprint_rules(structure=rules_list)
 		return rules_list
 
 def main():
