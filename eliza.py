@@ -847,12 +847,15 @@ def expand_key(k):
 						merge_count+=ct
 		return expanded, merge_count
 
+expand_value_cache={}
 def expand_value(v):
-		expanded = expand_str(v, use_tracery=has_tracery)
+		if v in expand_value_cache:
+				return expand_value_cache[v]
+		expanded = list(set(expand_str(v, use_tracery=has_tracery)))
+		expand_value_cache[v]=expanded
 		return expanded
 
 def expand_values(v):
-		dprint("expand_values("+str(v)+") type(v)="+str(type(v)))
 		expanded=[]
 		for vv in v:
 				expanded.extend(expand_value(vv))
@@ -876,8 +879,10 @@ def expand_rule_values(k):
 				return dirty
 		return False
 
+expand_rule_cache={}
 def expand_rule(k):
-		dprint("expand_rule("+str(k)+")")
+		if k in expand_rule_cache:
+				return 0
 		if k in rules:
 				dprint("len(rules[\""+str(k)+"\"])="+str(len(rules[k])))
 		else:
@@ -887,12 +892,12 @@ def expand_rule(k):
 		for item in expanded_keys:
 				if expand_rule_values(item):
 						ct+=1
+		expand_rule_cache[k]=ct
 		return ct
 
 def expand_rules(merge_count=0, ttl=10):
 		rule_keys = list(rules.keys())
 		ct=0
-		dprint("Running expand_rule("+str(merge_count)+", "+str(ttl)+")...")
 		for k in rule_keys:
 				ct+=expand_rule(k)
 		dprint("expand_rule() produced "+str(ct)+" rule expansions for "+str(len(rule_keys))+" rules")
