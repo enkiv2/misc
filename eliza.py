@@ -123,7 +123,18 @@ def dprint_matching_rules(matching_rules, s, debug=1):
 		dprint("Total matching rules: "+str(len(matching_rules)), debug)
 
 def weight_pattern(s, pattern, replacements, transforms):
-		weight=((1.0+len(pattern)+len(replacements))/2)+math.log(max(len(transforms), 1))
+		
+		tlw=math.log(max(len(transforms), 1))
+		weight=(
+						(
+								1.0+
+								6*len(pattern)+
+								len(replacements)
+						)/3
+				)
+		#dprint("pattern composite weight: "+str(weight))
+		#dprint("transform length weight: "+str(tlw))
+		weight+=tlw
 		return max(int(weight+0.5), 1)
 
 def weight_transform(s, pattern, replacements, transform):
@@ -133,13 +144,14 @@ def weight_transform(s, pattern, replacements, transform):
 						rc+=1
 		dlp = max(abs(len("".join(pattern))-len(transform)), 1)
 		dls = max(abs(len(s)-len(transform)), 1)
-		dprint("dlp="+str(dlp)+", dls="+str(dls))
+		#dprint("dlp="+str(dlp)+", dls="+str(dls))
 		weight=(1.0+rc)-(math.log(dlp)+2.0*math.log(dls))/3
 		
 		return max(int(weight+0.5), 1)
 
 def respond(rules, s, default_responses):
 		"""Respond to an input sentence according to the given rules."""
+		dprint("Input: "+s)
 		s = s.split() # match_pattern expects a list of tokens
 		
 		# Look through rules and find input patterns that matches the input.
@@ -156,7 +168,7 @@ def respond(rules, s, default_responses):
 								dupe_transforms=[]
 								for transform in transforms:
 										tw = weight_transform(s, pattern, replacements, transform)
-										print("\t"+str(tw)+":\t\""+str(transform)+"\"")
+										dprint("\t"+str(tw)+":\t\""+str(transform)+"\"")
 										ax+=tw
 										dupe_transforms += [transform]*tw
 								num_transforms+=len(transforms)
