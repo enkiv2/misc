@@ -36,6 +36,7 @@ import json
 try:
 		import tracery
 		has_tracery = True
+		grammar_rules = {}
 		grammar=tracery.Grammar({})
 except:
 		has_tracery = False
@@ -714,7 +715,126 @@ def elizaResponse(line):
 				rules_list.append((pattern, transforms))
 		return respond(rules_list, remove_punct(line).upper(), map(str.capitalize, default_responses))
 
-def postprocess_rules()
+def merge_rules(structure):
+		dirty_count=0
+		for k,v in structure.items():
+				temp=list(set(v+rules.get(k, [])))
+				if rules[k] != temp:
+						dirty_count+=1
+				rules[k]=temp
+		return dirty_count
+
+def initialize_tracery():
+		global grammar
+		if has_tracery:
+				grammar = tracery.Grammar(grammar_rules)
+
+need_syns = ["glad", "sad", "happy", "depressed"]
+syns = {}
+def initialize_syns():
+		if has_nltk:
+				for w in need_syns:
+						if not w in syns:
+								s=[]
+								for syn in wordnet.synsets(w):
+										for l in syn.lemmas():
+												s.append(l.name().replace("_", " "))
+								s.append(w)
+								syns[w]=s
+						if has_tracery:
+								grammar_rules["SYN_"+w]=syns[w]
+
+common_swaps = {"father": ["mother"]}
+def initialize_common_swaps():
+		keys = list(common_swaps.keys())
+		for k in keys:
+				vals = common_swaps[k]
+				for v in vals:
+						common_swaps[v]=list(set([k]+common_swaps.get(v, [])))
+		if has_tracery:
+				for k in common_swaps.keys():
+						grammar_rules["SWAP_"+k]=common_swaps[k]
+
+def found_kws(s, kws):
+		matched=[]
+		for kw in kws:
+				if s.find(kw)>=0:
+						matched.append(kw)
+		return matched
+
+def expand_kw(s, kw, use_tracery=False, tracery_pfx=""):
+		expanded=[]
+		if use_tracery:
+				expanded.append(s.replace(kw, "#"+tracery_pfx+"_"+kw+"#"))
+		else:
+				for v in struct.get(kw, []):
+						expanded.append(s.replace(kw, v))
+		return expanded
+
+def expand_kw_dict(s, struct, use_tracery=False, tracery_pfx=""):
+		expanded = []
+		for kw in found_kws(s, struct.keys()):
+				expanded.extend(expand_kw(s, kw, use_tracery, tracery_pfx))
+		return list(set(expanded))
+
+def expand_syns(s, use_tracery=False):
+		return expand_kw_dict(s, syns, use_tracery, "SYN")
+
+def expand_swaps(s, use_tracery=False):
+		return expand_kw_dict(s, common_swaps, use_tracery, "SWAP")
+
+def expand_str(s, use_tracery=False):
+		expanded = []
+		if has_nltk:
+				expanded = expand_syns(s, use_tracery)
+		return expanded
+
+def expand_key(k):
+		expanded = {}
+		expanded_keys = expand_syns(k)
+		for kk in expanded_keys:
+				expanded[kk]=expand_values(rules[k])
+		for kk in [k]+expanded_keys:
+				
+		return expanded
+
+def expand_value(v):
+		expanded = expand_str(v, use_tracery=has_tracery)
+		return expanded
+
+def expand_values(v):
+		expanded=[]
+		for vv in v:
+				expanded.extend(expand_value(v))
+		return list(set(expanded))
+
+def expand_rule_keys(k):
+		expanded_keys=[k]
+		expanded_rules = {k:rules[k]}
+		for kk, vv in expand_key(k):
+				expanded_keys.append(kk)
+				expanded_rules[kk]=v
+		merge_rules(expanded_rules)
+		return expanded_keys
+
+def expand_rule_values(k):
+		vals=expand_values(rules.get(k, []))
+		temp=list(set(vals+rules.get(k, [])))
+		dirty=(rules[k] == temp)
+		rules[k]=temp
+		return dirty
+
+def expand_rule(k):
+		expanded_keys=expand_rule_keys(k)
+		for item in expanded_keys:
+				expand_rule_values(item)
+
+def expand_rules():
+		rule_keys = list(rules.keys())
+		for k in rule_keys:
+				expand_rule(k)
+
+def postprocess_rules():
 		# We need the rules in a list containing elements of the following form:
 		# `(input pattern, [output pattern 1, output pattern 2, ...]`
 		rules_list = []
@@ -726,6 +846,9 @@ def postprocess_rules()
 		return rules_list
 
 def main():
+		if has_nltk:
+				initialize_syns()
+		initialize_common_swaps()
 		interact('> ', postprocess_rules(), map(str.capitalize, default_responses))
 		log.close()
 
