@@ -73,8 +73,9 @@ DEBUGLEVEL=0
 log=open("eliza.log", "w+")
 
 def dprint(value, debug=0):
-		if debug>=DEBUGLEVEL:
+		if debug<=DEBUGLEVEL:
 				sys.stderr.write(value)
+				sys.stderr.write("\t\tdebug="+str(debug)+" <= DEBUGLEVEL="+str(DEBUGLEVEL))
 				sys.stderr.write("\n")
 				sys.stderr.flush()
 
@@ -89,7 +90,7 @@ def wlog(value):
 def interact(prompt, rules, default_responses):
 		"""Have a conversation with a user."""
 		# Read a line, process it, and print the results until no input remains.
-		dprint("Ready.")
+		dprint("Ready.", 1)
 		while True:
 				try:
 						# Remove the punctuation from the input and convert to upper-case
@@ -742,9 +743,9 @@ def merge_rules(structure):
 def initialize_tracery():
 		global grammar
 		if has_tracery:
-				dprint("Initializing tracery...")
+				dprint("Initializing tracery...", 1)
 				grammar = tracery.Grammar(grammar_rules)
-				dprint("Tracery initialized.")
+				dprint("Tracery initialized.", 1)
 
 need_syns = ["glad", "sad", "happy", "depressed"]
 syns = {}
@@ -754,7 +755,7 @@ def norm_lemma_name(l):
 		return name
 
 def initialize_syns():
-		dprint("Initializing synonyms...")
+		dprint("Initializing synonyms...", 1)
 		if has_nltk:
 				for w in need_syns:
 						if not w in syns:
@@ -766,11 +767,11 @@ def initialize_syns():
 								syns[w]=s
 						if has_tracery:
 								grammar_rules["SYN_"+w.upper()]=syns[w]
-		dprint("Done initializing synonyms.")
+		dprint("Done initializing synonyms.", 1)
 
 common_swaps = {"father": ["mother"]}
 def initialize_common_swaps():
-		dprint("Initializing swaps...")
+		dprint("Initializing swaps...", 1)
 		keys = list(common_swaps.keys())
 		for k in keys:
 				vals = common_swaps[k]
@@ -779,7 +780,7 @@ def initialize_common_swaps():
 		if has_tracery:
 				for k in common_swaps.keys():
 						grammar_rules["SWAP_"+k.upper()]=common_swaps[k]
-		dprint("Done initializing swaps.")
+		dprint("Done initializing swaps.", 1)
 
 def found_kws(s, kws):
 		matched=[]
@@ -886,11 +887,11 @@ def expand_rule(k):
 		if k in expand_rule_cache:
 				return 0
 		if k in rules:
-				dprint("len(rules[\""+str(k)+"\"])="+str(len(rules[k])))
+				dprint("len(rules[\""+str(k)+"\"])="+str(len(rules[k])), 3)
 		else:
-				dprint("rules[\""+str(k)+"\"] is not defined")
+				dprint("rules[\""+str(k)+"\"] is not defined", 3)
 		expanded_keys, ct=expand_rule_keys(k)
-		dprint("Key \""+k+"\" has been expanded into "+str(len(expanded_keys))+" new unique keys, with "+str(ct)+" total substituions")
+		dprint("Key \""+k+"\" has been expanded into "+str(len(expanded_keys))+" new unique keys, with "+str(ct)+" total substituions", 3)
 		for item in expanded_keys:
 				if expand_rule_values(item):
 						ct+=1
@@ -903,12 +904,12 @@ def expand_rules(merge_count=0, ttl=10):
 		ct=0
 		for k in rule_keys:
 				ct+=expand_rule(k)
-		dprint("expand_rule() produced "+str(ct)+" rule expansions for "+str(len(rule_keys))+" rules")
+		dprint("expand_rule() produced "+str(ct)+" rule expansions for "+str(len(rule_keys))+" rules", 2)
 		merge_count+=ct
 		if ct>0 and ttl>0:
 				return expand_rules(merge_count, ttl-1)
 		else:
-				dprint("Merged "+str(merge_count)+" items during expansion; ttl="+str(ttl))
+				dprint("Merged "+str(merge_count)+" items during expansion; ttl="+str(ttl), 2)
 				return merge_count				
 
 def rule_size():
@@ -925,11 +926,11 @@ def rule_size_summary():
 def postprocess_rules():
 		# We need the rules in a list containing elements of the following form:
 		# `(input pattern, [output pattern 1, output pattern 2, ...]`
-		dprint("Ruleset size before expansion: "+rule_size_summary())
+		dprint("Ruleset size before expansion: "+rule_size_summary(), 1)
 		expand_rules()
-		dprint("Ruleset size after expansion: "+rule_size_summary())
+		dprint("Ruleset size after expansion: "+rule_size_summary(), 1)
 		initialize_tracery()
-		dprint("Postprocessing rules..")
+		dprint("Postprocessing rules..",1)
 		rules_list = []
 		for pattern, transforms in rules.items():
 				# Remove the punctuation from the pattern to simplify matching.
@@ -939,11 +940,11 @@ def postprocess_rules():
 		return rules_list
 
 def main():
-		dprint("Initializing...")
+		dprint("Initializing...", 1)
 		if has_nltk:
 				initialize_syns()
 		initialize_common_swaps()
-		dprint("Done initializing.")
+		dprint("Done initializing.", 1)
 		interact('> ', postprocess_rules(), list(map(str.capitalize, default_responses)))
 		log.close()
 
