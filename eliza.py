@@ -121,9 +121,11 @@ def respond(rules, input, default_responses):
 		# When rules are found, choose one and one of its responses at random.
 		# If no rule applies, we use the default rule.
 		responses, replacements =	[], {}
+		dprint("len(matching_rules) = "+str(len(matching_rules)))
 		if matching_rules:
 				responses, replacements = random.choice(matching_rules)
-		responses.extend(default_responses)
+		responses=list(responses)+default_responses
+		dprint("responses = "+str(responses))
 		response = random.choice(responses)
 		if has_tracery:
 				response = grammar.flatten(response)
@@ -896,6 +898,7 @@ def expand_rule(k):
 		return ct
 
 def expand_rules(merge_count=0, ttl=10):
+		rules["*?"]=list(set(rules.get("*?", [])+default_responses))
 		rule_keys = list(rules.keys())
 		ct=0
 		for k in rule_keys:
@@ -941,7 +944,7 @@ def main():
 				initialize_syns()
 		initialize_common_swaps()
 		dprint("Done initializing.")
-		interact('> ', postprocess_rules(), map(str.capitalize, default_responses))
+		interact('> ', postprocess_rules(), list(map(str.capitalize, default_responses)))
 		log.close()
 
 if __name__ == '__main__':
