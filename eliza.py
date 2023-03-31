@@ -934,7 +934,7 @@ def expand_key(k):
 		expanded = {}
 		expanded_keys = expand_syns(k)
 		for kk in expanded_keys:
-				expanded[kk]=expand_values(rules[k])
+				expanded[kk]=list(set(rules[k]+expand_values(rules[k])))
 		merge_count=merge_rules(expanded)
 		for kk in [k]+expanded_keys:
 				kws=found_kws(kk, common_swaps)
@@ -1044,6 +1044,8 @@ def postprocess_rules():
 		dprint("Postprocessing rules..",1)
 		rules_list = []
 		for pattern, transforms in rules.items():
+				if len(transforms)==0:
+						dprint("Pattern "+str(pattern)+" has zero transforms", -1)
 				# Remove the punctuation from the pattern to simplify matching.
 				pattern = remove_punct(str(pattern.upper())) # kill unicode
 				transforms = [str(t).upper() for t in transforms]
