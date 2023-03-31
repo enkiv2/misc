@@ -33,6 +33,7 @@ import string
 import sys
 import json
 import re
+import math
 
 try:
 		import tracery
@@ -120,7 +121,22 @@ def dprint_matching_rules(matching_rules, s, debug=1):
 				for r in replacements:
 						dprint("\t\t\t\""+r+"\"\n", debug, False)
 		dprint("Total matching rules: "+str(len(matching_rules)), debug)
-				
+
+def weight_pattern(s, pattern, replacements, transforms):
+		weight=((1.0+len(pattern)+len(replacements))/2)+math.log(max(len(transforms), 1))
+		return max(int(weight+0.5), 1)
+
+def weight_transform(s, pattern, replacements, transform):
+		rc=0
+		for r in replacements:
+				if transform.find("*?"+r.upper()):
+						rc+=1
+		dlp = max(abs(len("".join(pattern))-len(transform)), 1)
+		dls = max(abs(len(s)-len(transform)), 1)
+		dprint("dlp="+str(dlp)+", dls="+str(dls))
+		weight=(1.0+rc)-(math.log(dlp)+2.0*math.log(dls))/3
+		
+		return max(int(weight+0.5), 1)
 
 def respond(rules, s, default_responses):
 		"""Respond to an input sentence according to the given rules."""
@@ -133,9 +149,21 @@ def respond(rules, s, default_responses):
 				pattern = pattern.split()
 				replacements = match_pattern(pattern, s)
 				if replacements:
-						matching_rules.append((transforms, replacements, pattern))
-						num_transforms+=len(transforms)
-						num_replacements+=len(replacements)
+						if transforms:
+								pw = weight_pattern(s, pattern, replacements, transforms)
+								dprint("Pattern "+str(pattern)+" has weight "+str(pw))
+								ax=0
+								dupe_transforms=[]
+								for transform in transforms:
+										tw = weight_transform(s, pattern, replacements, transform)
+										print("\t"+str(tw)+":\t\""+str(transform)+"\"")
+										ax+=tw
+										dupe_transforms += [transform]*tw
+								num_transforms+=len(transforms)
+								num_replacements+=len(replacements)
+								dprint("Average transform weight for this pattern is "+str((1.0*ax/num_transforms)))
+								for i in range(0, pw):
+										matching_rules.append((dupe_transforms, replacements, pattern))
 
 		# When rules are found, choose one and one of its responses at random.
 		# If no rule applies, we use the default rule.
