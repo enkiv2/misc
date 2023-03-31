@@ -116,8 +116,8 @@ def respond(rules, input, default_responses):
 		for pattern, transforms in rules:
 				pattern = pattern.split()
 				replacements = match_pattern(pattern, input)
-		if replacements:
-				matching_rules.append((transforms, replacements))
+				if replacements:
+						matching_rules.append((transforms, replacements))
 
 		# When rules are found, choose one and one of its responses at random.
 		# If no rule applies, we use the default rule.
