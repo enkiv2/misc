@@ -33,17 +33,24 @@ import string
 import sys
 import json
 
+## Polyfills for python 3 compatibility
 try:
 		x = raw_input
 except NameError as e:
 		raw_input = input
-
 try:
 		letters = string.letters
 except AttributeError as e:
 		letters = string.ascii_letters
 
+
+
 log=open("eliza.log", "w+")
+
+def wlog(value):
+		log.write(value)
+		log.write("\n")
+		log.flush()
 
 
 ## Talking to the computer
@@ -58,16 +65,12 @@ def interact(prompt, rules, default_responses):
 						input = remove_punct(raw_input(prompt).upper())
 						if not input:
 								continue
-						log.write(input)
-						log.write("\n")
-						log.flush()
+						wlog(input)
 				except Exception as e:
 						print(e, flush=True)
 						break
 				resp=respond(rules, input, default_responses)
-				log.write(resp)
-				log.write("\n")
-				log.flush()
+				wlog(resp)
 				print(resp)
 
 
@@ -97,9 +100,7 @@ def respond(rules, input, default_responses):
 				replacement = ' '.join(switch_viewpoint(replacement))
 				if replacement:
 						response = response.replace('?' + variable, replacement)
-		log.write(response.capitalize())
-		log.write("\n")
-		log.flush()
+		wlog(response.capitalize())
 		return response.capitalize()
 	
 
