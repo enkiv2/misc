@@ -33,6 +33,29 @@ import string
 import sys
 import json
 
+try:
+		import tracery
+		has_tracery = True
+		grammar=tracery.Grammar({})
+except:
+		has_tracery = False
+
+try:
+		import nltk
+		try:
+				from nltk.corpus import wordnet
+		except:
+				nltk.download("wordnet")
+		try:
+				from nltk.corpus import cmudict	
+		except:
+				nltk.download("cmudict")
+		from nltk.corpus import wordnet
+		from nltk.corpus import cmudict	
+		has_nltk = True
+except:
+		has_nltk = False
+
 ## Polyfills for python 3 compatibility
 try:
 		x = raw_input
@@ -93,6 +116,8 @@ def respond(rules, input, default_responses):
 				responses, replacements = random.choice(matching_rules)
 		responses.extend(default_responses)
 		response = random.choice(responses)
+		if has_tracery:
+				response = grammar.flatten(response)
 
 		# Replace the variables in the output pattern with the values matched from
 		# the input string.
@@ -689,7 +714,7 @@ def elizaResponse(line):
 				rules_list.append((pattern, transforms))
 		return respond(rules_list, remove_punct(line).upper(), map(str.capitalize, default_responses))
 
-def main():
+def postprocess_rules()
 		# We need the rules in a list containing elements of the following form:
 		# `(input pattern, [output pattern 1, output pattern 2, ...]`
 		rules_list = []
@@ -698,7 +723,10 @@ def main():
 				pattern = remove_punct(str(pattern.upper())) # kill unicode
 				transforms = [str(t).upper() for t in transforms]
 				rules_list.append((pattern, transforms))
-		interact('> ', rules_list, map(str.capitalize, default_responses))
+		return rules_list
+
+def main():
+		interact('> ', postprocess_rules(), map(str.capitalize, default_responses))
 		log.close()
 
 if __name__ == '__main__':
