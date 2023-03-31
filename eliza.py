@@ -196,8 +196,10 @@ def respond(rules, s, default_responses):
 		# the input string.
 		for variable, replacement in replacements.items():
 				replacement = ' '.join(switch_viewpoint(replacement))
-				if replacement:
-						response = response.replace('?' + variable, replacement)
+				#dprint("variable="+str(variable)+", replacement="+str(replacement), -1)
+				#dprint("Raw response: \""+response+"\"", -1)
+				#dprint("response.find('?"+variable+"') = "+str(response.find('?'+variable)), -1)
+				response = response.replace('?' + variable, replacement)
 		wlog(response.capitalize())
 		return response.capitalize()
 	
