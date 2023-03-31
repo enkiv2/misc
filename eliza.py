@@ -828,9 +828,9 @@ def initialize_syns():
 												s.append(norm_lemma_name(l))
 								s.append(w)
 								syns[w]=s
-								for ww in s:
-										syns[ww]=s+[w]
-										syns[ww].remove(ww)
+#								for ww in s:
+#										syns[ww]=s+[w]
+#										syns[ww].remove(ww)
 				for w in syns:
 						if has_tracery:
 								grammar_rules["SYN_"+w.upper().replace(" ", "_")]=syns[w]
@@ -881,7 +881,7 @@ def initialize_common_swaps():
 		common_swaps = initialize_swap_helper(common_swaps)
 		common_swaps, ct=dict_merge(common_swaps, common_swaps2)
 		dprint("Done initializing swaps.", 1)
-		dprint("common_swaps="+str(common_swaps), -1)
+		#dprint("common_swaps="+str(common_swaps), -1)
 
 def found_kws(s, kws):
 		matched=[]
@@ -905,14 +905,27 @@ def expand_kw_dict(s, struct, use_tracery=False, tracery_pfx=""):
 				expanded.extend(expand_kw(s, kw, struct, use_tracery, tracery_pfx))
 		return list(set(expanded))
 
+expand_syns_cache={}
 def expand_syns(s, use_tracery=False):
-		return expand_kw_dict(s, syns, use_tracery, "SYN")
+		key=str((s, use_tracery))
+		if not (key in expand_syns_cache):
+				expand_syns_cache[key]=expand_kw_dict(s, syns, use_tracery, "SYN")
+		return expand_syns_cache[key]
 
+expand_swaps_cache={}
 def expand_swaps(s, use_tracery=False):
-		return expand_kw_dict(s, common_swaps, use_tracery, "SWAP")
+		key=str((s, use_tracery))
+		if not (key in expand_swaps_cache):
+				expand_swaps_cache[key]=expand_kw_dict(s, common_swaps, use_tracery, "SWAP")
+		return expand_swaps_cache[key]
+		
 
+expand_swaps2_cache={}
 def expand_swaps2(s, use_tracery=False):
-		return expand_kw_dict(s, common_swaps2, use_tracery, "SWAP")
+		key=str((s, use_tracery))
+		if not (key in expand_swaps2_cache):
+				expand_swaps2_cache[key]=expand_kw_dict(s, common_swaps2, use_tracery, "SWAP")
+		return expand_swaps2_cache[key]
 
 def expand_str(s, use_tracery=False):
 		expanded = []
@@ -952,7 +965,10 @@ def expand_kw_reflexive(key, kw, kw_struct, val_struct):
 				expanded[k]=list(set(vals))
 		return expanded
 
+expand_key_cache={}
 def expand_key(k):
+		if k in expand_key_cache:
+				return expand_key_cache[k], 0
 		expanded = {}
 		expanded_keys = expand_syns(k)
 		for kk in expanded_keys:
@@ -967,11 +983,12 @@ def expand_key(k):
 		for key in expanded:
 				ax=[]
 				for t in expanded[key]:
-						ax+=expand_kw_dict(t, common_swaps2, has_tracery, 'SWAP')
-						ax+=expand_kw_dict(t, syns, has_tracery, 'SYN')
-						dprint("String \""+t+"\" has been expanded to "+str(ax), -1)
+						ax+=expand_swaps2(t, has_tracery)
+						ax+=expand_syns(t, has_tracery)
+						#dprint("String \""+t+"\" has been expanded to "+str(ax), -1)
 				expanded2[key]=list(set(ax))
 		expanded, ct = dict_merge(expanded, expanded2)
+		expand_key_cache[k]=expanded
 		return expanded, merge_count+ct
 
 expand_value_cache={}
@@ -1070,7 +1087,7 @@ def postprocess_rules():
 		dprint("Ruleset size before expansion: "+rule_size_summary(), -1)
 		expand_rules()
 		dprint("Ruleset size after expansion: "+rule_size_summary(), -1)
-		dprint_rules(-1)
+		dprint_rules(0)
 		initialize_tracery()
 		dprint("Postprocessing rules..",1)
 		rules_list = []
@@ -1085,11 +1102,11 @@ def postprocess_rules():
 		return rules_list
 
 def main():
-		dprint("Initializing...", 1)
+		dprint("Initializing...", -1)
 		if has_nltk:
 				initialize_syns()
 		initialize_common_swaps()
-		dprint("Done initializing.", 1)
+		dprint("Done initializing.", -1)
 		interact('> ', postprocess_rules(), list([x.upper() for x in default_responses]))
 		log.close()
 
