@@ -104,6 +104,7 @@ def interact(prompt, rules, default_responses):
 						print(e, flush=True)
 						break
 				resp=respond(rules, s, default_responses)
+				dprint("Response: "+resp, 0)
 				wlog(resp)
 				print(resp)
 
@@ -141,7 +142,10 @@ def respond(rules, s, default_responses):
 		dprint("There are "+str(len(matching_rules))+" matching rules with a total of "+str(num_transforms)+" transforms and "+str(num_replacements)+" replacements")
 		matching_rules.append((default_responses, {}, "DEFAULT"))
 		dprint_matching_rules(matching_rules, s, 0)
-		(responses, replacements, pat) = random.choice(matching_rules)
+		responses=[]
+		while len(responses)==0:
+				(responses, replacements, pat) = random.choice(matching_rules)
+				dprint("Randomly selected matching rule: "+str(pat)+" with responses "+str(responses))
 		dprint("selected pattern \""+str(pat)+"\"")
 		dprint("responses = "+str(responses))
 		response = random.choice(responses)
@@ -767,7 +771,7 @@ def initialize_tracery():
 need_syns = ["glad", "sad", "happy", "depressed", "hello", "goodbye"]
 syns = {}
 def norm_lemma_name(l):
-		name=l.name().replace("_ ", " ")
+		name=l.name().replace("_", " ")
 		name=name.split(".")[0]
 		return name
 
