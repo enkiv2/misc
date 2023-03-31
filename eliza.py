@@ -68,8 +68,14 @@ except AttributeError as e:
 		letters = string.ascii_letters
 
 
-
+DEBUGLEVEL=0
 log=open("eliza.log", "w+")
+
+def dprint(value, debug=0):
+		if debug>=DEBUGLEVEL:
+				sys.stderr.write(value)
+				sys.stderr.write("\n")
+				sys.stderr.flush()
 
 def wlog(value):
 		log.write(value)
@@ -82,6 +88,7 @@ def wlog(value):
 def interact(prompt, rules, default_responses):
 		"""Have a conversation with a user."""
 		# Read a line, process it, and print the results until no input remains.
+		dprint("Ready.")
 		while True:
 				try:
 						# Remove the punctuation from the input and convert to upper-case
@@ -715,37 +722,52 @@ def elizaResponse(line):
 				rules_list.append((pattern, transforms))
 		return respond(rules_list, remove_punct(line).upper(), map(str.capitalize, default_responses))
 
-def merge_rules(structure):
+def dict_merge(p, q):
 		dirty_count=0
-		for k,v in structure.items():
-				temp=list(set(v+rules.get(k, [])))
-				if rules[k] != temp:
+		for k,v in q.items():
+				temp=list(set(v+p.get(k, [])))
+				if p[k] != temp:
 						dirty_count+=1
-				rules[k]=temp
+				p[k]=temp
+		return p, dirty_count
+
+def merge_rules(structure):
+		global rules
+		rules, dirty_count=dict_merge(rules, structure)
 		return dirty_count
 
 def initialize_tracery():
 		global grammar
 		if has_tracery:
+				dprint("Initializing tracery...")
 				grammar = tracery.Grammar(grammar_rules)
+				dprint("Tracery initialized.")
 
 need_syns = ["glad", "sad", "happy", "depressed"]
 syns = {}
+def norm_lemma_name(l):
+		name=l.name().replace("_ ", " ")
+		name=name.split(".")[0]
+		return name
+
 def initialize_syns():
+		dprint("Initializing synonyms...")
 		if has_nltk:
 				for w in need_syns:
 						if not w in syns:
 								s=[]
 								for syn in wordnet.synsets(w):
 										for l in syn.lemmas():
-												s.append(l.name().replace("_", " "))
+												s.append(norm_lemma_name(l))
 								s.append(w)
 								syns[w]=s
 						if has_tracery:
 								grammar_rules["SYN_"+w]=syns[w]
+		dprint("Done initializing synonyms.")
 
 common_swaps = {"father": ["mother"]}
 def initialize_common_swaps():
+		dprint("Initializing swaps...")
 		keys = list(common_swaps.keys())
 		for k in keys:
 				vals = common_swaps[k]
@@ -754,6 +776,7 @@ def initialize_common_swaps():
 		if has_tracery:
 				for k in common_swaps.keys():
 						grammar_rules["SWAP_"+k]=common_swaps[k]
+		dprint("Done initializing swaps.")
 
 def found_kws(s, kws):
 		matched=[]
@@ -789,14 +812,28 @@ def expand_str(s, use_tracery=False):
 				expanded = expand_syns(s, use_tracery)
 		return expanded
 
+def expand_kw_reflexive(key, kw, kw_struct, val_struct):
+		expanded={}
+		for subst in kw_struct[kw]:
+				k=key.replace(kw, subst)
+				vals=[]
+				for v in val_struct[key]:
+						vals.append(v.replace(kw, subst))
+				expanded[k]=list(set(vals))
+		return expanded
+
 def expand_key(k):
 		expanded = {}
 		expanded_keys = expand_syns(k)
 		for kk in expanded_keys:
 				expanded[kk]=expand_values(rules[k])
+		merge_count=merge_rules(expanded)
 		for kk in [k]+expanded_keys:
-				
-		return expanded
+				kws=found_kws(kk, common_swaps)
+				for kw in kws:
+						expanded, ct=dict_merge(expanded, expand_kw_reflexive(kk, kw, common_swaps, rules))
+						merge_count+=ct
+		return expanded, merge_count
 
 def expand_value(v):
 		expanded = expand_str(v, use_tracery=has_tracery)
@@ -810,33 +847,58 @@ def expand_values(v):
 
 def expand_rule_keys(k):
 		expanded_keys=[k]
-		expanded_rules = {k:rules[k]}
-		for kk, vv in expand_key(k):
-				expanded_keys.append(kk)
-				expanded_rules[kk]=v
-		merge_rules(expanded_rules)
-		return expanded_keys
+		expanded_rules, merge_count = expand_key(k)
+		expanded_keys=list(str(expanded_keys+list(expanded_rules.keys())))
+		merge_count+=merge_rules(expanded_rules)
+		return expanded_keys, merge_count
 
 def expand_rule_values(k):
 		vals=expand_values(rules.get(k, []))
 		temp=list(set(vals+rules.get(k, [])))
-		dirty=(rules[k] == temp)
+		dirty=True
+		if temp == rules.get(k, []):
+				dirty=False
 		rules[k]=temp
 		return dirty
 
 def expand_rule(k):
-		expanded_keys=expand_rule_keys(k)
+		expanded_keys, ct=expand_rule_keys(k)
 		for item in expanded_keys:
-				expand_rule_values(item)
+				if expand_rule_values(item):
+						ct+=1
+		return ct
 
-def expand_rules():
+def expand_rules(merge_count=0, ttl=10):
 		rule_keys = list(rules.keys())
+		ct=0
 		for k in rule_keys:
-				expand_rule(k)
+				ct+=expand_rule(k)
+		merge_count+=ct
+		if ct>0 and ttl>0:
+				return expand_rules(merge_count, ttl-1)
+		else:
+				dprint("Merged "+str(merge_count)+" items during expansion; ttl="+str(ttl))
+				return merge_count				
+
+def rule_size():
+		num_rules = len(rules.keys())
+		num_options=0
+		for k in rules.keys():
+				num_options+=len(rules[k])
+		return num_rules, num_options
+
+def rule_size_summary():
+		num_rules, num_options = rule_size()
+		return str(num_rules)+" rules and a total of "+str(num_options)+" options, averaging "+str(1.0*num_options/num_rules)+" options per rule"
 
 def postprocess_rules():
 		# We need the rules in a list containing elements of the following form:
 		# `(input pattern, [output pattern 1, output pattern 2, ...]`
+		dprint("Ruleset size before expansion: "+rule_size_summary())
+		expand_rules()
+		dprint("Ruleset size after expansion: "+rule_size_summary())
+		initialize_tracery()
+		dprint("Postprocessing rules..")
 		rules_list = []
 		for pattern, transforms in rules.items():
 				# Remove the punctuation from the pattern to simplify matching.
@@ -846,9 +908,11 @@ def postprocess_rules():
 		return rules_list
 
 def main():
+		dprint("Initializing...")
 		if has_nltk:
 				initialize_syns()
 		initialize_common_swaps()
+		dprint("Done initializing.")
 		interact('> ', postprocess_rules(), map(str.capitalize, default_responses))
 		log.close()
 
