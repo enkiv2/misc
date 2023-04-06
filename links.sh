@@ -90,7 +90,7 @@ function uploadBandNames() {
 		sed 's/^/<tr><td>/;s/	Band name of the day: /<\/td><td>/;s/$/<\/td><\/tr>/' | 
 		tac 
 	echo "</table></body></html>") > ~/bandnames.html
-	scp ~/bandnames.html $1
+	scp_if_modified ~/bandnames.html $1
 }
 function uploadBadIdeas() {
 	(
@@ -101,12 +101,26 @@ function uploadBadIdeas() {
 		sed 's/^/<tr><td>/;s/	Bad idea of the day: /<\/td><td>/;s/$/<\/td><\/tr>/' | 
 		tac 
 	echo "</table></body></html>") > ~/ideas.html
-	scp ~/ideas.html $1
+	scp_if_modified ~/ideas.html $1
 }
 function uploadlinks() {
 	fmtlinks > ~/links.html
 	fmtlinksrss > ~/feed.rss
-	scp ~/links.html $1
-	scp ~/feed.rss $(echo $1 | sed 's/\/[^\/]*$//')
+	scp_if_modified ~/links.html $1
+	scp_if_modified ~/feed.rss $(echo $1 | sed 's/\/[^\/]*$//')
 }
 
+function scp_if_modified() {
+	fullpath=$1
+	path=$(echo $fullpath | sed 's|/[^/]*$|/|')
+	fname=$(echo $fullpath | sed 's|^.*/\([^/]*\)$|\1|')
+	target=$2
+	host=$(echo $target | cut -d: -f 1)
+	target_path=$(echo $target | cut -d: -f 2-)
+	source_md5=`cat $fullpath | /usr/bin/md5sum | awk '{print $1}'`
+	target_md5=`ssh $host -C "cat ${target_path}/${fname} | md5sum" | awk '{print $1}'`
+	if [[ "$source_md5" != "$target_md5" ]] ; then
+		scp "$fullpath" "$target"
+	fi
+}
+	
