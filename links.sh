@@ -108,6 +108,7 @@ function uploadlinks() {
 	fmtlinksrss > ~/feed.rss
 	scp_if_modified ~/links.html $1
 	scp_if_modified ~/feed.rss $(echo $1 | sed 's/\/[^\/]*$//')
+	scp_if_modified ~/code/misc/lordenki/twtxt.txt $(echo $1 | sed 's/\/[^\/]*$//')
 }
 
 function scp_if_modified() {
