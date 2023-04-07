@@ -138,38 +138,54 @@ class myParseTree:
 						else:
 								items.append(child)
 				if toplevel:
-						items=' '.join(items).capitalize()
+						items=' '.join(items)
 				return items
-		
-		def markov_ingest(self):
-				p=repr(self)
+
+		def clean_children(self):
+				ret=[]
+				for child in self.children:
+						if isinstance(child, myParseTree):
+								ret.append(child)
+				return ret
+
+		def firsts(self):
+				ret=[]
+				children=self.clean_children()
+				if children:
+						ret.append(children[0])
+						ret.extend(children[0].firsts())
+				return ret
+
+		def lasts(self):
+				ret=[]
+				children=self.clean_children()
+				if children:
+						ret.append(children[-1])
+						ret.extend(children[-1].lasts())
+				return ret
+		def update_brain(self, p, q):
 				brain[p]=brain.get(p, {})
+				brain[p][q]=brain[p].get(q, 0)+self.probability
+		def markov_ingest(self):
 				q=''
 				if self.next:
 						q=repr(self.next)
-				brain[p][q]=brain[p].get(q, 0)+self.probability
-				if not self.last:
-						brain['']=brain.get('', {})
-						brain[''][p]=brain[''].get(p, 0)+self.probability
-				else:
+				self.update_brain(repr(self), q)
+				for child in self.lasts():
+						self.update_brain(repr(child), q)
+						if self.next:
+								for q in self.next.firsts():
+										self.update_brain(repr(child), repr(q))
+				q=''
+				if self.last:
 						q=repr(self.last)
-						brain[q]=brain.get(q, {})
-						brain[q][p]=brain[q].get(p, 0)+self.probability
-				prev_last_gc=self
-				for child in self.children:
-						if isinstance(child, myParseTree):
-								child.markov_ingest()
-								grandchildren=[]
-								for gc in child.children:
-										if isinstance(gc, myParseTree):
-												grandchildren.append(gc)
-								if grandchildren:
-										p=repr(prev_last_gc)
-										q=repr(grandchildren[0])
-										brain[p]=brain.get(p, {})
-										brain[p][q]=brain[p].get(q, 0)+self.probability
-										prev_last_gc=grandchildren[-1]
-								
+				self.update_brain(q, repr(self))
+				for child in self.firsts():
+						self.update_brain(q, repr(child))
+						if self.last:
+								for q in self.last.lasts():
+										self.update_brain(repr(q), repr(child))
+						
 
 def weighted_random(structure):
 		total=0
@@ -202,17 +218,23 @@ def reconstruct_chain(chain):
 
 
 last=None
+trees=[]
 for t in treebank.parsed_sents():
 	pt=myParseTree(pt=t)
 	pt.process_soundex()
 	pt.process_serialization_lookup()
 	pt.markov_ingest()
+
 	pt=myParseTree(pt=t, lastItem=last)
 	pt.process_soundex()
-	pt.process_serialization_lookup()
 	pt.markov_ingest()
 	last=pt
-	print(pt.serialize(True))
+	trees.append(pt)
+#	print(pt.serialize(True))
+pt=myParseTree(children=trees)
+pt.process_soundex()
+pt.process_serialization_lookup()
+pt.markov_ingest()
 print()
 print(reconstruct_chain(markov_chain()))
 print(reconstruct_chain(markov_chain()))
