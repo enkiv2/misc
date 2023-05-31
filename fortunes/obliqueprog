@@ -121,4 +121,102 @@ Francis Bacon, 1620
 Do something. Work on the wrong thing. Make something up. Start even if you don't have all the information. Inaction won't solve the problem.
 %
 Put the problem aside and work on something else. Thrashing won't solve the problem.
+%
+hardcode everything 
+%
+do repeat yourself
+%
+you probably don’t need that
+%
+optimise early, it’s fun
+%
+try a new language feature
+%
+maybe you can do this entirely with tags and filters
+%
+try turning your program inside out
+%
+restate the problem
+%
+the naïve algorithm is probably fast enough
+%
+it is easier to ask forgiveness than permission
+%
+it is easier to correct a wrong program than to write a correct program
+%
+create a new programming language for this
+%
+don’t worry about the tests, failure is subjective
+%
+delete the framework, see what doesn’t break
+%
+consider goat farming
+%
+quack quack
+%
+you’re probably using the wrong version of a dependency
+%
+check it in anyway, it’s someone else’s problem now
+%
+try and refactor it, then lose all your unsaved work in a kernel panic, it really gives you perspective.
+%
+play zelda for a while, the solution will come to you upon collecting your 68th restless cricket
+%
+replace a hard problem with a much harder problem
+%
+what would forth do?
+%
+ask an expert in something other than programming
+%
+a regex is only one problem
+%
+spaghettify your code
+%
+mix your concerns
+%
+nest another loop
+%
+don’t collaborate
+%
+be imperative; the computer is just here to do your bidding
+%
+What if you didn't?
+%
+Are you sure?
+%
+How do you know?
+%
+Defer the decision [e.g. last responsible moment].
+%
+Get rid of one thing.
+%
+Take a shortcut.
+%
+Relax an assumption.
+%
+Code like nobody's watching.
+%
+Every correct program is just an incomplete wrong program
+%
+Programming's greatest effect is showing people what they can accomplish when they misapply themselves
+%
+Test the implementation
+%
+Metaprogram against your better judgement
+%
+Change your editor's font
+%
+Read the stdlib source
+%
+Debug at a lower level
+%
+Debug at an even lower level
+%
+Ask the wrong question as publicly as you can get away with
+%
+Re-code the same project over and over
+%
+Read a related book
+%
+Read an unrelated book
 
