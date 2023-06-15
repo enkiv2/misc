@@ -25,9 +25,9 @@ function mlcGetLength() {
 	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
 }
 
-function mlcPath2Pat() {
+function mlcPath2Key_() {
 	path="$@"
-	pat="^$(echo $path | md5sum | cut -d ' ' -f 1)\t"
+	echo $path | md5sum | cut -d ' ' -f 1
 }
 
 function mlcLockEngage_() {
@@ -42,14 +42,16 @@ function mlcLockDisengage_() {
 }
 
 function mlcReplaceDB_() {
-	> ~/.mlc.bak
+	cat > ~/.mlc.bak
+	echo "replace db diff" > /dev/stderr
+	diff ~/.mlc{,.bak} > /dev/stderr
 	mv ~/.mlc{.bak,}
 }
 
 function mlcEvict_() {
-	pat="$2"
+	echo "mlcEvict_ $1 $2" > /dev/stderr
 	mlcLockEngage_
-	grep -v "$2" ~/.mlc | mlcReplaceDB_
+	grep -v "^$2 " ~/.mlc | mlcReplaceDB_
 	mlcLockDisengage_
 }
 
@@ -59,37 +61,46 @@ function mlcEvict() {
 }
 
 function mlcLookupCache_() {
-	grep "$1" ~/.mlc
+	echo "mlcLookupCache_ $1" > /dev/stderr
+	grep "^$1 " ~/.mlc
 }
 
 function mlcEnter_() {
+	path="$1"
+	pat="$2"
+	echo "mlcEnter_ $path $pat" > /dev/stderr
 	mlcLockEngage_
 	(
-		echo "$2	$(stat -c '%Y' '$1')	$(mlcGetLength '$1')"
+		echo "$pat $(stat -c '%Y' $path) $(mlcGetLength $path)"
 		cat ~/.mlc
-	) | mlcReplaceDB_
+	) | tee /dev/stderr | mlcReplaceDB_
 	mlcLockDisengage_ 
 }
 
 function mlcLookup_() {
 	path="$1"
 	pat="$2"
-	cached="$(mlcLookupCache_ \"$pat\")"
-	[ -z "$cached" ] || (
-		date=$(echo "$cached" | cut -d '	' -f 2)
+	echo "mlcLookup_ $path $pat" > /dev/stderr
+	cached="$(mlcLookupCache_ $pat)"
+	[ -z "$cached" ] || {
+		echo "found cache: $cached" > /dev/stderr
+		date=$(echo "$cached" | cut -d\  -f 2)
 		if [ $date -lt $(stat -c '%Y' "$path") ] ; then
+			echo "evicting" > /dev/stderr
 			mlcEvict_ "$path" "$pat"
-			cached="$(mlcLookupCache_ \"$pat\")"
+			cached="$(mlcLookupCache_ $pat)"
 		fi
-	)
-	[ -z "$cached" ] || (
+	}
+	[ -z "$cached" ] && {
 		mlcEnter_ "$path" "$pat"
-		cached="$(mlcLookupCache_ \"$pat\")"
-	)
-	echo "$cached" | cut -d '	' -f 3
+		cached="$(mlcLookupCache_ $pat)"
+	}
+	echo "cache line: $cached" > /dev/stderr
+	echo "$cached" | cut -d\  -f 3
 }
 
 function mlcLookup() {
+	[ -e ~/.mlc ] || touch ~/.mlc
 	path="$@"
-	mlcLookup_ "$path" "$(mlcPath2Pat $path)"
+	mlcLookup_ "$path" "$(mlcPath2Key_ $path)"
 }
