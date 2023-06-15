@@ -53,8 +53,8 @@ function mlcEvict_() {
 }
 
 function mlcEvict() {
-	path="$@"
-	mlcEvict_ "$path" "$(mlcPath2Pat $path)"	
+	path=$(realpath "$@")
+	mlcEvict_ "$path" `mlcPath2Pat "$path"`	
 }
 
 function mlcLookupCache_() {
@@ -65,8 +65,10 @@ function mlcEnter_() {
 	path="$1"
 	pat="$2"
 	mlcLockEngage_
+	date=`stat -c '%Y' "$path"`
+	length=`mlcGetLength "$path"`
 	(
-		echo "$pat $(stat -c '%Y' $path) $(mlcGetLength $path)"
+		echo "$pat $date $length"
 		cat ~/.mlc
 	) | mlcReplaceDB_
 	mlcLockDisengage_ 
@@ -78,10 +80,11 @@ function mlcLookup_() {
 	cached="$(mlcLookupCache_ $pat)"
 	[ -z "$cached" ] || {
 		date=$(echo "$cached" | cut -d\  -f 2)
-		if [ $date -lt $(stat -c '%Y' "$path") ] ; then
+		date2=`stat -c '%Y' "$path"`
+		([ -z "$date" ] || [ $date -lt $date2 ] ) && {
 			mlcEvict_ "$path" "$pat"
 			cached="$(mlcLookupCache_ $pat)"
-		fi
+		}
 	}
 	[ -z "$cached" ] && {
 		mlcEnter_ "$path" "$pat"
@@ -93,5 +96,8 @@ function mlcLookup_() {
 function mlcLookup() {
 	[ -e ~/.mlc ] || touch ~/.mlc
 	path="$@"
-	mlcLookup_ "$path" "$(mlcPath2Key_ $path)"
+	[ -e "$path" ] && {
+		path=`realpath "$path"`
+		mlcLookup_ "$path" "$(mlcPath2Key_ $path)"
+	} || echo 0
 }
