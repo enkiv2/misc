@@ -1,0 +1,205 @@
+#!/usr/bin/env bash
+
+rm -f .dj
+touch .dj
+
+. ./mlc
+
+function getID3() {
+	mplayer -vo null -ao null -identify -frames 0 "$@" |& awk 'BEGIN{FS="="} /^ID_CLIP_INFO_NAME./{nextItem=$2} /^ID_CLIP_INFO_VALUE./{if($2) {idtag[nextItem]=$2}} END{for(i in idtag) { print i "\t" idtag[i] } }'
+}
+
+function describeTrack() {
+	if [[ `mlcLookup "$@"` != 0 ]]; then	
+		getID3 "$@" | awk '
+			BEGIN {
+				FS="\t"
+				srand()
+			}
+			{
+				idtag[$1]=$2
+			}
+			function randint(n) {
+				r=rand()
+				return int(n*r)
+			}
+			function randitem(a) {
+				return a[randint(length(a))+1]
+			}
+			function randsplit(s) {
+				split(s, sa, /,/)
+				return randitem(sa)
+			}
+			END {
+				artist=idtag["Artist"]
+				title=idtag["Title"]
+				year=idtag["Year"]
+				album=idtag["Album"]
+				track=idtag["Track"]
+				if (artist && title) {
+					artistTitleIntros[1]=title " by " artist
+					artistTitleIntros[2]=artist " there with " title
+					print randitem(artistTitleIntros)
+					if (year > 0) {
+						deltay=strftime("%Y")-year
+						yearIntros[1]=year
+						if(deltay==0) {
+							yearIntros[length(yearIntros)+1]=randsplit("just,") " this year"
+						} else if(deltay==1) {
+							yearIntros[length(yearIntros)+1]="last year"
+						} else {
+							yearIntros[length(yearIntros)+1]="" deltay " years " randsplit("back,ago")
+							yearIntros[length(yearIntros)+1]="" year " thats " deltay " years " randsplit("back,ago")
+							if(deltay<=5) {
+								yearIntros[length(yearIntros)+1]="a " randsplit("couple,few") " years " randsplit("back,ago")
+							} else {
+								yearIntros[length(yearIntros)+1]=randsplit("way,") " back in " year
+								yearIntros[length(yearIntros)+1]=randsplit("way,") " back in " year " thats " deltay " years ago" randsplit("in case you lost track,")
+							}
+						}
+						print "from " randitem(yearIntros)
+					}
+					if (album) {
+						if (track > 0) {
+							trackIntros[1]="track number " track
+							if(track==1) {
+								trackIntros[length(trackIntros)+1]="the first track"
+							} else {
+								strTrack="" track
+								switch(substr(strTrack, length(strTrack)-1)) {
+									case 1:
+										th="st"
+										break
+									case 2:
+										th="nd"
+										break
+									case 3:
+										th="rd"
+										break
+									default:
+										th="th"
+								}
+								trackIntros[length(trackIntros)+1]="the " track th " track"
+							}
+							print randitem(trackIntros)
+						}
+						st=""
+						if(artist==album) {
+							st=randsplit("the,their," artist "s") " " randsplit("eponymous,self-titled") " " randsplit("album,release") ","
+						}
+						print randsplit("off" randsplit(" of,") ",from") " " randsplit(randsplit(st randsplit("the,their," artist "s") " " randsplit("album,release") ",") ",") " " album
+					}
+				}
+			}
+		'
+	fi | fmt -w 50
+}
+
+function randItem() {
+	{
+		for item in "$@" ; do
+			echo "$item"
+		done
+	} | shuf -n 1
+}
+
+function intro() {
+	were=$(randItem "we're" "")
+	starting="$(randItem $(randItem 'gonna start' 'starting off') $(randItem 'strong' ''))"
+	coming="coming $(randItem 'up' 'at you' 'right at you')"
+	randItem "$were $(randItem $starting $coming) with" "$(randItem 'coming' 'coming up' 'coming up next' 'up next' 'coming next' 'next') $(randItem 'is' 'with')"
+	first=''
+	for item in "$@" ; do
+		if [ -n "$first" ] ; then
+			randItem "then" "followed by" "followed up by" "and then" "and after that" "and then after that" "after that"
+		fi
+		echo "$item"
+		first=1
+	done
+}
+
+function outro_reverse() {
+	randItem 'just now we had' 'that just now was' 'we just finished listening to' 'we just listened to' 'we just heard'
+	first=''
+	while [[ "$#" -gt 0 ]] ; do
+		if [ -n "$first" ] ; then
+			randItem "which followed" "following" "and before that" "and then before that" "before that" "on the heels of" "before that we had" "then earlier earlier we had" "then before that we had" "and then before that we had"
+		fi
+		echo `shift $#`
+		first=1
+	done
+
+}
+
+function outro() {
+	if [[ $((RANDOM%2)) -gt 0 ]] ; then
+		outro_reverse "$@"
+	else
+		randItem 'that was' 'first up was' 'we had' 'after the last break we had'
+		first=''
+		for item in "$@" ; do
+			if [ -n "$first" ] ; then
+				randItem "then" "followed by" "followed up by" "and then" "and after that" "and then after that" "after that"
+			fi
+			echo "$item"
+			first=1
+		done
+	fi
+}
+
+function getNextPath() {
+	head -n 1 .dj
+	tail -n +2 .dj > .dj2
+	mv .dj{2,}
+}
+
+function synthShow() {
+	while read x ; do
+		osdctl -s "$x" &
+		echo "$x" | festival --tts &
+		wait
+	done
+}
+
+function introOutroPlayCycle() {
+	path1=`getNextPath`
+	desc1=`describeTrack "$path1"`
+	while [ -z "$desc1" ] ; do
+		path1=`getNextPath`
+		desc1=`describeTrack "$path1"`
+	done
+
+	path2=`getNextPath`
+	desc2=`describeTrack "$path2"`
+	while [ -z "$desc2" ] ; do
+		path2=`getNextPath`
+		desc2=`describeTrack "$path2"`
+	done
+
+	path3=`getNextPath`
+	desc3=`describeTrack "$path3"`
+	while [ -z "$desc3" ] ; do
+		path3=`getNextPath`
+		desc3=`describeTrack "$path3"`
+	done
+
+	if [[ $((RANDOM%2)) -gt 0 ]]; then
+		intro "$desc1"
+	else
+		intro "$desc1" "$desc2" "$desc3"
+	fi | synthShow
+	
+	for i in "$path1" "$path2" "$path3" ; do
+		osdctl -s "$i" &
+		(mplayer -vo null -vc null "$i" 2>&1)> /dev/stderr
+		wait
+	done
+	
+	outro "$desc1" "$desc2" "$desc3" | synthShow
+}
+
+osdsh
+osdsh -a 1
+
+(for i in "$@" ; do find "$i" -type f ; done) | grep . | shuf  > .dj 
+introOutroPlayCycle
