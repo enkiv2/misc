@@ -12,6 +12,16 @@ cmdname=$0
 pid=$$
 dir=~/.fake-mvgen/${pid}
 
+USE_MLC=""
+(which mlc 2>&1) > /dev/null && {
+	. `which mlc` &&
+	USE_MLC=`which mlc`
+}
+[ -e mlc ] && {
+	. ./mlc &&
+	USE_MLC="mlc"
+}
+
 DEBUGLEVEL=0
 
 function dprint() {
@@ -52,7 +62,10 @@ function help() {
 
 
 function getLength() {
-	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
+	[ -z "$USE_MLC" ] && {
+		mlcLookup "$@"
+	} || 
+		(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
 }
 function getFPS() {
 	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_VIDEO_FPS=[0-9\.]*$' || echo 0) | sed 's/^ID_VIDEO_FPS*=//;s/\..*$//' )2>/dev/null
