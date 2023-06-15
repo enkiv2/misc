@@ -1,0 +1,95 @@
+#!/usr/bin/env zsh
+
+# mlc - Media Length Cache
+# store length with timestamps in a cache
+#
+# functions that end in _ are dangerous and
+# intended for internal use only
+#
+# normally, the only thing you need to do is 
+# import,
+#  . mlc
+# then run,
+#  mlcLookup $path
+# which yields the duration in seconds of a
+# media file.
+# 
+# media files can be in any format supported
+# by mplayer; any file that mplayer cannot 
+# determine the length of will appear as zero
+
+MLC_POLL_DUR="0.1"
+[ -e ~/.mlc ] || touch ~/.mlc
+
+function mlcGetLength() {
+	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
+}
+
+function mlcPath2Pat() {
+	path="$@"
+	pat="^$(echo $path | md5sum | cut -d ' ' -f 1)\t"
+}
+
+function mlcLockEngage_() {
+	while [ -e ~/.mlc.lock ] ; do
+		sleep $MLC_POLL_DUR
+	done
+	touch ~/.mlc.lock
+}
+
+function mlcLockDisengage_() {
+	rm ~/.mlc.lock
+}
+
+function mlcReplaceDB_() {
+	> ~/.mlc.bak
+	mv ~/.mlc{.bak,}
+}
+
+function mlcEvict_() {
+	pat="$2"
+	mlcLockEngage_
+	grep -v "$2" ~/.mlc | mlcReplaceDB_
+	mlcLockDisengage_
+}
+
+function mlcEvict() {
+	path="$@"
+	mlcEvict_ "$path" "$(mlcPath2Pat $path)"	
+}
+
+function mlcLookupCache_() {
+	grep "$1" ~/.mlc
+}
+
+function mlcEnter_() {
+	mlcLockEngage_
+	(
+		echo "$2	$(stat -c '%Y' '$1')	$(mlcGetLength '$1')"
+		cat ~/.mlc
+	) | mlcReplaceDB_
+	mlcLockDisengage_ 
+}
+
+function mlcLookup_() {
+	path="$1"
+	pat="$2"
+	cached="$(mlcLookupCache_ \"$pat\")"
+	[ -z "$cached" ] || (
+		date=$(echo "$cached" | cut -d '	' -f 2)
+		if [ $date -lt $(stat -c '%Y' "$path") ] ; then
+			mlcEvict_ "$path" "$pat"
+			cached="$(mlcLookupCache_ \"$pat\")"
+		fi
+	)
+	[ -z "$cached" ] || (
+		mlcEnter_ "$path" "$pat"
+		cached="$(mlcLookupCache_ \"$pat\")"
+	)
+	echo "$cached" | cut -d '	' -f 3
+}
+
+function mlcLookup() {
+	path="$@"
+	mlcLookup_ "$path" "$(mlcPath2Pat $path)"
+}
