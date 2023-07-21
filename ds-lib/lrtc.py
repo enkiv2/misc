@@ -51,7 +51,7 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 				distance_from_x = []
 				for y in training_set:
 						distance_from_x1.append(normalized_compression_distance(x, y))
-				sorted_idx = np.argsort(np.array(distance_from_x1))
+				sorted_idx = np.argsort(np.array(distance_from_x))
 				top_k_class = training_set[sorted_idx[:k], 1]
 				predict_class = max(set(top_k_class), key=top_k_class.count)
 				ret.append(predict_class)
