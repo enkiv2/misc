@@ -3,8 +3,10 @@
 import gzip
 import numpy as np
 
+LabeledString = tuple[str, str]
+
 k_cache={}
-def k_complexity(value, label, memoize=True):
+def k_complexity(value:str, label:str, memoize:bool = True) -> int:
 		"""
 		Estimate Kolmgorov complexity of a string using compression. Optionally, memoize these results.
 		"""
@@ -15,13 +17,13 @@ def k_complexity(value, label, memoize=True):
 				k_cache[label]=ret
 		return ret
 
-def normalized_compression_distance(x, y):
+def normalized_compression_distance(x:LabeledString, y:LabeledString) -> float:
 		"""
 		Normalized Compression Distance formula from Li, et al. (2004) as described in Jiang, et al. (2023)
 
 		Args:
-				x (tuple<str,str>): a tuple consisting of a string and its label
-				y (tuple<str,str>): a tuple consisting of a string and its label
+				x (LabeledString): a tuple consisting of a string and its label
+				y (LabeledString): a tuple consisting of a string and its label
 
 		Returns:
 				number: the normalized compression distance between x and y
@@ -32,7 +34,7 @@ def normalized_compression_distance(x, y):
 		Cxy = k_complexity(xy, "", False)
 		return Cxy - min(Cx, Cy) / max(Cx, Cy)
 
-def lrtc(test_set, training_set, k=2):
+def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int = 2):
 		"""
 		Low Resource Text Classifier, based on Jiang, et al. (2023)
 
