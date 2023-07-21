@@ -34,6 +34,7 @@ def normalized_compression_distance(x:LabeledString, y:LabeledString) -> float:
 		Cxy = k_complexity(xy, "", False)
 		return Cxy - min(Cx, Cy) / max(Cx, Cy)
 
+
 def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int = 2):
 		"""
 		Low Resource Text Classifier, based on Jiang, et al. (2023)
@@ -57,11 +58,12 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 				ret.append(predict_class)
 		return ret
 
-def nltk_corpus_to_labeled_string_array(c):
+def nltk_corpus_to_labeled_string_array(c, max_items=10):
 		ret=[]
-		for i in c.sents():
+		sents=c.sents()
+		for i in sents[:min(len(sents), max_items)]:
 				s = " ".join(i)
-				ret.append((s, hash(s)))
+				ret.append((s, str(hash(s))))
 		return np.asarray(ret)
 
 from nltk.corpus import brown, treebank
