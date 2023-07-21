@@ -30,7 +30,7 @@ def normalized_compression_distance(x:LabeledString, y:LabeledString) -> float:
 		"""
 		Cx = k_complexity(*x)
 		Cy = k_complexity(*y)
-		xy = " ".join([x[0], y[0])
+		xy = " ".join([x[0], y[0]])
 		Cxy = k_complexity(xy, "", False)
 		return Cxy - min(Cx, Cy) / max(Cx, Cy)
 
