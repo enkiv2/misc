@@ -50,10 +50,25 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 		for x in test_set:
 				distance_from_x = []
 				for y in training_set:
-						distance_from_x1.append(normalized_compression_distance(x, y))
+						distance_from_x.append(normalized_compression_distance(x, y))
 				sorted_idx = np.argsort(np.array(distance_from_x))
 				top_k_class = training_set[sorted_idx[:k], 1]
 				predict_class = max(set(top_k_class), key=top_k_class.count)
 				ret.append(predict_class)
 		return ret
+
+def nltk_corpus_to_labeled_string_array(c):
+		ret=[]
+		for i in c.sents():
+				s = " ".join(i)
+				ret.append((s, hash(s)))
+		return ret
+
+from nltk.corpus import brown, treebank
+
+brown_set = nltk_corpus_to_labeled_string_array(brown)
+tb_set = nltk_corpus_to_labeled_string_array(treebank)
+foo=lrtc(brown_set, tb_set)
+print(type(foo))
+print(foo)
 
