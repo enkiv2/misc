@@ -58,7 +58,7 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 				ret.append(predict_class)
 		return ret
 
-def nltk_corpus_to_labeled_string_array(c, max_items=100):
+def nltk_corpus_to_labeled_string_array(c, max_items=1000):
 		ret=[]
 		sents=c.sents()
 		if max_items < 0:
