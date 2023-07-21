@@ -18,6 +18,13 @@ def k_complexity(value, label, memoize=True):
 def normalized_compression_distance(x, y):
 		"""
 		Normalized Compression Distance formula from Li, et al. (2004) as described in Jiang, et al. (2023)
+
+		Args:
+				x (tuple<str,str>): a tuple consisting of a string and its label
+				y (tuple<str,str>): a tuple consisting of a string and its label
+
+		Returns:
+				number: the normalized compression distance between x and y
 		"""
 		Cx = k_complexity(*x)
 		Cy = k_complexity(*y)
@@ -25,9 +32,17 @@ def normalized_compression_distance(x, y):
 		Cxy = k_complexity(xy, "", False)
 		return Cxy - min(Cx, Cy) / max(Cx, Cy)
 
-def lrtc(test_set, training_set, k):
+def lrtc(test_set, training_set, k=2):
 		"""
 		Low Resource Text Classifier, based on Jiang, et al. (2023)
+
+		Args:
+				test_set (array<tuple<str,str>>): the strings we are classifying
+				training_set (array<tuple<str,str>>): the base corpus
+				k (int): neighbour count for k-NN algorithm
+
+		Returns:
+				an array of predicted classes
 		"""
 		ret=[]
 		for x in test_set:
