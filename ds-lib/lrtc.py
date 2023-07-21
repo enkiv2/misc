@@ -35,7 +35,7 @@ def normalized_compression_distance(x:LabeledString, y:LabeledString) -> float:
 		return Cxy - min(Cx, Cy) / max(Cx, Cy)
 
 
-def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int = 2):
+def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int = 2) -> list[str]:
 		"""
 		Low Resource Text Classifier, based on Jiang, et al. (2023)
 
@@ -45,7 +45,7 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 				k (int): neighbour count for k-NN algorithm
 
 		Returns:
-				an array of predicted classes
+				list<str>: an array of predicted classes (as the label for the nearest neighbour)
 		"""
 		ret=[]
 		for x in test_set:
@@ -58,19 +58,27 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 				ret.append(predict_class)
 		return ret
 
-def nltk_corpus_to_labeled_string_array(c, max_items=10):
+def nltk_corpus_to_labeled_string_array(c, max_items=100):
 		ret=[]
 		sents=c.sents()
+		if max_items < 0:
+				max_items=len(sents)
 		for i in sents[:min(len(sents), max_items)]:
 				s = " ".join(i)
 				ret.append((s, str(hash(s))))
 		return np.asarray(ret)
 
+def prettyprint_lrtc_matches(x, y, k=2):
+		dy={}
+		for item in y:
+				dy[item[1]]=item[0]
+		predict_classes = lrtc(x, y, k)
+		for i, item in enumerate(x):
+				print(item[0])
+				print(f"\t{dy[predict_classes[i]]}\n", flush=True)
+
 from nltk.corpus import brown, treebank
 
 brown_set = nltk_corpus_to_labeled_string_array(brown)
 tb_set = nltk_corpus_to_labeled_string_array(treebank)
-foo=lrtc(brown_set, tb_set)
-print(type(foo))
-print(foo)
-
+prettyprint_lrtc_matches(brown_set, tb_set)
