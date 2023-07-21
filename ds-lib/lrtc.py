@@ -15,20 +15,25 @@ def k_complexity(value, label, memoize=True):
 				k_cache[label]=ret
 		return ret
 
+def normalized_compression_distance(x, y):
+		"""
+		Normalized Compression Distance formula from Li, et al. (2004) as described in Jiang, et al. (2023)
+		"""
+		Cx = k_complexity(*x)
+		Cy = k_complexity(*y)
+		xy = " ".join([x[0], y[0])
+		Cxy = k_complexity(xy, "", False)
+		return Cxy - min(Cx, Cy) / max(Cx, Cy)
+
 def lrtc(test_set, training_set, k):
 		"""
-		Low Resource Text Classifier, based on Jiang, et al (2023)
+		Low Resource Text Classifier, based on Jiang, et al. (2023)
 		"""
 		ret=[]
-		for (x1, label1) in test_set:
-				Cx1 = k_complexity(x1, label1)
-				distance_from_x1 = []
-				for (x2, label2) in training_set:
-						Cx2 = k_complexity(x2, label2)
-						x1x2 = " ".join([x1, x2])
-						Cx1x2 = k_complexity(x1x2, " ".join([label1, label2]))
-						ncd = Cx1x2 - min(Cx1, Cx2) / max(Cx1, Cx2)
-						distance_from_x1.append(ncd)
+		for x in test_set:
+				distance_from_x = []
+				for y in training_set:
+						distance_from_x1.append(normalized_compression_distance(x, y))
 				sorted_idx = np.argsort(np.array(distance_from_x1))
 				top_k_class = training_set[sorted_idx[:k], 1]
 				predict_class = max(set(top_k_class), key=top_k_class.count)
