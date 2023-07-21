@@ -58,16 +58,6 @@ def lrtc(test_set:list[LabeledString], training_set:list[LabeledString], k:int =
 				ret.append(predict_class)
 		return ret
 
-def nltk_corpus_to_labeled_string_array(c, max_items=1000):
-		ret=[]
-		sents=c.sents()
-		if max_items < 0:
-				max_items=len(sents)
-		for i in sents[:min(len(sents), max_items)]:
-				s = " ".join(i)
-				ret.append((s, str(hash(s))))
-		return np.asarray(ret)
-
 def prettyprint_lrtc_matches(x, y, k=2):
 		dy={}
 		for item in y:
@@ -77,8 +67,3 @@ def prettyprint_lrtc_matches(x, y, k=2):
 				print(item[0])
 				print(f"\t{dy[predict_classes[i]]}\n", flush=True)
 
-from nltk.corpus import brown, treebank
-
-brown_set = nltk_corpus_to_labeled_string_array(brown)
-tb_set = nltk_corpus_to_labeled_string_array(treebank)
-prettyprint_lrtc_matches(brown_set, tb_set)
