@@ -57,6 +57,9 @@ label true_end:
     misato "Because I am a telepath."
     n "She runs past him and bursts through the door to nowhere, focusing her whole mind on the intent to transmit."
     misato "{i}THERE'S A FIRE! EVACUATE NOW!{/i}"
+    n "The door opens into a black void, and behind that, another open door. The doorways multiply, then simplify into neon rectangles."
+    n "Misato's back comes into frame, rotating, and the rectangles distort around her silhouette, the distortions becoming flames, then the outline of a cat's head."
+    n "Misato turns in space, and we zoom into her face: she is falling, and we are falling with her."
     n "As she falls, she glimpses a lick of flame through the door she just exited through the corner of her eye, and hears a support collapse, then is overtaken by merciful darkness."
     scene black
     with dissolve
