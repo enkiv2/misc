@@ -54,6 +54,13 @@ init python:
     achievement.register("Bad end")
     achievement.register("Complete")
 
+    def averageAffinity():
+        return (trust_akane + trust_hanabi + trust_yuuko + trust_miko + trust_mina + trust_hikari + trust_akiko) / 7
+
+    def nightlyUpdates(): # all of the various bookkeeping things we want to do each night
+        updateParanoia(0-min(25, averageAffinity), True)
+        checkAchievements()
+
     def checkAchievements():
         global akane_route_achieved, hanabi_route_achieved, yuuko_route_achieved, miko_route_achieved, mina_route_achieved, hikari_route_achieved, akiko_route_achieved, harem_route_allowed, harem_route_achieved
         global day
@@ -121,24 +128,40 @@ init python:
         elif day==46:
             achievement.grant("May flowers")
 
-    def updateParanoia(delta):
-        if delta > 0:
-            misato("I have a bad feeling about this...")
-        elif delta < 0:
-            misato("That's a relief...")
+    def updateParanoia(delta, silent=False):
+        if not silent:
+            if delta > 0:
+                misato("I have a bad feeling about this...")
+            elif delta < 0:
+                misato("That's a relief...")
         paranoia += delta
-        if paranoia >= 100:
+        if paranoia < 0:
+            paranoia = 0
+        elif paranoia >= 100:
             paranoia=100
             panicAttack()
 
     def panicAttack():
         misato("I don't feel so good...")
+        renpy.with_statement("fade")
+        renpy.show("static1")
         achievement.grant("Panic! In the nave.")
+        renpy.with_statement("fade")
+        renpy.show("dream")
+        n("A wave of hollow, ringing nausea hits Misato like a medicine ball to the stomach.")
+        n("Suddenly high, she stumbles, her head wobbling like an over-full water balloon.")
         if random.randint(0, 100) < 10: # for now, one in ten panic attacks lead to death
             if random.randint(0, 100) < 25: # one quarter are strokes
-                comment("Misato has a stroke")
+                n("She stares at her left arm through the corner of her eye: still present, it seemed alien somehow.")
+                n("The scent's pungent, floral: lillies and roses and lavender, like an old lady's perfume cabinet smashed.")
+                n("A thin rivulet of blood ran down her philtrum and along her cupid's bow, before dripping into the corner of her mouth.")
+                n("Her right leg kicked helplessly as she fell to her left.")
+                renpy.say("distorted voice", "... can't ... pulling out ... no, she... vegetable ...")
             else:
-                comment("Misato has a heart attack")
+                n("A sudden tightness blooms like strangling kudzu across Misato's chest.")
+                n("Her left arm, seemingly so far away, is interrupted by a wash of static.")
+                n("The ache in her chest expands to encompass her entire consciousness.")
+                renpy.say("distorted voice", "... coming out of it now ... bitch had a... yeah... infarction ...")
            achievement.grant("The heart police have put you under cardiac arrest")
            renpy.call("badEnd") 
-        paranoia = 90
+        paranoia -= random.randint(1, 10)
