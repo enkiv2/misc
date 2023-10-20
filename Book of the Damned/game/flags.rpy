@@ -6,6 +6,15 @@ define debugMode = False
 
 define day = 0
 
+define paranoia = 0 # paranoia mechanic is similar to a sanity mechanic.
+# It increases when Misato experiences something scary, and decreases when
+# she experiences something calming. It decreases overnight in a way that
+# is proportional to various affinity scores. If it gets to 100%, Misato has
+# a panic attack and faints, has a nightmare, and has some possibility of 
+# having a heart attack or stroke; if she survives, paranoia is decreased by 10%.
+# The paranoia score affects Misato's likelihood of preferring certain 
+# decisions, and also will affect dream selection.
+
 define akane_route_achieved = False
 define hanabi_route_achieved = False
 define yuuko_route_achieved = False
@@ -38,6 +47,9 @@ init python:
     achievement.register("A cat just walked over my grave.")
     achievement.register("Moja sestra? Moja sestra.")
     achievement.register("Heaviside layer")
+
+    achievement.register("Panic! In the nave.")
+    achievement.register("The heart police have put you under cardiac arrest")
 
     achievement.register("Bad end")
     achievement.register("Complete")
@@ -108,3 +120,25 @@ init python:
             achievement.grant("April showers")
         elif day==46:
             achievement.grant("May flowers")
+
+    def updateParanoia(delta):
+        if delta > 0:
+            misato("I have a bad feeling about this...")
+        elif delta < 0:
+            misato("That's a relief...")
+        paranoia += delta
+        if paranoia >= 100:
+            paranoia=100
+            panicAttack()
+
+    def panicAttack():
+        misato("I don't feel so good...")
+        achievement.grant("Panic! In the nave.")
+        if random.randint(0, 100) < 10: # for now, one in ten panic attacks lead to death
+            if random.randint(0, 100) < 25: # one quarter are strokes
+                comment("Misato has a stroke")
+            else:
+                comment("Misato has a heart attack")
+           achievement.grant("The heart police have put you under cardiac arrest")
+           renpy.call("badEnd") 
+        paranoia = 90
