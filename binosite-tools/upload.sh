@@ -3,7 +3,7 @@
 failed=""
 
 function upload() {
-	scp -r "$@" accela_miniaturebinoculars@ssh.phx.nearlyfreespeech.net:/home/public/ 
+	scp -r "$@" accela_miniaturebinoculars@ssh.nyc1.nearlyfreespeech.net:/home/public/ 
 }
 
 

@@ -11,7 +11,8 @@ while : ; do
 	(for dir in "$@" ; do
 		find $dir -type f
 	done) | shuf | while read x ; do
-		feh --bg-tile ~/Downloads/dingir.jpg
+		feh --bg-max "$x" &&
+		feh --bg-tile ~/Downloads/dingir.jpg &&
 		feh --bg-max "$x" && sleep $delay
 	done
 done
