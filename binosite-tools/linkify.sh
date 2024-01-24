@@ -125,7 +125,8 @@ for i in part?/Page*.htm; do
 	sed -i 's|OTHER BINOCULARS #12|<a href="/part7/Page1014.htm">OTHER BINOCULARS #12</a>|g' $i ; printf .
 	sed -i 's|OTHER BINOCULARS #13|<a href="/part7/Page4487.htm">OTHER BINOCULARS #13</a>|g' $i ; printf .
 	sed -i 's|OTHER BINOCULARS #14|<a href="/part7/Page563.htm">OTHER BINOCULARS #14</a>|g' $i ; printf .
-	sed -i 's|OTHER BINOCULARS #1\([^0123]\)|<a href="/part6/Page21222.htm">OTHER BINOCULARS #1</a>\1|g' $i ; printf .
+	sed -i 's|OTHER BINOCULARS #15|<a href="/part7/Page1959.htm">OTHER BINOCULARS #15</a>|g' $i ; printf .
+	sed -i 's|OTHER BINOCULARS #1\([^012345]\)|<a href="/part6/Page21222.htm">OTHER BINOCULARS #1</a>\1|g' $i ; printf .
 	sed -i 's|OTHER BINOCULARS #2|<a href="/part6/Page2762.htm">OTHER BINOCULARS #2</a>|g' $i ; printf .
 	sed -i 's|OTHER BINOCULARS #3|<a href="/part6/Page3047.htm">OTHER BINOCULARS #3</a>|g' $i ; printf .
 	sed -i 's|OTHER BINOCULARS #4|<a href="/part6/Page3260.htm">OTHER BINOCULARS #4</a>|g' $i ; printf .
