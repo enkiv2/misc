@@ -2,7 +2,7 @@
 
 import os, sys
 import re
-import datetime, requests
+import datetime, requests, json
 import atprototools
 
 class MySession(atprototools.Session):
@@ -52,6 +52,7 @@ class MySession(atprototools.Session):
             }]
         if reply_to:
             data['record']['reply'] = reply_to
+        print(json.dumps(data, indent=1))
         resp = requests.post(
             self.ATP_HOST + "/xrpc/com.atproto.repo.createRecord",
             json=data,
