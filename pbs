@@ -1,8 +1,81 @@
 #!/usr/bin/env python
 
 import os, sys
+import re
+import datetime, requests
 import atprototools
 
-atp = atprototools.Session(os.environ.get('BSKY_USERNAME'), os.environ.get('BSKY_PASSWORD'))
-atp.postBloot(sys.stdin.read().rstrip())
+class MySession(atprototools.Session):
+    def postBloot(self, postcontent, image_path = None, timestamp=None, reply_to=None, facets=None):
+        """Post a bloot."""
+        #reply_to expects a dict like the following
+        # {
+        #     #root is the main original post
+        #     "root": {
+        #         "cid": "bafyreig7ox2h5kmcmjukbxfpopy65ggd2ymhbnldcu3fx72ij3c22ods3i", #CID of root post
+        #         "uri": "at://did:plc:nx3kofpg4oxmkonqr6su5lw4/app.bsky.feed.post/3juhgsu4tpi2e" #URI of root post
+        #     },
+        #     #parent is the comment you want to reply to, if you want to reply to the main post directly this should be same as root
+        #     "parent": {
+        #         "cid": "bafyreie7eyj4upwzjdl2vmzqq4gin3qnuttpb6nzi6xybgdpesfrtcuguu",
+        #         "uri": "at://did:plc:mguf3p2ana5qzs7wu3ss4ghk/app.bsky.feed.post/3jum6axhxff22"
+        #     }
+        #}
+        if not timestamp:
+            timestamp = datetime.datetime.now(datetime.timezone.utc)
+        timestamp = timestamp.isoformat().replace('+00:00', 'Z')
+
+        headers = {"Authorization": "Bearer " + self.ATP_AUTH_TOKEN}
+
+        data = {
+            "collection": "app.bsky.feed.post",
+            "$type": "app.bsky.feed.post",
+            "repo": "{}".format(self.DID),
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": timestamp,
+                "text": postcontent
+            }
+        }
+        if facets:
+            data['facets']=facets
+
+        if image_path:
+            data['record']['embed'] = {}
+            image_resp = self.uploadBlob(image_path, "image/jpeg")
+            x = image_resp.json().get('blob')
+            image_resp = self.uploadBlob(image_path, "image/jpeg")
+            data["record"]["embed"]["$type"] = "app.bsky.embed.images"
+            data['record']["embed"]['images'] = [{
+                "alt": "",
+                "image": image_resp.json().get('blob')
+            }]
+        if reply_to:
+            data['record']['reply'] = reply_to
+        resp = requests.post(
+            self.ATP_HOST + "/xrpc/com.atproto.repo.createRecord",
+            json=data,
+            headers=headers
+        )
+
+        return resp
+
+urlPat=re.compile("([A-Za-z]+\\://[^ ]+)")
+
+atp = MySession(os.environ.get('BSKY_USERNAME'), os.environ.get('BSKY_PASSWORD'))
+text=sys.stdin.read().rstrip()
+facets=[]
+for url in urlPat.finditer(text):
+    facets.append(
+        {
+            "index": {
+                "byteStart": url.start(1),
+                "byteEnd": url.end(1)
+            },
+            "features":{
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": url.group()
+            }
+        }       )
+atp.postBloot(text, facets=facets)
 
