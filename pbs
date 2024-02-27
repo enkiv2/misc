@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+import os, sys
+import atprototools
+
+atp = atprototools.Session(os.environ.get('BSKY_USERNAME'), os.environ.get('BSKY_PASSWORD'))
+atp.postBloot(sys.stdin.read().rstrip())
+

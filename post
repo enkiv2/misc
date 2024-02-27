@@ -1,6 +1,7 @@
 #!/usr/bin/env zsh
 args="$@"
 #tpost "$args"
+echo "$args" | pbs
 yes | twtxt tweet "$args"
 echo -e "toot -v $args\nu" | ~/.local/bin/tootstream
 #sbot publish --type post --text "$args"

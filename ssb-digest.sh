@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh
-sbot publish --type post --text "$(
+#sbot publish --type post --text "$(
 	shuf -n 23 ~/.linkit | 
   sed 's|//medium.com/|//scribe.rip/|g' |
 	awk '
@@ -13,5 +13,6 @@ sbot publish --type post --text "$(
 		print "* [" title "](" $1 ") originally archived on " $2; 
 	} END { 
 		print "\n[full archive](http://www.lord-enki.net/links.html)"
-	}')"
+	}' | xclip
+#)"
 
