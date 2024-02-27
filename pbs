@@ -38,7 +38,7 @@ class MySession(atprototools.Session):
             }
         }
         if facets:
-            data['facets']=facets
+            data['record']['facets']=facets
 
         if image_path:
             data['record']['embed'] = {}
@@ -73,10 +73,12 @@ for url in urlPat.finditer(text):
                 "byteStart": url.start(1),
                 "byteEnd": url.end(1)
             },
-            "features":{
+            "features":[{
                 "$type": "app.bsky.richtext.facet#link",
                 "uri": url.group()
-            }
+            }]
         }       )
-atp.postBloot(text, facets=facets)
+resp=atp.postBloot(text, facets=facets)
+print(resp.status_code)
+print(resp.text)
 
