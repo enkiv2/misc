@@ -17,12 +17,8 @@ mkdir -p $extdir
 	)
 )
 
-function recurse_stream() {
-	mkdir -p $extdir
+function extract_by_type() {
 	type=$1 ; shift
-
-	echo -e "=====\n\ttype: $type\n\tfilename: $@\n\textdir: $extdir\n=====\n"
-
 	case $type in
 		zip)
 			unzip "$@" -d "$extdir"
@@ -38,9 +34,6 @@ function recurse_stream() {
 		;;
 		iso)
 			fuseiso "$@" "$extdir"
-			$cmd $delay $extdir
-			umount "$extdir"
-			return
 		;;
 		mp4)
 			path="$(realpath "$@")"
@@ -48,15 +41,45 @@ function recurse_stream() {
 			mplayer -ao null -vo jpeg	"$path"
 			popd
 		;;
+	esac
+}
+
+function display_by_type() {
+	type=$1 ; shift
+	case $type in
+		zip|rar|pdf|html|iso|mp4)
+			$cmd $delay $extdir
+		;;
 		*)
 			feh --bg-max "$@" &&
 			feh --bg-tile ~/Downloads/dingir.jpg &&
 			feh --bg-max "$@" && sleep $delay
-			return
+		;;
+	esac	
+}
+
+function cleanup_by_type() {
+	type=$1
+	case $type in
+		iso)
+			umount $extdir
+			rm -rf $extdir
+		;;
+		*)
+			rm -rf $extdir
 		;;
 	esac
-	$cmd $delay $extdir
-	rm -rf $extdir
+}
+
+function recurse_stream() {
+	mkdir -p $extdir
+	type=$1 ; shift
+
+	echo -e "=====\n\ttype: $type\n\tfilename: $@\n\textdir: $extdir\n=====\n"
+
+	extract_by_type "$type" "$x"
+	display_by_type "$type" "$x"
+	cleanup_by_type "$type"
 }
 
 rules='
