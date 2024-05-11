@@ -185,7 +185,21 @@ function filter_kaleid() {
 	convertCompositeFilterHelper "mirrorv" "mirrorv"
 }
 	
+function reverseCliplist() {
+	tac $dir/cliplist > $dir/cliplist.2
+	mv $dir/cliplist{.2,}
+}
 
+function filter_timetunnel() {
+	first=""
+	second=""
+	third=""
+	fourth=""
+	fifth=""
+	cat $dir/cliplist | while read clip ; do
+		[[ -z "$first" ]] || : # convert clip first
+	done
+}
 function convertHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
