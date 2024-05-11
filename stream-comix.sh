@@ -3,7 +3,19 @@
 cmd=$0
 delay=$1 ; shift
 
-extdir=~/.stream-comix/$$/
+basedir=~/.stream-comix/
+extdir=${basedir}/$$/
+mkdir -p $extdir
+
+( # Cleanup mechanism: upon startup, remove temp dirs not corresponding to currently running PIDs
+	cd $basedir && (
+		ps aux | awk '{print $2}' > $extdir/.live-pids
+		echo * | tr ' ' '\n' | while read x ; do
+			grep -q "^$x\$" $extdir/.live-pids || rm -rf $x
+		done
+		rm -f $extdir/.live-pids
+	)
+)
 
 function recurse_stream() {
 	mkdir -p $extdir
@@ -28,10 +40,12 @@ function recurse_stream() {
 			fuseiso "$@" "$extdir"
 			$cmd $delay $extdir
 			umount "$extdir"
+			return
 		;;
 		mp4)
+			path="$(realpath "$@")"
 			pushd "$extdir"
-			mplayer -ao null -vo jpeg	"$@"
+			mplayer -ao null -vo jpeg	"$path"
 			popd
 		;;
 		*)
