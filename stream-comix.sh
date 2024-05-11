@@ -67,9 +67,11 @@ function display_by_type() {
 			$cmd $delay $extdir
 		;;
 		*)
-			feh --bg-max "$@" &&
-			feh --bg-tile ~/Downloads/dingir.jpg &&
-			feh --bg-max "$@" && sleep $delay 				|& quiet 2
+			(
+				feh --bg-max "$@" &&
+				feh --bg-tile ~/Downloads/dingir.jpg &&
+				feh --bg-max "$@" && sleep $delay
+			) 																					|& quiet 2
 		;;
 	esac	
 }
