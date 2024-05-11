@@ -11,7 +11,7 @@ mkdir -p $extdir
 	cd $basedir && (
 		ps aux | awk '{print $2}' > $extdir/.live-pids
 		echo * | tr ' ' '\n' | while read x ; do
-			grep -q "^$x\$" $extdir/.live-pids || rm -rf $x
+			grep -q "^$x\$" $extdir/.live-pids || (rm -rf $x || (umount $x && rm -rf $x) || echo "Could not clean up tempdir $basedir/$x" > /dev/stderr )
 		done
 		rm -f $extdir/.live-pids
 	)
