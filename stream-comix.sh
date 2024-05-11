@@ -1,5 +1,7 @@
 #!/usr/bin/env zsh
 
+DEBUGLEVEL=0
+
 cmd=$0
 delay=$1 ; shift
 
@@ -7,11 +9,25 @@ basedir=~/.stream-comix/
 extdir=${basedir}/$$/
 mkdir -p $extdir
 
+function dprint() {
+	level=$1 ; shift
+	if [[ "$level" -lt "$DEBUGLEVEL" ]] ; then
+		echo -e "$@"
+	fi
+}
+
+function quiet() {
+	level=$1 ; shift
+	while read -r x ; do
+		dprint "$level" "$x"
+	done
+}
+
 ( # Cleanup mechanism: upon startup, remove temp dirs not corresponding to currently running PIDs
 	cd $basedir && (
 		ps aux | awk '{print $2}' > $extdir/.live-pids
 		echo * | tr ' ' '\n' | while read x ; do
-			grep -q "^$x\$" $extdir/.live-pids || (rm -rf $x || (umount $x && rm -rf $x) || echo "Could not clean up tempdir $basedir/$x" > /dev/stderr )
+			grep -q "^$x\$" $extdir/.live-pids || (rm -rf $x || (umount $x && rm -rf $x) || echo "Could not clean up tempdir $basedir/$x" > /dev/stderr ) |& quiet 1
 		done
 		rm -f $extdir/.live-pids
 	)
@@ -21,24 +37,24 @@ function extract_by_type() {
 	type=$1 ; shift
 	case $type in
 		zip)
-			unzip "$@" -d "$extdir"
+			unzip "$@" -d "$extdir" |& quiet 2
 		;;
 		rar)
-			unrar -x "$@" "$extdir"
+			unrar -x "$@" "$extdir" |& quiet 2
 		;;
 		pdf)
-			convert "$@" "$extdir/%3d.jpg"
+			convert "$@" "$extdir/%3d.jpg" |& quiet 2
 		;;
 		html)
-			pandoc "$@" "$extdir/out.pdf"
+			pandoc "$@" -o "$extdir/out.pdf" |& quiet 2
 		;;
 		iso)
-			fuseiso "$@" "$extdir"
+			fuseiso "$@" "$extdir" |& quiet 2
 		;;
 		mp4)
 			path="$(realpath "$@")"
 			pushd "$extdir"
-			mplayer -ao null -vo jpeg	"$path"
+			mplayer -ao null -vo jpeg	"$path" |& quiet 2
 			popd
 		;;
 	esac
@@ -53,7 +69,7 @@ function display_by_type() {
 		*)
 			feh --bg-max "$@" &&
 			feh --bg-tile ~/Downloads/dingir.jpg &&
-			feh --bg-max "$@" && sleep $delay
+			feh --bg-max "$@" && sleep $delay 				|& quiet 2
 		;;
 	esac	
 }
@@ -75,7 +91,7 @@ function recurse_stream() {
 	mkdir -p $extdir
 	type=$1 ; shift
 
-	echo -e "=====\n\ttype: $type\n\tfilename: $@\n\textdir: $extdir\n=====\n"
+	dprint 1 "=====\n\ttype: $type\n\tfilename: $@\n\textdir: $extdir\n=====\n"
 
 	extract_by_type "$type" "$x"
 	display_by_type "$type" "$x"
@@ -99,10 +115,10 @@ rules='
 				s/\.\(wmv|mpeg|avi|mkv|mov|mpg|webm\)$/.mp4/'
 
 (for dir in "$@" ; do
-	echo "Showing $dir"
+	dprint 1 "Showing $dir"
 	find $dir -type f
 done) | sort | while read x ; do 
-	echo "file: $x"
+	dprint 1 "File: $x"
 	type=$(echo "$x" | sed "$rules" | tr 'A-Z' 'a-z' | sed 's/^.*\.\([^.]*\)$/\1/')
 	recurse_stream "$type" "$x"
 done
