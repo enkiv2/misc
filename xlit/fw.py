@@ -61,6 +61,9 @@ class FWObj:
 	  for child in self.children:
 		  child.render(screen)
   @property
+  def bbox(self):
+	  return [self.pos, self.pos+self.size]
+  @property
 	def children(self):
 	  cells=[]
 		c=self.cell.getNext('d.0')
@@ -77,4 +80,19 @@ class FWObj:
 		coords=[0, 0, 0]
 		for i in range(0, 3):
       coords[i]=parent.pos[i]+(parent.size[i]*(parent.center[i]-self.parentcenter[i]))+self.delta[i]-(self.size[i]*self.center[i])
-  
+ 
+class Slab(FWObj):
+  PROPERTY_DEFAULTS = {
+	  "type": "slab",
+		"size": ORIGIN,
+		"center": ORIGIN,
+		"parentcenter": ORIGIN,
+		"delta": ORIGIN,
+		"color": (255, 255, 255, 127)
+	}
+  def render(self, screen):
+	  pygame.draw.rect(screen, self.color, pygame.Rect(self.bbox))
+	  for child in self.children:
+		  child.render(screen)
+
+
