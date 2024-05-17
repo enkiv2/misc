@@ -8,6 +8,8 @@
 # This code is inspired by, but not identical with, the FloatingWorld / ZZOGL system used
 # by XanaduSpace and XanaSpace
 
+from ZZCell import cells as homeSlice
+from ZZCell import ZZCell
 
 class Vector:
   def __init__(self, coords):
@@ -43,14 +45,17 @@ class FWObj:
 	}
   def __init__(self, cell):
 	  self.cell=cell
-  def _zz_get(self, name, default=ORIGIN):
+  def getAttr(self, name, default=ORIGIN):
 	  val = self.cell.getNext('fw.'+name)
 		if val:
 		  return val.getValue()
 		return default
+  def setAttr(self, name, value):
+	  self.cell.setNext('fw.'+name, value)
   def __getattr__(self, name):
+	  defaults = self.__class__.PROPERTY_DEFAULTS
 	  if name in defaults:
-		  return self._zz_get(name, defaults[name])
+		  return self.getAttr(name, defaults[name])
 		raise AttributeError()
   def render(self, screen):
 	  for child in self.children:
