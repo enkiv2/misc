@@ -641,10 +641,10 @@ function mergeClips() {
 		while [[ $i -lt $(floor $((current_clips + 1)) ) ]] ; do echo $dir/clip-$i.avi ; i=$((i+1)) ; done 
 	)
 	if [[ -e $dir/clip.avi ]] ; then
-		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o $dir/clip-new.avi $dir/clip.avi $cliplist
+		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -o $dir/clip-new.avi $dir/clip.avi $cliplist
 		mv $dir/clip-new.avi $dir/clip.avi
 	else
-		mencoder_wrap -quiet -oac copy -ovc copy -vf scale=$resolution -o $dir/clip.avi $cliplist
+		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -o $dir/clip.avi $cliplist
 	fi
 	for item in $cliplist ; do rm -f $item ; done
 	unsetopt SH_WORD_SPLIT

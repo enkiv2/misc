@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-DEBUGLEVEL=0
+DEBUGLEVEL=5
 
 cmd=$0
 delay=$1 ; shift
