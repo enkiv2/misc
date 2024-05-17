@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+from pathlib import Path
+import pickle
+
 import ipfsApi
 ipfs = ipfsApi.Client("127.0.0.1", 5801)
 
@@ -33,4 +36,17 @@ def store(data: bytes, pin: bool = True):
 # and update our stored "permascroll address" configuration,
 # which is used in place of our permascroll at publication time.
 # we may want to support transcopyright / obfuscation with a one-time pad (privately stored)
+
+def saveZZSlice(zzstructure):
+  with open('home.zz', 'w') as f:
+	  pickle.dump(zzstructure, f)
+
+def loadZZSlice():
+  ret=[]
+	if Path('home.zz').exists():
+	  with open('home.zz', 'r') as f:
+		  ret=pickle.load(f)
+  else:
+	  saveZZSlice(ret)
+  return ret
 
