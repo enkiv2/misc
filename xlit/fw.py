@@ -100,7 +100,7 @@ class Slab(FWObj):
 		"border_radius": 0,
 	}
   def _render(self, screen):
-	  pygame.draw.rect(screen, self.color, pygame.Rect(self.bbox), self.outline_width, self.border_radius)
+	  pygame.draw.rect(screen, self.color, pygame.Rect(self.bbox), self.outline_width, self.border_radius) # TODO this is not the correct bbox format for pygame.Rect
 
 class Beam(FWObj):
   PROPERTY_DEFAULTS = {

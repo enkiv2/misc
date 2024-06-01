@@ -14,8 +14,8 @@ strings | tr '.' ' ' | sed "s/[^A-Za-z'][^A-Za-z']*/\n/g" | grep . | sort | uniq
 	dump "https://everything2.com/?node=$x"
 	dump "https://www.gematrix.org/?word=$x&view_rude=on"
 	dump "https://www.rhymezone.com/r/rhyme.cgi?Word=$x&typeofrhyme=perfect&org1=syl&org2=l&org3=y"
-	find ~/stories/gutenberg -type f | xargs -p5 grep -i "$x" | shuf -n 10
-	find ~/stories/ebooks -type f | while read y ; do grep -i "$x" "$y" ; done | shuf -n 10
+#	find ~/stories/gutenberg -type f | xargs -P5 grep -i "$x" | shuf -n 10
+#	find ~/stories/ebooks -type f | while read y ; do grep -i "$x" "$y" ; done | shuf -n 10
 #	sleep 23
 done
 
