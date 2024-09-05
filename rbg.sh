@@ -12,26 +12,11 @@ while : ; do
 		find $dir -type f
 	done) | shuf | while read x ; do
 		feh --bg-max "$x" &&
-		feh --bg-tile ~/Downloads/dingir.jpg &&
-		(find ~/Downloads/eyes -type f | shuf | head -n 5 |
-			while read y ; do 
-				feh --bg-tile "$x" &&
-				feh --bg-tile "$y" && 
-				feh --bg-max "$x" &&
-				feh --bg-tile ~/Downloads/dingir.jpg &&
-				feh --bg-max "$x" &&
-				feh --bg-max "$y" && 
-				feh --bg-max "$x" &&
-				feh --bg-tile ~/Downloads/dingir.jpg &&
-				feh --bg-max "$x" &&
-				feh --bg-max ~/Downloads/dingir.jpg &&
-				feh --bg-max "$x" &&
-				feh --bg-fill "$y" && 
-				feh --bg-fill ~/Downloads/dingir.jpg &&
-				feh --bg-fill "$x" &&
-				feh --bg-tile ~/Downloads/dingir.jpg 
-		; done ) &&
-		feh --bg-max "$x" && sleep $delay
+		(
+			feh --bg-$(echo -e "tile\nmax\nfill" | shuf -n 1) "$(find ~/Downloads/eyes -type f | shuf | head -n 1)"
+			feh --bg-tile ~/Downloads/dingir.jpg 
+			feh --bg-max "$x" && sleep $delay
+		)
 	done
 done
 
