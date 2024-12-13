@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh
-#sbot publish --type post --text "$(
+text="$(
 	shuf -n 23 ~/.linkit | 
   sed 's|//medium.com/|//scribe.rip/|g' |
 	awk '
@@ -13,6 +13,11 @@
 		print "* [" title "](" $1 ") originally archived on " $2; 
 	} END { 
 		print "\n[full archive](http://www.lord-enki.net/links.html)"
-	}' | xclip
-#)"
+	}' 
+)"
 
+msg='{"jsonrpc": "2.0", "method": "publish", "params": {"type": "post", "text":"'"$(echo "$text" | sed 's/$/\\\\n/' | tr -d '\n')"'"}}' 
+echo "$text" | xclip
+#echo "$msg"
+#echo
+#curl -v -H "Content-Type: application/json" -d "$msg" 127.0.0.1:3030
