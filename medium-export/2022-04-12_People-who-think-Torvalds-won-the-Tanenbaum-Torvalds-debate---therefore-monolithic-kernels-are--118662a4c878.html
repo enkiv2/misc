@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>People who think Torvalds won the Tanenbaum/Torvalds debate &amp; therefore monolithic kernels are…</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">People who think Torvalds won the Tanenbaum/Torvalds debate &amp; therefore monolithic kernels are…</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+Worse-is-better is one of the most damaging infohazards in tech.
+</section>
+<section data-field="body" class="e-content">
+<section name="8cc0" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="6a39" id="6a39" class="graf graf--p graf--leading">People who think Torvalds won the Tanenbaum/Torvalds debate &amp; therefore monolithic kernels are “better” forget that Torvalds’ entire argument was “Linux is a toy project that should never ever be used for anything important”, or they remember but don’t care.</p><p name="8b98" id="8b98" class="graf graf--p graf-after--p">Worse-is-better is one of the most damaging infohazards in tech.</p><p name="de18" id="de18" class="graf graf--p graf-after--p">One of the problems with worse-is-better rhetoric is that it sucks labor away from everything else to deal with mountains of technical debt. Every stack decision is a decision under duress between a shit sandwich and a vomit omlet.</p><p name="46e1" id="46e1" class="graf graf--p graf-after--p">You can’t build something worth using because everything needs to ship yesterday, and you’re behind on even that because time pressure forces you to pick a third party dep developed by people who <em class="markup--em markup--p-em">also</em> know it’s not worth using.</p><p name="f968" id="f968" class="graf graf--p graf-after--p">Nearly every third party dependency will eventually become more expensive to support than something built in-house to support your actual needs, but those costs don’t show up at the demo stage and by the time they show up you may have already failed upward.</p><p name="362c" id="362c" class="graf graf--p graf-after--p">This extends even down to the education level. In industry, we aren’t using tech that’s genuinely newer than the late 70s. We are using new implementations of 70s tech, generally. Very occasionally we use 80s tech that should &amp; could have been invented in the 60s (like UUIDs).</p><p name="90d9" id="90d9" class="graf graf--p graf-after--p">It’s not actually the case that CS progress has entirely stopped (although it slowed substantially when the DARPA grants dried up), but every few years we get a new batch of devs who have a very limited understanding of tech history.</p><p name="9e84" id="9e84" class="graf graf--p graf-after--p">We never have a “paradigm shift” (in the original sense): students get taught the same ideas they were taught in the 70s (scripting languages are too slow, computers get twice as fast every 18 months) before they know better, then don’t get the opportunity to question these ideas</p><p name="d0ce" id="d0ce" class="graf graf--p graf-after--p">Extremely powerful techniques known in the 70s that used to be expensive but are now cheaper than ever (like backtracking — which could benefit from true parallelism) are still avoided on the grounds that bad implementations on old hardware were slow.</p><p name="9e0b" id="9e0b" class="graf graf--p graf-after--p">Backtracking is seen as a fringe capability — used in database implementation, or in the guts of a regex implementation, but never exposed as part of a programming language outside of stuff like prolog or icon. But backtracking + constraint programming + memoization + formal methods could bring real “low code” to industry, and dramatically increase developer productivity. “Prolog but fast” would necessarily be incompatible with real prolog but would be a massive boost to everybody. It’d be a boon at the same scale as JIT compilation, at minimum, and require no new tech.</p><p name="1397" id="1397" class="graf graf--p graf-after--p">But even explaining this to people is hard because nobody comes out of their CS bachelor’s degree program knowing what any of these things are besides “too slow”.</p><p name="053c" id="053c" class="graf graf--p graf-after--p">Basically what I’m saying is: Developers are insufficiently willing to sit down and try to figure out the best possible way to solve a problem. We’re doing too much coding &amp; not enough research. Part of this is driven by ignorance, part is pressure to make money, the agile fad</p><p name="9bb8" id="9bb8" class="graf graf--p graf-after--p">The tech industry is stuck in a depressing state of capitalist realism, and genuinely interesting technical ideas are sitting there, ripe for the taking. They were either implemented once in a product that failed for non-technical reasons or never implemented because they were invented back when computers were the size of refrigerators and had tens of megabytes of disk space.</p><p name="2639" id="2639" class="graf graf--p graf-after--p graf--trailing">(<a href="https://viewer.scuttlebot.io/%25oPskuXFdmwx3rLzzgat6S0ssWMi%2B%2B3%2BQZ%2Fsc5Kb1QbE%3D.sha256" data-href="https://viewer.scuttlebot.io/%25oPskuXFdmwx3rLzzgat6S0ssWMi%2B%2B3%2BQZ%2Fsc5Kb1QbE%3D.sha256" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Original post</a>)</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@enkiv2" class="p-author h-card">John Ohno</a> on <a href="https://medium.com/p/118662a4c878"><time class="dt-published" datetime="2022-04-12T23:08:41.775Z">April 12, 2022</time></a>.</p><p><a href="https://medium.com/@enkiv2/people-who-think-torvalds-won-the-tanenbaum-torvalds-debate-therefore-monolithic-kernels-are-118662a4c878" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on January 21, 2025.</p></footer></article></body></html>
