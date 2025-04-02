@@ -447,7 +447,8 @@ function print_if_long_enough() {
 			dprint 2 "Clip length: $l" 
 			l=$(floor $((l*1000)))
 			if [[ $l -gt $ml ]] ; then
-				echo "$1"
+				[[ -z $(getFPS "$1") ]] || 
+					echo "$1"
 				dprint 0 -e ".\c"
 			else
 				dprint 0 -e "-\c"
