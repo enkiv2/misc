@@ -5,6 +5,10 @@ enabled_filters=(mat)
 minimum_clip_length=0
 parallelism=20
 resolution="640:480"
+output_vcodec="libx264"
+output_crf=22
+internal_vcodec="libx264"
+internal_crf=0
 fps=24
 cps=4
 
@@ -559,6 +563,10 @@ function mencoder_wrap() {
 	quiet_wrap 2 mencoder "$@"
 }
 
+function ffmpeg_wrap() {
+	quiet_wrap 2 ffmpeg "$@"
+}
+
 function areWeUsingFrames() {
 	[ ${#enabled_filters} > 0 ]
 }
@@ -575,8 +583,10 @@ function clip2Frames() {
 	st=$1 ; end=$2 ; source=$3
 	if [[ ${enabled_filters[(ie)mat]} -le ${#enabled_filters} ]] ; then
 		dprint 2 "mat filter enabled: disabling vf scale"
-		mplayer_wrap -quiet -ao null -vo jpeg -ss $st -endpos $end "$source"
+#		ffmpeg_wrap -i "$source" -r $fps -ss $st -t $end "$4/%04.jpg"
+		mplayer_wrap -quiet -ao null -vo jpeg -ss $st -endpos $end "$source" 
 	else
+#		ffmpeg_wrap -i "$source" -r $fps -ss $st -t $end "$4/%04.jpg"
 		mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
 	fi
 	popd
@@ -594,6 +604,7 @@ function frames2Clip() {
 			i=$((i+1))
 		done
 	fi
+#	ffmpeg_wrap $(cat $dir/cliplist | head -n $clip_frames | sed 's/^/-i /') -framerate $fps -vcodec $internal_vcodec -crf $internal_crf $dir/clip-${current_clips}.mp4
 	mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o $dir/clip-${current_clips}.avi $(cat $dir/cliplist | sed 's/^/mf:\/\//' | head -n $clip_frames )
 }
 
@@ -629,6 +640,7 @@ function extractClip() {
 		fi
 	else
 		dprint 1 "No frames"
+#	ffmpeg_wrap -i "$source" -framerate $fps -vcodec $internal_vcodec -crf $internal_crf -ss $st -t $end $dir/clip-${current_clips}.mp4
 		mencoder_wrap -quiet -oac copy -ovc lavc -vf scale=$resolution -mf fps=$fps -o $dir/clip-${current_clips}.avi -ss $st -endpos $end "$source"
 		clipExtractSuccess
 	fi
