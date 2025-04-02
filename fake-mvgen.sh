@@ -154,7 +154,7 @@ function convertCompositeFilterHelper() {
 			unsetopt SH_WORD_SPLIT
 		)  &
 		i=$((i+1))
-		if [[ $i -gt $parallelism ]] ; then
+		if [ $i > $parallelism ] ; then
 			dprint 2 "Waiting for $desc to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
@@ -221,7 +221,7 @@ function convertFilterHelper() {
 			unsetopt SH_WORD_SPLIT
 		)  &
 		i=$((i+1))
-		if [[ $i -gt $parallelism ]] ; then
+		if [ $i > $parallelism ] ; then
 			dprint 2 "Waiting for $desc to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
@@ -301,7 +301,7 @@ function zoomFilterHelper() {
 			convertHelper $item -crop $(( xsz-(2*j*delta) ))x$(( ysz-(2*j*delta) ))+$((j*delta))+$((j*delta)) +repage 
 		) &
 		j=$((j+1))
-		if [[ $i -gt $parallelism ]] ; then
+		if [ $i > $parallelism ] ; then
 			dprint 2 "Waiting for zoom to finish on batch...\c"
 			wait
 			dprint 2 "\tdone"
@@ -318,7 +318,7 @@ function filter_zoomOut() {
 	zoomFilterHelper tac
 }
 function filter_randomZoom() {
-	if [[ $((RANDOM%2)) -gt 0 ]] ; then
+	if [ $((RANDOM%2)) > 0 ] ; then
 		filter_zoomIn
 	else
 		filter_zoomOut
@@ -446,7 +446,7 @@ function print_if_long_enough() {
 			l=$(getLength "$1")
 			dprint 2 "Clip length: $l" 
 			l=$(floor $((l*1000)))
-			if [[ $l -gt $ml ]] ; then
+			if [ $l > $ml ] ; then
 				[[ -z $(getFPS "$1") ]] || 
 					echo "$1"
 				dprint 0 -e ".\c"
@@ -473,7 +473,7 @@ function remove_short_sources_r() {
 function remove_short_sources_parallel() {
 	num_sources=$1
 	num_jobs=$parallelism
-	if [[ $num_jobs -gt $num_sources ]]; then
+	if [ $num_jobs > $num_sources ]; then
 		num_jobs=$num_sources
 	fi
 	sources_per_job=$((num_sources/num_jobs))
@@ -502,7 +502,7 @@ function remove_short_sources() {
 	dprint 0 "Removing sources less than $minimum_clip_length seconds long..."
 	ml=$((minimum_clip_length * 1000))
 	ml=$(floor $ml)
-	if [[ $parallelism -gt 0 ]]; then
+	if [ $parallelism > 0 ]; then
 		remove_short_sources_parallel $num_sources
 	else
 		remove_short_sources_r $num_sources 0 
@@ -560,7 +560,7 @@ function mencoder_wrap() {
 }
 
 function areWeUsingFrames() {
-	[[ ${#enabled_filters} -gt 0 ]]
+	[ ${#enabled_filters} > 0 ]
 }
 
 function checkFramesOK() {
