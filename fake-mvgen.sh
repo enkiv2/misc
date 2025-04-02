@@ -650,6 +650,7 @@ function mergeClips() {
 	fi
 	for item in $cliplist ; do rm -f $item ; done
 	unsetopt SH_WORD_SPLIT
+	export current_secs=$(getLengthRaw $dir/clip.avi)
 }
 
 
