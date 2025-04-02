@@ -62,7 +62,7 @@ function help() {
 
 
 function getLengthRaw() {
-	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
+	ffprobe -i "$@" -show_entries format=duration -v quiet -of csv="p=0"
 }
 function getLength() {
 	[ -z "$USE_MLC" ] && {
@@ -650,7 +650,6 @@ function mergeClips() {
 	fi
 	for item in $cliplist ; do rm -f $item ; done
 	unsetopt SH_WORD_SPLIT
-	export current_secs=$(getLengthRaw $dir/clip.avi)
 }
 
 
@@ -682,6 +681,7 @@ function extractRandomClip() {
 	check=$(floor $((current_clips % 10)) )
 	if [[ $check -eq 0 ]] ; then
 		mergeClips
+#		export current_secs=$(getLengthRaw $dir/clip.avi)
 	fi
 }
 

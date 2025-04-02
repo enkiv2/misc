@@ -22,7 +22,7 @@ MLC_POLL_DUR="0.1"
 [ -e ~/.mlc ] || touch ~/.mlc
 
 function mlcGetLength() {
-	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
+	ffprobe -i "$@" -show_entries format=duration -v quiet -of csv="p=0"
 }
 
 function mlcPath2Key_() {
