@@ -586,7 +586,7 @@ function frames2Clip() {
 	frames=$(wc -l < $dir/cliplist)
 	current_frame=$((current_frame + frames))
 	delta=$(floor $(( current_secs*fps - current_frame )) )
-	if [ $delta -gt 0 ] ; then
+	if [ $delta > 0 ] ; then
 		i=0
 		thing="$(tail -n 1 $dir/cliplist)"
 		while [[ $i -lt $delta ]] ; do
