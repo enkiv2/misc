@@ -61,11 +61,13 @@ function help() {
 }
 
 
+function getLengthRaw() {
+	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
+}
 function getLength() {
 	[ -z "$USE_MLC" ] && {
 		mlcLookup "$@"
-	} || 
-		(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_LENGTH=[0-9\.]*$' || echo 0) | sed 's/^ID_LENGTH*=//' )2>/dev/null
+	} || getLengthRaw "$@"
 }
 function getFPS() {
 	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_VIDEO_FPS=[0-9\.]*$' || echo 0) | sed 's/^ID_VIDEO_FPS*=//;s/\..*$//' )2>/dev/null
