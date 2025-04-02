@@ -70,7 +70,7 @@ function getLength() {
 	} || getLengthRaw "$@"
 }
 function getFPS() {
-	(mplayer -vo null -ao null -identify -frames 0 "$@" | (grep '^ID_VIDEO_FPS=[0-9\.]*$' || echo 0) | sed 's/^ID_VIDEO_FPS*=//;s/\..*$//' )2>/dev/null
+	ffprobe -i "$@" -select_streams v -show_entries stream=r_frame_rate -v quiet -of csv="p=0" | awk 'BEGIN{FS="/";} {print($1 / $2);}'
 }
 function convertLength() {
 	len=$1
