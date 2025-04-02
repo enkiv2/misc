@@ -463,7 +463,7 @@ function get_file_line() {
 function remove_short_sources_r() {
 	num_sources=$1
 	i=$2
-	while [[ $i -lt num_sources ]] ; do
+	while [[ $i -lt $num_sources ]] ; do
 		x="$(get_file_line $i $dir/sources)"
 		print_if_long_enough "$x"
 		i=$((i+1))
