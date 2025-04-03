@@ -132,13 +132,11 @@ function randomColor() {
 function convertCompositeHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
-	convert "$item" "png32:${item}.png"
-	dshell 2 convert "$item" "$@" "png32:${item}-2.png"
+	dshell 2 convert "$item" "$@" -quality 100 "${item}-3.jpg"
 	[[ -e ${item}-2.png ]] && {
-		dshell 2 composite ${item}-2.png ${item}.png ${item}-3.png
-		dshell 2 convert ${item}-3.png -quality 100 ${item}-2.jpeg
+		dshell 2 composite ${item}-3.jpg ${item}.jpg -quality 100 ${item}-2.jpg
 		[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
-		rm -f ${item}.png ${item}-2.png ${item}-3.png
+		rm -f ${item}-3.jpeg
 	}
 }
 
