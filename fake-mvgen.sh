@@ -701,8 +701,13 @@ function main() {
 	current_clips=0
 	lastmerge=1
 	dprint 1 "Total length: $total_length"
+	startTime=$(date +%s)
 	while [[ `floor $current_secs` -le `ceil $total_length` ]] ; do
-		echo "$current_secs seconds / $total_length seconds completed"
+		currentTime=$(date +%s)
+		duration=$((currentTime-startTime))
+		rate=$((1.0*current_secs/duration))
+		ETT=$((rate*total_length))
+		echo "$current_secs seconds / $total_length seconds completed ($((100.0*current_secs/total_length))%) after ${duration}s ${rate}s/s ETA $(date -d @$(echo $((startTime+ETT)) | sed 's/\..*$//'))"
 		extractRandomClip
 	done
 	mergeClips
