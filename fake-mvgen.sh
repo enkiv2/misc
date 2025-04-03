@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom fliph flipv mirrorh mirrorv kaleid randomFilter)
+available_filters=(mat randomColorScene randomColorFrame zoomIn zoomOut randomZoom fliph flipv mirrorh mirrorv kaleid xerox randomFilter)
 enabled_filters=(mat)
 minimum_clip_length=0
 parallelism=20
@@ -227,6 +227,15 @@ function convertFilterHelper() {
 			i=0
 		fi
 	done ; wait
+}
+
+function xerox() {
+	echo "-colorspace gray -contrast-stretch 4%x0% \( +clone -blur 0x3 \) +swap -compose divide -composite -blur 0x1 -unsharp 0x20"
+}
+
+function filter_xerox() {
+	dprint 2 "xerox filter"
+	convertFilterHelper "xerox" "xerox"
 }
 
 function mat() {
