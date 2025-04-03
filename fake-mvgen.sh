@@ -136,7 +136,7 @@ function convertCompositeHelper() {
 	dshell 2 convert "$item" "$@" "png32:${item}-2.png"
 	[[ -e ${item}-2.png ]] && {
 		dshell 2 composite ${item}-2.png ${item}.png ${item}-3.png
-		dshell 2 convert ${item}-3.png ${item}-2.jpeg
+		dshell 2 convert ${item}-3.png -quality 100 ${item}-2.jpeg
 		[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
 		rm -f ${item}.png ${item}-2.png ${item}-3.png
 	}
@@ -204,8 +204,8 @@ function filter_timetunnel() {
 function convertHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
-	dprint 2 "Running shell command: " convert "$item" "$@" "${item}-2.jpeg"
-	convert "$item" "$@" "${item}-2.jpeg"
+	dprint 2 "Running shell command: " convert "$item" "$@" -quality 100 "${item}-2.jpeg"
+	convert "$item" "$@" -quality 100 "${item}-2.jpeg"
 	[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
 }
 
@@ -574,9 +574,9 @@ function clip2Frames() {
 	st=$1 ; end=$2 ; source=$3
 	if [[ ${enabled_filters[(ie)mat]} -le ${#enabled_filters} ]] ; then
 		dprint 2 "mat filter enabled: disabling vf scale"
-		mplayer_wrap -quiet -ao null -vo jpeg -ss $st -endpos $end "$source" 
+		mplayer_wrap -quiet -ao null -vo jpeg:quality=100 -ss $st -endpos $end "$source" 
 	else
-		mplayer_wrap -quiet -ao null -vo jpeg -vf scale=$resolution -ss $st -endpos $end "$source"
+		mplayer_wrap -quiet -ao null -vo jpeg:quality=100 -vf scale=$resolution -ss $st -endpos $end "$source"
 	fi
 	popd
 }
