@@ -478,7 +478,7 @@ function remove_short_sources_r() {
 function remove_short_sources_parallel() {
 	num_sources=$1
 	num_jobs=$parallelism
-	if [ $num_jobs > $num_sources ]; then
+	if [[ $num_jobs -gt $num_sources ]]; then
 		num_jobs=$num_sources
 	fi
 	sources_per_job=$((num_sources/num_jobs))
