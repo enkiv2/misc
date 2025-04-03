@@ -204,8 +204,7 @@ function filter_timetunnel() {
 function convertHelper() {
 	item="$1" ; shift
 	rm -f ${item}-2.jpeg
-	dprint 2 "Running shell command: " convert "$item" "$@" -quality 100 "${item}-2.jpeg"
-	convert "$item" "$@" -quality 100 "${item}-2.jpeg"
+	dshell 2 convert "$item" "$@" -quality 100 "${item}-2.jpeg"
 	[[ -e ${item}-2.jpeg ]] && mv ${item}{-2.jpeg,}
 }
 
