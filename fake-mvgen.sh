@@ -706,7 +706,7 @@ function main() {
 		currentTime=$(date +%s)
 		duration=$((currentTime-startTime))
 		rate=$((1.0*current_secs/duration))
-		ETT=$((rate*total_length))
+		ETT=$(((1.0/rate)*total_length))
 		echo "$current_secs seconds / $total_length seconds completed ($((100.0*current_secs/total_length))%) after ${duration}s ${rate}s/s ETA $(date -d @$(echo $((startTime+ETT)) | sed 's/\..*$//'))"
 		extractRandomClip
 	done
