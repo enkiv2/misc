@@ -54,11 +54,13 @@ Utilities:
 * [links.sh](links.sh): simple shell routines for handling an archive of URLs (similar to a bookmarking service like postboard)
 * [post](post): a tool to post short strings to multiple microblogging services at once
 * [tpost](tpost): when posting to twitter, break long messages into threads
+* [pbs](pbs): post to bluesky / ATProto. Includes making URLs into clickable links.
 * [ssb-digest](ssb-digest.sh): post a message to secure scuttlebutt with the links added with [links.sh](links.sh) that day
 * [randlinkd](randlinkd.sh): daemon to periodically post previously-archived links
 * [unpopular-posts-only.user.js](unpopular-posts-only.user.js): greasemonkey script to hide tumblr posts with too many notes
 * [update_checkouts.sh](update_checkouts.sh): update everything in the directory checked out with git or svn
 * [fix_transmission.sh](fix_transmission.sh): set a parameter that sometimes causes transmission to fail to work with certain tracker/CDN combinations
+* [RBG](rbg.sh): change the desktop background to a randomly selected image from one or more local directories, on a configurable delay 
 
 Games (in progress):
 * [Book of the Damned](Book%20of%20the%20Damned): taking place during the events of [Manna for our Malices](http://github.com/enkiv2/mannaforourmalices), this game follows young telepath Yumeji Misato as she is moved to a group home in Yomiyama by the leader of a UFO cult & deals with new friends, new enemies, and you, the player.
