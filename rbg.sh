@@ -12,12 +12,12 @@ while : ; do
 		find $dir -type f
 	done) | shuf | while read x ; do
 		feh --bg-max "$x" &&
-sleep $delay
-#		(
-#			feh --bg-$(echo -e "tile\nmax\nfill" | shuf -n 1) "$(find ~/Downloads/eyes -type f | shuf | head -n 1)"
-#			feh --bg-tile  ~/Downloads/dingir.jpg 
-#			feh --bg-max "$x" && sleep $delay
-#		)
+#sleep $delay
+		(
+			feh --bg-$(echo -e "tile\nmax\nfill" | shuf -n 1) "$(find ~/Downloads/eyes -type f | shuf | head -n 1)"
+			feh --bg-tile  ~/Downloads/dingir.jpg 
+			feh --bg-max "$x" && sleep $delay
+		)
 	done
 done
 

@@ -62,15 +62,17 @@ Utilities:
 
 Games (in progress):
 * [Book of the Damned](Book%20of%20the%20Damned): taking place during the events of [Manna for our Malices](http://github.com/enkiv2/mannaforourmalices), this game follows young telepath Yumeji Misato as she is moved to a group home in Yomiyama by the leader of a UFO cult & deals with new friends, new enemies, and you, the player.
-* [Trilogy](Trilogy): after the events of [Manna for our Malices](http://github.com/enkiv2/mannaforourmalices) and [Book of the Damned](Book%20of%20the%20Damned), Akagi Ai and her friends get stuck in the rain with Yumeji Misato and Bruno Akane, and they tell ghost stories in this short non-interactive VN.
-* [Blood Ocean](Blood%20Ocean): a painter discovers that the dream-enhancing street drug Blood Ocean is not what it seems.
+
+Games (finished):
+* [Trilogy](Trilogy): after the events of [Manna for our Malices](http://github.com/enkiv2/mannaforourmalices) and [Book of the Damned](Book%20of%20the%20Damned), Akagi Ai and her friends get stuck in the rain with Yumeji Misato and Bruno Akane, and they tell ghost stories in this short non-interactive VN. [Moved here](https://github.com/enkiv2/trilogy)
+* [Blood Ocean](Blood%20Ocean): a painter discovers that the dream-enhancing street drug Blood Ocean is not what it seems. [Moved here](https://github.com/enkiv2/bloodocean)
 
 Misc:
 
 * [medium-export](medium-export): archive of my medium posts
 * [lordenki](lordenki): a backup of my website
 * [README.md](README.md): this file
-* [ds-lib](ds-lib): small python libraries for data structures or algorithms for which there are no readily-available open source implementations easily understood by beginners
+* [ds-lib](ds-lib): small python libraries for data structures or algorithms for which there are no readily-available open source implementations easily understood by beginners. [Moved here](https://github.com/enkiv2/ds-lib)
 * [kamui](kamui): composable UI project in io, with 'senketsu' io interpreter in go
 * [mtv](mtv): Minimal Transliterature Viewer -- a hypertext project on top of IPFS
 * [vidsort](vidsort.py): sort a video by frame similarity and reencode

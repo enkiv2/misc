@@ -1,3 +1,5 @@
+NOTE: the current home of this code is [this repository](https://github.com/enkiv2/ds-lib); you are viewing potentially stale versions.
+
 Xanadu(tm)-related:
 
 * [Enfilade](Enfilade.py): implementation of a generic [Enfilade](http://en.wikipedia.org/wiki/Enfilade_%28Xanadu%29), a derivatve of the Rope
