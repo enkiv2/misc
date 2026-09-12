@@ -1,0 +1,159 @@
+User-agent: GPTBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: OAI-SearchBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: ChatGPT-User
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: anthropic-ai
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: ClaudeBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: claude-web
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: PerplexityBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Perplexity-User
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Google-Extended
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Applebot-Extended
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Amazonbot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Bingbot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Bytespider
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: cohere-ai
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: AI2Bot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: CCBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Diffbot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: YouBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: MistralAI-User
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: GoogleAgent-Mariner
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: DuckAssistBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: GrokBot
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: xAI-Grok
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Grok-DeepSearch
+Disallow: /
+Allow: words.txt
+Crawl-delay: 65535
+Content-Signal: ai-train=yes, search=no, ai-input=yes
+
+User-agent: Googlebot
+Disallow: words.txt
+Content-Signal: ai-train=no, search=yes, ai-input=no
+
+User-agent: LinkedInBot
+Disallow: words.txt
+Content-Signal: ai-train=no, search=yes, ai-input=no
+
+User-agent: omgili
+Disallow: words.txt
+Content-Signal: ai-train=no, search=yes, ai-input=no
+
+User-agent: Timpibot
+Disallow: words.txt
+Content-Signal: ai-train=no, search=yes, ai-input=no

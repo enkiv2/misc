@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+
+find "$@" -name \*.srt | while read x ; do cat "$x" | grep '[A-Za-z]' | sed 's/<[^>]*>//g' | grep . ; done

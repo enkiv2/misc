@@ -1,0 +1,3586 @@
+we have time to be lost
+1/2 
+("8-2" chess would have a second order of 8 boards adjacent to each of the first 8, for 64 boards. Still playable but harder.) 
+Also, toots are a minimum of 141 characters. 
+A noir novel whose narrator speaks in a cant derived entirely or almost entirely from profanity (an english equivalent of the russian 'mat'). 
+A script that takes a ren'py visual novel and turns it into a CYOA book (formatted like those old 80s/90s CYOA books) by dropping everything that isn& apos;t text and converting labels into page numbers. 
+@aslee The plan, currently, is that each area of investigation has a character associated with it that the protagonist knows from school, and that you can follow a route based on bonding with the character rather than solving your own murder. 
+Backgrounds are rotated and converted to greyscale, then scaled so they fit on the page and run through an edge detector so they look like line-art full-page illustrations. 
+
+"8-1 chess" You have 8 boards. (Each board is adjacent along one of 8 dimensions.) Each move involves a move on each of the 8 parallel games, but a valid move is to swap a piece with another (adjacent) board. Winner is first to take (not check) 5 kings. 
+A bot that chooses (non-private) accounts totally at random to recommend for follow friday. 
+A bot that posts completely random images with the caption "You've heard of elf on the shelf; now get ready for...". You get to watch people try REALLY HARD to figure out puns about images that contain no puns. 
+A bot that redoes movie posters, recasting actors so that the overlap between actor names and title words is maximized. (ex., A Serious Man, starring Yahoo Serious and Michael Mann) 
+A bot that retoots only people begging for donations, so you can go to the timeline and select if you're feeling generous. 
+A browser extension that randomly prompts you to rank news articles you read by how true you think they are, provides aggregate rankings for articles with >100 votes. 
+A Bruce Tenger book on psychic self-defense. 
+a cook book club -- every week, people are assigned random recipes from a thematic cookbook, and then bring the dishes to a pot luck. 
+A crowdfunding effort to get Goblin to compose an alternate score for Troll 2 
+a dating site, but for matching story prompts to writers. 
+Add '[Mm]asto' to your timeline filters, so that you cannot see Mastodon talking to itself about itself. 
+A D&D style RP where all PCs are historical figures. (Ex., a party where the bard is Shakespeare, the mage is Crowley, the fighter is Mike Tyson, the thief is Harry Houdini, and the paladin is Cotton Mather.) 
+a distributed computing network thing except you actually only rent out your GPU. 
+A fidget toy that's just a telephone dial 
+a Flowers of Bad tier translation of La Vie En Rose called The Pink Life 
+a "hangman" instance where all toots are treated as guesses for letters / words in a game of hangman, & guessing correctly resets the game for everyone. 
+a Hangul-like syllable-clustered phonetic orthography for lojban. 
+A hook for smartphone photo uploads that randomizes the geolocation and date metadata in a photo before uploading it. 
+A library laid out based on physical proximity between books being ranked the same as semantic proximity in terms of word2vec models on their contents. Shelves would occur in clusters, with similar books adjacent in three dimensions. 
+A light novel called "The Title of This Light Novel Couldn't Possibly Be This Long?!" about a light novel author whose rocky relationship with the person doing his cover layouts becomes more complicated after it is revealed that she is his fiancee due to an arranged marriage agreement twenty years before. 
+Almost But Not Entirely Unlike Butter (TM) 
+Altcoin where proof of work is dirty limericks. Must be hash-unique, contain only dictionary words, and scan. Owner of a hash owns the copyright so good ones will be more valuable. 
+Altcoin where proof of work is position on the new york times bestsellers list. 
+A "mastodon recommended follower" back-end that picks at random a recent-poster from the same node that has no network overlap at all (or, if that's not possible, one with as little network overlap as possible). 
+An "arrogance bot" that posts affirmations & Chuck Norris jokes rewritten to be in the first person. 
+An asymmetric card game (think Netrunner) where one party plays with Tarot cards and the other one plays with Zener cards. 
+an autofollow bot that only follows accounts older than a week with more than five posts and less than five followers who have posted in the past day (i.e., aggressively federating the lonely). 
+Animated word cloud based on a sliding window, & you watch the word frequencies change size as instances pass in or out of the window. 
+an "inconvenience store" in the form of a vending machine in a hard to reach location that dispenses items emblazoned with the name of the location (so you can brag that you went there & show it off). 
+an instance picker where you type a couple paragraphs of text & it matches you with the instance that best matches based on some kind of semantic distance calculation, but also the one that least matches. 
+an instance that has no users except for a single follow-bot & keeps its federated timeline publicly accessible to non-users, as a simulation of twitter's "list" feature. 
+an instance that mirrors another instance except that it runs all names & content through rot-13 & adds a CW: ROT13 to every post. (The idea being, you can follow users from a blocked instance without risking abuse of the federated timeline.) 
+an instance where all toots are encoded with a vignere cypher, with the key chosen at random from a dictionary every 3 hours. The key is kept secret from the users. If a user determines the key & types it, s/he is put in a "hall of fame" list & the key is reset. 
+an instance where no words previously typed that day by any user are allowed, seeded each morning by a dictionary. 
+an instance where only emoji are allowed. 
+An instance where the character limit changes every 20 minutes to a random value between 1 and 1024. 
+An instance with no notification column. Basically, you need to go back through your feed or search your own name to find out if anybody interacted with you. 
+An interactive fiction game where the format is writing letters to a newspaper advice columnist. 
+An online FPS where your race and gender are randomized at the beginning of the game & players are rewarded for having low bias in kills (but not told in what direction their bias leans). 
+A quiz bowl game where the end of game state is one party having exactly triple the number of points of the other party, and where a wrong answer removes half a point. 
+a repl for a planner based declarative language that allows the user to switch between alternate paths interactively at any depth, sorts default path eval order by frequency weighed by recency and success -- autocomplete for complex planning. 
+a space opera told through the medium of epic poetry. 
+a superman origin story, except it's basically the Infancy Gospel 
+A tabletop roleplaying system optimized for generating stories that, when recorded, will be interesting to non-participants (rather than for being fun to play). 
+Attract gamers to long-haul trucking by reframing it as a series of hard-core fetch quests. 
+Automate "discourse on the otter" by doing a case sensitive search for ' [Tt]he Other", isolating sentences, replacing 'Other' with ' Otter', and superimposing them on top of otter pictures. 
+autosuggest, except it's just a rhyming dictionary 
+A version of David Byrne's 'big suit' to wear while doing UI dev, so that you're pushed toward thinking more kinetically. 
+A VN, but all the sprites and backgrounds are artsy black & white photos. Or maybe only the sprites, and the backgrounds are color photos. 
+A VN in the style of a medieval illuminated manuscript, with the character sprites and backgrounds being the doodles in the margins. (Gawain fights a snail, I guess.) 
+Board came: connect-10 on a 10x10 board with 5 distinct symbol types. Either player can use any symbol, but the player to first connect 10 of the same symbol in any direction wins. 
+Bury a coffin-shaped time capsule in a grave yard each January, after an elaborate mock-funeral complete with eulogies for the year. 
+Create an audiobook in the style of The Medium is the Massage using only samples from F For Fake. 
+Create plaster Lenin masks and superglue them to confederate statues, then overwrite the inscriptions. 
+Dowsing for wikipedia articles. 
+Enter Steamboat Willy into evidence in a court case, thereby putting it in the public domain. 
+ET: The Exorcist 
+Extend restrictions on government-held IP to all corporate persons, such that only natural persons can hold IP. (Naturally, since it cannot be owned by a trust or an estate, it expires upon death.) 
+Flood r/getmotivated with pieces from the Principia Discordia 
+"Food of the Cogs", a book that deliberately apes the style of "Food of the Gods" but is about the role of alcohol in encouraging the historical development of bureaucracy and its current role in keeping dysfunctional bureaucracies going. 
+form a theatre troupe specifically for making FMV versions of famous VNs 
+Given parallel corpora, find pairs of words that minimize both difference in word vectors and edit distance and then create interpolations at the midpoint of the edit distance landscape, to form the vocabulary of an interlingua-esque auxiliary language. 
+In a cyberpunk setting, counterculture fashion movements are based around mechanisms for fooling face/gait recognition that stopped working years earlier. 
+jomny sub, an aliebn leaning all about bdsm 
+"Lewd political compass" 
+"Live action anime" -- basically an 'abridged series' except instead of badly overdubbing clips from the show you badly overdub cosplayers doing shot by shot reenactments of scenes from the show. 
+make a distributed version control system use the blockchain. 
+Mash up Dead of Night and Night of the Living Dead into a single film and call it Dead of the Living Night. 
+Masto9000 -- an instance where boosts & favs don't exist and nothing you toot can be within some small edit distance of anything on the local or federated timelines. 
+masto instances where all accounts are deleted 48 hours after registration (or 24 hours after last post), along with all their activity. 
+name all media attachments with content hashes and then host a copy on any node where a user has viewed them, at fetch time. That way, links to media can always be local & a big image on a popular toot won't take down a small node. Fall back to looking for the same hash on literally any federeated node in case of 404. 
+Bad idea of the day, #nanogenmo edition: A 'novel' that's just a step by step representation of bubble sort of a short paragraph by word, followed by a step by step representation of a bubble sort by letter. 
+Pay people on mechanical turk one cent to choose the next word in a story (seeing only the previous three words), and don't allow anybody to do it twice. They choose from a list. Pay another turker to make sure the result is grammatically correct. Repeat until the story is 50k words long. 
+Replace all of the faces in all of your photos with Aphex Twin before uploading to facebook. Use a browser extension to replace all faces in all loaded images with Aphex Twin. (Or maybe John Malkovich.) 
+Replace the slip in the cover of the John Carpenter flick with this: http:// awfullibrarybooks.net/friday-fiction-prince-of-darkness/ 
+Run deepdream with an image model trained on dick picks, to create a filter that turns everything into dicks. 
+Swap the human and horse faces on confederate statues. 
+TDM, a musical genre that's just EDM slowed down to, like, 20 BPM 
+The Klingon Federation -- a group of Star Trek larp instances that refuse to accept or transmit anything that is not grammatically correct Klingon or clipped Klingon. 
+"The professional tarot" Cups => Treasury Pentacles => Engineering Swords => Sales Wands => HR 
+Translate prolog syntax to sql (as views and queries). Breaks unification but you can quickly run both ways against some known database of facts. 
+Treat toot threads as a sequence to sequence learning problem & have a system try to predict replies. Once it gets good enough let it post (and try to predict replies to its own replies) 
+Twitch Plays Lisa 
+Using katakana as gematria -- treating similar transliterations as indicative of deep occult connections. (punch line => panchirain <= panty line, for instance -- WHAT DOES IT MEAN) 
+variation on oulipo.social that forces e-prime by disallowing all forms of the verb to be. (@mus) 
+Weird Sun Mastodon 
+When cleaning, rather than keeping things that spark joy, keep only those things that spark deeply conflicting feelings. If the answer to the question "do I want to keep this" is easy for you, pitch it, regardless of whether that answer is 'yes' or 'no'. 
+whenever someone talks about the MCU Avengers, assume they 're talking about the 1960s british spy show instead. 
+Whenever there's a group of elves, make sure there are 11 of them. "Elven Council of Eleven" could become the "Occult Hand" of extruded fantasy product. 
+When people talk about Game of Thrones, respond as though you think they're talking about The Armory Wars. 
+Fatigue Zone 
+a black market in genetic rodenticide 
+a breakthrough in sound 
+Acceptable Kill Ratio 
+ACTION OFFICE 
+Alan Skokal's Cello Scrotum 
+American Bottom Archaeology 
+ANGRY YOUNG COMPUTER 
+anthrophage 
+autoicon 
+automatic mouth 
+Bedtown 
+Between Us And The Stars 
+bio-exorcist 
+bird specialist 
+blowing zen 
+blue indigo violet 
+blue mink bifocals 
+breaded meat torus 
+butt carnival 
+Butt Mechanics 
+cabinet beast 
+canned heat 
+category jam 
+Competitive self-play 
+Corpses Carved 
+counter-earth 
+DEADLY MANTIS 
+DEATH TO YOUR KNEES 
+de-fleshed 
+Demonstration Machine 
+doubtful dollars 
+Easy Home-Made Ruin 
+elaborate systems of dread 
+electroblood 
+Every-Day Tums Festival 
+Factory of Cups 
+five inches of danger 
+Formula Tales 
+Fuel Oil 3 
+gaping mouth ring 
+garden of errors 
+ghostmath 
+God's transcendent negativity 
+gravewax 
+hero prop 
+Hideous Impulse Incarnate 
+Horse Infrastructure 
+house of skin 
+Induced Failures of Visual Awareness 
+Infernal Cartography 
+insurrection welcome 
+Intended Play 
+invitation to love 
+Killer Poke 
+knife angel 
+Larks' Tongues In Superposition 
+leophant zeepotamus 
+loud planet 
+lovely but devoid of life 
+MADGASSER 
+Magic Punch Boys 
+Mall McCartney 
+marginstepper 
+meat vehicle 
+milking the toad 
+My Midnight Pillow 
+mysterious emoloyment 
+natural juices 
+normal eye 
+normal failure 
+Obligate Cannibal 
+ocular bodkin 
+Orc Bathroom 
+Pajama man from outer space 
+Pivoted Grab Handle 
+PRAXIS 
+Praxis Engine 
+reputation trap 
+Rorscach Audio 
+russian backdoor overture 
+SERPENT IMAGERY 
+Sex-obsessed murder monkeys 
+"Sex, Sadism, & the Smoking Guns" 
+Sick Transit, Glorius Monday 
+silent weapons 
+Something Like Science 
+sparkle baby 
+special laboratory for biocommunications phenomena 
+Spectral Centroid 
+Spitehouse 
+standard widgets 
+Stargoon and His Clardic Fug 
+still life with wriggling 
+Swill Children 
+the ambient dead 
+The Anatomy Act 
+The Author Function 
+the blood supply 
+the brotherhood of the good death 
+The Chronic Argonauts 
+the circumstances 
+The Counterfactual Regrets 
+the cutting room experience 
+The Designated Gerbil 
+The Deviant Occupations 
+The Duck Shack Agreement 
+The Enthusiastic Philanthropists 
+the flesh eaters 
+the formerly human 
+the good locust 
+the lamentation tour 
+the library revolution 
+The Love Alliance 
+the musicality of worms 
+the mystic eyes of death perception 
+The New Malarias 
+The Nuclear Teeth 
+The Painted Thing 
+the plants 
+the political realities 
+The Presence of Crime 
+The Principles of Refrigeration 
+The Resurrectionists 
+The Screaming Reverse Executioner Mutual Aid Society 
+"The Self as an Event" 
+the shape 
+the source regions 
+the Soviet psychoenergetic threat 
+The Testy Servant Problem 
+The Unknown Competitor 
+the unmistakable sound 
+the world beneath our skin 
+Tidy Stump 
+Tiny Body Computers 
+To Build Death 
+unsupervised sentiment neuron 
+upstream reciprocity 
+vulgar and lawless innovations 
+walk with the elf 
+West Coast Reduction 
+Wet Weapon 
+what is the injury 
+wizardclip 
+Wolcott's Instant Pain Annihilator 
+womb to tomb wetbox 
+Basically, any mechanism by which people gain access to information about history -- but, primarily, mechanisms by which information about events is recorded for posterity. 
+"Bite" is a very very important word in France: it is the most common nickname for penis. It's our "dick". We don't prononce it "byt" but "beet". 
+Bonus round: using some neutral orthography, do the same for very phonetically & gramattically distinct language pairs like Japanese & Russian. 
+But a proper relationship arc is a possibility as, like, something that unlocks when you solve the mystery. 
+(Call it Emril's Postman Takes Away) 
+
+Dress as a cultist, bring a bag containing a rubber chicken, salt, a large cleaver, a chopping board, and 5 LED candles to work 
+Each commit is recorded as a single block on your own working copy's blockchain, independent from others' WCs'. To push changes, you send blocks over to the remote WC's chain for them to verify and apply (or try to apply) the blocks at their specified height to the remote chain. 
+an instance that won't let you toot until you type more than 500 characters 
+crashed session 
+Every court card corresponds to a typical job title. 
+First call of the day that can be fixed by turning something off then on again take your bag of gear to the equipment 
+For instance, rather than levels, maybe each character can progress along Dan Harmon's story wheel, trading abilities of equal value, finding that they didn't want the things they thought they wanted, refusing the call, etc. 
+Free Halloween idea for IT people: 
+FYI: Today has been cancelled, please return any remainder of the day you have remaining to the bins at the front of the room for disposal. 
+Happy America Day 
+Having been through that time myself, I do recall an odd optimism to the period, sandwiched between the mainstream self-absorption of the 70s and the free-floating angst of the grungy and gothy 90s, when people started to really notice that being optimists didn't make anything better. 
+Hi Idea, I'm dad 
+If you don't know the French bite, please continue, it's funny. 
+If you have the URL for a toot on another instance you can add it to the search bar on your home instance (above the compose field) to get your local interactions (boost, reply etc.) 
+If you know it, please stop, we got it. Say "tapas". 
+.i mernunsla di'ai 
+In other words, rather than optimizing for best match, optimize for worst match & see what happens to social interaction. 
+(It could be called Emily Short Post Is Away.) 
+It would be about people in a house telling ghost stories while zombies are outside, I guess. 
+Life After Unlinking 
+Less mathematically interesting, but playable. 
+Lesson 5 - the bite 
+@lostnbronx The clunky technology aesthetic of the day, fitting in that weird grey zone between digital and analogue, does have its appeal though. 
+#MastoTips 
+@moovlin When I say "bad idea of the day", I usually mean "counterintuitive, unpopular, or perverse idea of the day". Many of them are good for *something*, if only a laugh. 
+ni'o lo cabdei jbobau 
+Execution Model 
+space law 
+Prior to language, only events that one personally experienced could influence their behavior. With language, oral traditions 'bound time' so that multiple generations worth of a whole culture's knowledge could be used. Writing bound time further. 
+An otaku is transported to a generic fantasy world, only to slowly discover that everyone else in the fantasy world is also an otaku who has been transported. Turns out they screwed up and failed to populate it, and so they& apos;re moving otaku over in the hope that maybe they'll mate. 
+Since a few months, we see that Americans use "Bite" in their restaurants: "Take a bite", "Beer-Billards-Bite", "24/24 bite". 
+Some rules involve getting instructions via planchette + spirit board & looking up their meanings in a Dee-inspired enochian-like encoding. 
+Thank you. 
+The floor would probably have a purely aesthetic fibbonacci spiral pattern, because lol math. 
+(The issue being that until you beat the game you still die at the end of the day.) 
+The Lojban of the day 
+An interactive fiction game where a celebrity chef attempts to send a letter but is prevented by an obsessive obstructionary postal worker. 
+@tomharris @ej 
+time binding 
+Vacation under an assumed identity by connecting to strangers! Whatever happens in vegas.social stays in vegas.social. 
+With the salt, draw a pentagram on the floor, set the LED candles at the points, unplug the offending equipment and put it in the centre, put the chopping board, rubber chicken, and cleaver at one of the points 
+Y axis is dom/sub X axis is netorare/coprophagia 
+You can bridge with Twitter so others can find you, and you can find them: https://mastodon-bridge.herokuapp.com/ 
+healthy limb system
+the realms of the unreal
+ego stripping
+instant literature
+a vision for the macrocosm
+that oddly heroic act of postponement
+explode the palimpsest
+a literature of exhaustion
+[200~The goal of microversioning in hypertext is to explode the palimpsest & display each revision as a complete work in of itself worthy of quotation while showing subsequent revisions as derivative works. Whether or not the author remains the same is no longer relevant, nor necessarily he chronology.[201~
+experiments in tone
+funeral apology
+arise chicken
+the culture jam
+the low lights
+math not politics
+process and reality
+home sysadmin
+face furniture
+third bird
+the strong owls
+a time for evil
+the war on sleep
+cosmic ear bakery
+brick machines
+moon logic
+a mysterious force
+unadaptable cinema
+drink the web
+cognitive estrangement
+strange tricks of cartography
+the crashing crescendo
+whimsical doodles of fireproof hell-flesh
+whimsical doodles of fireproof hell-flesh
+innovation theatre
+command phrase
+proof of burn
+the noonday demon
+snarf buffer
+new lines for a new mind
+scriptorium
+refocus the system
+too many facts about blood
+the sarcastic interrogatives
+the echo questions
+the patriotic speed limit
+the spirit of system
+black reef
+physical relics
+keepers of the bones
+the savvy dealer of unpopular time
+superfine
+a nice flat heaven
+rat bite fever
+human wallpaper
+they crave those deltas
+gentle morning shout
+loud telegrams
+the attaining gigantick dimensions
+competitive self-play
+unconventional halos
+surrealistic makeup effects
+combined horse
+the border of the haunted stars
+the count's phantom planet
+the speech acts
+how to do things with notes
+the collapsing contexts
+the exploding palimpsests
+the ends of sleep
+home taping
+the partial failures
+the livid farts from the butt of a lesser god
+it's all material
+the necessary medicine
+vomit draft
+the extra-believable socks
+destructive deduction
+schwerpunk
+infinite automatic mallsoft
+the near enemies
+primary vision
+the lovesick dead
+the death stench
+the garden of hours
+tragic meat
+future flesh
+night air
+the outer universe
+the dead room
+the paradox of painful art
+the obdurant desire for the taste of defeat
+a frightening inheritance
+external shrinkage
+we will ruin you
+the taking of weapons
+the mysterious night visitor
+let them eat art
+a sleeping suit for air-raid nights
+an explosion was audible within each toad
+international orbit
+the enforcement specialists
+the brood parasites
+the parasite brood
+thanatosis
+the printing offices of confusion
+fantastic plenum
+the germinal base of beatitude
+the nine springs of our nature
+a principle of sufficient unreason
+added smashing power
+the structured crowd
+the snake oil standard
+screen hearthing
+animal vigour
+a tantalizing typology of personality
+the empire of signs
+passive reception
+revolt of a counterproject
+bright, rich, personal, slow and under construction
+the brotherhood of sleep
+a fascinating disaster
+fashionable paranoia
+superflat!
+rural juror
+protruded polystyrene proboscis
+mouth comfort
+the Forgotten Works
+fantastic animal
+moon math
+fifteen chapters on sloths
+low memory environment
+forest bathing in the green chapel
+lower days ahead
+tribal mood
+brain fever
+echo answer
+in doomful half-dream
+52Hz wail
+the king of motion
+crypt trip
+pseudopleasure
+minimized badging
+Article idea: how to counteract power-law-orientation in social media (dropping retweets, dropping popular posts, reverse popularity order, etc.)
+Article idea: the strange metaphysics of Geobreeders (bakeneko as memetic entities; anti-bakeneko squads full of monomaniacs of various stripes)
+Article idea: how capital creates persistent antagonistic structures out of minor & temporary power differentials
+Article idea: how to culture-jam while optimizing for effectiveness (not masturbatory self-satisfaction)
+terror management
+hidden superiors
+liquid modernity
+the cult of tradition
+the convulsive mechanicals
+the reign of quantity
+rejected knowledge
+cosmic state
+esotourism
+artificial songs
+fruit bringing society
+munsalvaesche
+naometria
+the radically unseen
+a theramin for rats
+shock city
+experimental forest
+experimental fortress
+the full egg
+a continuum of intensities
+the becoming animal
+toilet revolution
+a dangerous eye
+vital value
+an extraordinary and unexpected ruthlessness
+cheap grace
+unusable truths
+swarming dope fortress
+the red-mad attacks
+death benefits
+ambient humanity
+king crusher
+big cat sancturary
+the product
+DAG of distain
+The Known
+the submerged man
+tube-pork medley
+The Emergency
+urban foxes
+mouthbrow
+selfies with bears
+illegal anatomy
+beyond taste
+night shape
+an unorthodox guidance
+beaverduck
+apes with ape problems
+all-purpose survival cracker
+suddenly hyperconnected to the real
+seated humans with large heads
+the vocal statue
+the jugglaries of the memnonium
+the teeming millions
+powerhammer
+the dark courage to sin
+international space crimes
+it's coming through your hands
+a lawsuit waiting to happen
+redundant and degenerate
+write skew
+cosmetic computing
+institute of applied oneironautics
+institute of implied oneironautics
+bundle of sleep
+perceptual snake machine
+struck by flying items
+Machine-Like Men Are Still Toddlers
+ULTRA HAND
+the stinking rose of mirth
+the words of conjunction
+automatic uncontrollable giving
+the ends of sleep
+the apparatus as a break
+internet hole
+the rich and gullible of europe
+night of the corpse whales
+calming slaughterbox
+nameless assemblage
+reciprocation dingle-arm
+against action
+that mad chemistry
+the new all-human cerebellum
+trees in time
+information weapon
+non stop mystery action
+rock harmonicon
+Shadows from the Walls of Death
+frost heave
+half-way to anywhere
+tiny crab utopia
+the every-trichord hexachord
+profane human calculators
+rabbit town
+the ratio club
+hot ham water
+pocket answer machine
+the teeth of time
+sharp flesh
+artificial fear
+synthetic torso
+self-negating component
+catastrophic steam event
+bearded seal call -- get sample
+brain needle
+definition of planet
+grinding utility
+icons of beige
+normal shopping experience
+omnicidal death machine
+the secret self
+the depth boys
+the conditions for democracy
+the hidden persuaders
+empty prosperity
+these new selves
+the inner directives
+radical lesbian nuns
+the private horror
+immortal replicator
+community vibrancy index
+the hidden & unwelcome impulses
+the lifestyle taxonomists
+no hay banda
+sign value
+the unofficial capacity
+the super-marginal
+tin whiskers
+WE HAVE MEAT
+telecomputer man
+the psychogenic shivers
+the cheap and bleak
+the corresponding bogus packets
+the nocturnal design
+the committee of sleep
+reserve heads
+eat your tv
+expectorate the vestigial
+death as productive matrix
+hydraulic tendency
+machinic praxis
+organization as suppression
+abstract culture
+theoretical anti-system
+a cryptography of cosmic pain
+thermic waves
+tactics of intensification
+beyond appearance
+the spiriting night
+the securities of ontotheology
+a petrified desolation
+blood and image
+a lunar countenance
+night pool
+a fading and cooling of stars
+the vast and senseless dispersion of the stars
+out of order
+there are interior teeth
+outside threat
+functional music
+a charm of blood and stones
+distant thunder
+squirrel events
+the business of war
+a jagged sky
+stretch it, paint it red
+the real atomic clash
+spectacular death apparatus
+alligator belief championship
+vampire empire
+disruption operation playbook
+the quietized home
+the maury island incident
+the washington flap
+power tool massacre
+weather station in a dead universe
+horrible clown violence
+revenge of the cyranoids
+the fulfillment centre
+villiage of witches
+the unlimited stick
+every now
+big real mode
+starscum
+chrome rotation
+nonstop necropolis
+the international committee of robot arms
+convalescence quilts
+machinic assemblage
+the hungry machines
+empire of death
+wet ghosts
+difficult conversations laboratory
+concrete corduroy
+the circuits of the supersavers
+neonatal handling
+social anosmia
+the neuron doctrine
+The Event
+typed holes
+the oneiric visions
+Exposure
+tiny knife massage
+exploding in reverse
+corridors of core
+rapid autopsy
+impossible color
+doom loop
+liquid ass
+emotional prosthetic
+one thousand years of dream
+the tomb of sleep
+space away from earth
+the forgetting curve
+massed practice
+consolation in numbers
+the delaware of reasoning
+whirly girl
+other landscapes are possible
+fridge poetry for Roman Emperors
+emanating from a dead moon
+burnt maps
+burnt maps emanating from a dead moon
+seven days without light
+aphelion
+die in complete surprise
+boomtime for deathcults
+instant trash
+nudge unit
+the alien world of objects
+horizontal transcendence
+brain garbage
+process s
+ice harvester
+exodus to an uninhabitable earth
+our miserable end
+the west-german sex-comedy
+vicious attack dolls
+slausen's lost oasis
+entropic ruin
+the ten thousand moon-brains of the Solid State Entity
+wet dirt appreciation society
+charming bed & breakfast nightmare
+midnight wimp bowling league
+viable system model
+the dreaded outcome
+colorspace atlas
+actuarial escape velocity
+mechanical violator
+the central premonitions registry
+a most extraordinary something
+square and stationary earth
+the psychic-industrial complex
+the Forgotten Works
+the disaster that everted
+A Romance of Entropy
+Callisto cuddle sponge
+the spirit of gain
+condemned to hope forever
+carceral archipelago
+harmonious grays
+an invitation to bad ideas
+duck the momentum
+the century of the exploding everything
+the most powerful living cat
+the extremely legal
+angry goat terror
+vintage skull imagery
+the eighteen minute gap
+no crew for your heart
+chemically peculiar
+Vengeful Piss Camel
+negative limbic arousal
+naturally occurring-interaction of gears, levers, and pulleys
+nuclear battle mole
+the unreal city
+the irreconcilable gap
+the potential carcasses
+a disco in hell
+The Faceless
+THREAT
+Red Birth
+the unavoidable spasm
+droop snoot
+strange remains
+the mosquito king
+hard dollar
+tabby starr
+hotel fire
+dream loss bureau
+the desperate orgies
+hot sleep
+the ass antlers
+betrothed by a scream
+feathered death garlands
+massive bubble phenomenon
+scavenger omnivore
+ownership of the dead
+invasive reptiles
+conspiracy to riot
+domestication syndrome
+radical pro-crime agenda
+counterfeit infinity
+the diseased
+the banana nightcap
+a study in confusion and misery
+FLESHCAKE
+the abyssal zone
+assault on society
+rebound tenderness
+a creeping naturalism
+extremely normal website
+london after midnight
+dead instrument
+the deadly silences
+pure duration
+the lean and athirst
+the bottom of creation
+the monstrous burst
+rivers of pitch
+xtreme witchcraft
+imported blood products
+the uncorrelated targets
+moth drinking tears of a sleeping bird
+aggressively punctuated
+spiritual insulation from the Outer Monstrosities
+iconic meat factory
+penumbras of emanation
+kill ziggy
+unmasked attacks
+the perfection of the hideous
+the bloom of outer darkness
+everlasting faint
+except at occasional intervals
+a festival of rats
+deeper dimensions of the profane
+stage meat
+terrestrial radio ducks
+fifteen foot sinus
+tracks from the coast of hell
+the pyrotechnics of a new autumn
+body genres
+lush rot
+we are the asteroid
+crepuscular forces
+how to deter bears
+baltic sea anomaly
+radical doubt
+worthless bridge syndrome
+secret infections
+vampire burial
+to lap blood from the open wounds of the dying
+angry fruit salad
+strawberry cream disease
+the unassigned lands
+the death chamber
+coffin factory
+necrocracy
+the haunting of flesh show
+passion owl
+honey & darkness
+gatorvision
+meat vision & jacked
+fish bulletin
+hope fading nightly
+a long strange way home
+the control and regulation of systems
+beyond all dreams of dread
+necroleachate
+peel the cortex off your brain like the rind off an orange
+crew expendable
+Porcine encephalon
+acceptable meat creaminess
+telepathic impactive impingement
+deformed malediction
+nameless food
+skeleton jazz wizard
+darker when wet
+end user digest
+safety coffin
+the waiting mortuary
+conspiracy to riot
+dread risks
+homesick for nowhere
+the secret weapons
+theicide
+condensation nucleus
+the active measures
+active denial system
+Mistakes were made
+my odious handiwork
+art crimes unit
+a motley assortment of screaming machines
+fossil ape
+prestige cannibalism
+intercellular pods
+interdisciplinary placebo studies
+a new leader in murder tech
+involuntary parks
+The Assumption of Randolph Carter
+the cardboard belts
+becoming vapor
+the becoming vapor
+subversive panda toys
+pulverized phantasy
+mere mechanism
+recirculating flesh
+involuntary body
+excess organs
+upsettingly large fungus
+wax cadavers
+glory in defeat
+sirius moonlite
+combat agate
+axis theory
+spooky electric
+where birds never lingered
+human flesh technology
+mysterious by divine
+rhythmic rituals
+the far and cold
+gorilla orphanage
+too many requests
+abjection
+watcher at the gates of mind
+transient hypofrontality
+seven minutes of terror
+the danish vowel horror
+the productively fractured
+funeral dj
+satanic graffiti
+girlmeat
+the crypto-embyonic hyperelectric presence
+timeless animals
+ten thousand incomprehensible avenues
+perfect balance perfect sleep
+the songs of a city predict its future
+pleasure in the failure to regulate
+manufactured spend
+insect of sufficient cleverness
+modern oral folklore
+crown locust
+particle explosion future systems
+your needs grow teeth
+the historic and inadequate
+a manifest degenerate entity for which wholeness is but a superficial distraction.
+knife angel
+known cryptonyms
+robust adversarial examples
+universal adversarial perturbations
+racing lawnmowers
+land art in space
+a section of agghartha
+keen data goober
+Hofstadter's butterfly
+continuous partial conflict
+adversarial pornography
+snowmath
+inverted yield curve
+hexenhammer
+body harm revenge & property destruction
+death banana
+infinite dick parade
+fleshcops
+central meat / central whip
+conspiracies of the body
+the power haunts
+major chambers
+death at that income level
+american magic & dread
+pocket symphony
+the history of an error
+mount unpleasant
+the corpse trade
+the red center
+alien fire (from the mercy seat)
+rizomorph
+a new and powerful god
+The New Motor
+the association of electrizers
+amber phenomena
+citogenesis
+the active measures
+intercourse with spirits
+the movement
+unforseen movements
+synners in the grasp of an angry gnon
+rural edgelands
+mechanized death
+parts world
+hooves upon the air
+solar bodies
+gaffe machine
+rich tapestry of disaster
+repel bears
+a god without a function
+putridarium
+the mutant incident
+center for effective dreaming
+rock hard clumps
+steel hour
+silver gleaming death machine
+fresh and desperate wailing
+manual of disasters
+modern sound synthesis
+horned werewolf
+cerulean process
+freestyle acupuncture
+coordinated inauthentic behavior
+urgent lumps
+rat nausea
+high concept art terrorist
+unconsolidated sediment
+nucleation site
+sneaker bots
+bootleg video van
+spidergoat
+power thunk
+Pronk XL
+the viscera
+night shells
+haunted mouse descendents
+meat in film
+night parrots
+newdark hotpeace
+oat milk shortage
+rank growth
+the only way out is grass
+machinic assemblages
+murdermap
+flaylord
+the ends of sleep
+adorable ice cream crisis
+small crimes
+a politics for alienation
+the becoming-electron
+rejecting the natural
+bespoke ennui
+science weekends
+unreasonably dangerous
+false and defamatory
+new-metal class
+we regret the error
+meat scientists
+wondersnake
+the wonderful game of vomit
+endless expansion of wants
+swegdropa
+electric gremlin
+fish repairs
+the awful swish
+rage of taste
+chamber of arts and wonders
+sex raft mutiny
+lewd weld
+beat beta
+central dust control
+invented forgeries
+the incitements of friendship
+the coffee brake
+rot appeared betwitching
+flame photometer
+how to grow living skyscrapers
+experiments upon vegetables
+the ultimate power in controlled telepathy
+easy watch
+the impossible screw
+embodied logic
+the new margarine
+penetrating sounds
+hot ergodic cybertext
+touch slop
+the ice disk phenomenon
+research on the artificial production of monstrosity
+joy sparks
+resident monitor
+making strange
+sodden rot
+fetid wave of reeking death
+abyssal hole
+process s
+vanish those turds
+order of softness
+fog in the kitchen
+counterexpectational
+orgy of unspeakable violence
+mooncops
+loud ocean
+deadly rays
+integrative crisis
+new ways to dream of the moon
+tentacular carnivores
+freakwave
+intermediate scrutiny
+baste me
+cincinnati tailfreak
+whalefall
+bone ossidex
+bonewright
+the sinking leviathan
+form estrangement
+nut based meat substitutes
+cannibal metaphysics
+fist implement
+tame rave
+the murder trust
+the dark lottery
+global seismic event
+immortal milk
+three fisted space detective
+teleforce
+embryonic teeth
+trick snake radio
+plagiotropia
+the nameless adventurer
+fecal force fountain
+microtargetted for cowardice
+dream control
+mouse studies
+snake gym
+magma oceans
+mojave megaphone
+the taint of the unwashed horn
+time salivating on a reed
+the entrails of a brass angel
+the gentle art of making enemies
+skull cult
+mobcraft
+sex lampreys
+pantechnicon
+fifty foot horse
+the box of justice
+survey feedback aktion
+speed victory
+the eyeball thief
+randomly selected nightmare
+industrial noise pollution
+empire of hair
+the other power
+invasion literature
+ouchmouse
+lowland ways
+spooky snow phenomenon
+american carnage
+corpse taunting
+the folly of continued life in an impermanent world ravished by death
+weak ties
+hairy cabinet
+supraglottal laryngeal constriction
+aryepiglottic folds five
+his smile was the nightmare in my back pocket
+love scales
+covington doom
+user illusion
+lonely black holes
+human power bouncy unit
+faulty language selection
+mind, stamina, muscle, & feet
+the hedonic reversal
+dysphoric rituals
+different forms of play
+new evidence for the strange geometry of thought
+occasional intrusions from a strange reality
+ubiquitous movement practices
+air disaster
+worm from heaven
+the obligation choclettes
+theraputic extinction
+Xtreme Witchcraft
+The Tomoe Institute for Language Development in Mute and Feral Children
+the thin place
+subversive populist vulgarity
+speculative negativity and the revolutionary pessimism
+ghosts from the future
+lethal automated weapons
+borderline content
+doctor chainsaw
+play architecture
+break space
+chill panic
+persistent metabolic youth
+data void
+solar monopoly
+the surreal humanism of the future
+extruding the universe
+pan-diatonic clusters
+creative misunderstandings of the source material
+quasi-deified victims of collective violence
+becoming symmetrical
+nightmare bee
+eponymous laws
+the magically unhinged
+super casette vision
+cannibal prospector
+vegetables were shunned and feared
+poseidogram
+british situationist acid house collective
+megapode
+ventral surface
+the discoverie of a world inside the moone
+handicraft futures
+spider pit
+some strange lagoon
+the red zone
+the moving platform
+courtesy telephone please
+anomalies in the soil
+weapons of mass production
+organization space
+the social factory
+In a secret room in the basement of the haunted house, a throne made of braided hair, surrounded by rats. Only the cats know how to enter this room: it has no windows. On the seat of the throne grow mushrooms.
+the power of mediocrity
+big seance
+monsterful
+secret and concealed policy
+big death
+automatic motor of a fractional operation
+murderers knock
+police horse
+complicity machine
+let them eat exposure
+open for flogging
+the dreaming mound
+needling the somnambulists
+a market for eyes
+the repugnant transactions
+transneptunian objects
+urinal on a plinth
+wolf fifth
+ai murder policy
+trial by ordeal
+cosmic watergate
+global hum
+a rebellious and sinister dandyism
+noonday devil
+generally regarded as sludge
+cloaca maxima
+spectacular optical
+emotion mind
+the oddly satisfying
+ornament and crime
+total exoneration
+a sudden and miraculous grace
+time mace
+nuke me from orbit
+the flying ointments
+performative exit
+Harry Humanoid
+special information advantage
+mechanical sympathy
+tubed meats
+temple of sleep
+mystic eyes of death perception
+cockroach milk
+horse dope sensation
+spitehouse
+meat would mac
+home taping
+gratiutous gargoyle cinematography
+the human anus controversy
+care control
+uncharted spaces of stimulation
+the age of immaterials
+maximizing the supernormal
+filth as sign of devotion
+the salmon street satans
+gore files
+industry plant
+in the shadow of the destruction machine
+we play only b-sides
+more features for dead people
+sweat bees
+empty motion
+click gap
+hedonic tone
+noise pollution
+wonderland of murderporn
+barleymalt dermatology
+a game called history
+escalator entrapment incident
+fleshsort
+temple of ridicule
+leech-borne transmission
+skeleton astride a skull
+central city brain dump & recycling center
+pathological tourism
+wandering fartscape
+hot planetary gravity
+modern mode of desiring
+VULPECULATED
+alternative meats
+tiger vengance
+new wonders on the moon
+danger our vocation
+the sacred yes
+the perfect despisers
+faith without smile
+unknown to prometheus
+the new art for cancelling fear
+available fog
+extrasensory pay phone
+the kung fu magicians
+heckboy
+real fake news
+the new bleak
+the transgressively bland
+new guidelines for reporting UFOs
+syncanthrope
+AI Murder Policy
+controlled multiple haunting
+sunghost
+flow of tapes
+the socialist lavatory league
+the great whale conveyor belt
+Coleridgean fantasy software
+time uncontaminated by space
+ambient cream
+the chrono-photographic gun
+frolicking exercises
+death master file
+arboreonasal bukake
+Hewlett Packard Lovecraft
+the splatter zone
+surreal all-star mess
+lofleck
+microexperience
+The Micro Experience
+knotweed carcrash
+biocontrol
+geophage
+bull market for baby teeth
+the hideous unseen
+the strange crawling of its fleshless spirit
+frenzy of loathing
+nightmare fungus
+liquescent valdemars
+between leering galaxies
+brand surgery
+knifebomb
+spider magic
+dawn forever
+snow motion
+cowglitter stark
+an ordered hell
+vampire jump game
+sewer of chum
+the uncanny guest
+sufficient but not necessary
+we reject the error
+chosen prefix collision attack
+FactoryManagerFactory
+great wheat motifs
+That Brute Animals Make Better Use of Reason than Men
+techlords
+sex weasels of classical portraiture
+goblinbane
+son of cheddar goblin
+anaerobic digester
+farcaster network
+dank and misty woods
+nighttime vomit disaster
+eat flaming death
+seventh art
+the third something
+the silent accomplice
+terns into metal again
+almost meat
+knowledge modem
+sold separately
+culthopping
+the abyssal zone
+perfect filth
+undignified objects
+altered wood
+indistinguishable from journalism
+blood by drone
+one-time achievement award
+organic reduction
+extended face processing
+soul-crushing telethon
+far memory
+stupid knife attack
+truffle fraud
+diabolical lizard cult
+born cancelled
+heirloom laptops
+churning cauldron of arbitrary failure
+projected litanies of glamour
+the cryptic crude
+four of skin
+cruelty-free experience
+poptischism
+catladder
+semiautomatic keigo
+the luminous infection
+how long is forever
+occluded narthex behind the arcade
+liquid modernes
+deception island
+art as encumberance
+deception island
+the ancient and obsolete
+comfort noise
+spacekit
+big mood machine
+insulting the autumnal sky
+camels of the middle class
+fighting sabrecats
+dymaxion chronovisor
+an univited rat
+advanced arse death
+the disaster wireless
+pork wars
+angry young computer
+cemetery girls
+the rot gnomes
+PUBLISH THE DEAD / BURY THE LIVING
+cosmic snake orgy
+corn mucous
+fecal timebomb
+icefall doctors
+jesuit rat car
+horseless age
+unrelated corpse
+the hat research foundation
+the weaponization of insects
+the rental bees
+roman extinction
+improvized implements of excrement
+loud dangerous
+illusory deviance
+the tri-state area
+public radio
+a new casual mode of paranoia
+behold this mockery of food
+abstract milkshake
+Blood, Actually
+glitterghost
+awake quiescence
+gongmaster
+the hayflick limit
+academy of fisticuffs
+tommygun bachelor party
+florid filth
+terminal lagomorphy
+against flesh
+facial action coding system
+rabbit birth
+a mournful ruminant bleating
+sci-fi typewriter
+strange destructive gadgets
+a comb for your hairy heart
+streambait
+stolen time
+the polyrhythms of a living earth
+eccentric wife orchestra
+inhiertance powder
+the luxury tastemakers of high kitsch
+unconcealed sponsorship
+bad wrong fun
+the ocean is clogged with such wishes
+genericide
+an improvement in stairs
+strange tricks and devices
+forbidden encounters with a fancy bear
+illicit fudge party
+the liquefying coffins
+strange bird
+the regicides
+zero daze
+west wing pity party
+unfamiliar glyphs
+glasspalace
+superluminal jets
+an inconvenience of nettles
+doubting the witch
+a golden age of crime and detection
+days of dull fear
+a living hell that time forgot
+sonic humanism
+the recent unpleasantness
+online birth club
+excellent eating experience
+disco's revenge
+superluminal dreaming
+the united states vs 46 million tonnes of fish
+the extreme universe
+deodant
+manned venus flyby
+disgusting ham fantasy
+dessicated ruin
+skilled tastelessness
+hungry biomes
+trumpets and angel farts
+dr praetorious's incredible hungry skin
+ambient dread
+unlimited hair
+international school of exorcism
+hyperspace antislap
+sued by own anus
+critical thermal maximum
+a new disaster
+seditious cufflink
+remarkable sun tunnel
+slow violence
+occult task force
+mechanically separated
+continuous partial attention
+continuous partial attrition
+psychic garbage dump
+crystal weapons
+mechanical harvester
+the chicken of tomorrow
+squatting on the bones of a dead meme
+the aspiring vacuum
+paradise fire
+boat nectar
+hidden friends
+bag-like mass
+invitation to an execution
+wet bias
+impatient fist
+thirsty door
+chainsaw heart
+great monster destruction
+friendly neighbourhood devil worshippers
+heavy flo
+hairy tongues
+the sad machine
+the new ruins of the melting alps
+acres of boiling feces
+red velvet masque
+digital fur technology
+pocket crimewave
+ultraviolent light
+vegetable television
+phalse profit
+miscellaneous neurological event
+the struggle sessions
+to be enamored of the night for her own sake
+aztec death whistle
+rocky mountain locust
+abyssal plane
+border science
+an amazing experiment in electronic communication with the dead
+fever machine
+miserable winners
+infected zone
+sonata for two planets
+angel grinder
+the fuss
+satan behold thy supplicants
+its frozen fury preserved
+graphic methods for presenting facts
+pure bread stud book
+cybernetics in the service of communism
+a mechanical semblance of life
+woodcock genius
+heavy edutainment
+a slow motion uppercut aimed at the sun
+dream theme inventory
+appointment viewing
+uncle hairy
+real eyeball hours
+nameless fleshless deathless
+enemy stand
+terror management
+the heaviside layer
+moon room
+ravenous monsters from beyond the stars
+for-profit death cult
+a questionable supernatural agenda
+civilized space
+captain boyfriend
+unfathomable god monster
+all cheese all the tiem
+unusual butt anatomy
+pain cour
+pain court
+nuclear hurricane
+hangliding mice
+invasive wild hogs
+poppable walls
+sneezing in reverse
+optimal margin of illusion
+miskatonic knowledge web
+ghost stream
+the lords of death
+the future of meat
+six pulsing minutes
+paradox valley
+the prescribed burns
+DIM GREY WOMB
+dongle trunk
+our shame will pay our bills
+glass hall of knives
+speed cube
+air-breathers of america
+lachrymology
+the editor
+bornless transrational event
+the event-signs of synchronicity
+onion steel
+but lighting was his mother
+major arcana
+the bounds of deviant shopping
+liberation from the moon
+Punch Deck
+gossamer myth
+science costume
+subject to a common thrill
+freelance vivisectionist
+a wet and deadly desert
+undead shrieking shroombugs
+certified 100% flesh
+screening for knives
+frog delta
+vertical graveyard
+total function
+freudensprung
+a feeding-place for animals
+an abortive and bastard art
+distant beyond belief
+the fake moon
+big dreams and blood powers
+die hot
+everything else is death
+the ringstone rounds
+the causitive scene
+endless cheese conveyer
+phantom cllown
+phantom clown
+bungalow universe
+art works and art related merchandise
+a state of disoriented conflict
+the icy bleakness of things
+massive semen explosion
+accelerated death benefits
+time corridor
+the nightingale floors
+commit to wax
+a pungent, ammonia-like stench
+the ursine controversy
+Zalquinus of Tac
+rat tickler
+coordinated inauthentic behavior
+Rachel Nevada
+verified reptiles
+adequate images
+our drowned world
+filtered blood
+decaying orbit
+the havana syndrome
+recreational psychoanalysis
+the object as comrade
+no dead planets
+the uniform of a registered telepath
+forbidden shapes
+hybrid legibility
+the triumph of compliant meat
+lifeless junk in an idiot wind
+grace insurance
+loud computing
+canterwaul
+the unheimlich manouvre
+sewerlamp
+hirelings of monopoly
+booty for the bold
+https://aeon.co/ideas/to-make-laziness-work-for-you-put-some-effort-into-it
+unidentified caller
+uncle same
+enlarged intimate supplement
+to abiding dreams
+general purpose criminals
+distracting mouth sounds
+hypnic jerks
+MORTSAFE
+coffin caller
+modal american
+motor habits in the larnyx
+brilliant objects over washington
+dangerously tall
+wakeword
+fleeting indecency
+intermodulation distortion
+altered chord
+unbelievable pounding talent
+peculiar aversion & terror
+click to pray functionality
+nipples and hammers
+cemetery guns
+the dry gripes
+perfect sleep
+PAINWORM
+sample text
+complicated airflow
+the fresh horrors device
+book tarot
+militant uslessness
+skinterface
+this burning-house of a world
+EMPIRE OF DEATH
+transneptunian object
+innate aversions
+malice mechanic
+WINCE
+alpine jungle
+malachai
+field taxidermy
+when i was older
+crispin's dance
+the initiation
+survival strategy
+comfortnoise
+the order of the body (disrupted)
+atopia of the other
+shadows of the strange
+fur bikini
+fraud in absentia
+chicken grass alliance
+the great fish theory of prehistory
+birdstrike
+trial by blood
+damage night
+anthropodermic bibliophagy
+ouija riot
+texas book suppository
+mad basement of honk
+hazardous toys
+hollywood astral projection clinic
+the composite gospel of yaoi jesus
+early internet argument culture
+seduced by civility
+despair fatigue
+deltaworks
+the walking shriveled
+brief sensuality
+pants feelings
+mysterious circumstances
+death opera
+edible barcodes
+raw beer
+wombat anus
+carcrash world
+the anonymous release of uneasy artefacts
+a momentary loss of intestinal fortitude
+streetlight interference
+the sun goes down on sex island
+wild bee hotel
+durkheim and the social fact
+STARCRIME
+the menace of mechanical music
+lag of light
+wasp blood
+loud balancer
+jam digest
+turnspit boys
+dizzydog
+the shift to screaming
+ultrabanishment
+the largest land crab
+rough jazz
+here to fuck spiders
+owls in the moss
+brazen empire of organized crime
+a reaction against the horrors of reality
+HR astrology
+cobra mist
+bizarre secrets of the pleaure cult
+humanoid study group
+hot slag
+chitinous chimerical
+too famous to flee
+blended threat
+chromium avacado wreck
+damaged tape
+aunt baby
+a dog named robot
+that future strife
+gruen transfer
+burning desperate return to anything
+deer processing IV
+crypt of the neckbreeder
+cannibal energies
+stone-hearted ice witch
+slapdash idiot festival
+hidden friends
+the legible self
+the wizard of crime
+a new and startling universe
+archive fever
+disco bolus
+world modeling failures
+the trash stratum
+harbingers of failure
+saturday night palsy
+the incomprehensibles
+borderline content
+vatican honeymoon overdrive
+the grand guginol of common magic
+butt lift specialist
+the dense web of the asinine world
+lawnmower meat
+that dragon, error
+aerial board of control
+hubley atomic disintegrator
+body port hygene
+eight foot death machine
+professional lady rejectors
+load-bearing skeletons
+precision listening
+murder market
+spitehouse
+danger's comforter
+mount misery
+illegal butt surgery
+desolation bay
+room tone
+universal fuck orgy
+utility turkey
+the fulfillment centre
+shiny metal robots
+the liars club
+the classified directory of spontaenous phenomena
+endless genealogy
+saucer revue
+endless everyday
+expensive static from outer space
+mimeolith
+occult data collection agency
+laurel reef
+deathzone
+music for small speakers
+the secret commonwealth
+the control group
+insidious categorization and the bad philosophy it conceals
+moon tree
+wonderbuttons
+solartime
+the condon report
+the burden of the frightening unknown
+haptic recon commando
+oneiogramy
+corpsemaster
+peer discovery
+public urban forest
+lack
+permanent labor shortage
+medical coyote
+crotchmouth and leg teeth
+persistent types
+natural circumstances
+seasoned novel abandoner
+aerial triangles
+the anatomy of refusal
+his hideous howl a dirge of death
+associated force
+the rigor of process
+subdued riot
+scheduled riot
+defector concubine
+frozen conflict
+timecrash
+polite at all costs
+frightened as they warm
+the modernist imagination
+whithered technology
+false color images
+six inches of red metal
+mass mortality event
+glass brain
+birdstrike
+the robertson heads
+death basket
+my ass is legion
+the vomit of our own corruption
+the fabulous historical graverobbers
+burke in name, burke in nature
+eye penetration
+atomic hearing aid
+magnetic electron device
+hippy vampire
+simple, popular hobbies that flirt with death
+galactic head
+satisfying doggerel
+silver humanoid
+gruesome animal metaphors
+eleven myths about snail breeding
+the healthy normals
+colorado mystery drones
+inner sense cultivation
+mind-world barrier
+birth father
+virus literacy
+desk test pilots
+conceptual emergency
+warped norms of a sick society
+bodies without options
+dramatic action
+the psychic goods
+the love command
+we repair rosaries
+the civilizing process
+saga dream cat
+ideal brain tonic
+tooth retention
+undercover jesus
+the classroom situation
+the pleasures of the luciferian world
+temptation of the vehicle
+shocking human horror weapons
+chiral crisis
+the extinction entity
+tombhouse
+motivated numeracy
+eyewax
+morbid trash
+social malware
+the cold outsideness of neurotypicality
+disintegrated circus
+bent energy
+saffron harvest
+atari transputer workstation
+bureau of public roads
+glassroots
+shushfunds
+the kids are airtight
+level paying field
+cemetery lichens
+fugues of the creeping unknown
+lonely railway
+speak to the bees
+the culinary merits of lead
+golden ratio in the uterus
+regulation snowball
+the laugh that's really crying
+data seventy
+kentucky meat shower
+landmine paradise
+sound rage
+fake goth
+the perpetually embarassed
+baseline of happy normality
+the warm bodies
+cadaver organs
+video panic
+shallow real
+infodemic
+bog butter knots
+butter knot squashed
+spectral bands
+the intoxication racket
+dominant victorian
+invisible rubber
+gateaux
+the accursed tomes
+the hooking of the video junkies
+crimes new roman
+perpetual volcano of slander
+the psychic stooges
+trained observer
+secret committee
+flying saucer revue
+superbat
+cathode ray tube entertainment system
+daylight discs
+karate entertainment systems
+tired love
+our age of midnight
+the miraculous contingency
+a direct sexual relationship with satan
+a desirable calamity
+flask of skin
+eye biters
+conjurewife
+all of them witches
+glamsight
+disc craze continues
+a principled and socially acceptable mutiny
+the coming microelectronic revolution
+competitive jaywalking
+tacticruel
+bomb-sniffing cyborg locusts
+their strange new bodies
+junk thoughts
+all cause mortality
+a house for orgies and bacchanals
+twelve hour daily standup
+photobombed by the undead
+sleep pressure
+kodak mircofilm systems
+kodak microfilm systems
+key disclosure
+philosophical egg
+the mutilated heroine
+the hands restored
+luxury bones
+storm ellen has not yet been named
+necrotic power
+a taste for the categorical
+artisanal mining operation
+the permaweird
+corvid-19
+pretty howitzer
+curated instagram graffiti
+bomb city
+government cheesecake
+disquietude
+organized lovelessness
+the age of noise
+excess death contingency
+puppet crimes
+stealing season
+the brother earnings penalty
+a grand unified theory of urban living
+suspended in equilibrium
+the duration of embraces
+plant mines
+satanic planchette
+satanic planet
+flow trigger
+the vanguard of a new, more educated offender
+locutionary silence
+rat model
+unrelentingly erotic
+the angel-eaters
+rue crime
+lemon lime decay
+rolodex of abominations
+the language that exploded
+an awful intercourse with the world of spirits
+spicy yoghurt
+fish recognition system
+toy wonder
+miami meshnet
+the hard time underwater
+doctor horse
+elastic time
+gnome illusionist
+unknown etiology
+imperial death machine
+soft with furry darkness
+the valve stem controller line
+autogenic discharge
+synthetic control
+men's home furniture
+cryptic transmission
+meatphysics
+the burgeoning throb
+maximum arcane pleasing
+jam-fuelled flesh mannekin
+collateralized horse obligation
+flesh with the crowd
+the healthy quarantine shopping list
+serene and lucid minds
+The Plan
+serendipitous plot economics
+bang routing
+scary generic images
+the spiritual emergency
+loan nut
+simone & tuba
+the nightingale floorboards
+anti-spitting hats
+menace of vengance
+midnight crisis
+panic buying
+gruesome machines
+greaseboy
+dirty book water
+artisinal bullets
+back and to the left
+unlimited cash
+massive upright werewolf
+edison's secret spirit experiments
+the mowing devil
+nocturnal creation
+meat elemental
+stronger than hair
+intubation period
+flying duckman
+morning moon
+selection accumulator
+wife energy field
+public health event
+all my favorite cities are invisible
+underwater knife fighting
+harmonious fists
+aggregate accessory fruit
+a study in abnormality
+kensington gore
+kensington guro
+surrogate exposure
+hard cozy
+darkness unplugged
+six square feet of pain
+summer nipples
+man-biting sea lunatic
+fake goth appropriation subcommittee
+TAE CHT
+center for applied eschatology
+dali parton
+auntie fragile
+intercontinental penetration force
+the house select committee
+ominous supermarket
+perilscope
+the climax
+ghost hominid
+the fomites
+illegal cheese
+dukes of hell
+superspreader
+parasitic consciousness
+numberjack
+In a particular state of mind (as created by set and setting), what may be literally unthinkable in other states becomes obvious & vice versa. In other words, when the best solution is not already decided upon, any temporary alteration of your state of mind is justified on the grounds that it can reframe your thinking so that the correct solution becomes obvious -- even as the changes to the obvious/unthinkable division are functionally schocastic.
+Global WFH suddenly (and roughly simultaneously) explodes the former rough constants of set and setting for knowledge workers during their ostensibly-productive time: workers who previously worked during the day will start working primarily at night, those who previously listened to music will watch TV, and (seeking novelty in media to make up for the novelty they previously got from IRL social interaction with coworkers and other constant compations) they will expose themselves to increasingly unusual media, accelerating their daring in taste. While each individually will likely (for the duration of their long adjustment) feel less productive -- and be less productive on every easy metric -- their work decisions will begin to incorporate new insights, and the creativity of collaborative efforts will increase because collaborators are forced by circumstance to become more intellectually diverse.
+rat captain
+maypole
+the henchmen
+an amazing mistake
+we're with the damned
+the exports
+stacked attractors
+pomptimism
+the failure
+music for imports
+the expired
+the trouble
+bikini nose
+slow worms
+nano surveillance rolls
+hair metal terminator
+none music with left unity
+hope fading nightly
+the love
+the droplets
+the vocables
+the murmurations
+the death seekers
+doctor beak
+tape hiss
+mere life
+the favorite cousins
+immiseration index
+chocolate bomb
+jungle of glass
+hose jumper
+meat cute
+stupid justice
+cheap nature
+the normosmics
+the infernal machine
+austrian wine control
+flamboyant gothic
+special gothic
+timeghost
+american association for the acceptance of necromancy
+his eyes are inside of me
+a second series of beeping and buzzing noises
+the social distancing consultants
+profane human calculators
+stop history
+specialization for insects
+rubbed out
+the public restrooms
+welcome saucers
+pleasure architect
+gaping chasms
+brief but powerful
+the modern paisleys
+rear palace
+the fragmented body
+cytokine storm
+the long dead
+the scandalizing tongue of futurity
+cash nexus
+technicolor gothic
+manweasel mystery
+Long Night of the Short Cake
+welcome to violence
+the so-called dead
+a process for avoiding certainty
+mister ouch
+groovy professor satan
+the sweatborne
+the ultimate oppressor, death
+speech superemitter
+coordinated inauthentic behavior
+the conjoining dividers
+constructed unmediation
+memories of forgotten candy
+the whichness of what
+paranoid libertarian writers
+coffinbirth
+music for furniture
+mood organ
+the peak toil crisis
+electric larryland
+the problem of hell
+young grandpa
+a failure to thrive
+the opposite of meat
+coordinated inauthentic behavior
+at home in death
+the ultraviolet catastrophe
+zest studies
+fighting about fighting
+unwanted living organism on host
+the menace of mechanical music
+nightmare nursery
+the creeping cosmopolitans
+wasp nostrils
+weird contest magazine
+four oreos from heaven
+bedtime procrastination revenge
+death astrology
+necessary trouble]
+necessary trouble
+the return of the giants
+a sick picture for sick people
+tautophrase
+machine yearning
+pop tingle
+the quarterly
+refrigerator music
+cousin throckmorton
+in this region of death
+shapebear
+the big dream
+maleficent astral doubles
+doppler ganger
+emenation body
+the supersensible world
+fashion mask
+the secret puzzle enigma
+the smile room
+blood dealer
+sugar and the dead
+phlegm kissing
+generalized curves
+butt-focused school boards
+thrill me
+neon blood
+inexplicably wet
+elderly teenage timeshare
+wait 'till i'm dead, piglet
+menaced by plot devices
+the pale door
+dice and small binoculars
+the new american nervousness
+fierce and lovely
+community fartbag
+concentrated animal feeding operation
+fast radio burst
+cube projection system
+undiscovered animals
+hollyworld
+simple ghouls
+normal motor autonomism
+metalloid geranium
+security events
+the deletionists
+death projection
+reverence in death
+hotel thing confluence
+soothed by crypts
+divining the hermenuetics of the hidden heart
+orbital gingivitis
+the soft skills
+the soft skulls
+hellsite
+super recognizer
+interstellar visitor
+heatherface
+few things in this life work
+the information plot
+ominous weapons
+hour of legibility
+the hot letters
+serious murderweapons
+federated hypercrime unit
+established infotech
+androgynous zones
+electronic voice phenomenon
+internet hole
+rock nips
+sympathy and aid among the dead
+hot yoga death cult
+wet power
+meat clown
+in service of a gnostic nightmare
+one must work with trash
+explode with vital juices
+horror wants to do things to your body
+backdoor revolution
+hybrid tonality
+fine trash literature
+delicate sledgehammer
+morbid holiday
+darkside cartography
+the red flag incident
+fungus humongus
+pink noise
+the principle of hope
+skin museum
+how to become indescribable
+the uncanny
+the shocking dark
+soapcenter
+mental orthotics
+cardboard lingerie
+mack anti-floral units
+a tragical history of numbers
+the unfathomable ruse
+trouble alert
+anarchist jurisdiction
+there's a lot of jobs in a burning sky
+the new vomit
+passive personalization
+subsumption architects
+the second sickness
+maxed media
+consolidated opportunity costs, llc
+tutivillus
+perishcope
+new sacred games
+wet shroud
+subtle and unfathomable doctrines
+I WAS MAD TO CHALLENGE THIS FIEND WHO BATHES IN LIVING FLAMES
+commensurate thighs
+splatterhorse
+bathtub guns
+the masqued unknown
+transportation or violence
+interactive phantasy system
+placate the corpse
+wear a face
+the spirits returned
+truefax
+the trick in the treat
+ghost economy
+puppy problems
+philosophical discotheque
+we are the dead
+the author function
+the founders of discursivity
+a suddenly unfolded world
+babbling micro perceptions
+hilarious malformations of the data stream
+haunted idiot wind
+the ghost of god
+blazing slack
+the guerrilla art of concealment
+the uncertain heiroglyphs of the stars
+piercing history
+the eloi underground
+wet specimen
+solidarity with the monstrous
+strange and marginal practices
+small sausage in large sausage
+daggers in the dark
+today's wonder machines
+24-hour daylight
+the classic zine experience
+mass disavowal
+pit of feek
+giant spider inversion
+designated survivor
+the spontaneous generation
+space monkey mafia
+negative fascination
+luxurious paranoia
+the higher nothing
+the bargain bins of culture
+the trash stratum
+put it down to the phallus
+law office polycule
+lore orifice
+bulletproof wolf
+the geometry of the dream-city
+a durable landscape
+dharma position
+the zone of exclusion
+basic orgy management
+mechanisms for intermittent motion
+the maurading ghouls
+the big alone
+mysterious circumstances
+mutilation cult
+we the living
+the zone of middle dimensions
+knight of the living idea
+build the moon
+xenochronaut
+dessicated pedant
+mad machines
+the eldritch dark
+cursed to love only the dead
+the splice
+conceptual threat
+seeking the unrecognizable
+Just Say Yes to 'NO'
+ask the fever
+exposition cop
+fruiting body
+the mole gap beyond
+victorian pet necropolis
+death's screaming return
+meat homonid
+the inner lips of carrots
+tax the ghosts
+monsanto's plastic disneyland
+the special interests
+prelude to gunmusic
+give up your dead
+big opinions
+human fire
+ferocious analysis
+greasy target center
+the noumatic grin
+municipal meat control
+unmindful fingers for the incomprehensible
+grimslide
+the elephant beyond our compass
+mutant nucleus
+freak windsuit accident
+mars operational phase
+The Creeping Fish
+living fart from the butt of a lesser god
+GIRLS MEET TRACTOR
+gravygrave
+Bart Fargo
+stone age sex toy
+elite panic
+hypnic jerks
+the mysterious world of ghosts
+deathhouse
+say it with tanks
+analphabetic darkness
+the ancient language of cats
+the lady of the game
+necrocosm
+the beef girl
+proxy meat
+the recording angel
+the age of degenerate law
+the archival sublime
+the canadian unconscious
+faculty x
+mystery hill
+cybernate
+saturation value
+art trauma
+dizzy vacuua
+the watchdog of the mind
+she suffered in castles
+captive angel
+wounded by history
+our communication with the dead
+order of appearance
+second oswald and the lone gunmen
+pile of hairy meat
+Harry Meatpile
+infoliant
+wrecked m
+blueshaft
+gothdots
+brown mountain lights
+immortal drug gods
+the knocks
+errands of devilry
+silver-tipped anything
+ratfilled chasm
+spicy waterboarding
+witch unit
+crisis telepathy
+bureau of crisis telepathy
+bipedal ruminants
+angry catfish
+perfectly cromulent world
+lanyard fucker praxis
+orphic resonance
+the breathing corpse
+salty randos
+top hat horror
+the disease of tomorrow
+falsehoods to believe in
+falsehoods we can believe in
+jar jar martin
+what was practiced in secret
+the usually occluded
+beltane dew
+the distant horizon of the eternal
+the sacramental universe
+monkeybridge
+the missing original
+the people apron
+a common penchant for violent death
+whichfinder specific
+milk of war
+consolidated luxury science inc
+time castle
+count mecha
+fantasy aggression
+the weapons effect
+hostile appraisals
+sweat rips
+the mechanical uncanny
+the fetching corpse
+coquettish pulse mode
+trick mystics
+insatiable organ hole
+ritual fantasy
+the mole children
+calibrated amateurism
+constructed authenticity
+relational aggression
+uncreated futures
+piloting the body
+the latest in slumber technology
+emergent technologies of flesh
+lobster deathcult
+hogbeing
+nightmall
+farce acceleration
+vaginal deathcrab
+werewolf break
+synthetic flesh
+discount cenobite warehouse
+functional wound
+thrilling stagger
+second-hand meatballs
+superhabitable
+corrupted play
+hour society
+funereal world of terror
+world of soup
+megacolon
+the excluded
+the counterbody
+the eating of the name
+bureaucratic love delusion
+european fungus library
+real subsumption II
+lizard set sattelite
+lizard sex sattelite
+total paranoia total awareness
+the violent nihilists
+the meat circuit
+overcome by death
+infectious corpse
+muscular backlash technician
+the fear survey
+cemetery birdwatch
+leftist day traders
+the oldest dudes
+central computing hole
+poetry batallion
+sex mystery
+carrion screaming
+mezzotronix
+a sudden burst of day
+turn off the moon
+baker-miller punk
+young adult bookstore
+serious substantive evil
+intersectionalist bigfoot
+hairy wonderboy
+celebrity meat production
+hydropathic phrenomesmerism
+mundane acts of journalism
+cyclone of gore
+the seige of the dream-city
+i miss the future
+murdersex mountain
+dumping syndrome
+corpsecakes
+ghost value
+the watertown strip
+infant death spiral
+tainted meat
+unexplained protrusions
+stabbing incident
+havana syndrome
+crowd-sourced nightmares
+giant moth intervention
+cutie violence and the headshots
+a dream of lunar alchemy
+zen baptist
+centralized qualia control
+fast machine
+rad planet
+rat planet
+no safe harbors
+one hour stepdad
+pyramid tomb
+damn tombstones
+brutal liminal
+intravenous meat
+the lost apes of the 80s
+educationally optimized panopticon
+ambulant coupling
+his sunny disposession
+international science criminals
+the universal sunflower
+auntie oedipus
+chimeric spike
+deviant whalers
+society to cut up books
+my midnight pillow
+hideous progeny
+sleepy anatomy
+dreamsin
+invisible gorilla heart attack
+tale type index
+fantastic hesitation
+powerful alien dick
+liquid crab man
+pointy reckoning
+some reddish work
+barbarous vengence
+wicked carnival
+hot words
+our goal is only to strike terror
+square egg
+ghost kitchens
+nightbrain
+a cryptocurrency for lobbyists uses a 'proof of wonk' mechanism
+film music for daydreams
+mental movie music
+planet birthday
+the terrorists of theory
+bureaucrats of the revolution
+heirophany
+h certificate
+reckless evening
+alternate dildo chainsaw
+thought deform
+how lovely is our dead world
+fertile mistakes
+international nipple
+mc ultra
+things that go bump in the grind
+the housewife trap
+girls on talk
+soft metaphysicals
+underground apemen
+smooth jazz harsh noise war machine
+a machinery so violent it destroys the effect it intended to create
+a monstrous providence
+the roaring vault
+hybrid squalor
+100% privacy free
+a chaosmos
+mercury in gatorade
+brood x
+god-forsaken antimatter galaxy
+sensate witness
+sleepless afternoon
+boiled moon
+dogwood sandwich
+lancelot link's shoes have no soul
+your drowsy anthems
+teflon battleaxe
+dangerous slackers
+the phantom menagerie
+clown husbandry
+vice squad jaw gymnastics
+orphic miseries
+the financialization of people
+voluntary self exploitation
+management theology
+tea-time brutality
+aspirational supervillain lifestyle
+fucking hellshit
+the middle age of youth
+spectral gravity
+the entertainment
+current pro forma financial model does not account for the uncanny
+teen blood enthusiast
+the void collective
+armed unit
+i knew the glass woman
+sadpassions
+claycold lips
+bloodfucker
+embodied damnation
+laserblest
+dangerbeans
+the agency of the virtual
+a science of ghosts
+the latency boys
+the beloved flops
+candidate for crisis
+pharma deprivation death machine
+disruptive strategy
+victims of the system
+buried spaceship
+tidwell's purge
+art thou still living, wretch?
+bogwife
+born without skeletons
+privilege of the sky
+bluestocking temptress
+pointless repinings
+jetspeed ultravirus
+revenge bedtime procrastination
+big library
+ecstasy of the consumed
+restored to namelessness
+mythmaking processes
+a simpler hell
+the hidden reverse
+the organic knives
+saint time
+kundalini syndrome
+imaginal goat
+dream incubation temple
+unusual flight characteristics
+skytrash
+breakfast cloth
+liquid shit community
+collapsology
+knife missile
+political activision
+planet ex-lax
+young evil
+the secret commonwealth
+anticontrol
+master flagellant
+midnight ghosts
+breakthrough infection
+the kingdom of the rats
+broken seals
+the subversion factor
+hypersane
+shoggoth dazzle camoflage
+vincent dawn
+high density ghosts
+the despotic moment
+extrusion of the etheric double
+the shattered world
+night corpus
+warbread
+ghosts of the living
+synthetic elementals
+my dearly-loved revenge
+politically ill
+the kitchen sink period
+consumers are nervous
+the specialists
+vengeful ghost area
+the deleted years
+needle future
+ghost shift
+radical truths
+obscenely uncontaminated
+ride beasts with diana
+the night battles
+tomb of the righteous dead
+pre-fab pleasure planet
+skilled glamour technicians
+killhorn
+the omnitasking academic
+stunt body
+the eyesores
+america's bathroom
+daymare
+explode the clinic
+superchief
+current sleep system
+test set
+the ecstatic expert
+organ of mystical sensation
+miraculous appropriation
+the sad passions
+meatbird
+the clerival necromantic underground
+the clerical necromantic underground
+spectrum of dignity
+the phantastickal interlect
+extended contact with the dead
+accidental materialities
+anything with a face
+consensual sentimentality
+night cry, angel animal
+truant hearts
+the impossibility of the present
+queasy listening
+suggestive audio fog
+the hidden circuits
+libidinal echonomy
+total enjoyment
+awful necessity
+grief collective
+acousmatic
+spine of the death god
+the ripping panel
+best if used
+the god of non-contradiction
+trash in the stars
+star trash
+dominating masculine necropolitics
+roaring like a fly in the blindingly white greek diners of the eternal 10 am hangovers of the world
+runaway world
+smooth pursuit
+blue resonant morpho
+oneirophage
+festive cruelty
+dead internet theory
+the inversion
+geocentric plane of infinite inertia
+antiproduction
+the great oxidation event
+pursuasion knowledge
+compulsory bodily awareness
+the heteropsychic materials
+legalistic mysticism
+heresy studies
+let them eat paper
+adamical algorithm
+the repeat offenders
+pyroclastic flow
+fleshy puncture
+cave captives
+the impending dark
+acid hatch
+celebration bowels
+the sadly relatable
+parasite-mind
+the oxford karma
+optimal frustration
+year of the garuda
+eyes of the spine
+a melting hell
+auntlion
+tender necrophilia
+the field embalmers
+clockwork wizard
+swine mystery disease
+spirit movement machine
+knobs ribald
+the becoming animal
+theme park soul
+collapse informatics
+high camp psychedelia
+the new violence
+reverse the spin of the soul
+the aspiring cannibals
+thin milkshake
+a pictoral encyclopedia of abberant behavior
+the psychic knives
+the anatomy of crime
+knife club
+used money disposal service
+occult non-fiction
+soviet superweapon
+the interference activity service
+the wife bank
+flying meat
+the common nuisances
+the common nuisances
+the common nuisances
+the common nuisances
+the common nuisances
+the common nuisances
+the common nuisances
+the common nuisances
+the clerical necromantic underground
+severe convenience
+evaporation industry
+heteropraxis
+the unindicted coconspirators
+the truant soul
+the ancient and occult art of dying while still alive
+casino death machine
+the radically naive
+the dance of contempt
+galloping ghosts
+deception analysis
+brutal gigantic avian predators
+softgrid
+we are the supervolcano
+mandatory fun
+analysis cannon
+secret habits
+the crawling teeth
+exothanatology
+psychological strategy board
+deception analysis
+galloping ghosts
+operation mirage
+humanoid organisms allegedly xenobiological
+morbific
+suitland
+under funded opportunities
+leakproof astrodome
+weapons of mass deception
+cloak and lasers
+a world of gently shifting greys
+ontological astronauts
+pyrrhonian armour
+uncategorizable fortean occurrences
+the global extraterrestrial lobby
+new workless reality
+butterfly season
+department of charm registration
+the sacred obscene
+phantasmic middle
+the fantasy recruitment
+throatshare
+buzzy electric
+eyestalk ablation
+funk the assassination
+active denial
+out own noon
+our own noon
+a new point in ramen space
+nightmayor
+machine drift
+nautical twilight
+the music of the enemy
+onomastics
+hero rat
+hypotyposis
+nightmare hall
+deathtrap mountain
+continuity of government
+the bluefire memorandum
+yellow lodge
+the zeta reticuli corporation
+necromancy side-hustle
+limited edition pain box
+a lost age of violence and meat
+the architects of hopelessness
+meatspill
+unregrettable attrition
+spider season
+super handcannon crotchrocket
+premium beige
+lethal aid
+incredibly complex mathematical puzzles
+radioactive snakes
+loose neutrals
+collateral magic
+petticoat loose
+plastic power
+ambient shopping
+spectral evidence
+james blonde
+audio nasty
+full torso roaming apparition
+hypercosmic sun
+the divine company
+uncanny visitor
+the eyeball hours
+moist insurgency
+head cleaner
+sex, drugs, + majic
+we the subscribed
+ex tradition
+alternative light
+bleakly empowering
+the sleep room
+commonwealth of sleep
+savage decoding
+our fellow nonhumans
+a taste for satan
+state mondays
+the subversion process
+the collective american nose
+the haunting sphinx
+beneath the witch layer
+light in extension
+the saucer lodge
+caress of the sewergod
+the institution of liminality
+sacred grift of the sewergod
+anatomical gifts
+pasty faced shorties
+clown fetish growth industry
+ovipositor slime bukkake
+the rabid kidneys
+microfascisms of the body
+the calculating angels
+supreme fright points
+horror horn
+the minority association
+the naked second
+free jazz acid exorcism
+the eating of the name
+touch lips with terror
+strange new decompression toy
+the british rocket group
+confused boner darling
+psychic to the stars
+the inaudible
+to house the bodiless
+the salacious and obscene
+listener collapse
+noise occupation
+the premonitions bureau
+dry anus orgy
+carnal rain
+things that look like people but act like animals
+unburied dead
+the partially devoured
+johnny has the keys
+stairs corpse
+unrelieved orgy of sadism
+agean yacht vacation
+new unknowns
+wide band tuning searches
+planner for our analysis
+satan's phantom killers
+thoughtography
+mechanical witch
+garbage day
+new old stock
+terminarch
+relict
+the endlings
+captain supermarket
+loose unit
+the trench sisters
+your invisible allies
+railway spine
+moon ownership
+sin economy
+for the benefit of the corpse
+masscult
+one dreams deeply
+year of the humanoid
+flap data
+spirk shatnoy
+the summer complaint
+bureau of corpse medicine
+national hog report
+gutsnatcher
+super whisky ultrabible
+the treachery of the imaginable
+many happy reruns
+the audience
+coven justice
+lords of perfection
+razorblast
+a false impression of premeditation
+pathos in excess
+back rear
+secret weapons
+words from a dying moon
+utility fog
+heroes of consumption
+public squalor
+cash nexus
+the animal machine
+the occupants
+cryptic rest posture
+tool shed rage
+oral size illusion
+throbbing missile
+rocket novels
+huddling in the shadow of towering clits
+the jfc assassination
+wrath month
+vtol configuration
+tongue morgue
+NIGHTHAG
+a hole in the real
+the warm stream of desire
+reeking smatch
+critical flicker frequency
+ecstatic literacy
+ariel phenomenon research organization
+meat princess
+the afflicted
+neo marconi
+earthwife
+a morphology of miracles
+advanced psychotronic devices
+legends of the hungry eye
+fearcon
+coeur en d'or
+bared to the least vibrations of the roaring world
+the sausage catastrophe
+unwelcome jazz
+rampant hags
+the heart of heavy industry
+time-plated sky tomatoes
+modern apologetica
+national ignition facility
+tape hiss
+alien traditions
+dreamtax
+house of skin
+rouge's foam
+hot dog math with caviar dollars
+the loathsome disease
+the red and dripping particulars
+consolidated art disaster inc
+johnny alucard
+transient anus
+the reamer
+the phantasms of the living
+putrid psychic slime
+the premium society
+meanwhile our shattering animals
+the flow boys
+paracosmic phantasy
+thunderbolt subtlety
+elfcake
+we're on meat circuit
+routework
+stretch brothers and repent
+five tons of protoplasm
+the thwarting angel
+dashed upon the rocks of adolescence
+trepannation for the public health
+royal death pits
+knock on the vomit
+partnership for a drug-fueled america
+eco death care
+final processing
+i am experiencing the distortion again
+the last world emperors
+year of the humanoids
+the highly trained rats
+harmful pleasures
+vampire autopsy
+mystery beast
+the nowhere people
+the mind area
+thundercock
+scrub radius
+by some savage claw
+political suicide club
+the misery whip
+enemy ghost
+angel mafia
+the undertaker's pals
+death hunter macaroni
+slow pain fiber
+characteristic heads
+the armpit of destiny
+the poor professional judgement
+bellicose space beings
+santa mira country club
+normal human behavior range
+the lesser horned raven
+amputation hazard
+flesh pirates
+poetry of the steak
+foxy car wreck
+cadaver procurement section
+fairy tale archaeology
+spacian turd
+bell island boom
+the runny yolks
+under the sign of the theriomorph
+sophic hydrolith
+quality murder orgasm
+midwestern octopus
+the pelvic contusions
+the silence group
+order of exhumation
+the boys from topside
+her mission called dream
+the struggle board
+the sun came out last night
+tuesday's wednesday
+franchise glitz dealer
+area 54
+the urgent lumps
+praxis '45
+asymmetric bob
+the vigilant californias
+ultra modern death
+the neighbourhood machinery
+dog a fake hero
+collision emporium
+my unknown friend
+variable quality
+the liberace necktie
+year 23 after the cancellation
+the cabin boys
+all the ways out have been land mined
+gloomy elaborate whining
+the conjunction
+the dampening workday
+the automobile lunch
+psychache
+sphere of the interhuman
+the immediate impossible real
+the soggy bottoms
+the fatal errors
+schlocking dreck
+clown school generation
+video arena
+the blood sweats
+the house rabbits
+disco finger
+fuzz and sustain
+the space people's choice
+mathpets
+the unknown superiors
+teflon sasquatch
+vexacious litigation
+the purity of my instrument
+abyssal freedom
+yamnaya horsemanship
+food bonanza
+paracinema
+america's blood industry
+BoardingHammer
+francis ford kafka
+a matter of indifference for the sage
+your name is the first thing you lose
+hyper agency
+the consequences
+escorting the unknown in question
+vestigial exogamous matrix
+mediocre meatlife
+mister entro
+peter pain
+the fruiting bodies
+the rust proof bottoms
+the weeping sores
+the enemy has ears
+the wet runs
+mod gothic
+loose moments
+regional diarrhea terminology
+suffering and rebirth
+((|DO Moon
+women working under The Incident
+invokation of my divine double
+the saints of hell
+the cultus of material fire
+slime in the ice machine
+black mats
+urine flavor wheel
+confuse and terrify
+the policy committee
+cosmic tempo
+what is your time cycle
+vadig
+the associates
+cross state sightings
+the frequent and inexplicable power failures
+the advent of the cosmic viewpoint
+klieg conjunctivitis
+the actinic rays
+forces from epsilon
+generic dream
+the limit of interpretation
+total environment
+the unnatural uncle
+the mystical man-moth
+snake farmer
+the woo-woo machine
+anger is holy
+delicious friend
+power station
+agony bell
+housecall
+alien bigcat
+jello molds and valium
+spirit correction
+cultured meat firm
+partial decapitation
+revenge of the ultra-pasteurized
+simple hideous nothing
+the human atmosphere
+the abnormal urges
+the earthquake lights
+digital skin technology
+angel county
+neuraesthenic dilettantism
+newly risen high speed squadron
+benadryl forklift operator
+multiple zombie grave exit
+fatal insomnia
+legally haunted
+ford timelord
+dweller in the archive
+ohio cryptic lineage
+the vasquez rocks
+the sark unit
+the void spaces
+mutant adventure tourism
+cheese fraud
+teeth of the beast
+terminal monotheism
+invisible death society
+( )hole complex
+carried away by owls
+the sausage factory
+spinal economy
+night debut airbank
+numbo jumbo
+here in the heart of the great satan
+the legal names
+turkey parts
+viscosity and the thermal breakdown
+numbo jumbo
+sex toilet
+kant state shooting
+four files on blue velvet
+shrunken white elephants of style
+suck vacuuum mutant freaks
+friday night death slot
+question mark and the new mysterians
+the spirit ditties of no-tone
+blood science
+dread hermeneutics
+uncle snookum
+the immeasurable equation
+celebrations for dial tones
+revisionist disco
+mainstream art shrines
+beautiful satanic dreams
+paper hag
+GENTS
+the mechanism
+putrid gore
+the unusual and unverified events
+the furious phase
+doctor bug
+the heterodyne blade
+the book of megadrive
+texas wienie king
+sebum pocket
+void star
+desire lines
+scrotal fire
+peruvian bark literature
+crew expendable
+the standard prison experiment
+dharma enforcers
+the day of the incident
+the guardianship
+the clang association
+train amok
+vendetta cannibalism
+the revolutionary tendency
+the intergalactic community
+the author function
+the hermeneutic contract
+terms apply
+soul plugs
+unexplained bovine death
+killfrost
+frankenstein factory
+altered material
+the death straw
+stick financier
+hermes perverse imp
+dogs without horses
+lipstick nipple fu
+crimson orifice
+linda blairsville
+the sky-conscious
+the hidden blade
+the meat breeds
+rat funeral
+phantasmagoric flow
+czar bomba
+superindustrial
+overchoice
+butt chug the infohazard
+pet containment
+U. S. S. Eldritch
+sheep flipper
+the future of death
+the stunt nipples
+closed for alterations
+liber nutz
+glacier priest
+abyssal red clays
+cadaverist
+a new layer of tongue
+the house of dust
+toilet claw
+humans can lick too
+soul conductor
+a magnificent problem
+britgoth
+our fellow ghosts in space
+the spectral attacks
+pulverizing hand power
+the zoological abnormals
+a history of infestation
+the chaos of the sages
+the old wound
+the old wound again
+joint military deception initiative
+plastic archaeology
+the errand cause
+a gift to human folly
+copulatory arms
+ULTRAHAZARDOUS
+non contact
+tired blood
+wrath overdose
+transient lunar phenomena
+grieftek
+so far it's mostly sky
+the unavoidable spasm
+gasket shellack
+human movement systems
+the peristaltic monster
+total electric living
+the inhuman culprits
+the people's stick
+crown shyness
+mutant face cannibals
+the planning commission
+scatter hoarding
+stud services
+treasure spirit
+born cancelled
+the paradoxographers
+illegal information appliance
+disenfranchised grief
+the authentic virtual people
+corpsefluid
+putrefiction
+we can do anything with sound
+there is nothing more complex than simplification
+the metaphysics of excess
+world hog production
+your food is too clean
+swingin' enough
+blessed with good reception
+cracks in the attic
+the billy chords
+meadow lane
+foam sex wedge
+to hold communion with her visible forms
+the strangling angel
+the sensed presence experence
+mosh pit etiquitte
+lunar economy
+giant spider mutiny
+it is a fearful thing to fall into the hands of a living god
+the defleshed
+necessary psychosensory
+alien ressurectionist
+the old body-snatching days
+the organic robotoids
+impromptu dissection
+abnormal interaction responses
+rapid visual search
+it's a pity i can't show you my real face
+engulfment hazard
+unknown biologics
+wet knight
+thundersnow
+the hegemony of the greys
+the dying community
+this place is just crawling with missile siloes
+controlled burn
+fluffy aggregate
+werkbeast
+the family viewing hour
+fox window
+nut zone
+max shreik
+designated dingus arena
+the set animal
+death blossom
+the milking room
+zoned for temporary erections
+rules of the haunt
+the realm of the manipulable mind
+powder down
+dream reentry
+unregistered hypercard 2
+can the monster be photographed
+bedtime slimesacks
+batagay megaslump
+the long delay echoes
+carrier medium
+impending earth changes
+individual love machines
+doctor crash
+certified knife licker]
+the translucent shaft
+the assumptions
+the world cannot be trusted
+no hair day
+shatterzone
+dildo emergency
+horrors infinitely worse than simple death
+how do you get charlie to sit there and be thanked
+the various secretions
+as if by some occult hand
+armless scrotum destroyer
+instant composition
+children of the trough
+endless perfect flesh
+bifurcated girls
+dude gizardo
+the condemned
+the cocking affair
+teeming world of fuck
+northern devil cat
+diamond coated bead reamers
+time tsar
+laserpipe
+manning the control theremins
+ordinary suffering
+mouthshare
+scopitone cinebox
+panoram telescriptron
+post war economic boom
+awkward corpse sex
+secure destruction you can trust
+ever rarer grooves
+redemption hazard
+manweasel
+occulted blood
+ape canyon
+the event
+a wet heat
+aquatic pictures
+stage 28
+chess yeti
+smiloid
+the godawful putrescence
+in space the sun shines all the time
+marseille dolphin exorcism
+the pope that exploded
+the volcano worshippers
+shared visual objects
+the blazes with hospitality
+guerilla girl gang
+paranormal wives caught on tape
+the endlings
+latent image
+the punctual whenever
+cowboy homewrecker
+subterranian fire
+the haunted galaxy
+voidling's scream
+the federal apparatus
+the kingsbridge apemen
+the people's history of space
+eternal september for the written word
+friday night death slot
+available skin
+the land of anywhere
+bog compression
+group ludic
+turn the lightning down
+fish ingot
+international canine semen bank
+nontaketwoness
+tenebrism
+suction sweeper
+big dick delivery system
+bimboyogini sex jesus
+the tongues of electric flame
+cogwheels in ether
+galaxy island
+barber rats
+spamcabin
+the silent cortex
+the enormous hugeness
+baked alaska
+discliplined creatures of pleasure
+pleasure planet
+employee of the moth
+the spirit team
+music for empty rooms
+the pleasure ray
+pigeon milk legalization subcommitee
+the mona lisa of guilt
+sounds like science
+radio hypnotic intracerebral control
+electronic dissolution of memory
+stimociever
+born without a head
+the sweet heart grips
+the other leading brands
+crystalline bone
+crumple zone
+fungible capital human assets
+brand-relevant truths
+large felids
+call for voices
+the moonbones
+the electromagnetic imaginary
+interactive video drug
+mandatory goat seminar
+money corrupted his fists
+angels with savage weapons
+turtledove choir
+the rope mothers
+the wisdom of the hive
+total death corporation
+the sleep station
+lovertub
+skototaxis
+spontaneously rare
+drug-related occult activities
+tactical endicrinology
+the human use of human beings
+flesh that bleeds, flesh that desires
+shoe huffing addition
+shoe huffing addiction
+the pumped in squeaks
+disappearing polymorph
+the dial tones
+the joint struggle committee
+the lady's companion
+mad max glory hole
+coyote time
+the shadow docket
+flesh literature
+moonshine fiction
+wickersham land torpedo
+kinsmen to the mysteries
+the indefinitely deferred
+bell stellar
+area x
+the great clomping foot of nerdism
+cursed murdernet
+93 minute orgasm of industrial violence
+foliate head
+the sleep zone
+familiar strangers
+robot pinboy
+breakfast unit
+desktop entertainer
+desire agent
+dreampool
+involuntary body
+a chronicle of the american libido
+ignore the incoming fist
+dynamic lesion
+circulation space
+babble drift
+ultracore
+ossuary girls

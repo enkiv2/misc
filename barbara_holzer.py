@@ -7,6 +7,7 @@ import disarticulate
 from random import Random
 random=Random()
 holzer=[
+"it doesn't have to be this way", "we could have it so much better than this", "you have nothing to lose but your chains", "have a look!",
 "a little knowledge can go a long way", "a lot of professionals are crackpots", "a man can't know what it is to be a mother", "a name means a lot just by itself", "a positive attitude means all the difference in the world", "a relaxed man is not necessarily a better man", "a sense of timing is the mark of genius", "a sincere effort is all you can ask",
 "a single event can have infinitely many interpretations", "a solid home base builds a sense of self", "a strong sense of duty imprisons you", "absolute submission can be a form of freedom", "abstraction is a type of decadence", "abuse of power comes as no surprise", "action causes more trouble than thought", "alienation produces eccentrics or revolutionaries",
 "all things are delicately interconnected", "ambition is just as dangerous as complacency", "ambivalence can ruin your life", "an elite is inevitable", "anger or hate can be a useful motivating force", "animalism is perfectly healthy", "any surplus is immoral", "anything is a legitimate area of investigation", "artificial desires are despoiling the earth",
