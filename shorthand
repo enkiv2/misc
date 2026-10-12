@@ -22,6 +22,7 @@ def isPunct(w):
   return re.fullmatch(punctPat, w) is not None
 def canonicalize(w):
   word=str(w).lower().strip()
+  if(w=="\n"): word="\n"
   canonical=word
   canonicalCap=word.capitalize()
   punct=isPunct(word)
@@ -51,7 +52,7 @@ class Word:
     # autovivify position list, if this is not an evanescent operation (ex., a word currently under the cursor or being suggested)
     if not evanescent and not pos in self.positions and pos < len(stream) and stream[pos]==self:
       self.positions.append(pos)
-    if stream[min(len(stream)-1, pos-1)].punct:
+    if pos==0 or stream[min(len(stream)-1, pos-1)].punct:
       return self.canonicalCap
     return self.canonical
 
@@ -114,13 +115,24 @@ class DocumentView(scrolledtext.ScrolledText):
   def __init__(self, master, **kw):
     self.populated=False
     super().__init__(master, **kw)
-  def regenerate(self):
+  def regenerate(self, highlights=None):
     print(f"regenerating stream {len(stream)}w")
     self.configure(state="normal")
     self.delete(1.0, END)
     text="".join([stream[pos].pretty(pos) for pos in range(0, len(stream))])
     print(f"text: {text}")
-    self.insert(1.0, text)
+    splitText=text.split("\n")
+    for line in range(0, len(splitText)):
+      self.insert(f"{line+1}.0", splitText[line]+"\n")
+      if highlights is not None:
+        for highlight in highlights:
+          offset=0
+          pos=splitText[line][offset:].lower().find(highlight.lower())
+          while pos>=0:
+            self.tag_add("highlighted", f"{line+1}.{pos+offset}", f"{line+1}.{pos+offset+len(highlight)}")
+            offset+=pos+offset+len(highlight)
+            pos=splitText[line][offset:].lower().find(highlight.lower())
+      self.tag_config("highlighted", background="green")
     self.configure(state="disabled")
 
 class CurrentView(tkinter.Label):
@@ -135,9 +147,10 @@ class CurrentView(tkinter.Label):
     super().__init__(master, **kw)
   def regenerate(self):
     self.autovivify_accursed()
-    self.configure(text=stream[self.pos].pretty(self.pos))
-    self.scroll.regenerate()
-    self.sidebar.regenerate()
+    text=stream[self.pos].pretty(self.pos)
+    self.configure(text=text)
+    self.scroll.regenerate(highlights=[text])
+    self.sidebar.regenerate(highlights=[text])
   def autovivify_accursed(self):
     global stream
     # autovivify the accursed portion of the stream
@@ -207,6 +220,15 @@ addToStream("Hello")
 addToStream(",")
 addToStream("World")
 addToStream("!")
+addToStream("\n")
+addToStream("This")
+addToStream("is")
+addToStream("a")
+addToStream("second")
+addToStream("line")
+addToStream("of")
+addToStream("text")
+addToStream(".")
 
 current.regenerate()
 current.focus_set()
