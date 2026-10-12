@@ -1,0 +1,213 @@
+#!/usr/bin/env python
+
+import re
+
+from soundex import Soundex
+
+import tkinter
+from tkinter.constants import *
+from tkinter import font
+from tkinter import scrolledtext
+
+## data structures
+soundex=Soundex()
+
+stream = []
+lexicon = {}
+sLexicon = {}
+
+supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "Return":"\n"}
+punctPat=re.compile("[^A-Za-z0-9]")
+def isPunct(w):
+  return re.fullmatch(punctPat, w) is not None
+def canonicalize(w):
+  word=str(w).lower().strip()
+  canonical=word
+  canonicalCap=word.capitalize()
+  punct=isPunct(word)
+  if not punct:
+    canonical=" "+canonical
+    canonicalCap=" "+canonicalCap
+  return (word, canonical, canonicalCap, punct)
+
+class Word:
+  def __init__(self, word, position=None):
+    (self.word, self.canonical, self.canonicalCap, self.punct) = canonicalize(word)
+    if self.punct or self.word=="":
+      self.soundex=""
+    else:
+      self.soundex=soundex.soundex(self.word)
+    if position:
+      self.positions=[position]
+    else:
+      self.positions=[]
+
+  def __str__(self):
+    return self.canonical
+
+
+  def pretty(self, pos, evanescent=False):
+    global stream
+    # autovivify position list, if this is not an evanescent operation (ex., a word currently under the cursor or being suggested)
+    if not evanescent and not pos in self.positions and pos < len(stream) and stream[pos]==self:
+      self.positions.append(pos)
+    if stream[min(len(stream)-1, pos-1)].punct:
+      return self.canonicalCap
+    return self.canonical
+
+  def predictNext(self, limit=None):
+    global stream
+    nextTokenCounts={}
+    for pos in self.positions:
+      if pos+1<len(stream):
+        token=stream[pos+1].word
+      else:
+        token=" "
+      nextTokenCounts[token]=nextTokenCounts.get(token, 0)+1
+    scoreboard=[(nextTokenCounts[k], k) for k in nextTokenCounts].sort(key=lambda x: x[0])
+    if limit is not None and len(scoreboard)>limit:
+      scoreboard=scoreboard[:limit]
+    return scoreboard
+
+def autovivifyLexicon(w):
+  global lexicon
+  word=Word(w)
+  if word.word in lexicon:
+    word=lexicon[word.word]
+  else:
+    lexicon[word.word]=word
+  soundexMatches=sLexicon.get(word.soundex, [])
+  if word.word not in soundexMatches:
+    sLexicon[word.soundex]=soundexMatches+[word.word]
+  return word
+
+def addToStream(w, index=None):
+  global stream
+  print(f"addToStream(w={w}, index={index})")
+  word=autovivifyLexicon(w)
+  word.positions.append(index)
+  if index is None or index==len(stream):
+    stream.append(word)
+  else:
+    stream.insert(index, word)
+
+def streamSubstitute(pos, new):
+  global stream
+  old=stream[pos]
+  if pos in old.positions:
+    old.positions.remove(pos)
+  word=autovivifyLexicon(new)
+  word.positions.append(pos)
+  stream[pos]=word
+
+## UI setup
+tk = tkinter.Tk()
+sidebarScaleFactor=6
+currentScaleFactor=3
+scrollFontSize=12
+scrollWidth=80
+scrollFont=font.Font(family="Fixed", name="scrollFont", size=int(scrollFontSize))
+sidebarFont=font.Font(family="Fixed", name="sidebarFont", size=int(scrollFontSize/sidebarScaleFactor))
+currentFont=font.Font(family="Fixed", name="currentFont", size=int(scrollFontSize*currentScaleFactor))
+
+class DocumentView(scrolledtext.ScrolledText):
+  def __init__(self, master, **kw):
+    self.populated=False
+    super().__init__(master, **kw)
+  def regenerate(self):
+    print(f"regenerating stream {len(stream)}w")
+    self.configure(state="normal")
+    self.delete(1.0, END)
+    text="".join([stream[pos].pretty(pos) for pos in range(0, len(stream))])
+    print(f"text: {text}")
+    self.insert(1.0, text)
+    self.configure(state="disabled")
+
+class CurrentView(tkinter.Label):
+  def __init__(self, master, **kw): # Mandatory args: scroll, sidebar
+    global stream
+    self.scroll=kw["scroll"]
+    del kw["scroll"]
+    self.sidebar=kw["sidebar"]
+    del kw["sidebar"]
+    
+    self.pos=len(stream)
+    super().__init__(master, **kw)
+  def regenerate(self):
+    self.autovivify_accursed()
+    self.configure(text=stream[self.pos].pretty(self.pos))
+    self.scroll.regenerate()
+    self.sidebar.regenerate()
+  def autovivify_accursed(self):
+    global stream
+    # autovivify the accursed portion of the stream
+    sl=len(stream)
+    self.pos=min(self.pos, sl)
+    if self.pos == sl and stream[self.pos-1].word!="":
+      addToStream("")
+    if self.pos>=len(stream):
+      self.pos=len(stream)-1
+  def handle_key(self, event):
+    global stream
+    print(f"got event: {event}, current pos {self.pos}, keysym {event.keysym} char {event.char}")
+    self.autovivify_accursed()
+    keysym=event.keysym
+    if keysym == "BackSpace":
+      w=stream[self.pos].word
+      if ""==w:
+        stream.pop(self.pos)
+        self.pos-=1
+      else:
+        streamSubstitute(self.pos, w[:-1])
+    else:
+      if "space"==keysym:
+        self.pos+=1
+      elif keysym in supportedPunct:
+        print("isPunct=True")
+        self.pos+=1
+        addToStream(supportedPunct[keysym], self.pos)
+        self.pos+=1
+        addToStream("", self.pos)
+      else:
+        print("isPunct=False")
+        streamSubstitute(self.pos, stream[self.pos].word+keysym)
+    self.regenerate()
+        
+# TODO: class SuggestView
+# displays stream[current.pos-1].predictNext(n) if stream[current.pos].word==""
+# otherwise [w if(w[1].find(stream[current.pos].word)==0) for w in stream[current.pos-1].predictNext()] truncated to n
+# left and right control rotate through suggestions
+      
+
+frame = tkinter.Frame(tk, relief=RIDGE, borderwidth=2)
+frame.pack(fill=BOTH, expand=TRUE)
+
+sidebar = DocumentView(frame, font=sidebarFont, width=scrollWidth)
+sidebar.pack(fill=Y, expand=TRUE, side=LEFT)
+
+frame2 = tkinter.Frame(frame, relief=RIDGE, borderwidth=1)
+
+scroll = DocumentView(frame2, font=scrollFont, width=scrollWidth)
+scroll.pack(fill=Y, expand=TRUE)
+
+current = CurrentView(frame2, font=currentFont, scroll=scroll, sidebar=sidebar, borderwidth=2, background="green")
+current.pack(fill=X, expand=TRUE, side=BOTTOM)
+
+frame2.pack(fill=BOTH, expand=TRUE)
+
+for key in range(0, 9):
+  current.bind(f"<KeyRelease-{key}>", current.handle_key)
+for key in range(0, 26):
+  alpha="abcdefghijklmnopqrstuvwxyz"
+  current.bind(f"<KeyRelease-{alpha[key]}>", current.handle_key)
+for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
+  current.bind(f"<KeyRelease-{key}>", current.handle_key)
+
+addToStream("Hello")
+addToStream(",")
+addToStream("World")
+addToStream("!")
+
+current.regenerate()
+current.focus_set()
+tk.mainloop()
