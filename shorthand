@@ -4,7 +4,7 @@ import re
 
 from soundex import Soundex
 
-import sys
+import subprocess, sys
 
 import tkinter
 from tkinter.constants import *
@@ -165,6 +165,15 @@ scrollFont=font.Font(family=scrollFontFamily, name="scrollFont", size=int(scroll
 sidebarFont=font.Font(family=scrollFontFamily, name="sidebarFont", size=int(scrollFontSize/sidebarScaleFactor))
 currentFont=font.Font(family=scrollFontFamily, name="currentFont", size=int(scrollFontSize*currentScaleFactor))
 
+def speak(word):
+  dprint(f"speaking {word}")
+  p=subprocess.Popen('festival --tts', shell=True, stdin=subprocess.PIPE)
+  p.stdin.write(word.encode("utf-8"))
+  p.stdin.close()
+  tk.update_idletasks()
+  p.wait()
+  dprint(f"done")
+
 class DocumentView(scrolledtext.ScrolledText):
   def __init__(self, master, **kw):
     self.populated=False
@@ -198,6 +207,7 @@ class DocumentView(scrolledtext.ScrolledText):
       dprint(f"color index: {index} / {rainbow}({len(rainbow)})", level=2)
       color = rainbow[index]
       self.highlight_matches([word.canonical, word.canonicalCap], color, foreground=color)
+    # TODO: once stream is line-based, we can use text.see to ensure we are always scrolled to pos
     self.configure(state="disabled")
 
 class CurrentView(tkinter.Label):
@@ -366,6 +376,12 @@ current.bind("<KeyPress-Alt_R>", current.nextSuggestion)
 current.bind("<KeyPress-Alt_L>", current.prevSuggestion)
 current.bind("<KeyRelease-Home>", current.keyHome)
 current.bind("<KeyRelease-End>", current.keyEnd)
+def begin_speaking(e):
+  while current.pos < len(stream) and stream[current.pos].word not in [".", "!", "?", "\n"]:
+    speak(stream[current.pos].canonical)
+    current.next(e)
+    tk.update_idletasks()
+current.bind("<KeyRelease-F5>", begin_speaking)
 
 if len(sys.argv)>1:
   importText(open(sys.argv[1], "r").read())
@@ -378,7 +394,7 @@ This means it's also well-suited to exposing information about language on the s
 
 The currently selected (or accursed) word is in the green panel below. Every instance of the accursed word in the document is highlighted in green. Type letters, and you add to the accursed word. Backspace deletes from the end of the word. Press space to go to the next word. Punctuation is always its own word, and capitalizes the next word.
 
-Press home or end to get to the beginning or end of the document respectively. Arrow keys circulate through words. Left and right control keys circulate between different instances of the accursed word. Left and right alt circulate through suggestions. 
+Press home or end to get to the beginning or end of the document respectively. Arrow keys circulate through words. Left and right control keys circulate between different instances of the accursed word. Left and right alt circulate through suggestions. Press F5 to speak the rest of the current sentence.
 
 Shorthand is also inspired by Jef Raskin's work on the Canon Cat; expect to see much more of that influence in the future.""")
 
