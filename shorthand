@@ -15,7 +15,8 @@ from tkinter import scrolledtext
 supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "apostrophe":"'", "Return":"\n"}
 punctPat=re.compile("[^A-Za-z0-9']")
 alpha="abcdefghijklmnopqrstuvwxyz"
-rainbow=["red", "orange", "brown", "limegreen", "blue", "indigo", "violet"]
+rainbow=["red", "orange", "brown", "limegreen", "blue", "indigo", "violet", "black"]
+rainbow.reverse()
 
 ## configurable
 # TODO: pull these out of a config file
