@@ -75,17 +75,21 @@ class Word:
     return self.canonical
 
   def predictNext(self, limit=None):
-    global stream
     nextTokenCounts={}
+    dprint(f"positions for {self.word}: {self.positions}")
     for pos in self.positions:
-      if pos+1<len(stream):
-        token=stream[pos+1].word
-      else:
-        token=" "
-      nextTokenCounts[token]=nextTokenCounts.get(token, 0)+1
-    scoreboard=[(nextTokenCounts[k], k) for k in nextTokenCounts].sort(key=lambda x: x[0])
+      if pos is not None:
+        if pos+1<len(stream):
+          token=stream[pos+1].word
+        else:
+          token=" "
+        nextTokenCounts[token]=nextTokenCounts.get(token, 0)+1
+    scoreboard=[(nextTokenCounts[k], k) for k in nextTokenCounts]
+    dprint(f"scoreboard before sorting:{scoreboard}")
+    scoreboard.sort()
     if limit is not None and len(scoreboard)>limit:
       scoreboard=scoreboard[:limit]
+    dprint(f"scoreboard for {self.word}: {scoreboard}")
     return scoreboard
 
 def autovivifyLexicon(w):
@@ -106,14 +110,18 @@ def refreshTopPositionCount():
   topPositionCount=0
   for word in lexicon:
     w=lexicon[word]
+    dprint(f"positions before refresh: {w.positions}")
     w.positions=list(set(w.positions)) # remove duplicates first
+    dprint(f"positions after deduplicate: {w.positions}")
     for pos in w.positions:
       if (
           pos is None or pos < 0 or pos >= len(stream) # invalid positions
           or stream[pos] != w # not matching
         ):
-        w.positions.remove(pos)
+        w.positions.remove(pos) 
+    dprint(f"positions after removing non-matching: {w.positions}")
     w.positions.sort()
+    dprint(f"positions after sort: {w.positions}")
     if topPositionCount < len(w.positions):
       topPositionCount = len(w.positions)
   dprint(f"topPositionCount: {topPositionCount}")
@@ -197,6 +205,10 @@ class CurrentView(tkinter.Label):
     del kw["scroll"]
     self.sidebar=kw["sidebar"]
     del kw["sidebar"]
+    self.suggest=None
+    if "suggest" in kw:
+      self.suggest=kw["suggest"]
+      del kw["suggest"]
     
     self.pos=len(stream)
     super().__init__(master, **kw)
@@ -206,6 +218,8 @@ class CurrentView(tkinter.Label):
     self.configure(text=text)
     self.scroll.regenerate(highlights=[text])
     self.sidebar.regenerate(highlights=[text])
+    if self.suggest is not None:
+      self.suggest.regenerate(self.pos)
   def autovivify_accursed(self):
     global stream
     # autovivify the accursed portion of the stream
@@ -236,6 +250,12 @@ class CurrentView(tkinter.Label):
     self.sanitizePosition()
     w=stream[self.pos]
     self.pos=w.positions[(w.positions.index(self.pos)-1)%len(w.positions)]
+  def keyHome(self, event):
+    self.pos=0
+    self.regenerate()
+  def keyEnd(self, event):
+    self.pos=len(stream)-1
+    self.regenerate()
   def handle_key(self, event):
     global stream
     dprint(f"got event: {event}, current pos {self.pos}, keysym {event.keysym} char {event.char}")
@@ -265,7 +285,22 @@ class CurrentView(tkinter.Label):
         dprint("isPunct=False")
         streamSubstitute(self.pos, stream[self.pos].word+keysym)
     self.regenerate()
-        
+
+class SuggestView(tkinter.Text):
+  def regenerate(self, pos, n=5):
+    scoreboard=stream[max(pos-1, 0)].predictNext()
+    word=stream[pos].word
+    if "" != word:
+      if scoreboard:
+        scoreboard=[w for w in scoreboard if(w[1].find(word) == 0)] 
+    if len(scoreboard) > n:
+      scoreboard=scoreboard[:n]
+    self.configure(state="normal")
+    self.delete(1.0, END)
+    for line in range(0, len(scoreboard)):
+      self.insert(f"{line}.0", f"{scoreboard[line][1]}\n")
+    self.configure(state="disabled")
+    
 # TODO: class SuggestView
 # displays stream[current.pos-1].predictNext(n) if stream[current.pos].word==""
 # otherwise [w if(w[1].find(stream[current.pos].word)==0) for w in stream[current.pos-1].predictNext()] truncated to n
@@ -283,8 +318,12 @@ frame2 = tkinter.Frame(frame, relief=RIDGE, borderwidth=1)
 scroll = DocumentView(frame2, font=scrollFont, width=scrollWidth)
 scroll.pack(fill=Y, expand=TRUE)
 
-current = CurrentView(frame2, font=currentFont, scroll=scroll, sidebar=sidebar, borderwidth=2, background="green")
+suggest = SuggestView(frame2, font=scrollFont, borderwidth=2, height=5) 
+
+current = CurrentView(frame2, font=currentFont, scroll=scroll, suggest=suggest, sidebar=sidebar, borderwidth=2, background="green")
 current.pack(fill=X, expand=TRUE, side=BOTTOM)
+suggest.pack(fill=X, expand=TRUE, side=BOTTOM)
+
 
 frame2.pack(fill=BOTH, expand=TRUE)
 
@@ -297,8 +336,10 @@ for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
 current.bind("<KeyRelease-Escape>", lambda e: sys.exit(0))
 current.bind("<KeyPress-Right>", current.next)
 current.bind("<KeyPress-Left>", current.prev)
-current.bind("<KeyPress-Ctrl_R>", current.nextMatch)
-current.bind("<KeyPress-Ctrl_L>", current.prevMatch)
+current.bind("<KeyPress-Control_R>", current.nextMatch)
+current.bind("<KeyPress-Control_L>", current.prevMatch)
+current.bind("<KeyRelease-Home>", current.keyHome)
+current.bind("<KeyRelease-End>", current.keyEnd)
 
 if len(sys.argv)>1:
   importText(open(sys.argv[1], "r").read())
