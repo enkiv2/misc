@@ -12,8 +12,8 @@ from tkinter import font
 from tkinter import scrolledtext
 
 ## constants
-supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "Return":"\n"}
-punctPat=re.compile("[^A-Za-z0-9]")
+supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "apostrophe":"'", "Return":"\n"}
+punctPat=re.compile("[^A-Za-z0-9']")
 alpha="abcdefghijklmnopqrstuvwxyz"
 rainbow=["red", "orange", "yellow", "limegreen", "blue", "indigo", "violet"]
 
@@ -271,7 +271,18 @@ for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
 current.bind("<KeyRelease-Escape>", lambda e: sys.exit(0))
 
-importText(open("dreams.txt", "r").read())
+if len(sys.argv)>1:
+  importText(open(sys.argv[1], "r").read())
+else:
+  importText("""WELCOME TO SHORTHAND
+
+Shorthand is a text editor inspired by Ted Nelson's /Jot/, a "text language for editing". It does not store text as a contiguous string, but as pointers to a stream of words. Shorthand understands enough of the structure of english to operate only on words and punctuation, and produce sentences from there.
+
+This means it's also well-suited to exposing information about language on the scale of words: every word is colored based on its frequency in the current document.
+
+The currently selected (or accursed) word is in the green panel below. Every instance of the accursed word in the document is highlighted in green. Type letters, and you add to the accursed word. Backspace deletes from the end of the word. Press space to go to the next word. Punctuation is always its own word, and capitalizes the next word.
+
+Shorthand is also inspired by Jef Raskin's work on the Canon Cat; expect to see much more of that influence in the future.""")
 
 current.regenerate()
 current.focus_set()
