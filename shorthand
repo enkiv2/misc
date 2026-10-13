@@ -145,17 +145,17 @@ class DocumentView(scrolledtext.ScrolledText):
   def __init__(self, master, **kw):
     self.populated=False
     super().__init__(master, **kw)
-  def highlight_matches(self, highlights, **kw):
+  def highlight_matches(self, highlights, tag, **kw):
     for line in range(0, int(self.index('end-1c').split('.')[0])):
       lineValue=self.get(f"{line+1}.0", f"{line+1}.end")
       for highlight in highlights:
         offset=0
         pos=lineValue[offset:].lower().find(highlight.lower())
         while pos>=0:
-          self.tag_add("highlighted", f"{line+1}.{pos+offset}", f"{line+1}.{pos+offset+len(highlight)}")
+          self.tag_add(tag, f"{line+1}.{pos+offset+1}", f"{line+1}.{pos+offset+len(highlight)+1}")
           offset+=pos+offset+len(highlight)
           pos=lineValue[offset:].lower().find(highlight.lower())
-    self.tag_config("highlighted", **kw)
+    self.tag_config(tag, **kw)
   def regenerate(self, highlights=None):
     print(f"regenerating stream {len(stream)}w")
     self.configure(state="normal")
@@ -166,7 +166,12 @@ class DocumentView(scrolledtext.ScrolledText):
     for line in range(0, len(splitText)):
       self.insert(f"{line+1}.0", splitText[line]+"\n")
     if highlights is not None:
-      self.highlight_matches(highlights, background="green")
+      self.highlight_matches(highlights, "highlighted", background="green")
+    for item in lexicon:
+      word=lexicon[item]
+      scale=(len(word.positions)-1)/topPositionCount
+      color = rainbow[int((len(rainbow)-1)*scale)]
+      self.highlight_matches([word.canonical, word.canonicalCap], color, foreground=color)
     self.configure(state="disabled")
 
 class CurrentView(tkinter.Label):
