@@ -162,7 +162,7 @@ class DocumentView(scrolledtext.ScrolledText):
         offset=0
         pos=lineValue[offset:].lower().find(highlight.lower())
         while pos>=0:
-          self.tag_add(tag, f"{line+1}.{pos+offset+1}", f"{line+1}.{pos+offset+len(highlight)+1}")
+          self.tag_add(tag, f"{line+1}.{pos+offset+1}", f"{line+1}.{pos+offset+len(highlight)}")
           offset+=pos+offset+len(highlight)
           pos=lineValue[offset:].lower().find(highlight.lower())
     self.tag_config(tag, **kw)
@@ -267,8 +267,9 @@ for key in range(0, 9):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
 for key in range(0, 26):
   current.bind(f"<KeyRelease-{alpha[key]}>", current.handle_key)
-for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
+for key in ["BackSpace"] + list(supportedPunct.keys()):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
+current.bind("<KeyPress-space>", current.handle_key)
 current.bind("<KeyRelease-Escape>", lambda e: sys.exit(0))
 
 if len(sys.argv)>1:
