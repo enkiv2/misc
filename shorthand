@@ -9,6 +9,16 @@ from tkinter.constants import *
 from tkinter import font
 from tkinter import scrolledtext
 
+## constants
+supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "Return":"\n"}
+punctPat=re.compile("[^A-Za-z0-9]")
+
+## configurable
+sidebarScaleFactor=6
+currentScaleFactor=3
+scrollFontSize=12
+scrollWidth=80
+
 ## data structures
 soundex=Soundex()
 
@@ -16,8 +26,6 @@ stream = []
 lexicon = {}
 sLexicon = {}
 
-supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "Return":"\n"}
-punctPat=re.compile("[^A-Za-z0-9]")
 def isPunct(w):
   return re.fullmatch(punctPat, w) is not None
 def canonicalize(w):
@@ -103,10 +111,6 @@ def streamSubstitute(pos, new):
 
 ## UI setup
 tk = tkinter.Tk()
-sidebarScaleFactor=6
-currentScaleFactor=3
-scrollFontSize=12
-scrollWidth=80
 scrollFont=font.Font(family="Fixed", name="scrollFont", size=int(scrollFontSize))
 sidebarFont=font.Font(family="Fixed", name="sidebarFont", size=int(scrollFontSize/sidebarScaleFactor))
 currentFont=font.Font(family="Fixed", name="currentFont", size=int(scrollFontSize*currentScaleFactor))
