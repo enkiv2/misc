@@ -221,6 +221,21 @@ class CurrentView(tkinter.Label):
   def prev(self, event):
     self.pos-=1
     self.regenerate()
+  def sanitizePosition(self):
+    w=stream[self.pos]
+    if self.pos not in w.positions:
+      w.positions.append(self.pos)
+      if None in w.positions:
+        w.positions.remove(None)
+      w.positions.sort()
+  def nextMatch(self, event):
+    self.sanitizePosition()
+    w=stream[self.pos]
+    self.pos=w.positions[(w.positions.index(self.pos)+1)%len(w.positions)]
+  def prevMatch(self, event):
+    self.sanitizePosition()
+    w=stream[self.pos]
+    self.pos=w.positions[(w.positions.index(self.pos)-1)%len(w.positions)]
   def handle_key(self, event):
     global stream
     dprint(f"got event: {event}, current pos {self.pos}, keysym {event.keysym} char {event.char}")
@@ -282,6 +297,8 @@ for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
 current.bind("<KeyRelease-Escape>", lambda e: sys.exit(0))
 current.bind("<KeyPress-Right>", current.next)
 current.bind("<KeyPress-Left>", current.prev)
+current.bind("<KeyPress-Ctrl_R>", current.nextMatch)
+current.bind("<KeyPress-Ctrl_L>", current.prevMatch)
 
 if len(sys.argv)>1:
   importText(open(sys.argv[1], "r").read())
