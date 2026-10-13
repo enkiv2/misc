@@ -267,9 +267,8 @@ for key in range(0, 9):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
 for key in range(0, 26):
   current.bind(f"<KeyRelease-{alpha[key]}>", current.handle_key)
-for key in ["BackSpace"] + list(supportedPunct.keys()):
-  current.bind(f"<KeyRelease-{key}>", current.handle_key)
-current.bind("<KeyPress-space>", current.handle_key)
+for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
+  current.bind(f"<KeyPress-{key}>", current.handle_key)
 current.bind("<KeyRelease-Escape>", lambda e: sys.exit(0))
 
 if len(sys.argv)>1:
