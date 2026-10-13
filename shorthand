@@ -314,6 +314,11 @@ class SuggestView(tkinter.Text):
     super().__init__(master, **kw)
   def regenerate(self, pos, n=5):
     scoreboard=stream[max(pos-1, 0)].predictNext()
+    near_homonyms=sLexicon[stream[max(pos-1,0)].soundex]
+    for hom in near_homonyms:
+      for item in lexicon[hom].predictNext():
+        if not item[1] in [w[1] for w in scoreboard]:
+          scoreboard.append(item)
     word=stream[pos].word
     if "" != word:
       if scoreboard:
