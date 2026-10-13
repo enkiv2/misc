@@ -18,6 +18,7 @@ sidebarScaleFactor=6
 currentScaleFactor=3
 scrollFontSize=12
 scrollWidth=80
+scrollFontFamily="Fixed"
 
 ## data structures
 soundex=Soundex()
@@ -111,9 +112,9 @@ def streamSubstitute(pos, new):
 
 ## UI setup
 tk = tkinter.Tk()
-scrollFont=font.Font(family="Fixed", name="scrollFont", size=int(scrollFontSize))
-sidebarFont=font.Font(family="Fixed", name="sidebarFont", size=int(scrollFontSize/sidebarScaleFactor))
-currentFont=font.Font(family="Fixed", name="currentFont", size=int(scrollFontSize*currentScaleFactor))
+scrollFont=font.Font(family=scrollFontFamily, name="scrollFont", size=int(scrollFontSize))
+sidebarFont=font.Font(family=scrollFontFamily, name="sidebarFont", size=int(scrollFontSize/sidebarScaleFactor))
+currentFont=font.Font(family=scrollFontFamily, name="currentFont", size=int(scrollFontSize*currentScaleFactor))
 
 class DocumentView(scrolledtext.ScrolledText):
   def __init__(self, master, **kw):
@@ -181,6 +182,9 @@ class CurrentView(tkinter.Label):
         self.pos+=1
       elif keysym in supportedPunct:
         print("isPunct=True")
+        char=keysym
+        if event.char:
+          char=event.char
         self.pos+=1
         addToStream(supportedPunct[keysym], self.pos)
         self.pos+=1
