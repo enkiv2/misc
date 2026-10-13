@@ -250,6 +250,16 @@ class CurrentView(tkinter.Label):
     self.sanitizePosition()
     w=stream[self.pos]
     self.pos=w.positions[(w.positions.index(self.pos)-1)%len(w.positions)]
+  def nextSuggestion(self, event):
+    if self.suggest is not None:
+      idx=self.suggest.selectedSuggestion or 0
+      streamSubstitute(self.pos, self.suggest.scoreboard[(idx+1)%len(self.suggest.scoreboard)][1])
+      self.regenerate()
+  def prevSuggestion(self, event):
+    if self.suggest is not None:
+      idx=self.suggest.selectedSuggestion or 0
+      streamSubstitute(self.pos, self.suggest.scoreboard[(idx-1)%len(self.suggest.scoreboard)][1])
+      self.regenerate()
   def keyHome(self, event):
     self.pos=0
     self.regenerate()
@@ -287,18 +297,36 @@ class CurrentView(tkinter.Label):
     self.regenerate()
 
 class SuggestView(tkinter.Text):
+  def __init__(self, master, **kw):
+    self.selectedSuggestion=None
+    super().__init__(master, **kw)
   def regenerate(self, pos, n=5):
     scoreboard=stream[max(pos-1, 0)].predictNext()
     word=stream[pos].word
     if "" != word:
       if scoreboard:
-        scoreboard=[w for w in scoreboard if(w[1].find(word) == 0)] 
+        scoreboard2=[w for w in scoreboard if(w[1].find(word) == 0)] 
+        for w in scoreboard:
+          if w not in scoreboard2:
+            scoreboard2.append(w)
+        scoreboard=scoreboard2
     if len(scoreboard) > n:
       scoreboard=scoreboard[:n]
+    self.scoreboard=scoreboard
+    self.displayScores(pos)
+  def displayScores(self, pos=None):
+    scoreboard=self.scoreboard
     self.configure(state="normal")
     self.delete(1.0, END)
     for line in range(0, len(scoreboard)):
-      self.insert(f"{line}.0", f"{scoreboard[line][1]}\n")
+      self.insert(f"{line+1}.0", f"{scoreboard[line][1]}\t\t\t\t\t\t{scoreboard[line][0]}\n")
+      if pos is not None:
+        if scoreboard[line][1]==stream[pos].word:
+          self.selectedSuggestion=line
+      if self.selectedSuggestion is not None:
+        if line==self.selectedSuggestion:
+          self.tag_add("selectedSuggestion", f"{line+1}.0", f"{line+1}.end")
+        self.tag_configure("selectedSuggestion", foreground="green")
     self.configure(state="disabled")
     
 # TODO: class SuggestView
@@ -338,6 +366,8 @@ current.bind("<KeyPress-Right>", current.next)
 current.bind("<KeyPress-Left>", current.prev)
 current.bind("<KeyPress-Control_R>", current.nextMatch)
 current.bind("<KeyPress-Control_L>", current.prevMatch)
+current.bind("<KeyPress-Alt_R>", current.nextSuggestion)
+current.bind("<KeyPress-Alt_L>", current.prevSuggestion)
 current.bind("<KeyRelease-Home>", current.keyHome)
 current.bind("<KeyRelease-End>", current.keyEnd)
 
@@ -351,6 +381,8 @@ Shorthand is a text editor inspired by Ted Nelson's /Jot/, a "text language for 
 This means it's also well-suited to exposing information about language on the scale of words: every word is colored based on its frequency in the current document.
 
 The currently selected (or accursed) word is in the green panel below. Every instance of the accursed word in the document is highlighted in green. Type letters, and you add to the accursed word. Backspace deletes from the end of the word. Press space to go to the next word. Punctuation is always its own word, and capitalizes the next word.
+
+Press home or end to get to the beginning or end of the document respectively. Arrow keys circulate through words. Left and right control keys circulate between different instances of the accursed word. Left and right alt circulate through suggestions. 
 
 Shorthand is also inspired by Jef Raskin's work on the Canon Cat; expect to see much more of that influence in the future.""")
 
