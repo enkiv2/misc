@@ -4,6 +4,8 @@ import re
 
 from soundex import Soundex
 
+import sys
+
 import tkinter
 from tkinter.constants import *
 from tkinter import font
@@ -135,6 +137,14 @@ def streamSubstitute(pos, new):
   if len(word.positions)>topPositionCount:
     topPositionCount=len(word.positions)
 
+def importText(s):
+  s=s.lower()
+  for punct in supportedPunct.values():
+    s=s.replace(punct, " "+punct+" ")
+  for w in s.split(" "):
+    if w is not None and w!="":
+      addToStream(w)
+
 ## UI setup
 tk = tkinter.Tk()
 scrollFont=font.Font(family=scrollFontFamily, name="scrollFont", size=int(scrollFontSize))
@@ -169,8 +179,10 @@ class DocumentView(scrolledtext.ScrolledText):
       self.highlight_matches(highlights, "highlighted", background="green")
     for item in lexicon:
       word=lexicon[item]
-      scale=(len(word.positions)-1)/topPositionCount
-      color = rainbow[int((len(rainbow)-1)*scale)]
+      scale=len(word.positions)/max(topPositionCount, len(word.positions))
+      index=int((len(rainbow)-1)*scale)
+      print(f"color index: {index} / {rainbow}({len(rainbow)})")
+      color = rainbow[index]
       self.highlight_matches([word.canonical, word.canonicalCap], color, foreground=color)
     self.configure(state="disabled")
 
@@ -257,20 +269,9 @@ for key in range(0, 26):
   current.bind(f"<KeyRelease-{alpha[key]}>", current.handle_key)
 for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
+current.bind("<KeyRelease-Escape>", lambda e: sys.exit(0))
 
-addToStream("Hello")
-addToStream(",")
-addToStream("World")
-addToStream("!")
-addToStream("\n")
-addToStream("This")
-addToStream("is")
-addToStream("a")
-addToStream("second")
-addToStream("line")
-addToStream("of")
-addToStream("text")
-addToStream(".")
+importText(open("dreams.txt", "r").read())
 
 current.regenerate()
 current.focus_set()
