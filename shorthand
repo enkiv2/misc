@@ -23,15 +23,19 @@ currentScaleFactor=3
 scrollFontSize=12
 scrollWidth=80
 scrollFontFamily="Fixed"
+debugLevel=1
 
 ## data structures
 soundex=Soundex()
 
-stream = []
+stream = [] # TODO: stream should become 2-dimensional: line and word. This lets us optimize redraw by redrawing only the line, and also lets us highlight the current line.
 lexicon = {}
 sLexicon = {}
 topPositionCount = 0 # used for scaling word frequencies
 
+def dprint(s, level=1):
+  if debugLevel>=level:
+    print(s)
 def isPunct(w):
   return re.fullmatch(punctPat, w) is not None
 def canonicalize(w):
@@ -112,11 +116,11 @@ def refreshTopPositionCount():
     w.positions.sort()
     if topPositionCount < len(w.positions):
       topPositionCount = len(w.positions)
-  print(f"topPositionCount: {topPositionCount}")
+  dprint(f"topPositionCount: {topPositionCount}")
 
 def addToStream(w, index=None):
   global stream, topPositionCount
-  print(f"addToStream(w={w}, index={index})")
+  dprint(f"addToStream(w={w}, index={index})")
   word=autovivifyLexicon(w)
   word.positions.append(index)
   if index is None or index==len(stream):
@@ -167,11 +171,11 @@ class DocumentView(scrolledtext.ScrolledText):
           pos=lineValue[offset:].lower().find(highlight.lower())
     self.tag_config(tag, **kw)
   def regenerate(self, highlights=None):
-    print(f"regenerating stream {len(stream)}w")
+    dprint(f"regenerating stream {len(stream)}w")
     self.configure(state="normal")
     self.delete(1.0, END)
     text="".join([stream[pos].pretty(pos) for pos in range(0, len(stream))])
-    print(f"text: {text}")
+    dprint(f"text: {text}")
     splitText=text.split("\n")
     for line in range(0, len(splitText)):
       self.insert(f"{line+1}.0", splitText[line]+"\n")
@@ -181,7 +185,7 @@ class DocumentView(scrolledtext.ScrolledText):
       word=lexicon[item]
       scale=len(word.positions)/max(topPositionCount, len(word.positions))
       index=int((len(rainbow)-1)*scale)
-      print(f"color index: {index} / {rainbow}({len(rainbow)})")
+      dprint(f"color index: {index} / {rainbow}({len(rainbow)})", level=2)
       color = rainbow[index]
       self.highlight_matches([word.canonical, word.canonicalCap], color, foreground=color)
     self.configure(state="disabled")
@@ -213,7 +217,7 @@ class CurrentView(tkinter.Label):
       self.pos=len(stream)-1
   def handle_key(self, event):
     global stream
-    print(f"got event: {event}, current pos {self.pos}, keysym {event.keysym} char {event.char}")
+    dprint(f"got event: {event}, current pos {self.pos}, keysym {event.keysym} char {event.char}")
     self.autovivify_accursed()
     keysym=event.keysym
     if keysym == "BackSpace":
@@ -228,7 +232,7 @@ class CurrentView(tkinter.Label):
         self.pos+=1
         refreshTopPositionCount()
       elif keysym in supportedPunct:
-        print("isPunct=True")
+        dprint("isPunct=True")
         char=keysym
         if event.char:
           char=event.char
@@ -237,7 +241,7 @@ class CurrentView(tkinter.Label):
         self.pos+=1
         addToStream("", self.pos)
       else:
-        print("isPunct=False")
+        dprint("isPunct=False")
         streamSubstitute(self.pos, stream[self.pos].word+keysym)
     self.regenerate()
         
