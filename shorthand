@@ -12,6 +12,8 @@ from tkinter import scrolledtext
 ## constants
 supportedPunct={"period":".", "exclam":"!", "comma":",", "plus":"+", "minus":"-", "slash":"/", "colon":":", "semicolon":";", "question":"?", "Return":"\n"}
 punctPat=re.compile("[^A-Za-z0-9]")
+alpha="abcdefghijklmnopqrstuvwxyz"
+rainbow=["red", "orange", "yellow", "limegreen", "blue", "indigo", "violet"]
 
 ## configurable
 sidebarScaleFactor=6
@@ -26,6 +28,7 @@ soundex=Soundex()
 stream = []
 lexicon = {}
 sLexicon = {}
+topPositionCount = 0 # used for scaling word frequencies
 
 def isPunct(w):
   return re.fullmatch(punctPat, w) is not None
@@ -91,8 +94,26 @@ def autovivifyLexicon(w):
     sLexicon[word.soundex]=soundexMatches+[word.word]
   return word
 
+def refreshTopPositionCount():
+  global lexicon, topPositionCount
+  # ensure all positions in the lexicon are correct
+  topPositionCount=0
+  for word in lexicon:
+    w=lexicon[word]
+    w.positions=list(set(w.positions)) # remove duplicates first
+    for pos in w.positions:
+      if (
+          pos is None or pos < 0 or pos >= len(stream) # invalid positions
+          or stream[pos] != w # not matching
+        ):
+        w.positions.remove(pos)
+    w.positions.sort()
+    if topPositionCount < len(w.positions):
+      topPositionCount = len(w.positions)
+  print(f"topPositionCount: {topPositionCount}")
+
 def addToStream(w, index=None):
-  global stream
+  global stream, topPositionCount
   print(f"addToStream(w={w}, index={index})")
   word=autovivifyLexicon(w)
   word.positions.append(index)
@@ -100,15 +121,19 @@ def addToStream(w, index=None):
     stream.append(word)
   else:
     stream.insert(index, word)
+  if len(word.positions)>topPositionCount:
+    topPositionCount=len(word.positions)
 
 def streamSubstitute(pos, new):
-  global stream
+  global stream, topPositionCount
   old=stream[pos]
   if pos in old.positions:
     old.positions.remove(pos)
   word=autovivifyLexicon(new)
   word.positions.append(pos)
   stream[pos]=word
+  if len(word.positions)>topPositionCount:
+    topPositionCount=len(word.positions)
 
 ## UI setup
 tk = tkinter.Tk()
@@ -184,6 +209,7 @@ class CurrentView(tkinter.Label):
     else:
       if "space"==keysym:
         self.pos+=1
+        refreshTopPositionCount()
       elif keysym in supportedPunct:
         print("isPunct=True")
         char=keysym
@@ -223,7 +249,6 @@ frame2.pack(fill=BOTH, expand=TRUE)
 for key in range(0, 9):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
 for key in range(0, 26):
-  alpha="abcdefghijklmnopqrstuvwxyz"
   current.bind(f"<KeyRelease-{alpha[key]}>", current.handle_key)
 for key in ["space", "BackSpace"] + list(supportedPunct.keys()):
   current.bind(f"<KeyRelease-{key}>", current.handle_key)
