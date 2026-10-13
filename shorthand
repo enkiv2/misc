@@ -35,6 +35,81 @@ lexicon = {}
 sLexicon = {}
 topPositionCount = 0 # used for scaling word frequencies
 
+class Spf:
+  """ shorthand pseudo-forth: stack based language for the shorthand editor
+  """
+  def __init__(self):
+    self.stack=[]
+    self.callstack=[]
+    self.internalDict={"push":self.push, "pop":self.pop, "define":self.define, "cond":self.cond, "dup":self.dup, "swap":self.swap}
+    self.dictionary={":":"_define", "if":"_cond"}
+    for item in internalDict:
+      self.dictionary[item]=["_"+item]
+    self.chunk=[]
+    self.idx=0
+    self.chunkStack=[]
+    self.stepPreHooks=[] # for updating TK mostly, but also debugging
+    self.stepPostHooks=[]
+  def execute(self, chunk):
+    self.chunkStack.push((self.chunk, self.idx))
+    self.chunk=chunk
+    self.idx=0
+    while self.idx < len(self.chunk):
+      self.executeToken(self.chunk[self.idx])
+    (self.chunk, self.idx)=self.chunkStack.pop()
+  def executeToken(self):
+    token=self.chunk[self.idx]
+    if len(token)>0:
+      if token[0]=="_":
+        self.callstack.push(token)
+        for f in self.stepPreHooks:
+          f(self)
+        self.idx+=1
+        self.internalDict[token[1:]]()
+        for f in self.stepPostHooks:
+          f(self)
+      elif token[0]=="'":
+        self.push()
+      elif token in self.dictionary:
+        self.callstack.push(token)
+        for f in self.stepPreHooks:
+          f(self)
+        self.idx+=1
+        self.execute(self.dictionary[token])
+        for f in self.stepPostHooks:
+          f(self)
+      else:
+        self.push() 
+  def addForeignFunction(self, name, f):
+    self.internalDict[name]=f
+  def dup(self):
+    item=self.stack.pop()
+    self.stack.push(item)
+    self.stack.push(item)
+  def swap(self):
+    a=self.stack.pop()
+    b.self.stack.pop()
+    self.stack.push(a)
+    self.stack.push(b)
+  def cond(self):
+    item=self.stack.pop()
+    if not item:
+      self.idx+=1
+  def push(self):
+    self.stack.push(self.chunk[self.idx])
+    self.idx+=1
+  def pop(self):
+    self.stack.pop()
+  def define(self):
+    word=self.chunk[self.idx]
+    self.idx+=1
+    definition=[]
+    while self.idx<len(self.chunk) and self.chunk[self.idx]!=".":
+      definition.append(self.chunk[self.idx])
+      self.idx+=1
+    self.idx+=1
+    if len(definition)>0:
+      self.dictionary[word]=definition
 def dprint(s, level=1):
   if debugLevel>=level:
     print(s)
@@ -278,6 +353,10 @@ class CurrentView(tkinter.Label):
   def keyEnd(self, event):
     self.pos=len(stream)-1
     self.regenerate()
+  def deleteWord(self, event):
+    global stream
+    stream.pop(self.pos)
+    self.regenerate()
   def handle_key(self, event):
     global stream
     dprint(f"got event: {event}, current pos {self.pos}, keysym {event.keysym} char {event.char}")
@@ -387,6 +466,7 @@ def begin_speaking(e):
     current.next(e)
     tk.update_idletasks()
 current.bind("<KeyRelease-F5>", begin_speaking)
+current.bind("<KeyPress-Delete>", current.deleteWord)
 
 if len(sys.argv)>1:
   importText(open(sys.argv[1], "r").read())
