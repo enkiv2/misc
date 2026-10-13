@@ -18,6 +18,7 @@ alpha="abcdefghijklmnopqrstuvwxyz"
 rainbow=["red", "orange", "brown", "limegreen", "blue", "indigo", "violet"]
 
 ## configurable
+# TODO: pull these out of a config file
 sidebarScaleFactor=6
 currentScaleFactor=3
 scrollFontSize=12
@@ -328,12 +329,6 @@ class SuggestView(tkinter.Text):
           self.tag_add("selectedSuggestion", f"{line+1}.0", f"{line+1}.end")
         self.tag_configure("selectedSuggestion", foreground="green")
     self.configure(state="disabled")
-    
-# TODO: class SuggestView
-# displays stream[current.pos-1].predictNext(n) if stream[current.pos].word==""
-# otherwise [w if(w[1].find(stream[current.pos].word)==0) for w in stream[current.pos-1].predictNext()] truncated to n
-# left and right control rotate through suggestions
-      
 
 frame = tkinter.Frame(tk, relief=RIDGE, borderwidth=2)
 frame.pack(fill=BOTH, expand=TRUE)
