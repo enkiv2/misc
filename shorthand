@@ -120,6 +120,17 @@ class DocumentView(scrolledtext.ScrolledText):
   def __init__(self, master, **kw):
     self.populated=False
     super().__init__(master, **kw)
+  def highlight_matches(self, highlights, **kw):
+    for line in range(0, int(self.index('end-1c').split('.')[0])):
+      lineValue=self.get(f"{line+1}.0", f"{line+1}.end")
+      for highlight in highlights:
+        offset=0
+        pos=lineValue[offset:].lower().find(highlight.lower())
+        while pos>=0:
+          self.tag_add("highlighted", f"{line+1}.{pos+offset}", f"{line+1}.{pos+offset+len(highlight)}")
+          offset+=pos+offset+len(highlight)
+          pos=lineValue[offset:].lower().find(highlight.lower())
+    self.tag_config("highlighted", **kw)
   def regenerate(self, highlights=None):
     print(f"regenerating stream {len(stream)}w")
     self.configure(state="normal")
@@ -129,15 +140,8 @@ class DocumentView(scrolledtext.ScrolledText):
     splitText=text.split("\n")
     for line in range(0, len(splitText)):
       self.insert(f"{line+1}.0", splitText[line]+"\n")
-      if highlights is not None:
-        for highlight in highlights:
-          offset=0
-          pos=splitText[line][offset:].lower().find(highlight.lower())
-          while pos>=0:
-            self.tag_add("highlighted", f"{line+1}.{pos+offset}", f"{line+1}.{pos+offset+len(highlight)}")
-            offset+=pos+offset+len(highlight)
-            pos=splitText[line][offset:].lower().find(highlight.lower())
-      self.tag_config("highlighted", background="green")
+    if highlights is not None:
+      self.highlight_matches(highlights, background="green")
     self.configure(state="disabled")
 
 class CurrentView(tkinter.Label):
